@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:21:08.100785+00:00",
+  "updated_at": "2026-11-14T23:03:53.032528+00:00",
   "count": 290,
   "articles": [
     {
@@ -203,14 +203,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Jensen Huang démissionne du géant de la puce Nvidia",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia",
-      "date": "Thu, 12 Nov 2026 17:02:44 -0500",
-      "description": "Le géant de la puce Nvidia a annoncé que le PDG Jensen Huang se retirait après des allégations selon lesquelles il aurait eu des affaires extraconjugales, dont une avec une femme soupçonnée d'être un espion chinois.",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
       "title": "COP31: Comment Ed Miliband a répondu Carbon Brèves questions",
       "link": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
       "date": "Thu, 12 Nov 2026 16:55:59 +0000",
@@ -379,12 +371,60 @@
       "category": "Monde"
     },
     {
+      "title": "Pourquoi votre carte SD ne vous permettra pas de transférer des fichiers de plus de 4 Go, et comment le réparer",
+      "link": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "date": "Sat, 14 Nov 2026 23:00:00 +0000",
+      "description": "Certaines cartes SD n'accepteront tout simplement pas des fichiers de plus de 4 Go, peu importe la capacité totale ou combien de stockage gratuit il y a. Mais ne vous inquiétez pas, ce n'est pas difficile à réparer.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
       "link": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
       "date": "Sat, 14 Nov 2026 22:55:17 +0100",
       "description": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et envoyer des data centers dans l’espace.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Bébé, elle est de retour ! SpaceX prend un vaisseau de l'Orbit pour la première fois",
+      "link": "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time",
+      "date": "Sat, 14 Nov 2026 22:51:08 +0000",
+      "description": "SpaceX a ramené la deuxième étape de sa fusée Starship pour une première capture en milieu d'air à sa rampe de lancement, en captant un test de vol orbital record de 22,5 heures.",
+      "source": "Universe Today",
+      "category": "Exploration"
+    },
+    {
+      "title": "Philippines remporte le premier Concours Eurovision de la chanson Asie",
+      "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 22:44:00 GMT",
+      "description": "Onze pays ont participé à la compétition de Bangkok. La chanson de danse gagnante de Carmelle Collado est un hommage aux Philippines.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Explosion près de Syrie La capitale tue père et enfant",
+      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 22:43:12 +0000",
+      "description": "Les forces de sécurité intérieure syriennes ont ouvert une enquête sur une attaque présumée à la bombe dans une banlieue de Damas.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 22:37:25 GMT",
+      "description": "Les Etats-Unis n'ont pas confirmé les commentaires du président ukrainien - un fonctionnaire américain a déclaré à la BBC \"de nombreuses idées continuent d'être discutées\".",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Cette fonctionnalité d'application Google Health sous-évaluée peut rendre le suivi des aliments moins ennuyeux",
+      "link": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+      "date": "Sat, 14 Nov 2026 22:30:00 +0000",
+      "description": "Il y a une suite de fonctionnalités avec l'application Santé de Google, mais vous avez probablement négligé la fonction intuitive de suivi des aliments qui aide à garder votre alimentation en contrôle.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
@@ -395,11 +435,35 @@
       "category": "France"
     },
     {
+      "title": "Histoires palestiniennes pour une présence majeure à 2027 Oscars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 22:28:47 +0000",
+      "description": "Al Jazeera a parlé au réalisateur et à la distribution de Who Is Still Alive, Suisse.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
+      "link": "https://www.rfi.fr/fr/france/20261114-pr%C3%A9sidentielle-en-france-teddy-riner-attire-les-foules-mais-ne-d%C3%A9voile-encore-rien-de-son-programme",
+      "date": "Sat, 14 Nov 2026 22:27:16 GMT",
+      "description": "Après les tatamis, le terrain politique. Teddy Riner poursuit ses premiers pas dans la course à l'Élysée. Le quintuple champion olympique de judo était en déplacement, samedi 14 novembre, au Salon du Made in France à Paris, passage obligé des candidats à la présidentielle. Une visite de campagne consacrée à la production française, mais marquée par une forte présence médiatique et de nombreux admirateurs du judoka, alors que le rendez-vous devait mettre à l'honneur les entreprises et les savoir-faire français.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
       "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
       "link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
       "date": "Sat, 14 Nov 2026 22:17:51 +0100",
       "description": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucksmann reculent, alors que le judoka Teddy Riner recueille 4,5 % dans l’un des scénarios testés.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Les tensions géopolitiques et la sécurité énergétique au programme du sommet de l'Asean aux Philippines",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261114-les-tensions-g%C3%A9opolitiques-et-la-s%C3%A9curit%C3%A9-%C3%A9nerg%C3%A9tique-au-programme-du-sommet-de-l-asean-aux-philippines",
+      "date": "Sat, 14 Nov 2026 22:16:21 GMT",
+      "description": "Plusieurs dirigeants mondiaux sont arrivés ce week-end du samedi 14 et du dimanche 15 novembre aux Philippines pour le sommet de l'Association des nations d'Asie du Sud-Est (Asean). Une première séance plénière est prévue dimanche, avant la poursuite des discussions jusqu'au mardi 17 novembre. Dans un contexte de fortes tensions géopolitiques, la sécurité énergétique et les rivalités entre grandes puissances figurent parmi les principaux enjeux de cette édition 2026.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -438,7 +502,7 @@
       "title": "Ronaldo-less Portugal a battu 4-1 par le Danemark dans la Société des Nations",
       "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
       "date": "Sat, 14 Nov 2026 22:00:45 +0000",
-      "description": "Rasmus Hojlund joue avec l'accessoire tandis que le Danemark se rapproche sur une place en quart de finale de la Ligue des Nations.",
+      "description": "Rasmus Hojlund joue avec l'accessoire tandis que le Danemark se rapproche en quart de finale de la Ligue des Nations.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -502,7 +566,7 @@
       "title": "SpaceX effectue la première capture de vaisseaux spatiaux",
       "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 21:35:00 GMT",
-      "description": "La récupération réussie du vaisseau spatial SpaceX marque la première récupération d'un vaisseau spatial.",
+      "description": "La récupération réussie du vaisseau spatial SpaceX marque une percée dans l'objectif du fondateur Elon Musk.",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
@@ -547,14 +611,6 @@
       "category": "France"
     },
     {
-      "title": "Pourquoi certains ports USB sont jaunes (et moins communs que d'autres)",
-      "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
-      "date": "Sat, 14 Nov 2026 21:15:00 +0000",
-      "description": "Chaque couleur de port USB ne signifie pas ce que vous pensez. Apprenez pourquoi les ports jaunes sont si rares et que vérifier avant de brancher quelque chose d'important.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "\"Quand j'ai tout payé, il ne me reste plus grand chose\" : pour le cinquième samedi de mobilisation contre la vie chère, des manifestants toujours déterminés",
       "link": "https://www.franceinfo.fr/societe/manifestations/cinquieme-samedi-de-mobilisation-contre-la-vie-chere-des-manifestants-toujours-determines_8282834.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 14 Nov 2026 21:10:34 +0100",
@@ -595,14 +651,6 @@
       "category": "Économie"
     },
     {
-      "title": "Comment effacer le cache sur votre Samsung TV",
-      "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
-      "date": "Sat, 14 Nov 2026 21:00:00 +0000",
-      "description": "Le cache de votre téléviseur est une collection de fichiers temporaires, dont vous n'avez plus besoin. Voilà pourquoi vous pourriez vouloir les effacer – et comment.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Le Soudan du Sud repousse les élections dans un contexte de flambées violentes",
       "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 20:53:00 GMT",
@@ -627,14 +675,6 @@
       "category": "France"
     },
     {
-      "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 20:41:45 GMT",
-      "description": "Les Etats-Unis n'ont pas confirmé les commentaires du président ukrainien qui ont suivi les rencontres que les envoyés américains ont eu avec lui et Vladimir Poutine de Russie.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
       "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
       "date": "Sat, 14 Nov 2026 20:33:34 +0100",
@@ -647,14 +687,6 @@
       "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 20:33:00 GMT",
       "description": "Les transporteurs aériens aux États-Unis ont annulé quelque 16 000 vols au cours des 24 dernières heures dans le plus grand de ces vols depuis le 11 septembre. Les fonctionnaires ont laissé entendre que l'incompétence ou l'équipement défectueux, et non la malfaisance, en sont la cause.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Contrôle des faits: les exploitations à contenu iraniens atteignent des millions",
-      "link": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 20:26:00 GMT",
-      "description": "Plusieurs comptes de médias sociaux prétendant représenter l'armée iranienne montrent des signes d'appartenance à des fermes dites de contenu. DW Fact Check examine comment ils fonctionnent et comment les utilisateurs peuvent les repérer.",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
@@ -699,28 +731,12 @@
       "category": "France"
     },
     {
-      "title": "Peut-on vous coûter votre maison au Danemark?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 19:52:49 +0000",
-      "description": "La Cour suprême du Danemark doit décider si les familles peuvent être contraintes de quitter leur foyer en vertu d'une loi.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "«Volonté de lynchage», caméra brisée et volée… Une équipe de BFMTV violemment agressée en marge de la manifestation à Lyon",
       "link": "https://www.lefigaro.fr/actualite-france/volonte-de-lynchage-camera-brisee-et-volee-une-equipe-de-bfmtv-violemment-agressee-en-marge-de-la-manifestation-a-lyon-20261114",
       "date": "Sat, 14 Nov 2026 19:48:31 +0100",
       "description": "Une équipe de BFMTV a été prise à partie par des individus samedi 14 novembre, en marge de l’acte V, à Lyon. Le préfet a fermement condamné l’agression tandis que le ministère de l’Intérieur a indiqué qu’«au moins un auteur présumé» avait été interpellé.",
       "source": "Le Figaro",
       "category": "France"
-    },
-    {
-      "title": "Une bombe mortelle tue deux personnes près de la capitale syrienne",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 19:46:36 +0000",
-      "description": "Au moins deux personnes, un homme et une fille, ont été tuées dans une explosion de voiture piégée à Jaramana, près de Damas, la capitale syrienne.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "« Se concentrer sur Londres : comment les agents iraniens ont attaqué des cibles européennes",
@@ -843,14 +859,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Turquie: création du Yeni Parti, nouvelle force d'opposition menée par Özgür Özel",
-      "link": "https://www.rfi.fr/fr/europe/20261114-turquie-cr%C3%A9ation-du-yeni-parti-nouvelle-force-d-opposition-men%C3%A9e-par-%C3%B6zg%C3%BCr-%C3%B6zel",
-      "date": "Sat, 14 Nov 2026 17:46:32 GMT",
-      "description": "L'opposant turc Özgür Özel a été élu, samedi 14 novembre, à la tête du Yeni Parti (« Nouveau Parti » en français), au cours d'un congrès organisé à Ankara. Özgür Özel avait fondé en juillet cette formation, qui s'est imposée depuis comme le premier parti d'opposition au président Recep Tayyip Erdogan. Ce congrès est une nouvelle étape dans la recomposition de l'opposition en Turquie avec, en ligne de mire, les élections présidentielle et législatives du printemps 2028.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Le conseil d'administration de Nvidia a demandé à deux grands investisseurs d'envisager le « retour potentiel de Jensen Huang »",
       "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
       "date": "Sat, 14 Nov 2026 17:46:06 GMT",
@@ -889,6 +897,22 @@
       "description": "Le cortège parisien République-Nation a réuni ce samedi 14 novembre entre 24 000, selon le ministère de l’Intérieur, et 100 000 manifestants, selon l’intersyndicale jeune.",
       "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Département du commerce sous pression pour retarder les contrôles à l'exportation des puces Nvidia",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
+      "date": "Sat, 14 Nov 2026 17:21:07 -0500",
+      "description": "Le Département du commerce des États-Unis étudie actuellement la possibilité d'autoriser les entreprises chinoises à manipuler des puces Nvidia, en dépit des préoccupations de sécurité nationale des responsables du Cabinet et des services de renseignement américains.",
+      "source": "NPR",
+      "category": "Économie"
+    },
+    {
+      "title": "Les États-Unis ont perdu le statut d'élimination de la rougeole, disent les autorités sanitaires mondiales",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+      "date": "Sat, 14 Nov 2026 17:15:02 -0500",
+      "description": "Les États-Unis ont perdu leur statut de pays où la rougeole est éliminée, selon des chercheurs ayant une connaissance directe des délibérations de l'Organisation panaméricaine de la santé.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "«La Caserne» de John McGahern, une femme tuée à la tâche",
@@ -1073,14 +1097,6 @@
       "description": "Le président Volodymyr Zelensky a déclaré que le système, utilisé par l'Ukraine pour guider les drones, était en train d'être écrasé sur le territoire occupé par la Russie. SpaceX, son développeur, a rejeté la réclamation.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Ukraine: Washington aurait proposé des concessions territoriales en échange d'une adhésion du pays à l'Otan",
-      "link": "https://www.rfi.fr/fr/europe/20261114-ukraine-washington-aurait-propos%C3%A9-des-concessions-territoriales-en-%C3%A9change-d-une-adh%C3%A9sion-du-pays-%C3%A0-l-otan",
-      "date": "Sat, 14 Nov 2026 13:43:41 GMT",
-      "description": "Les États-Unis ont, pour la première fois, demandé à l'Ukraine de céder des territoires en échange de son adhésion à l'Otan, a déclaré Volodymyr Zelensky dans des propos diffusés samedi 14 novembre, ajoutant que Moscou avait rejeté une trêve énergétique lors des discussions d'Abou Dhabi. Une éventualité qui soulève de nombreuses interrogations, tant sur les intentions américaines que sur la possibilité de voir la Russie accepter un tel compromis.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Les États-Unis ont demandé si l'Ukraine renoncerait à certaines parties de Donbas pour devenir membre de l'OTAN, dit Zelenskyy",
@@ -1304,14 +1320,6 @@
       "date": "Sat, 14 Nov 2026 08:12:00 +0000",
       "description": "Le gardien d'Andorre Jésus Owono a été suspendu pour 12 matchs après une collision sur le terrain qui a entraîné la mort de l'attaquant de Tenerife Jésus de Miguel.",
       "source": "Sky News",
-      "category": "Monde"
-    },
-    {
-      "title": "Les électeurs de l'Alaska n'abandonnent pas le vote classé, les quatre premiers",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-      "date": "Sat, 14 Nov 2026 08:08:05 -0500",
-      "description": "C'est la deuxième fois que les Alaskaiens rejettent un effort visant à abroger le système électoral unique de l'État, que les électeurs ont approuvé pour la première fois en 2020. Un effort d'abrogation en 2024 a également échoué de façon étroite.",
-      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -1841,14 +1849,6 @@
       "description": "Ce n'est que la troisième fois dans l'histoire qu'un tel ordre a été donné par la FAA. Le post FAA Orders Ground Stop For All Flights Across The U.S. (Mise à jour) est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "Mécanismes de promotion des clusters Galaxy denses Cette formation d'étoiles en difficulté",
-      "link": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
-      "date": "Fri, 13 Nov 2026 17:51:07 +0000",
-      "description": "Le Noon cosmique était quand l'ère stellifère de l'Univers a commencé, et la formation des étoiles était prodigieuse pendant cette époque. Mais depuis, la formation d'étoiles s'est ralentie à un rythme relatif, malgré le fait que nous pouvons les voir se former dans les régions de la Voie lactée. Qu'est-il arrivé au gaz d'hydrogène qui forme les étoiles ? De nouvelles recherches ont trouvé des indices dans une galaxie particulièrement dense.",
-      "source": "Universe Today",
-      "category": "Exploration"
     },
     {
       "title": "Les ventes à domicile ont atteint 16 ans de bas en octobre, alors que les taux hypothécaires montent",
