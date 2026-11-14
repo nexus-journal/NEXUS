@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T17:11:34.312509+00:00",
-  "count": 289,
+  "updated_at": "2026-11-14T17:47:21.721671+00:00",
+  "count": 290,
   "articles": [
     {
       "title": "Que savoir de cette année?",
@@ -379,18 +379,42 @@
       "category": "Monde"
     },
     {
+      "title": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ?",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 18:38:22 +0100",
+      "description": "Selon la présidence américaine, les dirigeants de la Chine, de la Russie et des Etats-Unis se retrouveront à Shenzhen. Au-delà du symbole, les experts ne s'attendent pas à des annonces importantes.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "«Volonté de lynchage», caméra brisée et volée… Une équipe de BFMTV violemment agressée en marge de la manifestation à Lyon",
+      "link": "https://www.lefigaro.fr/actualite-france/volonte-de-lynchage-camera-brisee-et-volee-une-equipe-de-bfmtv-violemment-agressee-en-marge-de-la-manifestation-a-lyon-20261114",
+      "date": "Sat, 14 Nov 2026 18:33:31 +0100",
+      "description": "Une équipe de BFMTV, composée de deux journalistes et de deux agents de sécurité, a été violemment prise à partie par des manifestants samedi 14 novembre, en marge de l’acte V. Le préfet a fermement condamné l’agression.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle : Gérard Larcher propose aux candidats de droite et du centre de se rencontrer pour trancher sur «une méthode de départage»",
+      "link": "https://www.lefigaro.fr/flash-actu/presidentielle-gerard-larcher-propose-aux-candidats-de-droite-et-du-centre-de-se-rencontrer-pour-trancher-sur-une-methode-de-departage-20261114",
+      "date": "Sat, 14 Nov 2026 18:29:33 +0100",
+      "description": "Édouard Philippe, le mieux placé dans les sondages, s’est jusque-là opposé à l’idée d’une primaire.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, selon le ministère de l’Intérieur, des tensions en fin de cortèges à Paris, Lyon, Bordeaux et Nantes",
       "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-      "date": "Sat, 14 Nov 2026 18:07:03 +0100",
+      "date": "Sat, 14 Nov 2026 18:27:03 +0100",
       "description": "Protection des enfants et adolescents, opposition au «permis de tuer», salaires, moyens pour l’enseignement : différentes manifestations se tiennent samedi en France et convergent dans un seul cortège à Paris, pour l’acte V du mouvement contre la vie chère.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "Présidentielle 2027 : \"Je ne suis pas un macroniste\", affirme Teddy Riner, qui qualifie les félicitations du président à sa candidature de \"baiser empoisonné\"",
+      "title": "Présidentielle 2027 : Gérard Larcher veut réunir les candidats de droite et du centre pour arrêter \"une méthode de départage\" vers une candidature unique",
       "link": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 18:04:47 +0100",
-      "description": "Le candidat est en visite au salon du Made in France à Paris samedi.",
+      "date": "Sat, 14 Nov 2026 18:17:03 +0100",
+      "description": "Le président du Sénat veut ainsi rassembler à la même table Bruno Retailleau, David Lisnard, Gabriel Attal et Edouard Philippe.",
       "source": "franceinfo",
       "category": "France"
     },
@@ -401,6 +425,30 @@
       "description": "A Paris, la manifestation s'est déroulée \"sans incident\", selon la préfecture de police.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Le conseil d'administration de Nvidia a demandé à deux grands investisseurs d'envisager le « retour potentiel de Jensen Huang »",
+      "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "date": "Sat, 14 Nov 2026 17:46:06 GMT",
+      "description": "Deux investisseurs de Nvidia avec environ 2,13 milliards de dollars d'actions divulguées au 30 juin appellent à une recherche délibérée de leadership après la démission de Huang.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le secrétaire aux transports blâme la modernisation de l'équipement pour les vols d'échouement à l'échelle nationale",
+      "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "date": "Sat, 14 Nov 2026 17:45:04 +0000",
+      "description": "Bryan Bedford, administrateur de la FAA, a également dit qu'il n'y avait aucune preuve de tout ce qui est lié à l'IA.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Vérifier la santé de votre Apple Watch est plus facile que vous le pensez",
+      "link": "https://www.engadget.com/2311851/how-to-check-apple-watch-battery-health/",
+      "date": "Sat, 14 Nov 2026 17:45:00 +0000",
+      "description": "La durée de vie de la batterie de l'Apple Watch est sans aucun doute impressionnante, mais vous aurez besoin de garder un œil sur la santé de la batterie pour qu'elle fonctionne au mieux.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "À Saint-Denis, la majorité de Bally Bagayoko supprime la baisse des primes des agents en arrêt maladie",
@@ -422,25 +470,81 @@
       "title": "Le Pays de Galles signe un exploit en rugby, en battant la Nouvelle-Zélande pour la première fois depuis 1953",
       "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-pays-de-galles-signe-un-exploit-en-rugby-en-battant-la-nouvelle-zelande-pour-la-premiere-fois-depuis-1953_6810451_3242.html",
       "date": "Sat, 14 Nov 2026 17:39:10 +0100",
-      "description": "Le XV du Poireau s’est imposé 35-28 face aux All Blacks, samedi à Cardiff, dans le cadre de la cinquième journée du championnat des nations, grâce à cinq essais marqués et une défense acharnée en fin de match.",
+      "description": "Le XV du Poireau s’est imposé 35-28 face aux All Blacks, samedi à Cardiff, dans le cadre de la cinquième journée du Championnat des nations, grâce à cinq essais marqués et une défense acharnée en fin de match.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Les passagers font face à des perturbations généralisées après une panne de contrôle du trafic aérien aux États-Unis",
+      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+      "date": "Sat, 14 Nov 2026 17:36:00 GMT",
+      "description": "Des milliers de vols retardés ou annulés à mesure que la faute politique monte",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Le cimetière de l'IA : une liste de projets et startups en cours qui n'ont pas réussi",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "date": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "description": "De Apple a retardé à plusieurs reprises Siri AI au lancement d'OpenAI \"super application\", voici un aperçu des projets d'IA qui ont arrêté ou manqué les attentes.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Samsung peut se débarrasser d'une autre fonction Un UI",
+      "link": "https://www.engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature/",
+      "date": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "description": "Samsung a arrêté Samsung Messages en faveur de Google Messages aux États-Unis, et il ressemble à une autre fonctionnalité d'interface utilisateur peut subir le même sort.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
       "link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
       "date": "Sat, 14 Nov 2026 17:29:53 +0100",
-      "description": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes. A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est arrivé, en majeure partie, place de la Nation, peu avant 17 heures.",
+      "description": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre, pour la protection des enfants ou encore des moyens suuplémentaires dans l’éducation.",
       "source": "Le Monde",
       "category": "France"
     },
     {
-      "title": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
-      "link": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 17:20:21 +0100",
-      "description": "Les avions ont été cloués au sol pendant plusieurs heures vendredi. La faute, selon les autorités, à un système de communication vétuste, qui utilise encore des disquettes pour des informations cruciales.",
-      "source": "franceinfo",
+      "title": "Un «choc général» Est-ce qu'il alimente l'Europe ?",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "date": "Sat, 14 Nov 2026 17:26:50 +0000",
+      "description": "Comme les retraités vivent plus longtemps, les gouvernements doivent dépenser davantage en pensions. Cela rend plus difficile le financement d'autres services, stimulant des manifestations comme celles en France.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Samedi de convergence des luttes pour cet acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
+      "link": "https://www.liberation.fr/societe/manifestations-de-30-000-a-60-000-personnes-attendues-a-paris-20261114_UKPYNHRL4ZBIRBAHICK64N2FDM/",
+      "date": "Sat, 14 Nov 2026 17:21:24 +0000",
+      "description": "Le cortège parisien République-Nation a réuni ce samedi 14 novembre entre 24 000, selon le ministère de l’Intérieur, et 100 000 manifestants, selon l’intersyndicale jeune.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "COP31: Des manifestants, l'ONU exhorte à un accord climatique rapide",
+      "link": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 17:19:00 GMT",
+      "description": "Le chef du climat de l'ONU a mis en garde contre les « retards tactiques » des négociations de la COP31 sur le climat en Turquie, qui pourraient empêcher un accord visant à ralentir le réchauffement climatique.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "La mise à niveau du fil de cuivre a causé la suspension des vols à l'échelle nationale, dit le secrétaire des transports américains",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 17:16:36 GMT",
+      "description": "Le gouvernement américain essaie de savoir si le chaos a été causé par « l'incompétence » ou un équipement défectueux.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Est-ce que 1 To assez de stockage pour votre Xbox Series X? Voici ce que les joueurs devraient savoir",
+      "link": "https://www.engadget.com/2311827/1tb-storage-xbox-series-x-enough/",
+      "date": "Sat, 14 Nov 2026 17:15:00 +0000",
+      "description": "Avec les jeux prenant de plus en plus d'espace précieux sur les consoles, nous examinons si aller pour le stockage supplémentaire sur la Xbox Series X en vaut vraiment la peine.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "«La Caserne» de John McGahern, une femme tuée à la tâche",
@@ -457,14 +561,6 @@
       "description": "Vous penseriez que les joueurs dirigeraient toujours les plus récents et les plus grands GPU de leurs plates-formes, mais la RTX 3060 de NVIDIA prouve que ce n'est pas tout à fait le cas.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Samedi de convergence des luttes pour cet acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
-      "link": "https://www.liberation.fr/societe/manifestations-de-30-000-a-60-000-personnes-attendues-a-paris-20261114_UKPYNHRL4ZBIRBAHICK64N2FDM/",
-      "date": "Sat, 14 Nov 2026 16:55:13 +0000",
-      "description": "Le cortège parisien République-Nation a réuni ce samedi 14 novembre entre 24 000, selon le ministère de l’Intérieur, et 100 000 manifestants, selon l’intersyndicale jeune.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Les États-Unis ont suggéré que l'Ukraine cède des parties de Donbas à la Russie pour devenir partie de l'OTAN",
@@ -515,14 +611,6 @@
       "category": "Technologie"
     },
     {
-      "title": "\"La voix des citoyens ne doit pas être ignorée\" : à Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-voix-des-citoyens-ne-doit-pas-etre-ignoree-a-antalya-des-milliers-de-manifestants-denoncent-une-cop-sourde-aux-populations_8282576.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 16:43:04 +0100",
-      "description": "Plus de 7 000 personnes venues de toute la Turquie et de différents pays ont marché sous la pluie dans le centre ville d'Antalya, selon une estimation de la police.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Lead Columbia - classe SSBN Claws Retour du risque de retard",
       "link": "https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/",
       "date": "Sat, 14 Nov 2026 16:39:23 +0000",
@@ -547,18 +635,10 @@
       "category": "France"
     },
     {
-      "title": "Voici combien coûte Apple AirPods en 2016 vs. 2026",
-      "link": "https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost/",
-      "date": "Sat, 14 Nov 2026 16:30:00 +0000",
-      "description": "Introduit pour la première fois en 2016, AirPods s'est amélioré en qualité, offrant de nouvelles fonctionnalités, mais en quoi cela a-t-il eu une incidence sur le coût pour le consommateur aujourd'hui?",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Italie amendes Meta €805m sur l'accès aux photos des utilisateurs",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 16:29:48 GMT",
-      "description": "Le géant des médias sociaux est accusé de ne pas avoir informé environ 20 millions d'utilisateurs qu'il avait accès à leurs photos.",
+      "description": "Le géant des médias sociaux est accusé de ne pas avoir informé 20 millions d'utilisateurs qu'il avait accès à leurs photos.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -587,14 +667,6 @@
       "category": "Monde"
     },
     {
-      "title": "Qu'est-il arrivé aux téléphones Sony Xperia ?",
-      "link": "https://www.engadget.com/2311608/sony-xperia-phones-what-happened/",
-      "date": "Sat, 14 Nov 2026 16:15:00 +0000",
-      "description": "Sony semble avoir sa main dans pratiquement chaque offre d'appareils, mais les vrais fans savent qu'une ligne de produits en particulier a disparu du marché américain.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "La frappe aérienne du Myanmar tue 12 personnes dans un camp de déplacés dans l'État de Rakhine",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
       "date": "Sat, 14 Nov 2026 16:13:43 +0000",
@@ -603,12 +675,12 @@
       "category": "Monde"
     },
     {
-      "title": "Ce que signifie le cercle \"Z\" sur Google Maps",
-      "link": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
-      "date": "Sat, 14 Nov 2026 16:00:00 +0000",
-      "description": "Si vous avez vu une capitale en cercle Z sur votre route Google Maps, vous devriez savoir ce que cela signifie. Ça pourrait vous sauver d'un billet.",
-      "source": "Engadget",
-      "category": "Technologie"
+      "title": "L'Union européenne exhorte Israël à permettre l'accès \"immédiat\" et \"sans entrave\" de l'aide humanitaire à Gaza, touchée par de fortes intempéries",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-union-europeenne-exhorte-israel-a-permettre-l-acces-immediat-et-sans-entrave-de-l-aide-humanitaire-a-gaza_8282525.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 16:08:00 +0100",
+      "description": "Depuis une semaine, des intempéries ont entraîné l'inondation de dizaines de milliers de tentes de personnes déplacées.",
+      "source": "franceinfo",
+      "category": "France"
     },
     {
       "title": "Les bains de glace aident-ils les muscles à récupérer après un entraînement? Une nouvelle étude suggère de ne pas",
@@ -617,14 +689,6 @@
       "description": "\"Il n'est pas clair que les bains de glace sont vraiment le meilleur moyen de récupérer après l'exercice\"",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "«Je ne suis pas un macroniste» : Teddy Riner qualifie les félicitations du président à sa candidature de «baiser empoisonné»",
-      "link": "https://www.lefigaro.fr/politique/je-ne-suis-pas-un-macroniste-teddy-riner-qualifie-les-felicitations-de-macron-a-sa-candidature-de-baiser-empoisonne-20261114",
-      "date": "Sat, 14 Nov 2026 15:58:27 +0100",
-      "description": "Lors d’une visite samedi au salon du Made in France, Teddy Riner a estimé que les félicitations d’Emmanuel Macron à sa candidature étaient un «baiser empoisonné»",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "L'UE appelle à un accès humanitaire immédiat à Gaza",
@@ -816,15 +880,7 @@
       "date": "Sat, 14 Nov 2026 14:18:41 GMT",
       "description": "La tentative suit un effort infructueux pour attraper le booster de fusées qui est tombé à la place dans l'océan.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Berkshire s'impose comme un record avec un rallye du quatrième trimestre atteignant 19%",
-      "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-      "date": "Sat, 14 Nov 2026 14:02:39 GMT",
-      "description": "Les actions rouges de Berkshire Hathaway terminent une semaine forte avec quatre fermetures records consécutives.",
-      "source": "CNBC",
-      "category": "Économie"
+      "category": "Sciences"
     },
     {
       "title": "Les étudiants autochtones retracent Lewis et Clark dans leur voyage historique: «Nous ne pouvons pas protéger ce que nous ne pouvons pas voir»",
@@ -865,14 +921,6 @@
       "description": "Le Goncourt, le Renaudot, le Femina et le Médicis ont couronné, en 2026, des auteurs de Madrigall, la maison mère de Gallimard, ce qui irrite les éditeurs concurrents, qui critiquent la composition des jurys.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Les passagers font face à des perturbations généralisées après une panne de contrôle du trafic aérien aux États-Unis",
-      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-      "date": "Sat, 14 Nov 2026 13:52:46 GMT",
-      "description": "Des milliers de vols devant être retardés ou annulés pendant le week-end",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "Ukraine: Washington aurait proposé des concessions territoriales en échange d'une adhésion du pays à l'Otan",
@@ -1123,14 +1171,6 @@
       "category": "Monde"
     },
     {
-      "title": "Hongrie: Des millions de cash cachés trouvés dans la sonde de greffe Orban",
-      "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 09:19:00 GMT",
-      "description": "Les enquêteurs ont découvert des paquets de billets enterrés dans des forêts et cachés dans des bâtiments. L'argent a été saisi au cours d'une enquête sur un ancien ministre accusé d'accepter des millions de pots-de-vin.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Le groupe naval dévoile SCX 26 'Flotte hybride' Drone Mothership Concept",
       "link": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub/",
       "date": "Sat, 14 Nov 2026 08:57:28 +0000",
@@ -1144,14 +1184,6 @@
       "date": "Sat, 14 Nov 2026 08:32:56 GMT",
       "description": "Protection des enfants et adolescents, opposition au « permis de tuer », salaires, moyens pour l'enseignement : différentes manifestations vont se tenir samedi 14 novembre en France et converger dans un seul cortège à Paris, pour l'« acte V » du mouvement contre la vie chère. Parti de la colère des lycéens français, ce mouvement s'est élargi, avec des défilés prévus dans toute la France pour le cinquième samedi consécutif.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "« La gloire ne fait pas l’élection » : Coluche, Bigard, Hulot… Avant Teddy Riner, le difficile passage de la célébrité à la course à l’Élysée",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/la-gloire-ne-fait-pas-l-election-coluche-bigard-hulot-avant-teddy-riner-le-difficile-passage-de-la-celebrite-a-la-course-a-l-elysee-20261114",
-      "date": "Sat, 14 Nov 2026 08:30:00 +0100",
-      "description": "GRAND RÉCIT - À peine le quintuple champion olympique de judo était-il entré, lundi, dans la course présidentielle que ses ambitions rappelaient celles d’autres personnalités étrangères au sérail politique, dont aucune n’a atteint la ligne de départ.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1281,14 +1313,6 @@
       "description": "Le candidat du PS et de Place publique a toujours critiqué le bilan d’Emmamuel Macron. Mais quelques anciens fidèles du président de la République l’ont rejoint, ce qui donne des arguments aux « insoumis » pour le critiquer. Du côté de l’aile gauche du camp présidentiel, sa candidature intéresse, autant qu’elle laisse dubitatif.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Un «choc général» Est-ce qu'il alimente l'Europe ?",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "date": "Sat, 14 Nov 2026 05:01:07 +0000",
-      "description": "Comme les retraités vivent plus longtemps, les gouvernements doivent dépenser davantage en pensions. Cela rend plus difficile le financement d'autres services, provoquant des manifestations comme celles prévues ce week-end en France.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Deux affaires de célébrité mettent en lumière les décisions de Gag",
@@ -1659,14 +1683,6 @@
       "category": "Monde"
     },
     {
-      "title": "Cette jeune start-up veut alimenter des centres de données flottants avec la chaleur de l'océan, et les investisseurs sont déjà à bord",
-      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "date": "Fri, 13 Nov 2026 20:07:24 +0000",
-      "description": "La drogue récolte de la chaleur de l'océan aux centres de données électriques sur les navires flottants. Le premier prototype devrait sauter autour de l'océan, des morceaux croquants, en moins de deux ans.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "B-21 Raider effectue les essais de libération des premières armes",
       "link": "https://www.airandspaceforces.com/b-21-raider-first-weapons-release-test/",
       "date": "Fri, 13 Nov 2026 20:00:40 +0000",
@@ -1688,14 +1704,6 @@
       "date": "Fri, 13 Nov 2026 19:51:28 GMT",
       "description": "Le secrétaire américain au commerce fait face à des questions qui surgissent sur de hauts responsables Trump. Le secrétaire américain au commerce, Howard Lutnick, fait face à une pression croissante sur son apparente absence d'action contre le scandale d'espionnage de Nvidia, alors que d'autres responsables de l'administration Trump soulèvent publiquement des questions sur ses décisions. Scott Bessent, le secrétaire au Trésor américain, a blâmé Lutnick.",
       "source": "The Guardian",
-      "category": "Technologie"
-    },
-    {
-      "title": "L'agent d'IA startup LangChain obtient une évaluation de 3 milliards de dollars",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "date": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "description": "LangChain réclame désormais 7 000 clients de son outil de gestion d'agents agnostiques de modèle et de plateforme LangSmith.",
-      "source": "TechCrunch",
       "category": "Technologie"
     },
     {
@@ -1729,6 +1737,14 @@
       "description": "Les hivers El Niño entraînent généralement plus de pluie dans le sud des États-Unis et des conditions plus sèches et plus chaudes plus au nord, mais les impacts sur les chutes de neige sont complexes.",
       "source": "BBC News",
       "category": "Sciences"
+    },
+    {
+      "title": "Présidentielle 2027 : Les Républicains pris dans la toile d’araignée de l’antimacronisme",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-republicains-pris-dans-la-toile-d-araignee-de-l-antimacronisme-20261113",
+      "date": "Fri, 13 Nov 2026 18:45:00 +0100",
+      "description": "ANALYSE - Soupçonnée de s’être diluée dans le « en même temps », la droite doit maintenant démontrer qu’elle peut être une alternative crédible afin de pouvoir se replacer dans la course pour l’Élysée.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "US Air Force adopte une nouvelle conception de la Force axée sur les capteurs et l'autonomie",
@@ -1857,14 +1873,6 @@
       "description": "Les horloges quantiques reposent généralement sur des lasers avancés et des atomes isolés dans le laboratoire, mais une nouvelle expérience a montré que la même conception d'horloge peut fonctionner avec la lumière du soleil à la place",
       "source": "New Scientist",
       "category": "Sciences"
-    },
-    {
-      "title": "Manifestation le samedi : l’État va autoriser de nouveaux commerces parisiens à ouvrir le dimanche",
-      "link": "https://www.lefigaro.fr/societes/manifestation-le-samedi-l-etat-va-autoriser-de-nouveaux-commerces-parisiens-a-ouvrir-le-dimanche-20261113",
-      "date": "Fri, 13 Nov 2026 16:55:13 +0100",
-      "description": "Les commerces parisiens de maroquinerie, d’articles de voyage et d’habillement pourront bénéficier de cette disposition, a annoncé la préfecture, vendredi.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Des explosions d'une étoile massive",
