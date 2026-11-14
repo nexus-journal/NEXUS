@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:07:53.246460+00:00",
+  "updated_at": "2026-11-14T21:48:25.928335+00:00",
   "count": 289,
   "articles": [
     {
@@ -379,11 +379,91 @@
       "category": "Monde"
     },
     {
+      "title": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
+      "date": "Sat, 14 Nov 2026 22:29:52 +0100",
+      "description": "Maileva est une plateforme spécialisée dans l’envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire. Les données exposées sont le prénom, le nom et l’adresse postale des personnes concernées.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
+      "date": "Sat, 14 Nov 2026 22:17:51 +0100",
+      "description": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucksmann reculent, alors que le judoka Teddy Riner recueille 4,5 % dans l’un des scénarios testés.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
       "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
       "date": "Sat, 14 Nov 2026 21:49:39 +0100",
       "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Voici quand une carte graphique dédiée en vaut la peine",
+      "link": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
+      "date": "Sat, 14 Nov 2026 21:45:00 +0000",
+      "description": "Les iGPU modernes sont étonnamment capables, mais ils ne sont pas sans limites.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
+      "link": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
+      "date": "Sat, 14 Nov 2026 21:43:20 GMT",
+      "description": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, ont respectivement annoncé le ministère de l'Intérieur et l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Elon Musk, d'autres experts techniques signent une pétition demandant à Nvidia de rétablir Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "date": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "description": "La pétition avait attiré plus de 115 000 signatures à partir de samedi après-midi.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
+      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "date": "Sat, 14 Nov 2026 21:40:27 GMT",
+      "description": "Le Starship Test Flight 15 marque la première fois que la compagnie d'Elon Musk a essayé d'attraper le booster et l'étage supérieur de la fusée.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Les vols américains reprennent après le vieillissement de la technologie accusé de panne",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 21:36:19 +0000",
+      "description": "Les vols américains reprennent après le vieillissement de la technologie accusé de panne",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "SpaceX effectue la première capture de vaisseaux spatiaux",
+      "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 21:35:00 GMT",
+      "description": "La récupération réussie du vaisseau spatial SpaceX marque la première récupération d'un vaisseau spatial.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Les raisons pour lesquelles votre barre son TV a un retard audio",
+      "link": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
+      "date": "Sat, 14 Nov 2026 21:30:00 +0000",
+      "description": "Les retards audio sont vraiment irritants, surtout quand on regarde les sports et les événements en direct. Nous avons plusieurs causes possibles et ce que vous pouvez faire à leur sujet.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Israël: le bras de fer Eisenkot-Netanyahu se poursuit, la formation d'un gouvernement piétine",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261114-isra%C3%ABl-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-gouvernement-pi%C3%A9tine",
+      "date": "Sat, 14 Nov 2026 21:22:27 GMT",
+      "description": "En Israël, la formation du prochain gouvernement tourne au duel. Alors que Gadi Eisenkot détient depuis une semaine le mandat pour bâtir une coalition, Benyamin Netanyahu multiplie les appels à une union nationale face à une menace iranienne. Mais Gadi Eisenkot, lui, dénonce une manœuvre politique. Une rencontre entre les équipes des deux partis doit se tenir ce dimanche 15 novembre.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -395,11 +475,11 @@
       "category": "France"
     },
     {
-      "title": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
-      "date": "Sat, 14 Nov 2026 21:17:34 +0100",
-      "description": "Maileva est une plateforme spécialisée dans l’envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire. D’après plusieurs sites spécialisés, il s’agirait de «l’une des plus importantes fuites de données en France».",
-      "source": "Le Figaro",
+      "title": "Éliminatoires CAN 2027: l'Algérie se fait peur mais l'emporte contre le Togo",
+      "link": "https://www.rfi.fr/fr/afrique-foot/20261114-%C3%A9liminatoires-can-2027-l-alg%C3%A9rie-se-fait-peur-mais-l-emporte-contre-le-togo",
+      "date": "Sat, 14 Nov 2026 21:18:06 GMT",
+      "description": "L'Algérie s'est fait peur en fin de match mais a fini par l'emporter 1-0 contre le Togo ce samedi 14 novembre. Les Fennecs ont d'abord dominé avant de perdre le fil de la partie, sans conséquence. Ils prennent ainsi les commandes du groupe I des éliminatoires de la CAN.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -411,12 +491,36 @@
       "category": "France"
     },
     {
+      "title": "Pourquoi certains ports USB sont jaunes (et moins communs que d'autres)",
+      "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
+      "date": "Sat, 14 Nov 2026 21:15:00 +0000",
+      "description": "Chaque couleur de port USB ne signifie pas ce que vous pensez. Apprenez pourquoi les ports jaunes sont si rares et que vérifier avant de brancher quelque chose d'important.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "\"Quand j'ai tout payé, il ne me reste plus grand chose\" : pour le cinquième samedi de mobilisation contre la vie chère, des manifestants toujours déterminés",
       "link": "https://www.franceinfo.fr/societe/manifestations/cinquieme-samedi-de-mobilisation-contre-la-vie-chere-des-manifestants-toujours-determines_8282834.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 14 Nov 2026 21:10:34 +0100",
       "description": "Des milliers de personnes ont manifesté en France contre la vie chère et pour défendre le pouvoir d'achat.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "L'envoyé américain Kushner dit qu'il vise à négocier les pourparlers Europe-Russie sur l'Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 21:10:26 +0000",
+      "description": "L'engagement direct de l'Europe avec Moscou dans le cadre des pourparlers de paix Ukraine-Russie se rapproche de la réalité.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Budget de l'Allemagne en 2027 : un record de 561 milliards d'euros et une montagne de dettes",
+      "link": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 21:09:00 GMT",
+      "description": "Le projet de budget fédéral de 2027 a finalement été mis au point et est prévu pour un vote au Parlement. Quelles sont les priorités politiques du gouvernement en matière de défense, d'infrastructure, d'économie et de dépenses sociales?",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Deuxième tentative de capture lorsque la fusée SpaceX Starship retourne sur Terre",
@@ -435,12 +539,12 @@
       "category": "Monde"
     },
     {
-      "title": "Censure soviétique et « littérature destructrice » : à Moscou, plongée dans l’« enfer » des livres interdits par la Russie d’hier et d’aujourd’hui",
-      "link": "https://www.lefigaro.fr/international/censure-sovietique-et-litterature-destructrice-a-moscou-plongee-dans-l-enfer-des-livres-interdits-par-la-russie-d-hier-et-d-aujourd-hui-20261114",
-      "date": "Sat, 14 Nov 2026 21:00:00 +0100",
-      "description": "REPORTAGE - Au sein de la célèbre Bibliothèque Lénine, un fonds secret conservait, à l’époque de l’URSS, les ouvrages mis à l’index. Un nouveau dépôt y a été ajouté l’an dernier pour entreposer, hors du domaine public, les publications considérées comme «russophobes» par le Kremlin.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Les passagers font face à des perturbations généralisées après une panne de contrôle du trafic aérien aux États-Unis",
+      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+      "date": "Sat, 14 Nov 2026 21:02:31 GMT",
+      "description": "Des milliers de vols retardés ou annulés à mesure que la faute politique monte",
+      "source": "Financial Times",
+      "category": "Économie"
     },
     {
       "title": "Comment effacer le cache sur votre Samsung TV",
@@ -451,10 +555,10 @@
       "category": "Technologie"
     },
     {
-      "title": "Regarder SpaceX tenter d'attraper l'étape supérieure de Starship pour la première fois",
+      "title": "SpaceX capture avec succès Starship après son lancement pour la première fois",
       "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
       "date": "Sat, 14 Nov 2026 20:54:14 +0000",
-      "description": "Alors que l'entreprise a tiré ce tour quelques fois avec Super Heavy boosters, ce sera une première pour le navire.",
+      "description": "Alors que la compagnie a tiré ce tour quelques fois avec Super Heavy boosters, c'était une première pour le navire.",
       "source": "Engadget",
       "category": "Technologie"
     },
@@ -515,14 +619,6 @@
       "category": "Monde"
     },
     {
-      "title": "Votre voiture surveille-t-elle votre emplacement ? Voici comment vérifier et refuser",
-      "link": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
-      "date": "Sat, 14 Nov 2026 20:30:00 +0000",
-      "description": "Les voitures modernes sont idéales pour l'exploitation des données des utilisateurs, et les grandes entreprises technologiques le savent. Il est important de savoir comment ces renseignements sont recueillis et comment les refuser.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Contrôle des faits: les exploitations à contenu iraniens atteignent des millions",
       "link": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 20:26:00 GMT",
@@ -537,14 +633,6 @@
       "description": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Cet outil Windows intégré peut diagnostiquer la santé de la batterie de votre PC",
-      "link": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
-      "date": "Sat, 14 Nov 2026 20:15:00 +0000",
-      "description": "Si votre ordinateur portable ne semble pas supporter une charge aussi bien qu'il l'était auparavant, commencez par vérifier les diagnostics que cet outil peut rapporter. Nous allons vous montrer comment l'utiliser.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Inde L'Etat Assam démolit les maisons de 132 familles musulmanes",
@@ -579,12 +667,12 @@
       "category": "France"
     },
     {
-      "title": "Modifier ces paramètres Fitbit Edge pour une meilleure expérience",
-      "link": "https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/",
-      "date": "Sat, 14 Nov 2026 20:00:00 +0000",
-      "description": "Le Fitbit Edge non seulement semble bon, mais il offre beaucoup de fonctionnalités tout en restant minimal. Pour en tirer le meilleur parti, il suffit de modifier quelques paramètres.",
-      "source": "Engadget",
-      "category": "Technologie"
+      "title": "Italie: Facebook écope d'une amende de 805 millions d'euros pour avoir accédé à des photos sans consentement",
+      "link": "https://www.rfi.fr/fr/europe/20261114-italie-facebook-%C3%A9cope-d-une-amende-de-805-millions-d-euros-pour-avoir-acc%C3%A9d%C3%A9-%C3%A0-des-photos-sans-consentement",
+      "date": "Sat, 14 Nov 2026 19:58:06 GMT",
+      "description": "Et si vous appreniez que votre réseau social favori avait accès à vos informations personnelles sans votre autorisation ? C'est ce qu'il se serait produit en Italie depuis 2023. Les photos et vidéos d'environ 20 millions d'utilisateurs de Facebook auraient pu être consultés par la plateforme sans que cette dernière n'y ait été explicitement autorisée. Ainsi, samedi 14 novembre, l'autorité de protection des données personnelles italienne a lourdement sanctionné Meta, propriétaire de Facebook.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Peut-on vous coûter votre maison au Danemark?",
@@ -619,14 +707,6 @@
       "category": "Monde"
     },
     {
-      "title": "Des dizaines de milliers marchent dans les dernières manifestations au Portugal sur le logement",
-      "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 19:27:55 +0000",
-      "description": "Ce sont les plus grandes protestations contre la hausse des coûts du logement au Portugal depuis le début du mouvement social il y a des semaines.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "« Se concentrer sur Londres : comment les agents iraniens ont attaqué des cibles européennes",
       "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
       "date": "Sat, 14 Nov 2026 19:23:20 +0000",
@@ -641,14 +721,6 @@
       "description": "Entre indécision et irrésolution, souvenirs et nostalgie, l’artiste japonais se révèle avec ses émouvantes peintures exposées à Lafayette Anticipations.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Le pape Léon exhorte à mettre fin à la violence au Pérou lors de la visite à la ville des Andes lointaines",
-      "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 19:20:11 +0000",
-      "description": "A Santa Cruz de Succhabamba, le pape a dit aux gens de ne pas réagir à l'injustice avec brutalité.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "La mise à niveau du fil de cuivre a causé la suspension des vols à l'échelle nationale, dit le secrétaire des transports américains",
@@ -691,14 +763,6 @@
       "category": "France"
     },
     {
-      "title": "Italie gifles Meta avec 805mn d'amende sur l'accès aux photos Android",
-      "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 18:41:00 GMT",
-      "description": "Les régulateurs italiens disent que Meta a accédé aux photos et au contenu multimédia des utilisateurs italiens via l'application Facebook pour les appareils Android. Meta n'a pas encore commenté l'amende ni les allégations.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Un «choc général» Est-ce qu'il alimente l'Europe ?",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "date": "Sat, 14 Nov 2026 18:39:59 +0000",
@@ -728,7 +792,7 @@
       "date": "Sat, 14 Nov 2026 18:28:06 GMT",
       "description": "Le géant des médias sociaux est accusé de ne pas avoir informé 20 millions d'utilisateurs qu'il avait accès à leurs photos.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Monde"
     },
     {
       "title": "Philippines remporte le premier Concours Eurovision de la chanson Asie",
@@ -787,14 +851,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Les passagers font face à des perturbations généralisées après une panne de contrôle du trafic aérien aux États-Unis",
-      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-      "date": "Sat, 14 Nov 2026 17:36:00 GMT",
-      "description": "Des milliers de vols retardés ou annulés à mesure que la faute politique monte",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Le cimetière de l'IA : une liste de projets et startups en cours qui n'ont pas réussi",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "date": "Sat, 14 Nov 2026 17:30:00 +0000",
@@ -819,14 +875,6 @@
       "category": "France"
     },
     {
-      "title": "COP31: Des manifestants, l'ONU exhorte à un accord climatique rapide",
-      "link": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 17:19:00 GMT",
-      "description": "Le chef du climat de l'ONU a mis en garde contre les « retards tactiques » des pourparlers sur le climat de la COP31 en Turquie, qui pourraient empêcher un accord visant à ralentir le réchauffement climatique.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "«La Caserne» de John McGahern, une femme tuée à la tâche",
       "link": "https://www.liberation.fr/culture/livres/la-caserne-de-john-mcgahern-une-femme-tuee-a-la-tache-20261114_VKR6AGCYYVCQJC7ZWHEVRB6KKI/",
       "date": "Sat, 14 Nov 2026 17:00:01 +0000",
@@ -840,6 +888,14 @@
       "date": "Sat, 14 Nov 2026 16:51:55 +0000",
       "description": "Les analystes avaient averti que le vote, initialement prévu pour décembre, faisait face à une crise de légitimité. Le Soudan du Sud n ' a pas tenu d ' élection nationale depuis son accession à l ' indépendance en 2011.",
       "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "SpaceX capture avec succès Starship et fait de l'histoire",
+      "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+      "date": "Sat, 14 Nov 2026 16:42:41 -0500",
+      "description": "L'engin spatial de la société est retourné à son lanceur du Texas de façon spectaculaire, en s'abaissant soigneusement jusqu'à ce que deux bras métalliques fixés à la tour de lancement puissent le sécuriser.",
+      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -913,14 +969,6 @@
       "description": "La bombe a été découverte vendredi après-midi à l'usine BioUrja Renewables à Peoria. Les officiels disent que la bombe a été « rendue sûre », mais l'ont qualifiée de « menace crédible ». Le FBI enquête.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Incendies en Amazonie: un État du Brésil déclare l'état d'urgence environnemental",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-incendies-en-amazonie-un-%C3%A9tat-du-br%C3%A9sil-d%C3%A9clare-l-%C3%A9tat-d-urgence-environnemental",
-      "date": "Sat, 14 Nov 2026 15:07:07 GMT",
-      "description": "Au Brésil, l'État amazonien du Para, au nord du pays, a déclaré l'état d'urgence environnementale et climatique en raison de centaines d'incendies en cours dans la forêt tropicale et d'une très forte sécheresse. Cette situation menace les populations, la nature et les activités économiques. Ce manque de pluie est lié au phénomène climatique naturel El Niño, qui pourrait atteindre cette année une intensité inédite depuis 1950, et vient s'ajouter aux effets du réchauffement planétaire.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "'Alien: Fireteam Elite 2' est une bonne chasse aux insectes à l'ancienne, ironie par les insectes",
@@ -1099,14 +1147,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Que sait-on de la suspension totale des vols de vendredi aux États-Unis?",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-que-sait-on-de-la-suspension-totale-des-vols-de-vendredi-aux-%C3%A9tats-unis",
-      "date": "Sat, 14 Nov 2026 12:01:41 GMT",
-      "description": "L'autorité américaine de l'aviation a pris une décision radicale et rarissime dans la soirée de ce vendredi 13 novembre : interrompre la totalité du trafic aérien aux États-Unis en raison d'une panne technique. La suspension a duré environ quatre heures et a touché des milliers de liaisons aériennes. Le gel a finalement été levé aux alentours de 2h du matin (heure française, 1h TU) et semble illustrer une fois de plus l'ancienneté et les problèmes de fiabilité des infrastructures aériennes américaines.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Eric Trump soutenu robot soldat startup ne peut pas payer le personnel après le fondateur emprunté 4,6 millions de dollars de la société pour acheter la maison",
       "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "date": "Sat, 14 Nov 2026 12:00:01 GMT",
@@ -1235,14 +1275,6 @@
       "category": "Défense"
     },
     {
-      "title": "Mobilisation en France: un «acte V» du mouvement social ce samedi avec des revendications variées",
-      "link": "https://www.rfi.fr/fr/france/20261114-mobilisation-en-france-un-acte-v-du-mouvement-social-ce-samedi-avec-des-revendications-vari%C3%A9es",
-      "date": "Sat, 14 Nov 2026 08:32:56 GMT",
-      "description": "Protection des enfants et adolescents, opposition au « permis de tuer », salaires, moyens pour l'enseignement : différentes manifestations vont se tenir samedi 14 novembre en France et converger dans un seul cortège à Paris, pour l'« acte V » du mouvement contre la vie chère. Parti de la colère des lycéens français, ce mouvement s'est élargi, avec des défilés prévus dans toute la France pour le cinquième samedi consécutif.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Trump, Xi et Poutine pour tenir une réunion sans précédent, dit la Maison Blanche",
       "link": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
       "date": "Sat, 14 Nov 2026 08:19:00 +0000",
@@ -1273,14 +1305,6 @@
       "description": "Exclusivité : l'enquête révèle des prescriptions pour les enfants de moins de 12 ans, car les experts insistent sur le besoin de surveillance spécialisée et de surveillance à long terme Des centaines d'enfants en Angleterre reçoivent des prescriptions pour les médicaments BLP-1, dont certains de moins de 12 ans, que le Guardian peut révéler. Les médicaments GLP-1 ont été initialement développés pour aider les personnes atteintes de diabète de type 2 à contrôler leur glycémie, mais sont devenus depuis une aide populaire pour l'amincissement, avec",
       "source": "The Guardian",
       "category": "Sciences"
-    },
-    {
-      "title": "Perspective: Un nouveau type de secrétaire de presse de la Maison Blanche",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-      "date": "Sat, 14 Nov 2026 08:00:00 -0500",
-      "description": "Avec le poste de secrétaire de presse de la Maison Blanche qui n'est toujours pas rempli, peut-être qu'un assistant de l'IA pourrait être la réponse ?",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Les scientifiques trouvent une routine quotidienne simple liée à moins de douleur et de dépression",
@@ -1331,20 +1355,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Acte V de la colère sociale : une mobilisation en baisse, des incidents dans plusieurs villes",
-      "link": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v",
-      "date": "Sat, 14 Nov 2026 06:55:23 GMT",
-      "description": "Quelque 106 000 personnes ont manifesté samedi en France, dont 24 000 à Paris, lors de l'acte V du mouvement social, a annoncé samedi après-midi le ministère de l'Intérieur. Une mobilisation inférieure à la semaine dernière, qui avait réuni 146 000 personnes, dont 46 000 dans la capitale selon cette même source. La place Beauvau a toutefois souligné ​que la situation a été globalement ​maîtrisée en dépit d'incidents dans plusieurs villes. Retrouvez les événements de cette journée sur notre fil.",
-      "source": "France 24",
-      "category": "France"
-    },
-    {
       "title": "Les scientifiques découvrent une façon étonnamment simple de transformer les déchets de café en combustible",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
       "date": "Sat, 14 Nov 2026 06:42:28 EST",
       "description": "Les scientifiques ont mis au point une méthode efficace pour transformer les terrains de café usagés en source potentielle de biodiésel tout en préservant les restes d'autres combustibles renouvelables et de produits chimiques précieux. Cette découverte pourrait transformer des millions de tonnes de déchets de café jetés en une ressource étonnamment utile pour l'énergie durable.",
       "source": "ScienceDaily",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Microsoft dit des services entièrement restaurés après une journée de panne mondiale",
@@ -1416,14 +1432,6 @@
       "date": "Sat, 14 Nov 2026 02:49:59 GMT",
       "description": "Les voyageurs et l'équipage se sentent «pissé» ou «chanceux» selon le niveau de dérangement au milieu de l'arrêt terrestre national La décision d'atterrir tous les vols vendredi par la Federal Aviation Administration (FAA) des États-Unis a lancé des aéroports et des plans de voyage dans le chaos à travers le pays, car les passagers des avions et des terminaux d'aéroport ont soudainement été poussés dans des limbes. À l'aéroport John F Kennedy de New York, les passagers ont trouvé leur plan de voyage brusquement annulé – certains même",
       "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
-      "title": "SpaceX lance le vaisseau Starship en vol d'essai de fusée massive",
-      "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-      "date": "Sat, 14 Nov 2026 01:18:51 GMT",
-      "description": "Le vol d'essai est la première tentative de SpaceX pour attraper à la fois l'amplificateur Super Heavy et le vaisseau spatial de la fusée sur son site de lancement à Starbase, au Texas.",
-      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -1600,14 +1608,6 @@
       "date": "Fri, 13 Nov 2026 23:00:31 GMT",
       "description": "Ce scandale a mis en lumière le succès de Singapour en tant que plaque tournante - et l'endroit où se trouverait le commerce illicite présumé.",
       "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le nouveau Kindle Colorsoft d'Amazon est un e-reader premium avec un prix premium",
-      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "date": "Fri, 13 Nov 2026 23:00:00 +0000",
-      "description": "Le dernier modèle est plus léger et plus mince que son prédécesseur et dispose d'un affichage bord à bord. Mais si vous possédez déjà le Colorsoft de première génération, il ya peu de raison de mettre à niveau.",
-      "source": "TechCrunch",
       "category": "Technologie"
     },
     {
@@ -2219,6 +2219,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Regardez SpaceX exécuter avec succès la première capture de Starship",
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "date": "2026-11-14T16:44:44-05:00",
+      "description": "Après avoir avorté une prise prévue du booster de Starship Flight 15, SpaceX a réussi à capturer Starship avec son lancement et sa tour \"Mechazilla\" pour la première fois. La société a déjà effectué des captures de «choppick» de ses boosters, mais c'est la première fois que la manœuvre a été exécutée avec succès sur le véhicule Starship lui-même. Le PDG de SpaceX Elon [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Magic: The Gathering reçoit une série animée Netflix. Pour de vrai cette fois.",
       "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
       "date": "2026-11-14T14:47:40-05:00",
@@ -2255,14 +2263,6 @@
       "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
       "date": "2026-11-14T09:18:36-05:00",
       "description": "Tesla double, ou peut-être trébucher sur ses affirmations audacieuses d'un avenir autonome avec l'offre de « sélectionner des clients » pour acheter un Cybercab pour « usage personnel ». Mais le biplace sans volant doré « ne sera disponible que dans les zones de service supportées » - ce qui signifie que vous ne pourrez en acheter qu'un si vous habitez [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Ce minuscule gamepad avec deux poussoirs analogiques pousse les limites des contrôleurs portables",
-      "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "date": "2026-11-14T09:00:00-05:00",
-      "description": "Autant j'apprécie le design ingénieux du Nintendo Switch's Joy-Con, ma famille et moi ne pouvons pas les utiliser comme des gamepads autonomes. Donc, lorsque nous voyageons avec le Switch 2, nous apportons toujours au moins un gamepad pleine grandeur, ainsi que quelques contrôleurs Zero 2 de 8BitDo pour des jeux qui n'utilisent pas de pouce analogique. [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
