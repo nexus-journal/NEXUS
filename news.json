@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T16:31:03.253944+00:00",
-  "count": 284,
+  "updated_at": "2026-11-14T17:11:34.312509+00:00",
+  "count": 289,
   "articles": [
     {
       "title": "Que savoir de cette année?",
@@ -203,14 +203,6 @@
       "category": "Sciences"
     },
     {
-      "title": "UK Select Norwegian P1118 Design for New Mine-Hunting Motherships",
-      "link": "https://www.navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway/",
-      "date": "Thu, 12 Nov 2026 17:18:57 +0000",
-      "description": "Le Royaume-Uni acquerra trois nouveaux navires-mères de la Royal Navy dans le cadre du programme P1118 de la Norvège, le premier navire de soutien en mer arrivant en 2031. (156 caractères) The post UK Selects Norwegian P1118 Design for New Mine-Hunting Motherships est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Jensen Huang démissionne du géant de la puce Nvidia",
       "link": "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia",
       "date": "Thu, 12 Nov 2026 17:02:44 -0500",
@@ -257,14 +249,6 @@
       "description": "C'est aujourd'hui l'édition de The Download, notre newsletter en semaine qui fournit une dose quotidienne de ce qui se passe dans le monde de la technologie. Que savoir de cette année?Les conférences de l'ONU sur le climat Des milliers de délégués, de lobbyistes et de journalistes se sont réunis à Antalya, en Turquie, pour la COP31, les conférences annuelles de l'ONU sur le climat. Mais cette année, les négociations...",
       "source": "MIT Technology Review",
       "category": "Technologie"
-    },
-    {
-      "title": "La grève israélienne sur l'hôpital de Gaza tue six, dit le ministère de la Santé",
-      "link": "https://news.sky.com/story/israeli-strike-on-gaza-hospital-kills-six-including-doctor-health-ministry-says-13611456",
-      "date": "Thu, 12 Nov 2026 11:32:00 +0000",
-      "description": "Une frappe aérienne israélienne sur un hôpital palestinien a tué au moins six personnes et blessé 28, a déclaré le ministère de la Santé de Gaza.",
-      "source": "Sky News",
-      "category": "Monde"
     },
     {
       "title": "L'enquête européenne révèle 900 millions de galaxies – et peut-être des secrets de l'univers sombre.",
@@ -395,11 +379,59 @@
       "category": "Monde"
     },
     {
-      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, des tensions en fin de cortèges à Paris, Lyon, Bordeaux et Nantes",
+      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, selon le ministère de l’Intérieur, des tensions en fin de cortèges à Paris, Lyon, Bordeaux et Nantes",
       "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-      "date": "Sat, 14 Nov 2026 17:26:03 +0100",
+      "date": "Sat, 14 Nov 2026 18:07:03 +0100",
       "description": "Protection des enfants et adolescents, opposition au «permis de tuer», salaires, moyens pour l’enseignement : différentes manifestations se tiennent samedi en France et convergent dans un seul cortège à Paris, pour l’acte V du mouvement contre la vie chère.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : \"Je ne suis pas un macroniste\", affirme Teddy Riner, qui qualifie les félicitations du président à sa candidature de \"baiser empoisonné\"",
+      "link": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 18:04:47 +0100",
+      "description": "Le candidat est en visite au salon du Made in France à Paris samedi.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Manifestations du 14 novembre : entre 106 000 et 200 000 personnes ont défilé en France, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse",
+      "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 17:58:31 +0100",
+      "description": "A Paris, la manifestation s'est déroulée \"sans incident\", selon la préfecture de police.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "À Saint-Denis, la majorité de Bally Bagayoko supprime la baisse des primes des agents en arrêt maladie",
+      "link": "https://www.lefigaro.fr/conjoncture/a-saint-denis-la-majorite-de-bally-bagayoko-supprime-la-baisse-des-primes-des-agents-en-arret-maladie-20261114",
+      "date": "Sat, 14 Nov 2026 17:41:16 +0100",
+      "description": "La municipalité insoumise a mis fin à un dispositif instauré en 2021 par l’ancien maire socialiste Mathieu Hanotin. Une décision qui a provoqué un vif débat au conseil municipal.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "«On utilise un art légitime contre le système» : Étienne Jarrier, enfant de la bourgeoisie et chef d’orchestre de la révolution",
+      "link": "https://www.lefigaro.fr/actualite-france/on-utilise-un-art-legitime-contre-le-systeme-etienne-jarrier-enfant-de-la-bourgeoisie-et-chef-d-orchestre-de-la-revolution-20261113",
+      "date": "Sat, 14 Nov 2026 17:40:28 +0100",
+      "description": "PORTRAIT - Ce clarinettiste de formation a fondé l’association L’orchestre du Nouveau Monde, qui s’attelle à décloisonner l’univers de la musique classique afin de le mettre au service des luttes sociales et climatiques.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Le Pays de Galles signe un exploit en rugby, en battant la Nouvelle-Zélande pour la première fois depuis 1953",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-pays-de-galles-signe-un-exploit-en-rugby-en-battant-la-nouvelle-zelande-pour-la-premiere-fois-depuis-1953_6810451_3242.html",
+      "date": "Sat, 14 Nov 2026 17:39:10 +0100",
+      "description": "Le XV du Poireau s’est imposé 35-28 face aux All Blacks, samedi à Cardiff, dans le cadre de la cinquième journée du championnat des nations, grâce à cinq essais marqués et une défense acharnée en fin de match.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
+      "date": "Sat, 14 Nov 2026 17:29:53 +0100",
+      "description": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes. A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est arrivé, en majeure partie, place de la Nation, peu avant 17 heures.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -411,20 +443,76 @@
       "category": "France"
     },
     {
-      "title": "À Saint-Denis, la majorité de Bally Bagayoko supprime la baisse des primes des agents en arrêt maladie",
-      "link": "https://www.lefigaro.fr/conjoncture/a-saint-denis-la-majorite-de-bally-bagayoko-supprime-la-baisse-des-primes-des-agents-en-arret-maladie-20261114",
-      "date": "Sat, 14 Nov 2026 17:14:31 +0100",
-      "description": "La municipalité insoumise a mis fin à un dispositif instauré en 2021 par l’ancien maire socialiste Mathieu Hanotin. Une décision qui a provoqué un vif débat au conseil municipal.",
-      "source": "Le Figaro",
+      "title": "«La Caserne» de John McGahern, une femme tuée à la tâche",
+      "link": "https://www.liberation.fr/culture/livres/la-caserne-de-john-mcgahern-une-femme-tuee-a-la-tache-20261114_VKR6AGCYYVCQJC7ZWHEVRB6KKI/",
+      "date": "Sat, 14 Nov 2026 17:00:01 +0000",
+      "description": "Le premier roman de l’écrivain irlandais disparu il y a vingt ans enfin réédité.",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "Manifestations du 14 novembre : le cortège parisien est arrivé à Nation \"sans incident\", note la préfecture",
-      "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 17:01:09 +0100",
-      "description": "La manifestation est partie de la place de la République pour atteindre la place de la Nation dans le calme.",
-      "source": "franceinfo",
+      "title": "Pourquoi le NVIDIA RTX 3060 est-il toujours le GPU le plus populaire sur Steam ?",
+      "link": "https://www.engadget.com/2315651/why-nvidia-rtx-3060-most-popular-steam-gpu/",
+      "date": "Sat, 14 Nov 2026 17:00:00 +0000",
+      "description": "Vous penseriez que les joueurs dirigeraient toujours les plus récents et les plus grands GPU de leurs plates-formes, mais la RTX 3060 de NVIDIA prouve que ce n'est pas tout à fait le cas.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Samedi de convergence des luttes pour cet acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
+      "link": "https://www.liberation.fr/societe/manifestations-de-30-000-a-60-000-personnes-attendues-a-paris-20261114_UKPYNHRL4ZBIRBAHICK64N2FDM/",
+      "date": "Sat, 14 Nov 2026 16:55:13 +0000",
+      "description": "Le cortège parisien République-Nation a réuni ce samedi 14 novembre entre 24 000, selon le ministère de l’Intérieur, et 100 000 manifestants, selon l’intersyndicale jeune.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Les États-Unis ont suggéré que l'Ukraine cède des parties de Donbas à la Russie pour devenir partie de l'OTAN",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 16:53:39 +0000",
+      "description": "Zelensky a rejeté la possibilité que l'Ukraine s'engage à la neutralité et a déclaré qu'il refusait de céder le territoire à la Russie.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les élections nationales du Soudan du Sud, leur première, seront retardées",
+      "link": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+      "date": "Sat, 14 Nov 2026 16:51:55 +0000",
+      "description": "Les analystes avaient averti que le vote, initialement prévu pour décembre, faisait face à une crise de légitimité. Le Soudan du Sud n ' a pas tenu d ' élection nationale depuis son accession à l ' indépendance en 2011.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Informations sur les conducteurs d'Uber volés dans un hack tiers",
+      "link": "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
+      "date": "Sat, 14 Nov 2026 16:47:44 +0000",
+      "description": "Uber envoie un avertissement aux conducteurs dont les informations ont été volées lors d'une violation de données.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'arrêt au sol a suivi les mises à jour de l'ancien système de communication L3Harris : DOT-S Duffy",
+      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "date": "Sat, 14 Nov 2026 16:46:11 GMT",
+      "description": "L'arrêt au sol de la FAA a eu lieu après les mises à jour d'un ancien système de communication géré par L3Harris Technologies, a déclaré le secrétaire aux Transports Sean Duffy samedi.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Portugal vs Danemark EN VIGUEUR: Ligue des Nations de l'UEFA",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 16:45:00 +0000",
+      "description": "Suivez les mises à jour du affrontement du groupe A4, y compris l'accumulation, l'analyse et le commentaire texte en direct du jeu.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Votre nouvelle technologie est toujours bloquée en 1970 — voici pourquoi",
+      "link": "https://www.engadget.com/2311725/new-tech-stick-in-year-1970-unix-time-explained/",
+      "date": "Sat, 14 Nov 2026 16:45:00 +0000",
+      "description": "Si vous avez déjà vu une date arbitraire en 1970 sur votre appareil non Windows, ne vous inquiétez pas, il ne glisse pas. Elle a été choisie pendant le processus de développement.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "\"La voix des citoyens ne doit pas être ignorée\" : à Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
@@ -433,6 +521,22 @@
       "description": "Plus de 7 000 personnes venues de toute la Turquie et de différents pays ont marché sous la pluie dans le centre ville d'Antalya, selon une estimation de la police.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Lead Columbia - classe SSBN Claws Retour du risque de retard",
+      "link": "https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/",
+      "date": "Sat, 14 Nov 2026 16:39:23 +0000",
+      "description": "La SSBN de la classe Columbia, USS District of Columbia (SSBN-826), est de retour sur la bonne voie pour la livraison de 2028 après que les taux de travail aient plus que doublé. L'article Lead Columbia-class SSBN Claws Back from Relay Risk est apparu en premier dans Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
+      "title": "Les gouvernements asiatiques réagissent à la sortie du PDG de Nvidia Jensen Huang.",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "date": "Sat, 14 Nov 2026 16:34:15 +0000",
+      "description": "Certains gouvernements ont pris des mesures pour confirmer les engagements en matière d'approvisionnement en puces, tandis que d'autres surveillent l'impact sur les projets locaux ou traitent des enquêtes en cours.",
+      "source": "TechCrunch",
+      "category": "Technologie"
     },
     {
       "title": "L'Hérault rejoint le Gard et les Bouches-du-Rhône, placés en vigilance orange \"pluie-inondation\" à partir de 20 heures",
@@ -456,7 +560,7 @@
       "date": "Sat, 14 Nov 2026 16:29:48 GMT",
       "description": "Le géant des médias sociaux est accusé de ne pas avoir informé environ 20 millions d'utilisateurs qu'il avait accès à leurs photos.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Monde"
     },
     {
       "title": "Francophonie: la RDC prête à retirer la candidature de Juliana Lumumba à la tête de l'OIF",
@@ -470,17 +574,9 @@
       "title": "Le critique littéraire Arnaud Viviant quitte «le Masque et la Plume», disant avoir été empêché de conseiller le livre de Rima Hassan",
       "link": "https://www.liberation.fr/economie/medias/le-critique-litteraire-arnaud-viviant-quitte-le-masque-et-la-plume-disant-avoir-ete-empeche-de-conseiller-le-livre-de-rima-hassan-20261114_L42QFQJQUFDTBMEUWYGZBZIWX4/",
       "date": "Sat, 14 Nov 2026 16:20:59 +0000",
-      "description": "France Inter invoque une règle interne interdisant de mettre en avant les livres d’élus en fonction. Une convention à géométrie variable, accuse le critique, qui avance plusieurs contre-exemples.",
+      "description": "France Inter invoque une règle interne interdisant de mettre en avant les livres de personnalités en fonction. Une convention à géométrie variable, accuse le critique, qui avance plusieurs contre-exemples.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "L'arrêt au sol a suivi les mises à jour de l'ancien système de communication L3Harris : DOT-S Duffy",
-      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "date": "Sat, 14 Nov 2026 16:18:49 GMT",
-      "description": "L'arrêt au sol de la FAA a eu lieu après les mises à jour d'un ancien système de communication géré par L3Harris Technologies, a déclaré le secrétaire aux Transports Sean Duffy samedi.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Italie amendes Meta 880m sur photo vie privée",
@@ -505,14 +601,6 @@
       "description": "Une frappe aérienne militaire du Myanmar sur un camp de déplacés dans l'État de Rakhine a tué 12 personnes.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
-      "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
-      "date": "Sat, 14 Nov 2026 16:04:39 +0100",
-      "description": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les termes d’un éventuel accord de paix devraient être approuvés par référendum.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Ce que signifie le cercle \"Z\" sur Google Maps",
@@ -563,20 +651,20 @@
       "category": "Monde"
     },
     {
+      "title": "De communiste à conseiller de Macron, le parcours de l'économiste Philippe Aghion",
+      "link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-de-communiste-%C3%A0-conseiller-de-macron-le-parcours-de-l-%C3%A9conomiste-philippe-aghion",
+      "date": "Sat, 14 Nov 2026 15:50:57 GMT",
+      "description": "Comme chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette fois-ci, c'est Philippe Aghion, économiste français, prix Nobel d'économie 2025.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
       "title": "L’Hérault rejoint le Gard et les Bouches-du-Rhône en vigilance orange pluie-inondation ce samedi",
       "link": "https://www.liberation.fr/environnement/climat/orages-et-fortes-pluies-le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-dans-la-soiree-20261114_4LXU2ENXP5DXJLM7VCSFSGUGSA/",
       "date": "Sat, 14 Nov 2026 15:48:57 +0000",
       "description": "Dans son dernier bulletin, Météo France met en garde contre des «risques de ruissellements» et de possibles «phénomènes tourbillonnaires».",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Batteries au sodium et au lithium-ion: Quelle est la différence entre eux ?",
-      "link": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
-      "date": "Sat, 14 Nov 2026 15:45:00 +0000",
-      "description": "Les batteries au lithium-ion peuvent dominer aujourd'hui, mais les alternatives émergentes comme le sodium-ion pourraient bientôt avoir leur temps sous les projecteurs si nous pouvons gérer les différences clés.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Le Nigéria met en garde contre les déplacements par l'aéroport principal de l'Éthiopie en raison de son altitude",
@@ -611,14 +699,6 @@
       "category": "France"
     },
     {
-      "title": "Devriez-vous faire le passage à Samsung Galaxy de Google Pixel?",
-      "link": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
-      "date": "Sat, 14 Nov 2026 15:30:00 +0000",
-      "description": "Vous pensez à échanger votre Google Pixel contre un Samsung Galaxy ? Certaines des plus grandes différences pourraient ne pas être celles que vous attendez.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Prix Werner Holzer décerné à Katja Gloger et Jaafar Abdul Karim de DW",
       "link": "https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 15:24:00 GMT",
@@ -643,20 +723,12 @@
       "category": "Monde"
     },
     {
-      "title": "Des lunettes intelligentes pourraient remplacer votre moniteur, mais elles ne devraient pas — voilà pourquoi",
-      "link": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
-      "date": "Sat, 14 Nov 2026 15:15:00 +0000",
-      "description": "Des lunettes intelligentes pourraient un jour remplacer la configuration de votre bureau par un écran qui vous suit partout. Avant de faire le changement, il y a quelques choses à considérer.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le Voyager 1 de la NASA frappera un nouveau record de distance spatiale d'un jour-lumière",
-      "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 15:14:54 +0000",
-      "description": "La sonde a été lancée en 1977 et continue de transmettre des données spatiales à une équipe de scientifiques de la NASA.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "Teddy Riner réfute être macroniste et qualifie de \"baiser empoisonné\" les félicitations de Macron",
+      "link": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron",
+      "date": "Sat, 14 Nov 2026 15:12:57 GMT",
+      "description": "Le judoka et désormais candidat à la présidentielle Teddy Riner s'est défendu samedi d'être macroniste, lors de son déplacement au salon du \"Made in France\". Le sportif de haut niveau a, en outre, qualifié de \"baiser empoisonné\" les félicitations d'Emmanuel Macron.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Incendies en Amazonie: un État du Brésil déclare l'état d'urgence environnemental",
@@ -664,22 +736,6 @@
       "date": "Sat, 14 Nov 2026 15:07:07 GMT",
       "description": "Au Brésil, l'État amazonien du Para, au nord du pays, a déclaré l'état d'urgence environnementale et climatique en raison de centaines d'incendies en cours dans la forêt tropicale et d'une très forte sécheresse. Cette situation menace les populations, la nature et les activités économiques. Ce manque de pluie est lié au phénomène climatique naturel El Niño, qui pourrait atteindre cette année une intensité inédite depuis 1950, et vient s'ajouter aux effets du réchauffement planétaire.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Canada Stelco rappelle 175 travailleurs après la pression du gouvernement",
-      "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 15:06:52 +0000",
-      "description": "Steelmaker promet de rembourser les salaires des travailleurs dont le propriétaire américain a mis à pied les droits de douane, la faible demande et les importations.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Protection de l’enfance, usage des armes, gilets jaunes… Un samedi de convergence des luttes pour cet acte V contre la vie chère en France",
-      "link": "https://www.liberation.fr/societe/manifestations-de-30-000-a-60-000-personnes-attendues-a-paris-20261114_UKPYNHRL4ZBIRBAHICK64N2FDM/",
-      "date": "Sat, 14 Nov 2026 15:06:25 +0000",
-      "description": "Le cortège parisien s’est élancé un peu après 14 heures de la place de la République vers celle de la Nation pour l’acte V contre la vie chère. Entre 50 et 60 actions similaires sont attendues dans tout le pays.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -707,6 +763,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Microsoft confirme que tous les services sont restaurés après une panne mondiale",
+      "link": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+      "date": "Sat, 14 Nov 2026 14:56:00 +0000",
+      "description": "Microsoft a déclaré que tous les services ont été entièrement restaurés après une panne mondiale qui a affecté le NHS, la police, les écoles et d'autres services à travers le Royaume-Uni.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
       "title": "Comment la sortie de \"GTA VI\" de Rockstar pourrait remodeler le jeu, le streaming et même payer le temps libre",
       "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
       "date": "Sat, 14 Nov 2026 14:54:22 GMT",
@@ -715,10 +779,10 @@
       "category": "Économie"
     },
     {
-      "title": "SpaceX dit que le booster de Starship Flight 15 a avorté la prise d'atterrissage après le lancement en raison d'un problème de guidage (vidéo)",
+      "title": "Pourquoi le booster de Starship Flight 15 a-t-il avorté ? SpaceX enquête toujours (vidéo)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
       "date": "Sat, 14 Nov 2026 14:53:00 +0000",
-      "description": "SpaceX a une idée de la raison pour laquelle son dernier vol d'essai en mégapropulseur de vaisseau Star a raté le premier des deux atterrissages prévus vendredi (13 novembre) lors du test de vol de vaisseau Star 15.",
+      "description": "SpaceX cherche à savoir pourquoi son dernier vol d'essai en mégapropulseur de vaisseau Star a raté le premier des deux atterrissages prévus vendredi (13 novembre) lors du test de vol de vaisseau Star 15.",
       "source": "Space.com",
       "category": "Exploration"
     },
@@ -729,22 +793,6 @@
       "description": "Le 14 novembre 1969, les astronautes Apollo 12 se lancèrent sur la lune. Voilà pourquoi ça comptait.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Présidentielle 2027 : \"Je ne suis pas un macroniste\", affirme Teddy Riner, qui qualifie les félicitations du président à sa candidature de \"baiser empoisonné\"",
-      "link": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 14:48:41 +0100",
-      "description": "Le candidat est en visite au salon du Made in France à Paris samedi.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Le Donbass contre une place à l’Otan : selon Zelensky, les Etats-Unis ont proposé un deal impliquant des concessions territoriales",
-      "link": "https://www.liberation.fr/international/europe/le-donbass-contre-une-place-a-lotan-selon-zelensky-les-etats-unis-ont-propose-un-deal-impliquant-des-concessions-territoriales-20261114_EZCVGIUABZDC3EFI4AD5L25NWA/",
-      "date": "Sat, 14 Nov 2026 14:38:58 +0000",
-      "description": "A l’issue du cycle de pourparlers de paix à Abou ⁠Dhabi, les négociateurs américains auraient fait miroiter à l’Ukraine une adhésion à l’Alliance atlantique en échange de la région convoitée par Vladimir Poutine.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "L'ancien chef de la SAS reproche à l'État d'avoir rompu le \"contrat moral\" avec des soldats",
@@ -830,7 +878,7 @@
       "title": "Ukraine: Washington aurait proposé des concessions territoriales en échange d'une adhésion du pays à l'Otan",
       "link": "https://www.rfi.fr/fr/europe/20261114-ukraine-washington-aurait-propos%C3%A9-des-concessions-territoriales-en-%C3%A9change-d-une-adh%C3%A9sion-du-pays-%C3%A0-l-otan",
       "date": "Sat, 14 Nov 2026 13:43:41 GMT",
-      "description": "Les États-Unis ont, pour la première fois, demandé à l'Ukraine de céder des territoires en échange de son adhésion à l'Otan, a déclaré Volodymyr Zelensky dans des propos diffusés samedi 14 novembre, ajoutant que Moscou avait rejeté une trêve énergétique lors des discussions d'Abou Dhabi.",
+      "description": "Les États-Unis ont, pour la première fois, demandé à l'Ukraine de céder des territoires en échange de son adhésion à l'Otan, a déclaré Volodymyr Zelensky dans des propos diffusés samedi 14 novembre, ajoutant que Moscou avait rejeté une trêve énergétique lors des discussions d'Abou Dhabi. Une éventualité qui soulève de nombreuses interrogations, tant sur les intentions américaines que sur la possibilité de voir la Russie accepter un tel compromis.",
       "source": "RFI",
       "category": "France"
     },
@@ -881,6 +929,14 @@
       "description": "SpaceX prévoit d'attraper l'étape supérieure de son mégapropulseur Starship aujourd'hui (Nov. 14), et vous pouvez regarder l'action sans précédent en direct.",
       "source": "Space.com",
       "category": "Exploration"
+    },
+    {
+      "title": "\"Je ne pensais quand même pas avoir un père nazi\" : Edith Pagot, née dans un Lebensborn",
+      "link": "https://www.france24.com/fr/france/20261114-lebensborn-pouponniere-nazie-allemagne-enfants-seconde-guerre-mondiale-edith",
+      "date": "Sat, 14 Nov 2026 12:57:53 GMT",
+      "description": "Il y a 80 ans, en 1946, deux convois d'enfants, dont certains nés dans un Lebensborn, une pouponnière nazie, étaient accueillis à Commercy, dans la Meuse, en provenance d'Allemagne. Parmi eux se trouvait Edith Pagot. Jusqu'à aujourd'hui, cette femme adoptée ignorait qu'elle était née dans un Lebensborn. Elle ne l'a appris que cette année, après des recherches entreprises par sa fille.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "James Webb télescope trouve la glace plus ancienne que l'étoile qu'il orbite",
@@ -947,6 +1003,22 @@
       "category": "Technologie"
     },
     {
+      "title": "La FAA blâme l'arrêt de vendredi sur le « problème d'équipement » lors de la mise à niveau du réseau de télécommunications",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "date": "Sat, 14 Nov 2026 11:53:04 -0500",
+      "description": "Le secrétaire aux transports, Sean Duffy, a indiqué que les premières enquêtes ont mis en évidence un problème avec l'entrepreneur L3Harris qui met à jour l'ancienne technologie à un endroit éloigné.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "États-Unis flotte l'adhésion à l'OTAN pour Donbas accord de retrait, Zelensky dit",
+      "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+      "date": "Sat, 14 Nov 2026 11:41:15 GMT",
+      "description": "Le président dit qu'il acceptera la proposition au peuple ukrainien alors que Washington explore les termes pour mettre fin à la guerre",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
       "title": "Ukraine: Zelensky dit que l'accord de sécurité pourrait aller au référendum",
       "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 11:40:00 GMT",
@@ -955,18 +1027,18 @@
       "category": "Monde"
     },
     {
-      "title": "Il est temps d'exécuter une vérification de tous les liens de stockage de cloud que vous avez partagés",
-      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
-      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
-      "description": "Ces vieux liens que vous partagez avec des amis d'il y a longtemps sont encore en vie, et ils pourraient attirer des visiteurs indésirables.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "10 meilleures affaires d'écoute du vendredi noir tôt (2026): Jusqu'à 50% de rabais",
       "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
       "date": "Sat, 14 Nov 2026 11:30:00 +0000",
       "description": "Obtenez jusqu'à 50% de mes écouteurs et écouteurs préférés d'Apple, Sony, Rien, et plus.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Il est temps d'exécuter une vérification de tous les liens de stockage de cloud que vous avez partagés",
+      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "description": "Ces vieux liens que vous partagez avec des amis d'il y a longtemps sont encore en vie, et ils pourraient attirer des visiteurs indésirables.",
       "source": "WIRED",
       "category": "Technologie"
     },
@@ -1033,14 +1105,6 @@
       "description": "La planète rouge Mars brillera un peu plus d'un degré de Jupiter dans la nuit du 15 au 16 novembre.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "«On utilise un art légitime contre le système» : Étienne Jarrier, enfant de la bourgeoisie et chef d’orchestre de la révolution",
-      "link": "https://www.lefigaro.fr/actualite-france/on-utilise-un-art-legitime-contre-le-systeme-etienne-jarrier-enfant-de-la-bourgeoisie-et-chef-d-orchestre-de-la-revolution-20261113",
-      "date": "Sat, 14 Nov 2026 10:20:57 +0100",
-      "description": "PORTRAIT - Ce clarinettiste de formation a fondé l’association L’orchestre du Nouveau Monde, qui s’attelle à décloisonner l’univers de la musique classique afin de le mettre au service des luttes sociales et climatiques.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "La prise de pétrole Trump au Venezuela teste l'identité nationale du pays",
@@ -1139,14 +1203,6 @@
       "category": "Monde"
     },
     {
-      "title": "Manifestations du 14 novembre : un samedi de mobilisation dans toute la France, contre la vie chère, pour la protection des enfants ou davantage de moyens pour l’éducation",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
-      "date": "Sat, 14 Nov 2026 07:49:22 +0100",
-      "description": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes. A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est arrivé, en majeure partie, place de la Nation, peu avant 17 heures.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Les scientifiques trouvent une routine quotidienne simple liée à moins de douleur et de dépression",
       "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
       "date": "Sat, 14 Nov 2026 07:48:01 EST",
@@ -1193,6 +1249,14 @@
       "description": "Des représentants du ministère de l'Agriculture, de l'Environnement et des Affaires rurales ont déclaré que le virus avait été détecté chez trois moutons.",
       "source": "BBC News",
       "category": "Sciences"
+    },
+    {
+      "title": "Acte V en direct : 106 000 manifestants mobilisés selon la police, 200 000 selon un syndicat",
+      "link": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v",
+      "date": "Sat, 14 Nov 2026 06:55:23 GMT",
+      "description": "Quelque 106 000 personnes ont manifesté samedi en France, dont 24 000 à Paris, lors de l'acte V du mouvement social, a annoncé samedi après-midi le ministère de l'Intérieur. Une mobilisation inférieure à la semaine dernière, qui avait réuni 146 000 personnes, dont 46 000 dans la capitale selon cette même source.. Suivez notre direct.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Les scientifiques découvrent une façon étonnamment simple de transformer les déchets de café en combustible",
@@ -1271,14 +1335,6 @@
       "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
       "date": "Sat, 14 Nov 2026 05:00:00 -0500",
       "description": "Les démocrates ont eu l'occasion d'être majoritaires à la Chambre et au Sénat, mais l'équilibre des priorités, du calendrier, des messages et de la discipline va être un test majeur.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Une nouvelle politique pourrait aider à résoudre la pénurie d'organes aux États-Unis. Les critiques disent que c'est contraire à l'éthique",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-      "date": "Sat, 14 Nov 2026 05:00:00 -0500",
-      "description": "De nouvelles directives sont censées protéger les donneurs d'organes dans le cadre d'une procédure de récupération qui maintient le sang circulant dans les foies, les reins, les poumons et les cœurs. Mais les bioéthiciens ont des questions troublantes.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -1451,14 +1507,6 @@
       "category": "Économie"
     },
     {
-      "title": "'Miracle on Mississippi' - Tous les passagers secourus après la collision du navire de croisière de la Nouvelle-Orléans",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 23:40:45 GMT",
-      "description": "La collision laisse 32 personnes à l'hôpital avec des blessures non critiques, mais personne n'a disparu.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Les scientifiques de Yale révèlent ce qui ralentit vraiment le vieillissement et ce qui ne le fait pas",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
       "date": "Fri, 13 Nov 2026 23:26:12 EST",
@@ -1529,14 +1577,6 @@
       "description": "Les obstacles aux coûts et à l'accès poussent les gens à utiliser des versions modifiées et non approuvées.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Eisenkot Accuse Netanyahu de alimenter 'raciste' hostilité contre les Arabes",
-      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-      "date": "Fri, 13 Nov 2026 21:50:12 +0000",
-      "description": "Gadi Eisenkot a vivement critiqué le Premier ministre Benjamin Netanyahou quelques jours après que le dirigeant israélien ait attaqué des législateurs arabes dans un discours de division.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Le gouvernement américain fait valoir que tous les vols à travers les États-Unis «pour des raisons extraordinaires»",
@@ -1699,20 +1739,20 @@
       "category": "Défense"
     },
     {
-      "title": "Les puces Nvidia interdites à l'exportation sont derrière les modèles d'IA les plus puissants de la Chine.",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "date": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "description": "De nouvelles recherches montrent que les modèles AI les plus avancés de Chine ont été formés sur des puces Nvidia interdites.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Pourquoi la panne de Microsoft dure-t-elle si longtemps et les courriels seront-ils perdus ?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 18:36:57 GMT",
       "description": "Microsoft dit qu'il continue à restaurer les services y compris Outlook et les équipes suite à une panne mondiale.",
       "source": "BBC News",
       "category": "Économie"
+    },
+    {
+      "title": "Projet de loi résilience : comment la France veut rattraper son retard en cybersécurité",
+      "link": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9",
+      "date": "Fri, 13 Nov 2026 18:36:52 GMT",
+      "description": "Alors que les cyberattaques se multiplient en France, l’Assemblée s'apprête à adopter, mardi, la loi résilience sur le renforcement de la cybersécurité. Retardé depuis deux ans, le texte multiplie par dix le nombre d’entités régulées et impose des sanctions financières en cas de manquement aux obligations de prévention, sans prévoir de financements supplémentaires.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Les drones arrivent ! Nouvelles innovations proposées dans UAS tech-defense News Weekly Full Episode 11.10.26",
@@ -1779,14 +1819,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Le chef d'arm Rene Haas s'est approché à la recherche du PDG de Nvidia",
-      "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-      "date": "Fri, 13 Nov 2026 17:45:54 GMT",
-      "description": "Après la démission de Jensen Huang, le chef du groupe britannique SoftBank s'est démarqué.",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Les ventes à domicile ont atteint 16 ans de bas en octobre, alors que les taux hypothécaires montent",
       "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
       "date": "Fri, 13 Nov 2026 17:20:32 GMT",
@@ -1827,6 +1859,14 @@
       "category": "Sciences"
     },
     {
+      "title": "Manifestation le samedi : l’État va autoriser de nouveaux commerces parisiens à ouvrir le dimanche",
+      "link": "https://www.lefigaro.fr/societes/manifestation-le-samedi-l-etat-va-autoriser-de-nouveaux-commerces-parisiens-a-ouvrir-le-dimanche-20261113",
+      "date": "Fri, 13 Nov 2026 16:55:13 +0100",
+      "description": "Les commerces parisiens de maroquinerie, d’articles de voyage et d’habillement pourront bénéficier de cette disposition, a annoncé la préfecture, vendredi.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Des explosions d'une étoile massive",
       "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
@@ -1857,6 +1897,14 @@
       "description": "Newsom est le plus éminent politicien américain à Cop31, un processus que l'administration Trump continue de boycotter Le chef de file mondial de la quatrième plus grande économie, le gouverneur californien Gavin Newsom, a explicitement approuvé une élimination globale des combustibles fossiles qui provoquent la dégradation du climat. Newsom a dit au Guardian que la Californie est à 100 % derrière les efforts de la coalition dite Santa Marta , un groupe de plus de 50 pays qui comprend beaucoup",
       "source": "The Guardian",
       "category": "Environnement"
+    },
+    {
+      "title": "En Guadeloupe, le fléau des armes à feu",
+      "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261113-guadeloupe-violences-armes-feu-homicides",
+      "date": "Fri, 13 Nov 2026 16:18:40 GMT",
+      "description": "En Guadeloupe, 40 000 armes circuleraient de façon illégale. Sur cette île, le nombre d'homicides est neuf fois supérieur à la moyenne nationale. Alors pourquoi tant d'habitants décident de porter un fusil dans ce département ?",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Y a-t-il une ouverture pour les concurrents de Nvidia, maintenant que Jensen Huang est sorti ?",
@@ -1905,14 +1953,6 @@
       "description": "Eisenkot a été chargé de former un nouveau gouvernement, mais ce ne sera pas facile.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "«Ne pas baisser la garde» : Laurent Nuñez promet un gros dispositif «réactif et percutant» pour un nouveau samedi de colère sociale à hauts risques",
-      "link": "https://www.lefigaro.fr/actualite-france/ne-pas-baisser-la-garde-laurent-nunez-promet-un-gros-dispositif-reactif-et-percutant-pour-un-nouveau-samedi-de-colere-sociale-a-hauts-risques-20261113",
-      "date": "Fri, 13 Nov 2026 15:26:00 +0100",
-      "description": "INFO LE FIGARO - Alors que les services de renseignements anticipent des troubles à l’ordre public, 70.000 policiers et gendarmes seront à nouveau déployés à travers le pays. Dans une note aux préfets, le ministre anticipe des «troubles graves à l’ordre public».",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Beretta est un nouveau système de contre-drone qui équipe huit canons Benelli M4 sur une turbine à distance",
