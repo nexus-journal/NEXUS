@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T20:30:20.664166+00:00",
+  "updated_at": "2026-11-14T21:07:53.246460+00:00",
   "count": 289,
   "articles": [
     {
@@ -152,7 +152,7 @@
       "date": "Thu, 12 Nov 2026 20:10:02 +0000",
       "description": "Pour Katie Spicer, saisir l'occasion et le défi a conduit à des sauts géants pendant son séjour à la NASA. Maintenant que la NASA dirige l'intégration des atterrisseurs pour Blue Origin, Blue Moon Mark 2 atterrisseur, l'un des systèmes d'atterrissage humain fournis commercialement pour le programme de NASA, Spicer aura son empreinte sur l'histoire. Spicer travaille dans le [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -184,7 +184,7 @@
       "date": "Thu, 12 Nov 2026 19:12:49 +0000",
       "description": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de la NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de la NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Un robot a assemblé une structure dans l'espace pour la première fois",
@@ -379,6 +379,14 @@
       "category": "Monde"
     },
     {
+      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
+      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
+      "date": "Sat, 14 Nov 2026 21:49:39 +0100",
+      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Protection des enfants, opposition au «permis de tuer» et au gouvernement : à Paris, un mouvement social aux revendications multiples et en perte de vitesse",
       "link": "https://www.lefigaro.fr/actualite-france/protection-des-enfants-opposition-au-permis-de-tuer-et-au-gouvernement-a-paris-un-mouvement-social-aux-revendications-multiples-et-en-perte-de-vitesse-20261114",
       "date": "Sat, 14 Nov 2026 21:18:37 +0100",
@@ -411,12 +419,20 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
-      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-      "date": "Sat, 14 Nov 2026 21:09:03 +0100",
-      "description": "Des incidents ont éclaté dans plusieurs Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Deuxième tentative de capture lorsque la fusée SpaceX Starship retourne sur Terre",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 21:05:14 GMT",
+      "description": "La tentative suit un effort infructueux pour attraper le booster de fusées qui est tombé à la place dans l'océan.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les prochaines élections au Nigeria sont entachées par la désinformation croissante de l'IA",
+      "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 21:05:00 GMT",
+      "description": "Alors que le Nigeria se rapproche des sondages de 2027, l'utilisation de l'intelligence artificielle dans le processus électoral a suscité des questions sur l'intégrité et la disponibilité des institutions. Les Nigérians peuvent-ils faire confiance à leurs processus démocratiques?",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Censure soviétique et « littérature destructrice » : à Moscou, plongée dans l’« enfer » des livres interdits par la Russie d’hier et d’aujourd’hui",
@@ -424,6 +440,38 @@
       "date": "Sat, 14 Nov 2026 21:00:00 +0100",
       "description": "REPORTAGE - Au sein de la célèbre Bibliothèque Lénine, un fonds secret conservait, à l’époque de l’URSS, les ouvrages mis à l’index. Un nouveau dépôt y a été ajouté l’an dernier pour entreposer, hors du domaine public, les publications considérées comme «russophobes» par le Kremlin.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Comment effacer le cache sur votre Samsung TV",
+      "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
+      "date": "Sat, 14 Nov 2026 21:00:00 +0000",
+      "description": "Le cache de votre téléviseur est une collection de fichiers temporaires, dont vous n'avez plus besoin. Voilà pourquoi vous pourriez vouloir les effacer – et comment.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Regarder SpaceX tenter d'attraper l'étape supérieure de Starship pour la première fois",
+      "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
+      "date": "Sat, 14 Nov 2026 20:54:14 +0000",
+      "description": "Alors que l'entreprise a tiré ce tour quelques fois avec Super Heavy boosters, ce sera une première pour le navire.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Soudan du Sud repousse les élections dans un contexte de flambées violentes",
+      "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 20:53:00 GMT",
+      "description": "Le Soudan du Sud est indépendant du Soudan depuis 2011 et n ' a pas encore tenu d ' élections nationales. Depuis, le pays fait face à des cycles de violence après une guerre civile qui ont conduit à un accord de paix ténu.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "La cyberattaque d'une filiale de La Poste entraîne un vol de données touchant 22 millions de personnes",
+      "link": "https://www.france24.com/fr/france/20261114-la-cyberattaque-d-une-filiale-de-la-poste-entra%C3%AEne-un-vol-de-donn%C3%A9es-touchant-22-millions-de-personnes",
+      "date": "Sat, 14 Nov 2026 20:50:52 GMT",
+      "description": "Maileva, filiale du groupe La Poste, a été victime d'une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes. L'an dernier, une cyberattaque revendiquée par des hackers prorusses avait déjà touché La Poste à quelques jours de Noël.",
+      "source": "France 24",
       "category": "France"
     },
     {
@@ -435,12 +483,44 @@
       "category": "France"
     },
     {
+      "title": "Comment effacer le cache sur votre Xbox Series X",
+      "link": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
+      "date": "Sat, 14 Nov 2026 20:45:00 +0000",
+      "description": "Effacer le cache sur votre Xbox Series X peut l'aider à conserver sa snappiness tout en évitant les problèmes, ou vous pouvez effectuer une réinitialisation de console si tout le reste échoue.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 20:41:45 GMT",
+      "description": "Les Etats-Unis n'ont pas confirmé les commentaires du président ukrainien qui ont suivi les rencontres que les envoyés américains ont eu avec lui et Vladimir Poutine de Russie.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
       "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
       "date": "Sat, 14 Nov 2026 20:33:34 +0100",
       "description": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une « vulnérabilisation durable » de l’Europe.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "États-Unis: Duffy dit \"incompétence\" ou mauvaise technologie à blâmer pour les arrêts de vol",
+      "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 14 Nov 2026 20:33:00 GMT",
+      "description": "Les transporteurs aériens aux États-Unis ont annulé quelque 16 000 vols au cours des 24 dernières heures dans le plus grand de ces vols depuis le 11 septembre. Les fonctionnaires ont laissé entendre que l'incompétence ou l'équipement défectueux, et non la malfaisance, en sont la cause.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Votre voiture surveille-t-elle votre emplacement ? Voici comment vérifier et refuser",
+      "link": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+      "date": "Sat, 14 Nov 2026 20:30:00 +0000",
+      "description": "Les voitures modernes sont idéales pour l'exploitation des données des utilisateurs, et les grandes entreprises technologiques le savent. Il est important de savoir comment ces renseignements sont recueillis et comment les refuser.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Contrôle des faits: les exploitations à contenu iraniens atteignent des millions",
@@ -465,6 +545,14 @@
       "description": "Si votre ordinateur portable ne semble pas supporter une charge aussi bien qu'il l'était auparavant, commencez par vérifier les diagnostics que cet outil peut rapporter. Nous allons vous montrer comment l'utiliser.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "Inde L'Etat Assam démolit les maisons de 132 familles musulmanes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 20:14:10 +0000",
+      "description": "Les autorités indiennes ont démoli les maisons de 132 familles musulmanes.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Allègements de charges : le ministre du Travail assure que les entreprises ont «la parole du gouvernement»",
@@ -531,22 +619,6 @@
       "category": "Monde"
     },
     {
-      "title": "Combien coûte Internet à domicile en 2001 contre 2026?",
-      "link": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
-      "date": "Sat, 14 Nov 2026 19:45:00 +0000",
-      "description": "Beaucoup de choses sont devenues plus chères depuis le début du millénaire. Internet a-t-il subi le même sort ? Faisons un voyage dans la voie de la mémoire.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Cette clé gauche de '1' sur de nombreux claviers est en fait cruciale pour les programmeurs",
-      "link": "https://www.engadget.com/2309616/that-key-left-of-1-on-many-keyboards-is-actually-crucial-for-programmers/",
-      "date": "Sat, 14 Nov 2026 19:30:00 +0000",
-      "description": "L'humble tilde a de nombreuses utilisations.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Des dizaines de milliers marchent dans les dernières manifestations au Portugal sur le logement",
       "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
       "date": "Sat, 14 Nov 2026 19:27:55 +0000",
@@ -571,28 +643,12 @@
       "category": "France"
     },
     {
-      "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 19:21:10 GMT",
-      "description": "Le président ukrainien dit que les envoyés américains ont soutenu l'échange dans le cadre des efforts visant à mettre fin à la guerre avec la Russie.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Le pape Léon exhorte à mettre fin à la violence au Pérou lors de la visite à la ville des Andes lointaines",
       "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
       "date": "Sat, 14 Nov 2026 19:20:11 +0000",
       "description": "A Santa Cruz de Succhabamba, le pape a dit aux gens de ne pas réagir à l'injustice avec brutalité.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Comment faire durer votre batterie Nintendo Switch 2 plus longtemps",
-      "link": "https://www.engadget.com/2312052/how-to-make-switch-2-battery-last-longer/",
-      "date": "Sat, 14 Nov 2026 19:15:00 +0000",
-      "description": "La durée de vie de la batterie du Switch 2 varie selon le jeu que vous jouez, mais modifier certains paramètres peut également vous aider à maximiser la durée de vie.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "La mise à niveau du fil de cuivre a causé la suspension des vols à l'échelle nationale, dit le secrétaire des transports américains",
@@ -617,14 +673,6 @@
       "description": "Le président LR du Sénat propose aux candidats une réunion «dans les meilleurs délais» pour évoquer une «méthode de départage» qui aboutirait à une candidature unique. La pression s’accentue sur Edouard Philippe, qui refuse de participer à une primaire.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "5 excellentes applications gratuites Apple Watch que chaque propriétaire devrait connaître",
-      "link": "https://www.engadget.com/2311959/free-apple-watch-apps/",
-      "date": "Sat, 14 Nov 2026 19:00:00 +0000",
-      "description": "Vous pouvez profiter d'excellentes applications Apple Watch sans avoir à shell out pour un abonnement.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "«Mamies du futur», militants des droits humains, collectifs enfantistes… A Paris, une manifestation bigarrée et une moindre affluence",
@@ -673,14 +721,6 @@
       "description": "L'arrêt au sol de la FAA a eu lieu après les mises à jour d'un ancien système de communication géré par L3Harris Technologies, a déclaré le secrétaire aux Transports Sean Duffy samedi.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Les États-Unis accusent la technologie désuète de perturber les vols à l'échelle nationale",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 18:32:40 +0000",
-      "description": "Les États-Unis accusent la technologie désuète de perturber les vols à l'échelle nationale",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Italie amendes Meta €805m sur l'accès aux photos des utilisateurs",
@@ -859,14 +899,6 @@
       "category": "France"
     },
     {
-      "title": "Prix Werner Holzer décerné à Katja Gloger et Jaafar Abdul Karim de DW",
-      "link": "https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 15:24:00 GMT",
-      "description": "La journaliste DW Jaafar Abdul Karim et la correspondante russe Katja Gloger ont reçu le prestigieux prix Werner Holzer pour le journalisme international.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Teddy Riner réfute être macroniste et qualifie de \"baiser empoisonné\" les félicitations de Macron",
       "link": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron",
       "date": "Sat, 14 Nov 2026 15:12:57 GMT",
@@ -936,14 +968,6 @@
       "date": "Sat, 14 Nov 2026 14:33:00 +0000",
       "description": "Un ancien commandant du SAS a accusé l'État d'avoir rompu un « contrat moral » entre le pays et ses principaux soldats en établissant une enquête sur les crimes de guerre qui n'a pas abouti à des conclusions depuis quatre ans.",
       "source": "Sky News",
-      "category": "Monde"
-    },
-    {
-      "title": "Deuxième tentative de capture de la fusée SpaceX Starship",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 14:18:41 GMT",
-      "description": "La tentative suit un effort infructueux pour attraper le booster de fusées qui est tombé à la place dans l'océan.",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -1131,14 +1155,6 @@
       "category": "Économie"
     },
     {
-      "title": "Ukraine: Zelensky dit que l'accord de sécurité pourrait aller au référendum",
-      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 11:40:00 GMT",
-      "description": "Les États-Unis ont abordé l'idée que Kiev abandonne la région de Donbas en échange de l'adhésion à l'OTAN, a déclaré le président ukrainien.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "10 meilleures affaires d'écoute du vendredi noir tôt (2026): Jusqu'à 50% de rabais",
       "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
       "date": "Sat, 14 Nov 2026 11:30:00 +0000",
@@ -1153,14 +1169,6 @@
       "description": "Ces vieux liens que vous partagez avec des amis d'il y a longtemps sont encore en vie, et ils pourraient attirer des visiteurs indésirables.",
       "source": "WIRED",
       "category": "Technologie"
-    },
-    {
-      "title": "Nouvelles installations au Laos et au Cambodge : La Chine étend-elle sa présence militaire en Asie du Sud-Est ?",
-      "link": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 11:24:00 GMT",
-      "description": "La Chine a développé ses relations économiques en Asie du Sud-Est. Aujourd'hui, de nouvelles installations militaires au Laos et au Cambodge font craindre l'expansion des réseaux militaires chinois dans les petits pays.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Comment repérer la parade planétaire de novembre dans le ciel d'avant le jour",
@@ -1323,10 +1331,10 @@
       "category": "Sciences"
     },
     {
-      "title": "Acte V en direct : 106 000 manifestants mobilisés selon la police, 200 000 selon un syndicat",
+      "title": "Acte V de la colère sociale : une mobilisation en baisse, des incidents dans plusieurs villes",
       "link": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v",
       "date": "Sat, 14 Nov 2026 06:55:23 GMT",
-      "description": "Quelque 106 000 personnes ont manifesté samedi en France, dont 24 000 à Paris, lors de l'acte V du mouvement social, a annoncé samedi après-midi le ministère de l'Intérieur. Une mobilisation inférieure à la semaine dernière, qui avait réuni 146 000 personnes, dont 46 000 dans la capitale selon cette même source.. Suivez notre direct.",
+      "description": "Quelque 106 000 personnes ont manifesté samedi en France, dont 24 000 à Paris, lors de l'acte V du mouvement social, a annoncé samedi après-midi le ministère de l'Intérieur. Une mobilisation inférieure à la semaine dernière, qui avait réuni 146 000 personnes, dont 46 000 dans la capitale selon cette même source. La place Beauvau a toutefois souligné ​que la situation a été globalement ​maîtrisée en dépit d'incidents dans plusieurs villes. Retrouvez les événements de cette journée sur notre fil.",
       "source": "France 24",
       "category": "France"
     },
@@ -1336,7 +1344,7 @@
       "date": "Sat, 14 Nov 2026 06:42:28 EST",
       "description": "Les scientifiques ont mis au point une méthode efficace pour transformer les terrains de café usagés en source potentielle de biodiésel tout en préservant les restes d'autres combustibles renouvelables et de produits chimiques précieux. Cette découverte pourrait transformer des millions de tonnes de déchets de café jetés en une ressource étonnamment utile pour l'énergie durable.",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "Microsoft dit des services entièrement restaurés après une journée de panne mondiale",
@@ -1763,14 +1771,6 @@
       "category": "Économie"
     },
     {
-      "title": "Projet de loi résilience : comment la France veut rattraper son retard en cybersécurité",
-      "link": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9",
-      "date": "Fri, 13 Nov 2026 18:36:52 GMT",
-      "description": "Alors que les cyberattaques se multiplient en France, l’Assemblée s'apprête à adopter, mardi, la loi résilience sur le renforcement de la cybersécurité. Retardé depuis deux ans, le texte multiplie par dix le nombre d’entités régulées et impose des sanctions financières en cas de manquement aux obligations de prévention, sans prévoir de financements supplémentaires.",
-      "source": "France 24",
-      "category": "France"
-    },
-    {
       "title": "Les drones arrivent ! Nouvelles innovations proposées dans UAS tech-defense News Weekly Full Episode 11.10.26",
       "link": "https://www.defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
       "date": "Fri, 13 Nov 2026 18:14:51 +0000",
@@ -1880,7 +1880,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "description": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "«A l'avant de son temps: l'IA aide à débloquer les découvertes cachées dans des cahiers d'hommes qui ont transformé les mathématiques",
@@ -1920,7 +1920,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "description": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont en orbite terrestre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement de [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Hermeus recrute Northrop Grumman pour le programme de drone Quarterhorse",
@@ -2136,7 +2136,7 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD: 2026 13 novembre – NGC... Aujourd'hui Archive APOD Soumissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. NGC 206 [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Un rebord mondial pour les mangroves",
@@ -2144,7 +2144,7 @@
       "date": "Fri, 13 Nov 2026 05:01:00 +0000",
       "description": "Après des décennies de déclin, ce type de forêt d'importance écologique fait son retour.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "La puissance sinistre du vendredi 13 : comment cette date maligne affecte nos vies",
