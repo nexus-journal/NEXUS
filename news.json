@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T21:48:25.928335+00:00",
-  "count": 289,
+  "updated_at": "2026-11-14T22:21:08.100785+00:00",
+  "count": 290,
   "articles": [
     {
       "title": "Que savoir de cette année?",
@@ -152,7 +152,7 @@
       "date": "Thu, 12 Nov 2026 20:10:02 +0000",
       "description": "Pour Katie Spicer, saisir l'occasion et le défi a conduit à des sauts géants pendant son séjour à la NASA. Maintenant que la NASA dirige l'intégration des atterrisseurs pour Blue Origin, Blue Moon Mark 2 atterrisseur, l'un des systèmes d'atterrissage humain fournis commercialement pour le programme de NASA, Spicer aura son empreinte sur l'histoire. Spicer travaille dans le [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -184,7 +184,7 @@
       "date": "Thu, 12 Nov 2026 19:12:49 +0000",
       "description": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de la NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de la NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Un robot a assemblé une structure dans l'espace pour la première fois",
@@ -379,6 +379,14 @@
       "category": "Monde"
     },
     {
+      "title": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
+      "link": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
+      "date": "Sat, 14 Nov 2026 22:55:17 +0100",
+      "description": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et envoyer des data centers dans l’espace.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
       "link": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
       "date": "Sat, 14 Nov 2026 22:29:52 +0100",
@@ -393,6 +401,62 @@
       "description": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucksmann reculent, alors que le judoka Teddy Riner recueille 4,5 % dans l’un des scénarios testés.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "SpaceX arrive au sommet de l'énorme fusée Starship pour la première fois",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 22:15:52 GMT",
+      "description": "L'étape de la fusée a été prise au milieu de l'air à l'aide d'énormes bras mécaniques surnommé \"Chopsticks\".",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Comment obtenir de meilleurs résultats de Google Gemini",
+      "link": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+      "date": "Sat, 14 Nov 2026 22:15:00 +0000",
+      "description": "Ces conseils et astuces vous aideront à mieux inciter Gemini.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Tu peux le croire ? SpaceX capte une partie de sa fusée Starship à son retour sur Terre",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 22:09:40 GMT",
+      "description": "SpaceX a effectué la capture historique en utilisant des bras mécaniques surnommés \"choppicks\".",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Le premier astronaute étranger visitera la station spatiale chinoise Tiangong en deux semaines",
+      "link": "https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks",
+      "date": "Sat, 14 Nov 2026 22:07:56 +0000",
+      "description": "L'Agence spatiale chinoise (ASM) emmènera un astronaute pakistanais à Tiangong dans le cadre de la mission Shenzou 24, marquant la première fois qu'un astronaute étranger se rendra à la station.",
+      "source": "Universe Today",
+      "category": "Exploration"
+    },
+    {
+      "title": "Ronaldo-less Portugal a battu 4-1 par le Danemark dans la Société des Nations",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 22:00:45 +0000",
+      "description": "Rasmus Hojlund joue avec l'accessoire tandis que le Danemark se rapproche sur une place en quart de finale de la Ligue des Nations.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Honor Magic8 Pro vs. Magic9 Pro Max: Qu'est-ce qui a été amélioré?",
+      "link": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/",
+      "date": "Sat, 14 Nov 2026 22:00:00 +0000",
+      "description": "Cette mise à niveau Pro est plus que le rafraîchissement typique d'une année sur l'autre, mais le nouveau phare nous donne une assez bonne idée de l'endroit où Honor a mis ses priorités.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
+      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "date": "Sat, 14 Nov 2026 21:52:01 GMT",
+      "description": "Le Starship Test Flight 15 a marqué la première fois que la compagnie d'Elon Musk tentait d'attraper le booster et l'étage supérieur de la fusée.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
@@ -414,7 +478,7 @@
       "title": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
       "link": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
       "date": "Sat, 14 Nov 2026 21:43:20 GMT",
-      "description": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, ont respectivement annoncé le ministère de l'Intérieur et l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
+      "description": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
       "source": "France 24",
       "category": "France"
     },
@@ -425,14 +489,6 @@
       "description": "La pétition avait attiré plus de 115 000 signatures à partir de samedi après-midi.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
-      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-      "date": "Sat, 14 Nov 2026 21:40:27 GMT",
-      "description": "Le Starship Test Flight 15 marque la première fois que la compagnie d'Elon Musk a essayé d'attraper le booster et l'étage supérieur de la fusée.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Les vols américains reprennent après le vieillissement de la technologie accusé de panne",
@@ -523,14 +579,6 @@
       "category": "Monde"
     },
     {
-      "title": "Deuxième tentative de capture lorsque la fusée SpaceX Starship retourne sur Terre",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 21:05:14 GMT",
-      "description": "La tentative suit un effort infructueux pour attraper le booster de fusées qui est tombé à la place dans l'océan.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Les prochaines élections au Nigeria sont entachées par la désinformation croissante de l'IA",
       "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 14 Nov 2026 21:05:00 GMT",
@@ -551,14 +599,6 @@
       "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
       "date": "Sat, 14 Nov 2026 21:00:00 +0000",
       "description": "Le cache de votre téléviseur est une collection de fichiers temporaires, dont vous n'avez plus besoin. Voilà pourquoi vous pourriez vouloir les effacer – et comment.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "SpaceX capture avec succès Starship après son lancement pour la première fois",
-      "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
-      "date": "Sat, 14 Nov 2026 20:54:14 +0000",
-      "description": "Alors que la compagnie a tiré ce tour quelques fois avec Super Heavy boosters, c'était une première pour le navire.",
       "source": "Engadget",
       "category": "Technologie"
     },
@@ -585,14 +625,6 @@
       "description": "Le dirigeant a rencontré des dirigeants européens et les émissaires de Donald Trump dans la foulée de deux jours de pourparlers entre l'Ukraine et la Russie à Abou Dhabi.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "Comment effacer le cache sur votre Xbox Series X",
-      "link": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
-      "date": "Sat, 14 Nov 2026 20:45:00 +0000",
-      "description": "Effacer le cache sur votre Xbox Series X peut l'aider à conserver sa snappiness tout en évitant les problèmes, ou vous pouvez effectuer une réinitialisation de console si tout le reste échoue.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
@@ -625,14 +657,6 @@
       "description": "Plusieurs comptes de médias sociaux prétendant représenter l'armée iranienne montrent des signes d'appartenance à des fermes dites de contenu. DW Fact Check examine comment ils fonctionnent et comment les utilisateurs peuvent les repérer.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
-      "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
-      "date": "Sat, 14 Nov 2026 20:18:07 +0100",
-      "description": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Inde L'Etat Assam démolit les maisons de 132 familles musulmanes",
@@ -695,14 +719,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
       "date": "Sat, 14 Nov 2026 19:46:36 +0000",
       "description": "Au moins deux personnes, un homme et une fille, ont été tuées dans une explosion de voiture piégée à Jaramana, près de Damas, la capitale syrienne.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Plus de 100 000 rallyes à travers la France lors des nouvelles manifestations de Yellow Vest",
-      "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 19:46:24 +0000",
-      "description": "Les manifestants scandaient contre le déclin de l'accessibilité, le gouvernement Macron, la violence policière et les mauvaises conditions scolaires.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -1107,10 +1123,10 @@
       "category": "Sciences"
     },
     {
-      "title": "Watch SpaceX tentera d'atterrir sa première fusée en orbite (livestream)",
+      "title": "'Maintenant tout change': SpaceX capture Starship au premier étage pour la 1ère fois",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
       "date": "Sat, 14 Nov 2026 13:00:00 +0000",
-      "description": "SpaceX prévoit d'attraper l'étape supérieure de son mégapropulseur Starship aujourd'hui (Nov. 14), et vous pouvez regarder l'action sans précédent en direct.",
+      "description": "SpaceX a pris l'étape supérieure de son mégapropulseur Starship pour la première fois aujourd'hui (Nov. 14), une réalisation marquante qui pourrait libérer l'immense potentiel du véhicule géant.",
       "source": "Space.com",
       "category": "Exploration"
     },
@@ -1843,14 +1859,6 @@
       "category": "Économie"
     },
     {
-      "title": "Shape-Shifting Robotic \"Slugs\" pourrait un jour tomber dans les mondes étrangers",
-      "link": "https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds",
-      "date": "Fri, 13 Nov 2026 17:10:44 +0000",
-      "description": "Les robots ont été un pilier de nos premiers efforts d'exploration spatiale. Mais ils ont normalement des roues. Ou dans certains cas, les rotors. Bien que ces solutions soient excellentes sur un terrain plat, elles luttent avec des blocs déchiquetés ou des crevasses serrées. Les ingénieurs ont donc travaillé sur d'autres facteurs de forme robotique, et un récent article dans Nature Machine Intelligence de chercheurs de l'Université d'État du Colorado, décrit une morphologie unique",
-      "source": "Universe Today",
-      "category": "Exploration"
-    },
-    {
       "title": "L'Italie stimule les dépenses des chasseurs du GCAP à mesure que les véhicules de l'Armée prennent un coup dans le budget",
       "link": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
       "date": "Fri, 13 Nov 2026 17:04:55 +0000",
@@ -1880,7 +1888,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "description": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "«A l'avant de son temps: l'IA aide à débloquer les découvertes cachées dans des cahiers d'hommes qui ont transformé les mathématiques",
@@ -1920,7 +1928,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "description": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont en orbite terrestre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement de [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Hermeus recrute Northrop Grumman pour le programme de drone Quarterhorse",
@@ -2136,7 +2144,7 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD: 2026 13 novembre – NGC... Aujourd'hui Archive APOD Soumissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. NGC 206 [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Un rebord mondial pour les mangroves",
@@ -2144,7 +2152,7 @@
       "date": "Fri, 13 Nov 2026 05:01:00 +0000",
       "description": "Après des décennies de déclin, ce type de forêt d'importance écologique fait son retour.",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "La puissance sinistre du vendredi 13 : comment cette date maligne affecte nos vies",
