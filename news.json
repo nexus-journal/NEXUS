@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T16:10:10.524066+00:00",
+  "updated_at": "2026-11-15T16:52:53.092161+00:00",
   "count": 288,
   "articles": [
     {
@@ -73,14 +73,6 @@
       "description": "Plus de 92 000 personnes se sont inscrites pour assister au sommet climatique COP31 à Antalya, en Turquie, ce qui pourrait en faire le plus grand... Le post Analyse: Quels pays ont envoyé le plus de délégués à la COP31? paru en premier sur Carbon Brief .",
       "source": "Carbon Brief",
       "category": "Environnement"
-    },
-    {
-      "title": "Programme de Jean-Luc Mélenchon : quelles sont les mesures qui vous concernent ?",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/programme-de-jean-luc-melenchon-quelles-mesures-vous-concernent-20261110",
-      "date": "Tue, 10 Nov 2026 15:49:09 +0100",
-      "description": "OUTIL INTERACTIF - Retraités, propriétaires, patrons, héritiers… Le Figaro a passé le programme de Jean-Luc Mélenchon au crible d’une analyse sémantique pour vous aider à repérer les mesures qui vous concernent directement.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Lewis Hamilton visite l'Egypte au terminal de Rafah et aux installations d'aide de Gaza",
@@ -323,6 +315,30 @@
       "category": "Exploration"
     },
     {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 17:36:04 +0100",
+      "description": "Derrière la large banderole noire floquée du portrait de son neveu, un des oncles de la victime a voulu organiser cette marche blanche \"pour faire porter la voix\" de son proche décédé.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Détestés à droite, doublés sur leur gauche, déclassés économiquement : le crépuscule des bobos",
+      "link": "https://www.lefigaro.fr/vox/societe/detestes-a-droite-doubles-sur-leur-gauche-declasses-economiquement-le-crepuscule-des-bobos-20261115",
+      "date": "Sun, 15 Nov 2026 17:30:00 +0100",
+      "description": "RÉCIT - Les scènes d’émeutes du 17 octobre dans le Paris des coffee shops ont mis à nu le déclassement des bobos. Devenue la cible favorite de la gauche mélenchoniste, qui lui reproche sa tiédeur, cette population est en train de perdre son statut économique, rattrapée par l’IA.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+      "link": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 17:22:50 +0100",
+      "description": "L'Estonie dit avoir déjoué in extremis une nouvelle tentative d'incendie d'une usine de drones orchestrée, selon elle, par le renseignement militaire russe.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "Débat, primaire, irruption de Teddy Riner et David Lisnard… La campagne en défense d’Édouard Philippe",
       "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/debat-primaire-irruption-de-teddy-riner-et-david-lisnard-la-campagne-en-defense-d-edouard-philippe-20261115",
       "date": "Sun, 15 Nov 2026 17:06:32 +0100",
@@ -331,28 +347,52 @@
       "category": "France"
     },
     {
-      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attaque raciste de Trappes",
-      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 17:02:15 +0100",
-      "description": "Derrière la large banderole noire floquée du portrait de son neveu, un des oncles de la victime a voulu cette marche blanche \"pour faire porter la voix\" de son proche décédé.",
-      "source": "franceinfo",
+      "title": "Bessent appelle à \"dramatique shakeup\" chez Nvidia, exhorte à l'extérieur PDG",
+      "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "date": "Sun, 15 Nov 2026 16:49:11 GMT",
+      "description": "Bessent a critiqué Howard Lutnick (département de Lutnick) au sujet d'un détournement présumé de puces vers la Chine tout en défendant le président Donald Trump.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le Cap-Vert va aux élections présidentielles",
+      "link": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 16:47:00 GMT",
+      "description": "Connue pour sa stabilité politique et sa bonne gouvernance, la nation insulaire votera pour son prochain président. Environ 420 000 personnes peuvent voter",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Un journaliste collaborateur régulier de l’AFP a été arrêté par les forces israéliennes en Cisjordanie occupée",
+      "link": "https://www.liberation.fr/international/moyen-orient/un-journaliste-collaborateur-regulier-de-lafp-a-ete-arrete-par-les-forces-israeliennes-en-cisjordanie-occupee-20261115_3Z4K72QEHNGKNPJSQBXFBCBHQE/",
+      "date": "Sun, 15 Nov 2026 16:46:02 +0000",
+      "description": "Ce dimanche 15 novembre, des soldats israéliens ont interpellé à son domicile un journaliste pigiste de l’Agence France Presse, soupçonné de «liens avec le Hamas».",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "Incendie en Gironde : au Porge, où « personne n’est resté à la rue », des relogements temporaires et des inquiétudes sur la reconstruction",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/15/incendie-en-gironde-au-porge-ou-personne-n-est-reste-a-la-rue-des-relogements-temporaires-et-des-inquietudes-sur-la-reconstruction_6811032_3224.html",
-      "date": "Sun, 15 Nov 2026 17:00:07 +0100",
-      "description": "Les quelque 250 foyers touchés par les feux de juillet ont pu retrouver un toit, notamment dans les meublés touristiques, d’où ils devront repartir avant l’été. De nombreux propriétaires attendent surtout de savoir dans quelles conditions ils pourront reconstruire.",
-      "source": "Le Monde",
-      "category": "France"
+      "title": "Pourquoi certains connecteurs USB ont ces 2 trous carrés?",
+      "link": "https://www.engadget.com/2313749/why-some-usb-connectors-have-2-square-holes/",
+      "date": "Sun, 15 Nov 2026 16:45:00 +0000",
+      "description": "Certains connecteurs USB, y compris USB-A, disposent de deux petits trous qui ont un objectif important. D'autres connecteurs USB manquent ces trous pour une raison, aussi.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
-      "title": "Grièvement brûlée par son conjoint, une femme est morte près de Bordeaux",
-      "link": "https://www.franceinfo.fr/societe/feminicides/grievement-brulee-par-son-conjoint-une-femme-est-morte-pres-de-bordeaux_8283656.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 16:41:35 +0100",
-      "description": "L'homme est mort dans l'incendie du domicile à Saint-Denis-de-Pile et la victime avait d'abord été \"évacuée en urgence\" au centre hospitalier de Bordeaux, avant de succomber à ses blessures.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "Les Tchèques se rallient contre le plan de changement de financement des médias publics",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 16:36:42 GMT",
+      "description": "Les manifestants affirment que cette mesure étouffera la liberté des médias, tandis que le gouvernement de coalition insiste pour que les radiodiffuseurs réduisent leurs coûts.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Israël a kidnappé des généraux iraniens en quête de Ron Arad",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "date": "Sun, 15 Nov 2026 16:32:31 +0000",
+      "description": "Les responsables israéliens étaient convaincus que Téhéran était responsable de la disparition de l'aviateur. Les théories alternatives ont reçu peu d'attention, jusqu'à maintenant.",
+      "source": "The New York Times",
+      "category": "Monde"
     },
     {
       "title": "Édouard Philippe accepte une réunion de la droite et du centre autour de Gérard Larcher, mais pas pour parler d’une primaire",
@@ -371,12 +411,68 @@
       "category": "France"
     },
     {
+      "title": "Katarzyna Kalwat, un théâtre hanté par la honte",
+      "link": "https://www.liberation.fr/culture/scenes/katarzyna-kalwat-un-theatre-hante-par-la-honte-20261115_HHAP6U2EUBFQHGOS7G4ETVEOO4/",
+      "date": "Sun, 15 Nov 2026 16:30:16 +0000",
+      "description": "Admiratrice de Didier Eribon et Annie Ernaux, la metteuse en scène polonaise s’attaque à son tour aux problèmes de hiérarchie sociale, en moquant les mécanismes dans ses pièces redoutablement mordantes.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Le codage des vibrations change la façon dont les musiciens personnalisent leur équipement",
+      "link": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
+      "date": "Sun, 15 Nov 2026 16:30:00 +0000",
+      "description": "L'IA change à peu près toutes les industries, même la musique. C'est ainsi que les musiciens utilisent le code vibe pour modifier leur son, leur équipement et comment la musique est faite.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
       "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 16:16:05 +0100",
       "description": "Le président du Sénat a proposé aux candidats de la droite et du centre de \"se retrouver dans les meilleurs délais\" pour évoquer \"la méthode de départage\" permettant d'aboutir à une candidature unique à la présidentielle.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Gaming PC GPUs contre console GPUs: Quelle est la différence entre eux ?",
+      "link": "https://www.engadget.com/2313709/gaming-pc-vs-console-gpu-difference-between/",
+      "date": "Sun, 15 Nov 2026 16:15:00 +0000",
+      "description": "Bien que les joueurs de PC doivent y réfléchir davantage tout en assemblant leur machine, les consoles utilisent également des GPU. Voilà la différence entre eux.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'économie allemande retourne à la croissance, alors pourquoi le pays est-il encore inquiet ?",
+      "link": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 16:12:00 GMT",
+      "description": "L'économie allemande connaît une nouvelle croissance, quoique légèrement. Cependant, les économistes mettent en garde contre le fait que sans réformes, une productivité accrue et des finances publiques solides, une perte de prospérité et une dette croissante menacent les générations futures.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Prostitution des adolescentes : dans les tribunaux, un phénomène «vertigineux» pris très au sérieux",
+      "link": "https://www.liberation.fr/societe/sexualite-et-genres/prostitution-des-adolescentes-dans-les-tribunaux-un-phenomene-vertigineux-pris-tres-au-serieux-20261115_NACKUKAXEFG5ZIMGIES7GXSP74/",
+      "date": "Sun, 15 Nov 2026 16:09:25 +0000",
+      "description": "«Libération» a suivi cinq procès pour proxénétisme aggravé, impliquant des mineures parfois très jeunes, afin d’entendre les victimes, leurs parents, les proxénètes, les magistrats… Face à des cas «systémiques» qui s’accumulent, les personnels judiciaires espèrent une prise de conscience collective.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Avions cloués au sol aux Etats-Unis : des câbles en cuivre vétustes à l’origine des perturbations",
+      "link": "https://www.liberation.fr/international/amerique/avions-cloues-au-sol-aux-etats-unis-des-cables-en-cuivre-vetustes-a-lorigine-des-perturbations-20261115_7BLQEXRP2NHQ3G46IQIYY3KJLQ/",
+      "date": "Sun, 15 Nov 2026 16:07:40 +0000",
+      "description": "Deux jours après l’incident majeur qui a entraîné une paralysie totale du trafic aérien outre-Atlantique, les autorités évoquent le remplacement raté d’anciennes lignes de communication qui aurait eu des conséquences en cascade.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Le touriste britannique brise la statue de Jésus devant l'église de Vilnius",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 16:04:22 +0000",
+      "description": "Un homme a enlevé une statue de Jésus crucifié d'une église de Vilnius et elle s'est écrasée.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "La femme «très grièvement brûlée» par son conjoint, près de Bordeaux, est morte de ses blessures",
@@ -409,6 +505,14 @@
       "description": "La reprise des attaques après une accalmie de deux mois survient alors que les pourparlers de paix entre les États-Unis et l'Iran semblent avoir bloqué.",
       "source": "The New York Times",
       "category": "Monde"
+    },
+    {
+      "title": "«Nous avons réellement craint pour nos vies» : l’une des journalistes de BFMTV agressée à Lyon brise le silence",
+      "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/nous-avons-reellement-craint-pour-nos-vies-l-une-des-journalistes-de-bfmtv-agressee-a-lyon-brise-le-silence-20261115",
+      "date": "Sun, 15 Nov 2026 15:50:10 +0100",
+      "description": "Une équipe de la chaîne d’information en continu a violemment été agressée en marge de la manifestation ce samedi dans la ville des Lumières. Elle a tenu à faire passer un message dans une lettre ouverte.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Pouvez-vous utiliser votre téléphone Android comme haut-parleur d'ordinateur ?",
@@ -475,14 +579,6 @@
       "category": "Monde"
     },
     {
-      "title": "Sommet de la francophonie : à Phnom Penh, une succession sous tension",
-      "link": "https://www.liberation.fr/international/sommet-de-la-francophonie-a-phnom-penh-une-succession-sous-tension-20261115_NRACYD5AQNDZLBE2EBXZQXC7Z4/",
-      "date": "Sun, 15 Nov 2026 15:22:34 +0000",
-      "description": "Les membres de l’Organisation internationale de la francophonie doivent désigner leur secrétaire général lundi 16 novembre. Sur fond de conflit entre le Rwanda et la RDC, les tentatives françaises de compromis peinent à aboutir.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "La répression de la contrebande de pétrole en Irak désarmera-t-elle les milices sans conflit ?",
       "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 15:21:21 +0000",
@@ -515,22 +611,6 @@
       "category": "Monde"
     },
     {
-      "title": "Quelle quantité d'électricité votre système sonore domestique utilise-t-il habituellement?",
-      "link": "https://www.engadget.com/2313696/how-much-electricity-sound-system-uses/",
-      "date": "Sun, 15 Nov 2026 15:15:00 +0000",
-      "description": "Un système de son domestique est une excellente mise à niveau, mais il utilise de l'électricité qui signifie que vous payez pour l'électricité. Voici comment mesurer la puissance qu'il utilise.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "«Come Out» d’Olivier Dubois : à corps parfaits",
-      "link": "https://www.liberation.fr/culture/scenes/come-out-dolivier-dubois-a-corps-parfaits-20261115_54CHNV3UDZGZTBMKGXORES4MFM/",
-      "date": "Sun, 15 Nov 2026 15:15:00 +0000",
-      "description": "Le chorégraphe recrée la pièce emblématique de Steve Reich dans un hypnotique et puissant ballet de quatorze danseurs cadencés au son du compositeur minimaliste américain.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Tout savoir sur la fermeture de l’autoroute A13 entre Paris et Caen : durée des travaux, itinéraire de substitution et craintes de congestion",
       "link": "https://www.lemonde.fr/economie/article/2026/11/15/fermeture-de-l-a13-derriere-les-travaux-indispensables-la-crainte-de-congestion-sur-les-routes-des-hauts-de-seine_6811023_3234.html",
       "date": "Sun, 15 Nov 2026 15:06:48 +0100",
@@ -545,14 +625,6 @@
       "description": "Des funérailles massives ont été organisées à Gaza pour 70 Palestiniens dont les corps étaient piégés sous les décombres.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Pourquoi vos fans d'ordinateur portable tournent-ils, même quand vous ne faites rien",
-      "link": "https://www.engadget.com/2313693/laptop-fans-spin-up-not-doing-anything-why/",
-      "date": "Sun, 15 Nov 2026 15:00:00 +0000",
-      "description": "Les ventilateurs portables remplissent la fonction importante de s'assurer que votre appareil ne surchauffe pas. Mais s'ils continuent à tourner et à faire du bruit, il pourrait y avoir un problème.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Pourquoi le 'Blaze Star' n'a pas encore explosé ? Les astronomes pèsent sur ce à quoi s'attendre",
@@ -571,22 +643,6 @@
       "category": "Monde"
     },
     {
-      "title": "Des flammes engloutissent le camp de réfugiés syriens dans l ' est du Liban",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 14:55:40 +0000",
-      "description": "Un incendie a déchiré un camp de réfugiés syriens à Bar Elias, dans l'est du Liban.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le programme de Mélenchon : un toboggan vers une France appauvrie, par Alexandra Roulet",
-      "link": "https://www.liberation.fr/idees-et-debats/opinions/le-programme-de-melenchon-un-toboggan-vers-une-france-appauvrie-par-alexandra-roulet-20261115_6UCVHCU5WZCDTACBLP6DQG7R2U/",
-      "date": "Sun, 15 Nov 2026 14:54:14 +0000",
-      "description": "Si certaines orientations défendues par le candidat LFI au Bourget sont souhaitables, plusieurs choix structurants, sur le partage du travail, l’IA, le nucléaire et le financement desserviraient les intérêts des Français, et notamment des plus fragiles, analyse l’économiste.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Expulsions vers des pays tiers: ce que l’on sait du projet de «hubs de retour» préparé par cinq États européens",
       "link": "https://www.rfi.fr/fr/europe/20261115-expulsions-vers-des-pays-tiers-ce-que-l-on-sait-du-projet-pr%C3%A9par%C3%A9-par-cinq-%C3%A9tats-europ%C3%A9en",
       "date": "Sun, 15 Nov 2026 14:52:30 GMT",
@@ -595,28 +651,12 @@
       "category": "France"
     },
     {
-      "title": "Réchauffement climatique : cessons de voir les scientifiques comme des prophètes de malheur",
-      "link": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-cessons-de-voir-les-scientifiques-comme-des-prophetes-de-malheur-20261115_XPD4LJCT2FFIXDKOR6V34SDYYM/",
-      "date": "Sun, 15 Nov 2026 14:51:40 +0000",
-      "description": "Le discours des experts du climat est souvent jugé anxiogène. Pourtant, ils ne cessent de nous dire qu’il est encore temps d’agir. A quelques jours de la fin de la COP31 et à quelques mois de la présidentielle, la balle est dans le camp des politiques.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : trois ‌navires commerciaux attaqués par des drones en mer ​Noire, « une violation du droit international », dénonce la Roumanie",
+      "title": "EN DIRECT, guerre en Ukraine : l’Estonie va fermer sa frontière avec la Russie après une nouvelle tentative de sabotage",
       "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-les-restrictions-d-acces-a-starshield-persistent-et-empechent-kiev-de-se-proteger-des-attaques-russes-dit-volodymyr-zelensky_6810982_3210.html",
       "date": "Sun, 15 Nov 2026 14:48:24 +0100",
-      "description": "Il n’y a ⁠pas ‌eu de victimes et les ​équipages ont réussi à maîtriser les incendies dans ces navires, près du ‌canal de Sulina, l’un des bras du Danube, selon le gouvernement roumain. L’armée russe, qui multiplie les attaques en mer Noire depuis l’été, affirme viser des navires qui approvisionnent les forces ukrainiennes.",
+      "description": "« En raison de preuves manifestes indiquant que le GRU a ordonné une opération de sabotage contre une entreprise estonienne du secteur de la défense, l’Estonie fermera tous les postes-frontières avec la Russie à compter du 1er décembre », a dit le ministre des affaires étrangères, Margus Tsahkna.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Combien de temps votre GPU NVIDIA sera-t-il supporté ?",
-      "link": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
-      "date": "Sun, 15 Nov 2026 14:45:00 +0000",
-      "description": "Les cartes graphiques n'ont pas de date d'expiration sur la boîte., mais nous pouvons vous aider à comprendre quels clics sont les plus importants pour les performances de votre système.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Les militants polonais font face à l'opposition en rendant l'avortement plus accessible",
@@ -624,14 +664,6 @@
       "date": "Sun, 15 Nov 2026 14:40:00 GMT",
       "description": "Les lois sur l'avortement en Pologne sont très restrictives. Les activistes ont trouvé une nouvelle façon d'aider les femmes qui veulent mettre fin à une grossesse : l'\"Abortomat\", un casier qui distribue les pilules d'avortement. Mais ils font face à une opposition féroce.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Le port de la Nouvelle-Orléans dépose un procès d'un million de dollars pour \"miracle sur la collision du Mississippi\"",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 14:33:59 GMT",
-      "description": "Le procès intenté par les responsables de la Nouvelle-Orléans demande également que le pétrolier impliqué dans la collision avec le navire de croisière soit saisi et vendu pour payer des dommages-intérêts.",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -883,22 +915,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Après des décennies de sang et de méfiance, des doutes sur qui blâmer une otage israélienne",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "date": "Sun, 15 Nov 2026 09:36:59 +0000",
-      "description": "Des espions israéliens ont enlevé et tué des Iraniens. Ils étaient convaincus que Téhéran était responsable d'un aviateur tombé. Les théories alternatives ont reçu peu d'attention, jusqu'à maintenant.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Réquisitions, taxe foncière progressive, résidences secondaires en sursis… Comment Mélenchon veut administrer la propriété privée",
-      "link": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
-      "date": "Sun, 15 Nov 2026 09:36:04 +0100",
-      "description": "DÉCRYPTAGE - Dans son programme pour 2027, le candidat LFI cible en priorité les multipropriétaires et les bailleurs aisés. Ces derniers seraient invités à mettre la main à la poche et à laisser éventuellement l’État s’emparer de leurs biens immobiliers.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
       "link": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points",
       "date": "Sun, 15 Nov 2026 09:35:16 GMT",
@@ -955,14 +971,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Megaspeed dit qu'Alice Huang est partie en 2025 alors qu'elle lance une sonde interne dans des rapports sur ses activités",
-      "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-      "date": "Sun, 15 Nov 2026 08:34:46 GMT",
-      "description": "La société de cloud computing, basée à Singapour, a fait l'objet d'un examen approfondi depuis que des rapports lient Jensen Huang de Nvidia à l'ancienne directrice de Megaspeed Alice Huang.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "La Malaisie sélectionne Roketsan.",
       "link": "https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/",
       "date": "Sun, 15 Nov 2026 08:27:22 +0000",
@@ -995,14 +1003,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Nouvelles de l'Allemagne: L'Allemagne tient une journée nationale de commémoration",
-      "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 15 Nov 2026 07:23:00 GMT",
-      "description": "Des événements sont organisés pour « Volkstrauertag », une journée commémorant les victimes de la guerre et de l'oppression. Pendant ce temps, les experts disent que le pays se dirige vers une crise budgétaire. DW en a plus.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "«Prouvez que vous n'êtes pas un robot: comment l'escroquerie Captcha capture votre ordinateur",
       "link": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
       "date": "Sun, 15 Nov 2026 07:00:06 GMT",
@@ -1011,12 +1011,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Pékin fait face à son dilemme en Russie alors que l'on parle du sommet Xi-Trump-Putin",
-      "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 15 Nov 2026 06:31:00 GMT",
-      "description": "La Chine est contrainte de marcher soigneusement car elle envisage d'accueillir une réunion entre Xi Jinping, Vladimir Poutine et Donald Trump. Alors que l'optique est sûre de favoriser Moscou, Pékin risque son image sur la scène mondiale.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
+      "date": "Sun, 15 Nov 2026 06:30:01 +0100",
+      "description": "Depuis la déclaration officielle de l’épidémie le 15 mai, plus de 5 400 personnes en sont mortes en République démocratique du Congo. « Le Monde » est allé à la rencontre d’humanitaires, d’infirmiers, de victimes qui, chaque jour, font face à ce fléau invisible.",
+      "source": "Le Monde",
+      "category": "France"
     },
     {
       "title": "Jensen Huang a perdu l'esprit: comment l'homme le plus intelligent est tombé pour le plus vieux tour du monde",
@@ -1083,6 +1083,14 @@
       "category": "Économie"
     },
     {
+      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
+      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
@@ -1095,14 +1103,6 @@
       "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
       "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
       "source": "NPR",
       "category": "Monde"
     },
