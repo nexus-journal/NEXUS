@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T22:08:41.359735+00:00",
-  "count": 287,
+  "updated_at": "2026-11-15T22:51:08.715368+00:00",
+  "count": 288,
   "articles": [
     {
       "title": "Que savoir de cette année?",
@@ -144,7 +144,7 @@
       "date": "Thu, 12 Nov 2026 20:10:02 +0000",
       "description": "Pour Katie Spicer, saisir l'occasion et le défi a conduit à des sauts géants pendant son séjour à la NASA. Maintenant que la NASA dirige l'intégration des atterrisseurs pour Blue Origin, Blue Moon Mark 2 atterrisseur, l'un des systèmes d'atterrissage humain fournis commercialement pour le programme de NASA, Spicer aura son empreinte sur l'histoire. Spicer travaille dans le [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -176,7 +176,7 @@
       "date": "Thu, 12 Nov 2026 19:12:49 +0000",
       "description": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de la NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de la NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Un robot a assemblé une structure dans l'espace pour la première fois",
@@ -307,15 +307,31 @@
       "category": "Exploration"
     },
     {
+      "title": "France-Turquie : le résumé de la qualification laborieuse des Bleus en quarts de finale de la Ligue des nations de football",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
+      "date": "Sun, 15 Nov 2026 23:24:18 +0100",
+      "description": "L’équipe de France de football a dominé la Turquie (2-1), dimanche à Bordeaux, pour s’adjuger la première place du groupe A. Les Bleus connaîtront leurs adversaires en quarts de finale, vendredi, lors du tirage au sort à Nyon (Suisse).",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Les notes des Bleus face à la Turquie : Mbappé percutant, Da Cunha clairvoyant, Olise agaçant",
+      "link": "https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
+      "date": "Sun, 15 Nov 2026 23:19:43 +0100",
+      "description": "Découvrez les notes de l’équipe de France après la victoire contre la Turquie (2-1) dimanche soir lors de la 6e et dernière journée de Ligue des nations.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "France-Turquie : poussifs mais vainqueurs, les Bleus remplissent leur mission",
       "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
-      "date": "Sun, 15 Nov 2026 23:05:28 +0100",
+      "date": "Sun, 15 Nov 2026 23:11:51 +0100",
       "description": "Dans un match pas toujours maîtrisé, l’équipe de France a dominé la Turquie (2-1) et validé sa qualification en quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "L’équipe de France s’impose face à la Turquie et se qualifie pour les quarts de finale de la Ligue des nations",
+      "title": "Sans briller, l'équipe de France s’impose face à la Turquie et se qualifie pour les quarts de finale de la Ligue des nations",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 23:01:33 +0100",
       "description": "Les Bleus ont signé leur quatrième succès dans la compétition (2-1), dimanche soir à Bordeaux, et terminent premiers de leur groupe.",
@@ -339,12 +355,76 @@
       "category": "France"
     },
     {
+      "title": "On a dormi ici. Les retards de vol s'attardent mais l'horaire est de retour sur la bonne voie pour lundi",
+      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "date": "Sun, 15 Nov 2026 22:33:26 GMT",
+      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Réduire l'assurance nationale pour les moins de 25 ans pour créer des emplois, selon Milburn",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 22:30:03 GMT",
+      "description": "Le rapport lancé cette semaine suggérera une réduction progressive des coûts de l'emploi sur cinq ans.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "Samsung arrête ces applications mobiles utiles en Décembre",
+      "link": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
+      "date": "Sun, 15 Nov 2026 22:30:00 +0000",
+      "description": "Vous n'avez pas longtemps pour saisir les outils de réalité augmentée pour vos appareils Galaxy.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "La police interdit les manifestations près de 10 écoles et cinq universités à Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 22:28:54 GMT",
+      "description": "L'ordre sera en place du 16 au 20 novembre, dit Patrice Faure, chef de la police parisienne.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "L'espion chinois soupçonné lié à l'ex-boss de Nvidia gauche en 2025, Megaspeed dit",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 22:24:20 GMT",
+      "description": "Le scandale de Nvidia a soulevé des questions sur la question de savoir si les puces AI avancées ont fini en Chine, malgré les restrictions américaines.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
       "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
       "link": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
       "date": "Sun, 15 Nov 2026 22:21:56 +0100",
       "description": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Comment un enfant de 13 ans aide à résoudre une énorme limitation du panneau solaire",
+      "link": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
+      "date": "Sun, 15 Nov 2026 22:15:00 +0000",
+      "description": "La conception abordable de panneaux solaires bricolage de cet adolescent attire l'attention nationale, et pour de bonnes raisons.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Australie, Canada, Italie et Royaume-Uni exhortent Israël à autoriser l'aide à Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 22:06:38 +0000",
+      "description": "Les pays accusent Israël d'empêcher l'entrée de tentes et d'autres fournitures à Gaza, malgré la crise humanitaire.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Royaume-Uni aura une «voix» mais aucun vote sur les règles alimentaires de l'UE dans le Brexit reset",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 22:00:24 GMT",
+      "description": "Le ministre de l'UE Hamish Falconer insiste sur le fait que la Grande-Bretagne aurait une certaine influence sur la politique dans le cadre d'un nouvel accord.",
+      "source": "BBC News",
+      "category": "Économie"
     },
     {
       "title": "Comment obtenir des avertissements sur les caméras de vitesse dans Apple CarPlay",
@@ -371,12 +451,12 @@
       "category": "Technologie"
     },
     {
-      "title": "On a dormi ici. Les retards de vol s'attardent mais l'horaire est de retour sur la bonne voie pour lundi",
-      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "date": "Sun, 15 Nov 2026 21:48:16 GMT",
-      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "Le chef du Trésor américain demande à l'étranger de diriger Nvidia",
+      "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 21:47:47 +0000",
+      "description": "Scott Bessent donne au conseil d'administration de Nvidia 10 jours pour démontrer la conformité de l'entreprise aux contrôles à l'exportation américains.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Comment savoir si votre voiture supporte Apple CarPlay",
@@ -390,7 +470,7 @@
       "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
       "link": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations",
       "date": "Sun, 15 Nov 2026 21:39:35 GMT",
-      "description": "L'équipe de France avait besoin d'un match nul contre la Turquie à Bordeaux ce dimanche 15 novembre pour s'assurer une place en quarts de finale de la Ligue des nations. Elle a fait mieux que ça avec une victoire 2-1. Tout n'a pas été parfait et les Bleus se sont fait quelques frayeurs, mais Zinédine Zidane et son groupe remportent avec succès leur premier match couperet.",
+      "description": "L'équipe de France avait besoin d'un match nul contre la Turquie à Bordeaux, dimanche 15 novembre, pour s'assurer une place en quarts de finale de la Ligue des nations. Elle a fait mieux que ça avec une victoire 2-1. Tout n'a pas été parfait et les Bleus se sont fait quelques frayeurs, mais Zinédine Zidane et son groupe ont remporté leur premier match couperet.",
       "source": "RFI",
       "category": "France"
     },
@@ -443,28 +523,12 @@
       "category": "Monde"
     },
     {
-      "title": "Wi-Fi 8 est une tentative pour résoudre le plus gros problème avec Internet sans fil",
-      "link": "https://www.engadget.com/2313896/wifi-8-attempt-fix-biggest-problem-wireless-internet/",
-      "date": "Sun, 15 Nov 2026 21:15:00 +0000",
-      "description": "Avec les normes Wi-Fi actuelles atteignant au-delà des vitesses de consommation, Wi-Fi 8 entre dans la fraye avec une correction qui fait que ces vitesses signifient quelque chose.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Les Tchèques se rallient contre le plan de changement de financement des médias publics",
       "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 21:03:40 GMT",
       "description": "Les manifestants disent que cette mesure étouffera la liberté des médias, tandis que le gouvernement insiste sur la nécessité de réduire les coûts pour les radiodiffuseurs.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Spoter une fausse carte SD est plus facile que vous pensez",
-      "link": "https://www.engadget.com/2313899/how-to-spot-fake-sd-cards/",
-      "date": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "description": "Faux cartes SD ont été un problème depuis des années, mais il ya quelques étapes simples que vous pouvez prendre pour protéger votre portefeuille et vos fichiers.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Au revoir, trop de tourisme ? Voyages durables",
@@ -531,14 +595,6 @@
       "category": "Monde"
     },
     {
-      "title": "L'Estonie doit fermer ses frontières avec la Russie après une prétendue attaque à l'incendie",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 20:31:18 +0000",
-      "description": "L'Estonie ferme ses frontières avec la Russie à la suite d'une tentative présumée d'incendie criminel dans une usine de drones.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "SNL rassemble tous les tycoons techniques pour une leçon de datation et d'espion",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "date": "Sun, 15 Nov 2026 20:20:57 +0000",
@@ -553,14 +609,6 @@
       "description": "Le suspect a été interpellé dans la capitale par la BRI dans un \"état alcoolisé\" selon le parquet de Parquet, sans précisions supplémentaires concernant les menaces ou les cibles de l'individu.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "La Jordanie condamne à mort trois hommes à la suite d'une attaque meurtrière à l'église de Karak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 20:12:38 +0000",
-      "description": "La Jordanie condamne à mort trois hommes à la suite d'une attaque meurtrière à l'église de Karak",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Conflit au Yémen : les Houthis aux portes d’Aden",
@@ -625,14 +673,6 @@
       "description": "Les responsables israéliens étaient convaincus que Téhéran était responsable de la disparition de l'aviateur. Les théories alternatives ont reçu peu d'attention, jusqu'à maintenant.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "EN DIRECT, France-Turquie : mission accomplie pour les Bleus, vainqueurs et qualifiés pour les quarts de finale de la Ligue des nations",
-      "link": "https://www.lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
-      "date": "Sun, 15 Nov 2026 18:45:08 +0100",
-      "description": "Quatre jours après leur défaite en Italie, les joueurs de Zinédine Zidane ont su réagir, dimanche à Bordeaux, même s’ils ont souffert face à Arda Güler et ses coéquipiers (2-1). Avec la victoire de la Belgique contre la Nazionale, ils retrouvent même la première place de leur groupe, et disputeront la suite de la compétition.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Pope Leo monte dans le cockpit d'hélicoptère pendant le voyage au Pérou",
@@ -747,6 +787,14 @@
       "category": "Économie"
     },
     {
+      "title": "Loin de chez moi. Voyager 1 est plus loin que tout ce que l'homme a envoyé dans l'espace",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+      "date": "Sun, 15 Nov 2026 17:41:22 -0500",
+      "description": "Le Voyager 1 de la NASA, qui est l'objet artificiel le plus éloigné de la Terre, devrait franchir une nouvelle étape cette semaine. Mercredi, la sonde sera à environ 16 milliards de kilomètres de la Terre.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "La société prise dans la controverse de Nvidia lance une enquête interne",
       "link": "https://news.sky.com/story/company-caught-up-in-nvidia-controversy-launches-internal-investigation-13612539",
       "date": "Sun, 15 Nov 2026 17:30:00 +0000",
@@ -769,6 +817,14 @@
       "description": "Si des élections législatives sont organisées en 2027 après la présidentielle, elles reposeront sur une carte électorale qui n’a plus été retouchée depuis 2009. Alors que les autorités politiques tardent à se lancer dans ce chantier à haut risque, une commission dédiée s’est remise au travail.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Sydney Sweeney a un super jean. Qui les a créés ? (Psst: Travailleurs)",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+      "date": "Sun, 15 Nov 2026 17:07:55 -0500",
+      "description": "Sydney Sweeney a un grand jean, nous dit American Eagle Outfitters. Mais qui les a créés ? Et quelles sont les conditions de travail dans les usines de confection du Pakistan et du Bangladesh ?",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "À Banff, un ours grizzli connu sous le nom de « le boss » règle le parc national",
@@ -827,14 +883,6 @@
       "category": "Défense"
     },
     {
-      "title": "Jean-Pierre Robin : « À la recherche de la décennie perdue, 2017-2027, dont les Français sortent éreintés »",
-      "link": "https://www.lefigaro.fr/conjoncture/jean-pierre-robin-a-la-recherche-de-la-decennie-perdue-2017-2027-dont-les-francais-sortent-ereintes-20261115",
-      "date": "Sun, 15 Nov 2026 16:23:30 +0100",
-      "description": "CHRONIQUE - Des « gilets jaunes » aux colères des lycéens, le pays a connu dix ans durant une succession ininterrompue de crises jamais vraiment résolues et toutes fatales pour l’économie.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Les produits technologiques que nous recommandons avec enthousiasme cette saison des fêtes",
       "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
       "date": "Sun, 15 Nov 2026 16:00:00 +0000",
@@ -883,14 +931,6 @@
       "category": "Exploration"
     },
     {
-      "title": "L'espion chinois soupçonné lié à l'ex-boss de Nvidia gauche en 2025, Megaspeed dit",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 14:56:21 GMT",
-      "description": "Le scandale de Nvidia a soulevé des questions sur la question de savoir si les puces AI avancées ont fini en Chine, malgré les restrictions américaines.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Expulsions vers des pays tiers: ce que l’on sait du projet de «hubs de retour» préparé par cinq États européens",
       "link": "https://www.rfi.fr/fr/europe/20261115-expulsions-vers-des-pays-tiers-ce-que-l-on-sait-du-projet-pr%C3%A9par%C3%A9-par-cinq-%C3%A9tats-europ%C3%A9en",
       "date": "Sun, 15 Nov 2026 14:52:30 GMT",
@@ -907,20 +947,12 @@
       "category": "Environnement"
     },
     {
-      "title": "L'Iran vise la base militaire américaine à Bahreïn avec des attaques de drones",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 13:42:58 GMT",
-      "description": "Il marque la deuxième attaque contre le pays en trois jours et vient alors que les États-Unis et l'Iran restent enfermés dans un barrage au-dessus du détroit d'Hormuz.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Le meilleur scoreur de Corée du Sud dans l'examen de comptabilité fiscale admet la tricherie",
       "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 13:37:45 GMT",
       "description": "Han Won-seok, 34 ans, a avoué utiliser une caméra cachée et AI pour obtenir une marque presque parfaite sur le test significatif.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Naviguer dans l'orbite lunaire en utilisant des ombres et un compteur de puissance",
@@ -1195,14 +1227,6 @@
       "category": "Monde"
     },
     {
-      "title": "Une nouvelle génération de militants des droits des personnes handicapées poursuit l'héritage de Judy Heumann",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Italie amendes Meta $887m pour accéder aux utilisateurs Android",
       "link": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
       "date": "Sun, 15 Nov 2026 02:02:01 GMT",
@@ -1257,14 +1281,6 @@
       "description": "Johns Hopkins scientifiques ont découvert des signes d'avertissement cachés de la maladie d'Alzheimer qui peuvent apparaître jusqu'à une décennie avant que la perte de mémoire commence. Les analyses cérébrales ont révélé que deux régions impliquées dans la mémoire et l'émotion commencent à se rétrécir avant l'hippocampe, les médecins de la région examinent généralement les signes de la maladie d'Alzheimer. Ces premiers changements sont liés à une accumulation anormale de protéines de tau et pourraient fournir une nouvelle façon puissante d'identifier les personnes à risque.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "Trump explosions juge pour arrêter son projet de golf de Washington et dit qu'il va faire appel",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-      "date": "Sat, 14 Nov 2026 23:28:45 -0500",
-      "description": "Un juge fédéral a ordonné samedi un délai de deux semaines à tout travail sur un parcours de golf public historique de Washington non loin de la Maison Blanche.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Les scientifiques découvrent un paradoxe bizarre parmi les pingouins menacés",
@@ -1912,7 +1928,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "description": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "«A l'avant de son temps: l'IA aide à débloquer les découvertes cachées dans des cahiers d'hommes qui ont transformé les mathématiques",
@@ -1952,7 +1968,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "description": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont en orbite terrestre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement de [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Hermeus recrute Northrop Grumman pour le programme de drone Quarterhorse",
@@ -2099,14 +2115,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Pompes à chaleur: Combien de chaleur votre maison a-t-elle vraiment besoin ?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 09:29:25 GMT",
-      "description": "Savoir combien de chaleur votre maison perd est important avant d'installer un nouveau système de chauffage.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Au-delà de l'Hype : les avocats en chef de la Marine française pour une flotte hybride",
       "link": "https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/",
       "date": "Fri, 13 Nov 2026 09:25:44 +0000",
@@ -2136,7 +2144,7 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD: 2026 13 novembre – NGC... Aujourd'hui Archive APOD Soumissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. NGC 206 [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Un rebord mondial pour les mangroves",
@@ -2144,7 +2152,7 @@
       "date": "Fri, 13 Nov 2026 05:01:00 +0000",
       "description": "Après des décennies de déclin, ce type de forêt d'importance écologique fait son retour.",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "La puissance sinistre du vendredi 13 : comment cette date maligne affecte nos vies",
