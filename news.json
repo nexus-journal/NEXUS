@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T10:15:49.900473+00:00",
+  "updated_at": "2026-11-15T10:55:47.105070+00:00",
   "count": 289,
   "articles": [
     {
@@ -333,7 +333,7 @@
     {
       "title": "Inondations dans l’Hérault : la femme de 73 ans portée disparue a été retrouvée en vie sur le toit de sa voiture",
       "link": "https://www.lefigaro.fr/meteo/inondations-dans-l-herault-une-femme-de-73-ans-portee-disparue-20261115",
-      "date": "Sun, 15 Nov 2026 11:09:13 +0100",
+      "date": "Sun, 15 Nov 2026 11:23:03 +0100",
       "description": "Une femme de 73 ans portée disparue après les fortes pluies qui se sont abattues sur l’Hérault dans la nuit de samedi à dimanche, a été retrouvée saine et sauve par les secours.",
       "source": "Le Figaro",
       "category": "France"
@@ -347,12 +347,44 @@
       "category": "France"
     },
     {
+      "title": "Comment repérer la parade planétaire de novembre dans le ciel d'avant le jour",
+      "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 10:49:57 GMT",
+      "description": "Les planètes de Mercure, Vénus, Mars et Jupiter s'aligneront dans le ciel d'avant-saut tout au long du mois de novembre.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "A Lyon, une équipe de BFM TV agressée en marge de la manifestation",
+      "link": "https://www.liberation.fr/economie/medias/a-lyon-une-equipe-de-bfm-tv-agressee-en-marge-de-la-manifestation-20261115_NJ3DNAPMOBASXN2U2V336KF4NI/",
+      "date": "Sun, 15 Nov 2026 10:44:28 +0000",
+      "description": "Deux journalistes et deux agents de sécurité de la chaîne d’info ont été attaqués samedi 14 novembre alors qu’ils couvraient la mobilisation dans le Rhône. La police est intervenue pour les «protéger».",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
       "title": "Intempéries dans l'Hérault : la septuagénaire recherchée a été retrouvée saine et sauve",
       "link": "https://www.franceinfo.fr/faits-divers/une-septuagenaire-disparue-a-candillargues-apres-les-intemperies-dans-l-herault_8283239.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 10:36:42 +0100",
       "description": "Les sapeurs-pompiers ont effectué une centaine d'interventions en raison des fortes pluies qui ont secoué l'est du département.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Ça devient trop sec pour que même des cactus survivent",
+      "link": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+      "date": "Sun, 15 Nov 2026 10:30:00 +0000",
+      "description": "Alors que les sécheresses s'aggravent en raison des changements climatiques, de nouvelles recherches montrent que des centaines d'espèces de cactus pourraient perdre la majorité de leur habitat d'ici 2100.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Espagne entraîneur de football nie le racisme avant le match d'Angleterre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 10:28:28 +0000",
+      "description": "L'entraîneur espagnol a nié l'existence du racisme après que le manager de l'Angleterre ait dit qu'il informerait ses joueurs des protocoles antiracistes.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
@@ -397,7 +429,7 @@
     {
       "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
       "link": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-      "date": "Sun, 15 Nov 2026 10:00:17 +0100",
+      "date": "Sun, 15 Nov 2026 10:00:10 +0100",
       "description": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces. En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés.",
       "source": "Le Monde",
       "category": "France"
@@ -539,30 +571,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'Inde a retiré 500 millions de personnes de la pauvreté. Beaucoup d'entre eux survivent encore à peine",
-      "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 08:49:47 +0000",
-      "description": "Selon la Banque mondiale, l'Inde a retiré un nombre record de citoyens de la pauvreté, mais des millions d'entre eux vivent encore à l'écart.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html",
-      "date": "Sun, 15 Nov 2026 08:45:48 +0100",
-      "description": "Après huit ans et deux mandats de Louise Mushikiwabo, Kinshasa, qui accuse Kigali de soutenir le groupe armé rebelle du M23 dans ses provinces de l’Est, s’oppose à la reconduction de la Rwandaise à la tête de l’Organisation internationale de la francophonie.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Avions cloués au sol aux Etats-Unis : des câbles en cuivre vétustes à l’origine des perturbations",
-      "link": "https://www.liberation.fr/international/amerique/avions-cloues-au-sol-aux-etats-unis-des-cables-en-cuivre-vetustes-a-lorigine-des-perturbations-20261115_7BLQEXRP2NHQ3G46IQIYY3KJLQ/",
-      "date": "Sun, 15 Nov 2026 08:42:31 +0000",
-      "description": "Deux jours après l’incident majeur qui a entraîné une paralysie totale du trafic aérien outre-Atlantique, les autorités évoquent le remplacement raté d’anciennes lignes de communication qui aurait eu des conséquences en cascade.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Megaspeed dit qu'Alice Huang est partie en 2025 alors qu'elle lance une sonde interne dans des rapports sur ses activités",
       "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
       "date": "Sun, 15 Nov 2026 08:34:46 GMT",
@@ -675,14 +683,6 @@
       "category": "France"
     },
     {
-      "title": "« La cueillette est désastreuse » : les champignons, affaiblis par la sécheresse, sont de plus en plus rares",
-      "link": "https://www.lemonde.fr/planete/article/2026/11/15/la-cueillette-est-desastreuse-les-champignons-affaiblis-par-la-secheresse-sont-de-plus-en-plus-rares_6810979_3244.html",
-      "date": "Sun, 15 Nov 2026 06:00:15 +0100",
-      "description": "Dans la forêt domaniale de Hez-Froidmont, dans l’Oise, des mycologues amateurs s’inquiètent d’une raréfaction des champignons. Le déclin affecte ceux dont la partie sous terre est profonde, comme les trompettes-de-la-mort, les chanterelles en tube ou les pieds-de-mouton.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Jensen Huang a perdu l'esprit: comment l'homme le plus intelligent est tombé pour le plus vieux tour du monde",
       "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
       "date": "Sun, 15 Nov 2026 06:00:06 GMT",
@@ -703,6 +703,14 @@
       "link": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html",
       "date": "Sun, 15 Nov 2026 05:30:08 +0100",
       "description": "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer. Il s’est lancé dans un nouveau tour de France pour essayer de contrer les sondages et les critiques sur le manque d’enthousiasme de sa campagne.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Flavie Flament, dix ans de combat contre les violences sexuelles : « Quand on a été violée, on est en danger de viol toute sa vie »",
+      "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/15/flavie-flament-dix-ans-de-combat-contre-les-violences-sexuelles-quand-on-a-ete-violee-on-est-en-danger-de-viol-toute-sa-vie_6810941_4500055.html",
+      "date": "Sun, 15 Nov 2026 05:30:08 +0100",
+      "description": "En 2016, l’animatrice de télévision révélait que le photographe David Hamilton l’avait violée alors qu’elle avait 13 ans. Cette année, elle a porté plainte pour viol contre Patrick Bruel et publie « La Parole », une réflexion sur l’évolution de la société depuis son premier témoignage. Devenue une figure de la lutte contre les crimes sexuels, elle reprend peu à peu le contrôle de son histoire.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -763,10 +771,10 @@
       "category": "Économie"
     },
     {
-      "title": "La chute de Huangs montre que le jugement humain n'est pas tout.",
+      "title": "Quand le jugement humain n'est pas tout craqué pour être",
       "link": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
       "date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "description": "La qualité qui nous distingue des machines a été absente lors de l'implosion par l'ancien patron de Nvidia",
+      "description": "La qualité qui nous distingue des machines a été absente lors de l'implosion par l'ancien patron de Nvidia Jensen Huang",
       "source": "Financial Times",
       "category": "Économie"
     },
@@ -779,18 +787,18 @@
       "category": "Monde"
     },
     {
-      "title": "Une nouvelle génération de militants des droits des personnes handicapées poursuit l'héritage de Judy Heumann",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
       "description": "Dans plusieurs États, les démocrates ont pris le contrôle de législatures divisées et ont affaibli la domination du GOP dans d'autres. Questions à l'ordre du jour: Plus d'accès aux soins de santé, nouvelles limites aux bons scolaires.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Une nouvelle génération de militants des droits des personnes handicapées poursuit l'héritage de Judy Heumann",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
+      "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -835,6 +843,22 @@
       "category": "Technologie"
     },
     {
+      "title": "La vente des mortiers d’artifice, utilisés dans les manifestations et dans certains lycées, interdite jusqu’au 27 novembre",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/15/la-vente-des-mortiers-d-artifice-interdite-jusqu-au-27-novembre-par-le-gouvernement_6810775_3224.html",
+      "date": "Sun, 15 Nov 2026 01:47:24 +0100",
+      "description": "Face à une utilisation dangereuse de ces engins lors des manifestations, et parfois même dans les lycées, l’interdiction vise les artifices de catégories F2 et F3.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Dépanner un écran noir sur votre MacBook est plus facile que vous ne le pensez",
+      "link": "https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/",
+      "date": "Sun, 15 Nov 2026 01:30:00 +0000",
+      "description": "Un écran noir sur votre MacBook peut se sentir comme la fin du monde, mais ne paniquez pas: il ya plusieurs étapes faciles de dépannage pour essayer en premier.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "Quel GPU NVIDIA est le plus proche de la PS5 ? La réponse n'est pas si simple",
       "link": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
       "date": "Sun, 15 Nov 2026 01:00:00 +0000",
@@ -859,7 +883,7 @@
       "category": "Technologie"
     },
     {
-      "title": "SpaceX a rendu sa fusée Starship samedi, mais il y a une prise",
+      "title": "Avec Starship capture, SpaceX montre encore qu'il peut éblouir le monde",
       "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
       "date": "Sun, 15 Nov 2026 00:40:59 +0000",
       "description": "C'était comme entrer dans le futur.",
@@ -921,14 +945,6 @@
       "description": "See My World, un événement mettant en avant la pensée panafricaine par le cinéma, la poésie et la danse, s'appuie sur l'élan suscité par les activistes locaux et les créateurs.Les philosophies africaines, notamment l'exploration de la façon dont les leçons du passé peuvent façonner le présent et le futur proche, ont inspiré un festival de cinéma qui arrive à Manchester. Voir My World , une journée dédiée aux créateurs indépendants de toute la diaspora africaine dans le nord de l'Angleterre, aura lieu au Contact",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "Raisons communes votre Roku TV peut s'allumer par lui-même et comment le réparer",
-      "link": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
-      "date": "Sat, 14 Nov 2026 23:45:00 +0000",
-      "description": "Si votre téléviseur a été allumé au hasard et qu'il a un Roku attaché à elle, cela pourrait être le fait de votre Roku. Vérifiez ces paramètres.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Alzheimer peut commencer à rétrécir deux régions du cerveau années avant la perte de mémoire",
@@ -1008,7 +1024,7 @@
       "date": "Sat, 14 Nov 2026 22:15:52 GMT",
       "description": "L'étape de la fusée a été prise au milieu de l'air à l'aide d'énormes bras mécaniques surnommés \"choppicks\".",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Le premier astronaute étranger visitera la station spatiale chinoise Tiangong en deux semaines",
@@ -1275,14 +1291,6 @@
       "category": "Exploration"
     },
     {
-      "title": "L'ancien chef de la SAS reproche à l'État d'avoir rompu le \"contrat moral\" avec des soldats",
-      "link": "https://news.sky.com/story/former-sas-chief-blames-state-for-breaking-moral-contract-with-soldiers-13612211",
-      "date": "Sat, 14 Nov 2026 14:33:00 +0000",
-      "description": "Un ancien commandant du SAS a accusé l'État d'avoir rompu un « contrat moral » entre le pays et ses principaux soldats en établissant une enquête sur les crimes de guerre qui n'a pas abouti à des conclusions depuis quatre ans.",
-      "source": "Sky News",
-      "category": "Monde"
-    },
-    {
       "title": "Les étudiants autochtones retracent Lewis et Clark dans leur voyage historique: «Nous ne pouvons pas protéger ce que nous ne pouvons pas voir»",
       "link": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
       "date": "Sat, 14 Nov 2026 14:00:46 GMT",
@@ -1411,22 +1419,6 @@
       "category": "Technologie"
     },
     {
-      "title": "10 meilleures affaires d'écoute du vendredi noir tôt (2026): Jusqu'à 50% de rabais",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
-      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
-      "description": "Obtenez jusqu'à 50% de mes écouteurs et écouteurs préférés d'Apple, Sony, Rien, et plus.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Comment repérer la parade planétaire de novembre dans le ciel d'avant le jour",
-      "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 11:07:51 GMT",
-      "description": "Les planètes de Mercure, Vénus, Mars et Jupiter s'aligneront dans le ciel d'avant-saut tout au long du mois de novembre.",
-      "source": "BBC News",
-      "category": "Environnement"
-    },
-    {
       "title": "Pourquoi la capacité du cerveau d'imaginer des images peut influencer la prise de décision",
       "link": "https://www.scientificamerican.com/article/why-the-brains-ability-to-picture-images-may-influence-decision-making/",
       "date": "Sat, 14 Nov 2026 11:00:00 +0000",
@@ -1496,7 +1488,7 @@
       "date": "Sat, 14 Nov 2026 06:56:58 GMT",
       "description": "Des représentants du ministère de l'Agriculture, de l'Environnement et des Affaires rurales ont déclaré que le virus avait été détecté chez trois moutons.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Les scientifiques découvrent une façon étonnamment simple de transformer les déchets de café en combustible",
@@ -1808,7 +1800,7 @@
       "date": "Fri, 13 Nov 2026 18:50:15 GMT",
       "description": "Les hivers El Niño entraînent généralement plus de pluie dans le sud des États-Unis et des conditions plus sèches et plus chaudes plus au nord, mais les impacts sur les chutes de neige sont complexes.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "US Air Force adopte une nouvelle conception de la Force axée sur les capteurs et l'autonomie",
@@ -1833,6 +1825,14 @@
       "description": "De nouvelles innovations sont mises en évidence dans la partie 2 de notre série Business of Defense. De plus, un coup d'œil dans une nouvelle exposition d'aviation militaire Smithsonian, et des conseils pour éviter les escroqueries.",
       "source": "Defense News",
       "category": "Défense"
+    },
+    {
+      "title": "Les dirigeants de l'UE choisissent l'équipe pour les pourparlers de paix en Ukraine après des mois d'hésitation",
+      "link": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008",
+      "date": "Fri, 13 Nov 2026 18:04:00 +0000",
+      "description": "Des représentants britanniques feront partie d'une équipe représentant l'Europe dans les pourparlers de paix en Ukraine.",
+      "source": "Sky News",
+      "category": "Monde"
     },
     {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
@@ -2048,7 +2048,7 @@
       "date": "Fri, 13 Nov 2026 12:03:04 GMT",
       "description": "Les équipages ont fait face à une « tempête parfaite » de défis pendant le temps record du Royaume-Uni, a-t-on dit.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Un super El Niño apporte des changements surprenants pour la vie marine sur la côte californienne: \"Comme rien que nous n'ayons jamais vu\"",
@@ -2136,7 +2136,7 @@
       "date": "Fri, 13 Nov 2026 06:31:51 GMT",
       "description": "Plus de 76 000 déversements d'eaux usées ont été enregistrés dans des sites de débordement qui n'avaient pas été surveillés par Scottish Water.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "APOD: 2026 13 novembre – NGC 206 et les Nuages Étoiles d'Andromède",
