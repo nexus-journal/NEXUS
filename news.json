@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:29:40.763128+00:00",
+  "updated_at": "2026-11-15T18:03:07.716314+00:00",
   "count": 287,
   "articles": [
     {
@@ -309,9 +309,41 @@
     {
       "title": "Trafic de drogue : la Marine française intercepte un semi-submersible transportant plusieurs tonnes de cocaïne près de la Martinique",
       "link": "https://www.lefigaro.fr/actualite-france/trafic-de-drogue-la-marine-francaise-intercepte-un-semi-submersible-transportant-plusieurs-tonnes-de-cocaine-dans-l-atlantique-20261115",
-      "date": "Sun, 15 Nov 2026 18:21:24 +0100",
+      "date": "Sun, 15 Nov 2026 19:01:27 +0100",
       "description": "La Marine nationale française a intercepté une embarcation qui n’arborait aucun pavillon, au large de la Martinique. 146kg de cocaïne ont été repêchés en mer.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+      "link": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 18:56:35 +0100",
+      "description": "L'Estonie dit avoir déjoué de justesse une nouvelle tentative d'incendie d'une usine de drones orchestrée, selon elle, par le renseignement militaire russe.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : Édouard Philippe promet de construire 4 millions de logements en dix ans pour faire baisser les prix",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-edouard-philippe-promet-de-construire-4-millions-de-logements-en-dix-ans-pour-faire-baisser-les-prix-20261115",
+      "date": "Sun, 15 Nov 2026 18:52:03 +0100",
+      "description": "Face à la crise de l’immobilier, il faut «construire plus et louer beaucoup plus», notamment grâce à «des normes simplifiées et une fiscalité avantageuse», estime l’ancien premier ministre et candidat à la présidentielle.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Au Cambodge, Emmanuel Macron appelle à l'\"unité\" de l'Organisation internationale de la francophonie, secouée par une rivalité entre la RDC et le Rwanda",
+      "link": "https://www.franceinfo.fr/culture/patrimoine/francophonie/au-cambodge-emmanuel-macron-appelle-a-l-unite-de-l-organisation-internationale-de-la-francophonie-secouee-par-une-rivalite-entre-la-rdc-et-le-rwanda_8283593.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 18:48:41 +0100",
+      "description": "Les deux pays africains s'affrontent autour du nom du prochain secrétaire général de l'institution qui œuvre notamment pour la promotion de la langue française, reléguant des enjeux politiques au second plan.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+      "link": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 18:38:28 +0100",
+      "description": "Le maire RN du secteur a dénoncé les agissements d'une \"milice d'extrême gauche\".",
+      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -339,11 +371,75 @@
       "category": "France"
     },
     {
-      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
-      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 17:36:04 +0100",
-      "description": "Derrière la large banderole noire floquée du portrait de son neveu, un des oncles de la victime a voulu organiser cette marche blanche \"pour faire porter la voix\" de son proche décédé.",
-      "source": "franceinfo",
+      "title": "Pourquoi ton cerveau a parfois un goût aigre",
+      "link": "https://www.scientificamerican.com/article/why-your-brain-sometimes-craves-sour-tastes/",
+      "date": "Sun, 15 Nov 2026 18:00:00 +0000",
+      "description": "L'ajout d'un morceau de jus de citron ou de vinaigre est connu depuis longtemps pour cuisiner comme un moyen d'améliorer un plat, mais maintenant les scientifiques comprennent comment fonctionne l'aurorité dans le cerveau",
+      "source": "Scientific American",
+      "category": "Sciences"
+    },
+    {
+      "title": "Zelensky exhorte les États-Unis et Musk à lever les restrictions de Starlink et à être du côté droit de l'histoire.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 17:57:09 GMT",
+      "description": "Le président ukrainien dit que des restrictions sont toujours en place et qu'il est difficile d'arrêter les missiles russes.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis et leurs alliés signent un accord pour protéger les chaînes d'approvisionnement en AI de la Chine",
+      "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+      "date": "Sun, 15 Nov 2026 17:47:43 GMT",
+      "description": "Le pacte est en avance sur la rencontre de Donald Trump avec Xi Jinping au Forum de coopération économique Asie-Pacifique à Shenzhen",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Ecouteurs ouverts par rapport aux écouteurs intra-auriculaires : quel est le meilleur pour vos oreilles ?",
+      "link": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/",
+      "date": "Sun, 15 Nov 2026 17:45:00 +0000",
+      "description": "Les oreillettes ouvertes et les écouteurs intra-auriculaires sont conçus différemment, mais ces différences peuvent avoir un impact plus important sur l'écoute quotidienne que beaucoup de gens ne le réalisent.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Italie ordonne à Meta de payer 887 M$ pour ne pas avoir obtenu un consentement spécifique sur les photos de l'utilisateur",
+      "link": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
+      "date": "Sun, 15 Nov 2026 17:44:06 +0000",
+      "description": "Meta a l'intention de faire appel de l'amende.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Près de 1 500 migrants arrivent en Espagne",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 17:39:23 +0000",
+      "description": "Près de 1 500 migrants arrivent en Espagne",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Maroc devient la première nation arabe au classement des cinq meilleurs hommes de FIFA",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 17:33:03 +0000",
+      "description": "Le Maroc a dépassé les anciens champions de l'Euro au Portugal et a remporté la Coupe du monde au Brésil pour atteindre son meilleur classement FIFA.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Déploiement des forces gouvernementales yéménites de Bab al-Mandeb pour défendre Aden",
+      "link": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 17:33:00 +0000",
+      "description": "Le porte-parole des Forces armées du Sud dit que le groupe se repositionne depuis l'aéroport de Dhubab et les environs de Bab al-Mandeb.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Nouvelle journée de mobilisation, premier bain de foule pour Teddy Riner, panne aérienne aux Etats-Unis… L’actu de ce week-end des 14 et 15 novembre",
+      "link": "https://www.liberation.fr/international/europe/nouvelle-journee-de-mobilisation-premier-bain-de-foule-pour-teddy-riner-panne-aerienne-aux-etats-unis-lactu-de-ce-week-end-des-14-et-15-novembre-20261115_QKPIMJWDVZER7DS76BM24XURJQ/",
+      "date": "Sun, 15 Nov 2026 17:30:34 +0000",
+      "description": "La rédaction de «Libération» récapitule les principales actualités de ces samedi et dimanche.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -355,6 +451,14 @@
       "category": "France"
     },
     {
+      "title": "Le mode avion de votre téléphone peut vous épargner des frais inattendus sur les navires de croisière",
+      "link": "https://www.engadget.com/2313758/phone-airplane-mode-save-unexpected-charges-cruise-ships/",
+      "date": "Sun, 15 Nov 2026 17:30:00 +0000",
+      "description": "Les réseaux cellulaires maritimes peuvent accumuler des frais d'itinérance sur votre croisière sans un seul appel ou texte. Voici comment rester connecté et éviter la facture.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "L'Estonie va fermer sa frontière avec la Russie après une tentative de sabotage contre une usine de drones",
       "link": "https://www.rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones",
       "date": "Sun, 15 Nov 2026 17:25:04 GMT",
@@ -363,20 +467,12 @@
       "category": "France"
     },
     {
-      "title": "Les Tchèques se rallient contre le plan de changement de financement des médias publics",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 17:23:40 GMT",
-      "description": "Les manifestants affirment que cette mesure étouffera la liberté des médias, tandis que le gouvernement de coalition insiste pour que les radiodiffuseurs réduisent leurs coûts.",
-      "source": "BBC News",
+      "title": "Les coûts cachés du boom américain de l'IA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/the-hidden-costs-of-the-us-ai-boom?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 17:24:59 +0000",
+      "description": "Les coûts cachés du boom américain de l'IA",
+      "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
-      "link": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 17:22:50 +0100",
-      "description": "L'Estonie dit avoir déjoué in extremis une nouvelle tentative d'incendie d'une usine de drones orchestrée, selon elle, par le renseignement militaire russe.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Le Liban se tourne vers le Qatar pour redresser et développer son secteur de l'énergie",
@@ -419,14 +515,6 @@
       "category": "Monde"
     },
     {
-      "title": "Débat, primaire, irruption de Teddy Riner et David Lisnard… La campagne en défense d’Édouard Philippe",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/debat-primaire-irruption-de-teddy-riner-et-david-lisnard-la-campagne-en-defense-d-edouard-philippe-20261115",
-      "date": "Sun, 15 Nov 2026 17:06:32 +0100",
-      "description": "REPORTAGE - Dépassé dans les sondages par la dynamique de Jean-Luc Mélenchon, le candidat Horizons est désormais rattrapé par David Lisnard. Agacé par les critiques de son camp, le maire du Havre est cerné par les appels à se soumettre à une primaire.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "TechCrunch Mobilité: le plan de sauvegarde Nvidia pour l'industrie de l'autoconduite en Chine",
       "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
       "date": "Sun, 15 Nov 2026 17:05:00 +0000",
@@ -440,6 +528,14 @@
       "date": "Sun, 15 Nov 2026 17:04:27 GMT",
       "description": "Grâce à sa victoire contre Josh Hokit, samedi 14 novembre à New York aux États-Unis, Ciryl Gane demeure le champion des poids lourds de l'Ultimate Fighting Championship (UFC), la ligue élite d'arts martiaux mixtes. Au Madison Square Garden, le Français a pourtant été bien secoué. Mais les épreuves traversées sur son chemin pour devenir champion l'ont préparé à un tel combat.",
       "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/15/alice-ekman-sinologue-malgre-ses-difficultes-la-chine-veut-accelerer-la-restructuration-de-la-gouvernance-mondiale-et-marginaliser-les-pays-occidentaux_6811033_3232.html",
+      "date": "Sun, 15 Nov 2026 17:00:20 +0100",
+      "description": "Pékin entend faire du sommet de la Coopération économique Asie-Pacifique (APEC), qui doit se tenir les 18 et 19 novembre, une vitrine de sa puissance dans le but de bâtir « un nouveau type de mondialisation sous son égide », assure la spécialiste de la Chine, dans un entretien au « Monde ».",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -507,10 +603,10 @@
       "category": "France"
     },
     {
-      "title": "LIVE: Espagne vs Angleterre – Ligue des Nations de l'UEFA",
+      "title": "Espagne vs Angleterre en direct: Ligue des Nations de l'UEFA",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 16:45:00 +0000",
-      "description": "Aperçus, nouvelles de l'équipe et commentaires texte en direct comme l'Angleterre et l'Espagne défient pour la première place dans le dernier match de groupe de la Ligue des Nations.",
+      "description": "Actualités de l'équipe , score et commentaire texte en direct comme l'Angleterre et l'Espagne rivalisent pour la première place dans le dernier match de la Ligue des Nations.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -521,14 +617,6 @@
       "description": "Certains connecteurs USB, y compris USB-A, disposent de deux petits trous qui ont un objectif important. D'autres connecteurs USB manquent ces trous pour une raison, aussi.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Des milliers de rassemblements en République tchèque contre les changements de financement des médias d'État",
-      "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 16:32:22 +0000",
-      "description": "Selon les critiques, les modifications proposées au financement permettront au gouvernement de mieux contrôler les médias d'État.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Édouard Philippe accepte une réunion de la droite et du centre autour de Gérard Larcher, mais pas pour parler d’une primaire",
@@ -555,28 +643,12 @@
       "category": "France"
     },
     {
-      "title": "Le codage des vibrations change la façon dont les musiciens personnalisent leur équipement",
-      "link": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
-      "date": "Sun, 15 Nov 2026 16:30:00 +0000",
-      "description": "L'IA change à peu près toutes les industries, même la musique. C'est ainsi que les musiciens utilisent le code vibe pour modifier leur son, leur équipement et comment la musique est faite.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
       "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 16:16:05 +0100",
       "description": "Le président du Sénat a proposé aux candidats de la droite et du centre de \"se retrouver dans les meilleurs délais\" pour évoquer \"la méthode de départage\" permettant d'aboutir à une candidature unique à la présidentielle.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "Gaming PC GPUs contre console GPUs: Quelle est la différence entre eux ?",
-      "link": "https://www.engadget.com/2313709/gaming-pc-vs-console-gpu-difference-between/",
-      "date": "Sun, 15 Nov 2026 16:15:00 +0000",
-      "description": "Bien que les joueurs de PC doivent y réfléchir davantage tout en assemblant leur machine, les consoles utilisent également des GPU. Voilà la différence entre eux.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "L'économie allemande retourne à la croissance, alors pourquoi le pays est-il encore inquiet ?",
@@ -603,35 +675,11 @@
       "category": "France"
     },
     {
-      "title": "Le touriste britannique brise la statue de Jésus devant l'église de Vilnius",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 16:04:22 +0000",
-      "description": "Un homme a enlevé une statue de Jésus crucifié d'une église de Vilnius et elle s'est écrasée.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "La femme «très grièvement brûlée» par son conjoint, près de Bordeaux, est morte de ses blessures",
-      "link": "https://www.liberation.fr/societe/police-justice/la-femme-tres-grievement-brulee-par-son-conjoint-pres-de-bordeaux-est-morte-de-ses-blessures-20261115_QMAKFOPBSZBTDGZCPFPCMAUYOM/",
-      "date": "Sun, 15 Nov 2026 16:02:03 +0000",
-      "description": "Le parquet de Libourne, qui avait ouvert une enquête pour «tentative de féminicide» a requalifié la procédure en «homicide par conjoint», à la suite du décès de la victime dans la nuit de samedi à dimanche.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Les produits technologiques que nous recommandons avec enthousiasme cette saison des fêtes",
       "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
       "date": "Sun, 15 Nov 2026 16:00:00 +0000",
       "description": "Nous avons passé en revue un tas de nouveaux gadgets chez TechCrunch cette année, et nous avons quelques favoris clairs à partager pour votre Black Friday shopping et au-delà.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Certains endroits ont déjà interdit les lunettes d'IA, et la liste continue de croître",
-      "link": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
-      "date": "Sun, 15 Nov 2026 16:00:00 +0000",
-      "description": "La sécurité et la protection de la vie privée ont entraîné l'interdiction des lunettes d'IA dans un certain nombre de lieux publics, y compris les salles d'audience, les écoles et les théâtres.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -667,27 +715,11 @@
       "category": "France"
     },
     {
-      "title": "70 corps récupérés des décombres de Gaza, des milliers de personnes disparues",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 15:32:43 +0000",
-      "description": "70 corps récupérés des décombres de Gaza, des milliers de personnes disparues",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Le pape Leo se dirige vers les hautes Andes lors de la dernière étape de la tournée en Amérique du Sud",
       "link": "https://www.dw.com/en/pope-leo-heads-to-high-andes-on-final-leg-of-south-america-tour/a-79952884?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 15 Nov 2026 15:23:00 GMT",
       "description": "Leo, originaire de Chicago, fut évêque de Chiclayo de 2015 à 2023. Il devrait mettre en lumière les droits autochtones et la protection de l'environnement lors de la dernière étape de sa tournée.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "La répression de la contrebande de pétrole en Irak désarmera-t-elle les milices sans conflit ?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 15:21:21 +0000",
-      "description": "L'Iraq a démantelé un réseau de contrebande présumé à Jurf al-Sakhar qui pourrait étouffer les milices et éviter les troubles internes.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -753,14 +785,6 @@
       "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-      "link": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 14:01:53 +0100",
-      "description": "Cette maladie neurodégénérative touche près de 300 000 personnes en France. Elle augmente fortement en raison principalement du vieillissement de la population mais aussi de la présence des métaux lourds et des pesticides dans l'environnement.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Alors que le Texas embrasse le stockage du carbone, une communauté noire remet en question les risques",
@@ -833,6 +857,14 @@
       "description": "Cet été, la comète 220P/McNaught est sortie de nulle part pour devenir l'un des temps forts de l'année pour les astronomes amateurs.",
       "source": "Space.com",
       "category": "Exploration"
+    },
+    {
+      "title": "Le port de la Nouvelle-Orléans poursuit les propriétaires de pétroliers impliqués dans l'accident du Mississippi",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+      "date": "Sun, 15 Nov 2026 12:45:27 -0500",
+      "description": "Les fonctionnaires demandent au moins un million de dollars en dommages et intérêts aux propriétaires du pétrolier qui a heurté un navire de croisière la semaine dernière. L'incident a été surnommé \"le miracle sur le Mississippi\" après que personne n'a été tué.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "L'ANASE offre aux dirigeants du Myanmar une voie de retour vers les sommets, mais dit que les restrictions resteront jusqu'à ce qu'il y ait des progrès significatifs sur son plan de paix",
@@ -915,14 +947,6 @@
       "category": "Monde"
     },
     {
-      "title": "Le Congrès adopte des règles d'exportation de puces AI plus strictes à la suite du scandale de Nvidia",
-      "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
-      "date": "Sun, 15 Nov 2026 11:00:04 GMT",
-      "description": "Jensen Huangs prétendument affaire avec l'espion chinois « augmente l'élan » pour réprimer le matériel américain atteignant la Chine",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Cette AI Tamagotchi transforme des objets quotidiens en animaux virtuels nécessaires",
       "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
       "date": "Sun, 15 Nov 2026 11:00:00 +0000",
@@ -979,14 +1003,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Camille Chamois, philosophe : « Notre œil est raciste alors même que notre tête ne le sait pas »",
-      "link": "https://www.lemonde.fr/livres/article/2026/11/15/camille-chamois-philosophe-notre-il-est-raciste-alors-meme-que-notre-tete-ne-le-sait-pas_6810996_3260.html",
-      "date": "Sun, 15 Nov 2026 09:00:04 +0100",
-      "description": "Le nouveau livre du philosophe offre une réflexion originale sur la manière dont se façonnent nos perceptions, sans que nous en ayons toujours conscience.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "160 questions, une seule erreur : le meilleur scoreur en Corée du Sud l'examen fiscal admet la tricherie AI",
       "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
       "date": "Sun, 15 Nov 2026 08:56:11 GMT",
@@ -1000,7 +1016,7 @@
       "date": "Sun, 15 Nov 2026 08:53:25 EST",
       "description": "Les scientifiques de la NASA avertissent que l'intensification rapide du 2026 El Niño pourrait dépasser l'événement historique de 1997-1998, qui a déclenché des phénomènes météorologiques extrêmes dévastateurs dans le monde entier. Les données satellitaires révèlent des similitudes frappantes entre les deux, ce qui accroît la possibilité de précipitations importantes et d'inondations cet hiver, bien que les impacts exacts demeurent incertains.",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "Les champs magnétiques bizarres d'Uranus et de Neptunes peuvent enfin être expliqués",
@@ -1107,14 +1123,6 @@
       "category": "Économie"
     },
     {
-      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
@@ -1127,6 +1135,14 @@
       "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
       "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
+      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -1299,14 +1315,6 @@
       "category": "France"
     },
     {
-      "title": "La ville de Floride annule la parade de la Saint Patrick, citant une nouvelle loi anti-DEI",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-      "date": "Sat, 14 Nov 2026 19:03:52 -0500",
-      "description": "Une nouvelle loi de Floride qui interdit aux contribuables d'aller vers des initiatives de diversité a incité Delray Beach à annuler son défilé de la Saint-Patrick après une course de près de 60 ans.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Italie amendes Meta €805m sur l'accès aux photos des utilisateurs",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 18:28:06 GMT",
@@ -1473,14 +1481,6 @@
       "description": "L'entreprise de technologie dit que les opérations restaurées à tous les clients et les régions touchées par l'une des pires défaillances informatiques depuis des années Microsoft a déclaré que son service a été entièrement restauré après une panne massive qui a entraîné des perturbations généralisées pour les gouvernements, les entreprises et les services publics dans le monde entier. La société de technologie a déclaré samedi matin qu'elle avait rétabli le service aux clients restants touchés par l'une des pires défaillances informatiques depuis des années. À",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "Pourquoi la capacité du cerveau d'imaginer des images peut influencer la prise de décision",
-      "link": "https://www.scientificamerican.com/article/why-the-brains-ability-to-picture-images-may-influence-decision-making/",
-      "date": "Sat, 14 Nov 2026 11:00:00 +0000",
-      "description": "Certaines personnes sont excellentes pour visualiser des scènes et des images dans leur tête, tandis que d'autres ne peuvent pas faire du tout",
-      "source": "Scientific American",
-      "category": "Sciences"
     },
     {
       "title": "Le groupe naval dévoile SCX 26 'Flotte hybride' Drone Mothership Concept",
