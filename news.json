@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T04:08:07.218985+00:00",
-  "count": 289,
+  "updated_at": "2026-11-15T05:04:38.810051+00:00",
+  "count": 288,
   "articles": [
     {
       "title": "Que savoir de cette année?",
@@ -155,20 +155,20 @@
       "category": "Environnement"
     },
     {
-      "title": "AI confirme une limite longtemps suspectée sur les avantages des ordinateurs quantiques",
-      "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
-      "description": "Une preuve de l'IA a rigoureusement démontré que l'utilisation d'ordinateurs quantiques n'aurait pas d'énormes avantages pour toute une classe de problèmes mathématiques, confirmant une conjecture extrêmement influente",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
       "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
       "date": "Thu, 12 Nov 2026 20:00:00 +0000",
       "description": "Nigrán, Espagne Le 12 novembre 2026 – UARX Space a franchi une étape importante pour l'industrie spatiale espagnole avec le déploiement d'OSSIE-D, un véhicule de transfert orbital (OTV) conçu et [...] L'article UARX Space marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par DHV Technology est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "AI confirme une limite longtemps suspectée sur les avantages des ordinateurs quantiques",
+      "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
+      "description": "Une preuve de l'IA a rigoureusement démontré que l'utilisation d'ordinateurs quantiques n'aurait pas d'énormes avantages pour toute une classe de problèmes mathématiques, confirmant une conjecture extrêmement influente",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "Quel rôle l'industrie joue-t-elle en Europe ?",
@@ -315,14 +315,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Crows peut prendre des décisions deux fois plus vite que les humains, les scientifiques découvrent",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-      "date": "Thu, 12 Nov 2026 07:17:19 EST",
-      "description": "Les foules peuvent être encore plus intelligentes que nous ne le pensions, et leur cerveau est étonnamment rapide. Les chercheurs de l'université de Tübingen ont découvert que les corbeaux peuvent prendre des décisions visuelles deux fois plus rapidement que les humains et les singes, prenant en moyenne 235 millisecondes pour identifier la direction des points en mouvement tout en conservant une précision remarquable.",
-      "source": "ScienceDaily",
-      "category": "Environnement"
-    },
-    {
       "title": "Une nouvelle carte du trésor révèle où se cache la vie préhistorique perdue de la Terre",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
       "date": "Thu, 12 Nov 2026 06:24:47 EST",
@@ -355,11 +347,43 @@
       "category": "Exploration"
     },
     {
+      "title": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+      "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
+      "date": "Sun, 15 Nov 2026 05:15:02 +0100",
+      "description": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout récent candidat a tenu à se démarquer du « macronisme ».",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Francophonie : Macron appelle à l'«unité» et au «consensus», avant l'élection du secrétaire général",
       "link": "https://www.lefigaro.fr/flash-actu/francophonie-macron-appelle-a-l-unite-et-au-consensus-avant-l-election-du-secretaire-general-20261115",
       "date": "Sun, 15 Nov 2026 04:46:44 +0100",
       "description": "L’élargissement et l’ouverture de la Francophonie «nous imposent de bâtir le consensus pour préserver l’union», a déclaré dimanche le président dans un discours en ouverture du XXe sommet de l’OIF au Cambodge.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Vidéo montre le moment de l'effondrement de Brooklyn",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 04:31:55 +0000",
+      "description": "Des images de cames de nounou récemment diffusées montrent le moment où un immeuble d'appartements s'est effondré à Brooklyn alors que des enfants jouaient à l'intérieur.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Zimbabwe Les gains en matière de VIH font face à un test chez les jeunes",
+      "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 04:13:00 +0000",
+      "description": "De nouveaux outils de prévention offrent de l'espoir, mais atteindre les jeunes reste un défi.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Ebola en RDC: six mois après son apparition, l'épidémie poursuit sa progression",
+      "link": "https://www.rfi.fr/fr/afrique/20261115-ebola-en-rdc-six-mois-apr%C3%A8s-son-apparition-l-%C3%A9pid%C3%A9mie-poursuit-sa-progression",
+      "date": "Sun, 15 Nov 2026 04:12:01 GMT",
+      "description": "Officialisée le 15 mai dernier, l'épidémie d'Ebola qui sévit actuellement dans l'est de la RDC continue de se propager : six mois après avoir éclaté en Ituri, celle-ci touche désormais huit provinces du territoire congolais. Si la recherche pour la mise au point de traitements et de vaccins progresse, la riposte sur le terrain se heurte, elle, à plusieurs obstacles.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -459,20 +483,12 @@
       "category": "France"
     },
     {
-      "title": "Netanyahou lance un appel à Eisenkot pour un gouvernement d'unité",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 01:33:11 +0000",
-      "description": "Benjamin Netanyahu a lancé un appel public au leader de l'opposition Gadi Eisenkot pour qu'il forme un gouvernement d'unité.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Thaïlande personnes âgées gardées en cage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 01:32:08 +0000",
-      "description": "Une maison de retraite en Thaïlande a été accusée d'avoir gardé des dizaines de personnes âgées dans des cages métalliques.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "Dépanner un écran noir sur votre MacBook est plus facile que vous ne le pensez",
+      "link": "https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/",
+      "date": "Sun, 15 Nov 2026 01:30:00 +0000",
+      "description": "Un écran noir sur votre MacBook peut se sentir comme la fin du monde, mais ne paniquez pas: il ya plusieurs étapes faciles de dépannage pour essayer en premier.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "SpaceX parvient pour la première fois à récupérer l’étage supérieur de sa mégafusée Starship après 14 orbites",
@@ -555,14 +571,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Mouvement social en France: un «acte V» marqué par une affluence un peu moindre",
-      "link": "https://www.rfi.fr/fr/france/20261115-mouvement-social-en-france-un-acte-v-marqu%C3%A9-par-une-affluence-un-peu-moindre",
-      "date": "Sun, 15 Nov 2026 00:02:20 GMT",
-      "description": "Protection des enfants et adolescents, opposition au « permis de tuer » des forces de l'ordre, salaires, moyens pour l'enseignement : différentes manifestations ont rythmé, ce samedi 14 novembre, l'acte V du mouvement contre la vie chère,. Il y a eu un peu moins d'affluence et de tensions que lors des précédentes manifestations. Mais une nouvelle mobilisation « massive » est attendue pour le mardi 17 novembre.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Les calendriers de l'aventure beauté peuvent coûter des centaines - mais sont-ils avantageux pour l'argent?",
       "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 00:01:07 GMT",
@@ -595,20 +603,28 @@
       "category": "Monde"
     },
     {
-      "title": "Raisons communes votre Roku TV peut s'allumer par lui-même et comment le réparer",
-      "link": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
-      "date": "Sat, 14 Nov 2026 23:45:00 +0000",
-      "description": "Si votre téléviseur a été allumé au hasard et qu'il a un Roku attaché à elle, cela pourrait être le fait de votre Roku. Vérifiez ces paramètres.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Les passagers font face à des perturbations généralisées après une panne de contrôle du trafic aérien aux États-Unis",
       "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
       "date": "Sat, 14 Nov 2026 23:32:08 GMT",
       "description": "Des milliers de vols retardés ou annulés à mesure que la faute politique monte",
       "source": "Financial Times",
       "category": "Économie"
+    },
+    {
+      "title": "Alzheimer peut commencer à rétrécir deux régions du cerveau années avant la perte de mémoire",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+      "date": "Sat, 14 Nov 2026 23:31:56 EST",
+      "description": "Johns Hopkins scientifiques ont découvert des signes d'avertissement cachés de la maladie d'Alzheimer qui peuvent apparaître jusqu'à une décennie avant que la perte de mémoire commence. Les analyses cérébrales ont révélé que deux régions impliquées dans la mémoire et l'émotion commencent à se rétrécir avant l'hippocampe, les médecins de la région examinent généralement les signes de la maladie d'Alzheimer. Ces premiers changements sont liés à une accumulation anormale de protéines de tau et pourraient fournir une nouvelle façon puissante d'identifier les personnes à risque.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
+      "title": "Le juge bloque temporairement Trump d'aller de l'avant sur le terrain de golf public de Washington",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+      "date": "Sat, 14 Nov 2026 23:28:45 -0500",
+      "description": "Un juge fédéral a ordonné samedi un délai de deux semaines à tout travail sur un parcours de golf public historique de Washington non loin de la Maison Blanche.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Au Cambodge, la langue française durement concurrencée par le chinois et l'anglais",
@@ -641,6 +657,14 @@
       "description": "Onze pays ont participé à la compétition de Bangkok. La chanson de danse gagnante de Carmelle Collado est un hommage aux Philippines.",
       "source": "Deutsche Welle",
       "category": "Monde"
+    },
+    {
+      "title": "Les scientifiques découvrent un paradoxe bizarre parmi les pingouins menacés",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+      "date": "Sat, 14 Nov 2026 22:42:52 EST",
+      "description": "Une enquête révolutionnaire sur les drones a révélé une rupture surprenante dans le sort des pingouins en danger de la Nouvelle-Zélande. Bien qu'une population demeure stable depuis des décennies, une autre a diminué de plus de 40 %, apparemment en raison d'une combinaison de prédateurs, d'une aggravation des tempêtes et de l'évolution des conditions océaniques. Plus surprenant encore, les petites îles Bounty abritent presque autant de couples reproducteurs que les îles Antipodes, bien que 40 fois",
+      "source": "ScienceDaily",
+      "category": "Sciences"
     },
     {
       "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
@@ -691,6 +715,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Les dinosaures ont peut-être mangé des algues il y a 100 millions d'années.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "date": "Sat, 14 Nov 2026 22:00:54 EST",
+      "description": "Les dinosaures ont peut-être grignoté des algues et d'autres aliments océaniques il y a plus de 100 millions d'années, selon de nouvelles preuves surprenantes cachées dans leurs dents fossilisées. Les chercheurs ont découvert des signatures chimiques suggérant que les dinosaures côtiers et d'autres animaux préhistoriques dépendaient en partie des nutriments provenant de la mer. Les résultats révèlent que les ressources marines transitaient par les anciennes chaînes alimentaires, complétant les régimes alimentaires de tout",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
       "link": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
       "date": "Sat, 14 Nov 2026 21:43:20 GMT",
@@ -739,6 +771,14 @@
       "category": "France"
     },
     {
+      "title": "Les physiciens utilisent la lumière laser pour débloquer les pouvoirs électriques cachés d'un cristal",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "date": "Sat, 14 Nov 2026 21:18:16 EST",
+      "description": "Les scientifiques ont découvert comment utiliser des éclairs de lumière laser pour organiser de petites régions électriques à l'intérieur d'un cristal, en résolvant un mystère de décennies sur la façon dont le matériau se comporte. L'alignement induit par le laser ne dure qu'un billion de seconde, mais la percée pourrait ouvrir la porte à de nouvelles façons de traiter et de stocker l'information.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
       "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 14 Nov 2026 21:15:18 +0100",
@@ -777,6 +817,14 @@
       "description": "Le Soudan du Sud est indépendant du Soudan depuis 2011 et n ' a pas encore tenu d ' élections nationales. Depuis, le pays fait face à des cycles de violence après une guerre civile qui ont conduit à un accord de paix ténu.",
       "source": "Deutsche Welle",
       "category": "Monde"
+    },
+    {
+      "title": "Euclid découvre d'anciennes balises cosmiques depuis l'aube du temps, resplendissant comme un billion de soleils",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+      "date": "Sat, 14 Nov 2026 20:52:47 EST",
+      "description": "Le télescope spatial Euclid a découvert 31 anciens quasars, dont deux objets d'un record éclatant avec la luminosité d'un billion de Soleils alors que l'Univers n'avait que 670 millions d'années. Propulsés par des trous noirs supermassifs, ces balises cosmiques extraordinaires révèlent une époque où les premières galaxies prennent encore forme.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
     },
     {
       "title": "La cyberattaque d'une filiale de La Poste entraîne un vol de données touchant 22 millions de personnes",
@@ -1057,14 +1105,6 @@
       "description": "Le judoka et désormais candidat à la présidentielle Teddy Riner s'est défendu samedi d'être macroniste, lors de son déplacement au salon du \"Made in France\". Le sportif de haut niveau a, en outre, qualifié de \"baiser empoisonné\" les félicitations d'Emmanuel Macron.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Bombe trouvée près de l'usine d'éthanol dans le centre de l'Illinois force les évacuations",
-      "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-      "date": "Sat, 14 Nov 2026 15:12:34 -0500",
-      "description": "La bombe a été découverte vendredi après-midi à l'usine BioUrja Renewables à Peoria. Les officiels disent que la bombe a été « rendue sûre », mais l'ont qualifiée de « menace crédible ». Le FBI enquête.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "'Alien: Fireteam Elite 2' est une bonne chasse aux insectes à l'ancienne, ironie par les insectes",
@@ -1371,30 +1411,6 @@
       "category": "Économie"
     },
     {
-      "title": "Un nouveau supplément de fibres pourrait aider des millions de personnes souffrant d'un syndrome intestinal irritable",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
-      "date": "Sat, 14 Nov 2026 07:35:36 EST",
-      "description": "Les scientifiques ont développé un nouveau supplément de fibres prometteur qui améliore la santé de l'intestin chez les personnes souffrant du syndrome intestinal irritable (SIB) sans aggraver les ballonnements, la douleur ou d'autres symptômes digestifs. Le mélange spécialement conçu a également amélioré l'anxiété liée à l'intestin et produit des changements étonnamment rapides dans les bactéries intestinales, offrant potentiellement une nouvelle façon de gérer IBS.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
-      "title": "Les scientifiques de Stanford découvrent des signaux du cerveau cachés qui prédisent Alzheimer des années avant les symptômes",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-      "date": "Sat, 14 Nov 2026 07:25:05 EST",
-      "description": "Les chercheurs de Stanford ont découvert que les tendances cachées de l'activité cérébrale peuvent prédire le risque d'Alzheimer années avant que des problèmes de mémoire apparaissent, offrant potentiellement un avertissement plus tôt que les biomarqueurs traditionnels. Les mêmes modèles révèlent également quels cerveaux sont exceptionnellement résistants au vieillissement, suscitant l'espoir de traitements futurs qui pourraient aider à protéger la mémoire.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
-      "title": "Un monde géant qui se cache au-delà de Pluton pourrait être notre sixième planète naine",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
-      "date": "Sat, 14 Nov 2026 06:58:42 EST",
-      "description": "Les astronomes ont découvert une nouvelle planète naine potentiellement énorme au-delà de Pluton, cachée depuis des années dans l'une des régions les plus bondées du ciel nocturne. La découverte de 2026 ED138 pourrait élargir la famille officielle de planètes naines du système solaire et laisse entendre que des mondes plus mystérieux pourraient se cacher bien au-delà de Neptune.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
       "title": "Virus de la fièvre catarrhale du mouton confirmé à la ferme County Down",
       "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 06:56:58 GMT",
@@ -1408,7 +1424,7 @@
       "date": "Sat, 14 Nov 2026 06:42:28 EST",
       "description": "Les scientifiques ont mis au point une méthode efficace pour transformer les terrains de café usagés en source potentielle de biodiésel tout en préservant les restes d'autres combustibles renouvelables et de produits chimiques précieux. Cette découverte pourrait transformer des millions de tonnes de déchets de café jetés en une ressource étonnamment utile pour l'énergie durable.",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "Microsoft dit des services entièrement restaurés après une journée de panne mondiale",
@@ -1416,15 +1432,7 @@
       "date": "Sat, 14 Nov 2026 06:42:27 GMT",
       "description": "Les efforts pour résoudre le problème sous-jacent avec Outlook, Teams et Copilot sont terminés, selon le cabinet technique.",
       "source": "BBC News",
-      "category": "Économie"
-    },
-    {
-      "title": "Présidentielle 2027 : les relations tortueuses entre Raphaël Glucksmann et les macronistes, entre attraction et grande méfiance",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html",
-      "date": "Sat, 14 Nov 2026 06:18:15 +0100",
-      "description": "Le candidat du PS et de Place publique a toujours critiqué le bilan d’Emmamuel Macron. Mais quelques anciens fidèles du président de la République l’ont rejoint, ce qui donne des arguments aux « insoumis » pour le critiquer. Du côté de l’aile gauche du camp présidentiel, sa candidature intéresse, autant qu’elle laisse dubitatif.",
-      "source": "Le Monde",
-      "category": "France"
+      "category": "Technologie"
     },
     {
       "title": "Charlyne, travailleuse du sexe en milieu rural : « Les rares fois où les clients sont venus chez moi, j’ai caché mon nom sur la boîte aux lettres »",
@@ -1619,14 +1627,6 @@
       "category": "Économie"
     },
     {
-      "title": "Les scientifiques de Yale révèlent ce qui ralentit vraiment le vieillissement et ce qui ne le fait pas",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-      "date": "Fri, 13 Nov 2026 23:26:12 EST",
-      "description": "Les chercheurs de Yale ont découvert que certains médicaments d'ordonnance, des régimes alimentaires sains et l'exercice peuvent ralentir le vieillissement biologique de façon mesurable, tandis que les suppléments anti-âge populaires semblent largement inefficaces. Leur analyse de 51 études pourrait transformer la façon dont les scientifiques évaluent les traitements anti-âge, bien que ces changements biologiques prolongent réellement la vie reste incertaine.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
       "title": "La FAA a levé son troisième arrêt au sol national",
       "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
       "date": "Fri, 13 Nov 2026 23:17:38 +0000",
@@ -1648,7 +1648,7 @@
       "date": "Fri, 13 Nov 2026 23:00:31 GMT",
       "description": "Ce scandale a mis en lumière le succès de Singapour en tant que plaque tournante - et l'endroit où se trouverait le commerce illicite présumé.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "Sécuriser l'espace de bataille numérique Asie-Pacifique: TechNet Indo-Pacifique 2026",
@@ -1744,7 +1744,7 @@
       "date": "Fri, 13 Nov 2026 19:53:57 GMT",
       "description": "Scott Bessent a déclaré à CNBC que plusieurs organismes gouvernementaux « étaient en faveur de la mise de Megaspeed sur la liste des entités pendant des mois ».",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "scandale Nvidia: le chef du Trésor américain blâme le département du commerce de Lutnick",
@@ -1819,20 +1819,20 @@
       "category": "Monde"
     },
     {
-      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
-      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
       "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
       "description": "Le 13 novembre 2026— Washington, D.C.—La Commercial Space Federation (CSF) est heureuse d'accueillir CesiumAstro comme son nouveau membre associé. Un leader mondial dans les solutions de connectivité avancées pour l'espace et [...] Le post Commercial Space Federation accueille CesiumAstro comme nouveau membre associé est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
+      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "Les juges ferment une partie des enquêtes de la CPI sur l'Afghanistan qui pourraient examiner les troupes américaines",
@@ -2161,14 +2161,6 @@
       "description": "Alors qu'elle se bat pour développer sa nouvelle fusée massive, la société de lancement de l'espace se prépare à prendre sa retraite jusqu'à la Station spatiale internationale.",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "Le Soleil a déclenché une tempête monstre. La Terre a peut-être empiré",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
-      "date": "Fri, 13 Nov 2026 04:49:36 EST",
-      "description": "La tempête solaire massive qui a éclairé le ciel dans le monde en mai 2024 a révélé une torsion inattendue : l'atmosphère de la Terre a peut-être contribué à rendre la tempête si puissante. Les mesures par satellite ont révélé qu'environ 85 % des particules chargées alimentant la perturbation provenaient de la haute atmosphère de la Terre plutôt que du vent solaire. Les scientifiques ont également détecté un affaiblissement extraordinaire de 40% du champ magnétique de la Terre au-dessus de la planète.",
-      "source": "ScienceDaily",
-      "category": "Environnement"
     },
     {
       "title": "Une chronologie du scandale de l'affaire qui a coulé Nvidia",
