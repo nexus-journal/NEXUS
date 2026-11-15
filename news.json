@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T02:24:05.479649+00:00",
+  "updated_at": "2026-11-15T03:17:13.273194+00:00",
   "count": 289,
   "articles": [
     {
@@ -355,6 +355,38 @@
       "category": "Exploration"
     },
     {
+      "title": "Le monde selon la Chine",
+      "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "date": "Sun, 15 Nov 2026 03:00:02 GMT",
+      "description": "Le sommet Apec de Shenzhen cette semaine présentera l'ambition de la Chine de remodeler l'ordre mondial selon ses propres termes",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "«La Pierre du destin», dans les ruines de l’Allemagne nazie",
+      "link": "https://www.liberation.fr/culture/livres/la-pierre-du-destin-dans-les-ruines-de-lallemagne-nazie-20261115_JETUB4WRHNCWJEBMVZ3NB6YESI/",
+      "date": "Sun, 15 Nov 2026 03:00:00 +0000",
+      "description": "Eric Giacometti et Jacques Ravenne sont de retour avec une nouvelle aventure de la saga du Soleil noir se déroulant dans les derniers mois de la Seconde Guerre mondiale.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "La coalition dirigée par l'Arabie saoudite intercepte deux missiles, deux drones à Riyad",
+      "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 02:59:06 +0000",
+      "description": "Les combats s'intensifient à Marib et à al-Jawf, comme l'indique l'agence des Nations Unies, plus de 340 000 Yéménites déplacés depuis août.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Un arrêt au sol à l'échelle nationale a suivi la mise à niveau de l'entrepreneur vers le système de télécommunication L3Harris : DOT-S Duffy",
+      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "date": "Sun, 15 Nov 2026 02:53:59 GMT",
+      "description": "L'arrêt au sol de la FAA a eu lieu après les mises à jour d'un ancien système de communication géré par L3Harris Technologies, a déclaré le secrétaire aux Transports Sean Duffy samedi.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
       "link": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115",
       "date": "Sun, 15 Nov 2026 02:33:40 +0100",
@@ -451,7 +483,7 @@
       "category": "Technologie"
     },
     {
-      "title": "Avec Starship capture, SpaceX montre encore qu'il peut éblouir le monde",
+      "title": "SpaceX a rendu sa fusée Starship samedi, mais il y a une prise",
       "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
       "date": "Sun, 15 Nov 2026 00:40:59 +0000",
       "description": "C'était comme entrer dans le futur.",
@@ -473,14 +505,6 @@
       "description": "Ça vaut le coup d'utiliser un eGPU avec votre ordinateur portable ? Ça dépend. Examinons de plus près les facteurs les plus importants que vous devriez considérer.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Des centaines d'hommes marchent en Suisse pour protester contre la violence contre les femmes",
-      "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 00:27:14 +0000",
-      "description": "Les organisateurs disent que les hommes doivent s'exprimer, car l'étude suisse constate que la moitié des hommes âgés de 18 à 24 ans ont une vision restrictive de la masculinité.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "11 gadgets de moins de 10 $ qui résolvent les problèmes quotidiens",
@@ -561,14 +585,6 @@
       "description": "Phonm Penh, capitale du Cambodge, accueille dimanche 15 et lundi 16 novembre le XXᵉ sommet de l'Organisation internationale de la francophonie (OIF). Première mission de cette institution : promouvoir la langue française. Au Cambodge, celle-ci s'est implantée puis développée sous le protectorat français à partir de 1863. Plus de 160 ans après, elle est enseignée à plus de 22 000 apprenants selon l'Institut français. Mais à l'école et à l'université, l'anglais et le chinois ne cessent de gagner du terrain.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Un arrêt au sol à l'échelle nationale a suivi la mise à niveau de l'entrepreneur vers le système de télécommunication L3Harris : DOT-S Duffy",
-      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "date": "Sat, 14 Nov 2026 23:21:21 GMT",
-      "description": "L'arrêt au sol de la FAA a eu lieu après les mises à jour d'un ancien système de communication géré par L3Harris Technologies, a déclaré le secrétaire aux Transports Sean Duffy samedi.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Un centre international dédié à l'IA de défense ouvre ses portes à Rennes",
@@ -888,7 +904,7 @@
       "date": "Sat, 14 Nov 2026 18:28:06 GMT",
       "description": "Le géant des médias sociaux est accusé de ne pas avoir informé 20 millions d'utilisateurs qu'il avait accès à leurs photos.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Philippines remporte le premier Concours Eurovision de la chanson Asie",
@@ -899,20 +915,20 @@
       "category": "Monde"
     },
     {
-      "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
-      "date": "Sat, 14 Nov 2026 18:00:16 +0100",
-      "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "La vente aux enchères de 180 millions de dollars de Sotheby Van Gogh a contesté les allégations qu'elle avait été « vendue sous la contrainte ».",
       "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 18:00:10 GMT",
       "description": "Sotheby's dit qu'il travaillera avec les héritiers d'une famille qui avait précédemment possédé l'œuvre pour essayer de trouver une solution.",
       "source": "BBC News",
       "category": "Monde"
+    },
+    {
+      "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
+      "date": "Sat, 14 Nov 2026 18:00:08 +0100",
+      "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
+      "source": "Le Monde",
+      "category": "France"
     },
     {
       "title": "Vous avez un iPhone Duo ? Ces 9 paramètres facilitent l'utilisation",
@@ -977,14 +993,6 @@
       "description": "Les États-Unis ont perdu leur statut de pays où la rougeole est éliminée, selon des chercheurs ayant une connaissance directe des délibérations de l'Organisation panaméricaine de la santé.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "«La Caserne» de John McGahern, une femme tuée à la tâche",
-      "link": "https://www.liberation.fr/culture/livres/la-caserne-de-john-mcgahern-une-femme-tuee-a-la-tache-20261114_VKR6AGCYYVCQJC7ZWHEVRB6KKI/",
-      "date": "Sat, 14 Nov 2026 17:00:01 +0000",
-      "description": "Le premier roman de l’écrivain irlandais disparu il y a vingt ans enfin réédité.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Les élections nationales du Soudan du Sud, leur première, seront retardées",
@@ -1433,14 +1441,6 @@
       "description": "Russell Brand et la personnalité de la télévision David Walliams ont persuadé les tribunaux de réprimer les allégations d'inconduite à leur encontre. Certains disent que les lois sur la diffamation doivent changer.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Une panne de vortex polaire record augmente le risque de froid",
-      "link": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
-      "date": "Sat, 14 Nov 2026 05:00:38 GMT",
-      "description": "L'effondrement précoce du système éolien qui piège l'air arctique est le dernier événement atmosphérique extrême",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "L'indépendance artificielle du conseil d'administration de Nvidia",
