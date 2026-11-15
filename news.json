@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:25:55.591725+00:00",
+  "updated_at": "2026-11-15T02:24:05.479649+00:00",
   "count": 289,
   "articles": [
     {
@@ -355,6 +355,22 @@
       "category": "Exploration"
     },
     {
+      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
+      "link": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115",
+      "date": "Sun, 15 Nov 2026 02:33:40 +0100",
+      "description": "L’interdiction porte sur les artifices de catégories F2 et F3, ceux de catégorie F4 restent réservés aux artificiers professionnels.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Le Premier ministre iraquien saccage neuf responsables de la contrebande de pétrole dans un fief pro-Iran",
+      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:54:55 +0000",
+      "description": "Les licenciements suivent une sonde qui a découvert des raffineries de pétrole illégales et la contrebande dans une région dirigée par Kataib Hezbollah.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
       "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
       "date": "Sun, 15 Nov 2026 01:54:03 +0100",
@@ -363,12 +379,44 @@
       "category": "France"
     },
     {
+      "title": "Netanyahou lance un appel à Eisenkot pour un gouvernement d'unité",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:33:11 +0000",
+      "description": "Benjamin Netanyahu a lancé un appel public au leader de l'opposition Gadi Eisenkot pour qu'il forme un gouvernement d'unité.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Thaïlande personnes âgées gardées en cage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:32:08 +0000",
+      "description": "Une maison de retraite en Thaïlande a été accusée d'avoir gardé des dizaines de personnes âgées dans des cages métalliques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "SpaceX parvient pour la première fois à récupérer l’étage supérieur de sa mégafusée Starship après 14 orbites",
       "link": "https://www.lemonde.fr/sciences/article/2026/11/15/spacex-parvient-a-recuperer-l-etage-superieur-de-sa-megafusee-starship-apres-14-orbites_6810742_1650684.html",
       "date": "Sun, 15 Nov 2026 01:26:48 +0100",
       "description": "Le retour du premier étage du lanceur géant a été avorté pour des raisons inconnues, mais l’étage supérieur a lui été recouvré avec succès samedi 14 novembre, après avoir passé près de vingt-quatre heures en orbite.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Le vaisseau spatial SpaceXS cloue un retour en douceur avec une prise historique",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:22:01 +0000",
+      "description": "SpaceX Starship a fait un retour triomphant sur Terre, pris au milieu de l'air par de géants «chopsticks» mécaniques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Une frappe aérienne israélienne tue un haut commandant du Hamas à Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:00:42 +0000",
+      "description": "Le Hamas confirme la mort du commandant de brigade de Rafah, Samir Abu Younis, dans une attaque contre Khan Younis samedi.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Quel GPU NVIDIA est le plus proche de la PS5 ? La réponse n'est pas si simple",
@@ -443,14 +491,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Le vaisseau spatial SpaceX.S. capturé par les armes de la rampe de lancement",
-      "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 00:14:22 +0000",
-      "description": "Les responsables de SpaceX disent que le captage par armes mécaniques montre la pleine réutilisabilité de Starship, cruciale pour un recyclage rapide et peu coûteux.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Où était l'équipe de sécurité de Nvidia ?",
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "date": "Sun, 15 Nov 2026 00:08:07 +0000",
@@ -473,14 +513,6 @@
       "description": "Les calendriers de beauté sont devenus un agrafe de Noël et sont devenus particulièrement populaires auprès des clientes.",
       "source": "BBC News",
       "category": "Économie"
-    },
-    {
-      "title": "La guerre d'Iran vit: Israël annonce une politique offensive à Gaza",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 00:00:08 +0000",
-      "description": "Israël s'est engagé à poursuivre sa « politique offensive » sur Gaza, alors que les combats au Yémen saisissent la région.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Il y a une façon cachée vous pouvez vérifier quels services fonctionnent sur votre téléphone Android",
@@ -507,28 +539,12 @@
       "category": "Monde"
     },
     {
-      "title": "Le Portugal immortalise Ronaldo avec un nouveau numéro 7",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 23:55:18 +0000",
-      "description": "L'équipe nationale du Portugal s'est inscrite au numéro 7 de Cristiano Ronaldo dans son premier match depuis sa retraite.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Raisons communes votre Roku TV peut s'allumer par lui-même et comment le réparer",
       "link": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
       "date": "Sat, 14 Nov 2026 23:45:00 +0000",
       "description": "Si votre téléviseur a été allumé au hasard et qu'il a un Roku attaché à elle, cela pourrait être le fait de votre Roku. Vérifiez ces paramètres.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Irak Le PM cible un puissant bastion de milices dans une sonde de contrebande de 30 millions de dollars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 23:34:37 +0000",
-      "description": "Le Premier ministre iraquien a licencié neuf hauts responsables de la sécurité pour un réseau présumé de contrebande de pétrole d'une valeur allant jusqu'à 30 millions de dollars par mois.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Les passagers font face à des perturbations généralisées après une panne de contrôle du trafic aérien aux États-Unis",
@@ -571,14 +587,6 @@
       "category": "Économie"
     },
     {
-      "title": "Netanyahou dit que seul un gouvernement d'unité peut garantir la sécurité d'Israël",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 23:01:30 +0000",
-      "description": "Eisenkot, chargé de former un gouvernement, rejette l'appel en tant que «tricks» comme des discussions et un vote d'orateur de la Knesset se profile.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Le chaos des voyages aériens aux États-Unis expose le système tenu ensemble par «chaîne et bande de conduit»",
       "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
       "date": "Sat, 14 Nov 2026 22:57:26 GMT",
@@ -616,14 +624,6 @@
       "date": "Sat, 14 Nov 2026 22:27:16 GMT",
       "description": "Après les tatamis, le terrain politique. Teddy Riner poursuit ses premiers pas dans la course à l'Élysée. Le quintuple champion olympique de judo était en déplacement, samedi 14 novembre, au Salon du Made in France à Paris, passage obligé des candidats à la présidentielle. Une visite de campagne consacrée à la production française, mais marquée par une forte présence médiatique et de nombreux admirateurs du judoka, alors que le rendez-vous devait mettre à l'honneur les entreprises et les savoir-faire français.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
-      "date": "Sat, 14 Nov 2026 22:17:51 +0100",
-      "description": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucksmann reculent, alors que le judoka Teddy Riner recueille 4,5 % dans l’un des scénarios testés.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -2267,6 +2267,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Cible par al-Shabaab pour la défense des écosystèmes kényans : le fondateur de la Fondation reçoit un prix",
+      "link": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
+      "date": "15 Nov 2026 02:07:52 +0000",
+      "description": "La conservation est rarement sans conflit. Sur la côte nord du Kenya, dans les comtés de Lamu et de Tana River — un point chaud de la biodiversité où le fleuve le plus long rencontre l'océan Indien — le travail de protection des habitats marins et terrestres exige souvent une volonté de défier la pêche industrielle et les industries extractives. Pour Raabia Hawa, défendre la nature contre ces activités [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Les boules de ping-pong et le fumier enflammé maintiennent les éléphants au Zimbabwe",
       "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
       "date": "14 Nov 2026 09:18:50 +0000",
@@ -2303,14 +2311,6 @@
       "link": "https://news.mongabay.com/2026/11/theres-no-substitute-for-getting-out-of-the-classroom-and-into-nature-analysis/",
       "date": "13 Nov 2026 16:56:05 +0000",
       "description": "Diriger un groupe d'étudiants en écologie sur un sentier à travers la forêt derrière le Merrimack College, à North Andover, Massachusetts, États-Unis, où j'enseigne la biologie à temps partiel comme professeur adjoint, je repère un serpent jarretier. Comme il commence à ramper rapidement, j'attrape le serpent par sa queue. Des étudiants excités se rassemblent pour [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "L'enquête sur la viande de requin de Mongabay a été sélectionnée pour deux prix de journalisme au Brésil",
-      "link": "https://news.mongabay.com/short-article/2026/11/mongabay-shark-meat-investigation-shortlisted-for-two-journalism-awards-in-brazil/",
-      "date": "13 Nov 2026 16:17:16 +0000",
-      "description": "Une enquête de Mongabay qui a révélé des achats gouvernementaux à grande échelle de viande de requin pour les écoles, les hôpitaux, les prisons et d'autres institutions publiques au Brésil a été nommée finaliste pour deux prix du journalisme brésilien. Publiée en 2025 en collaboration avec le Pulitzer Center, l'enquête a permis de suivre 1 012 marchés publics lancés depuis 2004 pour acheter plus de [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
