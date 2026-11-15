@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:54:01.492125+00:00",
+  "updated_at": "2026-11-15T06:52:55.701911+00:00",
   "count": 288,
   "articles": [
     {
@@ -347,9 +347,65 @@
       "category": "Exploration"
     },
     {
+      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France samedi, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
+      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
+      "date": "Sun, 15 Nov 2026 07:49:32 +0100",
+      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "«Expédition punitive», chasse aux «fachos» : Rouen en proie à une spirale de représailles violentes depuis le 17 octobre",
+      "link": "https://www.lefigaro.fr/actualite-france/expedition-punitive-chasse-aux-fachos-rouen-en-proie-a-une-spirale-de-represailles-violentes-depuis-le-17-octobre-20261115",
+      "date": "Sun, 15 Nov 2026 07:00:00 +0100",
+      "description": "ENQUÊTE - Des bandes violentes d’un type nouveau, proches de l’ultragauche mais reprenant les codes des gangs antiracistes des années 80, font régner à Rouen un climat de violence délétère. Plongée dans les soubresauts cauchemardesques de l’après 17 octobre dans cette ville normande où chacun redoute le prochain affrontement.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "L'Ukraine et la Russie bataillent dans l'espace pour se doter de constellations satellitaires souveraines",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-russie-bataillent-dans-l-espace-pour-se-doter-de-constellations-satellitaires-souveraines_8279132.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 06:50:36 +0100",
+      "description": "Les deux belligérants cherchent des alternatives à Starlink, afin de disposer d'une infrastructure fiable pour leurs communications, notamment militaires.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "\"Ce n'est pas un simple jeu vidéo\" : comment les fans se préparent à la sortie de \"GTA VI\" après treize ans d'attente",
+      "link": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/temoignages-ce-n-est-pas-un-simple-jeu-video-comment-les-fans-se-preparent-a-la-sortie-de-gta-vi-apres-treize-ans-d-attente_8265593.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 06:49:52 +0100",
+      "description": "La franchise culte \"Grand Theft Auto\" a marqué de nombreux joueurs depuis sa création en 1997 par l'éditeur américain Rockstar Games. Pour profiter au mieux du nouvel opus, disponible jeudi, beaucoup ont investi et même pris des jours de congés.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "La République française a oublié la promesse d'égalité",
+      "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 06:44:27 +0000",
+      "description": "Les jeunes français apprennent à l'école les valeurs de la Révolution, mais ils ne les voient pas reflétées dans leur propre réalité.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "En marge de l'Asean, les Philippines et l'Australie signent un accord de défense",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261115-en-marge-de-l-asean-les-philippines-et-l-australie-signent-un-accord-de-d%C3%A9fense",
+      "date": "Sun, 15 Nov 2026 06:37:09 GMT",
+      "description": "Le 49e sommet de l’Asean s’ouvre ce dimanche 15 novembre à Manille. Pendant trois jours, les dirigeants et délégations vont se pencher sur les dossiers les plus sensibles et pressants de la région. En marge de ce rendez-vous diplomatique, les Philippines et l'Australie ont signé un accord destiné à renforcer leur coopération en matière de défense face à la hausse de la présence militaire chinoise en Asie du Sud-Est. Le texte, qui vise à « renforcer la dissuasion » commune, complète un protocole d'entente en matière de défense datant de 1995.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Pékin fait face à son dilemme en Russie alors que l'on parle du sommet Xi-Trump-Putin",
+      "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 06:31:00 GMT",
+      "description": "La Chine est contrainte de marcher soigneusement car elle envisage d'accueillir une réunion entre Xi Jinping, Vladimir Poutine et Donald Trump. Alors que l'optique est sûre de favoriser Moscou, Pékin risque son image sur la scène mondiale.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
       "link": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
-      "date": "Sun, 15 Nov 2026 06:30:12 +0100",
+      "date": "Sun, 15 Nov 2026 06:30:01 +0100",
       "description": "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal. Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine à trouver les alliés nécessaires.",
       "source": "Le Monde",
       "category": "France"
@@ -363,11 +419,59 @@
       "category": "France"
     },
     {
+      "title": "Votes et vetos secrets: Comment le prochain chef de l'ONU sera-t-il choisi?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 06:11:00 +0000",
+      "description": "Sans précurseur pour le poste, huit candidats se disputent la recommandation du Conseil de sécurité de l'ONU.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Haïti: dernier jour pour les inscriptions aux élections présidentielle et législatives de 2027",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-ha%C3%AFti-dernier-jour-pour-les-inscriptions-aux-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-de-2027",
+      "date": "Sun, 15 Nov 2026 06:10:22 GMT",
+      "description": "En Haïti, la course à la présidence prend progressivement forme. Alors que les inscriptions des candidats à la présidence, au Sénat et à la Chambre des députés seront closes ce dimanche 15 novembre à 0h locale, une trentaine de personnalités politiques ont déjà manifesté leur intention de briguer la magistrature suprême. Parmi elles, d’anciens responsables de l’État, des figures bien connues de la scène politique, mais aussi de nouveaux visages. Cette nouvelle étape ouvre la voie à une compétition politique qui s’annonce particulièrement animée, avec des candidats présentant des ambitions et des projets politiques concurrents.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "\"Aya, pour l'exemple\" : un essai hybride passionnant sur Aya Nakamura, et les cultures qui lui ont ouvert la voie en France",
+      "link": "https://www.franceinfo.fr/culture/livres/aya-pour-l-exemple-un-essai-hybride-passionnant-sur-aya-nakamura-et-les-cultures-qui-lui-ont-ouvert-la-voie-en-france_8274251.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 06:05:02 +0100",
+      "description": "La critique culturelle Christelle Bakima-Poundza livre un \"portrait d'une France aux rêves illimités\".",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Au Cambodge, le combat d'une ONG pour développer la culture du livre",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261115-au-cambodge-le-combat-d-une-ong-pour-d%C3%A9velopper-la-culture-du-livre",
+      "date": "Sun, 15 Nov 2026 06:04:43 GMT",
+      "description": "L'association Sipar s'est donné comme mission de promouvoir l'accès au livre, dans une société cambodgienne où les habitudes de lecture ont la vie dure.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
       "title": "Déserts médicaux : sur le terrain, avec la première promotion de « docteurs juniors » en médecine générale",
       "link": "https://www.lemonde.fr/societe/article/2026/11/15/deserts-medicaux-sur-le-terrain-avec-la-premiere-promotion-de-docteurs-juniors-en-medecine-generale_6810976_3224.html",
       "date": "Sun, 15 Nov 2026 06:00:10 +0100",
       "description": "Près de 2 700 jeunes généralistes, les premiers pour lesquels l’internat de médecine générale passe de trois à quatre ans, ont commencé leur stage, le 2 novembre, pour la grande majorité dans des zones sous-dotées. Une réforme qui suscite encore des réserves. « Le Monde » est allé à la rencontre de quelques-uns d’entre eux en Ile-de-France, où ils sont plus de 400 à prendre leurs marques.",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Budapest pourrait-il être le prochain hotspot numérique nomade ?",
+      "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "date": "Sun, 15 Nov 2026 06:00:01 GMT",
+      "description": "Avec son mélange de sites, de cafés et de culture, Budapest, capitale de la Hongrie, est devenue populaire auprès de ceux qui adoptent la tendance du \"travail de n'importe où\".",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie",
+      "link": "https://www.franceinfo.fr/sports/tennis/arthur-fils/au-masters-de-turin-arthur-fils-devra-confirmer-son-nouveau-statut-apres-une-annee-en-dents-de-scie_8274734.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 06:00:01 +0100",
+      "description": "Qualifié pour le Masters de fin d'année, regroupant les huit meilleurs joueurs de la saison, Arthur Fils devra malgré tout prouver qu'il a bien sa place parmi l'élite du tennis mondial.",
+      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -381,7 +485,7 @@
     {
       "title": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
       "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
-      "date": "Sun, 15 Nov 2026 05:15:02 +0100",
+      "date": "Sun, 15 Nov 2026 05:15:01 +0100",
       "description": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout récent candidat a tenu à se démarquer du « macronisme ».",
       "source": "Le Monde",
       "category": "France"
@@ -443,14 +547,6 @@
       "category": "France"
     },
     {
-      "title": "Francophonie : Macron appelle à l'«unité» et au «consensus», avant l'élection du secrétaire général",
-      "link": "https://www.lefigaro.fr/flash-actu/francophonie-macron-appelle-a-l-unite-et-au-consensus-avant-l-election-du-secretaire-general-20261115",
-      "date": "Sun, 15 Nov 2026 04:46:44 +0100",
-      "description": "L’élargissement et l’ouverture de la Francophonie «nous imposent de bâtir le consensus pour préserver l’union», a déclaré dimanche le président dans un discours en ouverture du XXe sommet de l’OIF au Cambodge.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Les socialistes démocrates de New York exhortent Ocasio-Cortez à se présenter au président américain",
       "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 04:44:57 +0000",
@@ -483,28 +579,12 @@
       "category": "France"
     },
     {
-      "title": "Le singe attaque une femme dans un complexe résidentiel en Inde",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 03:39:39 +0000",
-      "description": "Une femme a été attaquée et mordue à plusieurs reprises par un singe dans un complexe résidentiel dans l'État indien du Gujarat.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits humains et justice climatique",
       "link": "https://www.rfi.fr/fr/environnement/20261115-cop31-les-droits-humains-et-la-justice-climatique-au-coeur-d-une-marche-de-plusieurs-milliers-de-personnes",
       "date": "Sun, 15 Nov 2026 03:37:29 GMT",
       "description": "Quelque 10 000 personnes ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Ouganda, du Pakistan à l’Indonésie, petit florilège de témoignages recueillis dans le cortège.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "L'artiste italien réimagine des peintures de Madonna pour exposer Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 03:30:29 +0000",
-      "description": "L'artiste italien Eduardo Castaldo a dévoilé une œuvre intitulée « Saintes Mères de Gaza » à l'intérieur de Naples.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Le juge bloque temporairement Trump de fermer le golf Washington DC pour la rénovation",
@@ -551,14 +631,6 @@
       "link": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115",
       "date": "Sun, 15 Nov 2026 02:33:40 +0100",
       "description": "L’interdiction porte sur les artifices de catégories F2 et F3, ceux de catégorie F4 restent réservés aux artificiers professionnels.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
-      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-      "date": "Sun, 15 Nov 2026 01:54:03 +0100",
-      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
       "source": "Le Figaro",
       "category": "France"
     },
@@ -691,14 +763,6 @@
       "category": "Monde"
     },
     {
-      "title": "Au Cambodge, la langue française durement concurrencée par le chinois et l'anglais",
-      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20261114-au-cambodge-la-langue-fran%C3%A7aise-durement-concurrenc%C3%A9e-par-le-chinois-et-l-anglais",
-      "date": "Sat, 14 Nov 2026 23:27:45 GMT",
-      "description": "Phonm Penh, capitale du Cambodge, accueille dimanche 15 et lundi 16 novembre le XXᵉ sommet de l'Organisation internationale de la francophonie (OIF). Première mission de cette institution : promouvoir la langue française. Au Cambodge, celle-ci s'est implantée puis développée sous le protectorat français à partir de 1863. Plus de 160 ans après, elle est enseignée à plus de 22 000 apprenants selon l'Institut français. Mais à l'école et à l'université, l'anglais et le chinois ne cessent de gagner du terrain.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
       "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
       "date": "Sat, 14 Nov 2026 23:10:14 GMT",
@@ -739,26 +803,10 @@
       "category": "Monde"
     },
     {
-      "title": "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
-      "link": "https://www.rfi.fr/fr/france/20261114-pr%C3%A9sidentielle-en-france-teddy-riner-attire-les-foules-mais-ne-d%C3%A9voile-encore-rien-de-son-programme",
-      "date": "Sat, 14 Nov 2026 22:27:16 GMT",
-      "description": "Après les tatamis, le terrain politique. Teddy Riner poursuit ses premiers pas dans la course à l'Élysée. Le quintuple champion olympique de judo était en déplacement, samedi 14 novembre, au Salon du Made in France à Paris, passage obligé des candidats à la présidentielle. Une visite de campagne consacrée à la production française, mais marquée par une forte présence médiatique et de nombreux admirateurs du judoka, alors que le rendez-vous devait mettre à l'honneur les entreprises et les savoir-faire français.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Les tensions géopolitiques et la sécurité énergétique au programme du sommet de l'Asean aux Philippines",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261114-les-tensions-g%C3%A9opolitiques-et-la-s%C3%A9curit%C3%A9-%C3%A9nerg%C3%A9tique-au-programme-du-sommet-de-l-asean-aux-philippines",
-      "date": "Sat, 14 Nov 2026 22:16:21 GMT",
-      "description": "Plusieurs dirigeants mondiaux sont arrivés ce week-end du samedi 14 et du dimanche 15 novembre aux Philippines pour le sommet de l'Association des nations d'Asie du Sud-Est (Asean). Une première séance plénière est prévue dimanche, avant la poursuite des discussions jusqu'au mardi 17 novembre. Dans un contexte de fortes tensions géopolitiques, la sécurité énergétique et les rivalités entre grandes puissances figurent parmi les principaux enjeux de cette édition 2026.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "SpaceX arrive au sommet de l'énorme fusée Starship pour la première fois",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 22:15:52 GMT",
-      "description": "L'étape de la fusée a été prise au milieu de l'air à l'aide d'énormes bras mécaniques surnommé \"Chopsticks\".",
+      "description": "L'étape de la fusée a été prise au milieu de l'air à l'aide d'énormes bras mécaniques surnommés \"choppicks\".",
       "source": "BBC News",
       "category": "Sciences"
     },
@@ -867,14 +915,6 @@
       "category": "Monde"
     },
     {
-      "title": "Les prochaines élections au Nigeria sont entachées par la désinformation croissante de l'IA",
-      "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 21:05:00 GMT",
-      "description": "Alors que le Nigeria se rapproche des sondages de 2027, l'utilisation de l'intelligence artificielle dans le processus électoral a suscité des questions sur l'intégrité et la disponibilité des institutions. Les Nigérians peuvent-ils faire confiance à leurs processus démocratiques?",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Euclid découvre d'anciennes balises cosmiques depuis l'aube du temps, resplendissant comme un billion de soleils",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
       "date": "Sat, 14 Nov 2026 20:52:47 EST",
@@ -888,14 +928,6 @@
       "date": "Sat, 14 Nov 2026 20:50:52 GMT",
       "description": "Maileva, filiale du groupe La Poste, a été victime d'une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes. L'an dernier, une cyberattaque revendiquée par des hackers prorusses avait déjà touché La Poste à quelques jours de Noël.",
       "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-l-ukraine-a-l-otan_8282804.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 20:47:09 +0100",
-      "description": "Le dirigeant a rencontré des dirigeants européens et les émissaires de Donald Trump dans la foulée de deux jours de pourparlers entre l'Ukraine et la Russie à Abou Dhabi.",
-      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -987,14 +1019,6 @@
       "category": "France"
     },
     {
-      "title": "\"Je ne suis pas un macroniste\", affirme Teddy Riner, qualifiant de \"baiser empoisonné\" les félicitations du chef de l'Etat pour sa candidature à la présidentielle",
-      "link": "https://www.franceinfo.fr/elections/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-pour-sa-candidature-de-baiser-empoisonne_8282699.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 18:47:21 +0100",
-      "description": "Son positionnement, \"ni de droite ni de gauche\", a conduit une partie de ses concurrents et des commentateurs à le présenter comme un héritier du chef de l'Etat.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Un «choc général» Est-ce qu'il alimente l'Europe ?",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "date": "Sat, 14 Nov 2026 18:39:59 +0000",
@@ -1003,20 +1027,12 @@
       "category": "Monde"
     },
     {
-      "title": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ?",
-      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 18:38:22 +0100",
-      "description": "Selon la présidence américaine, les dirigeants de la Chine, de la Russie et des Etats-Unis se retrouveront à Shenzhen. Au-delà du symbole, les experts ne s'attendent pas à des annonces importantes.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Italie amendes Meta €805m sur l'accès aux photos des utilisateurs",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 18:28:06 GMT",
       "description": "Le géant des médias sociaux est accusé de ne pas avoir informé 20 millions d'utilisateurs qu'il avait accès à leurs photos.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Monde"
     },
     {
       "title": "Vous avez un iPhone Duo ? Ces 9 paramètres facilitent l'utilisation",
@@ -1097,14 +1113,6 @@
       "description": "La SSBN de la classe Columbia, USS District of Columbia (SSBN-826), est de retour sur la bonne voie pour la livraison de 2028 après que les taux de travail aient plus que doublé. L'article Lead Columbia-class SSBN Claws Back from Relay Risk est apparu en premier dans Naval News .",
       "source": "Naval News",
       "category": "Défense"
-    },
-    {
-      "title": "L'Hérault rejoint le Gard et les Bouches-du-Rhône, placés en vigilance orange \"pluie-inondation\" à partir de 20 heures",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-pluie-inondation-des-20-heures-samedi_8282258.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 16:33:26 +0100",
-      "description": "De fortes précipitations sont attendues dès samedi après-midi dans les deux départements du littoral méditerranéen, alerte Météo-France.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Les bains de glace aident-ils les muscles à récupérer après un entraînement? Une nouvelle étude suggère de ne pas",
@@ -1617,14 +1625,6 @@
       "description": "Les astrophysiciens ne laissent aucune pierre se défaire dans leur recherche de ce qu'est la matière noire. Différentes particules ont été proposées, comme les WIMP et les axions. Des trous noirs riverains hypothétiques ont également été proposés. Mais il y a un autre candidat moins connu, SLABs ou Stupendly Large Black trous, un sous-type de trous noirs primitifs. Hélas, les SLAB ne peuvent pas non plus expliquer la matière noire, selon de nouvelles recherches.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Lutnick se pose des questions sur le scandale de Nvidia. L'entreprise de ses fils a des liens étroits avec le fabricant de copeaux",
-      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "date": "Fri, 13 Nov 2026 23:42:18 GMT",
-      "description": "Jensen Huang, le PDG de Nvidia, a renouvelé l'examen du secrétaire au commerce, Howard Lutnick, et des liens financiers de sa famille avec le chipmaker.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "La FAA a levé son troisième arrêt au sol national",
