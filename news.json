@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:51:08.715368+00:00",
+  "updated_at": "2026-11-15T23:39:26.170505+00:00",
   "count": 288,
   "articles": [
     {
@@ -67,6 +67,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Programme de Jean-Luc Mélenchon : quelles sont les mesures qui vous concernent ?",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/programme-de-jean-luc-melenchon-quelles-mesures-vous-concernent-20261110",
+      "date": "Tue, 10 Nov 2026 15:49:09 +0100",
+      "description": "OUTIL INTERACTIF - Retraités, propriétaires, patrons, héritiers… Le Figaro a passé le programme de Jean-Luc Mélenchon au crible d’une analyse sémantique pour vous aider à repérer les mesures qui vous concernent directement.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Lewis Hamilton visite l'Egypte au terminal de Rafah et aux installations d'aide de Gaza",
       "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
       "date": "Tue, 10 Nov 2026 15:39:26 GMT",
@@ -107,28 +115,12 @@
       "category": "Défense"
     },
     {
-      "title": "La Force aérienne lance une nouvelle stratégie d'IA dans 15 zones de mission",
-      "link": "https://www.airandspaceforces.com/air-force-new-ai-strategy-15-mission-areas/",
-      "date": "Thu, 12 Nov 2026 23:07:17 +0000",
-      "description": "Le ministère de l'Aviation lance une stratégie de renseignement artificiel dans 15 zones de mission, y compris le renseignement, les ressources humaines et les opérations nucléaires, en utilisant un plan annoncé récemment par le ministère des Données en chef et l'agent d'IA. La Force aérienne lance une nouvelle stratégie d'IA dans 15 zones de mission est apparue en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
-    },
-    {
       "title": "Un Outlook négatif: Microsoft brouille pour corriger la panne d'email",
       "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
       "date": "Thu, 12 Nov 2026 20:26:24 -0500",
       "description": "Au début du vendredi, après qu'Outlook était en baisse depuis plus de 12 heures, Microsoft a rapporté \"succès marginal.\"",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "AFRICOM testera le Cessna autonome pour l'évacuation des blessés en décembre",
-      "link": "https://www.airandspaceforces.com/africom-autonomous-cessna-casualty-evacuation-test/",
-      "date": "Thu, 12 Nov 2026 20:25:38 +0000",
-      "description": "Le Commandement de l'Afrique des États-Unis verra bientôt si un petit avion autonome peut évacuer les victimes des endroits austères lors d'une manifestation prévue pour décembre au Maroc. Merlin, une entreprise aéronautique autonome, a annoncé le 11 novembre qu'elle avait reçu un contrat de 500 000 $ de l'AFRICOM pour la mission de démonstration. Le post AFRICOM to Test Autonome Cessna for Casualty Evacuation en décembre est apparu en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
     },
     {
       "title": "Nvidia a confirmé en privé qu'il pouvait suivre les puces pour lutter contre la contrebande, même si l'industrie contestait publiquement la faisabilité",
@@ -144,7 +136,7 @@
       "date": "Thu, 12 Nov 2026 20:10:02 +0000",
       "description": "Pour Katie Spicer, saisir l'occasion et le défi a conduit à des sauts géants pendant son séjour à la NASA. Maintenant que la NASA dirige l'intégration des atterrisseurs pour Blue Origin, Blue Moon Mark 2 atterrisseur, l'un des systèmes d'atterrissage humain fournis commercialement pour le programme de NASA, Spicer aura son empreinte sur l'histoire. Spicer travaille dans le [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -176,7 +168,7 @@
       "date": "Thu, 12 Nov 2026 19:12:49 +0000",
       "description": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de la NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de la NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Un robot a assemblé une structure dans l'espace pour la première fois",
@@ -307,6 +299,38 @@
       "category": "Exploration"
     },
     {
+      "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
+      "link": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
+      "date": "Sun, 15 Nov 2026 23:58:28 +0100",
+      "description": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "La startup indienne Bharat Semi débarque 24 millions de dollars autour du marché mondial des capteurs d'IA",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "date": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "description": "Bharat Semi dit qu'il a obtenu des gains de conception pour sa technologie de capteur compatible avec l'IA avec des entreprises dont General Atomics.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Pourquoi votre Wi-Fi ralentit quand plus d'appareils se connectent",
+      "link": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
+      "date": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "description": "Votre routeur Wi-Fi est comme une gare occupée, et une fois que vous avez une idée de comment les choses fonctionnent, il est plus facile de garder le trafic entrant et sortant bourdonnant.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Yémen: Les forces anti-houthis reculent à mesure que les rebelles avancent",
+      "link": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 23:29:00 GMT",
+      "description": "Les forces alignées avec le gouvernement yéménite et l'Arabie saoudite cherchent à renforcer le contrôle sur la capitale intérimaire Aden, dans le cadre de l'approche houthis soutenue par l'Iran.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "France-Turquie : le résumé de la qualification laborieuse des Bleus en quarts de finale de la Ligue des nations de football",
       "link": "https://www.lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
       "date": "Sun, 15 Nov 2026 23:24:18 +0100",
@@ -315,20 +339,20 @@
       "category": "France"
     },
     {
-      "title": "Les notes des Bleus face à la Turquie : Mbappé percutant, Da Cunha clairvoyant, Olise agaçant",
-      "link": "https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
-      "date": "Sun, 15 Nov 2026 23:19:43 +0100",
-      "description": "Découvrez les notes de l’équipe de France après la victoire contre la Turquie (2-1) dimanche soir lors de la 6e et dernière journée de Ligue des nations.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "La fusée vulcaine échoue lors du lancement, donnant un coup majeur aux concurrents SpaceX",
+      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "date": "Sun, 15 Nov 2026 23:11:54 +0000",
+      "description": "Ce fut le premier échec total de la mission dans l'histoire de 20 ans de United Launch Alliance.",
+      "source": "Ars Technica",
+      "category": "Technologie"
     },
     {
-      "title": "France-Turquie : poussifs mais vainqueurs, les Bleus remplissent leur mission",
-      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
-      "date": "Sun, 15 Nov 2026 23:11:51 +0100",
-      "description": "Dans un match pas toujours maîtrisé, l’équipe de France a dominé la Turquie (2-1) et validé sa qualification en quarts de finale de la Ligue des nations.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Carte de la Force aérienne Voie d'amélioration de la connectivité aux flottes de chars et de transport aérien",
+      "link": "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/",
+      "date": "Sun, 15 Nov 2026 23:02:49 +0000",
+      "description": "La Force aérienne a maintenant un plan visant à améliorer les communications et le partage de données pour chaque ravitailleur aérien et aéronef cargo de sa flotte, en abordant un problème de longue date qui a fait l'objet d'une attention renouvelée durant l'opération Epic Fury. Le post Air Force Maps Path for Connectivity Upgrades to Tanker and Airlift Flottes est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
     },
     {
       "title": "Sans briller, l'équipe de France s’impose face à la Turquie et se qualifie pour les quarts de finale de la Ligue des nations",
@@ -339,20 +363,28 @@
       "category": "France"
     },
     {
-      "title": "Détestés à droite, doublés sur leur gauche, déclassés économiquement : le crépuscule des bobos",
-      "link": "https://www.lefigaro.fr/vox/societe/detestes-a-droite-doubles-sur-leur-gauche-declasses-economiquement-le-crepuscule-des-bobos-20261115",
-      "date": "Sun, 15 Nov 2026 22:48:51 +0100",
-      "description": "RÉCIT - Les scènes d’émeutes du 17 octobre dans le Paris des coffee shops ont mis à nu le déclassement des bobos. Devenue la cible favorite de la gauche mélenchoniste, qui lui reproche sa tiédeur, cette population est en train de perdre son statut économique, rattrapée par l’IA.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Combien de temps une centrale électrique de 1000 watts peut-elle faire fonctionner vos appareils?",
+      "link": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
+      "date": "Sun, 15 Nov 2026 23:00:00 +0000",
+      "description": "Déterminer l'endurance de votre centrale portable est plus compliqué que de simplement diviser sa capacité de batterie par la consommation d'énergie de vos appareils.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
-      "title": "France-Turquie : en vidéo, les deux buts des Bleus de Zidane qui ont libéré le Stade Atlantique de Bordeaux",
-      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
-      "date": "Sun, 15 Nov 2026 22:47:11 +0100",
-      "description": "Les Bleus ont battu les Turcs (2-1), ce dimanche à Bordeaux, après leur lourde défaite en Italie, jeudi dernier. Ils décrochent leur billet pour les quarts de finale de la Ligue des nations.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "« Victime de la route » a précédé la collision d'un navire de croisière de la Nouvelle-Orléans, dit NTSB",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 22:57:27 GMT",
+      "description": "Les conclusions préliminaires des enquêteurs du Bureau national de la sécurité des transports indiquent que le pétrolier a subi une défaillance de la direction avant d'entrer en collision avec le navire de croisière vendredi.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "L'Angleterre a stupéfié l'Espagne pour finir La Rojas 43 match invaincu",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 22:40:01 +0000",
+      "description": "L'Espagne subit sa première défaite depuis mars 2024 après avoir perdu 3-2 contre l'Angleterre à Madrid malgré l'arrivée de grand stand.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "On a dormi ici. Les retards de vol s'attardent mais l'horaire est de retour sur la bonne voie pour lundi",
@@ -379,28 +411,12 @@
       "category": "Technologie"
     },
     {
-      "title": "La police interdit les manifestations près de 10 écoles et cinq universités à Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 22:28:54 GMT",
-      "description": "L'ordre sera en place du 16 au 20 novembre, dit Patrice Faure, chef de la police parisienne.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "L'espion chinois soupçonné lié à l'ex-boss de Nvidia gauche en 2025, Megaspeed dit",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 22:24:20 GMT",
       "description": "Le scandale de Nvidia a soulevé des questions sur la question de savoir si les puces AI avancées ont fini en Chine, malgré les restrictions américaines.",
       "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
-      "link": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
-      "date": "Sun, 15 Nov 2026 22:21:56 +0100",
-      "description": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
-      "source": "Le Figaro",
-      "category": "France"
+      "category": "Monde"
     },
     {
       "title": "Comment un enfant de 13 ans aide à résoudre une énorme limitation du panneau solaire",
@@ -483,28 +499,12 @@
       "category": "Monde"
     },
     {
-      "title": "AO3 est de retour en ligne mais avec des fonctionnalités limitées",
-      "link": "https://www.engadget.com/2317218/ao3-is-back-online-but-with-limited-features/",
-      "date": "Sun, 15 Nov 2026 21:33:18 +0000",
-      "description": "La panne a duré deux semaines, mais toute la fonctionnalité devrait reprendre bientôt.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Aux États-Unis, le secrétaire au Commerce pris à son tour dans la tempête Nvidia",
       "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-aux-%C3%A9tats-unis-le-secr%C3%A9taire-au-commerce-pris-%C3%A0-son-tour-dans-la-temp%C3%AAte-nvidia",
       "date": "Sun, 15 Nov 2026 21:30:23 GMT",
       "description": "La polémique autour de Nvidia continue aux États-Unis. Le PDG de l'entreprise spécialisée dans les puces électroniques, Jensen Huang, a démissionné après des révélations sur ses liaisons extraconjugales, notamment avec une femme soupçonnée d'espionnage pour la Chine, grande concurrente de Washington dans la course à l'intelligence artificielle. Et après le désormais ex-patron du groupe, une autre personne est sous pression : le secrétaire au Commerce des États-Unis, Howard Lutnick. Des responsables politiques lui reprochent d'avoir été trop complaisant sur la question des restrictions envers la Chine.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Comment obtenir le plus de protection de votre système de sécurité de caméra Ring",
-      "link": "https://www.engadget.com/2313904/how-to-maximize-ring-camera-security-protection/",
-      "date": "Sun, 15 Nov 2026 21:30:00 +0000",
-      "description": "Une caméra Ring peut fournir un énorme coup de pouce à la sécurité de votre maison, mais il ya plus que vous pouvez faire pour maximiser cette couche supplémentaire de sécurité.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Retraite des forces soutenues par l ' Arabie saoudite au Yémen, sortie du détroit de Key dans le contrôle de Houthi",
@@ -587,14 +587,6 @@
       "category": "Monde"
     },
     {
-      "title": "Qui peut forcer Israël à appliquer l'accord de cessez-le-feu de Gaza?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 20:37:43 +0000",
-      "description": "Les tempêtes frappent le territoire palestinien alors qu'Israël limite l'entrée de l'aide.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "SNL rassemble tous les tycoons techniques pour une leçon de datation et d'espion",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "date": "Sun, 15 Nov 2026 20:20:57 +0000",
@@ -608,6 +600,14 @@
       "date": "Sun, 15 Nov 2026 20:17:44 +0100",
       "description": "Le suspect a été interpellé dans la capitale par la BRI dans un \"état alcoolisé\" selon le parquet de Parquet, sans précisions supplémentaires concernant les menaces ou les cibles de l'individu.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Pierre Vermeren : « Les poubelles devant les universités, un triste symbole »",
+      "link": "https://www.lefigaro.fr/vox/societe/pierre-vermeren-les-poubelles-devant-les-universites-un-triste-symbole-20261115",
+      "date": "Sun, 15 Nov 2026 20:00:00 +0100",
+      "description": "TRIBUNE - Il fut un temps où le combat des jeunes révoltés passait par le langage, l’argumentation et les slogans. Désormais les poubelles entassées tiennent lieu de communication, illustrant la lente et irréversible dégradation du système scolaire, observe l’historien.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -721,14 +721,6 @@
       "description": "La majorité des migrants arrivés samedi sur les îles venaient du Sénégal, de Gambie et de Guinée. La montée en flèche des arrivées aux Canaries intervient après que la Ceuta d'Espagne a récemment connu une crise migratoire.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "«Un phénomène de société dont on va parler pendant des années» : GTA 6 s’apprête à cannibaliser Netflix, TikTok et toute l’industrie du divertissement",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/un-phenomene-de-societe-dont-on-va-parler-pendant-des-annees-gta-6-s-apprete-a-cannibaliser-netflix-tiktok-et-toute-l-industrie-du-divertissement-20261115",
-      "date": "Sun, 15 Nov 2026 18:25:18 +0100",
-      "description": "DÉCRYPTAGE - Le jeu vidéo événement débarque ce 19 novembre. Certains patrons, comme l’ancien directeur de Xbox France ou le directeur de Don’t Nod, se réjouissent de l’arrivée d’un tel blockbuster dans un milieu du jeu vidéo frappé par les licenciements.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Sommet de la francophonie : à Phnom Penh, une succession sous tension",
@@ -867,14 +859,6 @@
       "category": "Économie"
     },
     {
-      "title": "Le Cap-Vert va aux élections présidentielles",
-      "link": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 15 Nov 2026 16:47:00 GMT",
-      "description": "Connue pour sa stabilité politique et sa bonne gouvernance, la nation insulaire votera pour son prochain président. Environ 420 000 personnes peuvent voter",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "\"Davidson Window\" L'amiral espère qu'il avait tort sur la Chine\" Capacité de prendre Taiwan en 2027",
       "link": "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
       "date": "Sun, 15 Nov 2026 16:44:47 -0500",
@@ -952,7 +936,7 @@
       "date": "Sun, 15 Nov 2026 13:37:45 GMT",
       "description": "Han Won-seok, 34 ans, a avoué utiliser une caméra cachée et AI pour obtenir une marque presque parfaite sur le test significatif.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Monde"
     },
     {
       "title": "Naviguer dans l'orbite lunaire en utilisant des ombres et un compteur de puissance",
@@ -968,14 +952,6 @@
       "date": "Sun, 15 Nov 2026 13:06:15 GMT",
       "description": "Le secrétaire au travail et aux pensions a déclaré que le niveau de soutien actuellement offert était trop vague.",
       "source": "BBC News",
-      "category": "Économie"
-    },
-    {
-      "title": "Rivian, Lucid, PDG scout ne comptent pas sur les démocrates pour rétablir le soutien fédéral EV après les victoires à mi-parcours",
-      "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-      "date": "Sun, 15 Nov 2026 13:00:02 GMT",
-      "description": "Au fil des ans, les fabricants de véhicules électriques ont dû faire face à l'appui réglementaire de Washington.",
-      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -1089,6 +1065,14 @@
       "description": "Alors que les sécheresses s'aggravent en raison des changements climatiques, de nouvelles recherches montrent que des centaines d'espèces de cactus pourraient perdre la majorité de leur habitat d'ici 2100.",
       "source": "WIRED",
       "category": "Technologie"
+    },
+    {
+      "title": "Réquisitions, taxe foncière progressive, résidences secondaires en sursis… Comment Mélenchon veut administrer la propriété privée",
+      "link": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
+      "date": "Sun, 15 Nov 2026 09:36:04 +0100",
+      "description": "DÉCRYPTAGE - Dans son programme pour 2027, le candidat LFI cible en priorité les multipropriétaires et les bailleurs aisés. Ces derniers seraient invités à mettre la main à la poche et à laisser éventuellement l’État s’emparer de leurs biens immobiliers.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
@@ -1243,14 +1227,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Où était l'équipe de sécurité de Nvidia ?",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "date": "Sun, 15 Nov 2026 00:08:07 +0000",
-      "description": "Le chef de la sécurité de Nvidia est parti tranquillement en août, et maintenant que le PDG Jensen Huang a renoncé à ses relations, y compris avec un cadre d'une entreprise soupçonnée d'entonner des puces vers la Chine, un ancien officier du renseignement dit que c'est le genre de fuite qui conduit les conversations quotidiennes, que la plupart des équipes de sécurité d'entreprise sont mal équipées pour attraper.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Les calendriers d'aventure beauté peuvent coûter des centaines, mais sont-ils avantageux pour l'argent?",
       "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 00:01:07 GMT",
@@ -1281,6 +1257,14 @@
       "description": "Johns Hopkins scientifiques ont découvert des signes d'avertissement cachés de la maladie d'Alzheimer qui peuvent apparaître jusqu'à une décennie avant que la perte de mémoire commence. Les analyses cérébrales ont révélé que deux régions impliquées dans la mémoire et l'émotion commencent à se rétrécir avant l'hippocampe, les médecins de la région examinent généralement les signes de la maladie d'Alzheimer. Ces premiers changements sont liés à une accumulation anormale de protéines de tau et pourraient fournir une nouvelle façon puissante d'identifier les personnes à risque.",
       "source": "ScienceDaily",
       "category": "Sciences"
+    },
+    {
+      "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
+      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "date": "Sat, 14 Nov 2026 23:10:14 GMT",
+      "description": "Le Starship Test Flight 15 a marqué la première fois que la compagnie d'Elon Musk tentait d'attraper le booster et l'étage supérieur de la fusée.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Les scientifiques découvrent un paradoxe bizarre parmi les pingouins menacés",
@@ -1515,6 +1499,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Chute des ventes, prix en baisse : la grande panne de l’immobilier",
+      "link": "https://www.lefigaro.fr/economie/chute-des-ventes-prix-en-baisse-la-grande-panne-de-l-immobilier-20261113",
+      "date": "Sat, 14 Nov 2026 10:54:10 +0100",
+      "description": "DÉCRYPTAGE - La récente flambée des taux de crédit complique le financement des projets. Un casse-tête pour les acquéreurs, dont le pouvoir d’achat est déjà mis à mal par le rebond de l’inflation, sur fond de climat politique qui inquiète.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Le groupe naval dévoile SCX 26 'Flotte hybride' Drone Mothership Concept",
       "link": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub/",
       "date": "Sat, 14 Nov 2026 08:57:28 +0000",
@@ -1683,6 +1675,22 @@
       "category": "Exploration"
     },
     {
+      "title": "Saint-Denis : le proviseur du lycée Paul-Éluard placé en «autorisation d’absence» après des menaces",
+      "link": "https://www.lefigaro.fr/actualite-france/saint-denis-le-proviseur-du-lycee-paul-eluard-place-en-autorisation-d-absence-apres-des-menaces-20261116",
+      "date": "Mon, 16 Nov 2026 00:01:43 +0100",
+      "description": "Le proviseur est contesté par une partie du personnel de son établissement pour avoir, selon ses détracteurs, fait intervenir la police dans le lycée. Son départ temporaire est salué comme une «victoire» par des enseignants mobilisés.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Dans un premier temps, deux CCA volent Air Combat Maneuvers utilisant le logiciel d'autonomie",
+      "link": "https://www.airandspaceforces.com/cca-drones-fly-air-combat-maneuvers-autonomy-software/",
+      "date": "Mon, 09 Nov 2026 22:13:47 +0000",
+      "description": "Deux des drones semi-autonomes de la Force aérienne ont effectué des manoeuvres de combat aérien coordonnées par un pilote de l'IA ou un logiciel d'autonomie de mission, lors d'un test le 26 octobre, une première pour le programme des avions de combat collaboratifs de la Force aérienne. The post In First, Two CCAs Fly Air Combat Maneuvers Using Autonomy Software est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
       "title": "L'avenir de Trumponomics : compromis ou échec",
       "link": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
       "date": "Mon, 09 Nov 2026 19:13:41 +0000",
@@ -1713,14 +1721,6 @@
       "description": "Les astrophysiciens ne laissent aucune pierre se défaire dans leur recherche de ce qu'est la matière noire. Différentes particules ont été proposées, comme les WIMP et les axions. Des trous noirs riverains hypothétiques ont également été proposés. Mais il y a un autre candidat moins connu, SLABs ou Stupendly Large Black trous, un sous-type de trous noirs primitifs. Hélas, les SLAB ne peuvent pas non plus expliquer la matière noire, selon de nouvelles recherches.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "La FAA a levé son troisième arrêt au sol national",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "date": "Fri, 13 Nov 2026 23:17:38 +0000",
-      "description": "Le secrétaire aux Transports, Sean Duffy, a blâmé l'équipement obsolète pour la panne.",
-      "source": "Ars Technica",
-      "category": "Technologie"
     },
     {
       "title": "SpaceX lance le vaisseau mais passe le booster Catch pour la sécurité",
@@ -1928,7 +1928,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "description": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "«A l'avant de son temps: l'IA aide à débloquer les découvertes cachées dans des cahiers d'hommes qui ont transformé les mathématiques",
@@ -1968,7 +1968,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "description": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont en orbite terrestre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement de [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Hermeus recrute Northrop Grumman pour le programme de drone Quarterhorse",
@@ -2144,7 +2144,7 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD: 2026 13 novembre – NGC... Aujourd'hui Archive APOD Soumissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. NGC 206 [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Un rebord mondial pour les mangroves",
@@ -2152,7 +2152,7 @@
       "date": "Fri, 13 Nov 2026 05:01:00 +0000",
       "description": "Après des décennies de déclin, ce type de forêt d'importance écologique fait son retour.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "La puissance sinistre du vendredi 13 : comment cette date maligne affecte nos vies",
