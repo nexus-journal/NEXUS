@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:59:03.598539+00:00",
+  "updated_at": "2026-11-15T08:45:41.538896+00:00",
   "count": 288,
   "articles": [
     {
@@ -347,20 +347,108 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France samedi, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
-      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-      "date": "Sun, 15 Nov 2026 08:46:03 +0100",
-      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
+      "title": "«L’équivalent de deux mois et demi de pluie en une nuit» : les images impressionnantes des inondations dans l’Hérault",
+      "link": "https://www.lefigaro.fr/meteo/l-equivalent-de-deux-mois-et-demi-de-pluie-en-une-nuit-les-images-impressionnantes-des-inondations-dans-l-herault-20261115",
+      "date": "Sun, 15 Nov 2026 09:39:37 +0100",
+      "description": "De très fortes pluies se sont abattues sur l’Hérault dans la nuit de samedi à dimanche. L’équivalent de deux mois et demi de pluie est tombé à Montpellier en une nuit. Ce matin, les routes sont encore inondées et plusieurs voitures sont restées bloquées.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Une femme de 73 ans portée disparue après une nuit de fortes inondations dans l’Hérault",
+      "link": "https://www.lefigaro.fr/meteo/inondations-dans-l-herault-une-femme-de-73-ans-portee-disparue-20261115",
+      "date": "Sun, 15 Nov 2026 09:38:35 +0100",
+      "description": "Une femme de 73 ans est portée disparue près de Montpellier après les fortes inondations qui ont frappé l’Hérault dans la nuit de samedi à dimanche.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Réquisitions, taxe foncière progressive, résidences secondaires en sursis… Comment Mélenchon veut administrer la propriété privée",
+      "link": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
+      "date": "Sun, 15 Nov 2026 09:36:04 +0100",
+      "description": "DÉCRYPTAGE - Dans son programme pour 2027, le candidat LFI cible en priorité les multipropriétaires et les bailleurs aisés. Ces derniers seraient invités à mettre la main à la poche et à laisser éventuellement l’État s’emparer de leurs biens immobiliers.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
       "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
-      "link": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115",
-      "date": "Sun, 15 Nov 2026 08:45:26 +0100",
-      "description": "L’interdiction porte sur les artifices de catégories F2 et F3, ceux de catégorie F4 restent réservés aux artificiers professionnels.",
-      "source": "Le Figaro",
+      "link": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 09:29:01 +0100",
+      "description": "L'exécutif invoque la prévention des \"risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
+      "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "\"Il y aura bien une hausse des points pour les plus bas salaires de la fonction publique\", confirme le ministre David Amiel",
+      "link": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 09:07:51 +0100",
+      "description": "David Amiel confirme, dans le \"8h30 franceinfo\" dimanche, une augmentation \"pour les plus bas salaires de la fonction publique\" représentant \"350 euros brut par an\".",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Une septuagénaire portée disparue à Candillargues après les intempéries dans l'Hérault",
+      "link": "https://www.franceinfo.fr/faits-divers/une-septuagenaire-disparue-a-candillargues-apres-les-intemperies-dans-l-herault_8283239.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 08:59:32 +0100",
+      "description": "Les sapeurs-pompiers ont effectué une centaine d'interventions en raison des fortes pluies qui ont secoué l'est du département.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Megaspeed dit qu'Alice Huang est partie en 2025 alors qu'elle lance une sonde interne dans des rapports sur ses activités",
+      "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+      "date": "Sun, 15 Nov 2026 08:34:46 GMT",
+      "description": "La société de cloud computing, basée à Singapour, a fait l'objet d'un examen approfondi depuis que des rapports lient Jensen Huang de Nvidia à l'ancienne directrice de Megaspeed Alice Huang.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "De la Fuente nie le racisme en Espagne malgré Yamal, Vinicius avowals",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 08:29:18 +0000",
+      "description": "Yamal et Vinicius ont déclaré publiquement qu'ils étaient confrontés à des abus racistes en Espagne, qui a fait l'objet de sanctions de la FIFA.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "La Malaisie sélectionne Roketsan.",
+      "link": "https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/",
+      "date": "Sun, 15 Nov 2026 08:27:22 +0000",
+      "description": "La Malaisie choisit le missile anti-navire ATMACA pour remplacer le NSM de Kongsberg sur ses navires LCS, l'intégration de SETIS CMS en France n'étant toujours pas résolue. L'article Malaisie sélectionne Roketsan. ATMACA pour remplacer NSM sur les navires de combat littoral est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
+      "title": "Israël tue le commandant du Hamas en grève sur le camp de Gaza, disent les officiels",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 08:17:41 GMT",
+      "description": "Les responsables du Hamas et des FDI confirment la mort de Samir Abu Younis, commandant de la Brigade de Rafah.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "La Jordanie condamne trois hommes à mort par pendaison après une attaque meurtrière de l'église",
+      "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 08:15:04 +0000",
+      "description": "C'est une nouvelle.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Macron exhorte à l'unité à l'ouverture du sommet de la Francophonie au Cambodge",
+      "link": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 08:12:00 GMT",
+      "description": "Les dirigeants des nations francophones se sont rassemblés à Phnom Penh comme une rangée sur qui devrait conduire la Francophonie et Congo's menace de cesser de faire pression sur Macron pour obtenir le consensus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Pacte sur la mer de Chine méridionale Code de conduite peu probable, à mesure que les dirigeants de l'ANASE se réunissent",
+      "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 08:07:08 +0000",
+      "description": "L'achèvement des négociations pour l'accord contesté de la mer de Chine du Sud sera un « ordre global », disent les analystes.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "«Expédition punitive», chasse aux «fachos» : Rouen en proie à une spirale de représailles violentes depuis le 17 octobre",
@@ -368,6 +456,22 @@
       "date": "Sun, 15 Nov 2026 08:01:18 +0100",
       "description": "ENQUÊTE - Des bandes violentes d’un type nouveau, proches de l’ultragauche mais reprenant les codes des gangs antiracistes des années 80, font régner à Rouen un climat de violence délétère. Plongée dans les soubresauts cauchemardesques de l’après 17 octobre dans cette ville normande où chacun redoute le prochain affrontement.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Panneaux solaires dans les champs : l’horizon assombri d’une potentielle solution contre le dérèglement climatique",
+      "link": "https://www.liberation.fr/environnement/agriculture/panneaux-solaires-dans-les-champs-lhorizon-assombri-dune-potentielle-solution-contre-le-dereglement-climatique-20261115_K2TFRJ2DLRGK3AH5PQVYUXVV6Y/",
+      "date": "Sun, 15 Nov 2026 08:00:00 +0000",
+      "description": "L’agrivoltaïsme pourrait, selon les défenseurs de la technologie, aider l’agriculture à être plus résiliente face au réchauffement planétaire. Mais la filière s’inquiète de voir le gouvernement la tuer dans l’œuf.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "«Un acharnement»: depuis la Côte d'Ivoire, les exilés burkinabè répondent au régime militaire à Ouagadougou",
+      "link": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou",
+      "date": "Sun, 15 Nov 2026 07:57:50 GMT",
+      "description": "Au Burkina Faso, d’anciens responsables politiques, militaires, ou journalistes sont aujourd’hui dans le viseur de la justice. Certains font l’objet de mandats d’arrêt et de demandes d’extradition. Ces personnes - en exil - sont poursuivies officiellement sur la base d'accusations comme « apologie du terrorisme » ou « incitation à la rébellion ». Plusieurs vivent notamment en Côte d’Ivoire. Que répondent-ils aux accusations portées contre eux ?",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -467,14 +571,6 @@
       "category": "Monde"
     },
     {
-      "title": "La République française a oublié la promesse d'égalité",
-      "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 06:44:27 +0000",
-      "description": "Les jeunes français apprennent à l'école les valeurs de la Révolution, mais ils ne les voient pas reflétées dans leur propre réalité.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "En marge de l'Asean, les Philippines et l'Australie signent un accord de défense",
       "link": "https://www.rfi.fr/fr/asie-pacifique/20261115-en-marge-de-l-asean-les-philippines-et-l-australie-signent-un-accord-de-d%C3%A9fense",
       "date": "Sun, 15 Nov 2026 06:37:09 GMT",
@@ -507,19 +603,11 @@
       "category": "France"
     },
     {
-      "title": "Votes et vetos secrets: Comment le prochain chef de l'ONU sera-t-il choisi?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 06:11:00 +0000",
-      "description": "Sans précurseur pour le poste, huit candidats se disputent la recommandation du Conseil de sécurité de l'ONU.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "\"Aya, pour l'exemple\" : un essai hybride passionnant sur Aya Nakamura, et les cultures qui lui ont ouvert la voie en France",
-      "link": "https://www.franceinfo.fr/culture/livres/aya-pour-l-exemple-un-essai-hybride-passionnant-sur-aya-nakamura-et-les-cultures-qui-lui-ont-ouvert-la-voie-en-france_8274251.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 06:05:02 +0100",
-      "description": "La critique culturelle Christelle Bakima-Poundza livre un \"portrait d'une France aux rêves illimités\".",
-      "source": "franceinfo",
+      "title": "« La cueillette est désastreuse » : les champignons, affaiblis par la sécheresse, sont de plus en plus rares",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/15/la-cueillette-est-desastreuse-les-champignons-affaiblis-par-la-secheresse-sont-de-plus-en-plus-rares_6810979_3244.html",
+      "date": "Sun, 15 Nov 2026 06:00:21 +0100",
+      "description": "Dans la forêt domaniale de Hez-Froidmont, dans l’Oise, des mycologues amateurs s’inquiètent d’une raréfaction des champignons. Le déclin affecte ceux dont la partie sous terre est profonde, comme les trompettes-de-la-mort, les chanterelles en tube ou les pieds-de-mouton.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -531,27 +619,19 @@
       "category": "France"
     },
     {
-      "title": "Budapest pourrait-il être le prochain hotspot numérique nomade ?",
-      "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "date": "Sun, 15 Nov 2026 06:00:01 GMT",
-      "description": "Avec son mélange de sites, de cafés et de culture, Budapest, capitale de la Hongrie, est devenue populaire auprès de ceux qui adoptent la tendance du \"travail de n'importe où\".",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie",
-      "link": "https://www.franceinfo.fr/sports/tennis/arthur-fils/au-masters-de-turin-arthur-fils-devra-confirmer-son-nouveau-statut-apres-une-annee-en-dents-de-scie_8274734.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 06:00:01 +0100",
-      "description": "Qualifié pour le Masters de fin d'année, regroupant les huit meilleurs joueurs de la saison, Arthur Fils devra malgré tout prouver qu'il a bien sa place parmi l'élite du tennis mondial.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Le revenu de base universel pourrait-il faire partie de la solution dans une économie d'IA?",
       "link": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 15 Nov 2026 05:36:00 GMT",
       "description": "L'ampleur de la perturbation économique causée par l'IA a conduit même les politiciens conservateurs à parler du revenu de base universel. Mais les économistes ne sont pas convaincus, et les militants pensent que nous devons poser des questions plus profondes.",
       "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Hamas dit que le commandant en chef tué dans une attaque aérienne israélienne",
+      "link": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+      "date": "Sun, 15 Nov 2026 05:16:00 +0000",
+      "description": "Un haut commandant du Hamas qui a aidé à planifier et superviser l'attaque du 7 octobre 2023 a été tué dans une attaque aérienne israélienne, selon le groupe militant palestinien.",
+      "source": "Sky News",
       "category": "Monde"
     },
     {
@@ -561,14 +641,6 @@
       "description": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout récent candidat a tenu à se démarquer du « macronisme ».",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Ouverture du sommet francophone au Cambodge au milieu du conflit Rwanda-RD Congo",
-      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 05:05:02 +0000",
-      "description": "La République démocratique du Congo et le Rwanda s'opposent pour savoir qui devrait diriger l'organisation des nations francophones.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "L'Italie est-elle le modèle pour l'Europe?",
@@ -643,18 +715,10 @@
       "category": "France"
     },
     {
-      "title": "Ebola en RDC: six mois après son apparition, l'épidémie poursuit sa progression",
-      "link": "https://www.rfi.fr/fr/afrique/20261115-ebola-en-rdc-six-mois-apr%C3%A8s-son-apparition-l-%C3%A9pid%C3%A9mie-poursuit-sa-progression",
-      "date": "Sun, 15 Nov 2026 04:12:01 GMT",
-      "description": "Officialisée le 15 mai dernier, l'épidémie d'Ebola qui sévit actuellement dans l'est de la RDC continue de se propager : six mois après avoir éclaté en Ituri, celle-ci touche désormais huit provinces du territoire congolais. Si la recherche pour la mise au point de traitements et de vaccins progresse, la riposte sur le terrain se heurte, elle, à plusieurs obstacles.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits humains et justice climatique",
       "link": "https://www.rfi.fr/fr/environnement/20261115-cop31-les-droits-humains-et-la-justice-climatique-au-coeur-d-une-marche-de-plusieurs-milliers-de-personnes",
       "date": "Sun, 15 Nov 2026 03:37:29 GMT",
-      "description": "Quelque 10 000 personnes ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Ouganda, du Pakistan à l’Indonésie, petit florilège de témoignages recueillis dans le cortège.",
+      "description": "Quelque 10 000 personnes ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire turque où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Ouganda, du Pakistan à l’Indonésie, petit florilège de témoignages recueillis dans le cortège.",
       "source": "RFI",
       "category": "France"
     },
@@ -675,14 +739,6 @@
       "category": "Économie"
     },
     {
-      "title": "«La Pierre du destin», dans les ruines de l’Allemagne nazie",
-      "link": "https://www.liberation.fr/culture/livres/la-pierre-du-destin-dans-les-ruines-de-lallemagne-nazie-20261115_JETUB4WRHNCWJEBMVZ3NB6YESI/",
-      "date": "Sun, 15 Nov 2026 03:00:00 +0000",
-      "description": "Eric Giacometti et Jacques Ravenne sont de retour avec une nouvelle aventure de la saga du Soleil noir se déroulant dans les derniers mois de la Seconde Guerre mondiale.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Un arrêt au sol à l'échelle nationale a suivi la mise à niveau de l'entrepreneur vers le système de télécommunication L3Harris : DOT-S Duffy",
       "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "date": "Sun, 15 Nov 2026 02:53:59 GMT",
@@ -697,6 +753,14 @@
       "description": "Santa Cruz de Succhabamba fait partie du diocèse de Chiclayo, où le pape a été évêque de 2015 à 2023.",
       "source": "BBC News",
       "category": "Monde"
+    },
+    {
+      "title": "Dépanner un écran noir sur votre MacBook est plus facile que vous ne le pensez",
+      "link": "https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/",
+      "date": "Sun, 15 Nov 2026 01:30:00 +0000",
+      "description": "Un écran noir sur votre MacBook peut se sentir comme la fin du monde, mais ne paniquez pas: il ya plusieurs étapes faciles de dépannage pour essayer en premier.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Quel GPU NVIDIA est le plus proche de la PS5 ? La réponse n'est pas si simple",
@@ -715,14 +779,6 @@
       "category": "Monde"
     },
     {
-      "title": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
-      "date": "Sun, 15 Nov 2026 00:49:27 +0100",
-      "description": "Les envoyés de Donald Trump ont proposé à Kiev une adhésion à l’OTAN en échange de territoires dans le Donbass, ce que l’Ukraine ne prend pas au sérieux, tandis que Vladimir Poutine campe sur ses exigences territoriales.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Ce brevet Sony ajouterait un lecteur de carte de crédit à votre contrôleur PlayStation",
       "link": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
       "date": "Sun, 15 Nov 2026 00:45:00 +0000",
@@ -731,7 +787,7 @@
       "category": "Technologie"
     },
     {
-      "title": "SpaceX a rendu sa fusée Starship samedi, mais il y a une prise",
+      "title": "Avec Starship capture, SpaceX montre encore qu'il peut éblouir le monde",
       "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
       "date": "Sun, 15 Nov 2026 00:40:59 +0000",
       "description": "C'était comme entrer dans le futur.",
@@ -803,14 +859,6 @@
       "category": "Monde"
     },
     {
-      "title": "Raisons communes votre Roku TV peut s'allumer par lui-même et comment le réparer",
-      "link": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
-      "date": "Sat, 14 Nov 2026 23:45:00 +0000",
-      "description": "Si votre téléviseur a été allumé au hasard et qu'il a un Roku attaché à elle, cela pourrait être le fait de votre Roku. Vérifiez ces paramètres.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Alzheimer peut commencer à rétrécir deux régions du cerveau années avant la perte de mémoire",
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
       "date": "Sat, 14 Nov 2026 23:31:56 EST",
@@ -867,20 +915,20 @@
       "category": "Monde"
     },
     {
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
+      "date": "Sat, 14 Nov 2026 22:17:51 +0100",
+      "description": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucksmann reculent, alors que le judoka Teddy Riner recueille 4,5 % dans l’un des scénarios testés.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "SpaceX arrive au sommet de l'énorme fusée Starship pour la première fois",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 22:15:52 GMT",
       "description": "L'étape de la fusée a été prise au milieu de l'air à l'aide d'énormes bras mécaniques surnommés \"choppicks\".",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Tu peux le croire ? SpaceX capte une partie de sa fusée Starship à son retour sur Terre",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 22:09:40 GMT",
-      "description": "SpaceX a effectué la capture historique en utilisant des bras mécaniques surnommés \"choppicks\".",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Le premier astronaute étranger visitera la station spatiale chinoise Tiangong en deux semaines",
@@ -923,12 +971,12 @@
       "category": "Exploration"
     },
     {
-      "title": "SpaceX effectue la première capture de vaisseaux spatiaux",
-      "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 21:35:00 GMT",
-      "description": "La récupération réussie du vaisseau spatial SpaceX marque une percée dans l'objectif du fondateur Elon Musk.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "Présidentielle 2027 : Gérard Larcher propose aux candidats de droite et du centre de se rencontrer pour trancher sur «une méthode de départage»",
+      "link": "https://www.lefigaro.fr/flash-actu/presidentielle-gerard-larcher-propose-aux-candidats-de-droite-et-du-centre-de-se-rencontrer-pour-trancher-sur-une-methode-de-departage-20261114",
+      "date": "Sat, 14 Nov 2026 21:35:57 +0100",
+      "description": "Édouard Philippe, le mieux placé dans les sondages, s’est jusque-là opposé à l’idée d’une primaire.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Israël: le bras de fer Eisenkot-Netanyahu se poursuit, la formation d'un gouvernement piétine",
@@ -939,28 +987,12 @@
       "category": "France"
     },
     {
-      "title": "Protection des enfants, opposition au «permis de tuer» et au gouvernement : à Paris, un mouvement social aux revendications multiples et en perte de vitesse",
-      "link": "https://www.lefigaro.fr/actualite-france/protection-des-enfants-opposition-au-permis-de-tuer-et-au-gouvernement-a-paris-un-mouvement-social-aux-revendications-multiples-et-en-perte-de-vitesse-20261114",
-      "date": "Sat, 14 Nov 2026 21:18:37 +0100",
-      "description": "REPORTAGE - Le cortège parisien a rassemblé 24.000 personnes selon Beauvau et 100.000 selon l’Interfac de la jeunesse. Si la première partie de l’itinéraire s’est déroulée sans accroc, quelques affrontements ont eu lieu en fin de parcours, place de la Nation.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Les physiciens utilisent la lumière laser pour débloquer les pouvoirs électriques cachés d'un cristal",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
       "date": "Sat, 14 Nov 2026 21:18:16 EST",
       "description": "Les scientifiques ont découvert comment utiliser des éclairs de lumière laser pour organiser de petites régions électriques à l'intérieur d'un cristal, en résolvant un mystère de décennies sur la façon dont le matériau se comporte. L'alignement induit par le laser ne dure qu'un billion de seconde, mais la percée pourrait ouvrir la porte à de nouvelles façons de traiter et de stocker l'information.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 21:15:18 +0100",
-      "description": "Maileva \"a notifié la Commission nationale de l'informatique et des libertés et déposé une plainte. Une enquête judiciaire est en cours\", a précisé La Poste.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "\"Quand j'ai tout payé, il ne me reste plus grand chose\" : pour le cinquième samedi de mobilisation contre la vie chère, des manifestants toujours déterminés",
@@ -995,14 +1027,6 @@
       "category": "Monde"
     },
     {
-      "title": "Allègements de charges : le ministre du Travail assure que les entreprises ont «la parole du gouvernement»",
-      "link": "https://www.lefigaro.fr/societes/allegements-de-charges-le-ministre-du-travail-assure-que-les-entreprises-ont-la-parole-du-gouvernement-20261114",
-      "date": "Sat, 14 Nov 2026 20:08:49 +0100",
-      "description": "«Si nous constatons une réelle relance salariale dans les semaines à venir, nous limiterons par décret, début 2027, la progression du coût du travail, en adaptant le barème des allègements», a promis Jean-Pierre Farandou.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Tesla ouvre les pré-commandes Cybercab pour usage personnel, avec des restrictions géographiques et des frais mensuels de 299 $",
       "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
       "date": "Sat, 14 Nov 2026 20:04:44 +0000",
@@ -1016,14 +1040,6 @@
       "date": "Sat, 14 Nov 2026 20:02:07 GMT",
       "description": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a précédemment envisagé, si elle est élue.",
       "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "«Volonté de lynchage», caméra brisée et volée… Une équipe de BFMTV violemment agressée en marge de la manifestation à Lyon",
-      "link": "https://www.lefigaro.fr/actualite-france/volonte-de-lynchage-camera-brisee-et-volee-une-equipe-de-bfmtv-violemment-agressee-en-marge-de-la-manifestation-a-lyon-20261114",
-      "date": "Sat, 14 Nov 2026 19:48:31 +0100",
-      "description": "Une équipe de BFMTV a été prise à partie par des individus samedi 14 novembre, en marge de l’acte V, à Lyon. Le préfet a fermement condamné l’agression tandis que le ministère de l’Intérieur a indiqué qu’«au moins un auteur présumé» avait été interpellé.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1811,14 +1827,6 @@
       "category": "Défense"
     },
     {
-      "title": "Les dirigeants de l'UE choisissent l'équipe pour les pourparlers de paix en Ukraine après des mois d'hésitation",
-      "link": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008",
-      "date": "Fri, 13 Nov 2026 18:04:00 +0000",
-      "description": "Des représentants britanniques feront partie d'une équipe représentant l'Europe dans les pourparlers de paix en Ukraine.",
-      "source": "Sky News",
-      "category": "Monde"
-    },
-    {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
       "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
@@ -2121,14 +2129,6 @@
       "description": "Plus de 76 000 déversements d'eaux usées ont été enregistrés dans des sites de débordement qui n'avaient pas été surveillés par Scottish Water.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Systèmes navals sans pilote présentés au Salon des techniques marines de Taiwan",
-      "link": "https://www.navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show/",
-      "date": "Fri, 13 Nov 2026 06:29:00 +0000",
-      "description": "La Taiwan Marine Tech & Unmanned Robotics Expo (MATURE Taiwan), tenue du 3 au 5 novembre 2026, à Tainan, dans le sud de Taiwan, la deuxième ville et l'ancienne capitale de l'île, a présenté une gamme de technologies marines émergentes et de systèmes robotiques sans pilote pour les applications civiles et militaires, y compris les systèmes sans pilote navale. Voici un aperçu de quelques ... The post Naval Unmanned Systems Showcase au Salon des techniques marines de Taiwan est apparu",
-      "source": "Naval News",
-      "category": "Défense"
     },
     {
       "title": "APOD: 2026 13 novembre – NGC 206 et les Nuages Étoiles d'Andromède",
