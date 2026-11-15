@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T10:55:47.105070+00:00",
+  "updated_at": "2026-11-15T11:32:12.163039+00:00",
   "count": 289,
   "articles": [
     {
@@ -163,20 +163,20 @@
       "category": "Environnement"
     },
     {
-      "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
-      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
-      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
-      "description": "Nigrán, Espagne Le 12 novembre 2026 – UARX Space a franchi une étape importante pour l'industrie spatiale espagnole avec le déploiement d'OSSIE-D, un véhicule de transfert orbital (OTV) conçu et [...] L'article UARX Space marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par DHV Technology est apparu en premier sur SpaceNews .",
-      "source": "SpaceNews",
-      "category": "Exploration"
-    },
-    {
       "title": "AI confirme une limite longtemps suspectée sur les avantages des ordinateurs quantiques",
       "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Thu, 12 Nov 2026 20:00:00 +0000",
       "description": "Une preuve de l'IA a rigoureusement démontré que l'utilisation d'ordinateurs quantiques n'aurait pas d'énormes avantages pour toute une classe de problèmes mathématiques, confirmant une conjecture extrêmement influente",
       "source": "New Scientist",
       "category": "Sciences"
+    },
+    {
+      "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
+      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
+      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
+      "description": "Nigrán, Espagne Le 12 novembre 2026 – UARX Space a franchi une étape importante pour l'industrie spatiale espagnole avec le déploiement d'OSSIE-D, un véhicule de transfert orbital (OTV) conçu et [...] L'article UARX Space marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par DHV Technology est apparu en premier sur SpaceNews .",
+      "source": "SpaceNews",
+      "category": "Exploration"
     },
     {
       "title": "Quel rôle l'industrie joue-t-elle en Europe ?",
@@ -331,19 +331,123 @@
       "category": "Exploration"
     },
     {
-      "title": "Inondations dans l’Hérault : la femme de 73 ans portée disparue a été retrouvée en vie sur le toit de sa voiture",
-      "link": "https://www.lefigaro.fr/meteo/inondations-dans-l-herault-une-femme-de-73-ans-portee-disparue-20261115",
-      "date": "Sun, 15 Nov 2026 11:23:03 +0100",
-      "description": "Une femme de 73 ans portée disparue après les fortes pluies qui se sont abattues sur l’Hérault dans la nuit de samedi à dimanche, a été retrouvée saine et sauve par les secours.",
+      "title": "Seine-Saint-Denis : trois interpellations après la découverte d'un cadavre dans un garage automobile",
+      "link": "https://www.lefigaro.fr/faits-divers/seine-saint-denis-trois-interpellations-apres-la-decouverte-d-un-cadavre-dans-un-garage-automobile-20261115",
+      "date": "Sun, 15 Nov 2026 12:16:20 +0100",
+      "description": "Selon les premiers éléments de l’enquête, un garagiste de La Courneuve aurait eu un différend avec une cliente et l’aurait poussée.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : l’émissaire américain Jared Kushner regrette la diffusion de « positions maximalistes » après les négociations avec l’Ukraine et la Russie",
+      "title": "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115",
+      "date": "Sun, 15 Nov 2026 12:09:44 +0100",
+      "description": "DÉCRYPTAGE - Victime d’une cyberattaque mi-septembre, la plateforme spécialisée dans l’envoi de courriers professionnels a subi le vol des coordonnées de 22 millions de personnes.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "« On ferme notre porte pour la dernière fois et, à l’idée de ne plus jamais entrer dans cet endroit, je pleure »",
+      "link": "https://www.lemonde.fr/intimites/article/2026/11/15/on-ferme-notre-porte-pour-la-derniere-fois-et-a-l-idee-de-ne-plus-jamais-entrer-dans-cet-endroit-je-pleure_6811013_6190330.html",
+      "date": "Sun, 15 Nov 2026 12:00:07 +0100",
+      "description": "« Remue-ménages ». Synonyme à la fois de renoncement et de nouveau départ, un déménagement n’est jamais anodin. Monelle [directrice des opérations du Club Landoy chez Bayard], 37 ans, n’a pas encore fait le deuil de son duplex avec terrasse à Pantin (Seine-Saint-Denis), devenu trop petit.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "\"Hunger Games : lever de soleil sur la moisson\" : un nouveau préquel coloré au casting rafraîchissant",
+      "link": "https://www.franceinfo.fr/culture/cinema/hunger-games-lever-de-soleil-sur-la-moisson-un-nouveau-prequel-colore-au-casting-rafraichissant_8267603.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 11:55:51 +0100",
+      "description": "Ce volet, tiré du roman éponyme de Suzanne Collins paru en 2025, raconte la jeunesse d'Haymitch Abernathy, mentor de l'héroïne des premiers épisodes de la saga.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Trois hommes condamnés à mort en Jordanie pour fusillade de masse meurtrière",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 11:06:32 GMT",
+      "description": "L'attaque d'enterrements dans une église orthodoxe grecque a tué neuf personnes et en a blessé 34 autres le mois dernier.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "La police affronte les manifestants lors d'affrontements en France et en Allemagne",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 11:04:10 +0000",
+      "description": "Des dizaines de milliers de personnes sont descendues dans la rue dans des villes de France et d'Allemagne au sujet de l'augmentation des coûts de la vie.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Congrès adopte des règles d'exportation de puces AI plus strictes à la suite du scandale de Nvidia",
+      "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+      "date": "Sun, 15 Nov 2026 11:00:04 GMT",
+      "description": "Jensen Huangs prétendument affaire avec l'espion chinois « augmente l'élan » pour réprimer le matériel américain atteignant la Chine",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Cette AI Tamagotchi transforme des objets quotidiens en animaux virtuels nécessaires",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "date": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "description": "Une étudiante de Carnegie Mellon, les petits gadgets E Ink, appelés OAT, donnent des houseplants, des skateboards et des haltères des personnalités expressives pour vous pousser vers de meilleures habitudes.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Qu'est-ce qu'il y a de plus pour le vaisseau SpaceX après que les baguettes de l'Epic Flight 15 aient pris ?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+      "date": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "description": "SpaceX vient de faire de l'histoire des vols spatiaux, captant l'étage supérieur de sa mégapropulseur de vaisseau lorsqu'il est revenu sur Terre. Mais Starship a encore de grandes boîtes à vérifier.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky",
       "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html",
       "date": "Sun, 15 Nov 2026 10:59:59 +0100",
-      "description": "Les Etats-Unis ont pour la première fois soumis l’hypothèse à l’Ukraine de céder des territoires – le Donbass – en échange de son adhésion à l’OTAN, a affirmé, samedi, Volodymyr Zelensky.",
+      "description": "Selon le président ukrainien, la Russie avait utilisé « plus de 2 300 drones d’attaque, 1 590 bombes aériennes et 15 missiles de différents types » au cours de la semaine passée. « De nombreuses de ces attaques sont possibles en raison des limitations de vitesse des terminaux Starshield le long de la ligne de front », a-t-il ajouté, demandant aux Etats-Unis et à SpaceX de rétablir l’accès au système satellitaire militaire",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Donnez Donbas, prenez le siège de l'OTAN : un nouveau lancer américain pourrait-il fonctionner pour l'Ukraine, la Russie ?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 10:58:36 +0000",
+      "description": "L'ambition de l'OTAN en Ukraine a toujours été une ligne rouge pour le Kremlin. L'abandon du territoire a été un non pour l'Ukraine.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "États-Unis: les ventes de voitures hybrides relancées par la hausse des prix du carburant",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-%C3%A9tats-unis-les-ventes-de-voitures-hybrides-relanc%C3%A9es-par-la-hausse-des-prix-du-carburant",
+      "date": "Sun, 15 Nov 2026 10:56:46 GMT",
+      "description": "Aux États-Unis, si la voiture électrique marque le pas, les voitures hybrides gagnent du terrain, portées par la flambée des prix de l'essence provoquée par les répercussions de la guerre en Iran.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Les gnocchis de carottes antigaspi de Théo Lignani",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/les-gnocchis-de-carottes-antigaspi-de-theo-lignani-20261115_7LZNGSURK5FEXB5M5CILQMTHMI/",
+      "date": "Sun, 15 Nov 2026 10:56:07 +0000",
+      "description": "Ce dimanche, on passe en cuisine avec Théo Lignani, qui transforme des vieilles carottes du fond du frigo en plat réconfortant.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "L'Inde gagne la Coupe d'Asie des moins de 19 ans contre le Pakistan en proie à l'agression post-match",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 10:52:36 +0000",
+      "description": "L'Inde a battu le Pakistan par un guichet lors d'un retour palpitant en finale, mais poursuit avec un comportement peu sportif.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
+      "link": "https://www.liberation.fr/economie/social/le-gouvernement-chiffre-a-environ-1-milliard-deuros-les-gestes-pour-les-bas-salaires-20261115_SWSZRZNYERBULLREF3KQ7I5XUY/",
+      "date": "Sun, 15 Nov 2026 10:52:35 +0000",
+      "description": "David Amiel, le ministre des comptes publics, a estimé que les agents concernés par la revalorisation salariale toucheront 350 euros brut par an en plus. Les syndicats demandent toujours le dégel du point d’indice des fonctionnaires.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -387,27 +491,11 @@
       "category": "Monde"
     },
     {
-      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
-      "link": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 10:25:59 +0100",
-      "description": "L'exécutif invoque la prévention des \"risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Des milliers de Portugais manifestent contre la crise du logement et la vie chère",
       "link": "https://www.rfi.fr/fr/europe/20261115-des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-et-la-vie-ch%C3%A8re",
       "date": "Sun, 15 Nov 2026 10:13:04 GMT",
       "description": "La crise du logement, sujet majeur du débat public au Portugal depuis plusieurs semaines, a de nouveau mobilisé samedi 14 novembre des milliers de personnes dans les rues de Lisbonne et d'une trentaine d'autres villes. La grogne a été lancée à la suite de l'adoption en première lecture par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "«L’équivalent de deux mois et demi de pluie en une nuit» : les images impressionnantes des inondations dans l’Hérault",
-      "link": "https://www.lefigaro.fr/meteo/l-equivalent-de-deux-mois-et-demi-de-pluie-en-une-nuit-les-images-impressionnantes-des-inondations-dans-l-herault-20261115",
-      "date": "Sun, 15 Nov 2026 10:03:44 +0100",
-      "description": "De très fortes pluies se sont abattues sur l’Hérault dans la nuit de samedi à dimanche. L’équivalent de deux mois et demi de pluie est tombé à Montpellier en une nuit. Ce matin, les routes sont encore inondées et plusieurs voitures sont restées bloquées.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -467,36 +555,12 @@
       "category": "Monde"
     },
     {
-      "title": "Le pape Léon parle de la « souffrance » de la communauté lors de la visite à la ville des Andes lointaines",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 09:57:25 GMT",
-      "description": "Santa Cruz de Succhabamba fait partie du diocèse de Chiclayo, où le Pape a été évêque de 2015 à 2023.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Les manifestants condamnent les politiques américaines au début du sommet de l'ANASE à Manille",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 09:49:43 +0000",
-      "description": "Les dirigeants de l'Asie du Sud-Est arrivant aux Philippines pour le sommet de l'ANASE ont reçu des protestations.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
       "link": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 09:49:24 +0100",
       "description": "David Amiel confirme, dans le \"8h30 franceinfo\" dimanche, une augmentation \"pour les plus bas salaires de la fonction publique\" représentant \"350 euros brut par an\".",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "L'Iran dit qu'il vise le radar américain à Bahreïn. Que savons-nous ?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 09:41:27 +0000",
-      "description": "Les forces de défense du Bahreïn affirment que leurs systèmes de défense aérienne contredisent plusieurs «attaques aériennes» iraniennes.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Après des décennies de sang et de méfiance, des doutes sur qui blâmer une otage israélienne",
@@ -531,36 +595,12 @@
       "category": "France"
     },
     {
-      "title": "L’Iran revendique une nouvelle attaque contre une base militaire des Etats-Unis à Bahreïn",
-      "link": "https://www.liberation.fr/international/moyen-orient/liran-revendique-une-nouvelle-attaque-contre-une-base-militaire-des-etats-unis-a-bahrein-20261115_VSADW3X4B5BTBJTSUPFQTRM2LU/",
-      "date": "Sun, 15 Nov 2026 09:27:18 +0000",
-      "description": "Les Gardiens de la révolution ont affirmé avoir ciblé le royaume à l’aide de drones, ce dimanche 15 novembre. Les autorités du petit pays du Golfe assurent les avoir tous intercepté «avant qu’ils n’atteignent leurs cibles».",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Le cinquième soldat canadien meurt de blessures causées par de gros incendies à la base militaire",
       "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 09:26:37 GMT",
       "description": "Le Pte William Douglas Dal Bianco est décédé de ses blessures vendredi, un mois après un incendie qui a déchiré la BFC Wainwright.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Qu'est-ce qui a forcé les États-Unis à atterrir tous les avions ? Un commutateur de routeur, nous savons maintenant",
-      "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 09:17:49 +0000",
-      "description": "Les responsables américains disent qu'une mise à niveau de routine qui a mal tourné a causé la perturbation massive des voyages aériens.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "SpaceX réussit pour la première fois à récupérer l’étage supérieur de «Starship»",
-      "link": "https://www.liberation.fr/sciences/espace/spacex-reussit-pour-la-premiere-fois-a-recuperer-letage-superieur-de-starship-20261115_JOFBITPBVVEE5KCJCMJZ6WH45M/",
-      "date": "Sun, 15 Nov 2026 09:17:00 +0000",
-      "description": "L’entreprise spatiale d’Elon Musk a mené à bien samedi une manœuvre complexe pour ramener sur Terre en un seul morceau la partie haute de sa mégafusée. Un nouveau jalon dans la volonté des Etats-Unis de retourner sur la Lune.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "160 questions, une seule erreur : le meilleur scoreur en Corée du Sud l'examen fiscal admet la tricherie AI",
@@ -707,14 +747,6 @@
       "category": "France"
     },
     {
-      "title": "Flavie Flament, dix ans de combat contre les violences sexuelles : « Quand on a été violée, on est en danger de viol toute sa vie »",
-      "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/15/flavie-flament-dix-ans-de-combat-contre-les-violences-sexuelles-quand-on-a-ete-violee-on-est-en-danger-de-viol-toute-sa-vie_6810941_4500055.html",
-      "date": "Sun, 15 Nov 2026 05:30:08 +0100",
-      "description": "En 2016, l’animatrice de télévision révélait que le photographe David Hamilton l’avait violée alors qu’elle avait 13 ans. Cette année, elle a porté plainte pour viol contre Patrick Bruel et publie « La Parole », une réflexion sur l’évolution de la société depuis son premier témoignage. Devenue une figure de la lutte contre les crimes sexuels, elle reprend peu à peu le contrôle de son histoire.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Le Hamas dit que le commandant en chef tué dans une attaque aérienne israélienne",
       "link": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
       "date": "Sun, 15 Nov 2026 05:16:00 +0000",
@@ -803,14 +835,6 @@
       "category": "Monde"
     },
     {
-      "title": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits humains et justice climatique",
-      "link": "https://www.rfi.fr/fr/environnement/20261115-cop31-les-droits-humains-et-la-justice-climatique-au-coeur-d-une-marche-de-plusieurs-milliers-de-personnes",
-      "date": "Sun, 15 Nov 2026 03:37:29 GMT",
-      "description": "Quelque 10 000 personnes ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire turque où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Ouganda, du Pakistan à l’Indonésie, petit florilège de témoignages recueillis dans le cortège.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Le juge bloque temporairement Trump de fermer le golf Washington DC pour la rénovation",
       "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 03:21:04 GMT",
@@ -883,7 +907,7 @@
       "category": "Technologie"
     },
     {
-      "title": "Avec Starship capture, SpaceX montre encore qu'il peut éblouir le monde",
+      "title": "SpaceX a rendu sa fusée Starship samedi, mais il y a une prise",
       "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
       "date": "Sun, 15 Nov 2026 00:40:59 +0000",
       "description": "C'était comme entrer dans le futur.",
@@ -971,11 +995,11 @@
       "category": "Économie"
     },
     {
-      "title": "Une surcharge de routeurs a mis un arrêt au transport aérien américain",
-      "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-      "date": "Sat, 14 Nov 2026 22:57:26 GMT",
-      "description": "Des décennies de négligence bipartite ont laissé l'infrastructure aéronautique américaine inapte à l'usage, disent les experts",
-      "source": "Financial Times",
+      "title": "\"La cause de l'arrêt terrestre national est inconnue, dit la FAA",
+      "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
+      "date": "Sat, 14 Nov 2026 22:54:47 GMT",
+      "description": "Les routeurs et l'équipement de réseautage peuvent être impliqués dans les problèmes qui ont mené à l'arrêt au sol, mais une cause définitive n'a pas été établie, a déclaré les responsables.",
+      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -1009,6 +1033,14 @@
       "description": "Bien que le booster a explosé, la compagnie a pris la scène supérieure pour la première fois en campagne pour faire de la megarocket réutilisable SpaceXs megarocket Starship est retourné à sa tour de lancement du Texas samedi, une étape importante dans les efforts de la compagnie pour rendre l'engin adapté aux vols spatiaux humains. L'étage supérieur en forme de balle de 52 mètres est descendu dans l'embrayage des bras mécaniques de la tour, mettant fin à une mission de 22 heures où l'engin a orbité la Terre 14 fois. Continuer",
       "source": "The Guardian",
       "category": "Sciences"
+    },
+    {
+      "title": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
+      "date": "Sat, 14 Nov 2026 22:29:52 +0100",
+      "description": "Maileva est une plateforme spécialisée dans l’envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire. Les données exposées sont le prénom, le nom et l’adresse postale des personnes concernées.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
@@ -1065,14 +1097,6 @@
       "description": "SpaceX a ramené la deuxième étape de sa fusée Starship pour une première capture en milieu d'air à sa rampe de lancement, captant un test de vol orbital record de 22,5 heures.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Présidentielle 2027 : Gérard Larcher propose aux candidats de droite et du centre de se rencontrer pour trancher sur «une méthode de départage»",
-      "link": "https://www.lefigaro.fr/flash-actu/presidentielle-gerard-larcher-propose-aux-candidats-de-droite-et-du-centre-de-se-rencontrer-pour-trancher-sur-une-methode-de-departage-20261114",
-      "date": "Sat, 14 Nov 2026 21:35:57 +0100",
-      "description": "Édouard Philippe, le mieux placé dans les sondages, s’est jusque-là opposé à l’idée d’une primaire.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Israël: le bras de fer Eisenkot-Netanyahu se poursuit, la formation d'un gouvernement piétine",
@@ -1179,14 +1203,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Le conseil d'administration de Nvidia a demandé à deux grands investisseurs d'envisager le « retour potentiel de Jensen Huang »",
-      "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "date": "Sat, 14 Nov 2026 17:46:06 GMT",
-      "description": "Deux investisseurs de Nvidia avec environ 2,13 milliards de dollars d'actions divulguées au 30 juin appellent à une recherche délibérée de leadership après la démission de Huang.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Le secrétaire aux transports blâme la modernisation de l'équipement pour les vols d'échouement à l'échelle nationale",
       "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
       "date": "Sat, 14 Nov 2026 17:45:04 +0000",
@@ -1243,6 +1259,14 @@
       "category": "France"
     },
     {
+      "title": "Comment Nvidia troubles et un Congrès démocratique pourrait remodeler le commerce AI, selon les experts ETF",
+      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "date": "Sat, 14 Nov 2026 15:50:43 GMT",
+      "description": "Les experts de l'ETF disent que les turbulences de leadership de Nvidia et le contrôle démocratique du Congrès pourraient déplacer la demande d'IA au profit d'autres stocks Big Tech, rivaux chipmakers.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Teddy Riner réfute être macroniste et qualifie de \"baiser empoisonné\" les félicitations de Macron",
       "link": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron",
       "date": "Sat, 14 Nov 2026 15:12:57 GMT",
@@ -1265,14 +1289,6 @@
       "description": "Microsoft a déclaré que tous les services ont été entièrement restaurés après une panne mondiale qui a affecté le NHS, la police, les écoles et d'autres services à travers le Royaume-Uni.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "Comment la sortie de \"GTA VI\" de Rockstar pourrait remodeler le jeu, le streaming et même payer le temps libre",
-      "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "date": "Sat, 14 Nov 2026 14:54:22 GMT",
-      "description": "\"Grand Theft Auto VI\" lance le 19 novembre avec d'énormes attentes. Son impact pourrait toucher les créateurs, la diffusion en continu, la musique, les congés en milieu de travail, la livraison de nourriture et le tourisme.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Pourquoi le booster de Starship Flight 15 a-t-il avorté ? SpaceX enquête toujours (vidéo)",
@@ -1395,14 +1411,6 @@
       "category": "Économie"
     },
     {
-      "title": "Comment exécuter SteamOS sur votre Mac",
-      "link": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
-      "date": "Sat, 14 Nov 2026 12:00:00 +0000",
-      "description": "Une application gratuite vous permet de démarrer SteamOS dans une machine virtuelle sur votre Apple Silicon Mac, déverrouiller PC et les jeux hérités qui autrement n'ont pas fonctionné.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "On a battu le ver à vis. Voici comment nous essayons de le refaire",
       "link": "https://www.scientificamerican.com/article/we-beat-screwworm-once-heres-how-were-trying-to-do-it-again/",
       "date": "Sat, 14 Nov 2026 12:00:00 +0000",
@@ -1425,14 +1433,6 @@
       "description": "Certaines personnes sont excellentes pour visualiser des scènes et des images dans leur tête, tandis que d'autres ne peuvent pas faire du tout",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Voir Jupiter et Mars faire une approche proche spectaculaire nuit nov. 15-16",
-      "link": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
-      "date": "Sat, 14 Nov 2026 11:00:00 +0000",
-      "description": "La planète rouge Mars brillera un peu plus d'un degré de Jupiter dans la nuit du 15 au 16 novembre.",
-      "source": "Space.com",
-      "category": "Exploration"
     },
     {
       "title": "Le groupe naval dévoile SCX 26 'Flotte hybride' Drone Mothership Concept",
@@ -1835,20 +1835,20 @@
       "category": "Monde"
     },
     {
-      "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
-      "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "description": "Le 13 novembre 2026— Washington, D.C.—La Commercial Space Federation (CSF) est heureuse d'accueillir CesiumAstro comme son nouveau membre associé. Un leader mondial dans les solutions de connectivité avancées pour l'espace et [...] Le post Commercial Space Federation accueille CesiumAstro comme nouveau membre associé est apparu en premier sur SpaceNews .",
-      "source": "SpaceNews",
-      "category": "Exploration"
-    },
-    {
       "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
       "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
       "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
       "source": "New Scientist",
       "category": "Sciences"
+    },
+    {
+      "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
+      "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "description": "Le 13 novembre 2026— Washington, D.C.—La Commercial Space Federation (CSF) est heureuse d'accueillir CesiumAstro comme son nouveau membre associé. Un leader mondial dans les solutions de connectivité avancées pour l'espace et [...] Le post Commercial Space Federation accueille CesiumAstro comme nouveau membre associé est apparu en premier sur SpaceNews .",
+      "source": "SpaceNews",
+      "category": "Exploration"
     },
     {
       "title": "Les juges ferment une partie des enquêtes de la CPI sur l'Afghanistan qui pourraient examiner les troupes américaines",
