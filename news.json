@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T13:53:55.070514+00:00",
-  "count": 289,
+  "updated_at": "2026-11-15T14:38:24.597904+00:00",
+  "count": 290,
   "articles": [
     {
       "title": "Que savoir de cette année?",
@@ -291,14 +291,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Les progressistes climatiques ont gagné les mi-parcours sans dire «climat»",
-      "link": "https://grist.org/elections/climate-progressives-won-the-midterms-without-saying-climate/",
-      "date": "Thu, 12 Nov 2026 09:30:00 +0000",
-      "description": "Comment les idées derrière le New Deal vert ont obtenu une mise à jour pour l'ère Trump.",
-      "source": "Grist",
-      "category": "Environnement"
-    },
-    {
       "title": "Une nouvelle carte du trésor révèle où se cache la vie préhistorique perdue de la Terre",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
       "date": "Thu, 12 Nov 2026 06:24:47 EST",
@@ -331,6 +323,22 @@
       "category": "Exploration"
     },
     {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 15:33:41 +0100",
+      "description": "La brigade de lutte contre la cybercriminalité a été chargée de l'enquête, a confirmé dimanche le parquet de Paris. Les investigations ont été ouvertes pour \"atteinte à un système de traitement automatisé de données\" par la section cybercriminalité du parquet parisien.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Fermeture de l’A13 : derrière les travaux indispensables, la crainte de congestion sur les routes des Hauts-de-Seine",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/15/fermeture-de-l-a13-derriere-les-travaux-indispensables-la-crainte-de-congestion-sur-les-routes-des-hauts-de-seine_6811023_3234.html",
+      "date": "Sun, 15 Nov 2026 15:06:48 +0100",
+      "description": "Une portion de cette autoroute qui relie Paris à Caen doit fermer durant huit mois pour permettre de consolider un tunnel.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Débat, primaire, irruption de Teddy Riner et David Lisnard… La campagne en défense d’Édouard Philippe",
       "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/debat-primaire-irruption-de-teddy-riner-et-david-lisnard-la-campagne-en-defense-d-edouard-philippe-20261115",
       "date": "Sun, 15 Nov 2026 14:37:23 +0100",
@@ -339,11 +347,51 @@
       "category": "France"
     },
     {
+      "title": "Le port de la Nouvelle-Orléans dépose un procès d'un million de dollars pour \"miracle sur la collision du Mississippi\"",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 14:33:59 GMT",
+      "description": "Le procès intenté par les responsables de la Nouvelle-Orléans demande également que le pétrolier impliqué dans la collision avec le navire de croisière soit saisi et vendu pour payer des dommages-intérêts.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Ce sont quelques-uns des filaments d'imprimante 3D les plus puissants pour les pièces durables",
+      "link": "https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/",
+      "date": "Sun, 15 Nov 2026 14:30:00 +0000",
+      "description": "Examinons de plus près certains des filaments les plus puissants et les plus pratiques pour le type d'imprimantes 3D accessibles au fabricant moyen.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Mouvement social : plus de 400 personnes interpellées en France lors des manifestations de samedi",
+      "link": "https://www.liberation.fr/societe/police-justice/mouvement-social-plus-de-400-personnes-interpellees-en-france-lors-des-manifestations-de-samedi-20261115_LLKQO2PKRBFAVFQKMOMZWLENZM/",
+      "date": "Sun, 15 Nov 2026 14:25:44 +0000",
+      "description": "Selon les autorités, «la situation sur le territoire national est demeurée globalement maîtrisée». A Paris, le parquet évoque des «groupements en vue de commettre des violences».",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Nous avons dormi ici. Les retards de vol s'attardent alors que les compagnies aériennes brouillent pour se remettre de l'arrêt au sol",
+      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "date": "Sun, 15 Nov 2026 14:24:18 GMT",
+      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
       "link": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html",
       "date": "Sun, 15 Nov 2026 14:22:32 +0100",
       "description": "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois.",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "A Lyon, une équipe de BFM TV agressée en marge de la manifestation",
+      "link": "https://www.liberation.fr/economie/medias/a-lyon-une-equipe-de-bfm-tv-agressee-en-marge-de-la-manifestation-20261115_NJ3DNAPMOBASXN2U2V336KF4NI/",
+      "date": "Sun, 15 Nov 2026 14:22:21 +0000",
+      "description": "Deux journalistes et deux agents de sécurité de la chaîne d’info ont été attaqués samedi 14 novembre alors qu’ils couvraient la mobilisation dans le Rhône. La police est intervenue pour les «protéger».",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -355,6 +403,22 @@
       "category": "France"
     },
     {
+      "title": "Pourquoi Google Pixels a-t-il cessé d'utiliser des puces Snapdragon ?",
+      "link": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
+      "date": "Sun, 15 Nov 2026 14:15:00 +0000",
+      "description": "Il était un temps où Google comptait sur les puces Snapdragon pour faire ses smartphones Pixel, mais ce n'est plus le cas. Voilà pourquoi ça s'est arrêté.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Patrick Radden Keefe, journaliste : le voir en peinture",
+      "link": "https://www.liberation.fr/portraits/patrick-radden-keefe-journaliste-le-voir-en-peinture-20261115_N7D4FV7AEVBH3HHTYDEV32DS7U/",
+      "date": "Sun, 15 Nov 2026 14:15:00 +0000",
+      "description": "L’écrivain américain et enquêteur au «New Yorker» veut continuer de travailler à l’ancienne et de jouer les dilettantes obsessionnels.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
       "title": "Présidentielle 2027 : «57% sont opposés à voir les sportifs se présenter à une élection», les Français donnent leur avis sur la candidature de Teddy Riner",
       "link": "https://www.lefigaro.fr/sports/autres-sports/57-sont-opposes-a-voir-les-sportifs-se-presenter-a-une-election-les-francais-donnent-leur-avis-sur-la-candidature-de-teddy-riner-a-la-presidentielle-20261115",
       "date": "Sun, 15 Nov 2026 14:07:06 +0100",
@@ -363,11 +427,59 @@
       "category": "France"
     },
     {
-      "title": "« GTA Online » : à quelques jours de la sortie de « GTA VI », les joueurs du mode en ligne se préparent à « la dernière danse »",
-      "link": "https://www.lemonde.fr/pixels/article/2026/11/15/a-quelques-jours-de-la-sortie-de-gta-vi-les-joueurs-de-gta-online-entre-nostalgie-et-excitation-chaque-moment-passe-en-jeu-est-peut-etre-le-dernier_6811016_4408996.html",
-      "date": "Sun, 15 Nov 2026 13:54:55 +0100",
-      "description": "« Grand Theft Auto V » s’est imposé comme l’un des jeux les plus vendus de l’histoire grâce à son mode multijoueur en ligne, dont la popularité ne va pas immédiatement s’évanouir : la fonctionnalité sera absente de « GTA VI » à sa sortie, jeudi 19 novembre.",
-      "source": "Le Monde",
+      "title": "Netanyahou et Eisenkot peuvent-ils former un « gouvernement unifié » en Israël?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 14:02:08 +0000",
+      "description": "Yashar et Likud doivent tenir des pourparlers dimanche, mais devront surmonter les grandes différences pour travailler ensemble.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "link": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 14:01:53 +0100",
+      "description": "Cette maladie neurodégénérative touche près de 300 000 personnes en France. Elle augmente fortement en raison principalement du vieillissement de la population mais aussi de la présence des métaux lourds et des pesticides dans l'environnement.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "5 trucs et astuces que chaque propriétaire de PS5 devrait savoir",
+      "link": "https://www.engadget.com/2313556/tips-tricks-ps5-owners-should-know/",
+      "date": "Sun, 15 Nov 2026 14:00:00 +0000",
+      "description": "La PS5 a plusieurs caractéristiques de qualité de vie qui sont enfouies profondément mais ont été étendues au fil des ans. Ces options économisent du temps et réduisent les ennuis.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Alors que le Texas embrasse le stockage du carbone, une communauté noire remet en question les risques",
+      "link": "https://grist.org/accountability/as-texas-embraces-carbon-storage-a-black-community-questions-the-risks/",
+      "date": "Sun, 15 Nov 2026 14:00:00 +0000",
+      "description": "Le Texas délivre maintenant des permis aux entreprises pour stocker le dioxyde de carbone sous terre. Les résidents de l'Est du Texas craignent les risques pour la sécurité, et les sceptiques doutent des avantages climatiques.",
+      "source": "Grist",
+      "category": "Environnement"
+    },
+    {
+      "title": "SpaceX rattrape l'étage supérieur de sa mégafusée Starship, une première et une prouesse technique",
+      "link": "https://www.rfi.fr/fr/science/20261115-spacex-rattrape-l-%C3%A9tage-sup%C3%A9rieur-de-sa-m%C3%A9gafus%C3%A9e-starship-une-premi%C3%A8re-et-une-prouesse-technique",
+      "date": "Sun, 15 Nov 2026 13:59:46 GMT",
+      "description": "C'est une première et une prouesse technique. L'entreprise SpaceX d'Elon Musk a réussi à rattraper l'imposant étage supérieur de sa mégafusée Starship. Après plus de 22 heures de vol dans l'espace, le vaisseau est revenu dans l'atmosphère et s'est glissé entre les bras métalliques gigantesques de sa tour de lancement basée au Texas, dans le sud des États-Unis. Une étape importante pour l'entreprise américaine, qui veut faire de Starship une fusée entièrement réutilisable pour réaliser des voyages sur Mars et sur la Lune.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Allemagne vs Pays-Bas: Société des Nations – aperçu, nouvelles de l'équipe, prévisions",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:54:05 +0000",
+      "description": "L'Allemagne devra probablement gagner lundi pour atteindre les quarts de finale à moins que la Serbie ne batte la Grèce loin de chez elle.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer la menace venant de l’extrême droite»",
+      "link": "https://www.liberation.fr/politique/attentat-de-trappes-sandrine-rousseau-accuse-le-gouvernement-de-sous-estimer-la-menace-venant-de-lextreme-droite-20261115_MNZSLAZJUVAHDMBRDHOBIAYQBI/",
+      "date": "Sun, 15 Nov 2026 13:51:38 +0000",
+      "description": "La députée écologiste, dont le nom figurait sur une liste de personnalités de gauche retrouvée au domicile de Kévin Tessier, s’est insurgée ce dimanche 15 novembre sur BFM TV contre la «complaisance» de l’exécutif.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -377,6 +489,14 @@
       "description": "Invitée de BFMTV dimanche, la parlementaire de Paris a de nouveau appelé son parti à rejoindre Jean-Luc Mélenchon.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Des familles de Gaza enterrent des cadavres d ' êtres chers piégés pendant des années sous des décombres",
+      "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:45:02 +0000",
+      "description": "Les restes de 69 Palestiniens ont été retrouvés dans le nord de Gaza, ce qui a permis aux familles de les enterrer.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Anker vs. Belkin: Quelles sont les banques de puissance et les accessoires de votre entreprise?",
@@ -395,11 +515,35 @@
       "category": "France"
     },
     {
+      "title": "L'attaque explosive vise le journaliste d'enquête, domicile au Panama",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:43:11 +0000",
+      "description": "Un journaliste d'investigation au Panama a été attaqué dans un attentat présumé.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'Iran vise la base militaire américaine à Bahreïn avec des attaques de drones",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "description": "Il marque la deuxième attaque contre le pays en trois jours et vient alors que les États-Unis et l'Iran restent enfermés dans un barrage au-dessus du détroit d'Hormuz.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "Le meilleur scoreur de Corée du Sud dans l'examen de comptabilité fiscale admet la tricherie",
       "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 13:37:45 GMT",
       "description": "Han Won-seok, 34 ans, a avoué utiliser une caméra cachée et AI pour obtenir une marque presque parfaite sur le test significatif.",
       "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les restrictions du pare-soleil aident la Russie à attaquer l'Ukraine : Zelensky",
+      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:37:08 +0000",
+      "description": "Starlink a récemment nié limiter la vitesse d'Internet, mais Elon Musk a suggéré que l'armée américaine pourrait être derrière elle.",
+      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -409,6 +553,14 @@
       "description": "Après de violents orages dans la nuit du samedi 14 novembre, le département de l'Hérault s'est retrouvé sous les eaux. Au sud de Montpellier, des dizaines d'automobilistes ont été piégés par les inondations. Une femme de 73 ans, emportée dans sa voiture, a finalement été secourue par hélicoptère.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Al Jazeera Anglais célèbre 20 ans d'antenne",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/al-jazeera-english-celebrates-20-years-on-air?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:36:46 +0000",
+      "description": "Depuis 20 ans, Al Jazeera English a apporté des histoires indicibles au monde, donnant une voix aux sans-voix.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Gaza: attaque ciblée israélienne contre le commandant de la brigade de Rafah",
@@ -459,44 +611,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Nous avons dormi ici. Les retards de vol s'attardent alors que les compagnies aériennes brouillent pour se remettre de l'arrêt au sol",
-      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "date": "Sun, 15 Nov 2026 12:51:28 GMT",
-      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Kayla Harrison défait Amanda Nunes pour conserver la ceinture UFC bantamweight",
-      "link": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 12:50:50 +0000",
-      "description": "Harrison a remporté un quatrième tour contre la légende MMA Nunes, qui a fait un retour après une absence de trois ans.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Les agences d'aide luttent pour aider plus de 50 000 réfugiés éthiopiens au Kenya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 12:50:20 +0000",
-      "description": "Les organismes d'aide luttent pour fournir nourriture, soins médicaux et abri à plus de 50 000 réfugiés éthiopiens au Kenya.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Au cabaret queer des Grandes Folies : «On a des agriculteurs, des retraités et des jeunes qui vont faire leur coming out»",
       "link": "https://www.liberation.fr/culture/au-cabaret-queer-des-grandes-folies-on-a-des-agriculteurs-des-retraites-et-des-jeunes-qui-vont-faire-leur-coming-out-20261115_KM2LTRF2KFDGNOFHSML3RM23TM/",
       "date": "Sun, 15 Nov 2026 12:50:00 +0000",
-      "description": "Buffet, effeuillage, rencontre avec le public… Depuis la campagne charolaise jusqu’aux petits bourgs du sud de l’Oise, la troupe porte son militantisme sur des territoires où l’extrême droite bat des records.",
+      "description": "Depuis la campagne charolaise jusqu’aux petits bourgs du sud de l’Oise, la troupe porte son militantisme sur des territoires où l’extrême droite bat des records. Entre buffet, effeuillage et rencontre avec le public.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Bahreïn accuse l'Iran d'attaquer son territoire pour marquer avec les États-Unis",
-      "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 12:36:19 +0000",
-      "description": "Téhéran affirme que ses attaques aériennes contre des pays coopérant avec les États-Unis sont justifiées par le droit international.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "L'ANASE offre aux dirigeants du Myanmar une voie de retour vers les sommets, mais dit que les restrictions resteront jusqu'à ce qu'il y ait des progrès significatifs sur son plan de paix",
@@ -505,30 +625,6 @@
       "description": "Les dirigeants de l'Asie du Sud-Est ont accepté d'engager le Myanmar par étapes après des années d'exclusion de ses dirigeants des réunions de haut niveau. Le bloc dit que le Myanmar pourrait retrouver sa pleine représentation s'il progresse sur un plan de paix.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "L'Australie écrase la Nouvelle-Zélande pour remporter la quatrième Coupe du monde de rugby féminin",
-      "link": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 12:21:28 +0000",
-      "description": "L'Australie a dominé la première mi-temps et a capitalisé sur les erreurs de Kiwi Ferns.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "L'Iran cible le radar militaire américain à Bahreïn lors de frappes de drones",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 12:15:51 +0000",
-      "description": "Iran Selon l'IRGC, six drones ont été lancés dans une installation radar américaine à une base aérienne de Bahreïn.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "«Fondre» de Myriam Gourfink, tous les chakras sont gris",
-      "link": "https://www.liberation.fr/culture/fondre-de-myriam-gourfink-tous-les-chakras-sont-gris-20261115_43QGZ6HNKVAGZLHA7SEILTCX6I/",
-      "date": "Sun, 15 Nov 2026 12:08:29 +0000",
-      "description": "Dans un triptyque d’un duo et deux solos, la chorégraphe joue sur le hiatus saisissant entre langueur des corps et musicalité bruitiste.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Que pensent les Ukrainiens de la proposition d'échanger le Donbass contre l'intégration à l'Otan?",
@@ -552,22 +648,6 @@
       "date": "Sun, 15 Nov 2026 12:07:04 +0000",
       "description": "La reprise des attaques après une accalmie de deux mois survient alors que les pourparlers de paix entre les États-Unis et l'Iran semblent avoir bloqué.",
       "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Financement de l’Ukraine face à la Russie : Macron passe à l’offensive contre Le Pen",
-      "link": "https://www.liberation.fr/politique/elections/financement-de-lukraine-face-a-la-russie-macron-passe-a-loffensive-contre-le-pen-20261115_4IJNNIIM6RHYZF6KPF3LVARDQE/",
-      "date": "Sun, 15 Nov 2026 12:06:42 +0000",
-      "description": "La candidate du Rassemblement national, qui a proposé vendredi de rencontrer Volodymyr Zelensky, entend couper les aides au pays si elle accède à l’Elysée.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "La zone industrielle de Beit Ula menace l'économie palestinienne",
-      "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 12:02:45 +0000",
-      "description": "Israël prend des mesures pour écraser les affaires palestiniennes en Cisjordanie occupée.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -619,28 +699,12 @@
       "category": "Sciences"
     },
     {
-      "title": "En Seine-Saint-Denis, trois personnes interpellées après la découverte d’un corps sans vie dans un garage automobile",
-      "link": "https://www.liberation.fr/societe/en-seine-saint-denis-trois-personnes-interpellees-apres-la-decouverte-dun-corps-sans-vie-dans-un-garage-automobile-20261115_PVPDI2ZLL5GTRPMVQ5V3U5S7UU/",
-      "date": "Sun, 15 Nov 2026 11:52:02 +0000",
-      "description": "Dans la soirée de samedi 14 novembre, la police a retrouvé la dépouille d’une femme de 50 ans dans un atelier de La Courneuve. Les enfants de la victime avaient donné l’alerte : leur mère avait disparu depuis mardi.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "L'IPO anthropique est le prochain grand test pour l'IA",
       "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
       "date": "Sun, 15 Nov 2026 11:40:44 GMT",
       "description": "Même les laboratoires frontaliers les plus puissants doivent se plier au pouvoir de l'équité publique",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Changer de culture institutionnelle pour retrouver le sens de la responsabilité, par Benoît Payan",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/seule-une-politique-de-coalitions-et-de-compromis-nous-sortira-de-limpasse-democratique-par-benoit-payan-20261115_UFXKA2NM4ZEQZPRFCN2N23S3YE/",
-      "date": "Sun, 15 Nov 2026 11:34:41 +0000",
-      "description": "Recherche du compromis, instauration de la proportionnelle, meilleure représentation des collectivités locales au Sénat… Face à l’incapacité des institutions à transformer les aspirations des Français en décisions politiques, le maire de Marseille esquisse des pistes de réflexion.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Evercade Nexus Review: Le meilleur retro portable encore",
@@ -707,14 +771,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Des milliers de Portugais manifestent contre la crise du logement et la vie chère",
-      "link": "https://www.rfi.fr/fr/europe/20261115-des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-et-la-vie-ch%C3%A8re",
-      "date": "Sun, 15 Nov 2026 10:13:04 GMT",
-      "description": "La crise du logement, sujet majeur du débat public au Portugal depuis plusieurs semaines, a de nouveau mobilisé samedi 14 novembre des milliers de personnes dans les rues de Lisbonne et d'une trentaine d'autres villes. La grogne a été lancée à la suite de l'adoption en première lecture par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
       "link": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 09:49:24 +0100",
@@ -755,12 +811,44 @@
       "category": "Monde"
     },
     {
+      "title": "La vitamine C pourrait aider à bloquer les produits chimiques liés au cancer dans votre estomac, recherche",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "date": "Sun, 15 Nov 2026 09:13:18 EST",
+      "description": "Les scientifiques ont découvert que la vitamine C peut aider à empêcher la formation de produits chimiques potentiellement cancéreux dans l'estomac après avoir mangé des aliments contenant des nitrates et des nitrites. Un nouveau modèle mathématique suggère que la prise de vitamine C après les repas pourrait réduire ces réactions nocives, offrant une nouvelle stratégie possible pour réduire le risque de cancer.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
+      "title": "Une ostéoporose courante a bloqué les lésions de la colonne vertébrale dans une nouvelle étude surprenante",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "date": "Sun, 15 Nov 2026 09:03:39 EST",
+      "description": "Les scientifiques ont découvert un lien génétique surprenant avec la dégénérescence de la colonne vertébrale et ont constaté qu'un médicament d'ostéoporose existant peut empêcher l'accumulation de minéraux nuisibles dans les épines de poissons zébrés. La découverte pourrait ouvrir la voie à de nouveaux traitements qui ralentissent ou empêchent une cause majeure de douleurs dorsales chroniques.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "160 questions, une seule erreur : le meilleur scoreur en Corée du Sud l'examen fiscal admet la tricherie AI",
       "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
       "date": "Sun, 15 Nov 2026 08:56:11 GMT",
       "description": "Les craintes pour l'examen d'entrée au collège national la semaine prochaine comme le candidat admet envoyer des photos de questions à l'outil AI Les notes obtenues cette année par le meilleur scoreur sur l'examen national de Corée du Sud pour les comptables fiscaux aspirants semblaient trop bonnes pour être vraies. Dimanche, les sceptiques ont prouvé qu'il avait raison quand il a avoué utiliser l'IA générative pour tricher. Le scandale a suivi des mois de spéculations après avoir marqué des notes presque parfaites sur des centaines de questions",
       "source": "The Guardian",
       "category": "Technologie"
+    },
+    {
+      "title": "La NASA avertit que Monster El Niño pourrait être encore plus grand que le légendaire événement de 1997",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
+      "date": "Sun, 15 Nov 2026 08:53:25 EST",
+      "description": "Les scientifiques de la NASA avertissent que l'intensification rapide du 2026 El Niño pourrait dépasser l'événement historique de 1997-1998, qui a déclenché des phénomènes météorologiques extrêmes dévastateurs dans le monde entier. Les données satellitaires révèlent des similitudes frappantes entre les deux, ce qui accroît la possibilité de précipitations importantes et d'inondations cet hiver, bien que les impacts exacts demeurent incertains.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
+      "title": "Les champs magnétiques bizarres d'Uranus et de Neptunes peuvent enfin être expliqués",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+      "date": "Sun, 15 Nov 2026 08:43:22 EST",
+      "description": "Les champs magnétiques étranges et sauvagement inclinés d'Uranus et de Neptune ont perplexe les scientifiques depuis que le vaisseau spatial Voyager 2 de la NASA a exploré les planètes dans les années 1980. De nouvelles simulations suggèrent que des conditions extrêmes au fond de ces géants glacés créent des propriétés électriques inhabituelles qui pourraient expliquer leurs champs magnétiques. Remarquablement, les modèles indiquent que leurs pôles magnétiques pourraient se déplacer de dizaines de degrés en seulement quelques décennies, beaucoup plus rapidement que",
+      "source": "ScienceDaily",
+      "category": "Sciences"
     },
     {
       "title": "Megaspeed dit qu'Alice Huang est partie en 2025 alors qu'elle lance une sonde interne dans des rapports sur ses activités",
@@ -795,6 +883,14 @@
       "category": "Monde"
     },
     {
+      "title": "Les astronomes découvrent une étoile morte tournant toutes les 8 minutes et envoyant des impulsions radio mystérieuses",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+      "date": "Sun, 15 Nov 2026 08:04:09 EST",
+      "description": "Les scientifiques ont découvert une étrange paire stellaire à plus de 5 000 années-lumière, où une étoile morte tournant toutes les huit minutes produit des impulsions radio mystérieuses en orbite autour d'une étoile semblable au Soleil. La percée a également révélé des tempêtes magnétiques massives sur l'étoile compagnon, offrant de nouveaux indices à l'un des mystères émergents de l'astronomie.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "«Un acharnement»: depuis la Côte d'Ivoire, les exilés burkinabè répondent au régime militaire à Ouagadougou",
       "link": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou",
       "date": "Sun, 15 Nov 2026 07:57:50 GMT",
@@ -814,16 +910,8 @@
       "title": "Nouvelles de l'Allemagne: L'Allemagne tient une journée nationale de commémoration",
       "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 15 Nov 2026 07:23:00 GMT",
-      "description": "Des événements sont organisés pour Volkstrauertag, une journée commémorant les victimes de la guerre et de l'oppression. Pendant ce temps, les experts disent que le pays se dirige vers une crise budgétaire. DW en a plus.",
+      "description": "Des événements sont organisés pour « Volkstrauertag », une journée commémorant les victimes de la guerre et de l'oppression. Pendant ce temps, les experts disent que le pays se dirige vers une crise budgétaire. DW en a plus.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Mise à niveau du fil de cuivre derrière la suspension de vol américaine, secrétaire de transport dit",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 07:10:31 GMT",
-      "description": "Le gouvernement américain essaie de savoir si le chaos a été causé par « l'incompétence » ou un équipement défectueux.",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -833,14 +921,6 @@
       "description": "Contrairement aux tests Captcha familiers, ce con vous demande d'appuyer sur une série de clés. Et c'est un moyen pour les fraudeurs d'installer des logiciels malveillants Vous recherchez des cadeaux pour Noël et voulez soutenir les petites entreprises lorsque vous magasinez. Lorsque vous visitez le site d'un que vous avez entendu de bonnes choses sur vous sont demandé de vérifier que vous êtes humain. Au lieu de cliquer sur une série d'images, ou de taper des lettres qui apparaissent, comme vous l'avez déjà vu,",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "L'Ukraine et la Russie bataillent dans l'espace pour se doter de constellations satellitaires souveraines",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-russie-bataillent-dans-l-espace-pour-se-doter-de-constellations-satellitaires-souveraines_8279132.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 06:50:36 +0100",
-      "description": "Les deux belligérants cherchent des alternatives à Starlink, afin de disposer d'une infrastructure fiable pour leurs communications, notamment militaires.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "\"Ce n'est pas un simple jeu vidéo\" : comment les fans se préparent à la sortie de \"GTA VI\" après treize ans d'attente",
@@ -947,14 +1027,6 @@
       "category": "Économie"
     },
     {
-      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
@@ -967,6 +1039,14 @@
       "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
       "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
+      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -987,36 +1067,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Dépanner un écran noir sur votre MacBook est plus facile que vous ne le pensez",
-      "link": "https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/",
-      "date": "Sun, 15 Nov 2026 01:30:00 +0000",
-      "description": "Un écran noir sur votre MacBook peut se sentir comme la fin du monde, mais ne paniquez pas: il ya plusieurs étapes faciles de dépannage pour essayer en premier.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Quel GPU NVIDIA est le plus proche de la PS5 ? La réponse n'est pas si simple",
-      "link": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
-      "date": "Sun, 15 Nov 2026 01:00:00 +0000",
-      "description": "Une des plus grandes questions quand il s'agit d'acheter une plate-forme de jeu est de savoir si aller console ou PC. Ce GPU NVIDIA donne les résultats les plus proches à un PS5.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Des dizaines de milliers de personnes continuent de protester à travers la France",
       "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 15 Nov 2026 00:55:00 GMT",
       "description": "Quelque 106 000 personnes ont défilé dans les villes françaises pour un cinquième week-end consécutif de manifestations, marquant la plus faible participation ces dernières semaines.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Ce brevet Sony ajouterait un lecteur de carte de crédit à votre contrôleur PlayStation",
-      "link": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
-      "date": "Sun, 15 Nov 2026 00:45:00 +0000",
-      "description": "Comme Sony et PlayStation entrent dans une ère numérique, la nouvelle technologie sur ses futurs contrôleurs pourrait aider à faire des achats en ligne encore plus pratiques pour le jeu.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "SpaceX a rendu sa fusée Starship samedi, mais il y a une prise",
@@ -1088,7 +1144,7 @@
       "date": "Sat, 14 Nov 2026 22:42:52 EST",
       "description": "Une enquête révolutionnaire sur les drones a révélé une rupture surprenante dans le sort des pingouins en danger de la Nouvelle-Zélande. Bien qu'une population demeure stable depuis des décennies, une autre a diminué de plus de 40 %, apparemment en raison d'une combinaison de prédateurs, d'une aggravation des tempêtes et de l'évolution des conditions océaniques. Plus surprenant encore, les petites îles Bounty abritent presque autant de couples reproducteurs que les îles Antipodes, bien que 40 fois",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "SpaceX.S. Starship revient à la rampe de lancement de l'orbite en victoire pour la compagnie",
@@ -1097,14 +1153,6 @@
       "description": "Bien que le booster a explosé, la compagnie a pris la scène supérieure pour la première fois en campagne pour faire de la megarocket réutilisable SpaceXs megarocket Starship est retourné à sa tour de lancement du Texas samedi, une étape importante dans les efforts de la compagnie pour rendre l'engin adapté aux vols spatiaux humains. L'étage supérieur en forme de balle de 52 mètres est descendu dans l'embrayage des bras mécaniques de la tour, mettant fin à une mission de 22 heures où l'engin a orbité la Terre 14 fois. Continuer",
       "source": "The Guardian",
       "category": "Sciences"
-    },
-    {
-      "title": "Le port de la Nouvelle-Orléans dépose un procès d'un million de dollars pour \"miracle sur la collision du Mississippi\"",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 22:27:06 GMT",
-      "description": "Le procès intenté par les responsables de la Nouvelle-Orléans demande également que le pétrolier impliqué dans la collision avec le navire de croisière soit saisi et vendu pour payer des dommages-intérêts.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "SpaceX arrive au sommet de l'énorme fusée Starship pour la première fois",
@@ -1128,7 +1176,7 @@
       "date": "Sat, 14 Nov 2026 22:00:54 EST",
       "description": "Les dinosaures ont peut-être grignoté des algues et d'autres aliments océaniques il y a plus de 100 millions d'années, selon de nouvelles preuves surprenantes cachées dans leurs dents fossilisées. Les chercheurs ont découvert des signatures chimiques suggérant que les dinosaures côtiers et d'autres animaux préhistoriques dépendaient en partie des nutriments provenant de la mer. Les résultats révèlent que les ressources marines transitaient par les anciennes chaînes alimentaires, complétant les régimes alimentaires de tout",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
@@ -1161,30 +1209,6 @@
       "description": "SpaceX a ramené la deuxième étape de sa fusée Starship pour une première capture en milieu d'air à sa rampe de lancement, captant un test de vol orbital record de 22,5 heures.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Les physiciens utilisent la lumière laser pour débloquer les pouvoirs électriques cachés d'un cristal",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-      "date": "Sat, 14 Nov 2026 21:18:16 EST",
-      "description": "Les scientifiques ont découvert comment utiliser des éclairs de lumière laser pour organiser de petites régions électriques à l'intérieur d'un cristal, en résolvant un mystère de décennies sur la façon dont le matériau se comporte. L'alignement induit par le laser ne dure qu'un billion de seconde, mais la percée pourrait ouvrir la porte à de nouvelles façons de traiter et de stocker l'information.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
-      "title": "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 21:15:18 +0100",
-      "description": "Maileva \"a notifié la Commission nationale de l'informatique et des libertés et déposé une plainte. Une enquête judiciaire est en cours\", a précisé La Poste.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Euclid découvre d'anciennes balises cosmiques depuis l'aube du temps, resplendissant comme un billion de soleils",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
-      "date": "Sat, 14 Nov 2026 20:52:47 EST",
-      "description": "Le télescope spatial Euclid a découvert 31 anciens quasars, dont deux objets d'un record éclatant avec la luminosité d'un billion de Soleils alors que l'Univers n'avait que 670 millions d'années. Propulsés par des trous noirs supermassifs, ces balises cosmiques extraordinaires révèlent une époque où les premières galaxies prennent encore forme.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
     },
     {
       "title": "La cyberattaque d'une filiale de La Poste entraîne un vol de données touchant 22 millions de personnes",
@@ -1488,14 +1512,6 @@
       "date": "Sat, 14 Nov 2026 08:00:39 GMT",
       "description": "Exclusivité : l'enquête révèle des prescriptions pour les enfants de moins de 12 ans, car les experts insistent sur le besoin de surveillance spécialisée et de surveillance à long terme Des centaines d'enfants en Angleterre reçoivent des prescriptions pour les médicaments BLP-1, dont certains de moins de 12 ans, que le Guardian peut révéler. Les médicaments GLP-1 ont été initialement développés pour aider les personnes atteintes de diabète de type 2 à contrôler leur glycémie, mais sont devenus depuis une aide populaire pour l'amincissement, avec",
       "source": "The Guardian",
-      "category": "Sciences"
-    },
-    {
-      "title": "Les scientifiques trouvent une routine quotidienne simple liée à moins de douleur et de dépression",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-      "date": "Sat, 14 Nov 2026 07:48:01 EST",
-      "description": "Un simple changement à votre routine quotidienne pourrait faire une différence surprenante dans votre façon de vous sentir, tant physiquement que mentalement. Des chercheurs de l'Université du Missouri ont constaté que les personnes âgées qui suivaient des horaires quotidiens réguliers ont signalé moins de douleurs physiques et moins de symptômes de dépression, même lorsqu'elles luttaient contre l'insomnie. Garder des heures régulières pour dormir, manger et d'autres activités peut aider à réguler l'horloge interne du corps, qui influence",
-      "source": "ScienceDaily",
       "category": "Sciences"
     },
     {
@@ -2123,14 +2139,6 @@
       "category": "Défense"
     },
     {
-      "title": "Le magma surchauffé pourrait alimenter des fontaines de lave imposantes",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
-      "date": "Fri, 13 Nov 2026 06:56:39 EST",
-      "description": "Pourquoi certains volcans éclatent-ils avec de spectaculaires fontaines de lave alors que d'autres relâchent la lave plus tranquillement ? Les scientifiques ont découvert qu'un effet caché de chaleur extrême à l'intérieur du magma peut aider à expliquer la différence. Des expériences ont révélé que le magma surchauffé peut retarder la formation du cristal pendant plus de huit heures, comparativement à seulement 20 minutes dans le magma qui n'a pas été surchauffé.",
-      "source": "ScienceDaily",
-      "category": "Environnement"
-    },
-    {
       "title": "Combien de déversements d'eaux usées ont eu lieu dans votre région d'Écosse ?",
       "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 06:31:51 GMT",
@@ -2219,6 +2227,22 @@
       "category": "Environnement"
     },
     {
+      "title": "B6E OLED TV est jusqu'à 50% de réduction ce week-end",
+      "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "date": "2026-11-15T09:00:00-05:00",
+      "description": "B6E était déjà l'un des téléviseurs OLED les plus abordables que vous pourriez acheter, mais c'est une meilleure affaire maintenant qu'il est inclus dans le dernier événement de porte Best Buy. Jusqu'à la fin d'aujourd'hui, le 15 novembre, le modèle de 55 pouces est à 50 pour cent de rabais, ce qui [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Sony Aibo était une révolution de robot habillé comme un chien",
+      "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "date": "2026-11-15T08:57:30-05:00",
+      "description": "Dans les années 1990, Sony était absolument convaincu que nous étions sur le précipice d'une prise de contrôle de robot. Bientôt, la société a décidé que nous vivions tous parmi d'innombrables robots humanoïdes. Certains seraient nos collègues, d'autres nos amis, et au moins un serait notre animal de compagnie. Et \"pet\" était exactement ce que Sony était [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Une vue d'ensemble de Jensen Huang.",
       "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
       "date": "2026-11-15T08:00:00-05:00",
@@ -2247,22 +2271,6 @@
       "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
       "date": "2026-11-14T12:44:28-05:00",
       "description": "Lors d'une conférence de presse aujourd'hui, le secrétaire aux transports, Sean Duffy, a déclaré que l'arrêt au sol de vendredi à l'échelle nationale commandé par la FAA était lié à des travaux visant à remplacer le fil de cuivre périmé par une ligne à fibre optique dans une « installation à distance de la FAA ». Le secrétaire a dit qu'il s'agissait d'un « entretien régulier » plutôt que du résultat d'un important effort de modernisation. Il [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Voici nos offres préférées du géant de la vente de vacances REI",
-      "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "date": "2026-11-14T10:00:00-05:00",
-      "description": "Black Friday est devenu une saison de shopping propre, avec des détaillants offrant une fois de plus des réductions bien avant les vacances de shopping réelles. Nous avons déjà arrondi quelques-unes des meilleures offres du vendredi noir tôt nous avons rencontré, mais si vous cherchez à économiser sur l'équipement extérieur ou de ramasser quelque chose pour un prochain voyage, [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le membre du conseil d'administration d'OpenAI qui a renvoyé Sam Altman dit que nous ne pouvons toujours pas faire confiance aux PDG d'IA",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "date": "2026-11-14T10:00:00-05:00",
-      "description": "Aujourd'hui, je parle avec Helen Toner, directrice générale du Centre pour la sécurité et les technologies émergentes de l'Université Georgetown. Cet épisode est la deuxième partie de notre série sur l'IA dans la vie réelle. Helen est une figure bien connue dans la communauté de la sécurité et des politiques d'IA, bien qu'elle soit peut-être mieux connue pour avoir [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
