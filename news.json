@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T20:50:08.926111+00:00",
+  "updated_at": "2026-11-15T21:30:31.153441+00:00",
   "count": 287,
   "articles": [
     {
@@ -307,28 +307,92 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - France-Turquie : Mbappé et les Bleus gâchent trop, Maignan évite une mauvaise surprise, Zidane tendu devant son banc",
+      "title": "EN DIRECT - France-Turquie : Mbappé gâche mais Kroupi double la mise pour les Bleus, coaching payant de Zidane",
       "link": "https://www.lefigaro.fr/sports/football/live/ligue-des-nations/2026/2627015/france-turquie",
-      "date": "Sun, 15 Nov 2026 21:49:03 +0100",
+      "date": "Sun, 15 Nov 2026 22:26:22 +0100",
       "description": "Les Bleus reçoivent la Turquie à Bordeaux ce dimanche pour faire oublier leur défaite en Italie jeudi dernier. Ils n’ont besoin que d’un match nul afin de se qualifier pour les quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "France-Turquie : accrochés à la pause (0-0), les Bleus dominent mais butent sur un grand Berke Özer... Suivez le match de Ligue des nations avec nous",
+      "title": "France-Turquie : les Bleus font enfin le break grâce à Kroupi... Suivez le match de Ligue des nations avec nous",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 21:36:46 +0100",
+      "date": "Sun, 15 Nov 2026 22:25:22 +0100",
       "description": "Trois jours après le revers de San Siro, l'équipe de France retrouve les terrains face à la Turquie, dimanche soir à Bordeaux, avec un ticket pour les quarts de finale de la Ligue des nations dans le viseur.",
       "source": "franceinfo",
       "category": "France"
     },
     {
-      "title": "L'élection présidentielle 2027 est «la plus importante de ma vie», affirme François Hollande, refusant encore de se déclarer candidat",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/l-election-presidentielle-2027-est-la-plus-importante-de-ma-vie-affirme-francois-hollande-refusant-encore-de-se-declarer-candidat-20261115",
-      "date": "Sun, 15 Nov 2026 20:49:47 +0100",
-      "description": "L’ancien président de la République a estimé dimanche que le scrutin de 2027 serait décisif pour l’avenir de la France, appelant à un rassemblement des forces démocratiques face à la montée des extrêmes.",
+      "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
+      "link": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
+      "date": "Sun, 15 Nov 2026 22:21:56 +0100",
+      "description": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "France-Turquie : en vidéo, le but avec beaucoup de réussite qui libère les Bleus de Zidane face aux Turcs",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
+      "date": "Sun, 15 Nov 2026 22:16:31 +0100",
+      "description": "Les Bleus reçoivent les Turcs, ce dimanche à Bordeaux, pour faire oublier leur lourde défaite en Italie, jeudi dernier. Ils n’ont besoin que d’un match nul pour se hisser pour les quarts de finale de la Ligue des nations.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Wi-Fi 8 est une tentative pour résoudre le plus gros problème avec Internet sans fil",
+      "link": "https://www.engadget.com/2313896/wifi-8-attempt-fix-biggest-problem-wireless-internet/",
+      "date": "Sun, 15 Nov 2026 21:15:00 +0000",
+      "description": "Avec les normes Wi-Fi actuelles atteignant au-delà des vitesses de consommation, Wi-Fi 8 entre dans la fraye avec une correction qui fait que ces vitesses signifient quelque chose.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les Tchèques se rallient contre le plan de changement de financement des médias publics",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 21:03:40 GMT",
+      "description": "Les manifestants disent que cette mesure étouffera la liberté des médias, tandis que le gouvernement insiste sur la nécessité de réduire les coûts pour les radiodiffuseurs.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Spoter une fausse carte SD est plus facile que vous pensez",
+      "link": "https://www.engadget.com/2313899/how-to-spot-fake-sd-cards/",
+      "date": "Sun, 15 Nov 2026 21:00:00 +0000",
+      "description": "Faux cartes SD ont été un problème depuis des années, mais il ya quelques étapes simples que vous pouvez prendre pour protéger votre portefeuille et vos fichiers.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Au revoir, trop de tourisme ? Voyages durables",
+      "link": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 20:57:00 GMT",
+      "description": "Alors que le tourisme est en plein essor en Amérique latine, d'autres formes de voyage gagnent du terrain. Rendre vos vacances plus durables signifie repenser qui appelle les tirs, qui investit et qui en profite.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Photos: Le pape Leo visite les régions amazoniennes et andines pendant 12 jours",
+      "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 20:54:13 +0000",
+      "description": "Le pape a appelé à la préservation des traditions autochtones au Pérou alors qu'il termine une tournée de 12 jours en Amérique latine.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les Palestiniens récupèrent les côtes de Gaza avec un bain pour l'espoir",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 20:50:15 +0000",
+      "description": "Pour la première fois depuis plus de trois ans, la Fédération de natation de Gaza a organisé un concours.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Vous pouvez contrôler vos autres appareils avec cette fonctionnalité d'Apple",
+      "link": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
+      "date": "Sun, 15 Nov 2026 20:45:00 +0000",
+      "description": "Vous pouvez faire beaucoup avec cette fonctionnalité d'accessibilité.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
@@ -350,7 +414,7 @@
       "title": "Zelenskyy exhorte à la suppression des limites de Starshield sur l'Ukraine",
       "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 15 Nov 2026 20:39:00 GMT",
-      "description": "D'après le gouvernement ukrainien, le blocage du système Internet par satellite empêche Kiev d'intercepter les attaques russes.",
+      "description": "Le gouvernement ukrainien a déclaré que le blocage du système Internet par satellite empêche Kiev d'intercepter les attaques russes.",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
@@ -363,20 +427,28 @@
       "category": "Monde"
     },
     {
+      "title": "Qui peut forcer Israël à appliquer l'accord de cessez-le-feu de Gaza?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 20:37:43 +0000",
+      "description": "Les tempêtes frappent le territoire palestinien alors qu'Israël limite l'entrée de l'aide.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'Estonie doit fermer ses frontières avec la Russie après une prétendue attaque à l'incendie",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 20:31:18 +0000",
+      "description": "L'Estonie ferme ses frontières avec la Russie à la suite d'une tentative présumée d'incendie criminel dans une usine de drones.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Comment trouver votre adresse IP",
       "link": "https://www.engadget.com/2313878/how-to-find-ip-address/",
       "date": "Sun, 15 Nov 2026 20:30:00 +0000",
       "description": "Vous devrez peut-être trouver votre adresse IP pour des raisons de dépannage réseau ou pour accéder à distance à votre ordinateur.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "France-Turquie : une minute d’applaudissements en hommage aux pompiers de Gironde",
-      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-une-minute-d-applaudissements-en-hommage-aux-pompiers-de-gironde-20261115",
-      "date": "Sun, 15 Nov 2026 20:28:51 +0100",
-      "description": "Après les incendies de l’été dernier dans la région bordelaise, un hommage a été rendu aux pompiers dimanche soir avant la rencontre des Bleus face à la Turquie.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "SNL rassemble tous les tycoons techniques pour une leçon de datation et d'espion",
@@ -427,14 +499,6 @@
       "category": "Monde"
     },
     {
-      "title": "Quelle est la signification du \"A\" sur vos ports USB-A ?",
-      "link": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
-      "date": "Sun, 15 Nov 2026 20:00:00 +0000",
-      "description": "La vérité est qu'il n'y a pas de sens surprenant pour le \"A\" en USB-A. Découvrez à quoi sert ce connecteur et s'il devient obsolète.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Conflit au Yémen : les Houthis aux portes d’Aden",
       "link": "https://www.liberation.fr/international/moyen-orient/conflit-au-yemen-les-houthis-aux-portes-daden-20261115_Z5CWNOHU4ZEKDPFGRDIZ6UADDQ/",
       "date": "Sun, 15 Nov 2026 19:56:59 +0000",
@@ -443,28 +507,12 @@
       "category": "France"
     },
     {
-      "title": "Sony abandonne son application de support multi-produits pour des alternatives dédiées",
-      "link": "https://www.engadget.com/2313842/sony-ditching-cross-product-support-app-good-reason/",
-      "date": "Sun, 15 Nov 2026 19:45:00 +0000",
-      "description": "Après plus d'une décennie d'utilisation, les clients vont devoir passer à un moyen moins efficace de surveiller leurs produits et gadgets Sony préférés.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Zelensky exhorte les États-Unis et Musk à lever les restrictions de Starlink et à être du côté droit de l'histoire.",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 19:32:39 GMT",
       "description": "Le président ukrainien dit que des restrictions sont toujours en place et qu'il est difficile d'arrêter les attaques russes.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Comment modifier et personnaliser vos icônes d'application sur Samsung Galaxy",
-      "link": "https://www.engadget.com/2313837/change-customize-app-icons-samsung-galaxy/",
-      "date": "Sun, 15 Nov 2026 19:30:00 +0000",
-      "description": "Du choix de nouvelles icônes d'applications à la modification de la palette de couleurs, il y a beaucoup de façons de personnaliser l'apparence de votre téléphone Samsung Galaxy.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Tchécoslovaquie : Manifestation contre la réforme des médias publics",
@@ -481,14 +529,6 @@
       "description": "Supports techniques lobby chipsmaker , conseil pour réintégrer l'ancien PDG après sa démission suite à une affaire avec un espion chinois présumé",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Des drones israéliens filmés à l ' extérieur des habitations dans le sud du Liban",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 19:02:21 +0000",
-      "description": "Vidéo montrant un drone israélien volant à basse altitude au-dessus d'une zone résidentielle dans le sud du Liban.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Six mois d’enquête dans les tribunaux : le fléau de la prostitution des mineures",
@@ -531,7 +571,7 @@
       "category": "Monde"
     },
     {
-      "title": "EN DIRECT, France-Turquie : les deux équipes se neutralisent à la mi-temps, malgré plusieurs occasions franches pour les Bleus",
+      "title": "EN DIRECT, France-Turquie : les Bleus doublent la mise grâce à Eli Junior Kroupi, buteur pour sa deuxième sélection",
       "link": "https://www.lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
       "date": "Sun, 15 Nov 2026 18:45:08 +0100",
       "description": "Après leur défaite contre les Italiens, les Bleus ont perdu la première place de leur groupe en Ligue des nations. Pour espérer la retrouver et se qualifier pour les quarts de finale, ils devront s’imposer face à la Turquie, dimanche, à Bordeaux.",
@@ -561,14 +601,6 @@
       "description": "Des centaines de milliers de personnes ont manifesté, ce dimanche, contre la réforme du financement de l’audiovisuel public, redoutant une mise sous tutelle politique de la télévision et de la radio.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Prince Harry en Ukraine rencontre Invictus 2027 espoirs",
-      "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 18:31:52 +0000",
-      "description": "Le roi britannique dit qu'il « prend un risque » lors de sa quatrième visite surprise en Ukraine depuis 2022 pour rencontrer des vétérans blessés.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Flaming Hydra, la nouvelle campagne Kickstarter repense la propriété du livre électronique et le prêt numérique",
@@ -657,22 +689,6 @@
       "description": "Bessent a critiqué Howard Lutnick (département de Lutnick) au sujet d'un détournement présumé de puces vers la Chine tout en défendant le président Donald Trump.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Le prêtre chrétien dit que les Etats-Unis lui ont refusé un visa pour être palestinien",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 18:07:32 +0000",
-      "description": "Un prêtre chrétien de Bethléem, le lieu de naissance de Jésus, dit que les États-Unis lui ont refusé un visa parce qu'il est palestinien.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "L'Estonie fermera les frontières avec la Russie après avoir attaqué le fabricant de drones",
-      "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 18:07:02 +0000",
-      "description": "Huit arrestations dans le cadre d'une tentative d'incendie criminel, selon Tallinn, ont été ordonnées par les services secrets russes.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française",
@@ -787,12 +803,12 @@
       "category": "Monde"
     },
     {
-      "title": "L'économie allemande retourne à la croissance, alors pourquoi le pays est-il encore inquiet ?",
-      "link": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 15 Nov 2026 16:12:00 GMT",
-      "description": "L'économie allemande connaît une nouvelle croissance, quoique légèrement. Cependant, les économistes mettent en garde contre le fait que sans réformes, une productivité accrue et des finances publiques solides, une perte de prospérité et une dette croissante menacent les générations futures.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "Jean-Pierre Robin : « À la recherche de la décennie perdue, 2017-2027, dont les Français sortent éreintés »",
+      "link": "https://www.lefigaro.fr/conjoncture/jean-pierre-robin-a-la-recherche-de-la-decennie-perdue-2017-2027-dont-les-francais-sortent-ereintes-20261115",
+      "date": "Sun, 15 Nov 2026 16:23:30 +0100",
+      "description": "CHRONIQUE - Des « gilets jaunes » aux colères des lycéens, le pays a connu dix ans durant une succession ininterrompue de crises jamais vraiment résolues et toutes fatales pour l’économie.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Les produits technologiques que nous recommandons avec enthousiasme cette saison des fêtes",
@@ -979,14 +995,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Trois hommes condamnés à mort en Jordanie pour fusillade de masse meurtrière",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 11:06:32 GMT",
-      "description": "L'attaque d'enterrements dans une église orthodoxe grecque a tué neuf personnes et en a blessé 34 autres le mois dernier.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "De la guerre culturelle à la guerre de classe : le fossé des démocrates américains a réveillé la politique",
       "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
       "date": "Sun, 15 Nov 2026 11:00:04 GMT",
@@ -1027,14 +1035,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Réquisitions, taxe foncière progressive, résidences secondaires en sursis… Comment Mélenchon veut administrer la propriété privée",
-      "link": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
-      "date": "Sun, 15 Nov 2026 09:36:04 +0100",
-      "description": "DÉCRYPTAGE - Dans son programme pour 2027, le candidat LFI cible en priorité les multipropriétaires et les bailleurs aisés. Ces derniers seraient invités à mettre la main à la poche et à laisser éventuellement l’État s’emparer de leurs biens immobiliers.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
       "link": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points",
       "date": "Sun, 15 Nov 2026 09:35:16 GMT",
@@ -1072,7 +1072,7 @@
       "date": "Sun, 15 Nov 2026 08:53:25 EST",
       "description": "Les scientifiques de la NASA avertissent que l'intensification rapide du 2026 El Niño pourrait dépasser l'événement historique de 1997-1998, qui a déclenché des phénomènes météorologiques extrêmes dévastateurs dans le monde entier. Les données satellitaires révèlent des similitudes frappantes entre les deux, ce qui accroît la possibilité de précipitations importantes et d'inondations cet hiver, bien que les impacts exacts demeurent incertains.",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "Les champs magnétiques bizarres d'Uranus et de Neptunes peuvent enfin être expliqués",
@@ -1120,7 +1120,7 @@
       "date": "Sun, 15 Nov 2026 06:00:06 GMT",
       "description": "Jensen Huang-S affaire avec un espion présumé est Silicon Valley le pire cauchemar est devenu réalité La démission cette semaine de Jensen Huang, fondateur et PDG de Nvidia, est l'un des scandales les plus étonnants en mémoire des entreprises, avec des allégations d'espionnage international et d'affaires extraconjugales impliquant l'un des hommes les plus puissants du monde. Alors que les enquêtes montent dans ce qui a mal tourné à la société de puces $4tn, la saga peut également devenir un jalon dans",
       "source": "The Guardian",
-      "category": "Technologie"
+      "category": "Économie"
     },
     {
       "title": "Le Hamas dit que le commandant en chef tué dans une attaque aérienne israélienne",
@@ -1163,6 +1163,14 @@
       "category": "Économie"
     },
     {
+      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
+      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
@@ -1175,14 +1183,6 @@
       "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
       "description": "Le film Being Heumann raconte l'histoire moins connue de la mère du mouvement des droits des handicapés. Une nouvelle génération d'activistes partage la façon dont ils « portent la torche » aujourd'hui.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -2203,6 +2203,22 @@
       "category": "Environnement"
     },
     {
+      "title": "La fusée Vulcaine échoue, détruisant 40 satellites Amazon Leo",
+      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "date": "2026-11-15T16:05:02-05:00",
+      "description": "United Launch Alliance (ULA) a subi ce qui serait son premier échec de mission au cours de ses 20 ans d'histoire, n'ayant pas livré 40 satellites Amazon Leo en orbite. Leo est le concurrent d'Amazon au Starlink de SpaceX, mais il a eu du mal à descendre du sol jusqu'à présent, mettant seulement une petite partie des satellites nécessaires pour défier Starlink [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Jensen Huang pourrait inventer un retour et plus du dernier drame de Nvidia",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "date": "2026-11-15T15:43:49-05:00",
+      "description": "Le drame autour de Nvidia co-fondateur et ancien PDG Jensen Huang évolue rapidement. La dernière édition de notre newsletter Stepback devrait vous mettre au courant, mais il y a déjà eu un certain nombre de nouveaux développements depuis ce matin. Cela inclut les rumeurs que Jensen Huang pourrait essayer de trouver un chemin de retour au PDG, [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Le Congrès veut renforcer les règles d'exportation sur les puces AI après le scandale d'espionnage Nvidia",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "date": "2026-11-15T14:15:43-05:00",
@@ -2231,22 +2247,6 @@
       "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
       "date": "2026-11-15T11:00:00-05:00",
       "description": "Rachelle Hampton est écrivaine et copropriétaire chez Defector Media, et l'hôte de Normal Gossip, un podcast d'histoires anonymes soumises par des auditeurs sur le drame quotidien. Qu'il s'agisse de la laine de luxe dans un cercle de tricot littéral, de la mise en accusation d'un président hypocrite de l'HOA, ou d'une épidémie de COVID lors d'un mariage de destination avec un 25 absurde [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "B6E OLED TV est jusqu'à 50% de réduction ce week-end",
-      "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
-      "date": "2026-11-15T09:00:00-05:00",
-      "description": "B6E était déjà l'un des téléviseurs OLED les plus abordables que vous pourriez acheter, mais c'est une meilleure affaire maintenant qu'il est inclus dans le dernier événement de porte Best Buy. Jusqu'à la fin d'aujourd'hui, le 15 novembre, le modèle de 55 pouces est à 50 pour cent de rabais, ce qui [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le Sony Aibo était une révolution de robot habillé comme un chien",
-      "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "date": "2026-11-15T08:57:30-05:00",
-      "description": "Dans les années 1990, Sony était absolument convaincu que nous étions sur le précipice d'une prise de contrôle de robot. Bientôt, la société a décidé que nous vivions tous parmi d'innombrables robots humanoïdes. Certains seraient nos collègues, d'autres nos amis, et au moins un serait notre animal de compagnie. Et \"pet\" était exactement ce que Sony était [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
