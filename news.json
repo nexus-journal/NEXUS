@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:30:31.153441+00:00",
+  "updated_at": "2026-11-15T22:08:41.359735+00:00",
   "count": 287,
   "articles": [
     {
@@ -144,7 +144,7 @@
       "date": "Thu, 12 Nov 2026 20:10:02 +0000",
       "description": "Pour Katie Spicer, saisir l'occasion et le défi a conduit à des sauts géants pendant son séjour à la NASA. Maintenant que la NASA dirige l'intégration des atterrisseurs pour Blue Origin, Blue Moon Mark 2 atterrisseur, l'un des systèmes d'atterrissage humain fournis commercialement pour le programme de NASA, Spicer aura son empreinte sur l'histoire. Spicer travaille dans le [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -176,7 +176,7 @@
       "date": "Thu, 12 Nov 2026 19:12:49 +0000",
       "description": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de la NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de la NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Un robot a assemblé une structure dans l'espace pour la première fois",
@@ -307,19 +307,35 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - France-Turquie : Mbappé gâche mais Kroupi double la mise pour les Bleus, coaching payant de Zidane",
-      "link": "https://www.lefigaro.fr/sports/football/live/ligue-des-nations/2026/2627015/france-turquie",
-      "date": "Sun, 15 Nov 2026 22:26:22 +0100",
-      "description": "Les Bleus reçoivent la Turquie à Bordeaux ce dimanche pour faire oublier leur défaite en Italie jeudi dernier. Ils n’ont besoin que d’un match nul afin de se qualifier pour les quarts de finale de la Ligue des nations.",
+      "title": "France-Turquie : poussifs mais vainqueurs, les Bleus remplissent leur mission",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
+      "date": "Sun, 15 Nov 2026 23:05:28 +0100",
+      "description": "Dans un match pas toujours maîtrisé, l’équipe de France a dominé la Turquie (2-1) et validé sa qualification en quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "France-Turquie : les Bleus font enfin le break grâce à Kroupi... Suivez le match de Ligue des nations avec nous",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 15 Nov 2026 22:25:22 +0100",
-      "description": "Trois jours après le revers de San Siro, l'équipe de France retrouve les terrains face à la Turquie, dimanche soir à Bordeaux, avec un ticket pour les quarts de finale de la Ligue des nations dans le viseur.",
+      "title": "L’équipe de France s’impose face à la Turquie et se qualifie pour les quarts de finale de la Ligue des nations",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 23:01:33 +0100",
+      "description": "Les Bleus ont signé leur quatrième succès dans la compétition (2-1), dimanche soir à Bordeaux, et terminent premiers de leur groupe.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Détestés à droite, doublés sur leur gauche, déclassés économiquement : le crépuscule des bobos",
+      "link": "https://www.lefigaro.fr/vox/societe/detestes-a-droite-doubles-sur-leur-gauche-declasses-economiquement-le-crepuscule-des-bobos-20261115",
+      "date": "Sun, 15 Nov 2026 22:48:51 +0100",
+      "description": "RÉCIT - Les scènes d’émeutes du 17 octobre dans le Paris des coffee shops ont mis à nu le déclassement des bobos. Devenue la cible favorite de la gauche mélenchoniste, qui lui reproche sa tiédeur, cette population est en train de perdre son statut économique, rattrapée par l’IA.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "France-Turquie : en vidéo, les deux buts des Bleus de Zidane qui ont libéré le Stade Atlantique de Bordeaux",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
+      "date": "Sun, 15 Nov 2026 22:47:11 +0100",
+      "description": "Les Bleus ont battu les Turcs (2-1), ce dimanche à Bordeaux, après leur lourde défaite en Italie, jeudi dernier. Ils décrochent leur billet pour les quarts de finale de la Ligue des nations.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -331,12 +347,100 @@
       "category": "France"
     },
     {
-      "title": "France-Turquie : en vidéo, le but avec beaucoup de réussite qui libère les Bleus de Zidane face aux Turcs",
-      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
-      "date": "Sun, 15 Nov 2026 22:16:31 +0100",
-      "description": "Les Bleus reçoivent les Turcs, ce dimanche à Bordeaux, pour faire oublier leur lourde défaite en Italie, jeudi dernier. Ils n’ont besoin que d’un match nul pour se hisser pour les quarts de finale de la Ligue des nations.",
-      "source": "Le Figaro",
+      "title": "Comment obtenir des avertissements sur les caméras de vitesse dans Apple CarPlay",
+      "link": "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/",
+      "date": "Sun, 15 Nov 2026 22:00:00 +0000",
+      "description": "Que vous utilisiez Apple Maps, Google Maps ou Waze dans CarPlay, assurez-vous que ces paramètres sont activés pour recevoir des avertissements sur les caméras de vitesse à proximité.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Face à la Turquie, les Bleus par une toute petite porte",
+      "link": "https://www.liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ/",
+      "date": "Sun, 15 Nov 2026 21:57:57 +0000",
+      "description": "Vainqueurs de la Turquie (2-1) à Bordeaux au bout d’un match médiocre, les joueurs tricolores disputeront les quarts de finale de la compétition en mars.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "La mauvaise nouvelle pour Jensen Huang est-elle aussi mauvaise pour l'industrie de l'IA ?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "date": "Sun, 15 Nov 2026 21:56:35 +0000",
+      "description": "\"Jensen est Nvidia, n'est-ce pas ? Et tellement de cette économie est sur Nvidia.\"",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "On a dormi ici. Les retards de vol s'attardent mais l'horaire est de retour sur la bonne voie pour lundi",
+      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "date": "Sun, 15 Nov 2026 21:48:16 GMT",
+      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Comment savoir si votre voiture supporte Apple CarPlay",
+      "link": "https://www.engadget.com/2313909/how-to-tell-if-car-supports-apple-carplay/",
+      "date": "Sun, 15 Nov 2026 21:45:00 +0000",
+      "description": "Déterminer si votre voiture est compatible avec Apple CarPlay est assez simple. Si la vôtre n'est pas, il y a des façons d'ajouter CarPlay à votre véhicule.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
+      "link": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations",
+      "date": "Sun, 15 Nov 2026 21:39:35 GMT",
+      "description": "L'équipe de France avait besoin d'un match nul contre la Turquie à Bordeaux ce dimanche 15 novembre pour s'assurer une place en quarts de finale de la Ligue des nations. Elle a fait mieux que ça avec une victoire 2-1. Tout n'a pas été parfait et les Bleus se sont fait quelques frayeurs, mais Zinédine Zidane et son groupe remportent avec succès leur premier match couperet.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Jordanie sentences 3 à la mort sur l'attaque de l'Église orthodoxe grecque",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "date": "Sun, 15 Nov 2026 21:33:59 +0000",
+      "description": "L'armée jordanienne a déclaré que ces hommes, qui avaient été arrêtés après avoir tiré sur une église orthodoxe grecque le mois dernier, avaient été condamnés pour terrorisme.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "AO3 est de retour en ligne mais avec des fonctionnalités limitées",
+      "link": "https://www.engadget.com/2317218/ao3-is-back-online-but-with-limited-features/",
+      "date": "Sun, 15 Nov 2026 21:33:18 +0000",
+      "description": "La panne a duré deux semaines, mais toute la fonctionnalité devrait reprendre bientôt.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Aux États-Unis, le secrétaire au Commerce pris à son tour dans la tempête Nvidia",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-aux-%C3%A9tats-unis-le-secr%C3%A9taire-au-commerce-pris-%C3%A0-son-tour-dans-la-temp%C3%AAte-nvidia",
+      "date": "Sun, 15 Nov 2026 21:30:23 GMT",
+      "description": "La polémique autour de Nvidia continue aux États-Unis. Le PDG de l'entreprise spécialisée dans les puces électroniques, Jensen Huang, a démissionné après des révélations sur ses liaisons extraconjugales, notamment avec une femme soupçonnée d'espionnage pour la Chine, grande concurrente de Washington dans la course à l'intelligence artificielle. Et après le désormais ex-patron du groupe, une autre personne est sous pression : le secrétaire au Commerce des États-Unis, Howard Lutnick. Des responsables politiques lui reprochent d'avoir été trop complaisant sur la question des restrictions envers la Chine.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Comment obtenir le plus de protection de votre système de sécurité de caméra Ring",
+      "link": "https://www.engadget.com/2313904/how-to-maximize-ring-camera-security-protection/",
+      "date": "Sun, 15 Nov 2026 21:30:00 +0000",
+      "description": "Une caméra Ring peut fournir un énorme coup de pouce à la sécurité de votre maison, mais il ya plus que vous pouvez faire pour maximiser cette couche supplémentaire de sécurité.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Retraite des forces soutenues par l ' Arabie saoudite au Yémen, sortie du détroit de Key dans le contrôle de Houthi",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "date": "Sun, 15 Nov 2026 21:26:18 +0000",
+      "description": "C'est un revers pour le gouvernement yéménite et son allié l'Arabie Saoudite, comme les analystes ont dit que l'élan de la guerre civile dans le pays s'inclinait vers Houthis soutenu par l'Iran.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Yémen Houthis libéré unilatéralement 600 détenus de guerre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 21:19:08 +0000",
+      "description": "Yémen Houthis ont libéré 600 personnes emprisonnées pendant la guerre civile du pays.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Wi-Fi 8 est une tentative pour résoudre le plus gros problème avec Internet sans fil",
@@ -387,19 +491,19 @@
       "category": "Monde"
     },
     {
-      "title": "Vous pouvez contrôler vos autres appareils avec cette fonctionnalité d'Apple",
-      "link": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
-      "date": "Sun, 15 Nov 2026 20:45:00 +0000",
-      "description": "Vous pouvez faire beaucoup avec cette fonctionnalité d'accessibilité.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
       "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 20:44:28 +0100",
       "description": "Lors de la réunion avec l'intersyndicale de la fonction publique vendredi, le Premier ministre a annoncé l'ouverture d'une discussion d'un mois pour revaloriser les bas salaires, des mesures \"qui ne répondent pas à l'urgence\" de la situation, rappellent les syndicats.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "République tchèque: 400 000 manifestants à Prague contre la réforme de l'audiovisuel public",
+      "link": "https://www.rfi.fr/fr/europe/20261115-r%C3%A9publique-tch%C3%A8que-400-000-manifestants-%C3%A0-prague-contre-la-r%C3%A9forme-de-l-audiovisuel-public",
+      "date": "Sun, 15 Nov 2026 20:42:41 GMT",
+      "description": "Une importante manifestation s'est tenue, dimanche 15 novembre à Prague, en République tchèque, contre le gouvernement du milliardaire Andrej Babis et son projet de suppression de la redevance audiovisuelle. Selon les organisateurs, environ 400 000 personnes ont participé au rassemblement, l'un des plus importants de ces dernières décennies dans le pays.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -419,14 +523,6 @@
       "category": "Monde"
     },
     {
-      "title": "Retraite des forces soutenues par l ' Arabie saoudite au Yémen, sortie du détroit de Key dans le contrôle de Houthi",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-      "date": "Sun, 15 Nov 2026 20:37:52 +0000",
-      "description": "C'est un revers pour le gouvernement yéménite et son allié l'Arabie Saoudite, comme les analystes ont dit que l'élan de la guerre civile dans le pays s'inclinait vers Houthis soutenu par l'Iran.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Qui peut forcer Israël à appliquer l'accord de cessez-le-feu de Gaza?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 20:37:43 +0000",
@@ -443,27 +539,11 @@
       "category": "Monde"
     },
     {
-      "title": "Comment trouver votre adresse IP",
-      "link": "https://www.engadget.com/2313878/how-to-find-ip-address/",
-      "date": "Sun, 15 Nov 2026 20:30:00 +0000",
-      "description": "Vous devrez peut-être trouver votre adresse IP pour des raisons de dépannage réseau ou pour accéder à distance à votre ordinateur.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "SNL rassemble tous les tycoons techniques pour une leçon de datation et d'espion",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "date": "Sun, 15 Nov 2026 20:20:57 +0000",
       "description": "Bien que maladroit, les cadres technologiques effrayants sont devenus un thème récurrent sur Saturday Night Live, cet épisode de la semaine a donné au casting une chance de montrer toutes leurs impressions à la fois.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Amazon travaillerait sur une base de données pour 'virtuellement chaque article à vendre sur Terre'",
-      "link": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
-      "date": "Sun, 15 Nov 2026 20:19:05 +0000",
-      "description": "Cela comprendrait des produits que le géant du commerce en ligne ne vend pas.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -475,26 +555,10 @@
       "category": "France"
     },
     {
-      "title": "Comment donner un nouveau but à votre ancienne Apple TV",
-      "link": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
-      "date": "Sun, 15 Nov 2026 20:15:00 +0000",
-      "description": "Il ya quelques autres tâches que votre Apple TV peut gérer.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "La Jordanie condamne à mort trois hommes à la suite d'une attaque meurtrière à l'église de Karak",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 20:12:38 +0000",
       "description": "La Jordanie condamne à mort trois hommes à la suite d'une attaque meurtrière à l'église de Karak",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Afrique CDC dit l'épidémie d'Ebola en RD Congo « toujours pas sous contrôle »",
-      "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 20:07:06 +0000",
-      "description": "« Si nous n'arrêtons pas cette épidémie maintenant, ce serait la pire épidémie d'Ebola », explique le directeur du CDC en Afrique.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -510,7 +574,7 @@
       "title": "Zelensky exhorte les États-Unis et Musk à lever les restrictions de Starlink et à être du côté droit de l'histoire.",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 19:32:39 GMT",
-      "description": "Le président ukrainien dit que des restrictions sont toujours en place et qu'il est difficile d'arrêter les attaques russes.",
+      "description": "Le président ukrainien dit que l'Internet ralenti rend difficile l'arrêt des attaques russes.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -547,14 +611,6 @@
       "category": "France"
     },
     {
-      "title": "Pays-Bas: des avions perdent le signal GPS dans le ciel, des bateaux russes en mer du Nord suspectés",
-      "link": "https://www.rfi.fr/fr/europe/20261115-pays-bas-des-avions-perdent-le-signal-gps-dans-le-ciel-des-bateaux-russes-en-mer-du-nord-suspect%C3%A9s",
-      "date": "Sun, 15 Nov 2026 18:57:06 GMT",
-      "description": "Que s'est-il passé, exactement, dans le ciel néerlandais, lundi 9 novembre ? Ce jour-là, des dizaines d'avion survolant les Pays-Bas ont perdu le signal GPS. Une perturbation des systèmes de navigation qui serait liée à la présence d'un navire russe dans les eaux de la mer du Nord.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Au Cambodge, Emmanuel Macron appelle à l'\"unité\" de l'Organisation internationale de la francophonie, secouée par une rivalité entre la RDC et le Rwanda",
       "link": "https://www.franceinfo.fr/culture/patrimoine/francophonie/au-cambodge-emmanuel-macron-appelle-a-l-unite-de-l-organisation-internationale-de-la-francophonie-secouee-par-une-rivalite-entre-la-rdc-et-le-rwanda_8283593.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 15 Nov 2026 18:48:41 +0100",
@@ -571,19 +627,11 @@
       "category": "Monde"
     },
     {
-      "title": "EN DIRECT, France-Turquie : les Bleus doublent la mise grâce à Eli Junior Kroupi, buteur pour sa deuxième sélection",
+      "title": "EN DIRECT, France-Turquie : mission accomplie pour les Bleus, vainqueurs et qualifiés pour les quarts de finale de la Ligue des nations",
       "link": "https://www.lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
       "date": "Sun, 15 Nov 2026 18:45:08 +0100",
-      "description": "Après leur défaite contre les Italiens, les Bleus ont perdu la première place de leur groupe en Ligue des nations. Pour espérer la retrouver et se qualifier pour les quarts de finale, ils devront s’imposer face à la Turquie, dimanche, à Bordeaux.",
+      "description": "Quatre jours après leur défaite en Italie, les joueurs de Zinédine Zidane ont su réagir, dimanche à Bordeaux, même s’ils ont souffert face à Arda Güler et ses coéquipiers (2-1). Avec la victoire de la Belgique contre la Nazionale, ils retrouvent même la première place de leur groupe, et disputeront la suite de la compétition.",
       "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "À 46 ans, Ronaldinho a rejoué au football en troisième division italienne",
-      "link": "https://www.rfi.fr/fr/sports/20261115-%C3%A0-46-ans-ronaldinho-a-rejou%C3%A9-au-football-en-troisi%C3%A8me-division-italienne",
-      "date": "Sun, 15 Nov 2026 18:43:44 GMT",
-      "description": "Pour la première fois depuis septembre 2015, l'ancien Ballon d'or 2005 Ronaldinho a joué en compétition, sous les couleurs de Ravenne, un ambitieux club de troisième série italienne qui rêve de se hisser en Serie A.",
-      "source": "RFI",
       "category": "France"
     },
     {
@@ -651,14 +699,6 @@
       "category": "France"
     },
     {
-      "title": "On a dormi ici. Les retards de vol s'attardent mais l'horaire est de retour sur la bonne voie pour lundi",
-      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "date": "Sun, 15 Nov 2026 18:22:23 GMT",
-      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
       "link": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
       "date": "Sun, 15 Nov 2026 18:20:21 +0100",
@@ -671,14 +711,6 @@
       "link": "https://www.liberation.fr/economie/medias/a-lyon-une-equipe-de-bfm-tv-agressee-en-marge-de-la-manifestation-20261115_NJ3DNAPMOBASXN2U2V336KF4NI/",
       "date": "Sun, 15 Nov 2026 18:19:34 +0000",
       "description": "Deux journalistes et deux agents de sécurité de la chaîne d’info ont été attaqués samedi 14 novembre alors qu’ils couvraient la mobilisation dans le Rhône. Une enquête a été ouverte pour «violences en réunion».",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Fermeture de l’A13 : à l’ouest de Paris, neuf mois de pagaille en vue",
-      "link": "https://www.liberation.fr/economie/transports/fermeture-de-la13-a-louest-de-paris-neuf-mois-de-pagaille-en-vue-20261115_QAKAQOE73NCA5KARLCQP4HG7EY/",
-      "date": "Sun, 15 Nov 2026 18:16:18 +0000",
-      "description": "En raison de la vétusté du tunnel de Saint-Cloud, et du passage d’un tunnelier du Grand Paris Express, l’Etat a décidé de fermer cet axe important pour les Franciliens et les Normands à partir du dimanche 15 novembre et jusqu’à l’été.",
       "source": "Libération",
       "category": "France"
     },
@@ -713,14 +745,6 @@
       "description": "Le pacte est en avance sur la rencontre de Donald Trump avec Xi Jinping au Forum de coopération économique Asie-Pacifique à Shenzhen",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Détestés à droite, doublés sur leur gauche, déclassés économiquement : le crépuscule des bobos",
-      "link": "https://www.lefigaro.fr/vox/societe/detestes-a-droite-doubles-sur-leur-gauche-declasses-economiquement-le-crepuscule-des-bobos-20261115",
-      "date": "Sun, 15 Nov 2026 17:30:00 +0100",
-      "description": "RÉCIT - Les scènes d’émeutes du 17 octobre dans le Paris des coffee shops ont mis à nu le déclassement des bobos. Devenue la cible favorite de la gauche mélenchoniste, qui lui reproche sa tiédeur, cette population est en train de perdre son statut économique, rattrapée par l’IA.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "La société prise dans la controverse de Nvidia lance une enquête interne",
@@ -763,14 +787,6 @@
       "category": "Technologie"
     },
     {
-      "title": "MMA: Ciryl Gane s'est fait secouer mais s'est imposé comme un champion contre Hokit",
-      "link": "https://www.rfi.fr/fr/sports/20261115-mma-ciryl-gane-s-est-fait-secouer-mais-s-est-impos%C3%A9-comme-un-champion",
-      "date": "Sun, 15 Nov 2026 17:04:27 GMT",
-      "description": "Grâce à sa victoire contre Josh Hokit, samedi 14 novembre à New York aux États-Unis, Ciryl Gane demeure le champion des poids lourds de l'Ultimate Fighting Championship (UFC), la ligue élite d'arts martiaux mixtes. Au Madison Square Garden, le Français a pourtant été bien secoué. Mais les épreuves traversées sur son chemin pour devenir champion l'ont préparé à un tel combat.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
       "link": "https://www.lemonde.fr/idees/article/2026/11/15/alice-ekman-sinologue-malgre-ses-difficultes-la-chine-veut-accelerer-la-restructuration-de-la-gouvernance-mondiale-et-marginaliser-les-pays-occidentaux_6811033_3232.html",
       "date": "Sun, 15 Nov 2026 17:00:20 +0100",
@@ -801,6 +817,14 @@
       "description": "Connue pour sa stabilité politique et sa bonne gouvernance, la nation insulaire votera pour son prochain président. Environ 420 000 personnes peuvent voter",
       "source": "Deutsche Welle",
       "category": "Monde"
+    },
+    {
+      "title": "\"Davidson Window\" L'amiral espère qu'il avait tort sur la Chine\" Capacité de prendre Taiwan en 2027",
+      "link": "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
+      "date": "Sun, 15 Nov 2026 16:44:47 -0500",
+      "description": "Le calendrier Adm. Philip Davidson a déclaré que la Chine pourrait être prête à envahir Taiwan est sur le point d'arriver. Le post ‘Davidson Window' L'amiral espère qu'il avait tort sur la Chine Capacité de prendre Taiwan En 2027 est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
     },
     {
       "title": "Jean-Pierre Robin : « À la recherche de la décennie perdue, 2017-2027, dont les Français sortent éreintés »",
@@ -1072,7 +1096,7 @@
       "date": "Sun, 15 Nov 2026 08:53:25 EST",
       "description": "Les scientifiques de la NASA avertissent que l'intensification rapide du 2026 El Niño pourrait dépasser l'événement historique de 1997-1998, qui a déclenché des phénomènes météorologiques extrêmes dévastateurs dans le monde entier. Les données satellitaires révèlent des similitudes frappantes entre les deux, ce qui accroît la possibilité de précipitations importantes et d'inondations cet hiver, bien que les impacts exacts demeurent incertains.",
       "source": "ScienceDaily",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Les champs magnétiques bizarres d'Uranus et de Neptunes peuvent enfin être expliqués",
@@ -1120,7 +1144,7 @@
       "date": "Sun, 15 Nov 2026 06:00:06 GMT",
       "description": "Jensen Huang-S affaire avec un espion présumé est Silicon Valley le pire cauchemar est devenu réalité La démission cette semaine de Jensen Huang, fondateur et PDG de Nvidia, est l'un des scandales les plus étonnants en mémoire des entreprises, avec des allégations d'espionnage international et d'affaires extraconjugales impliquant l'un des hommes les plus puissants du monde. Alors que les enquêtes montent dans ce qui a mal tourné à la société de puces $4tn, la saga peut également devenir un jalon dans",
       "source": "The Guardian",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "Le Hamas dit que le commandant en chef tué dans une attaque aérienne israélienne",
@@ -1135,14 +1159,6 @@
       "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
       "date": "Sun, 15 Nov 2026 05:01:24 +0000",
       "description": "Pendant plus d'un quart de siècle, j'ai vu la politique de l'Europe devenir plus comme l'Italie, avec toute l'instabilité qui en résulte, comme l'extrême droite est venue du froid.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "En Europe, un Iran emboldé contribue à un sentiment d'anxiété",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-      "date": "Sun, 15 Nov 2026 05:01:20 +0000",
-      "description": "Les procureurs et les responsables gouvernementaux estiment que l'Iran ou ses mandataires sont à l'origine d'une série de violations de la sécurité et de menaces en Grande-Bretagne et en Europe, qui perturbent la région.",
       "source": "The New York Times",
       "category": "Monde"
     },
@@ -1163,18 +1179,18 @@
       "category": "Économie"
     },
     {
-      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
       "description": "Dans plusieurs États, les démocrates ont pris le contrôle de législatures divisées et ont affaibli la domination du GOP dans d'autres. Questions à l'ordre du jour: Plus d'accès aux soins de santé, nouvelles limites aux bons scolaires.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "date": "Sun, 15 Nov 2026 05:00:00 -0500",
+      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -1297,14 +1313,6 @@
       "description": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et l'intersyndicale jeune (Union étudiane, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Elon Musk, d'autres experts techniques signent une pétition demandant à Nvidia de rétablir Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "date": "Sat, 14 Nov 2026 21:41:22 +0000",
-      "description": "La pétition avait attiré plus de 115 000 signatures à partir de samedi après-midi.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Bébé, elle est de retour ! SpaceX prend un vaisseau de l'Orbit pour la première fois",
@@ -1904,7 +1912,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "description": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "«A l'avant de son temps: l'IA aide à débloquer les découvertes cachées dans des cahiers d'hommes qui ont transformé les mathématiques",
@@ -1944,7 +1952,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "description": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont en orbite terrestre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement de [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Hermeus recrute Northrop Grumman pour le programme de drone Quarterhorse",
@@ -2025,14 +2033,6 @@
       "description": "Une entreprise propose d'allonger la vie de la décharge, l'odeur piquante et tout, plusieurs décennies de plus Comme une représentation visuelle de la façon dont New York est à court d'endroits pour mettre ses déchets, la plus grande décharge active de l'État est frappante. La décharge de Seneca Meadows est déjà la hauteur de la Statue de la Liberté et ses exploitants cherchent à l'élever encore plus, à la consternation des habitants voisins. La décharge,",
       "source": "The Guardian",
       "category": "Environnement"
-    },
-    {
-      "title": "B-21 Raider a libéré sa première arme",
-      "link": "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon",
-      "date": "Fri, 13 Nov 2026 12:11:10 -0500",
-      "description": "Les premiers essais d'armes constituent la dernière étape du B-21, mais son calendrier est serré avec l'armée de l'air qui cherche toujours à déclarer le Raider opérationnel l'année prochaine. Le post B-21 Raider a publié sa première arme est apparu en premier sur TWZ .",
-      "source": "The War Zone",
-      "category": "Défense"
     },
     {
       "title": "La canicule d'été met en danger la vie des équipes de bin, déclare le conseiller",
@@ -2136,7 +2136,7 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD: 2026 13 novembre – NGC... Aujourd'hui Archive APOD Soumissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. NGC 206 [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Un rebord mondial pour les mangroves",
@@ -2144,7 +2144,7 @@
       "date": "Fri, 13 Nov 2026 05:01:00 +0000",
       "description": "Après des décennies de déclin, ce type de forêt d'importance écologique fait son retour.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "La puissance sinistre du vendredi 13 : comment cette date maligne affecte nos vies",
@@ -2203,6 +2203,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Écoutez ceci : Armand Hammer , Snakes & Ladders",
+      "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "date": "2026-11-15T16:49:22-05:00",
+      "description": "J'ouvre avec cette mise en garde : je n'ai pas eu beaucoup de temps pour digérer le disque surprise d'Armand Hammer qui a chuté cette semaine. Billy Woods et Elucid manquent rarement, et ma première réaction est que Snakes & Ladders se classe parmi leurs meilleurs. Il n'a pas la production transparente en ligne de façon que leurs collabs avec Alchemist [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "La fusée Vulcaine échoue, détruisant 40 satellites Amazon Leo",
       "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
       "date": "2026-11-15T16:05:02-05:00",
@@ -2239,14 +2247,6 @@
       "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
       "date": "2026-11-15T11:59:16-05:00",
       "description": "Les lunettes intelligentes d'Apple sont parmi les pires secrets du monde de la technologie. Mark Gurman, de Bloomberg, déclare que le premier modèle de l'entreprise, qui manquera de fonctionnalités de réalité augmentées, sera annoncé à la WWDC de juin l'année prochaine. Ils n'expédieront probablement pas tout de suite, cependant, avec Gurman disant seulement que \"les envois de lunettes commenceraient avant la fin du [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Rachelle Hampton n'a pas admis combien de temps elle a passé à tracer l'utilisation du \"murmur\" dans Twilight",
-      "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "date": "2026-11-15T11:00:00-05:00",
-      "description": "Rachelle Hampton est écrivaine et copropriétaire chez Defector Media, et l'hôte de Normal Gossip, un podcast d'histoires anonymes soumises par des auditeurs sur le drame quotidien. Qu'il s'agisse de la laine de luxe dans un cercle de tricot littéral, de la mise en accusation d'un président hypocrite de l'HOA, ou d'une épidémie de COVID lors d'un mariage de destination avec un 25 absurde [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
