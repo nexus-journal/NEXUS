@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:17:19.768405+00:00",
+  "updated_at": "2026-11-15T01:25:55.591725+00:00",
   "count": 289,
   "articles": [
     {
@@ -155,20 +155,20 @@
       "category": "Environnement"
     },
     {
-      "title": "AI confirme une limite longtemps suspectée sur les avantages des ordinateurs quantiques",
-      "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
-      "description": "Une preuve de l'IA a rigoureusement démontré que l'utilisation d'ordinateurs quantiques n'aurait pas d'énormes avantages pour toute une classe de problèmes mathématiques, confirmant une conjecture extrêmement influente",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
       "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
       "date": "Thu, 12 Nov 2026 20:00:00 +0000",
       "description": "Nigrán, Espagne Le 12 novembre 2026 – UARX Space a franchi une étape importante pour l'industrie spatiale espagnole avec le déploiement d'OSSIE-D, un véhicule de transfert orbital (OTV) conçu et [...] L'article UARX Space marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par DHV Technology est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "AI confirme une limite longtemps suspectée sur les avantages des ordinateurs quantiques",
+      "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
+      "description": "Une preuve de l'IA a rigoureusement démontré que l'utilisation d'ordinateurs quantiques n'aurait pas d'énormes avantages pour toute une classe de problèmes mathématiques, confirmant une conjecture extrêmement influente",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "Quel rôle l'industrie joue-t-elle en Europe ?",
@@ -355,6 +355,38 @@
       "category": "Exploration"
     },
     {
+      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
+      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
+      "date": "Sun, 15 Nov 2026 01:54:03 +0100",
+      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "SpaceX parvient pour la première fois à récupérer l’étage supérieur de sa mégafusée Starship après 14 orbites",
+      "link": "https://www.lemonde.fr/sciences/article/2026/11/15/spacex-parvient-a-recuperer-l-etage-superieur-de-sa-megafusee-starship-apres-14-orbites_6810742_1650684.html",
+      "date": "Sun, 15 Nov 2026 01:26:48 +0100",
+      "description": "Le retour du premier étage du lanceur géant a été avorté pour des raisons inconnues, mais l’étage supérieur a lui été recouvré avec succès samedi 14 novembre, après avoir passé près de vingt-quatre heures en orbite.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Quel GPU NVIDIA est le plus proche de la PS5 ? La réponse n'est pas si simple",
+      "link": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+      "date": "Sun, 15 Nov 2026 01:00:00 +0000",
+      "description": "Une des plus grandes questions quand il s'agit d'acheter une plate-forme de jeu est de savoir si aller console ou PC. Ce GPU NVIDIA donne les résultats les plus proches à un PS5.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Des dizaines de milliers de personnes continuent de protester à travers la France",
+      "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 15 Nov 2026 00:55:00 GMT",
+      "description": "Quelque 106 000 personnes ont défilé dans les villes françaises pour un cinquième week-end consécutif de manifestations, marquant la plus faible participation ces dernières semaines.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
       "link": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
       "date": "Sun, 15 Nov 2026 00:49:29 +0100",
@@ -363,12 +395,44 @@
       "category": "France"
     },
     {
+      "title": "Ce brevet Sony ajouterait un lecteur de carte de crédit à votre contrôleur PlayStation",
+      "link": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "date": "Sun, 15 Nov 2026 00:45:00 +0000",
+      "description": "Comme Sony et PlayStation entrent dans une ère numérique, la nouvelle technologie sur ses futurs contrôleurs pourrait aider à faire des achats en ligne encore plus pratiques pour le jeu.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Avec Starship capture, SpaceX montre encore qu'il peut éblouir le monde",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "date": "Sun, 15 Nov 2026 00:40:59 +0000",
+      "description": "C'était comme entrer dans le futur.",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
       "title": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
       "link": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html",
       "date": "Sun, 15 Nov 2026 00:39:08 +0100",
       "description": "Les cortèges qui ont défilé, samedi, à l’appel de nombreuses organisations ont surtout été dominés par le rejet du projet de loi qualifié de « permis de tuer », qui prévoit d’instaurer la présomption de légitime défense pour les policiers et gendarmes.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Quelles sont les limites des eGPUs vs cartes graphiques embarquées pour les ordinateurs portables?",
+      "link": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+      "date": "Sun, 15 Nov 2026 00:30:00 +0000",
+      "description": "Ça vaut le coup d'utiliser un eGPU avec votre ordinateur portable ? Ça dépend. Examinons de plus près les facteurs les plus importants que vous devriez considérer.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Des centaines d'hommes marchent en Suisse pour protester contre la violence contre les femmes",
+      "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 00:27:14 +0000",
+      "description": "Les organisateurs disent que les hommes doivent s'exprimer, car l'étude suisse constate que la moitié des hommes âgés de 18 à 24 ans ont une vision restrictive de la masculinité.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "11 gadgets de moins de 10 $ qui résolvent les problèmes quotidiens",
@@ -382,7 +446,7 @@
       "title": "Le vaisseau spatial SpaceX.S. capturé par les armes de la rampe de lancement",
       "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 00:14:22 +0000",
-      "description": "La capture dramatique de Starship met en place Artemis mission lance de Floride dans les prochains mois.",
+      "description": "Les responsables de SpaceX disent que le captage par armes mécaniques montre la pleine réutilisabilité de Starship, cruciale pour un recyclage rapide et peu coûteux.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -393,6 +457,14 @@
       "description": "Le chef de la sécurité de Nvidia est parti tranquillement en août, et maintenant que le PDG Jensen Huang a renoncé à ses relations, y compris avec un cadre d'une entreprise soupçonnée d'entonner des puces vers la Chine, un ancien officier du renseignement dit que c'est le genre de fuite qui conduit les conversations quotidiennes, que la plupart des équipes de sécurité d'entreprise sont mal équipées pour attraper.",
       "source": "TechCrunch",
       "category": "Technologie"
+    },
+    {
+      "title": "Mouvement social en France: un «acte V» marqué par une affluence un peu moindre",
+      "link": "https://www.rfi.fr/fr/france/20261115-mouvement-social-en-france-un-acte-v-marqu%C3%A9-par-une-affluence-un-peu-moindre",
+      "date": "Sun, 15 Nov 2026 00:02:20 GMT",
+      "description": "Protection des enfants et adolescents, opposition au « permis de tuer » des forces de l'ordre, salaires, moyens pour l'enseignement : différentes manifestations ont rythmé, ce samedi 14 novembre, l'acte V du mouvement contre la vie chère,. Il y a eu un peu moins d'affluence et de tensions que lors des précédentes manifestations. Mais une nouvelle mobilisation « massive » est attendue pour le mardi 17 novembre.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Les calendriers de l'aventure beauté peuvent coûter des centaines - mais sont-ils avantageux pour l'argent?",
@@ -406,7 +478,7 @@
       "title": "La guerre d'Iran vit: Israël annonce une politique offensive à Gaza",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 00:00:08 +0000",
-      "description": "Israël s'est engagé à poursuivre sa « politique offensive » sur Gaza alors que les combats au Yémen s'attaquent à la région.",
+      "description": "Israël s'est engagé à poursuivre sa « politique offensive » sur Gaza, alors que les combats au Yémen saisissent la région.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -467,12 +539,12 @@
       "category": "Économie"
     },
     {
-      "title": "Une erreur de câble pourrait être de tuer la performance de jeu de votre PC de bureau",
-      "link": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
-      "date": "Sat, 14 Nov 2026 23:30:00 +0000",
-      "description": "Brancher votre moniteur dans la carte mère au lieu de votre GPU dédié peut ruiner les performances de jeu. Voici comment vérifier vos ports et récupérer vos cadres.",
-      "source": "Engadget",
-      "category": "Technologie"
+      "title": "Au Cambodge, la langue française durement concurrencée par le chinois et l'anglais",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20261114-au-cambodge-la-langue-fran%C3%A7aise-durement-concurrenc%C3%A9e-par-le-chinois-et-l-anglais",
+      "date": "Sat, 14 Nov 2026 23:27:45 GMT",
+      "description": "Phonm Penh, capitale du Cambodge, accueille dimanche 15 et lundi 16 novembre le XXᵉ sommet de l'Organisation internationale de la francophonie (OIF). Première mission de cette institution : promouvoir la langue française. Au Cambodge, celle-ci s'est implantée puis développée sous le protectorat français à partir de 1863. Plus de 160 ans après, elle est enseignée à plus de 22 000 apprenants selon l'Institut français. Mais à l'école et à l'université, l'anglais et le chinois ne cessent de gagner du terrain.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Un arrêt au sol à l'échelle nationale a suivi la mise à niveau de l'entrepreneur vers le système de télécommunication L3Harris : DOT-S Duffy",
@@ -481,6 +553,14 @@
       "description": "L'arrêt au sol de la FAA a eu lieu après les mises à jour d'un ancien système de communication géré par L3Harris Technologies, a déclaré le secrétaire aux Transports Sean Duffy samedi.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "Un centre international dédié à l'IA de défense ouvre ses portes à Rennes",
+      "link": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261114-un-centre-international-d%C3%A9di%C3%A9-%C3%A0-l-ia-de-d%C3%A9fense-ouvre-ses-portes-%C3%A0-rennes",
+      "date": "Sat, 14 Nov 2026 23:16:05 GMT",
+      "description": "L'intelligence artificielle (IA) entre dans les opérations militaires. Un centre international va ouvrir ses portes à Rennes (Ille-et-Vilaine), dans l'ouest de la France, le 20 novembre 2026. Il vise à stimuler l'adoption de l'IA par plusieurs armées européennes et à diffuser les bonnes pratiques. L'objectif est bien de bâtir l'interopérabilité autour de cette intelligence artificielle devenue incontournable.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
@@ -499,28 +579,12 @@
       "category": "Monde"
     },
     {
-      "title": "Pourquoi votre carte SD ne vous permettra pas de transférer des fichiers de plus de 4 Go, et comment le réparer",
-      "link": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
-      "date": "Sat, 14 Nov 2026 23:00:00 +0000",
-      "description": "Certaines cartes SD n'accepteront tout simplement pas des fichiers de plus de 4 Go, peu importe la capacité totale ou combien de stockage gratuit il y a. Mais ne vous inquiétez pas, ce n'est pas difficile à réparer.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Le chaos des voyages aériens aux États-Unis expose le système tenu ensemble par «chaîne et bande de conduit»",
       "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
       "date": "Sat, 14 Nov 2026 22:57:26 GMT",
       "description": "Des décennies de négligence bipartite ont laissé l'infrastructure aéronautique américaine inapte à l'usage, disent les experts",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
-      "link": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
-      "date": "Sat, 14 Nov 2026 22:55:14 +0100",
-      "description": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et envoyer des data centers dans l’espace.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Philippines remporte le premier Concours Eurovision de la chanson Asie",
@@ -531,28 +595,12 @@
       "category": "Monde"
     },
     {
-      "title": "Explosion près de Syrie La capitale tue père et enfant",
-      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 22:43:12 +0000",
-      "description": "Les forces de sécurité intérieure syriennes ont ouvert une enquête sur une attaque présumée à la bombe dans une banlieue de Damas.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Les États-Unis ont lancé l'Ukraine qui cède Donbas à l'OTAN, dit Zelensky",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 22:37:25 GMT",
       "description": "Les Etats-Unis n'ont pas confirmé les commentaires du président ukrainien - un fonctionnaire américain a déclaré à la BBC \"de nombreuses idées continuent d'être discutées\".",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Cette fonctionnalité d'application Google Health sous-évaluée peut rendre le suivi des aliments moins ennuyeux",
-      "link": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
-      "date": "Sat, 14 Nov 2026 22:30:00 +0000",
-      "description": "Il y a une suite de fonctionnalités avec l'application Santé de Google, mais vous avez probablement négligé la fonction intuitive de suivi des aliments qui aide à garder votre alimentation en contrôle.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
@@ -611,14 +659,6 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
-      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-      "date": "Sat, 14 Nov 2026 21:49:39 +0100",
-      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
       "link": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
       "date": "Sat, 14 Nov 2026 21:43:20 GMT",
@@ -664,14 +704,6 @@
       "date": "Sat, 14 Nov 2026 21:18:37 +0100",
       "description": "REPORTAGE - Le cortège parisien a rassemblé 24.000 personnes selon Beauvau et 100.000 selon l’Interfac de la jeunesse. Si la première partie de l’itinéraire s’est déroulée sans accroc, quelques affrontements ont eu lieu en fin de parcours, place de la Nation.",
       "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Éliminatoires CAN 2027: l'Algérie se fait peur mais l'emporte contre le Togo",
-      "link": "https://www.rfi.fr/fr/afrique-foot/20261114-%C3%A9liminatoires-can-2027-l-alg%C3%A9rie-se-fait-peur-mais-l-emporte-contre-le-togo",
-      "date": "Sat, 14 Nov 2026 21:18:06 GMT",
-      "description": "L'Algérie s'est fait peur en fin de match mais a fini par l'emporter 1-0 contre le Togo ce samedi 14 novembre. Les Fennecs ont d'abord dominé avant de perdre le fil de la partie, sans conséquence. Ils prennent ainsi les commandes du groupe I des éliminatoires de la CAN.",
-      "source": "RFI",
       "category": "France"
     },
     {
@@ -731,11 +763,11 @@
       "category": "France"
     },
     {
-      "title": "États-Unis: Duffy dit \"incompétence\" ou mauvaise technologie à blâmer pour les arrêts de vol",
-      "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 14 Nov 2026 20:33:00 GMT",
-      "description": "Les transporteurs aériens aux États-Unis ont annulé quelque 16 000 vols au cours des 24 dernières heures dans le plus grand de ces vols depuis le 11 septembre. Les fonctionnaires ont laissé entendre que l'incompétence ou l'équipement défectueux, et non la malfaisance, en sont la cause.",
-      "source": "Deutsche Welle",
+      "title": "L'arrêt au sol de la FAA perturbe le football universitaire",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+      "date": "Sat, 14 Nov 2026 20:13:59 -0500",
+      "description": "Certains matchs de football collégial ont été retardés quelques heures le samedi ou reportés au dimanche. Et en Oklahoma au moins, il y aura des avantages pour les fans de compenser le désagrément, y compris les bières bon marché.",
+      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -760,14 +792,6 @@
       "date": "Sat, 14 Nov 2026 20:02:07 GMT",
       "description": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a précédemment envisagé, si elle est élue.",
       "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "Italie: Facebook écope d'une amende de 805 millions d'euros pour avoir accédé à des photos sans consentement",
-      "link": "https://www.rfi.fr/fr/europe/20261114-italie-facebook-%C3%A9cope-d-une-amende-de-805-millions-d-euros-pour-avoir-acc%C3%A9d%C3%A9-%C3%A0-des-photos-sans-consentement",
-      "date": "Sat, 14 Nov 2026 19:58:06 GMT",
-      "description": "Et si vous appreniez que votre réseau social favori avait accès à vos informations personnelles sans votre autorisation ? C'est ce qu'il se serait produit en Italie depuis 2023. Les photos et vidéos d'environ 20 millions d'utilisateurs de Facebook auraient pu être consultés par la plateforme sans que cette dernière n'y ait été explicitement autorisée. Ainsi, samedi 14 novembre, l'autorité de protection des données personnelles italienne a lourdement sanctionné Meta, propriétaire de Facebook.",
-      "source": "RFI",
       "category": "France"
     },
     {
@@ -995,14 +1019,6 @@
       "category": "France"
     },
     {
-      "title": "Francophonie: la RDC prête à retirer la candidature de Juliana Lumumba à la tête de l'OIF",
-      "link": "https://www.rfi.fr/fr/afrique/20261114-francophonie-la-rdc-pr%C3%AAte-%C3%A0-retirer-la-candidature-de-juliana-lumumba-%C3%A0-la-t%C3%AAte-de-l-oif",
-      "date": "Sat, 14 Nov 2026 16:21:01 GMT",
-      "description": "À la veille du XXe sommet de la Francophonie qui se tient à Phnom Penh, le 15 et 16 novembre, la RDC a fait savoir qu'elle était prête à acter le retrait de sa candidate de la course pour le poste de secrétaire générale de l'Organisation internationale de la Francophonie (OIF).",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Les bains de glace aident-ils les muscles à récupérer après un entraînement? Une nouvelle étude suggère de ne pas",
       "link": "https://www.scientificamerican.com/article/do-ice-baths-help-muscles-recover-after-a-workout-a-new-study-suggests-not/",
       "date": "Sat, 14 Nov 2026 16:00:00 +0000",
@@ -1088,14 +1104,6 @@
       "date": "Sat, 14 Nov 2026 14:33:00 +0000",
       "description": "Un ancien commandant du SAS a accusé l'État d'avoir rompu un « contrat moral » entre le pays et ses principaux soldats en établissant une enquête sur les crimes de guerre qui n'a pas abouti à des conclusions depuis quatre ans.",
       "source": "Sky News",
-      "category": "Monde"
-    },
-    {
-      "title": "On ne peut pas les laisser tomber. Après les victoires à mi-parcours, les démocrates se tournent vers la voie à suivre",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-      "date": "Sat, 14 Nov 2026 14:13:54 -0500",
-      "description": "Des démocrates de tout le pays sont descendus sur Denver pour une conférence de deux jours pour tracer le cours de leur parti après des victoires massives aux élections à mi-parcours.",
-      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -1683,14 +1691,6 @@
       "category": "Défense"
     },
     {
-      "title": "La FAA élargit les conseils d'IA pour gérer la congestion du trafic aérien dans tout l'espace aérien américain",
-      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "date": "Fri, 13 Nov 2026 21:20:47 +0000",
-      "description": "Les compagnies aériennes ont loué l'outil AI, mais le syndicat des contrôleurs aériens n'était pas impliqué.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
       "title": "Microsoft panne 'remarquable rappel' de combien nous comptons sur la technologie",
       "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 21:15:41 GMT",
@@ -1819,20 +1819,20 @@
       "category": "Monde"
     },
     {
-      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
-      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
       "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
       "description": "Le 13 novembre 2026— Washington, D.C.—La Commercial Space Federation (CSF) est heureuse d'accueillir CesiumAstro comme son nouveau membre associé. Un leader mondial dans les solutions de connectivité avancées pour l'espace et [...] Le post Commercial Space Federation accueille CesiumAstro comme nouveau membre associé est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
+      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "Les juges ferment une partie des enquêtes de la CPI sur l'Afghanistan qui pourraient examiner les troupes américaines",
