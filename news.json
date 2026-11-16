@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T03:07:54.742451+00:00",
+  "updated_at": "2026-11-16T04:31:25.078295+00:00",
   "count": 289,
   "articles": [
     {
@@ -291,22 +291,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
-      "link": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
-      "date": "Sun, 15 Nov 2026 23:58:28 +0100",
-      "description": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Le seigneur mexicain de la drogue Miguel Angel Felix Gallardo meurt 80 ans",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 23:52:10 GMT",
-      "description": "Connu sous le nom de 'Boss of Boss', il était le chef de l'ensemble puissant Guadalajara Cartel dans les années 80 avant que son arrestation ne rompe son organisation de drogue.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "La startup indienne Bharat Semi débarque 24 millions de dollars autour du marché mondial des capteurs d'IA",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "date": "Sun, 15 Nov 2026 23:30:00 +0000",
@@ -395,14 +379,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
-      "link": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations",
-      "date": "Sun, 15 Nov 2026 21:39:35 GMT",
-      "description": "L'équipe de France avait besoin d'un match nul contre la Turquie à Bordeaux, dimanche 15 novembre, pour s'assurer une place en quarts de finale de la Ligue des nations. Elle a fait mieux que ça avec une victoire 2-1. Tout n'a pas été parfait et les Bleus se sont fait quelques frayeurs, mais Zinédine Zidane et son groupe ont remporté leur premier match couperet.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Jordanie sentences 3 à la mort sur l'attaque de l'Église orthodoxe grecque",
       "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
       "date": "Sun, 15 Nov 2026 21:33:59 +0000",
@@ -433,6 +409,14 @@
       "description": "Alors que le tourisme est en plein essor en Amérique latine, d'autres formes de voyage gagnent du terrain. Rendre vos vacances plus durables signifie repenser qui appelle les tirs, qui investit et qui en profite.",
       "source": "Deutsche Welle",
       "category": "Monde"
+    },
+    {
+      "title": "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine",
+      "link": "https://www.lefigaro.fr/actualite-france/les-foules-et-la-liesse-le-recit-du-voyage-triomphal-de-leon-xiv-en-amerique-latine-20261115",
+      "date": "Sun, 15 Nov 2026 20:53:11 +0100",
+      "description": "RÉCIT - Après onze jours en Uruguay, en Argentine et au Pérou, où près de 10 millions de personnes sont venues l’acclamer, le pape repart ce lundi pour Rome.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
@@ -496,14 +480,6 @@
       "date": "Sun, 15 Nov 2026 20:17:44 +0100",
       "description": "Le suspect a été interpellé dans la capitale par la BRI dans un \"état alcoolisé\" selon le parquet de Parquet, sans précisions supplémentaires concernant les menaces ou les cibles de l'individu.",
       "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Pierre Vermeren : « Les poubelles devant les universités, un triste symbole »",
-      "link": "https://www.lefigaro.fr/vox/societe/pierre-vermeren-les-poubelles-devant-les-universites-un-triste-symbole-20261115",
-      "date": "Sun, 15 Nov 2026 20:00:00 +0100",
-      "description": "TRIBUNE - Il fut un temps où le combat des jeunes révoltés passait par le langage, l’argumentation et les slogans. Désormais les poubelles entassées tiennent lieu de communication, illustrant la lente et irréversible dégradation du système scolaire, observe l’historien.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -579,6 +555,14 @@
       "category": "France"
     },
     {
+      "title": "L’éditorial d’Étienne de Montety : « Léon XIV en Amérique latine, une parole de haute altitude »",
+      "link": "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-leon-xiv-en-amerique-latine-une-parole-de-haute-altitude-20261115",
+      "date": "Sun, 15 Nov 2026 18:31:43 +0100",
+      "description": "Dans des pays marqués par les grandes disparités entre riches et pauvres, la violence et la corruption, le verbe du pape n’a pas manqué de clarté.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Flaming Hydra, la nouvelle campagne Kickstarter repense la propriété du livre électronique et le prêt numérique",
       "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
       "date": "Sun, 15 Nov 2026 18:29:14 +0000",
@@ -603,14 +587,6 @@
       "category": "Économie"
     },
     {
-      "title": "Près de 1 600 migrants arrivent sur les îles Canaries en une journée",
-      "link": "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 15 Nov 2026 18:26:00 GMT",
-      "description": "La majorité des migrants arrivés samedi sur les îles venaient du Sénégal, de Gambie et de Guinée. La montée en flèche des arrivées aux Canaries intervient après que la Ceuta d'Espagne a récemment connu une crise migratoire.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Sommet de la francophonie : à Phnom Penh, une succession sous tension",
       "link": "https://www.liberation.fr/international/sommet-de-la-francophonie-a-phnom-penh-une-succession-sous-tension-20261115_NRACYD5AQNDZLBE2EBXZQXC7Z4/",
       "date": "Sun, 15 Nov 2026 18:24:44 +0000",
@@ -627,18 +603,10 @@
       "category": "France"
     },
     {
-      "title": "A Lyon, une équipe de BFM TV agressée en marge de la manifestation",
-      "link": "https://www.liberation.fr/economie/medias/a-lyon-une-equipe-de-bfm-tv-agressee-en-marge-de-la-manifestation-20261115_NJ3DNAPMOBASXN2U2V336KF4NI/",
-      "date": "Sun, 15 Nov 2026 18:19:34 +0000",
-      "description": "Deux journalistes et deux agents de sécurité de la chaîne d’info ont été attaqués samedi 14 novembre alors qu’ils couvraient la mobilisation dans le Rhône. Une enquête a été ouverte pour «violences en réunion».",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française",
+      "title": "Au Cambodge, pays hôte du sommet de la francophonie, le lent déclin de la langue française",
       "link": "https://www.lemonde.fr/international/article/2026/11/15/au-cambodge-qui-organise-le-sommet-de-l-organisation-internationale-de-la-francophonie-le-long-declin-de-la-langue-francaise_6811037_3210.html",
       "date": "Sun, 15 Nov 2026 18:00:07 +0100",
-      "description": "Phnom Penh accueille jusqu’au 16 novembre le XXᵉ sommet de l’Organisation internationale de la francophonie. Mais dans l’ancien protectorat, la langue de Sihanouk recule face à l’anglais et au chinois. Elle ne survit plus que dans quelques filières universitaires, et dans le vocabulaire du quotidien.",
+      "description": "Phnom Penh accueille jusqu’au 16 novembre le XXᵉ sommet de la francophonie. Dans l’ancien protectorat français, la langue de Molière recule pourtant face à l’anglais et au chinois. Elle se maintient dans quelques filières universitaires et dans le vocabulaire khmer du quotidien.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -673,14 +641,6 @@
       "description": "Une société de cloud computing faisant l'objet d'un examen sur les réclamations impliquant le géant de la technologie Nvidia a lancé une enquête interne menée par des avocats externes.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "L'Estonie va fermer sa frontière avec la Russie après une tentative de sabotage contre une usine de drones",
-      "link": "https://www.rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones",
-      "date": "Sun, 15 Nov 2026 17:25:04 GMT",
-      "description": "L'Estonie a annoncé, dimanche 15 novembre 2026, qu'elle allait entièrement fermer sa frontière avec la Russie après avoir déjoué in extremis une tentative d'incendie d'une usine de drones, orchestrée selon elle par le renseignement militaire russe GRU. La fermeture est prévue au 1er décembre.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
@@ -721,6 +681,14 @@
       "description": "Pékin entend faire du sommet de la Coopération économique Asie-Pacifique (APEC), qui doit se tenir les 18 et 19 novembre, une vitrine de sa puissance dans le but de bâtir « un nouveau type de mondialisation sous son égide », assure la spécialiste de la Chine, dans un entretien au « Monde ».",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Voisins de la Chine Londres ‘mega' ambassade lutte pour vendre des appartements",
+      "link": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
+      "date": "Sun, 15 Nov 2026 17:00:06 GMT",
+      "description": "Pékin possède une centaine d'appartements près de la tour de Londres, provoquant des craintes de surveillance, de nuisances et de problèmes de location",
+      "source": "Financial Times",
+      "category": "Économie"
     },
     {
       "title": "Il y a 30 ans, 'Space Jam' a proposé le meilleur moyen de résoudre les différends interplanétaires",
@@ -771,14 +739,6 @@
       "category": "France"
     },
     {
-      "title": "Francophonie: à Phnom Penh, dernières tractations avant la désignation du prochain secrétaire général",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-%C3%A0-phnom-penh-derni%C3%A8res-tractations-avant-la-d%C3%A9signation-du-prochain-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
-      "date": "Sun, 15 Nov 2026 15:17:18 GMT",
-      "description": "Après l'ouverture, ce dimanche, du XXe sommet de la Francophonie à Phnom Penh, au Cambodge, la question demeure : qui sera le prochain ou la prochaine secrétaire générale de l'Organisation internationale de la Francophonie (OIF) ? Emmanuel Macron a de nouveau parlé à son homologue rwandais, Paul Kagame : Kigali maintient la candidature de Louise Mushikiwabo, tandis que la RDC envisage déjà un report de voix si les dirigeants passent au vote. À quelques heures du huis clos, RFI a recueilli les récits du chef de la diplomatie rwandaise et de sources au sein de la diplomatie française, ainsi que de l'exécutif congolais. Ils éclairent le scénario sur lequel misait Paris, le rôle de la Mauritanie et les derniers calculs des délégations.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Pourquoi le 'Blaze Star' n'a pas encore explosé ? Les astronomes pèsent sur ce à quoi s'attendre",
       "link": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
       "date": "Sun, 15 Nov 2026 15:00:00 +0000",
@@ -808,7 +768,7 @@
       "date": "Sun, 15 Nov 2026 13:37:45 GMT",
       "description": "Han Won-seok, 34 ans, a avoué utiliser une caméra cachée et AI pour obtenir une marque presque parfaite sur le test significatif.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Naviguer dans l'orbite lunaire en utilisant des ombres et un compteur de puissance",
@@ -1051,18 +1011,10 @@
       "category": "Monde"
     },
     {
-      "title": "Les stocks de construction des centres de données perdent 4,2 tn en raison de l'essor du commerce d'IA",
-      "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
-      "date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "description": "Actions dans les entreprises AI «picks et pelles» frappées par la vente de technologie",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Le Nouveau Mexique voulait des garderies gratuites pour tous. C'est ce qui a marché — et ce qui n'a pas",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "title": "Les électeurs à mi-parcours ont mis fin à la domination de longue date du GOP dans les parlements des États",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
       "date": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "description": "Il y a un an, en novembre, le Nouveau-Mexique est devenu le premier État à offrir des services gratuits de garde d'enfants à chaque famille admissible, quel que soit son revenu.",
+      "description": "Dans plusieurs États, les démocrates ont pris le contrôle de législatures divisées et ont affaibli la domination du GOP dans d'autres. Questions à l'ordre du jour: Plus d'accès aux soins de santé, nouvelles limites aux bons scolaires.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -1081,14 +1033,6 @@
       "description": "C'était comme entrer dans le futur.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Les calendriers d'aventure beauté peuvent coûter des centaines, mais sont-ils avantageux pour l'argent?",
-      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 00:01:07 GMT",
-      "description": "Les calendriers de beauté sont devenus un agrafe de Noël et sont devenus particulièrement populaires auprès des clientes.",
-      "source": "BBC News",
-      "category": "Économie"
     },
     {
       "title": "Collision de deux trains en Egypte tue au moins sept",
@@ -1499,6 +1443,102 @@
       "category": "Exploration"
     },
     {
+      "title": "Rocket de la firme Boeing-Lockheed échoue en mi-vol, détruit la charge utile des satellites Amazon",
+      "link": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 16 Nov 2026 04:27:00 GMT",
+      "description": "Une fusée Vulcaine a souffert d'une anomalie environ 10 minutes après le décollage de la Floride, n'ayant pas livré 40 satellites Amazon Leo en orbite. C'était le premier échec total de la mission dans l'histoire de la compagnie.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Israël: le camp Eisenkot passe à l'offensive à la Knesset et ferme toujours plus la porte à Netanyahu",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261116-isra%C3%ABl-le-camp-eisenkot-passe-%C3%A0-l-offensive-%C3%A0-la-knesset-et-ferme-toujours-plus-la-porte-%C3%A0-netanyahu",
+      "date": "Mon, 16 Nov 2026 04:06:05 GMT",
+      "description": "En Israël, une semaine politique capitale s'ouvre ce lundi 16 novembre à la Knesset. Les négociations pour la formation d’un gouvernement patinent. Gadi Eisenkot et son camp passent à l'offensive législative pour reprendre le contrôle de la Knesset au camp Netanyahu. Un véritable bras de fer institutionnel rythmé par plusieurs échéances décisives.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Pérou: en Amazonie, le pape Léon XIV appelle à écouter le «cri» de la terre et des pauvres",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261116-p%C3%A9rou-en-amazonie-le-pape-l%C3%A9on-xiv-appelle-%C3%A0-%C3%A9couter-le-cri-de-la-terre-et-des-pauvres",
+      "date": "Mon, 16 Nov 2026 04:03:06 GMT",
+      "description": "Avant de clore sa longue tournée en Amérique du Sud par une messe à Lima, au Pérou, lundi 16 novembre, le souverain pontife s'est rendu à Pucallpa, dans la forêt amazonienne, dimanche, où il a prononcé un discours très engagé dans lequel il a à la fois appelé à protéger la région et les peuples qui y vivent.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle au Cap-Vert: José María Neves rempile pour un second mandat de cinq ans",
+      "link": "https://www.rfi.fr/fr/afrique/20261116-pr%C3%A9sidentielle-au-cap-vert-jos%C3%A9-mar%C3%ADa-neves-rempile-pour-un-second-mandat-de-cinq-ans",
+      "date": "Mon, 16 Nov 2026 04:02:42 GMT",
+      "description": "Les résultats provisoires de la présidentielle organisée dimanche 15 novembre au Cap-Vert donnent la victoire au chef de l'État sortant dès le premier tour. Considéré comme le favori du scrutin, le candidat du PAICV a recueilli plus de 63% des suffrages, selon des résultats provisoires. Arrivée en deuxième position avec 31,4% des voix, sa principale concurrente, l'avocate et ancienne ministre de la Justice Joana Rosa Amado, a concédé sa défaite.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Le pape Léo vole à la messe dans le Papacoptero",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 03:54:04 +0000",
+      "description": "Pope Leo a été filmé volant dans le cockpit d'un hélicoptère de l'armée pour célébrer la messe",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le ralentissement de la Chine s'accentue en octobre comme la production industrielle, les ventes au détail, les estimations d'investissements ratés",
+      "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "date": "Mon, 16 Nov 2026 03:53:59 GMT",
+      "description": "Une dépendance croissante à l'égard de la demande extérieure expose davantage la Chine aux chocs à l'étranger à mesure que la dynamique intérieure s'estompe, disent les analystes.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le feu de magasin tue au moins 11 personnes à Phuket",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 03:51:43 +0000",
+      "description": "Le feu a englouti des bâtiments en Thaïlande ville touristique populaire de Patong, tuant plusieurs personnes et blessant beaucoup d'autres.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "«Les Nuits blanches» de Urszula Honek, spectres ou ne pas être",
+      "link": "https://www.liberation.fr/culture/livres/les-nuits-blanches-de-urszula-honek-spectres-ou-ne-pas-etre-20261116_HDZFTNFXTFEADF4B4WUT22J7RM/",
+      "date": "Mon, 16 Nov 2026 03:41:00 +0000",
+      "description": "Dans une langue atmosphérique, la romancière promène ses personnages, riches, vadrouilleurs, dans un tout petit bout du pays, à la frontière entre morts et vivants.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les appels du monde de la technologie pour le retour de Jensen Huang à Nvidia se multiplient",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+      "date": "Mon, 16 Nov 2026 03:35:09 GMT",
+      "description": "Appels au retour de Jensen Huang alors que le PDG de Nvidia est en croissance, avec des dirigeants technologiques et des actionnaires importants soutenant un retour potentiel après sa démission.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le seigneur mexicain de la drogue Miguel Angel Felix Gallardo meurt 80 ans",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 16 Nov 2026 03:21:56 GMT",
+      "description": "Connu sous le nom de 'Boss of Boss', il était le chef de l'ensemble puissant Guadalajara Cartel dans les années 80 avant que son arrestation ne rompe son organisation de drogue.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Le député australien \"pleine de gratitude\" à son départ de l'hôpital après une prétendue attaque automobile",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 16 Nov 2026 03:09:49 GMT",
+      "description": "La députée a perdu ses deux jambes après l'attaque présumée à l'extérieur de son bureau électoral il y a quatre semaines.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "La retraite des forces yéménites quitte Houthis pour contrôler la voie navigable de la mer Rouge",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 16 Nov 2026 03:08:31 GMT",
+      "description": "Les forces soutenues par l'Arabie saoudite disent qu'elles déplacent des troupes du détroit de Bab al-Mandab pour défendre la capitale intérimaire Aden.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "Investisseurs Sue puce géant Intel après 29% de plongée en actions",
       "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 16 Nov 2026 03:04:01 GMT",
@@ -1515,12 +1555,12 @@
       "category": "Économie"
     },
     {
-      "title": "Le ralentissement de la Chine s'accentue en octobre comme la production industrielle, les ventes au détail, les estimations d'investissements ratés",
-      "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-      "date": "Mon, 16 Nov 2026 02:52:48 GMT",
-      "description": "Une dépendance croissante à l'égard de la demande extérieure expose davantage la Chine aux chocs à l'étranger à mesure que la dynamique intérieure s'estompe, disent les analystes.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "L'ANASE, la Chine n'arrive pas à s'entendre sur le code de la mer de Chine méridionale",
+      "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 02:46:35 +0000",
+      "description": "Les dirigeants de l'Asie du Sud-Est dénoncent également la violence au Myanmar et interdisent aux dirigeants du pays d'assister aux sommets du bloc.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "France-Turquie : les Bleus renouent avec la victoire, mais exposent une nouvelle fois leurs lacunes",
@@ -1539,20 +1579,12 @@
       "category": "Monde"
     },
     {
-      "title": "Les appels du monde de la technologie pour le retour de Jensen Huang à Nvidia se multiplient",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-      "date": "Mon, 16 Nov 2026 01:54:56 GMT",
-      "description": "Appels au retour de Jensen Huang alors que le PDG de Nvidia est en croissance, avec des dirigeants technologiques et des actionnaires importants soutenant un retour potentiel après sa démission.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Un député australien qui a perdu les deux jambes lors d'une attaque présumée d'une voiture sortie de l'hôpital",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 16 Nov 2026 01:53:19 GMT",
-      "description": "Le député aurait été écrasé par une voiture devant son bureau électoral il y a quatre semaines.",
-      "source": "BBC News",
-      "category": "Monde"
+      "title": "En Amazonie, Léon XIV dénonce «l’abandon» des populations autochtones et lance une alerte pour la préservation de la nature",
+      "link": "https://www.lefigaro.fr/actualite-france/en-amazonie-leon-xiv-denonce-l-abandon-des-populations-autochtones-et-lance-une-alerte-pour-la-preservation-de-la-nature-20261116",
+      "date": "Mon, 16 Nov 2026 02:00:00 +0100",
+      "description": "La dernière étape du pape au Pérou l’a conduit dimanche de Cusco, dans les Andes, à Pucallpa, en Amazonie péruvienne, une journée haute en couleurs marquée par de fortes prises de position.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Le Pape condamne les assassinats de dirigeants autochtones péruviens, la déforestation d'Amazonie",
@@ -1627,28 +1659,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Le fondateur du cartel de Guadalajara meurt à l'hôpital après des décennies de prison",
-      "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 00:51:23 +0000",
-      "description": "Miguel Angel Felix Gallardo a été condamné pour le meurtre en 1985 d'un agent américain de répression de la drogue et d'un pilote mexicain.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Vendredi noir et déclarations de revenus arnaques - ne tombez pas pour ces",
       "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 16 Nov 2026 00:50:39 GMT",
       "description": "Des dizaines de milliers d'escroqueries sont signalées à HMRC - donc il a des conseils sur la façon de repérer une fausse demande et le remboursement.",
       "source": "BBC News",
       "category": "Économie"
-    },
-    {
-      "title": "Après un arrêt au sol à l'échelle nationale, les États-Unis sont confrontés à des questions d'infrastructure aéronautique",
-      "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 00:45:48 +0000",
-      "description": "Trump a demandé 50 milliards de dollars pour des améliorations, mais les législateurs démocratiques demandent la transparence avant de dépenser davantage.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Les avantages et les inconvénients de l'utilisation de votre téléphone comme un hotspot mobile",
@@ -1667,28 +1683,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Les Tchèques se rallient contre la menace du gouvernement à l'indépendance des médias",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 00:26:32 +0000",
-      "description": "Les Tchèques se sont ralliés à Prague au sujet des plans visant à transférer le financement des médias publics à l'État, ce qui a suscité des craintes quant à l'influence du gouvernement.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "10 choses que l'application Notes de votre iPhone peut faire autrement que de prendre des notes",
       "link": "https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/",
       "date": "Mon, 16 Nov 2026 00:15:00 +0000",
       "description": "Apple Notes peut être beaucoup plus qu'un endroit pour des bouts aléatoires d'information une fois que vous apprenez tout ce dont il est capable.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Saint-Denis : le proviseur du lycée Paul-Éluard placé en «autorisation d’absence» après des menaces",
-      "link": "https://www.lefigaro.fr/actualite-france/saint-denis-le-proviseur-du-lycee-paul-eluard-place-en-autorisation-d-absence-apres-des-menaces-20261116",
-      "date": "Mon, 16 Nov 2026 00:01:43 +0100",
-      "description": "Le proviseur est contesté par une partie du personnel de son établissement pour avoir, selon ses détracteurs, fait intervenir la police dans le lycée. Son départ temporaire est salué comme une «victoire» par des enseignants mobilisés.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Skeleton trouvé au Danemark vient d'un homme qui a assisté à l'arrivée de l'agriculture",
@@ -2267,6 +2267,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Indiana Jones au marché des poissons : David Ebert sur une vie passée à la recherche de « requins perdus »",
+      "link": "https://news.mongabay.com/2026/11/indiana-jones-at-the-fish-market-david-ebert-on-a-life-spent-searching-for-lost-sharks/",
+      "date": "16 Nov 2026 03:38:04 +0000",
+      "description": "S'il y a une Indiana Jones du monde des requins, c'est David Ebert. Connu sous le nom de \"Lost Shark Guy\", le biologiste marin californien a passé sa carrière à parcourir le globe à la recherche d'espèces peu ou inconnues de requins et de leurs cousins, les rayons et les chimères. Il commence souvent par une photographie ou un musée [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Cible par al-Shabaab pour la défense des écosystèmes kényans : le fondateur de la Fondation reçoit un prix",
       "link": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
       "date": "15 Nov 2026 02:07:52 +0000",
@@ -2303,14 +2311,6 @@
       "link": "https://news.mongabay.com/short-article/2026/11/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us/",
       "date": "13 Nov 2026 17:41:56 +0000",
       "description": "Un nombre record de feux de forêt ont brûlé plus de 14 062 milles carrés aux États-Unis cette année, laissant derrière eux des arbres carbonisés et de la végétation brûlée. Mais les impacts qu'ils ont eus sur les cours d'eau et les rivières qui fournissent de l'eau potable aux collectivités urbaines et rurales du pays sont moins évidents. Après un feu de forêt brûle un bassin versant, la pluie [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Il n'y a aucun substitut pour sortir de la classe et entrer dans la nature (analyse)",
-      "link": "https://news.mongabay.com/2026/11/theres-no-substitute-for-getting-out-of-the-classroom-and-into-nature-analysis/",
-      "date": "13 Nov 2026 16:56:05 +0000",
-      "description": "Diriger un groupe d'étudiants en écologie sur un sentier à travers la forêt derrière le Merrimack College, à North Andover, Massachusetts, États-Unis, où j'enseigne la biologie à temps partiel comme professeur adjoint, je repère un serpent jarretier. Comme il commence à ramper rapidement, j'attrape le serpent par sa queue. Des étudiants excités se rassemblent pour [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
