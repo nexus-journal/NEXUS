@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T23:39:26.170505+00:00",
+  "updated_at": "2026-11-16T00:35:03.366804+00:00",
   "count": 288,
   "articles": [
     {
@@ -136,7 +136,7 @@
       "date": "Thu, 12 Nov 2026 20:10:02 +0000",
       "description": "Pour Katie Spicer, saisir l'occasion et le défi a conduit à des sauts géants pendant son séjour à la NASA. Maintenant que la NASA dirige l'intégration des atterrisseurs pour Blue Origin, Blue Moon Mark 2 atterrisseur, l'un des systèmes d'atterrissage humain fournis commercialement pour le programme de NASA, Spicer aura son empreinte sur l'histoire. Spicer travaille dans le [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -168,21 +168,13 @@
       "date": "Thu, 12 Nov 2026 19:12:49 +0000",
       "description": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de la NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de la NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Un robot a assemblé une structure dans l'espace pour la première fois",
       "link": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Thu, 12 Nov 2026 19:00:00 +0000",
       "description": "La fabrication autonome en orbite sera la clé de toute économie spatiale future, et les chercheurs ont fait le premier pas avec un robot construisant une antenne radio sans assistance astronautique",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
-      "title": "L'économie, et non les sommets climatiques, dictera la transition nette-zéro",
-      "link": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Thu, 12 Nov 2026 18:20:00 +0000",
-      "description": "Les dirigeants mondiaux à la COP31 montrent peu d'enthousiasme pour l'élimination progressive des combustibles fossiles, mais la chute des coûts de l'énergie renouvelable sera le facteur clé dans la rapidité avec laquelle nous pouvons réagir au réchauffement climatique.",
       "source": "New Scientist",
       "category": "Sciences"
     },
@@ -307,6 +299,30 @@
       "category": "France"
     },
     {
+      "title": "Le seigneur mexicain de la drogue Miguel Angel Felix Gallardo meurt 80 ans",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 23:52:10 GMT",
+      "description": "Connu sous le nom de 'Boss of Boss', il était le chef de l'ensemble puissant Guadalajara Cartel dans les années 80 avant que son arrestation ne rompe son organisation de drogue.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Brawl éclate au Brésil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 23:46:37 +0000",
+      "description": "Un combat de poing a éclaté entre les joueurs adverses lors de la finale de la Ligue des moins de 20 ans du Brésil.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Voici ce qui se passe réellement si votre batterie portable est complètement drainée",
+      "link": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
+      "date": "Sun, 15 Nov 2026 23:45:00 +0000",
+      "description": "Tout en laissant votre ordinateur portable à court de batterie peut sembler inoffensif, il pourrait faire plus de dommages à long terme à votre appareil que vous ne l'attendiez.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "La startup indienne Bharat Semi débarque 24 millions de dollars autour du marché mondial des capteurs d'IA",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "date": "Sun, 15 Nov 2026 23:30:00 +0000",
@@ -371,10 +387,10 @@
       "category": "Technologie"
     },
     {
-      "title": "« Victime de la route » a précédé la collision d'un navire de croisière de la Nouvelle-Orléans, dit NTSB",
+      "title": "Défaillance de la conduite avant collision du navire de croisière de la Nouvelle-Orléans, dit NTSB",
       "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 15 Nov 2026 22:57:27 GMT",
-      "description": "Les conclusions préliminaires des enquêteurs du Bureau national de la sécurité des transports indiquent que le pétrolier a subi une défaillance de la direction avant d'entrer en collision avec le navire de croisière vendredi.",
+      "description": "Les conclusions préliminaires des enquêteurs du Bureau national de la sécurité des transports suggèrent que le pétrolier a subi une «accident de direction» avant d'entrer en collision avec le navire de croisière vendredi.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -419,14 +435,6 @@
       "category": "Monde"
     },
     {
-      "title": "Comment un enfant de 13 ans aide à résoudre une énorme limitation du panneau solaire",
-      "link": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
-      "date": "Sun, 15 Nov 2026 22:15:00 +0000",
-      "description": "La conception abordable de panneaux solaires bricolage de cet adolescent attire l'attention nationale, et pour de bonnes raisons.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Australie, Canada, Italie et Royaume-Uni exhortent Israël à autoriser l'aide à Gaza",
       "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
       "date": "Sun, 15 Nov 2026 22:06:38 +0000",
@@ -443,14 +451,6 @@
       "category": "Économie"
     },
     {
-      "title": "Comment obtenir des avertissements sur les caméras de vitesse dans Apple CarPlay",
-      "link": "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/",
-      "date": "Sun, 15 Nov 2026 22:00:00 +0000",
-      "description": "Que vous utilisiez Apple Maps, Google Maps ou Waze dans CarPlay, assurez-vous que ces paramètres sont activés pour recevoir des avertissements sur les caméras de vitesse à proximité.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Face à la Turquie, les Bleus par une toute petite porte",
       "link": "https://www.liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ/",
       "date": "Sun, 15 Nov 2026 21:57:57 +0000",
@@ -464,22 +464,6 @@
       "date": "Sun, 15 Nov 2026 21:56:35 +0000",
       "description": "\"Jensen est Nvidia, n'est-ce pas ? Et tellement de cette économie est sur Nvidia.\"",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le chef du Trésor américain demande à l'étranger de diriger Nvidia",
-      "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 21:47:47 +0000",
-      "description": "Scott Bessent donne au conseil d'administration de Nvidia 10 jours pour démontrer la conformité de l'entreprise aux contrôles à l'exportation américains.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Comment savoir si votre voiture supporte Apple CarPlay",
-      "link": "https://www.engadget.com/2313909/how-to-tell-if-car-supports-apple-carplay/",
-      "date": "Sun, 15 Nov 2026 21:45:00 +0000",
-      "description": "Déterminer si votre voiture est compatible avec Apple CarPlay est assez simple. Si la vôtre n'est pas, il y a des façons d'ajouter CarPlay à votre véhicule.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -515,43 +499,11 @@
       "category": "Monde"
     },
     {
-      "title": "Yémen Houthis libéré unilatéralement 600 détenus de guerre",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 21:19:08 +0000",
-      "description": "Yémen Houthis ont libéré 600 personnes emprisonnées pendant la guerre civile du pays.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Les Tchèques se rallient contre le plan de changement de financement des médias publics",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 21:03:40 GMT",
-      "description": "Les manifestants disent que cette mesure étouffera la liberté des médias, tandis que le gouvernement insiste sur la nécessité de réduire les coûts pour les radiodiffuseurs.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Au revoir, trop de tourisme ? Voyages durables",
       "link": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 15 Nov 2026 20:57:00 GMT",
       "description": "Alors que le tourisme est en plein essor en Amérique latine, d'autres formes de voyage gagnent du terrain. Rendre vos vacances plus durables signifie repenser qui appelle les tirs, qui investit et qui en profite.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Photos: Le pape Leo visite les régions amazoniennes et andines pendant 12 jours",
-      "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 20:54:13 +0000",
-      "description": "Le pape a appelé à la préservation des traditions autochtones au Pérou alors qu'il termine une tournée de 12 jours en Amérique latine.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Les Palestiniens récupèrent les côtes de Gaza avec un bain pour l'espoir",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 20:50:15 +0000",
-      "description": "Pour la première fois depuis plus de trois ans, la Fédération de natation de Gaza a organisé un concours.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -1259,14 +1211,6 @@
       "category": "Sciences"
     },
     {
-      "title": "SpaceX prend l'étage supérieur de la fusée Starship en premier historique",
-      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-      "date": "Sat, 14 Nov 2026 23:10:14 GMT",
-      "description": "Le Starship Test Flight 15 a marqué la première fois que la compagnie d'Elon Musk tentait d'attraper le booster et l'étage supérieur de la fusée.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Les scientifiques découvrent un paradoxe bizarre parmi les pingouins menacés",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
       "date": "Sat, 14 Nov 2026 22:42:52 EST",
@@ -1675,12 +1619,68 @@
       "category": "Exploration"
     },
     {
+      "title": "10 choses que l'application Notes de votre iPhone peut faire autrement que de prendre des notes",
+      "link": "https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/",
+      "date": "Mon, 16 Nov 2026 00:15:00 +0000",
+      "description": "Apple Notes peut être beaucoup plus qu'un endroit pour des bouts aléatoires d'information une fois que vous apprenez tout ce dont il est capable.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'économie japonaise se contracte de façon inattendue au troisième trimestre en raison de l'augmentation des coûts énergétiques",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "date": "Mon, 16 Nov 2026 00:11:25 GMT",
+      "description": "Les subventions à l'énergie accordées aux ménages auraient expiré en septembre, exposant ainsi l'économie à la hausse des prix de l'énergie provoquée par la guerre en Iran.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Zambie Le boom du cuivre attire des milliards d'investissements, mais qui en profite ?",
+      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 00:04:28 +0000",
+      "description": "Les droits des travailleurs, les préoccupations environnementales et les entreprises locales restent au centre du débat.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Eisenkot dit que Netanyahu peut't rester Israël PM au milieu d'un vote supposé se mêler",
+      "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 00:01:45 +0000",
+      "description": "Des membres du parti arabe auraient été arrêtés avant les élections israéliennes sur la base d'éléments de preuve non fondés provenant du bureau du Premier Ministre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Saint-Denis : le proviseur du lycée Paul-Éluard placé en «autorisation d’absence» après des menaces",
       "link": "https://www.lefigaro.fr/actualite-france/saint-denis-le-proviseur-du-lycee-paul-eluard-place-en-autorisation-d-absence-apres-des-menaces-20261116",
       "date": "Mon, 16 Nov 2026 00:01:43 +0100",
       "description": "Le proviseur est contesté par une partie du personnel de son établissement pour avoir, selon ses détracteurs, fait intervenir la police dans le lycée. Son départ temporaire est salué comme une «victoire» par des enseignants mobilisés.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Skeleton trouvé au Danemark vient d'un homme qui a assisté à l'arrivée de l'agriculture",
+      "link": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Mon, 16 Nov 2026 00:01:00 +0000",
+      "description": "Clues sur le régime alimentaire de l'homme de Rødhals, qui a vécu il y a environ 6000 ans, donnent à penser qu'il a vécu l'un des changements les plus révolutionnaires de l'histoire humaine",
+      "source": "New Scientist",
+      "category": "Sciences"
+    },
+    {
+      "title": "La guerre d'Iran en direct : Téhéran avertit qu'elle pourrait frapper avant une autre attaque américaine",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "description": "L'armée yéménite dit qu'elle « repositionne » des troupes loin du détroit de Bab al-Mandeb et d'autres zones côtières clés.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Qu'est-ce qui provoque une chute soudaine du pourcentage de batterie du téléphone?",
+      "link": "https://www.engadget.com/2313940/phone-battery-percentage-suddenly-drops/",
+      "date": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "description": "Fatigué de regarder la batterie de votre téléphone sauter du vert au rouge ? Il est temps de commencer à dépanner ce qui cause une chute soudaine du pourcentage de votre batterie.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Dans un premier temps, deux CCA volent Air Combat Maneuvers utilisant le logiciel d'autonomie",
@@ -1928,7 +1928,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "description": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "«A l'avant de son temps: l'IA aide à débloquer les découvertes cachées dans des cahiers d'hommes qui ont transformé les mathématiques",
@@ -1968,7 +1968,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "description": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont en orbite terrestre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement de [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Hermeus recrute Northrop Grumman pour le programme de drone Quarterhorse",
@@ -2144,7 +2144,7 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD: 2026 13 novembre – NGC... Aujourd'hui Archive APOD Soumissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. NGC 206 [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Un rebord mondial pour les mangroves",
@@ -2152,7 +2152,7 @@
       "date": "Fri, 13 Nov 2026 05:01:00 +0000",
       "description": "Après des décennies de déclin, ce type de forêt d'importance écologique fait son retour.",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "La puissance sinistre du vendredi 13 : comment cette date maligne affecte nos vies",
