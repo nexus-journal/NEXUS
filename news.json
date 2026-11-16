@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-16T22:05:31.275622+00:00",
+  "updated_at": "2026-11-16T22:58:15.931033+00:00",
   "count": 284,
   "articles": [
+    {
+      "title": "Moog marque 25 ans depuis ESPA Design Milestone: Innover Space Rideshare",
+      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+      "date": "Wed, 11 Nov 2026 15:53:57 +0000",
+      "description": "East Aurora, N.Y. — Moog Inc. (NYSE : MOG.A et MOG.B) marque 25 ans depuis que l'anneau Evolved Secondary Payload Adapter (ESPA) a terminé son examen critique de la conception en 2001. Le pionnier [...] The post Moog Marks 25 ans depuis ESPA Design Milestone: Innover Space Rideshare est apparu en premier sur SpaceNews .",
+      "source": "SpaceNews",
+      "category": "Exploration"
+    },
     {
       "title": "Analyse: Les annonces de contributions au financement du climat chutent de 70 % à mesure que les pays se réunissent à la COP31",
       "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
@@ -81,14 +89,6 @@
       "description": "Les États membres de l'ESA ont avancé des priorités stratégiques clés pour les ambitions spatiales de l'Europe, avec des discussions couvrant l'exploration spatiale, les relations ESA-UE et la préparation des prochaines réunions ministérielles.",
       "source": "ESA",
       "category": "Exploration"
-    },
-    {
-      "title": "Un Outlook négatif: Microsoft brouille pour corriger la panne d'email",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
-      "date": "Thu, 12 Nov 2026 20:26:24 -0500",
-      "description": "Au début du vendredi, après qu'Outlook était en baisse depuis plus de 12 heures, Microsoft a rapporté \"succès marginal.\"",
-      "source": "NPR",
-      "category": "Économie"
     },
     {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
@@ -483,6 +483,30 @@
       "category": "Exploration"
     },
     {
+      "title": "EN DIRECT - Présidentielle 2027 : revivez les temps forts du débat entre Le Pen, Mélenchon, Attal, Glucksmann et Retailleau",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-edouard-philippe-emmanuel-macron-ukraine-teddy-riner-20261116",
+      "date": "Mon, 16 Nov 2026 23:49:17 +0100",
+      "description": "Cinq candidats à la présidentielle ont débattu ce lundi soir des enjeux de solidarité, de pouvoir d’achat et de lutte contre la pauvreté.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : impôts, logement, associations… Ce qu’il faut retenir du grand débat entre cinq candidats sur la vie chère",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-impots-logement-associations-ce-qu-il-faut-retenir-du-grand-debat-entre-cinq-candidats-sur-la-vie-chere-20261116",
+      "date": "Mon, 16 Nov 2026 23:23:17 +0100",
+      "description": "Pendant près de trois heures, Jean-Luc Mélenchon, Raphaël Glucksmann, Gabriel Attal, Bruno Retailleau et Marine Le Pen ont croisé le fer sur LCI et TF1 sur les enjeux de solidarité, de pouvoir d’achat et de lutte contre la pauvreté.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT, débat de la présidentielle 2027 : les cinq candidats s’affrontent sur les retraites ; Marine Le Pen cible la Ligue des droits de l’homme, « un ramassis de gauchistes »",
+      "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
+      "date": "Mon, 16 Nov 2026 23:21:54 +0100",
+      "description": "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau débattent depuis 20 h 20 sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent notamment de ne pas financer leurs propositions.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Crise sociale : \"le gouvernement se met le doigt dans l'œil\" s'il anticipe une mobilisation moindre mardi, selon la CGT",
       "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
       "date": "Mon, 16 Nov 2026 22:56:59 +0100",
@@ -491,12 +515,12 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Débat présidentielle 2027 : Le Pen, Mélenchon, Attal, Glucksmann et Retailleau interrogés sur les retraites",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-edouard-philippe-emmanuel-macron-ukraine-teddy-riner-20261116",
-      "date": "Mon, 16 Nov 2026 22:53:02 +0100",
-      "description": "Cinq candidats à la présidentielle débattent ce lundi soir des enjeux de solidarité, de pouvoir d’achat et de lutte contre la pauvreté.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "United Airlines signale une panne de système affectant les vols au départ",
+      "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+      "date": "Mon, 16 Nov 2026 22:51:58 GMT",
+      "description": "United Airlines a déclaré lundi qu'une panne généralisée du système affecte les vols au départ.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
@@ -515,12 +539,124 @@
       "category": "France"
     },
     {
+      "title": "Le Pentagone des États-Unis rejette les allégations liant l'adjoint à un banquier Goldman Sachs",
+      "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 22:40:07 +0000",
+      "description": "Le Pentagone défend Steve Feinberg, au milieu de revendications à Bloomberg, il encourage les entrepreneurs de la défense à utiliser un banquier spécifique.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "United Airlines connaît une « panne de système généralisée »",
+      "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+      "date": "Mon, 16 Nov 2026 22:38:43 +0000",
+      "description": "United connaît apparemment une panne majeure quelques jours seulement après qu'un arrêt terrestre national a stoppé des milliers de vols.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les comptes Trump's ont échangé jusqu'à 97,5 millions de dollars à Nvidia alors que Huang a obtenu l'accès à la Maison Blanche",
+      "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+      "date": "Mon, 16 Nov 2026 22:37:45 GMT",
+      "description": "Les comptes Trump ont vendu jusqu'à 1 million de dollars en actions de Nvidia cinq jours après avoir été informé de la relation de Jensen Huang.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Berkshire Hathaway a levé sa participation dans Delta au troisième trimestre. Il a également taillé une banque clé",
+      "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "date": "Mon, 16 Nov 2026 22:22:52 GMT",
+      "description": "Berkshire Hathaway a ajouté à plusieurs positions de stock au troisième trimestre tout en tailler d'autres, dont Bank of America.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Nvidia rejette la campagne \"Bring Jensen Back\" alors que Trump soutient les efforts pour réintégrer l'ex-CEO",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 16 Nov 2026 22:21:27 GMT",
+      "description": "Un certain nombre de figures technologiques ont soutenu un effort demandant au géant des puces AI de rendre son travail à Jensen Huang.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Le pétrole brut des États-Unis baisse à 85 $ le baril pour récupérer les exportations du Moyen-Orient",
+      "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "date": "Mon, 16 Nov 2026 22:19:02 GMT",
+      "description": "Les prix du pétrole baissent à mesure que les prévisions projettent un excédent de pétrole au quatrième trimestre",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "B-1 pilotes pour obtenir plus d'heures de vol—dans les Jets d'affaires",
+      "link": "https://www.airandspaceforces.com/b-1-pilots-to-get-more-flying-hours-in-business-jets/",
+      "date": "Mon, 16 Nov 2026 22:16:47 +0000",
+      "description": "Les pilotes B-1B Lancer peuvent maintenant s'entraîner à l'aide de jets d'affaires légers pour perfectionner leurs compétences en vol dans le cadre d'un nouveau programme. Le post B-1 Pilots to Get More Flying Hours — in Business Jets est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
+      "title": "JPMorgan Chase dit que le bug logiciel temporaire affecte les banques de consommateurs",
+      "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "date": "Mon, 16 Nov 2026 22:14:47 GMT",
+      "description": "Eamon Javers de CNBC a signalé qu'il n'y avait aucune indication de mauvais acteurs impliqués et de même aucune indication qu'un bug impactait plusieurs banques en même temps.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "10 nombres qui pourraient changer comment vous voyez l'Asie",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+      "date": "Mon, 16 Nov 2026 22:14:09 +0000",
+      "description": "De la domination des semi-conducteurs aux nouveaux réseaux électriques, aux accords de défense et à la K-pop, la région, au-delà de la Chine, devient de plus en plus interconnectée et autonome.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Cyber géant Infoblox confirme l'incident de sécurité après l'accès des pirates «information de l'entreprise",
+      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "date": "Mon, 16 Nov 2026 22:12:31 +0000",
+      "description": "Le géant de la cybersécurité et de l'automatisation a dit qu'il travaillait avec des enquêteurs extérieurs pour comprendre l'ampleur de la brèche.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Pentagone échoue 9ème audit, affirme chemin vers des livres propres en 2028",
+      "link": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
+      "date": "Mon, 16 Nov 2026 22:11:50 +0000",
+      "description": "Bien que nous ayons fait des progrès... [avec] l'évolution la plus importante est notre changement dans la stratégie d'audit,\" le contrôleur du département Jules Hurst a dit aux journalistes la semaine dernière.",
+      "source": "Breaking Defense",
+      "category": "Défense"
+    },
+    {
+      "title": "Présidentielle 2027 : les moments forts du débat entre Mélenchon, Glucksmann, Le Pen, Attal et Retailleau",
+      "link": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/",
+      "date": "Mon, 16 Nov 2026 22:09:45 +0000",
+      "description": "Travailleurs précaires, crise du logement, associations en difficulté ou lutte contre les retraités pauvres, les cinq candidats, interrogés par des bénéficiaires des Restos du coeur, ont pu exposer, parfois dans la cacophonie, les principaux traits de leur programme lundi 16 novembre.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
       "title": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-[lestitres]",
       "date": "Mon, 16 Nov 2026 22:09:09 +0100",
       "description": "La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France\".",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Un collage montrant 49 trous de forage fabriqués par la NASA Curiosity Mars Rover",
+      "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "date": "Mon, 16 Nov 2026 22:05:23 +0000",
+      "description": "Désignation des marchandises Ce collage montre 49 trous de forage capturés par le rover Curiosity Mars de la NASA en novembre 2026. Chaque trou représente un échantillon prélevé à partir de roches sur la surface martienne ; Curiosity, situé au bout de son bras robotique, dépose des échantillons de roches pulvérisées dans son ventre qui analyse leur composition. Ces images [...]",
+      "source": "NASA",
+      "category": "Environnement"
+    },
+    {
+      "title": "L'Allemagne bat les Pays-Bas pour réserver une place en quart de finale",
+      "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 22:04:31 +0000",
+      "description": "Le côté de Jurgen Klopp surclasse le néerlandais 5-0 à Berlin pour obtenir la première place dans le groupe A2 de la Ligue des Nations de l'UEFA.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Toutes les questions auxquelles Nvidia devrait répondre mardi — mais probablement",
@@ -531,20 +667,28 @@
       "category": "Technologie"
     },
     {
-      "title": "Microsoft détaille comment trois problèmes combinés pour une panne mondiale",
+      "title": "Les clients signalent des difficultés d'accès aux services en ligne dans les grandes banques américaines",
+      "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+      "date": "Mon, 16 Nov 2026 22:01:40 GMT",
+      "description": "Bank of America, Chase, US Bank, Wells Fargo et Truist ont été listés par des utilisateurs qui ont connu des problèmes Les clients ont signalé des pannes de service et des difficultés à accéder à leurs comptes en ligne dans plusieurs grandes banques américaines et le service de transfert d'argent Zelle lundi après un problème technique à JPMorgan Chase a causé des effets d'entraînement dans tout le système financier. Chase a déclaré que les problèmes techniques n'étaient pas une question systémique et n'étaient pas le résultat de",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "Nasdaq 100 coule 2,7% en sombre début à la semaine charnière pour le commerce AI",
+      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+      "date": "Mon, 16 Nov 2026 21:58:59 GMT",
+      "description": "Les stocks de copeaux américains tombent alors que Nvidia maintient une pression de vente fraîche",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Trois petites défaillances combinées pour faire tomber Microsoft 365",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
       "date": "Mon, 16 Nov 2026 21:56:39 +0000",
       "description": "Un bug caché, le déplacement du trafic et la réduction de la capacité ont entraîné des défaillances en cascade.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "JPMorgan Chase dit que le bug logiciel temporaire affecte les banques de consommateurs",
-      "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "date": "Mon, 16 Nov 2026 21:55:19 GMT",
-      "description": "Eamon Javers de CNBC a signalé qu'il n'y avait aucune indication de mauvais acteurs impliqués et de même aucune indication qu'un bug impactait plusieurs banques en même temps.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "La Force aérienne travaille sur des aviateurs de la Défense de point d'entraînement",
@@ -574,7 +718,7 @@
       "title": "La panne de la banque peut n'avoir rien à voir avec votre banque",
       "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
       "date": "Mon, 16 Nov 2026 21:45:45 +0000",
-      "description": "Au milieu de centaines de rapports de banques américaines qui connaissent des pannes, JPMorganChase dit qu'un problème technique avec ses systèmes matériels sur site pourrait causer des transactions avec des banques extérieures.",
+      "description": "Au milieu de centaines de rapports de banques américaines qui connaissent des pannes, JPMorganChase dit qu'un problème technique avec ses systèmes matériels sur site peut causer des problèmes avec des transactions à l'extérieur des banques.",
       "source": "WIRED",
       "category": "Technologie"
     },
@@ -583,14 +727,6 @@
       "link": "https://www.liberation.fr/forums/ia-et-haute-gastronomie-a-lecole-ferrandi-une-revolution-sans-trahison-20261116_AGEHMXYKFRFGPEP2LEK6XEL75U/",
       "date": "Mon, 16 Nov 2026 21:45:00 +0000",
       "description": "Comment une institution comme l’école de cuisine Ferrandi s’empare-t-elle de l’intelligence artificielle ? Cécile Bourdon Huet, responsable du Centre étude et innovation pédagogique à Ferrandi Paris, explique comment l’intégration de l’IA enrichit les pratiques pédagogiques et facilite le quotidien des chefs, sans jamais oublier que le geste artisanal prime.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Débat présidentiel : Attal, Glucksmann et Mélenchon tombent sur Le Pen et ses mesures anti-associatives",
-      "link": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/",
-      "date": "Mon, 16 Nov 2026 21:40:23 +0000",
-      "description": "Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal débattent sur le pouvoir d’achat et la précarité ce lundi soir sur TF1 /LCI.",
       "source": "Libération",
       "category": "France"
     },
@@ -683,14 +819,6 @@
       "category": "Monde"
     },
     {
-      "title": "Nasdaq 100 coule 2,7% en sombre début à la semaine charnière pour le commerce AI",
-      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-      "date": "Mon, 16 Nov 2026 21:02:17 GMT",
-      "description": "Les stocks de copeaux américains tombent alors que Nvidia maintient une pression de vente fraîche",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Apple révèle de nouveaux contrôles de sécurité Mac comme les agents d'IA augmentent les risques de confidentialité",
       "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
       "date": "Mon, 16 Nov 2026 21:01:02 +0000",
@@ -699,27 +827,11 @@
       "category": "Technologie"
     },
     {
-      "title": "« Mélenchon met des cibles dans le dos des journalistes » : la couverture des manifestations vire au calvaire pour les reporters",
-      "link": "https://www.lefigaro.fr/medias/melenchon-met-des-cibles-dans-le-dos-des-journalistes-la-couverture-des-manifestations-vire-au-calvaire-pour-les-reporters-20261116",
-      "date": "Mon, 16 Nov 2026 21:00:23 +0100",
-      "description": "RÉCIT - La multiplication des mises en cause des médias par les dirigeants de LFI se concrétise sur le terrain. Les équipes des chaînes de télévision couvrant les mouvements des lycéens et des « gilets jaunes » sont souvent prises pour cible.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "La boucle sans fin de Manchester United",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
       "date": "Mon, 16 Nov 2026 21:00:22 +0000",
       "description": "Treize ans, huit gestionnaires permanents, près de 100 millions de livres dépensés pour le licenciement et l'embauche — et toujours pas d'embauche",
       "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "10 nombres qui pourraient changer comment vous voyez l'Asie",
-      "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
-      "date": "Mon, 16 Nov 2026 21:00:05 +0000",
-      "description": "De la domination des semi-conducteurs aux nouveaux réseaux électriques, aux accords de défense et à la K-pop, la région, au-delà de la Chine, devient de plus en plus interconnectée et autonome.",
-      "source": "The New York Times",
       "category": "Monde"
     },
     {
@@ -755,14 +867,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Le pétrole brut des États-Unis baisse à 85 $ le baril pour récupérer les exportations du Moyen-Orient",
-      "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-      "date": "Mon, 16 Nov 2026 20:51:28 GMT",
-      "description": "Les prix du pétrole baissent à mesure que les prévisions projettent un excédent de pétrole au quatrième trimestre",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Les clients des grandes banques signalent des difficultés d'accès aux comptes en ligne",
       "link": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
       "date": "Mon, 16 Nov 2026 20:49:32 +0000",
@@ -779,28 +883,12 @@
       "category": "Économie"
     },
     {
-      "title": "Anthropique chuchoteur de Wall Street: Rencontrer CFO Krishna Rao",
-      "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-      "date": "Mon, 16 Nov 2026 20:44:24 GMT",
-      "description": "L'IPO d'Anthropic met en avant le chef financier Krishna Rao.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "L'armée américaine prend des mesures urgentes pour construire des bunkers en béton au Moyen-Orient",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
       "date": "Mon, 16 Nov 2026 20:43:10 +0000",
       "description": "L'armée a reconnu dans un avis vendredi que les soldats américains au Moyen-Orient sont « actuellement en danger » en utilisant des abris de personnel faits de conteneurs d'expédition convertis.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Photos: Les résidents de la Californie se rassemblent pour regarder des vagues massives alimentées par El Nino",
-      "link": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 20:42:18 +0000",
-      "description": "Le National Weather Service avertit que des vagues de plus de 10 mètres de haut pourraient toucher certaines parties de la côte américaine de Californie.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Les actionnaires poursuivent Intel, son PDG et CFO après une chute de 28,6 pour cent en une journée",
@@ -819,14 +907,6 @@
       "category": "France"
     },
     {
-      "title": "London Palestine Film Festival revient pour 27ème année",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 20:36:25 +0000",
-      "description": "Depuis 1999, le Festival du film palestinien de Londres apporte des histoires palestiniennes au grand écran.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Narcobanditisme : pourquoi Amine Oualane et Karim Harrat sont condamnés à la réclusion criminelle à perpétuité",
       "link": "https://www.lemonde.fr/societe/article/2026/11/16/narcobanditisme-pourquoi-amine-oualane-et-karim-harrat-sont-condamnes-a-la-reclusion-criminelle-a-perpetuite_6812326_3224.html",
       "date": "Mon, 16 Nov 2026 20:34:19 +0100",
@@ -841,6 +921,14 @@
       "description": "Le professeur Michael Freeman dit à BBC Newsnight qu'il croit que les blessures du délinquant sexuel condamné sont compatibles avec un homicide.",
       "source": "BBC News",
       "category": "Monde"
+    },
+    {
+      "title": "Présidence des maires de France : pourquoi David Lisnard peut espérer un troisième mandat",
+      "link": "https://www.lefigaro.fr/politique/presidence-des-maires-de-france-pourquoi-david-lisnard-peut-esperer-un-troisieme-mandat-20261116",
+      "date": "Mon, 16 Nov 2026 20:32:31 +0100",
+      "description": "DÉCRYPTAGE - Malgré la croissance des oppositions auxquelles il est confronté, le maire de Cannes et candidat à la présidentielle compte plusieurs atouts pour poursuivre sa mission à la tête de la première association d’élus de France.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "La NASA reçoit le 16e avis consécutif sur l'audit financier",
@@ -873,14 +961,6 @@
       "description": "Philippe Diallo est le deuxième candidat à s'opposer à Gianni Infantino. Il est soutenu par l'UEFA, l'organe directeur européen du football, connu pour être critique envers Infantino.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Les clients signalent des difficultés d'accès aux services en ligne dans les grandes banques américaines",
-      "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-      "date": "Mon, 16 Nov 2026 20:21:59 GMT",
-      "description": "Bank of America, Chase, US Bank, Wells Fargo et Truist ont été listés par des utilisateurs qui ont connu des problèmes Les clients ont signalé des difficultés d'accès à leurs comptes en ligne dans certaines grandes banques américaines lundi. Les rapports font suite à une panne majeure de Microsoft qui a commencé vendredi et a duré des heures, ce qui a affecté les services y compris Outlook, Équipes et Assistant AI Copilot et a eu de graves répercussions partout dans le monde. Aussi vendredi, vieillissement",
-      "source": "The Guardian",
-      "category": "Économie"
     },
     {
       "title": "Mouvement social : la justice ordonne à l’Etat d’assurer «sans délai» l’accès aux cours dans deux lycées rennais",
@@ -995,14 +1075,6 @@
       "category": "France"
     },
     {
-      "title": "Le conseil d'administration de Nvidia n'envisage pas de ramener Jensen Huang à la tête du conseil d'administration.",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-      "date": "Mon, 16 Nov 2026 19:46:26 GMT",
-      "description": "Jensen Huang a démissionné de Nvidia la semaine dernière après 33 ans comme PDG.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Quand les humains voleront-ils sur le vaisseau ?",
       "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
       "date": "Mon, 16 Nov 2026 19:46:08 +0000",
@@ -1043,6 +1115,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Présidentielle 2027 : le duel Tondelier-Rousseau plonge les Verts dans une guerre ouverte",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-duel-tondelier-rousseau-plonge-les-verts-dans-une-guerre-ouverte-20261116",
+      "date": "Mon, 16 Nov 2026 19:25:55 +0100",
+      "description": "DÉCRYPTAGE - Pressée de retirer sa candidature jugée « dangereuse » pour rallier la « dynamique » de Jean-Luc Mélenchon, la patronne des Écologistes a promis de « traiter » le cas de sa camarade députée.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "L'UE punit Wildberries PDG Tatyana Kim, la femme la plus riche de Russie",
       "link": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Mon, 16 Nov 2026 19:18:00 GMT",
@@ -1059,44 +1139,12 @@
       "category": "Monde"
     },
     {
-      "title": "Le chatbot de Google Maps peut trouver des rendez-vous et appeler pour les réserver pour vous",
-      "link": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
-      "date": "Mon, 16 Nov 2026 19:17:00 +0000",
-      "description": "Le chatbot Ask Maps s'étend également à plus de 30 autres pays d'Europe.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Trump soutient le retour de l'ancien patron de Nvidia après le lancement de la campagne \"Bring Jensen Back\"",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 16 Nov 2026 19:16:52 GMT",
-      "description": "Un certain nombre de figures technologiques veulent que le conseil d'administration du géant des puces AI rende son travail à Jensen Huang.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Trump dit que l'ex-directeur général de Nvidia Jensen Huang-S liaison avec un espion chinois présumé n'a pas menacé la sécurité nationale",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "date": "Mon, 16 Nov 2026 19:12:02 +0000",
-      "description": "Trump a contredit les responsables du renseignement de son propre gouvernement, qui auraient conclu qu'Alice Huang était une espionne chinoise.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Regardez ! La pluie de météorites Leonid culmine ce soir",
       "link": "https://www.scientificamerican.com/article/look-up-the-leonids-meteor-shower-peaks-tonight/",
       "date": "Mon, 16 Nov 2026 19:06:00 +0000",
       "description": "Ces étoiles de tir sont connues pour être lumineuses, colorées et rapides",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "EN DIRECT, débat de la présidentielle 2027 sur LCI : baisse de la CSG, de la TVA, blocage des marges, taxation des méga héritages… les cinq candidats confrontent leurs mesures sur le pouvoir d’achat et la précarité",
-      "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-suivez-dans-notre-live-le-debat-entre-gabriel-attal-raphael-glucksmann-marine-le-pen-jean-luc-melenchon-et-bruno-retailleau-sur-la-vie-chere_6811633_6205049.html",
-      "date": "Mon, 16 Nov 2026 19:05:33 +0100",
-      "description": "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau débattent depuis 20 h 20 sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent notamment de ne pas financer leurs propositions.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "LeoLabs acquiert FishEye pour renforcer ses haches de défense antimissile",
@@ -1147,22 +1195,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Le président de la Fed, Kevin Warsh, souligne l'importance de l'IA pour l'économie, mais dit qu'elle pourrait «déceler»",
-      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "date": "Mon, 16 Nov 2026 18:46:07 GMT",
-      "description": "",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "« Les gens n’ont pas besoin de mon avis pour aller aux urnes» : Jean Reno ne se prononcera pas sur la présidentielle de 2027",
-      "link": "https://www.lefigaro.fr/culture/les-gens-n-ont-pas-besoin-de-mon-avis-pour-aller-aux-urnes-jean-reno-ne-se-prononcera-pas-sur-la-presidentielle-de-2027-20261116",
-      "date": "Mon, 16 Nov 2026 18:41:14 +0100",
-      "description": "Invité sur le plateau du 20.10 d’Anne-Sophie Lapix sur M6 dimanche 15 novembre, le comédien de 78 ans a présenté son prochain spectacle prévu en décembre au Théâtre Édouard VII à Paris avant d’exprimer sa volonté de ne pas prendre parti dans la bataille politique qui va se jouer l’année prochaine.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "À mesure que les radars exquis deviennent des cibles, les petits capteurs tactiques jouent un rôle plus important.",
       "link": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role/",
       "date": "Mon, 16 Nov 2026 18:39:22 +0000",
@@ -1201,6 +1233,14 @@
       "description": "Alors que l'industrie technologique pousse au retour, le président américain dit qu'il pense que Huang « a appris une grande leçon » Donald Trump a exprimé son soutien au retour de Jensen Huang en tant que chef de la direction de Nvidia, rejoignant Silicon Valley poids lourds pour soutenir le rétablissement de la tête de file AI. Le président américain a fait référence à une campagne de l'industrie de la technologie pour la réhabilitation de Huang, disant qu'un grand groupe de gens aimerait qu'il revienne. Continuez à lire...",
       "source": "The Guardian",
       "category": "Économie"
+    },
+    {
+      "title": "François de Canson, président de la région Sud : « Je veux lancer l’appel pour la République des territoires »",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/francois-de-canson-president-de-la-region-sud-je-veux-lancer-l-appel-pour-la-republique-des-territoires-20261116",
+      "date": "Mon, 16 Nov 2026 18:30:00 +0100",
+      "description": "INFO LE FIGARO - Lors de la 8e convention des maires du Sud organisée à Aix-en-Provence ce mardi, le président de la région Sud proposera de faire de son territoire la première collectivité test des Mécanos de la République, projet porté par Jean-Louis Borloo. Explications.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "L'Amérique ne produit pas de statistiques mondialisées. Qui ça ?",
@@ -1347,11 +1387,27 @@
       "category": "Monde"
     },
     {
+      "title": "Une nouvelle règle vise à combler les lacunes dans les exportations de puces",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042918/new-rule-aims-to-close-loophole-on-chip-exports",
+      "date": "Mon, 16 Nov 2026 17:08:48 -0500",
+      "description": "Le Département du commerce a publié une nouvelle règle visant à rendre plus difficile pour la Chine d'accéder aux puces informatiques les plus puissantes des États-Unis en utilisant des centres de données de pays tiers.",
+      "source": "NPR",
+      "category": "Économie"
+    },
+    {
       "title": "Ce qui a changé dans les films de James Bond au cours des décennies",
       "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Mon, 16 Nov 2026 17:07:00 GMT",
       "description": "En 1962, une femme qui boit du martini a sauvé le monde pour la première fois dans \"Dr. Non.\" Comme Robert Pattinson prend le rôle de 007, voici comment les films ont évolué.",
       "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "La Californie poursuit OpenAI sur les risques de piratage",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "date": "Mon, 16 Nov 2026 17:06:22 -0500",
+      "description": "Le procureur général de l'État a commencé à enquêter sur OpenAI après l'attaque Hugging Face et dit maintenant que cette attaque était \"entièrement prévisible\" en raison des mauvaises pratiques de sécurité d'OpenAI.",
+      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -1571,22 +1627,6 @@
       "category": "Monde"
     },
     {
-      "title": "Les yeux de la marine \"emploi opérationnel\" des programmes clés UUV, amiral dit",
-      "link": "https://breakingdefense.com/2026/11/navy-eyes-operational-employment-of-key-uuv-programs-admiral-says/",
-      "date": "Mon, 16 Nov 2026 14:47:07 +0000",
-      "description": "On s'attend à ce que la Marine reçoive son troisième prototype de navire Orca, selon un fonctionnaire de service.",
-      "source": "Breaking Defense",
-      "category": "Défense"
-    },
-    {
-      "title": "« Pour éviter un second tour Mélenchon-Le Pen, une primaire ouverte s’impose » : l’appel de 1 000 élus locaux",
-      "link": "https://www.lefigaro.fr/vox/politique/pour-eviter-un-second-tour-melenchon-le-pen-une-primaire-ouverte-s-impose-l-appel-de-1000-elus-locaux-20261116",
-      "date": "Mon, 16 Nov 2026 14:38:20 +0100",
-      "description": "TRIBUNE - Pour conjurer l’hypothèse d’un second tour opposant le Rassemblement national à La France insoumise, plus de 1 000 élus locaux de la droite et du centre appellent les candidats « qui rejettent le populisme » à accepter le principe d’une primaire ouverte.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "L'Italie soutient rapidement l'adhésion allemande au programme de chasse GCAP",
       "link": "https://www.defensenews.com/global/europe/2026/11/16/italy-backs-rapid-german-membership-path-into-gcap-fighter-program/",
       "date": "Mon, 16 Nov 2026 14:37:54 +0000",
@@ -1739,14 +1779,6 @@
       "category": "Économie"
     },
     {
-      "title": "Approuvez-vous le refus d'Édouard Philippe de participer à une primaire de la droite et du centre ?",
-      "link": "https://www.lefigaro.fr/politique/approuvez-vous-le-refus-d-edouard-philippe-de-participer-a-une-primaire-de-la-droite-et-du-centre-20261116",
-      "date": "Mon, 16 Nov 2026 10:58:20 +0100",
-      "description": "",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "L'Ukraine frappe le pont de Crimée en attaque record de drone",
       "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
       "date": "Mon, 16 Nov 2026 10:29:11 GMT",
@@ -1867,20 +1899,12 @@
       "category": "Environnement"
     },
     {
-      "title": "Chris Van Hollen dit qu'il peut battre Chuck Schumer. Voici son affaire.",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-      "date": "Mon, 16 Nov 2026 06:39:14 -0500",
-      "description": "Sen. Chris Van Hollen a expliqué à NPR's Morning Edition pourquoi il croit pouvoir vaincre Sen. Chuck Schumer et ce qu'il changerait au sujet du leadership démocratique du Sénat.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Le gaz commence à couler de Jackdaw après le feu vert du gouvernement",
       "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 16 Nov 2026 06:24:08 GMT",
       "description": "Le mois dernier, les ministres ont annoncé que le champ gazier de Jackdaw, situé à 150 milles à l'est d'Aberdeen, avait été approuvé après des années d'incertitude.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Sciences"
     },
     {
       "title": "Starwatch: Brilliance fugace de la pluie de météores Leonid pour atteindre le pic",
@@ -1913,14 +1937,6 @@
       "description": "Et il faudra peut-être bientôt payer le prix de son obsession",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "La dernière glace sur Puncak Jaya",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
-      "date": "Mon, 16 Nov 2026 05:00:00 +0000",
-      "description": "La glace près du sommet de la montagne indonésienne a rétréci à éparpillé des parcelles trop petites pour couler comme des glaciers.",
-      "source": "NASA",
-      "category": "Environnement"
     },
     {
       "title": "Mission «Volia»: comment l'armée française opère en Ukraine",
@@ -1995,14 +2011,6 @@
       "category": "Économie"
     },
     {
-      "title": "Code de consolidation: USAF cherche un intégrateur de logiciels pour KC-46 Tankers",
-      "link": "https://www.airandspaceforces.com/usaf-seeks-software-integrator-kc-46-tankers/",
-      "date": "Fri, 13 Nov 2026 20:57:55 +0000",
-      "description": "Le Centre de gestion du cycle de vie de la Force aérienne veut qu'un entrepreneur serve d'intégrateur pour tout le soutien logiciel des mises à niveau actuelles et futures de la flotte de pétroliers KC-46 Pegasus. The post Consolidating Code: USAF cherche un intégrateur logiciel pour KC-46 Tankers est apparu en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
-    },
-    {
       "title": "B-21 Raider effectue les essais de libération des premières armes",
       "link": "https://www.airandspaceforces.com/b-21-raider-first-weapons-release-test/",
       "date": "Fri, 13 Nov 2026 20:00:40 +0000",
@@ -2035,20 +2043,20 @@
       "category": "Sciences"
     },
     {
-      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
-      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
       "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
       "description": "Le 13 novembre 2026— Washington, D.C.—La Commercial Space Federation (CSF) est heureuse d'accueillir CesiumAstro comme son nouveau membre associé. Un leader mondial dans les solutions de connectivité avancées pour l'espace et [...] Le post Commercial Space Federation accueille CesiumAstro comme nouveau membre associé est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
+      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "El Niño a-t-il provoqué une rupture précoce du vortex polaire ?",
@@ -2155,14 +2163,6 @@
       "category": "Économie"
     },
     {
-      "title": "AST SpaceMobile presse cas pour développer son propre lanceur",
-      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
-      "date": "Fri, 13 Nov 2026 01:15:21 +0000",
-      "description": "Les dirigeants d'AST SpaceMobile ont exprimé leur confiance dans la capacité de l'entreprise à lancer un nouveau lanceur réutilisable en seulement deux ans malgré le scepticisme généralisé de l'industrie. Le post AST SpaceMobile presse le cas pour développer son propre lanceur est apparu en premier sur SpaceNews .",
-      "source": "SpaceNews",
-      "category": "Exploration"
-    },
-    {
       "title": "Comment observer l'éclipse solaire du 12 août 2026",
       "link": "https://astronomynow.com/2026/08/07/how-to-observe-the-12-august-2026-solar-eclipse/",
       "date": "Fri, 07 Aug 2026 13:39:23 +0000",
@@ -2177,6 +2177,14 @@
       "description": "Le \"super El Niño\" en cours devrait culminer à la fin de 2026 et pousser les températures... Le post ‘Simply stupéfiant': Le développement rapide 'super El Niño' sur la voie du pic en décembre est apparu en premier sur Carbon Brief .",
       "source": "Carbon Brief",
       "category": "Environnement"
+    },
+    {
+      "title": "La panne du système de United Airlines perturbe les départs quelques jours après le grand arrêt au sol",
+      "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "date": "2026-11-16T17:54:59-05:00",
+      "description": "Moins d'une semaine après un problème de communications et de radars de contrôle de la circulation aérienne, la FAA a arrêté les décollages à l'échelle nationale, les vols au départ de United Airlines sont perturbés par une panne. La compagnie aérienne a dit qu'elle travaillait pour faire remonter les choses le plus rapidement possible, mais sans beaucoup de détails sur la [...]",
+      "source": "The Verge",
+      "category": "Technologie"
     },
     {
       "title": "Dans Get Huge, la manosphère est là pour se faire des amis — avec des conséquences mortelles",
@@ -2219,12 +2227,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Les centres de données américains brûlent maintenant plus d'électricité qu'un pays de taille moyenne",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "date": "2026-11-16T15:27:58-05:00",
-      "description": "Les combustibles fossiles sont toujours la plus grande source d'électricité pour les centres de données hyperéchelle aux États-Unis, un nouvel article publié dans la revue Nature Sustainability shows. Ils brûlent probablement plus d'électricité collectivement que de nombreux pays, ce qui entraîne de graves émissions de gaz à effet de serre. Les maisons d'étude dans les installations hyperéchelle - [...]",
-      "source": "The Verge",
-      "category": "Technologie"
+      "title": "Pataxó Indigènes protestent contre l'arrestation d'une femme vice-chef au Brésil",
+      "link": "https://news.mongabay.com/short-article/2026/11/pataxo-indigenous-people-protest-the-arrest-of-a-female-vice-chief-in-brazils-bahia/",
+      "date": "16 Nov 2026 22:40:33 +0000",
+      "description": "Pataxó Les autochtones ont occupé l'entrée du poste de police civil dans la ville d'Eunápolis, dans l'extrême sud de l'État de Bahia du Brésil le 12 novembre. Il s'agissait d'une manifestation pacifique contre l'arrestation de deux dirigeants de Pataxó dans le territoire autochtone de Barra Velha. Erilsa Braz dos Santos, connue sous le nom d'Uruba Pataxó, vice-chef de [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
       "title": "Les groupes environnementaux contestent le recul des protections pour le plus petit marsouin du monde",
@@ -2263,14 +2271,6 @@
       "link": "https://news.mongabay.com/2026/11/drowned-in-fishing-gear-struck-by-boats-north-atlantic-right-whales-in-serious-trouble/",
       "date": "16 Nov 2026 14:48:11 +0000",
       "description": "Selon un nouveau recensement publié aujourd'hui, les baleines noires de l'Atlantique Nord planent près de l'extinction, et il en reste peut-être 382. Leur nombre est tombé de 389 en 2024, soit une baisse de 1,8 %, bien que le nombre de baleines noires femelles en âge de procréer soit demeuré stable à 73. L'enquête a été réalisée et publiée par des scientifiques de la Nouvelle-Angleterre [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Les leaders francophones doivent soutenir les militants de Mère Nature Cambodge emprisonnés (commentaire)",
-      "link": "https://news.mongabay.com/2026/11/francophone-leaders-must-support-jailed-mother-nature-cambodia-activists-commentary/",
-      "date": "16 Nov 2026 13:21:46 +0000",
-      "description": "Les lecteurs sont certainement familiers avec la Mère Nature Cambodia 5 (MNC5) après que Mongabay a publié son documentaire The Clearing en juillet 2025, répertoriant les espoirs, l'activisme et l'engagement du groupe. Le film détaille leur vie alors que libre sous caution en attendant un verdict de culpabilité probable pour \"Plotting contre le gouvernement\" en luttant pour protéger [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
