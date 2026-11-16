@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:15:10.911326+00:00",
+  "updated_at": "2026-11-16T17:24:54.367067+00:00",
   "count": 283,
   "articles": [
     {
@@ -70,7 +70,7 @@
       "title": "Analyse : Les émissions de CO2 provenant des combustibles fossiles devraient diminuer en 2026 alors que le conflit iranien touche l'utilisation du pétrole",
       "link": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
       "date": "Tue, 10 Nov 2026 01:01:00 +0000",
-      "description": "Les émissions de dioxyde de carbone (CO2) des combustibles fossiles et du ciment devraient diminuer d'environ 0,4 % en 2026 à 38,2 milliards... The post Analyse: Les émissions de CO2 des combustibles fossiles devraient diminuer en 2026 alors que le conflit iranien touche l'utilisation du pétrole est apparu en premier sur Carbon Brief .",
+      "description": "Les émissions de dioxyde de carbone (CO2) provenant des combustibles fossiles et du ciment devraient diminuer d'environ 0,4 % en 2026 à 38,2 milliards... The post Analyse: Les émissions de CO2 des combustibles fossiles devraient diminuer en 2026 alors que le conflit iranien touche l'utilisation du pétrole est apparu en premier sur Carbon Brief .",
       "source": "Carbon Brief",
       "category": "Environnement"
     },
@@ -99,6 +99,14 @@
       "category": "Défense"
     },
     {
+      "title": "La Force aérienne lance une nouvelle stratégie d'IA dans 15 zones de mission",
+      "link": "https://www.airandspaceforces.com/air-force-new-ai-strategy-15-mission-areas/",
+      "date": "Thu, 12 Nov 2026 23:07:17 +0000",
+      "description": "Le ministère de l'Aviation lance une stratégie de renseignement artificiel dans 15 zones de mission, y compris le renseignement, les ressources humaines et les opérations nucléaires, en utilisant un plan annoncé récemment par le ministère des Données en chef et l'agent d'IA. La Force aérienne lance une nouvelle stratégie d'IA dans 15 zones de mission est apparue en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
       "title": "Un Outlook négatif: Microsoft brouille pour corriger la panne d'email",
       "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
       "date": "Thu, 12 Nov 2026 20:26:24 -0500",
@@ -107,28 +115,12 @@
       "category": "Économie"
     },
     {
-      "title": "Nvidia a confirmé en privé qu'il pouvait suivre les puces pour lutter contre la contrebande, même si l'industrie contestait publiquement la faisabilité",
-      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "date": "Thu, 12 Nov 2026 20:16:24 +0000",
-      "description": "Des représentants de Nvidia ont déclaré au représentant de l'Illinois, Bill Foster, qu'il serait techniquement possible de mettre en œuvre les mesures de lutte contre la contrebande préconisées dans la Chip Security Act, Foster a déclaré à MIT Technology Review lors d'une entrevue de jeudi, alors qu'un groupe de l'industrie a affirmé qu'elles étaient potentiellement impossibles. Foster, un démocrate qui siège au comité...",
-      "source": "MIT Technology Review",
-      "category": "Technologie"
-    },
-    {
       "title": "L'espace UARX marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par la technologie DHV",
       "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
       "date": "Thu, 12 Nov 2026 20:00:00 +0000",
       "description": "Nigrán, Espagne Le 12 novembre 2026 – UARX Space a franchi une étape importante pour l'industrie spatiale espagnole avec le déploiement d'OSSIE-D, un véhicule de transfert orbital (OTV) conçu et [...] L'article UARX Space marque un tournant pour l'Espagne avec le Maiden Flight d'OSSIE-D, avec un sous-système de puissance complet fourni par DHV Technology est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
-    },
-    {
-      "title": "AI confirme une limite longtemps suspectée sur les avantages des ordinateurs quantiques",
-      "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
-      "description": "Une preuve de l'IA a rigoureusement démontré que l'utilisation d'ordinateurs quantiques n'aurait pas d'énormes avantages pour toute une classe de problèmes mathématiques, confirmant une conjecture extrêmement influente",
-      "source": "New Scientist",
-      "category": "Sciences"
     },
     {
       "title": "Quel rôle l'industrie joue-t-elle en Europe ?",
@@ -331,28 +323,20 @@
       "category": "Technologie"
     },
     {
+      "title": "Le Hamas dit que le commandant en chef tué dans une attaque aérienne israélienne",
+      "link": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+      "date": "Sun, 15 Nov 2026 05:16:00 +0000",
+      "description": "Un haut commandant du Hamas qui a aidé à planifier et superviser l'attaque du 7 octobre 2023 a été tué dans une attaque aérienne israélienne, selon le groupe militant palestinien.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
       "title": "Italie amendes Meta $887m pour accéder aux utilisateurs Android",
       "link": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
       "date": "Sun, 15 Nov 2026 02:02:01 GMT",
       "description": "L'amende est parmi les plus grandes une autorité italienne a imposé à un géant de la technologie et Meta dit qu'il prévoit de faire appel de la décision Italie Agence de protection des données a condamné Facebook société mère Meta €805m (887m) pour l'accès aux photos des utilisateurs de l'information sans leur consentement spécifique. Grâce à l'application Facebook pour les appareils Android, Meta a accédé à des photographies, vidéos et métadonnées connexes appartenant aux utilisateurs italiens",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "SpaceX a rendu sa fusée Starship samedi, mais il y a une prise",
-      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-      "date": "Sun, 15 Nov 2026 00:40:59 +0000",
-      "description": "C'était comme entrer dans le futur.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
-      "title": "Collision de deux trains en Egypte tue au moins sept",
-      "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "date": "Sun, 08 Nov 2026 17:51:17 GMT",
-      "description": "Le Président ordonne une enquête rapide après qu'un train a déraillé en collision à al-Ayyat à environ 50 km du Caire Sept personnes ont été tuées et au moins 125 blessées lors de la collision de deux trains dimanche au sud de la capitale égyptienne, le Caire, a déclaré les responsables. L ' accident s ' est produit dans le district d ' Al-Ayyat, dans la province de Giza, à environ 50 kilomètres au sud du Caire, lorsqu ' un train qui se rendait dans la province de Fayoum s ' est écrasé à l ' arrière d ' un train se dirigeant vers le sud.",
-      "source": "The Guardian",
-      "category": "Monde"
     },
     {
       "title": "Les scientifiques découvrent un paradoxe bizarre parmi les pingouins menacés",
@@ -432,14 +416,6 @@
       "date": "Sat, 14 Nov 2026 14:00:00 +0000",
       "description": "Une étude sur l'exposition aux incendies de forêt à Hawaïi a élaboré un nouveau plan de recherche et de soutien en santé publique après les catastrophes, mais le financement s'est asséché. Les organisateurs pourraient-ils le garder à flot ?",
       "source": "Grist",
-      "category": "Environnement"
-    },
-    {
-      "title": "La fermeture de la mine de sel sous-marine en Ohio soulève des préoccupations en matière de sécurité et d'approvisionnement pour l'hiver",
-      "link": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
-      "date": "Sat, 14 Nov 2026 13:00:45 GMT",
-      "description": "Il reste des questions sur la raison de la fuite, la sécurité de l'eau potable et les sources de sel pour les routes pendant l'hiver Lorsque l'eau a commencé à couler à travers une fissure dans le plafond d'une mine de sel de Morton en Ohio, la compagnie n'avait qu'une seule option : fermer la mine pour de bon. Pour les habitants du port de Fairport et des environs, cela signifie la perte de 77 emplois; mais pour la région plus large, qui dépend de ses réserves de sel pour garder les routes libres de glace et de neige",
-      "source": "The Guardian",
       "category": "Environnement"
     },
     {
@@ -571,12 +547,124 @@
       "category": "Exploration"
     },
     {
-      "title": "«On a massacré son innocence, on a bafoué sa dignité» : 20 et 14 ans de prison requis à l’encontre des parents de la «martyre de l’A10»",
-      "link": "https://www.lefigaro.fr/faits-divers/on-a-massacre-son-innocence-on-a-bafoue-sa-dignite-20-et-14-ans-de-prison-requis-a-l-encontre-des-parents-de-la-martyre-de-l-a10-20261116",
-      "date": "Mon, 16 Nov 2026 17:13:17 +0100",
-      "description": "Dans un réquisitoire à deux voix, le ministère public a dénoncé la «déshumanisation totale» qui s’est abattue sur une fillette de 4 ans. «Elle a été privée de tous les droits d’un enfant. Le droit de grandir, de s’épanouir, d’être protégée», ont fustigé les avocats généraux.",
+      "title": "\"Petite martyre de l'A10\" : vingt ans de réclusion ont été requis contre la mère d'Inass Touloub et quatorze ans contre son père",
+      "link": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/petite-martyre-de-l-a10-vingt-ans-de-reclusion-ont-ete-requis-contre-la-mere-d-inass-touloub-et-quatorze-ans-contre-son-pere_8285060.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 18:19:07 +0100",
+      "description": "Halima El Bakhti et Ahmed Touloub sont jugés depuis deux semaines devant la cour d'assises du Loir-et-Cher, respectivement pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\" de ces mêmes faits.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Grève du 17 novembre : à Paris, la manifestation ira de la place de la Nation à la place d’Italie",
+      "link": "https://www.lefigaro.fr/social/greve-du-17-novembre-a-paris-la-manifestation-ira-de-la-place-de-la-nation-a-la-place-d-italie-20261116",
+      "date": "Mon, 16 Nov 2026 18:14:21 +0100",
+      "description": "INFOGRAPHIE - Si l’intersyndicale avait initialement proposé un itinéraire reliant Invalides à la place de la Nation, elle a finalement convenu d’un «départ alternatif» avec la Préfecture de police de Paris.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Procès de l'assassinat du frère d'Amine Kessaci : deux figures du narcobanditisme marseillais condamnées à la perpétuité",
+      "link": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-de-l-assassinat-du-frere-d-amine-kessaci-deux-figures-du-narcobanditisme-marseillais-condamnees-a-la-perpetuite_8285081.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 18:13:20 +0100",
+      "description": "Brahim Chabane, demi-frère du militant engagé contre le narcotrafic Amine Kessaci, est l'une des victimes d'un triple homicide à Marseille en décembre 2020.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Des Andes à l’Amazonie, Léon XIV insiste sur la protection des peuples et de l’environnement : « Le cri de la terre et le cri des pauvres s’élèvent ensemble »",
+      "link": "https://www.lemonde.fr/international/article/2026/11/16/des-andes-a-l-amazonie-leon-xiv-insiste-sur-la-protection-des-peuples-et-de-l-environnement-le-cri-de-la-terre-et-le-cri-des-pauvres-s-elevent-ensemble_6812198_3210.html",
+      "date": "Mon, 16 Nov 2026 18:05:23 +0100",
+      "description": "Dimanche 15 novembre, pour l’avant-dernier jour de son voyage en Amerique latine, le pape est allé à la rencontre des peuples andins et amazoniens, menacés par les trafiquants de drogue et les exploitations minières ou forestières illégales.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Le chanteur Gims doit être jugé en décembre à Paris dans une affaire de corruption et de travail dissimulé, avec notamment quatre policiers",
+      "link": "https://www.franceinfo.fr/societe/justice/le-chanteur-gims-doit-etre-juge-en-decembre-a-paris-dans-une-affaire-de-corruption-et-de-travail-dissimule-avec-notamment-quatre-policiers_8285165.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 17:58:55 +0100",
+      "description": "Le rappeur est \"convoqué\" devant le tribunal correctionnel \"en décembre 2026\" avec \"son associé, son avocate, quatre policiers ainsi qu'un responsable d'un centre de formation à la sécurité privée\", a précisé le parquet lundi.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Après plusieurs jours de tension et l’intervention de la police, l’Université de Bordeaux ferme à nouveau quatre campus",
+      "link": "https://www.lefigaro.fr/bordeaux/apres-plusieurs-jours-de-tension-et-l-intervention-de-la-police-l-universite-de-bordeaux-ferme-a-nouveau-quatre-campus-20261116",
+      "date": "Mon, 16 Nov 2026 17:51:38 +0100",
+      "description": "Après une très brève reprise des cours, les blocus ont de nouveau paralysé les cours sur plusieurs sites de la métropole. 20 000 étudiants sont renvoyés chez eux à l’approche des examens.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Amine Oualane et Karim Harrat, figures du narcobanditisme marseillais, ont été condamnés à la perpétuité pour le triple homicide de 2020, dont l’une des victimes est le demi-frère d’Amine Kessaci",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/16/deux-figures-du-narcobanditisme-marseillais-condamnes-a-la-perpetuite-pour-le-triple-narchomicide-de-2020-dont-l-une-des-victimes-est-le-demi-frere-d-amine-kessaci_6812173_3224.html",
+      "date": "Mon, 16 Nov 2026 17:35:19 +0100",
+      "description": "La cour d’assises d’Aix-en-Provence a condamné les deux hommes à la réclusion criminelle à perpétuité pour le triple assassinat en 2020 de Brahim Chabane, demi-frère aîné du militant contre le narcotrafic Amine Kessaci, de Réda Khaldi et de Nassim Loubani.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : à Metz, à Nice ou en Ariège, LFI et ses réunions publiques à la conquête des territoires",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-a-metz-a-nice-ou-en-ariege-lfi-et-ses-reunions-publiques-a-la-conquete-des-territoires_6812171_823448.html",
+      "date": "Mon, 16 Nov 2026 17:30:00 +0100",
+      "description": "L’organisation de nombreux échanges animés par les cadres de La France insoumise lui permet de multiplier les démonstrations de force pour s’imposer à gauche, de mailler le territoire et de consolider toujours plus sa base électorale. Très tôt dans la campagne, le parti mobilise ainsi fortement ses sympathisants et électeurs.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Des frappes aériennes sur des sites de missiles iraniens peuvent éclairer la justification des barrages",
+      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+      "date": "Mon, 16 Nov 2026 17:24:04 +0000",
+      "description": "Les écologistes sont depuis longtemps perplexes sur un vaste réseau de projets d'eau sans justification évidente. Puis leurs zones ont été ciblées par des frappes aériennes.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Triple narchomicide à Marseille en 2020 : deux accusés condamnés à la perpétuité",
+      "link": "https://www.france24.com/fr/france/20261116-triple-narchomicide-%C3%A0-marseille-en-2020-deux-accus%C3%A9s-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9",
+      "date": "Mon, 16 Nov 2026 17:23:12 GMT",
+      "description": "Deux figures du narcobanditisme marseillais jugées pour un triple assassinat ont été condamnées, lundi, à des peines de prison à perpétuité assorties d'une période de sûreté. L'une des victimes est le frère aîné du militant antitrafic Amine Kessaci.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Les retombées de Nvidia: le commerce cible une échappatoire pour l'utilisation du centre de données chinois",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "date": "Mon, 16 Nov 2026 17:22:11 GMT",
+      "description": "La règle a été écrite par le Département du Trésor et le Conseil national de sécurité après avoir critiqué le secrétaire au Commerce, Howard Lutnick.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le président de la Fed, Kevin Warsh, souligne l'importance de l'IA pour l'économie, mais dit qu'elle pourrait «déceler»",
+      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "date": "Mon, 16 Nov 2026 17:18:53 GMT",
+      "description": "",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "À Saint-Etienne, deux élèves et la proviseure d'un lycée légèrement blessés en marge de la mobilisation lycéenne, les suspects arrêtés",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-saint-etienne-deux-eleves-et-la-proviseure-d-un-lycee-legerement-blesses-en-marge-de-la-mobilisation-lyceenne-les-suspects-arretes_8285009.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 17:13:43 +0100",
+      "description": "Les trois victimes ont été blessées par des tirs de mortiers d'artifice, les suspects \"ont été formellement identifiés par les personnels de l'établissement\", annonce la préfecture de la Loire.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Trump dit qu'il «ne penserait pas» voir Jensen Huang réintégré comme chef Nvidia",
+      "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+      "date": "Mon, 16 Nov 2026 17:12:30 GMT",
+      "description": "L'intervention du président américain intervient quelques jours après la démission du co-fondateur de chipmaker suite à une affaire extra-maritale avec l'exécutif du client basé à Singapour",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Jordan Belfort est la nouvelle start-up de la voix AI, Tone, veut vendre comme le \"Wolf of Wall Street\"",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "date": "Mon, 16 Nov 2026 17:10:00 +0000",
+      "description": "Belfort affirme que sa voix de vente AI peut déjà conclure des contrats presque aussi bien que les meilleurs vendeurs humains, et il pense qu'il rattrapera dans un an.",
+      "source": "TechCrunch",
+      "category": "Technologie"
     },
     {
       "title": "Cinq pays dévoilent leur projet de \"hub de retour\" au Rwanda, pour des personnes migrantes expulsées de l'Union européenne",
@@ -587,6 +675,22 @@
       "category": "France"
     },
     {
+      "title": "Trump soutient le retour de l'ancien patron de Nvidia après le lancement de la campagne \"Bring Jensen Back\"",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 16 Nov 2026 17:07:55 GMT",
+      "description": "Un certain nombre de figures technologiques veulent que le conseil d'administration du géant des puces AI rende son travail à Jensen Huang.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Ce qui a changé dans les films de James Bond au cours des décennies",
+      "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 16 Nov 2026 17:07:00 GMT",
+      "description": "En 1962, une femme qui boit du martini a sauvé le monde pour la première fois dans \"Dr. Non.\" Comme Robert Pattinson prend le rôle de 007, voici comment les films ont évolué.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "Noyau dur d’activistes, CRS en renfort, chaos dans les classes… La visite d’Édouard Geffray à Nantes vire au fiasco",
       "link": "https://www.lefigaro.fr/nantes/entre-des-crs-en-armes-et-une-jeunesse-en-feu-la-visite-chaotique-du-ministre-de-l-education-a-nantes-20261116",
       "date": "Mon, 16 Nov 2026 17:06:06 +0100",
@@ -595,12 +699,124 @@
       "category": "France"
     },
     {
-      "title": "Prison à perpétuité pour Amine Oualane et Karim Harrat au procès de l’assassinat du frère aîné d’Amine Kessaci",
-      "link": "https://www.lefigaro.fr/marseille/prison-a-perpetuite-pour-amine-oualane-et-karim-harrat-au-proces-de-l-assassinat-du-frere-aine-d-amine-kessaci-20261116",
-      "date": "Mon, 16 Nov 2026 17:04:23 +0100",
-      "description": "COMPTE RENDU D’AUDIENCE - La perpétuité assortie d’une peine de sûreté de 22 ans avait été requise envers quatre des cinq accusés de ce triple assassinat survenu fin décembre 2020 dans lequel ont péri Nassim Loubani, Reda Khaldi et Brahim Chabane, le frère aîné de l’adjoint au maire Amine Kessaci.",
-      "source": "Le Figaro",
+      "title": "La Chine a «normalisé» la présence navale près du Japon depuis le crapaud politique de 2025",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/16/china-has-normalized-naval-presence-near-japan-since-political-spat-of-2025/",
+      "date": "Mon, 16 Nov 2026 17:02:51 +0000",
+      "description": "Compte tenu de son ampleur, la flottille chinoise massive qui comprenait des navires de garde-côtes aux côtés de navires de guerre de la marine a peut-être eu Taiwans voisin maritime Japon à ses yeux, disent les experts militaires.",
+      "source": "Defense News",
+      "category": "Défense"
+    },
+    {
+      "title": "OpenAI intégrera des chercheurs d'Apollon pour étudier la subversion de l'IA",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "date": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "description": "OpenAI intégrera six évaluateurs d'Apollon Research pour déterminer si ses modèles d'IA se livrent à un comportement subversif, mais les restrictions d'accès et de divulgation soulèvent des questions sur leur indépendance.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "OpenAI publie un nouveau classificateur d'image et des avertissements ChatGPT pour combattre CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "description": "ChatGPT interdit à un compte d'accéder au contenu CSAM pendant 24 heures comme avertissement",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Instagram permet maintenant aux créateurs d'ajouter des liens d'affiliation Amazon dans les bobines et les messages de flux",
+      "link": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "description": "Alors que les créateurs ont depuis longtemps partagé des liens d'affiliation Amazon à travers des histoires, DM, et leurs bios, la nouvelle intégration les amène à de nouvelles parties de l'application.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Instagram apporte des liens d'affiliation Amazon directement aux bobines et aux messages",
+      "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "description": "La plateforme de médias sociaux Meta permet maintenant aux créateurs de fixer jusqu'à 30 liens d'affiliation par bobine pour gagner de l'argent d'Amazon plus facilement.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Google ajoute 66 dialectes régionaux à Gemini",
+      "link": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "description": "À partir d'aujourd'hui, Gemini fait plus d'efforts pour parler votre langue d'une manière qui semble plus précise.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Instagram permettra aux créateurs d'ajouter des liens d'affiliation Amazon directement à leurs messages et bobines",
+      "link": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "description": "L'application deviendra encore plus un centre commercial, juste à temps pour Black Friday.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "La pluie de météores Leonid culmine du 17 au 18 novembre ! Voici ce que vous devez savoir",
+      "link": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "description": "La pluie de météorites Leonid culmine la nuit du 17 au 18 novembre, envoyant des étoiles de tir dans le ciel nocturne en direction de la constellation Leo.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "Face à la menace masculiniste, la mairie de Paris lance un outil pour ne pas «perdre une génération de garçons dans des boucles algorithmiques»",
+      "link": "https://www.liberation.fr/societe/droits-des-femmes/face-a-la-menace-masculiniste-la-mairie-de-paris-lance-un-outil-pour-ne-pas-perdre-une-generation-de-garcons-dans-des-boucles-algorithmiques-20261116_VXXJEQOEXRHZRNSBONOGYLGH4A/",
+      "date": "Mon, 16 Nov 2026 16:59:41 +0000",
+      "description": "Afin de sensibiliser les 14-35 ans aux dangers de l’idéologie incel, la ville a conçu le Mascuradar, des cartes qui déconstruisent les clichés sexistes.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Marine Le Pen a redit à l’ambassadeur ukrainien que Paris ne pourra «plus aider financièrement» Kyiv si elle est élue",
+      "link": "https://www.liberation.fr/international/europe/marine-le-pen-a-redit-a-lambassadeur-ukrainien-que-paris-ne-pourra-plus-aider-financierement-kyiv-si-elle-est-elue-20261116_CC2DZOZVGVDJHNC64NY2D2JAWY/",
+      "date": "Mon, 16 Nov 2026 16:59:04 +0000",
+      "description": "Lors d’une rencontre à huis clos avec l’ambassadeur d’Ukraine à Paris ce lundi, la candidate du RN à la présidentielle a cependant assuré qu’elle tiendrait les engagements pris par la France, notamment le prêt de 90 milliards d’euros accordé par l’Union européenne.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Avec un premier jet d’accord sur la sortie du pétrole, du charbon et du gaz, la COP31 arrivera-t-elle à marquer les esprits ?",
+      "link": "https://www.liberation.fr/environnement/climat/avec-un-premier-jet-daccord-sur-la-sortie-du-petrole-du-charbon-et-du-gaz-la-cop31-arrivera-t-elle-a-marquer-les-esprits-20261116_SX5P2S2P65ENJGNBU3WACYJRYM/",
+      "date": "Mon, 16 Nov 2026 16:59:00 +0000",
+      "description": "La présidence australienne des négociations qui se déroulent en Turquie a soumis, ce lundi 16 novembre, un premier brouillon de décision finale. Le document propose «une action accélérée» pour sortir des énergies fossiles.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "L'Iran s'attaque aux pénuries de gaz naturel pendant le déséquilibre énergétique hivernal",
+      "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 16:58:46 +0000",
+      "description": "L'infrastructure gazière de l'Iran a souffert du sous-développement et des sanctions, et maintenant des dommages causés par la guerre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les forces israéliennes démolissent les maisons de deux prisonniers palestiniens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 16:56:54 +0000",
+      "description": "Les forces israéliennes ont démoli les maisons de deux prisonniers palestiniens comme Al Jazeeras Nida Ibrahim",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Jerusalem Daily: Eisenkot veut que Netanyahu sorte",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 16:56:46 +0000",
+      "description": "Le chef de l'opposition israélienne Gadi Eisenkot semble pousser à chasser Benjamin Netanyahou en tant que Premier ministre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les Etats-Unis et la Russie s'opposent aux négociations sur la limitation des armes autonomes",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
+      "date": "Mon, 16 Nov 2026 16:53:41 +0000",
+      "description": "Les principaux producteurs d'armes des États-Unis et de la Russie sont prêts à s'opposer à la tenue d'une réunion mondiale pour lancer des négociations sur des règles juridiquement contraignantes pour les armes autonomes.",
+      "source": "Defense News",
+      "category": "Défense"
     },
     {
       "title": "Renault va embaucher 1 650 ouvriers en France, mais prévoit jusqu’à 1 000 départs volontaires de cols blancs",
@@ -611,11 +827,59 @@
       "category": "France"
     },
     {
-      "title": "Philippe Diallo, patron de la Fédération française de football, candidat à la présidence de la Fifa",
-      "link": "https://www.franceinfo.fr/sports/foot/philippe-diallo-patron-de-la-federation-francaise-de-football-candidat-a-la-presidence-de-la-fifa_8285006.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 16 Nov 2026 16:49:42 +0100",
-      "description": "C'est l'UEFA, l'instance européenne, qui a annoncé lundi la candidature du patron de la Fédération française.",
-      "source": "franceinfo",
+      "title": "Trump dit qu'il est d'accord avec Jensen Huang revenant comme PDG de Nvidia, ne voit aucun risque pour la sécurité nationale",
+      "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+      "date": "Mon, 16 Nov 2026 16:52:28 GMT",
+      "description": "Le président Trump a déclaré aux journalistes avant de partir pour un voyage en Asie que l'affaire de l'ancien PDG de Nvidia Jensen Huang ne mettait pas la sécurité nationale américaine en danger.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Cyberattaque contre des réfrigérateurs de supermarchés : le jour où la France a dénoncé l’Iran",
+      "link": "https://www.lemonde.fr/international/article/2026/11/16/cyberattaque-contre-des-refrigerateurs-de-supermarches-le-jour-ou-la-france-a-denonce-l-iran_6812161_3210.html",
+      "date": "Mon, 16 Nov 2026 16:50:20 +0100",
+      "description": "Dans la nuit du 11 au 12 octobre, une attaque informatique attribuée à la République islamique a visé les systèmes de réfrigération de 700 supermarchés. Si Paris n’est guère coutumière de la stratégie du « name and shame », la dénonciation publique, la gravité de l’agression a justifié un changement de posture.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "L'UEFA soutient la France Philippe Diallo pour défier Infantino aux élections de la FIFA",
+      "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+      "date": "Mon, 16 Nov 2026 16:46:05 +0000",
+      "description": "Diallo, chef de la Fédération française de football, apparaît comme un grand challenger lors des prochaines élections présidentielles de la FIFA.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Votre placement est plus important que vous ne le pensez",
+      "link": "https://www.engadget.com/2314367/smart-home-hub-placement-importance/",
+      "date": "Mon, 16 Nov 2026 16:45:00 +0000",
+      "description": "Maintenir votre réseau intelligent à domicile fonctionne correctement commence par comprendre où le placer par rapport à vos appareils intelligents et routeur Wi-Fi.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "AO3 est de retour. Ce n'est pas un exercice",
+      "link": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+      "date": "Mon, 16 Nov 2026 16:40:33 +0000",
+      "description": "Après une semaine d'arrêt, la maison de plus de 18 millions d'œuvres de fan fiction est de retour en ligne, avec quelques limitations.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "États-Unis maintenant \"confortable\" avec les enfants qui meurent de rougeole alors que le nombre de décès touche 10",
+      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "date": "Mon, 16 Nov 2026 16:39:29 +0000",
+      "description": "Les autorités internationales annonceront que les États-Unis ont perdu leur statut d'élimination mardi.",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "EN DIRECT – Mouvement social : à Paris, la manifestation de mardi s’élancera finalement de Nation, à la demande de la préfecture",
+      "link": "https://www.liberation.fr/societe/education/en-direct-mobilisation-lyceenne-et-etudiante-les-rassemblements-interdits-autour-de-certains-etablissements-a-paris-20261116_3RW4TCVB55DSVFMBCL27WKJSEU/",
+      "date": "Mon, 16 Nov 2026 16:36:48 +0000",
+      "description": "A la veille d’une nouvelle journée de mobilisation, qui porte notamment sur les hausses de salaires dans la fonction publique, la préfecture de police de Paris a interdit tout rassemblement ou cortège non déclaré autour de dix lycées et cinq sites universitaires de la capitale à partir de ce lundi.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -627,26 +891,98 @@
       "category": "France"
     },
     {
-      "title": "Robert Pattinson va incarner James Bond, devenant le septième acteur à interpréter le célèbre espion britannique au cinéma",
-      "link": "https://www.lemonde.fr/culture/article/2026/11/16/robert-pattinson-va-incarner-james-bond-devenant-le-septieme-acteur-a-interpreter-le-celebre-espion-britannique-au-cinema_6812095_3246.html",
-      "date": "Mon, 16 Nov 2026 16:28:45 +0100",
-      "description": "La désignation de l’acteur britannique survient pendant la plus longue pause de l’histoire de l’emblématique espion au cinéma, et met fin à des années de spéculations sur celui qui reprendrait le rôle de Daniel Craig.",
-      "source": "Le Monde",
+      "title": "scandale de Nvidia: dilemme chinois des jetons, rivalité américaine façonner course AI",
+      "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 16 Nov 2026 16:32:00 GMT",
+      "description": "La controverse autour de Nvidia et de son ancien PDG Jensen Huang a mis en lumière l'intensification de la course à l'IA entre les États-Unis et la Chine.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Cinq pays de l'UE annoncent un centre d'expulsion de migrants au Rwanda",
+      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 16 Nov 2026 16:27:24 GMT",
+      "description": "L'Allemagne, le Danemark, l'Autriche, la Grèce et les Pays-Bas ont annoncé un « centre de retour » pour les demandeurs d'asile déboutés.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Tesla planifie un investissement de 3BN dans l'usine allemande pour produire des Cybercabs",
+      "link": "https://www.dw.com/en/tesla-planning-€3bn-investment-in-german-factory-to-produce-cybercabs/a-79961416?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 16 Nov 2026 16:25:00 GMT",
+      "description": "La société Elon Musk cherche à étendre sa seule ligne de production européenne. Le chef de l'État de Brandebourg s'est félicité de cette décision.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Les réseaux AfD et néo-nazi : à quelle distance sont les connexions ?",
+      "link": "https://www.dw.com/en/the-afd-and-neo-nazi-networks-how-close-are-the-connections/a-79961920?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 16 Nov 2026 16:23:00 GMT",
+      "description": "L'Alternative pour l'Allemagne (AfD) est devenue un point focal pour l'extrême droite. Beaucoup de ses membres et de son personnel ont des liens avec des organisations ethnonationalistes ou néo-nazies.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Cinq Etats de l'UE annoncent des plans pour l'immigration «hubs de retour» au Rwanda",
+      "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "date": "Mon, 16 Nov 2026 16:21:40 GMT",
+      "description": "L'Allemagne, l'Autriche, les Pays-Bas, le Danemark et la Grèce sont susceptibles de faire face à des défis politiques critiqués en tant qu'«échec moral grave» Cinq États membres de l'UE ont annoncé leur intention de créer un centre offshore au Rwanda pour les personnes n'ayant aucun droit légal de séjour en Europe, dans le cadre d'un projet pilote qui devrait faire face à des défis juridiques et a été dénoncé comme un grave échec moral. L'Allemagne, l'Autriche, les Pays-Bas, le Danemark et la Grèce",
+      "source": "The Guardian",
+      "category": "Monde"
+    },
+    {
+      "title": "Cinq pays européens prévoient d'expulser des migrants vers le Rwanda",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+      "date": "Mon, 16 Nov 2026 16:19:23 +0000",
+      "description": "L'Allemagne, l'Autriche, les Pays-Bas, la Grèce et le Danemark cherchent à créer un centre pour les demandeurs d'asile déboutés. Voici ce qu'il faut savoir sur leur effort.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Affaire Werenoi : le parquet de Paris accélère l’enquête sur le million d’euros disparu à Dubaï",
+      "link": "https://www.liberation.fr/culture/musique/affaire-werenoi-le-parquet-de-paris-accelere-lenquete-sur-le-million-deuros-disparu-a-dubai-20261116_MZK3DUBIGNC5VOVWUU7ILLRYLI/",
+      "date": "Mon, 16 Nov 2026 16:18:12 +0000",
+      "description": "Plus d’un an et demi après le décès du rappeur star, le feuilleton judiciaire continue. Selon nos informations, alors que son producteur Babiry Sacko a été interpellé et incarcéré au Maroc, le volet «financier» de ce dossier tentaculaire avance.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Foot: le patron de la FFF Philippe Diallo candidat à la présidence de la Fifa",
+      "link": "https://www.rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
+      "date": "Mon, 16 Nov 2026 16:15:13 GMT",
+      "description": "Le comité exécutif de l'UEFA a désigné lundi 16 novembre Philippe Diallo, le patron de la Fédération française de football (FFF), pour être candidat à la présidence de la Fifa face au sortant Gianni Infantino lors de l'élection prévue le 18 mars 2027 à Rabat. La candidature de M. Diallo doit être formellement ratifiée mardi 17 novembre par le Comité exécutif de la FFF, a précisé la Confédération européenne. La date limite du dépôt des candidatures à la présidence de la Fifa est prévue mercredi à minuit.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Pourquoi Microsoft abandonne quelques-unes de ses 365 applications en 2026",
+      "link": "https://www.engadget.com/2314266/microsoft-ditching-365-companion-apps-2026/",
+      "date": "Mon, 16 Nov 2026 16:15:00 +0000",
+      "description": "Ces applications sont fermées après seulement 14 mois.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "La bombe nucléaire dans l ' espace désactiverait 98 % des satellites en une semaine",
+      "link": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Mon, 16 Nov 2026 16:15:00 +0000",
+      "description": "Une seule explosion nucléaire dans l'espace aurait des répercussions globales et durables, invalidant presque tous les satellites et créant un chaos technologique dont il faudrait des années pour se remettre, avertissant les experts",
+      "source": "New Scientist",
+      "category": "Sciences"
+    },
+    {
+      "title": "Jensen Huang est parti.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "date": "Mon, 16 Nov 2026 16:12:51 +0000",
+      "description": "Après une chute choquante, Nvidias PDG est hors d'un emploi. Lauren Goode explique ce que cela signifie pour la société de puces la plus critique du monde, l'industrie de l'IA, et Jensen Huang lui-même.",
+      "source": "WIRED",
+      "category": "Technologie"
     },
     {
       "title": "Procès de la «petite inconnue de l’A10» : 20 ans de prison requis contre la mère d’Inass Touloub et 14 ans contre son père",
       "link": "https://www.liberation.fr/societe/police-justice/proces-de-la-petite-inconnue-de-la10-20-ans-de-prison-requis-contre-la-mere-dinass-touloub-et-14-ans-contre-son-pere-20261116_E2ZVBXVRHFDJ7EZL7YD7UDVU2M/",
       "date": "Mon, 16 Nov 2026 16:10:03 +0000",
       "description": "Halima El Bakhti et Ahmed Touloub risquent la réclusion à perpétuité pour la mort de leur fille, en 1987. Le verdict de la cour d’assises du Loir-et-Cher est attendu au plus tôt mardi 17 novembre.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Les chefs d’établissement ne peuvent plus être les boucs émissaires de l’impuissance gouvernementale",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/les-chefs-detablissement-ne-peuvent-plus-etre-les-boucs-emissaires-de-limpuissance-gouvernementale-20261116_NFOSA5MZPRE4JPPEBEWLQOYRQI/",
-      "date": "Mon, 16 Nov 2026 16:09:06 +0000",
-      "description": "Menaces, intimidations, agressions… En première ligne face aux mécontentements, les chefs d’établissements doivent bénéficier de la protection de l’Etat, alerte Yannick Trigance, secrétaire national PS à l’éducation.",
       "source": "Libération",
       "category": "France"
     },
@@ -678,7 +1014,7 @@
       "title": "Serena Williams lance un nouveau fonds, cible 200 M$",
       "link": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
       "date": "Mon, 16 Nov 2026 16:06:30 +0000",
-      "description": "Serena Williams et Beth Ferreira, partenaire d'affaires de longue date, ont annoncé lundi le lancement d'une entreprise Starfire Ventures.",
+      "description": "Serena Williams et Beth Ferreira, partenaire d'affaires de longue date, ont annoncé lundi le lancement d'une entreprise de démarrage appelée Starfire Ventures.",
       "source": "TechCrunch",
       "category": "Technologie"
     },
@@ -699,44 +1035,20 @@
       "category": "France"
     },
     {
-      "title": "GTA VI : les marques surfent à fond sur le filon",
-      "link": "https://www.liberation.fr/lifestyle/hightech/gta-vi-les-marques-surfent-a-fond-sur-le-filon-20261116_SWMKCCNYBRG5JF6DVKPCWOBT7U/",
-      "date": "Mon, 16 Nov 2026 16:03:35 +0000",
-      "description": "Le jeu vidéo le plus attendu de l’année sort le 19 novembre 2026, mais les enseignes ont pris les devants. Pas question de l’attendre pour s’incruster à Vice City et de grappiller un peu de la hype.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Bâtir une AI digne de confiance en l'attachant, sans la prédire",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "date": "Mon, 16 Nov 2026 16:04:28 +0000",
+      "description": "En octobre de cette année, OpenAI a révélé que deux de ses agents d'IA avaient éteint les systèmes construits pour les surveiller. L'un a coupé ses propres alertes de sécurité après avoir mal lu une instruction de ne pas envoyer de messages; l'autre a supprimé son intégration de suivi pendant la migration, puis a dit qu'il n'avait pas. Aucune règle n'avait dit aux agents de faire...",
+      "source": "MIT Technology Review",
+      "category": "Technologie"
     },
     {
-      "title": "Cinq pays de l'UE annoncent un centre d'expulsion de migrants au Rwanda",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 16 Nov 2026 16:03:24 GMT",
-      "description": "L'Allemagne, le Danemark, l'Autriche, la Grèce et les Pays-Bas ont annoncé un « centre de retour » pour les demandeurs d'asile déboutés.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Procès du meurtre du frère d’Amine Kessaci : deux des cinq accusés condamnés à la perpétuité",
-      "link": "https://www.liberation.fr/societe/police-justice/proces-du-triple-narchomicide-a-aix-deux-des-cinq-accuses-condamnes-a-la-perpetuite-20261116_HUQBG7MLBBCIRPE7C4QOQYJPDY/",
-      "date": "Mon, 16 Nov 2026 16:01:57 +0000",
-      "description": "Depuis un mois, la cour d’assises des Bouches-du-Rhône jugeait notamment Amine Oualane, cadre présumé de la DZ Mafia, et Karim Harrat, pour leur implication dans un triple meurtre en 2020.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Financer la transition écologique par une révolution monétaire",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/financer-la-transition-ecologique-par-une-revolution-monetaire-20261116_YAACWET6RNGKND7UCZ5NZCTTNA/",
-      "date": "Mon, 16 Nov 2026 16:01:45 +0000",
-      "description": "L’adaptation au changement climatique impose de réorienter les crédits des banques centrales et privées à destination des projets écologiques, alors que les financements actuels soutiennent prioritairement les énergies fossiles, plaident Nicolas Dufrêne, directeur de l’Institut Rousseau, et Lucie Pinson, directrice de l’ONG Reclaim Finance.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Avant la sortie de « GTA VI », les internautes en ébullition : « J’ai du mal à trouver le sommeil »",
-      "link": "https://www.lemonde.fr/pixels/article/2026/11/16/avant-la-sortie-de-gta-vi-les-internautes-en-ebullition-j-ai-du-mal-a-trouver-le-sommeil_6812029_4408996.html",
-      "date": "Mon, 16 Nov 2026 16:00:58 +0100",
-      "description": "Sur les réseaux sociaux, les fans de « Grand Theft Auto » débordent d’enthousiasme à trois jours de sa sortie, jeudi 19 novembre, partageant par millions sketchs, vidéos IA et témoignages.",
-      "source": "Le Monde",
-      "category": "France"
+      "title": "Surge des datacenters américains ajoute l'équivalent des émissions annuelles du Danemark, étude trouve",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+      "date": "Mon, 16 Nov 2026 16:00:47 GMT",
+      "description": "«Les centres de données d'Hyperscaler (Hyperscaler) à travers le pays s'appuient sur des sources d'énergie plus sales pour répondre à de vastes besoins énergétiques, montre la recherche L'accumulation frénétique de datacenters hyperscaler aux États-Unis a provoqué collectivement des émissions de réchauffement de la planète à peu près à la même échelle que le Danemark émet en un an, de nouvelles recherches ont trouvé. Au cours de cette période 403 hyperscalers, les plus grands datacenters utilisés principalement pour gérer la croissance de l'intelligence artificielle, ont émis environ 25,7m",
+      "source": "The Guardian",
+      "category": "Environnement"
     },
     {
       "title": "Seulement 400 centres de données américains utilisent plus d'électricité que le Michigan",
@@ -747,14 +1059,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Y aurait-il un ancien satellite extraterrestre sur l'orbite terrestre ? Comment la théorie de la conspiration du Chevalier Noir a survécu depuis plus de 100 ans",
-      "link": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
-      "date": "Mon, 16 Nov 2026 16:00:00 +0000",
-      "description": "La légende du satellite Black Knight offre un exemple de la façon dont une collection d'événements non liés et d'interprétations spéculatives peuvent s'accumuler dans une seule théorie de conspiration au fil du temps.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Les grands centres de données utilisent collectivement autant d'électricité qu'un État américain entier",
       "link": "https://www.newscientist.com/article/2599078-massive-datacentres-use-as-much-electricity-as-an-entire-us-state/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Mon, 16 Nov 2026 16:00:00 +0000",
@@ -763,12 +1067,12 @@
       "category": "Sciences"
     },
     {
-      "title": "On a dormi ici. Les retards de vol s'attardent à mesure que les compagnies aériennes se remettent de l'arrêt au sol, mais le calendrier s'améliore lundi",
-      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "date": "Mon, 16 Nov 2026 15:56:39 GMT",
-      "description": "Les interruptions de vol ont duré deux jours après que l'Administration fédérale de l'aviation a effectué des vols au sol pendant plus de quatre heures.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "Y aurait-il un ancien satellite extraterrestre sur l'orbite terrestre ? Comment la théorie de la conspiration du Chevalier Noir a survécu depuis plus de 100 ans",
+      "link": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
+      "date": "Mon, 16 Nov 2026 16:00:00 +0000",
+      "description": "La légende du satellite Black Knight offre un exemple de la façon dont une collection d'événements non liés et d'interprétations spéculatives peuvent s'accumuler dans une seule théorie de conspiration au fil du temps.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "France : Depardieu condamné pour agressions sexuelles, les victimes soulagées mais perplexes",
@@ -785,22 +1089,6 @@
       "description": "Les nouvelles prévisualisations audio générées par Audible résument les thèmes d'un livre et ce que les lecteurs en ont aimé, en plus de jouer l'échantillon narraté.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Congrès de la Fifa : le président de la fédération française de foot, Philippe Diallo, se lance dans la course contre Gianni Infantino",
-      "link": "https://www.liberation.fr/sports/football/congres-de-la-fifa-le-president-de-la-federation-francaise-philippe-diallo-dans-la-course-contre-gianni-infantino-20261116_QVO7ZDIJWVDD7EHHP6QB5YV44Q/",
-      "date": "Mon, 16 Nov 2026 15:50:41 +0000",
-      "description": "La confédération européenne, à la tête de la protestation contre le président sortant de la Fifa, a validé lors d’une réunion organisée ce lundi 16 novembre la candidature du patron du foot français. Le congrès aura lieu au mois de mars à Rabat, au Maroc.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Cinq pays européens prévoient d'expulser des migrants vers le Rwanda",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "date": "Mon, 16 Nov 2026 15:48:31 +0000",
-      "description": "L'Allemagne, l'Autriche, les Pays-Bas, la Grèce et le Danemark ont annoncé un plan visant à envoyer les demandeurs d'asile déboutés de lieux autres que le Rwanda vers le pays africain.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Comment diffuser Twitch sur votre TV",
@@ -835,14 +1123,6 @@
       "category": "Monde"
     },
     {
-      "title": "Trump dit que le scandale de Nvidia n'a pas mis en danger la sécurité nationale américaine,",
-      "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-      "date": "Mon, 16 Nov 2026 15:40:28 GMT",
-      "description": "Le président Trump a déclaré aux journalistes avant de partir pour un voyage en Asie que l'affaire de l'ancien PDG de Nvidia Jensen Huang ne mettait pas la sécurité nationale américaine en danger.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Islam Faisal: Qu'y a-t-il dans le Brexit pour réinitialiser la nourriture et y a-t-il des compromis ?",
       "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 16 Nov 2026 15:40:16 GMT",
@@ -857,14 +1137,6 @@
       "description": "Vous pourrez bientôt regarder des podcasts vidéo via l'application Apple TV.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Des frappes aériennes sur des sites de missiles iraniens peuvent éclairer la justification des barrages",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-      "date": "Mon, 16 Nov 2026 15:39:09 +0000",
-      "description": "Les écologistes sont depuis longtemps perplexes sur un vaste réseau de projets d'eau sans justification évidente. Puis leurs zones ont été ciblées par des frappes aériennes.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Des pétroliers ont touché des mines de mer dans le détroit d'Hormuz",
@@ -883,52 +1155,12 @@
       "category": "France"
     },
     {
-      "title": "Les retombées de Nvidia: le commerce cible une échappatoire pour l'utilisation du centre de données chinois",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "date": "Mon, 16 Nov 2026 15:34:48 GMT",
-      "description": "La règle a été écrite par le Département du Trésor et le Conseil national de sécurité après avoir critiqué le secrétaire au Commerce, Howard Lutnick.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Un quart des Français adhèrent encore à des préjugés antisémites, alerte une étude",
-      "link": "https://www.franceinfo.fr/societe/antisemitisme/un-quart-des-francais-adhere-encore-a-des-prejuges-antisemites-alerte-une-etude_8284583.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 16 Nov 2026 15:33:47 +0100",
-      "description": "Selon un sondage de l'Ifop et de la Fondapol pour l'American Jewish Committee, paru lundi, 24% des Français pensent que les juifs ont \"trop de pouvoir dans le domaine des médias\" ou \"dans le domaine de l'économie et de la finance\". Des niveaux comparables à ceux d'il y a douze ans.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Crise sociale : un recours de l'Unef examiné après l'interdiction de rassemblements et cortèges près de lycées et d'universités en région parisienne",
-      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 16 Nov 2026 15:32:21 +0100",
-      "description": "Des rassemblements et cortèges non déclarés sont interdits \"dans un rayon de 100 mètres autour de certains lycées et établissements d'enseignement supérieur\" de la région, a annoncé la préfecture de police de Paris dimanche.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Trump dit qu'il ne serait pas ennuyé de voir Huang revenir à Nvidia",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 16 Nov 2026 15:31:20 GMT",
-      "description": "Un certain nombre de figures technologiques veulent que le conseil d'administration du géant des puces AI rende son travail à Jensen Huang.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "C'est plus qu'un mème. La raison réside dans son ingénierie",
       "link": "https://www.scientificamerican.com/article/it-runs-doom-is-more-than-a-meme-the-reason-lies-in-its-engineering/",
       "date": "Mon, 16 Nov 2026 15:30:00 +0000",
       "description": "Clever code a rendu le jeu de tir classique rapide en 1993 — il a été facile à porter et à ajouter depuis. Les artistes et les scientifiques trouvent encore de nouvelles utilisations surprenantes pour elle",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Éliminatoires CAN 2027: le Sénégal et le Cameroun ont un pied en phase finale",
-      "link": "https://www.rfi.fr/fr/afrique-foot/20261116-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-et-le-cameroun-ont-un-pied-en-phase-finale",
-      "date": "Mon, 16 Nov 2026 15:28:24 GMT",
-      "description": "Ce mardi 6 novembre marque le début de la quatrième journée des éliminatoires. Le Sénégal et le Cameroun ont dominé leur adversaire du jour",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Les étudiants protestent alors que la pollution atmosphérique s'étouffe New Delhi",
@@ -939,28 +1171,12 @@
       "category": "Monde"
     },
     {
-      "title": "Au moins 17 morts dans deux fusillades en Afrique du Sud",
-      "link": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 15:26:39 +0000",
-      "description": "Huit hommes ont été tués dans des tirs près de Pietermaritzburg et six hommes et trois femmes ont été tués près de Pretoria.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Bahreïn condamne des dizaines de religieux chiites dans le cadre d'un procès contre le terrorisme",
       "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
       "date": "Mon, 16 Nov 2026 15:25:21 +0000",
       "description": "Les accusés ont été accusés de collusion avec l'Iran. Des groupes de défense des droits ont déclaré que l'affaire était entachée d'allégations de torture et ont soulevé des préoccupations concernant la persécution religieuse.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Anouk Grinberg affirme que \"le plus important, c'est qu'un homme, enfin, reconnaisse le mal qu'il a fait\", au moment où Gérard Depardieu renonce à son procès en appel",
-      "link": "https://www.franceinfo.fr/culture/cinema/depardieu/anouk-grinberg-affirme-que-le-plus-important-c-est-qu-un-homme-enfin-reconnaisse-le-mal-qu-il-a-fait-au-moment-ou-gerard-depardieu-renonce-a-son-proces-en-appel_8284964.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 16 Nov 2026 15:25:02 +0100",
-      "description": "Avec son désistement dans l'affaire des agressions sexuelles commises sur deux femmes lors du tournage du film \"Les Volets verts\" en 2021, la condamnation à 18 mois de prison avec sursis, prononcée en mai 2025 est désormais définitive pour le comédien français.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Responsable du football français contre Infantino à l'élection présidentielle de la FIFA",
@@ -1019,22 +1235,6 @@
       "category": "Économie"
     },
     {
-      "title": "Trump dit qu'il «ne penserait pas» voir Jensen Huang réintégré comme chef Nvidia",
-      "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-      "date": "Mon, 16 Nov 2026 15:03:59 GMT",
-      "description": "L'intervention du président américain intervient quelques jours après la démission du cofondateur de chipmaker suite à deux affaires extraconjugales",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Les États-Unis resserrent les contrôles des exportations de puces AI pour dissuader les entreprises chinoises d'accéder au calcul à distance",
-      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "date": "Mon, 16 Nov 2026 15:02:34 +0000",
-      "description": "En vertu de la règle provisoire, les États-Unis exigeront des entreprises qu'elles obtiennent des licences pour exporter des puces AI si elles peuvent fournir des calculs à la Chine ou à d'autres pays réglementés.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Le télescope spatial Euclid découvre sa 1ère comète.",
       "link": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
       "date": "Mon, 16 Nov 2026 15:00:00 +0000",
@@ -1049,14 +1249,6 @@
       "description": "Après les tirs survenus dans des établissements scolaires, l’exécutif a ordonné dimanche une suspension nationale du commerce de plusieurs engins pyrotechniques.",
       "source": "Le Figaro",
       "category": "France"
-    },
-    {
-      "title": "Pourquoi Starshield limite l'Ukraine contre les drones à réaction",
-      "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 14:58:30 +0000",
-      "description": "L'armée ukrainienne compte sur le service Internet depuis décembre 2024 pour intercepter les drones russes.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Le pont Landmark Crimée a frappé comme la Russie rapporte le plus grand drone ukrainien attaque de guerre",
@@ -1075,20 +1267,12 @@
       "category": "Économie"
     },
     {
-      "title": "Raye, Rosalia et Dolly Parton reconnus dans les nominations Grammy",
+      "title": "Raye, Rosalía et Dolly Parton reconnus dans les nominations Grammy",
       "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 16 Nov 2026 14:48:55 GMT",
       "description": "La chanteuse britannique Raye reçoit 11 nominations alors que Dolly Parton est reconnue deux mois après sa mort.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Google Maps peut maintenant construire des itinéraires de voyage avec des détails en temps réel sur chaque arrêt",
-      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "date": "Mon, 16 Nov 2026 14:48:13 +0000",
-      "description": "Vous pourriez utiliser Ask Maps pour planifier un voyage d'une journée de shopping de vacances ou quelque chose de plus complexe, comme un voyage de trois jours avec des randonnées côtières et des repas en bord de mer.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "L'ONU s'efforce de réglementer les armes létales autonomes",
@@ -1107,14 +1291,6 @@
       "category": "Défense"
     },
     {
-      "title": "Où placer votre routeur Wi-Fi pour le meilleur internet ?",
-      "link": "https://www.engadget.com/2314221/where-to-place-wifi-router-best-internet/",
-      "date": "Mon, 16 Nov 2026 14:45:00 +0000",
-      "description": "Laissez votre routeur travailler à son meilleur en le plaçant au bon endroit de votre maison - et savoir quand vous avez besoin d'une mise à niveau.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Des militaires français opèrent désormais en Ukraine",
       "link": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html",
       "date": "Mon, 16 Nov 2026 14:42:53 +0100",
@@ -1123,36 +1299,12 @@
       "category": "France"
     },
     {
-      "title": "La ruée vers l'or de la Guinée : arrestations, déportations, tollé",
-      "link": "https://www.dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 16 Nov 2026 14:38:00 GMT",
-      "description": "La Guinée a interdit l'exploitation illégale de l'or, invoquant des préoccupations environnementales. Il a en outre inculpé des centaines de mineurs illégaux locaux et étrangers soupçonnés de violations des droits et d ' expulsions.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "L'Italie soutient rapidement l'adhésion allemande au programme de chasse GCAP",
       "link": "https://www.defensenews.com/global/europe/2026/11/16/italy-backs-rapid-german-membership-path-into-gcap-fighter-program/",
       "date": "Mon, 16 Nov 2026 14:37:54 +0000",
       "description": "L'Italie a fermement rejeté un rapport de presse suggérant qu'elle s'oppose à l'octroi du statut de partenaire de l'Allemagne dans le programme de chasse du GCAP, prétendant plutôt qu'elle soutient pleinement l'adhésion allemande.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Infantino a fait les choses pire à la FIFA que Blatter, dit Jurgen Klopp",
-      "link": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 14:36:23 +0000",
-      "description": "L'entraîneur allemand pense que quiconque remplace le président de la FIFA devrait se soucier profondément de l'avenir du football.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Belgique Romelu Lukaku se retire du football international",
-      "link": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
-      "date": "Mon, 16 Nov 2026 14:35:00 +0000",
-      "description": "Lukaku est le meilleur buteur de la Belgique avec 94 buts en 135 matchs et est cinquième sur la liste de tous les buts masculins.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Passer la facture pour accélérer les projets de gaz et les datacenters serait \"une grave erreur, dit Al Gore",
@@ -1187,30 +1339,6 @@
       "category": "Défense"
     },
     {
-      "title": "«Arrêtez d'en parler et commencez à faire quelque chose à ce sujet.",
-      "link": "https://www.defensenews.com/video/2026/11/16/stop-talking-about-it-and-start-doing-something-about-it-medal-of-honor-recipient-on-advocating-for-mental-health/",
-      "date": "Mon, 16 Nov 2026 14:17:00 +0000",
-      "description": "Médaille d'honneur Maj. (ret.) Nicholas Doctery parle de la façon dont les gens de tous les jours peuvent faire une différence en aidant ceux qui les entourent à faire face à des difficultés de santé mentale.",
-      "source": "Defense News",
-      "category": "Défense"
-    },
-    {
-      "title": "Comment prendre le contrôle après une crise financière",
-      "link": "https://www.defensenews.com/video/2026/11/16/how-to-take-control-after-a-financial-crisis-money-minute/",
-      "date": "Mon, 16 Nov 2026 14:16:00 +0000",
-      "description": "Un revers financier ne doit pas te hanter pour toujours. Prenez ces mesures pour vous remettre sur la bonne voie.",
-      "source": "Defense News",
-      "category": "Défense"
-    },
-    {
-      "title": "Qu'est-ce qu'une étiquette NFC et comment fonctionne-t-on?",
-      "link": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
-      "date": "Mon, 16 Nov 2026 14:15:00 +0000",
-      "description": "Les étiquettes NFC sont bon marché, légères et faciles à utiliser. Voici ce que la technologie NFC fait, où elle est utilisée et comment elle diffère de la RFID.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Jensen Huang alliés construire une \"salle de guerre\" pour le ramener à Nvidia",
       "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
       "date": "Mon, 16 Nov 2026 14:06:16 +0000",
@@ -1219,43 +1347,11 @@
       "category": "Technologie"
     },
     {
-      "title": "Le projet d'accord de la COP31 appelle à un déplacement immédiat des combustibles fossiles",
-      "link": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 16 Nov 2026 14:05:00 GMT",
-      "description": "L'accord préliminaire des Nations unies sur le climat en Turquie préconise une réduction rapide des émissions de réchauffement de la planète et d'au moins 120 milliards de dollars pour aider les pays à s'adapter au changement climatique.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Cibles des attaques de drones iraniens, les pays du Golfe veulent multiplier les infrastructures souterraines",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/16/cibles-des-attaques-de-drones-iraniens-les-pays-du-golfe-veulent-multiplier-les-infrastructures-souterraines_6811769_3234.html",
-      "date": "Mon, 16 Nov 2026 14:00:05 +0100",
-      "description": "Les projets d’enfouissement d’infrastructures critiques se multiplient dans la région, même si la tendance avait commencé bien avant la guerre au Moyen-Orient. Un nouveau marché de la construction en sous-sol s’ouvre aux puissances étrangères.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "La nouvelle aide à la conduite intelligente de Mercedes gère le trafic complexe comme un champion",
       "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
       "date": "Mon, 16 Nov 2026 14:00:05 +0000",
       "description": "L'aide au conducteur point à point arrive aux États-Unis et en Allemagne en 2027.",
       "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
-      "title": "Mazama Energy a une solution pour le plus gros problème de forage géothermique",
-      "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
-      "date": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "description": "Mazama soutenu par Khosla L'énergie a développé une nouvelle façon de sur refroidir ses forets géothermiques, lui permettant de forer plus rapidement et plus profondément dans une quête pour réduire le coût de l'électricité.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Mains sur (et hors) avec le prochain MB de Mercedes-Benz. Drive Assist Pro système",
-      "link": "https://www.engadget.com/2315999/hands-on-and-off-with-mercedes-benz-mbdrive-assist-pro/",
-      "date": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "description": "Benz nous fait un autre pas vers l'autoconduite.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -1283,19 +1379,11 @@
       "category": "France"
     },
     {
-      "title": "Quels paramètres Steam devez-vous modifier pour améliorer les performances de jeu ?",
-      "link": "https://www.engadget.com/2314137/steam-settings-to-improve-gaming-performance/",
-      "date": "Mon, 16 Nov 2026 13:45:00 +0000",
-      "description": "En cas de doute, désactivez la couche de vapeur.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Sommet de l'OIF : l'élection du secrétaire général reportée, Macron salue \"un compromis\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-report%C3%A9e-macron-salue-un-compromis",
-      "date": "Mon, 16 Nov 2026 13:41:48 GMT",
-      "description": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie (OIF) a été reportée d'un an ce lundi 16 novembre, faute de consensus. Dans un communiqué, la présidence française a salué \"l'esprit de responsabilité des membres de la Francophonie qui a permis cette décision (...) et leur capacité, en son sein, à trouver le compromis\". Les précisions d'Adrien Delgrange, envoyé spécial RFI.",
-      "source": "France 24",
+      "title": "Report de l’élection du secrétaire général de l’OIF: «Sur le fond, la position de la RDC a gagné»",
+      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261116-report-de-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-oif-sur-le-fond-la-position-de-la-rdc-a-gagn%C3%A9",
+      "date": "Mon, 16 Nov 2026 13:55:42 GMT",
+      "description": "C'est une première pour l'OIF : l'élection du secrétaire général de l'Organisation internationale de la Francophonie, au cœur d'un bras de fer entre République démocratique du Congo (RDC) et Rwanda, est reportée d'un an. La sortante, la Rwandaise Louise Mushikiwabo, qui briguait un troisième mandat, restera en poste jusqu'à la tenue du nouveau scrutin, auquel Kigali ne présentera pas de candidat. Frédéric Turpin, professeur d'histoire contemporaine à l'université Savoie Mont-Blanc, spécialiste de la francophonie et des relations entre la France et l'Afrique, est l’invité d’Afrique Midi.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -1339,14 +1427,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Après avoir esquivé la mort, le démarrage de la batterie Notre prochaine énergie devient publique",
-      "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-      "date": "Mon, 16 Nov 2026 13:00:00 +0000",
-      "description": "Notre Next Energy est le dernier démarrage de batterie à être rendu public via SPAC. Est-ce qu'il a maintenant ce dont il a besoin pour survivre dans une industrie de la batterie cutthroat?",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Construire l'IA qui peut fonctionner à travers l'entreprise",
       "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "date": "Mon, 16 Nov 2026 13:00:00 +0000",
@@ -1368,14 +1448,6 @@
       "date": "Mon, 16 Nov 2026 12:50:08 +0000",
       "description": "Alors même qu'elle parle de paix, la Russie a lancé une campagne d'attentats visant à débarrasser Kiev et d'autres villes de chaleur, d'eau courante et d'assainissement cet hiver.",
       "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "La Chine dit Xi, Trump, Poutine pour discuter de « paix mondiale »",
-      "link": "https://www.dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 16 Nov 2026 12:48:00 GMT",
-      "description": "La Chine dit que les présidents Xi, Trump et Poutine vont avoir des « discussions approfondies sur la paix mondiale ». L'Ukraine, l'Iran et la dénucléarisation pourraient également figurer dans les pourparlers.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -1409,14 +1481,6 @@
       "description": "Le secrétaire au commerce Howard Lutnick a tiré le feu pour sa relation étroite avec le PDG de Nvidia Jensen Huang et le traitement de la société par le département.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "L'Allemagne, les États de l'UE ont ouvert des pourparlers sur le régime d'expulsion du Rwanda",
-      "link": "https://www.dw.com/en/germany-eu-states-open-talks-on-rwanda-deportation-scheme/a-79959158?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 16 Nov 2026 12:10:00 GMT",
-      "description": "Le déménagement fait suite à l'approbation de la réglementation de l'UE qui facilite les expulsions et permet la mise en place de pôles en dehors du bloc. Un régime similaire du gouvernement britannique s'est distingué par des questions juridiques.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Meilleures images numériques (2026): Aura, Skylight, Amazon",
@@ -1467,14 +1531,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'EPA est un plan de protection chimique qui fait son travail",
-      "link": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-      "date": "Mon, 16 Nov 2026 11:30:00 +0000",
-      "description": "Le Cessna effectue moins de missions et ne peut plus fournir de données en temps réel aux intervenants en cas de catastrophe à mesure que les urgences toxiques augmentent.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Les meilleurs mangeurs d'oiseaux intelligents pour l'observation des oiseaux dans le jardin (2026)",
       "link": "https://www.wired.com/story/best-smart-bird-feeders/",
       "date": "Mon, 16 Nov 2026 11:30:00 +0000",
@@ -1489,6 +1545,14 @@
       "description": "Quelques règles de physique ont pu être différentes juste après le big bang, les scientifiques ont trouvé",
       "source": "Scientific American",
       "category": "Sciences"
+    },
+    {
+      "title": "Lindsay Clancy affrontera un nouveau procès au printemps 2027 sur le meurtre d'enfants",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+      "date": "Mon, 16 Nov 2026 11:28:19 -0500",
+      "description": "Un nouveau procès est engagé au Massachusetts contre Lindsay Clancy, alors que les procureurs demandent une condamnation pénale pour le meurtre de ses trois jeunes enfants.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Les forces yéménites reculent pour défendre la ville portuaire de Houthis",
@@ -1515,14 +1579,6 @@
       "category": "Économie"
     },
     {
-      "title": "Nvidia était déjà en difficulté avant le mess Jensen Huang",
-      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "date": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "description": "Les concurrents de l'IA rattrapent Nvidia et sont prêts à profiter du chaos.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Traitement hormonal peut améliorer la cognition après la ménopause",
       "link": "https://www.scientificamerican.com/article/hormone-therapy-may-improve-cognition-after-menopause/",
       "date": "Mon, 16 Nov 2026 11:00:00 +0000",
@@ -1537,14 +1593,6 @@
       "description": "Comment les archéologues ont résolu une grenouille de l'ère romaine quidunnit, ce que SciAm couvrait dans la journée, et pourquoi les émissions de combustibles fossiles sont en baisse cette année",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "La sonde interstellaire Voyager 1 de la NASA est sur le point d'atteindre 1 jour-lumière de la Terre après près de 50 ans dans l'espace",
-      "link": "https://www.space.com/space-exploration/voyager/nasas-interstellar-voyager-1-probe-is-about-to-reach-1-light-day-from-earth-after-nearly-50-years-in-space",
-      "date": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "description": "Voyager 1 célèbre une grande étape à l'approche de son 50e anniversaire : atteindre un jour-lumière loin de la Terre.",
-      "source": "Space.com",
-      "category": "Exploration"
     },
     {
       "title": "Compagnie estonienne de drones ciblée dans une tentative de sabotage, dans le cadre de la guerre hybride de Russie contre l'Europe",
@@ -1563,28 +1611,12 @@
       "category": "Monde"
     },
     {
-      "title": "Homme emprisonné à vie pour tentative de meurtre d'enfants qui a déclenché des émeutes à Dublin",
-      "link": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748",
-      "date": "Mon, 16 Nov 2026 10:11:00 +0000",
-      "description": "Un homme qui a tenté de tuer trois enfants - y compris en poignardant un dans le cœur - alors qu'ils attendaient hors de leur école à Dublin a été condamné à la prison à vie.",
-      "source": "Sky News",
-      "category": "Monde"
-    },
-    {
       "title": "Avertissements météorologiques jaunes émis pour la neige à mesure que les températures chutent",
       "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 16 Nov 2026 10:02:04 GMT",
       "description": "Un temps plus froid et plus captivant s'emparera de certaines parties du nord du Royaume-Uni, menaçant parfois la glace et la neige.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Meilleurs chargeurs de voyage 3-en-1 Apple (2026): Anker, ESR, Satechi",
-      "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-      "date": "Mon, 16 Nov 2026 10:00:00 +0000",
-      "description": "Gardez votre trio de gadgets Apple alimentés partout où vous allez avec ces chargeurs pliants compacts.",
-      "source": "WIRED",
-      "category": "Technologie"
     },
     {
       "title": "Évitez cette escroquerie du vendredi noir - comment vérifier que c'est une vraie affaire",
@@ -1657,22 +1689,6 @@
       "description": "Un vaisseau spatial européen a révélé un côté mystérieux et recouvert de cratères de l'astéroïde Didymos alors qu'il se prépare à enquêter sur les conséquences de l'impact historique de l'astéroïde de la NASA en 2022. La mission pourrait découvrir de nouveaux indices sur la collision et aider à transformer la déflexion des astéroïdes en une puissante défense contre les menaces futures contre la Terre.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "Francophonie: faute de consensus, l'OIF reporte d'un an l'élection du secrétaire général",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261116-francophonie-faute-de-consensus-l-oif-reporte-d-un-an-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
-      "date": "Mon, 16 Nov 2026 08:39:48 GMT",
-      "description": "A l'issue de tractations intenses et d'un campagne tendue, les membres de plein droit de l'OIF n'ont pas réussi à se mettre d'accord sur une candidature consensuelle. Le vote pour l'élection du prochain secrétaire général a été reporté d'un an, ont indiqué plusieurs sources à RFI.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "« Fractures françaises » : la violence comme marqueur politique déterminant",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-la-violence-comme-marqueur-politique-determinant_6811535_823448.html",
-      "date": "Mon, 16 Nov 2026 07:45:09 +0100",
-      "description": "Facteur de rejet, d’inquiétude ou d’identification, le rapport à la violence est devenu un marqueur politique essentiel, analyse Brice Teinturier, directeur général délégué d’Ipsos, à partir de l’enquête « Fractures françaises » réalisée pour « Le Monde » par Ipsos BVA-CESI Ecole d’ingénieurs.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "L'arrêt au sol de la FAA affecte encore des milliers de vols. Et Trump rencontre Xi, Poutine en Asie",
@@ -1779,14 +1795,6 @@
       "category": "Monde"
     },
     {
-      "title": "Ils ont vu des gens perdre de la nourriture. Alors ils ont commencé à distribuer des courses gratuites",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
-      "date": "Mon, 16 Nov 2026 05:00:00 -0500",
-      "description": "Les coupes et les changements apportés au SNAP ont été difficiles pour les fonctionnaires qui sont fiers d'aider les autres. À San Diego, les ouvriers ont dit qu'ils ne pouvaient pas s'asseoir pendant que leurs voisins avaient faim.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "La dernière glace sur Puncak Jaya",
       "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
       "date": "Mon, 16 Nov 2026 05:00:00 +0000",
@@ -1843,14 +1851,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Dans un premier temps, deux CCA volent Air Combat Maneuvers utilisant le logiciel d'autonomie",
-      "link": "https://www.airandspaceforces.com/cca-drones-fly-air-combat-maneuvers-autonomy-software/",
-      "date": "Mon, 09 Nov 2026 22:13:47 +0000",
-      "description": "Deux des drones semi-autonomes de la Force aérienne ont effectué des manoeuvres de combat aérien coordonnées par un pilote de l'IA ou un logiciel d'autonomie de mission, lors d'un test le 26 octobre, une première pour le programme des avions de combat collaboratifs de la Force aérienne. The post In First, Two CCAs Fly Air Combat Maneuvers Using Autonomy Software est apparu en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
-    },
-    {
       "title": "L'avenir de Trumponomics : compromis ou échec",
       "link": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
       "date": "Mon, 09 Nov 2026 19:13:41 +0000",
@@ -1867,7 +1867,7 @@
       "category": "Exploration"
     },
     {
-      "title": "Q&A : Qu'est-ce que le mécanisme Belém-Antalya pour une « transition juste » ?",
+      "title": "Q&A: Qu'est-ce que le mécanisme Belém-Antalya pour une « transition juste »?",
       "link": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
       "date": "Mon, 09 Nov 2026 08:00:00 +0000",
       "description": "L'un des principaux résultats attendus du prochain sommet climatique COP31 à Antalya, en Turquie, est le lancement d'un... L'article Q&A : Quel est le mécanisme Belém-Antalya pour une « transition juste » ? paru en premier sur Carbon Brief .",
@@ -2163,12 +2163,28 @@
       "category": "Exploration"
     },
     {
-      "title": "«Simplement stupéfiant»: Le super El Niño se développe rapidement sur la voie du pic en décembre",
+      "title": "«Simplement stupéfiant»: le super El Niño se développe rapidement sur la voie du pic en décembre",
       "link": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
       "date": "Fri, 06 Nov 2026 09:12:35 +0000",
-      "description": "Le \"super El Niño\" en cours devrait culminer à la fin de 2026 et pousser les températures... Le post «Simply stupéfiant»: Le super El Niño sur la voie du pic en décembre est apparu en premier sur Carbon Brief .",
+      "description": "Le \"super El Niño\" en cours devrait culminer à la fin de 2026 et pousser les températures... Le post ‘Simply stupéfiant': Le développement rapide 'super El Niño' sur la voie du pic en décembre est apparu en premier sur Carbon Brief .",
       "source": "Carbon Brief",
       "category": "Environnement"
+    },
+    {
+      "title": "Les accessoires PlayStation 5 de Sony sont moins chers devant le Black Friday",
+      "link": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "date": "2026-11-16T11:48:01-05:00",
+      "description": "Plusieurs détaillants offrent des réductions sur les jeux PlayStation 5, y compris des réductions de prix profondes sur les récents succès exclusifs de console tels que Marvel. Nous allons couvrir un tas de ceux dans les prochains jours, mais ce billet est concentré sur les grandes réductions matérielles qui se produisent, y compris 20 $ de rabais sur l'stellaire [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Trump dit que ce n'est certainement pas une mauvaise idée pour Jensen Huang de retourner à Nvidia",
+      "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "date": "2026-11-16T11:39:36-05:00",
+      "description": "Suite à la démission de Jensen Huang en tant que PDG de Nvidia la semaine dernière, Trump a déclaré lundi aux journalistes qu'il était prêt à voir Huang revenir et qu'il n'était pas certain que la femme Huang aurait eu une liaison avec un espion. \"Je pense que faire revenir Jensen- beaucoup de gens demandent Jensen, ils pensent [...]",
+      "source": "The Verge",
+      "category": "Technologie"
     },
     {
       "title": "Le guide des Verge-S pour les meilleurs cadeaux de moins de 100$",
@@ -2203,20 +2219,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Le système de contrôle du trafic aérien américain ne pouvait pas gérer un seul mauvais routeur",
-      "link": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-      "date": "2026-11-16T09:43:48-05:00",
-      "description": "Trente minutes à l'extérieur d'Atlanta, le pilote est monté sur l'interphone pour annoncer que quelque chose ne va pas. Un problème de communication avec l'Administration fédérale de l'aviation se posait partout au pays. Le pilote n'a pas fourni beaucoup de détails, sauf pour dire que le problème pourrait affecter l'accès aux portes et les vols de correspondance. Pour Amanda Khera, le moment ne pouvait pas être [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Audible essaie de rendre plus facile de trouver des livres audio que vous voulez vraiment",
-      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "date": "2026-11-16T09:00:00-05:00",
-      "description": "Audible introduit une fonction de synopsis assistée par l'IA qui est conçue pour aider les utilisateurs à déterminer s'ils apprécieront un livre audio avant de sauter et de commencer à l'écouter. La nouvelle fonctionnalité de découverte audio combine des échantillons de livres audio, des aperçus d'IA et des commentaires d'auteur pour donner aux utilisateurs plus d'informations avant de choisir leur prochaine histoire, en plus de [...]",
-      "source": "The Verge",
-      "category": "Technologie"
+      "title": "Pape dans la forêt tropicale péruvienne exige justice pour les défenseurs de l'environnement tués pour protéger Amazon",
+      "link": "https://news.mongabay.com/short-article/2026/11/pope-in-peruvian-rainforest-demands-justice-for-environmental-defenders-killed-for-protecting-amazon/",
+      "date": "16 Nov 2026 16:49:57 +0000",
+      "description": "PUCALLPA, Pérou (AP) — Le pape Léon XIV exige la justice des défenseurs de l'environnement tués pour protéger l'Amazonie. Lors d'une visite dans la forêt tropicale péruvienne, Leo a pleinement soutenu les efforts des peuples autochtones pour empêcher que leurs terres ne soient ravagées par l'exploitation forestière et illégale. Léo canalisait l'un des enseignements fondamentaux du Pape François, qui [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
       "title": "Noyé dans des engins de pêche, frappé par des bateaux, baleines noires de l'Atlantique Nord en difficulté grave",
@@ -2255,14 +2263,6 @@
       "link": "https://news.mongabay.com/short-article/2026/11/fossil-of-extinct-giant-bird-discovered-in-flores-cave-indonesia/",
       "date": "16 Nov 2026 10:40:22 +0000",
       "description": "Selon une étude récente, des archéologues ont découvert la grotte de Liang Bua sur l'île indonésienne de Flores. L'oiseau géant était une espèce de mégapode, de gros oiseaux comme des poulets qui vivent aujourd'hui dans la région australasienne. Ces oiseaux [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Indonésie Le marché intérieur de l'huile de palme porte la plus grande empreinte de déforestation",
-      "link": "https://news.mongabay.com/2026/11/indonesias-domestic-palm-oil-market-carries-the-biggest-deforestation-footprint/",
-      "date": "16 Nov 2026 06:58:39 +0000",
-      "description": "JAKARTA — L'Indonésie est le plus grand producteur mondial d'huile de palme, et la marchandise est l'huile végétale la plus utilisée au monde. Cela fait de toutes les questions liées à l'huile de palme, depuis les allégations de durabilité jusqu'aux allégations de déforestation et d'abus de main-d'œuvre, l'objet d'un examen attentif pour les acheteurs du monde entier, en particulier [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
