@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T01:48:38.373417+00:00",
-  "count": 291,
+  "updated_at": "2026-11-17T02:39:49.794504+00:00",
+  "count": 285,
   "articles": [
     {
       "title": "Moog marque 25 ans depuis ESPA Design Milestone: Innover Space Rideshare",
@@ -35,6 +35,30 @@
       "category": "Exploration"
     },
     {
+      "title": "Nvidia rejette la campagne \"Bring Jensen Back\" alors que Trump soutient les efforts pour réintégrer l'ex-CEO",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "description": "Un certain nombre de figures technologiques ont soutenu un effort demandant au géant des puces AI de rendre son travail à Jensen Huang.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Nasdaq 100 coule 2,7% en sombre début à la semaine charnière pour le commerce AI",
+      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+      "date": "Tue, 17 Nov 2026 02:29:11 GMT",
+      "description": "Les stocks de copeaux américains tombent alors que Nvidia maintient une pression de vente fraîche",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Ukraine: Les frappes russes ont touché des ponts à Kiev, dit le maire",
+      "link": "https://www.dw.com/en/ukraine-russian-strikes-hit-bridges-in-kyiv-mayor-says/live-79964446?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 17 Nov 2026 02:28:00 GMT",
+      "description": "Le maire de Kiev a dit que les forces russes ont frappé des ponts sur la rivière Dnipro. L'Ukraine a lancé une attaque massive contre la Russie lundi dernier, frappant le pont de Crimée. DW a le dernier.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "Les stagiaires voleront T-38s une autre décennie alors que T-7 mûrit",
       "link": "https://www.airandspaceforces.com/aetc-boss-t-38-late-2030s-t-7/",
       "date": "Tue, 17 Nov 2026 01:47:21 +0000",
@@ -43,7 +67,7 @@
       "category": "Défense"
     },
     {
-      "title": "L'armée yéménite rapporte 661 attaques contre Houthis au milieu de Houthi poussée vers Aden",
+      "title": "L'armée yéménite rapporte 661 attaques contre Houthis alors que le groupe avance vers Aden",
       "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
       "date": "Tue, 17 Nov 2026 01:38:13 +0000",
       "description": "L'armée yéménite rapporte 173 combattants Houthi tués ou blessés dans le cadre d'un repositionnement des forces gouvernementales pour défendre Aden.",
@@ -851,14 +875,6 @@
       "category": "Économie"
     },
     {
-      "title": "Nvidia rejette la campagne \"Bring Jensen Back\" alors que Trump soutient les efforts pour réintégrer l'ex-CEO",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 16 Nov 2026 22:21:27 GMT",
-      "description": "Un certain nombre de figures technologiques ont soutenu un effort demandant au géant des puces AI de rendre son travail à Jensen Huang.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "B-1 pilotes pour obtenir plus d'heures de vol—dans les Jets d'affaires",
       "link": "https://www.airandspaceforces.com/b-1-pilots-to-get-more-flying-hours-in-business-jets/",
       "date": "Mon, 16 Nov 2026 22:16:47 +0000",
@@ -928,14 +944,6 @@
       "date": "Mon, 16 Nov 2026 22:01:40 GMT",
       "description": "Bank of America, Chase, US Bank, Wells Fargo et Truist ont été listés par des utilisateurs qui ont connu des problèmes Les clients ont signalé des pannes de service et des difficultés à accéder à leurs comptes en ligne dans plusieurs grandes banques américaines et le service de transfert d'argent Zelle lundi après un problème technique à JPMorgan Chase a causé des effets d'entraînement dans tout le système financier. Chase a déclaré que les problèmes techniques n'étaient pas une question systémique et n'étaient pas le résultat de",
       "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
-      "title": "Nasdaq 100 coule 2,7% en sombre début à la semaine charnière pour le commerce AI",
-      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-      "date": "Mon, 16 Nov 2026 21:58:59 GMT",
-      "description": "Les stocks de copeaux américains tombent alors que Nvidia maintient une pression de vente fraîche",
-      "source": "Financial Times",
       "category": "Économie"
     },
     {
@@ -1011,14 +1019,6 @@
       "category": "Exploration"
     },
     {
-      "title": "U.S. Navy Orders 82 UUV supplémentaires de Lionfish de HII",
-      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
-      "date": "Mon, 16 Nov 2026 21:25:59 +0000",
-      "description": "HII a reçu un contrat de la U.S. Navy pour 82 véhicules sous-marins Lionfish (UUVs) supplémentaires, ce qui porte le total des unités commandées à 175 avec 50 livrés. L'article U.S. Navy Orders 82 UUV supplémentaires Lionfish de HII est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Au procès des parents de l’« inconnue de l’A10 », un réquisitoire sobre, subtil et pédagogue",
       "link": "https://www.lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html",
       "date": "Mon, 16 Nov 2026 21:19:08 +0100",
@@ -1057,14 +1057,6 @@
       "description": "Le 16 novembre 2024, l'opposant ougandais Kizza Besigye était arrêté à Nairobi, au Kenya. Deux ans plus tard, son épouse Winnie Byanyima réclame sa libération pour lui permettre de recevoir des soins spécialisés. Interrogée par RFI ce 16 novembre 2026, elle met aussi en cause les discussions politiques proposées par le général Salim Saleh, demi-frère du président ougandais Yoweri Museveni.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "La marine américaine commande quatre patrouilleurs supplémentaires de 40 PB en provenance de Metal Shark",
-      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
-      "date": "Mon, 16 Nov 2026 20:56:33 +0000",
-      "description": "Metal Shark a reçu une commande de livraison de quatre patrouilleurs supplémentaires de 40 PB Flight 2, augmentant ainsi sa production de flotte en Louisiane. The post U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
     },
     {
       "title": "Grève dans la fonction publique, perturbations dans les transports, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
@@ -1363,14 +1355,6 @@
       "category": "Environnement"
     },
     {
-      "title": "DIU décerne un contrat saronique pour la livraison d'un navire autonome à faible profil pour la logistique contestée USMC",
-      "link": "https://www.navalnews.com/naval-news/2026/11/diu-awards-saronic-contract-to-deliver-autonomous-low-profile-vessel-for-usmc-contested-logistics/",
-      "date": "Mon, 16 Nov 2026 18:44:02 +0000",
-      "description": "L'Unité d'innovation pour la défense a attribué à Saronique Technologies un contrat prototype pour la livraison du navire autonome à faible profil (ALPV) pour le ravitaillement du U.S. Marine Corps. L'article DIU Awards Saronic Contract to Delivery Autonome Low Profile Vessel for USMC Concours Logistics est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "À mesure que les radars exquis deviennent des cibles, les petits capteurs tactiques jouent un rôle plus important.",
       "link": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role/",
       "date": "Mon, 16 Nov 2026 18:39:22 +0000",
@@ -1441,14 +1425,6 @@
       "description": "Le cofondateur de chipmaker a démissionné à la suite d'une affaire extraconjugale avec un cadre chez un client basé à Singapour",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Grammy Awards: Nominations de Raye et Rosalia",
-      "link": "https://www.dw.com/en/grammy-awards-raye-and-rosalia-lead-nominations/a-79961198?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 16 Nov 2026 18:14:00 GMT",
-      "description": "Les nominations pour les Grammy Awards 2027 sont dans et les femmes ont dominé les catégories les plus élevées dans l'industrie de la musique.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "L'Italie dévoile ses plans pour développer un nouveau lanceur de missiles navals",
@@ -1691,10 +1667,10 @@
       "category": "Monde"
     },
     {
-      "title": "Nouveau Dôme Sonar Bow pour le Connecticut sous-marin USS gravement endommagé vu pour la première fois",
+      "title": "Nouveau Dôme Sonar Bow pour le Connecticut sous-marin USS gravement endommagé vu pour la première fois (mise à jour)",
       "link": "https://www.twz.com/sea/new-bow-sonar-dome-for-heavily-damaged-submarine-uss-connecticut-seen-for-the-first-time",
       "date": "Mon, 16 Nov 2026 15:24:52 -0500",
-      "description": "USS Connecticut a subi des réparations majeures depuis la perte de son arc après une collision sous-marine en 2021. The post New Bow Sonar Dome For Heavly Damaged Submarine USS Connecticut Seen For The First Time est apparu en premier sur TWZ .",
+      "description": "USS Connecticut a subi des réparations majeures depuis la perte de son arc après une collision sous-marine en 2021. The post New Bow Sonar Dome For Heavly Damaged Submarine USS Connecticut Seen For The First Time (Mise à jour) appeared first on TWZ .",
       "source": "The War Zone",
       "category": "Défense"
     },
@@ -1795,14 +1771,6 @@
       "category": "Technologie"
     },
     {
-      "title": "La marine américaine réduit les retards d'entretien sous-marin de 40 % à mesure que la sortie surgisse",
-      "link": "https://www.navalnews.com/naval-news/2026/11/us-submarine-industrial-base-cuts-maintenance-delays/",
-      "date": "Mon, 16 Nov 2026 12:43:44 +0000",
-      "description": "Les réformes de la base industrielle des sous-marins américains ont aidé la marine américaine à réduire les délais d'entretien de 40 % et à retourner ou livrer 10 sous-marins au cours des 12 derniers mois. L'article U.S. Navy coupe les retards d'entretien sous-marin de 40 % à mesure que les enquêtes de sortie apparaissent en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Près de deux millions de personnes sont derrière les barreaux aux États-Unis. Comment sommes-nous arrivés ici ?",
       "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
       "date": "Mon, 16 Nov 2026 12:34:07 -0500",
@@ -1867,14 +1835,6 @@
       "category": "Économie"
     },
     {
-      "title": "Safran dévoile NGDS HK Rocket Launcher et PASEO Master D à Euronaval 2026",
-      "link": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-ngds-hk-rocket-launcher-euronaval-2026/",
-      "date": "Mon, 16 Nov 2026 10:48:40 +0000",
-      "description": "Dévoilé à Euronaval 2026, le lanceur Safran NGDS HK transporte jusqu'à 88 fusées guidées ou non accompagnées du nouveau designateur PASEO Master D. Le post Safran dévoile NGDS HK Rocket Launcher et PASEO Master D à Euronaval 2026 est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Arrêts maladie auto-déclarés : la France pourrait-elle vraiment s’inspirer de ses voisins européens, comme l’affirme LFI ?",
       "link": "https://www.lefigaro.fr/elections/presidentielles/arrets-maladie-auto-declares-la-france-pourrait-elle-vraiment-s-inspirer-de-ses-voisins-europeens-comme-l-affirme-lfi-20261116",
       "date": "Mon, 16 Nov 2026 10:30:00 +0100",
@@ -1897,14 +1857,6 @@
       "description": "Des manifestants ont tenté de bloquer un véhicule transportant des babouins, dont les autorités de capture estiment qu'il est nécessaire de protéger les primates et les humains. La réinstallation d'une troupe de babouins au Cap dans un sanctuaire pour la faune a déclenché des protestations furieuses de la part des populations locales qui s'opposent à leur capture, ce qui, selon les responsables, est nécessaire pour mettre fin au conflit entre les humains et la faune dans la ville. Les 44 membres de la troupe Waterfall (nommées après la zone où ils habitent principalement) ont été capturés.",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "La Marine française intercepte Narco-Sub pour la première fois dans l'océan Atlantique",
-      "link": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/",
-      "date": "Mon, 16 Nov 2026 10:02:37 +0000",
-      "description": "La marine française a intercepté un Narco-Sub chargé de cocaïne dans l'océan Atlantique le 12 novembre 2026, récupérant 146 kg avant que le semi-submersible ne soit coupé. Le post Marine française Intercepts Narco-Sub pour la première fois dans l'océan Atlantique est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
     },
     {
       "title": "Avertissements météorologiques jaunes émis pour la neige à mesure que les températures chutent",
@@ -2099,20 +2051,20 @@
       "category": "Environnement"
     },
     {
-      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
-      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
       "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
       "description": "Le 13 novembre 2026— Washington, D.C.—La Commercial Space Federation (CSF) est heureuse d'accueillir CesiumAstro comme son nouveau membre associé. Un leader mondial dans les solutions de connectivité avancées pour l'espace et [...] Le post Commercial Space Federation accueille CesiumAstro comme nouveau membre associé est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
+      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "El Niño a-t-il provoqué une rupture précoce du vortex polaire ?",
