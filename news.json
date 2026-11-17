@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T03:33:55.857844+00:00",
-  "count": 285,
+  "updated_at": "2026-11-17T04:31:47.328702+00:00",
+  "count": 291,
   "articles": [
     {
       "title": "Moog marque 25 ans depuis ESPA Design Milestone: Innover Space Rideshare",
@@ -35,11 +35,27 @@
       "category": "Exploration"
     },
     {
+      "title": "Des coups de feu éclatent dans des attaques de colons de Cisjordanie occupés",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 04:00:08 +0000",
+      "description": "Des colons israéliens ont ouvert le feu dans le village d ' Al-Duyouk près de Jéricho, tuant une femme et en blessant plusieurs autres.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Japon brouille des jets pour contrer les avions russes soupçonnés",
       "link": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Tue, 17 Nov 2026 03:29:00 GMT",
       "description": "Le Japon a déclaré qu'il avait déposé une « manifestation très sévère » avec Moscou après que deux avions russes présumés aient violé l'espace aérien japonais.",
       "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Des tankers ont frappé dans le détroit d'Hormuz alors que le drone déclenche l'alarme sur le champ de gaz iraquien",
+      "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 03:12:54 +0000",
+      "description": "L'Iran signale que la mine de pétrolier frappe comme un drone en Irak et l'arrivée d'un transporteur américain soulève des tensions.",
+      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -171,14 +187,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'Ukraine tient des pourparlers de paix avec les États-Unis, l'Europe à mesure que le conflit s'aggrave",
-      "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 00:45:11 +0000",
-      "description": "Kushner rapporte des progrès vers un accord, mais Moscou dit qu'il n'a pas accepté la participation européenne aux prochains pourparlers.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Analyse : Le président de la Fed voit venir une révolution de l'IA. Maintenant il doit comprendre ce que ça veut dire",
       "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "date": "Tue, 17 Nov 2026 00:42:33 GMT",
@@ -193,14 +201,6 @@
       "description": "Trois agents sont jugés pour avoir roué de coups le producteur de musique, à Paris, en 2020, et « faux en écriture publique ». Sept fonctionnaires de police, appelés en renfort par les accusés ont livré leur témoignage.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Le Royaume-Uni cherche à resserrer ses liens avec l'UE après l'échec du Brexit",
-      "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 00:30:21 +0000",
-      "description": "Le Premier ministre Andy Burnham dit que le Royaume-Uni a perdu plus qu'il n'en a gagné après son divorce du bloc.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Les paramètres de sécurité Gmail importants que vous devriez utiliser",
@@ -1027,6 +1027,14 @@
       "category": "Exploration"
     },
     {
+      "title": "U.S. Navy Orders 82 UUV supplémentaires de Lionfish de HII",
+      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
+      "date": "Mon, 16 Nov 2026 21:25:59 +0000",
+      "description": "HII a reçu un contrat de la U.S. Navy pour 82 véhicules sous-marins Lionfish (UUVs) supplémentaires, ce qui porte le total des unités commandées à 175 avec 50 livrés. L'article U.S. Navy Orders 82 UUV supplémentaires Lionfish de HII est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
       "title": "Au procès des parents de l’« inconnue de l’A10 », un réquisitoire sobre, subtil et pédagogue",
       "link": "https://www.lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html",
       "date": "Mon, 16 Nov 2026 21:19:08 +0100",
@@ -1065,6 +1073,14 @@
       "description": "Le 16 novembre 2024, l'opposant ougandais Kizza Besigye était arrêté à Nairobi, au Kenya. Deux ans plus tard, son épouse Winnie Byanyima réclame sa libération pour lui permettre de recevoir des soins spécialisés. Interrogée par RFI ce 16 novembre 2026, elle met aussi en cause les discussions politiques proposées par le général Salim Saleh, demi-frère du président ougandais Yoweri Museveni.",
       "source": "RFI",
       "category": "France"
+    },
+    {
+      "title": "La marine américaine commande quatre patrouilleurs supplémentaires de 40 PB en provenance de Metal Shark",
+      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
+      "date": "Mon, 16 Nov 2026 20:56:33 +0000",
+      "description": "Metal Shark a reçu une commande de livraison de quatre patrouilleurs supplémentaires de 40 PB Flight 2, augmentant ainsi sa production de flotte en Louisiane. The post U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Grève dans la fonction publique, perturbations dans les transports, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
@@ -1211,6 +1227,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Kadena obtient le premier F-15EX permanent en boost vers USAF , la puissance aérienne du Pacifique",
+      "link": "https://www.airandspaceforces.com/kadena-first-permanent-f-15ex-arrives/",
+      "date": "Mon, 16 Nov 2026 20:00:01 +0000",
+      "description": "Un nouvel Eagle se trouve dans le nid d'Okinawa, au Japon. La 18e Escadre de la base aérienne de Kadena a reçu son premier Eagle II F-15EX en permanence le 15 novembre. Le premier avion arrive quatre ans après que l'Aviation américaine a commencé à retirer les 48 Aigles F-15C/D qui étaient à Kadena depuis des décennies. L'article Kadena obtient la première F-15EX permanente dans Boost to USAF.S Pacific Airpower est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
       "title": "Meilleures offres de machines Espresso du vendredi noir tôt (2026)",
       "link": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/",
       "date": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1355,6 +1379,14 @@
       "category": "Environnement"
     },
     {
+      "title": "DIU décerne un contrat saronique pour la livraison d'un navire autonome à faible profil pour la logistique contestée USMC",
+      "link": "https://www.navalnews.com/naval-news/2026/11/diu-awards-saronic-contract-to-deliver-autonomous-low-profile-vessel-for-usmc-contested-logistics/",
+      "date": "Mon, 16 Nov 2026 18:44:02 +0000",
+      "description": "L'Unité d'innovation pour la défense a attribué à Saronique Technologies un contrat prototype pour la livraison du navire autonome à faible profil (ALPV) pour le ravitaillement du U.S. Marine Corps. L'article DIU Awards Saronic Contract to Delivery Autonome Low Profile Vessel for USMC Concours Logistics est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
       "title": "À mesure que les radars exquis deviennent des cibles, les petits capteurs tactiques jouent un rôle plus important.",
       "link": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role/",
       "date": "Mon, 16 Nov 2026 18:39:22 +0000",
@@ -1393,14 +1425,6 @@
       "description": "Alors que l'industrie technologique pousse au retour, le président américain dit qu'il pense que Huang « a appris une grande leçon » Donald Trump a exprimé son soutien au retour de Jensen Huang en tant que chef de la direction de Nvidia, rejoignant Silicon Valley poids lourds pour soutenir le rétablissement de la tête de file AI. Le président américain a fait référence à une campagne de l'industrie de la technologie pour la réhabilitation de Huang, disant qu'un grand groupe de gens aimerait qu'il revienne. Continuez à lire...",
       "source": "The Guardian",
       "category": "Économie"
-    },
-    {
-      "title": "François de Canson, président de la région Sud : « Je veux lancer l’appel pour la République des territoires »",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/francois-de-canson-president-de-la-region-sud-je-veux-lancer-l-appel-pour-la-republique-des-territoires-20261116",
-      "date": "Mon, 16 Nov 2026 18:30:00 +0100",
-      "description": "INFO LE FIGARO - Lors de la 8e convention des maires du Sud organisée à Aix-en-Provence ce mardi, le président de la région Sud proposera de faire de son territoire la première collectivité test des Mécanos de la République, projet porté par Jean-Louis Borloo. Explications.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "L'Amérique ne produit pas de statistiques mondialisées. Qui ça ?",
@@ -1763,12 +1787,28 @@
       "category": "Monde"
     },
     {
+      "title": "Réquisitions, taxe foncière progressive, résidences secondaires en sursis… Comment Mélenchon veut administrer la propriété privée",
+      "link": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
+      "date": "Mon, 16 Nov 2026 13:00:50 +0100",
+      "description": "DÉCRYPTAGE - Dans son programme pour 2027, le candidat LFI cible en priorité les multipropriétaires et les bailleurs aisés. Ces derniers seraient invités à mettre la main à la poche et à laisser éventuellement l’État s’emparer de leurs biens immobiliers.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Construire l'IA qui peut fonctionner à travers l'entreprise",
       "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "date": "Mon, 16 Nov 2026 13:00:00 +0000",
       "description": "Pendant des années, les entreprises ont abordé l'IA comme une série d'expériences discrètes. Maintenant, alors que les agents de l'IA commencent à passer aux flux de travail qui dirigent l'entreprise, ce modèle commence à sembler inadéquat. Les organisations qui passent de projets pilotes isolés à des agents d'IA et des workflows autonomes sont confrontées à un défi plus profond : repenser comment les données, les processus...",
       "source": "MIT Technology Review",
       "category": "Technologie"
+    },
+    {
+      "title": "La marine américaine réduit les retards d'entretien sous-marin de 40 % à mesure que la sortie surgisse",
+      "link": "https://www.navalnews.com/naval-news/2026/11/us-submarine-industrial-base-cuts-maintenance-delays/",
+      "date": "Mon, 16 Nov 2026 12:43:44 +0000",
+      "description": "Les réformes de la base industrielle des sous-marins américains ont aidé la marine américaine à réduire les délais d'entretien de 40 % et à retourner ou livrer 10 sous-marins au cours des 12 derniers mois. L'article U.S. Navy coupe les retards d'entretien sous-marin de 40 % à mesure que les enquêtes de sortie apparaissent en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Près de deux millions de personnes sont derrière les barreaux aux États-Unis. Comment sommes-nous arrivés ici ?",
@@ -1835,6 +1875,14 @@
       "category": "Économie"
     },
     {
+      "title": "Safran dévoile NGDS HK Rocket Launcher et PASEO Master D à Euronaval 2026",
+      "link": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-ngds-hk-rocket-launcher-euronaval-2026/",
+      "date": "Mon, 16 Nov 2026 10:48:40 +0000",
+      "description": "Dévoilé à Euronaval 2026, le lanceur Safran NGDS HK transporte jusqu'à 88 fusées guidées ou non accompagnées du nouveau designateur PASEO Master D. Le post Safran dévoile NGDS HK Rocket Launcher et PASEO Master D à Euronaval 2026 est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
       "title": "Arrêts maladie auto-déclarés : la France pourrait-elle vraiment s’inspirer de ses voisins européens, comme l’affirme LFI ?",
       "link": "https://www.lefigaro.fr/elections/presidentielles/arrets-maladie-auto-declares-la-france-pourrait-elle-vraiment-s-inspirer-de-ses-voisins-europeens-comme-l-affirme-lfi-20261116",
       "date": "Mon, 16 Nov 2026 10:30:00 +0100",
@@ -1857,6 +1905,14 @@
       "description": "Des manifestants ont tenté de bloquer un véhicule transportant des babouins, dont les autorités de capture estiment qu'il est nécessaire de protéger les primates et les humains. La réinstallation d'une troupe de babouins au Cap dans un sanctuaire pour la faune a déclenché des protestations furieuses de la part des populations locales qui s'opposent à leur capture, ce qui, selon les responsables, est nécessaire pour mettre fin au conflit entre les humains et la faune dans la ville. Les 44 membres de la troupe Waterfall (nommées après la zone où ils habitent principalement) ont été capturés.",
       "source": "The Guardian",
       "category": "Monde"
+    },
+    {
+      "title": "La Marine française intercepte Narco-Sub pour la première fois dans l'océan Atlantique",
+      "link": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/",
+      "date": "Mon, 16 Nov 2026 10:02:37 +0000",
+      "description": "La marine française a intercepté un Narco-Sub chargé de cocaïne dans l'océan Atlantique le 12 novembre 2026, récupérant 146 kg avant que le semi-submersible ne soit coupé. Le post Marine française Intercepts Narco-Sub pour la première fois dans l'océan Atlantique est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Avertissements météorologiques jaunes émis pour la neige à mesure que les températures chutent",
@@ -2035,10 +2091,10 @@
       "category": "Économie"
     },
     {
-      "title": "B-21 Raider effectue les essais de libération des premières armes",
-      "link": "https://www.airandspaceforces.com/b-21-raider-first-weapons-release-test/",
-      "date": "Fri, 13 Nov 2026 20:00:40 +0000",
-      "description": "Le B-21 Raider a effectué un essai de libération d'armes pour la première fois, a déclaré la Force aérienne et le fabricant Northrop Grumman le 13 novembre. La libération d'armes, qui a eu lieu la première semaine de novembre, a marqué le passage d'un avion d'essai en vol à une plate-forme d'armes fonctionnelles. Le poste B-21 Raider conduit la libération des premières armes Test apparu en premier sur Air & Space Forces Magazine .",
+      "title": "Code de consolidation: USAF cherche un intégrateur de logiciels pour KC-46 Tankers",
+      "link": "https://www.airandspaceforces.com/usaf-seeks-software-integrator-kc-46-tankers/",
+      "date": "Fri, 13 Nov 2026 20:57:55 +0000",
+      "description": "Le Centre de gestion du cycle de vie de la Force aérienne veut qu'un entrepreneur serve d'intégrateur pour tout le soutien logiciel des mises à niveau actuelles et futures de la flotte de pétroliers KC-46 Pegasus. The post Consolidating Code: USAF cherche un intégrateur logiciel pour KC-46 Tankers est apparu en premier sur Air & Space Forces Magazine .",
       "source": "Air & Space Forces Magazine",
       "category": "Défense"
     },
@@ -2097,14 +2153,6 @@
       "description": "Scott Detrow de NPR discute avec Dylan Patel de l'entreprise de recherche sur l'IA et les semi-conducteurs SemiAnalyse sur le départ de Jensen Huang de Nvidia, et s'il ouvre la voie aux concurrents de Nvidia.",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "L'Académie de la Force aérienne lance un nouvel avion de formation pour l'aérobatie avancée",
-      "link": "https://www.airandspaceforces.com/air-force-academy-new-trainer-aircraft-advanced-airmanship-aerobatics/",
-      "date": "Fri, 13 Nov 2026 15:58:44 +0000",
-      "description": "L'Académie de l'armée de l'air des États-Unis a lancé le nouveau service 12 novembre : le T-19A Kestrel. Basé sur l'avion de performance aérienne GB1 Gamebird, le T-19 soutiendra le programme avancé d'aérogénérateur de l'Académie à un moment où les leaders espèrent obtenir plus de cadets en vol et finiront par élargir son équipe gagnante de titre. Le post de l'Académie de la Force aérienne Débuts Nouveau Trainer Aircraft for Advanced Aircraft, Aerobatics est apparu en premier sur Air & Space Forces",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
     },
     {
       "title": "Le téléchargement: Silicon ValleyS angle mort et NvidiaS plan de suivi des puces",
@@ -2235,6 +2283,14 @@
       "category": "Technologie"
     },
     {
+      "title": "L'accord sur la pollution du fleuve Thaïlande-Myanmar a été affaibli, puis signé. La Chine reste silencieuse",
+      "link": "https://news.mongabay.com/2026/11/thailand-myanmar-river-pollution-agreement-was-weakened-then-signed-china-remains-silent/",
+      "date": "17 Nov 2026 03:36:37 +0000",
+      "description": "MAE SAI, Thaïlande - Le ministre thaïlandais des Affaires étrangères Sihasak Phuangketkeow a effectué une visite d'une journée à Naypyidaw, la capitale du Myanmar, le 12 novembre, pour parler avec le régime militaire au sujet du commerce, de la sécurité des frontières et, notamment, de la pollution des rivières thaïlandaises contaminées par la pollution minière. Alors que le ministère thaïlandais des Affaires étrangères a signalé que la pollution transfrontière provenant de [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Les poissons paient le prix des rituels sacrés à Banganga",
       "link": "https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/",
       "date": "16 Nov 2026 23:18:51 +0000",
@@ -2271,14 +2327,6 @@
       "link": "https://news.mongabay.com/2026/11/payment-scheme-for-human-wildlife-coexistence-faces-growing-criticism-from-sami-reindeer-herders/",
       "date": "16 Nov 2026 20:19:29 +0000",
       "description": "Un régime suédois d ' indemnisation destiné à encourager la coexistence entre éleveurs de rennes et carnivores fait l ' objet de critiques croissantes de la part des communautés autochtones samis. Des paiements inadéquats, des méthodes de surveillance déficientes et l'absence de dialogue significatif entre les autorités et les éleveurs de rennes érodent la confiance dans le système, disent les chercheurs à Mongabay. L'état de la Suède n'a pas vraiment compris combien grave et [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Pape dans la forêt tropicale péruvienne exige justice pour les défenseurs de l'environnement tués pour protéger Amazon",
-      "link": "https://news.mongabay.com/short-article/2026/11/pope-in-peruvian-rainforest-demands-justice-for-environmental-defenders-killed-for-protecting-amazon/",
-      "date": "16 Nov 2026 16:49:57 +0000",
-      "description": "PUCALLPA, Pérou (AP) — Le pape Léon XIV exige la justice des défenseurs de l'environnement tués pour protéger l'Amazonie. Lors d'une visite dans la forêt tropicale péruvienne, Leo a pleinement soutenu les efforts des peuples autochtones pour empêcher que leurs terres ne soient ravagées par l'exploitation forestière et illégale. Léo canalisait l'un des enseignements fondamentaux du Pape François, qui [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
