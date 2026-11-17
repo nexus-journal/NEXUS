@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T02:39:49.794504+00:00",
+  "updated_at": "2026-11-17T03:33:55.857844+00:00",
   "count": 285,
   "articles": [
     {
@@ -33,6 +33,22 @@
       "description": "L'appel expose une vision commune pour renforcer le rôle de l'Europe dans l'exploration spatiale humaine et robotique et fournit des orientations politiques pour les préparatifs de la réunion ministérielle intermédiaire qui se tiendra à Rome le 15 décembre.",
       "source": "ESA",
       "category": "Exploration"
+    },
+    {
+      "title": "Japon brouille des jets pour contrer les avions russes soupçonnés",
+      "link": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 17 Nov 2026 03:29:00 GMT",
+      "description": "Le Japon a déclaré qu'il avait déposé une « manifestation très sévère » avec Moscou après que deux avions russes présumés aient violé l'espace aérien japonais.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis bloquent l'accès à distance de la Chine aux puces AI au milieu du scandale de Nvidia",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 02:52:56 +0000",
+      "description": "L'administration Trump introduit une exigence de licence d'exportation pour la Malaisie, la Thaïlande, l'Indonésie, Singapour et le Brésil.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Nvidia rejette la campagne \"Bring Jensen Back\" alors que Trump soutient les efforts pour réintégrer l'ex-CEO",
@@ -193,14 +209,6 @@
       "description": "Si vous n'avez pas pris de mesures pour sécuriser votre compte Gmail récemment, il est temps de vous connecter et de vous assurer que ces paramètres sont séparés.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Éthiopie Les affrontements avec les moyales perturbent les moyens de subsistance à mesure que les différends territoriaux s'aggravent",
-      "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 00:21:19 +0000",
-      "description": "Le différend frontalier entre Oromia et Somali, qui n'a pas encore été réglé, alimente une nouvelle violence, déplaçant des milliers de personnes.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Met Office avertissement jaune en place car la neige pourrait perturber les voyages mardi matin",
@@ -1279,14 +1287,6 @@
       "link": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Mon, 16 Nov 2026 19:18:00 GMT",
       "description": "Wildberries, le plus grand détaillant en ligne de Russie, a été la cible d'attaques ukrainiennes pour son rôle dans la fourniture de l'armée russe. L'UE a maintenant gelé les avoirs de son propriétaire et l'a interdite de se rendre dans le bloc.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Pakistan: L'ancien leader Khan plaide pour des soins médicaux",
-      "link": "https://www.dw.com/en/pakistan-former-leader-khan-pleads-for-medical-care/a-79961718?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 16 Nov 2026 19:17:00 GMT",
-      "description": "Imran Khan a appelé les juges à être traités « avant qu'il ne soit trop tard ». Sa femme a également été incluse dans la demande.",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
