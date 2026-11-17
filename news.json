@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T11:45:01.774919+00:00",
-  "count": 283,
+  "updated_at": "2026-11-17T12:38:34.169810+00:00",
+  "count": 288,
   "articles": [
     {
       "title": "Analyse: Les annonces de contributions au financement du climat chutent de 70 % à mesure que les pays se réunissent à la COP31",
@@ -27,36 +27,108 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - Grève du 17 novembre : jusqu’à 60.000 personnes attendues à Paris, 300.000 en province",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-toutes-les-organisations-appellent-a-se-mobiliser-massivement-ce-mardi-pour-transformer-l-essai-20261117",
-      "date": "Tue, 17 Nov 2026 12:41:03 +0100",
-      "description": "Des éléments d’ultragauche «devraient tenter d’intervenir notamment en fin de cortège pour faire dégénérer» les manifestations, selon des sources policières au Figaro.",
+      "title": "« Une opération sans précédent » : l’Ukraine inflige de sérieux dommages au pont de Kertch reliant la Russie à la Crimée",
+      "link": "https://www.lefigaro.fr/international/une-operation-sans-precedent-l-ukraine-inflige-de-serieux-dommages-au-pont-de-kertch-reliant-la-russie-a-la-crimee-20261117",
+      "date": "Tue, 17 Nov 2026 13:30:19 +0100",
+      "description": "DÉCRYPTAGE - Le trafic ferroviaire aurait repris mardi, après une attaque nocturne contre cet ouvrage emblématique de la péninsule.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites et promet que « des centaines de milliers de travailleurs partiront plus tôt » qu’avec la réforme Borne",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
-      "date": "Tue, 17 Nov 2026 12:32:20 +0100",
-      "description": "La candidate du RN a promis que sa réforme sera « engagée dès [son] arrivée au pouvoir » et promet d’abolir celle d’Elisabeth Borne au 1ᵉʳ janvier 2028. En proposant un système basé sur la progressivité et une part de capitalisation, elle estime qu’il s’agirait de « la plus grande avancée sociale depuis la fin des “trente glorieuses” ».",
-      "source": "Le Monde",
+      "title": "Soldats français déployés en Ukraine : Moscou met en garde Paris et dénonce une «participation directe» au conflit",
+      "link": "https://www.lefigaro.fr/international/soldats-francais-deployes-en-ukraine-moscou-met-en-garde-paris-et-denonce-une-participation-directe-au-conflit-20261117",
+      "date": "Tue, 17 Nov 2026 13:23:52 +0100",
+      "description": "De petits contingents de soldats français sont présents en Ukraine depuis des mois pour former des militaires ukrainiens et assurer l’entretien des matériels, a indiqué lundi à l’AFP une source ayant connaissance du dossier.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Guerre en Ukraine : Kiev cible le pont de Crimée pour la deuxième nuit d’affilée, la Russie promet de le «restaurer»",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-ponts-de-kiev-touches-par-des-frappes-russes-20261116",
+      "date": "Tue, 17 Nov 2026 13:23:47 +0100",
+      "description": "LE POINT DE SITUATION - L’armée ukrainienne a attaqué pour la deuxième journée consécutive le pont de Crimée, qui relie la Russie à cette région annexée par Moscou, causant d’importants dégâts. Moscou va tenir une réunion d’urgence afin de faire face aux conséquences de l’attaque.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Manifestations du 17 novembre : plusieurs milliers de manifestants présents dans les cortèges en région",
+      "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 13:11:51 +0100",
+      "description": "L'intersyndicale appelle les agents de la fonction publique à une nouvelle journée d'action pour réclamer une hausse des salaires face à l'inflation.",
+      "source": "franceinfo",
       "category": "France"
     },
     {
       "title": "Départ de 60 à 62 ans, capitalisation, âge du «premier emploi stable»… Ce qu’il faut retenir du projet de Marine Le Pen pour les retraites",
       "link": "https://www.lefigaro.fr/elections/presidentielles/depart-de-60-a-62-ans-capitalisation-age-du-premier-emploi-stable-ce-qu-il-faut-retenir-du-projet-de-marine-le-pen-pour-les-retraites-20261117",
-      "date": "Tue, 17 Nov 2026 12:27:21 +0100",
+      "date": "Tue, 17 Nov 2026 13:11:37 +0100",
       "description": "La candidate du Rassemblement national (RN) à la présidentielle a détaillé ce mardi sa réforme des retraites. Elle a notamment précisé la manière dont elle comptait abaisser l’âge de départ en cas d’arrivée au pouvoir, ainsi que les pistes de financement.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "Manifestations du 17 novembre : le trafic des trains régionaux perturbé, des stations de métro fermées à Paris",
-      "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 17 Nov 2026 12:24:28 +0100",
-      "description": "L'intersyndicale appelle les agents de la fonction publique à une nouvelle journée d'action pour réclamer une hausse des salaires face à l'inflation",
+      "title": "La Fondation du patrimoine annonce la somme de 1,7 million d'euros récoltés pour la reconstruction de la mairie de Limoges",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/la-fondation-du-patrimoine-annonce-la-somme-de-1-7-million-d-euros-recoltes-pour-la-reconstruction-de-la-mairie-de-limoges_8286476.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 12:56:39 +0100",
+      "description": "Un mois après les violences du 17 octobre, et de l'incendie de la mairie de Limoges, le chantier de l'Hôtel de Ville du XIXe siècle a commencé. Pour financer les travaux, presque 14 000 donateurs ont participé à une cagnotte.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "L'Union européenne appelle la France et la Belgique à réduire leur déficit et leur dette",
+      "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-appelle-la-france-et-la-belgique-a-reduire-leur-deficit-et-leur-dette_8286455.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 12:52:19 +0100",
+      "description": "Le commissaire européen à l'Economie, Valdis Dombrovskis, a néanmoins assuré mardi qu'il ne voyait \"aucun problème imminent en matière de stabilité financière\" dans la zone euro.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Trump est arrivé en Asie. Voici ce qu'il a dit sur l'Iran et Deutsche Bank",
+      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "date": "Tue, 17 Nov 2026 12:35:58 GMT",
+      "description": "Trump menace l'Iran et répond à un rapport de fuite fiscale au moment où son voyage en Asie commence.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Où sont les emplois les plus nombreux pour les 18-24 ans?",
+      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 12:35:53 GMT",
+      "description": "Combien d'emplois y a-t-il là où vous vivez et dans quels secteurs êtes-vous le plus susceptible de trouver une ouverture?",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites, un système basé sur la progressivité et une part de capitalisation",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
+      "date": "Tue, 17 Nov 2026 12:32:16 +0100",
+      "description": "La candidate du RN a promis que « des centaines de milliers de travailleurs partiront plus tôt » avec sa réforme, qui sera « engagée dès [son] arrivée au pouvoir » et promet d’abolir celle d’Elisabeth Borne au 1ᵉʳ janvier 2028.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "La Guinée emprisonne 200 dans l'exploitation minière d'or sauvage",
+      "link": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 17 Nov 2026 12:30:00 GMT",
+      "description": "Un tribunal de Conakry a emprisonné 22 anciens responsables locaux de la région de Siguiri, riche en or, ainsi que 200 personnes accusées d'exploitation minière illégale. Cela fait partie d'une répression plus large qui a envoyé des milliers de réfugiés au Mali.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Mises à jour en direct : Le voyage en Asie du Whirlwind Trump commence aux Philippines",
+      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "date": "Tue, 17 Nov 2026 12:28:23 +0000",
+      "description": "Le voyage du président Trump's 48 heures commencera par une réunion avec les dirigeants de l'Asie du Sud-Est à Manille. Il rencontrera plus tard Xi Jinping de Chine et Vladimir Poutine de Russie à Shenzhen, un centre économique chinois.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "L'Ukraine endommage Poutine, le célèbre pont de Crimée, comme Zelenskyy loue une opération sans précédent.",
+      "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+      "date": "Tue, 17 Nov 2026 12:23:08 GMT",
+      "description": "L'Ukraine a attaqué le pont Kerch reliant la Russie à la Crimée occupée pour une deuxième journée consécutive, donnant un coup symbolique au président Vladimir Poutine.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Guerre en Ukraine : la Russie estime que la présence de soldats français sur le terrain équivaut à une \"participation directe\" au conflit",
@@ -67,36 +139,124 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : Marine Le Pen n’écarte pas la possibilité d’un référendum pour faire adopter sa réforme des retraites",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-detaille-ce-mardi-son-projet-de-reforme-des-retraites-20261117",
-      "date": "Tue, 17 Nov 2026 12:15:03 +0100",
-      "description": "Marine Le Pen a affirmé mardi que sa réforme des retraites, qui doit notamment ramener l’âge légal de départ à 62 voire 60 ans, sera «engagée dès (son) arrivée au pouvoir» si elle remporte l’élection présidentielle l’an prochain.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Les États-Unis flexent son muscle COP malgré Trump sans show",
+      "link": "https://www.dw.com/en/us-flexes-its-cop-muscle-despite-trump-no-show/a-79968666?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 17 Nov 2026 12:16:00 GMT",
+      "description": "Le gouvernement des États-Unis s'enlise dans les pourparlers de l'ONU sur le climat en Turquie. Cela a incité une délégation de législateurs, maires et gouverneurs américains à faire le voyage à la place, visant à montrer l'action climatique aux États-Unis est vivante et bien.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
-      "title": "\"Les hommes devraient rester un peu au-dessus\" : ces discours masculinistes contre lesquels la ville de Paris veut lutter avec son MascuRadar",
-      "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-hommes-devraient-rester-un-peu-au-dessus-ces-discours-masculinistes-tres-relayes-chez-les-jeunes-et-contre-lesquels-la-ville-de-paris-veut-lutter_8286092.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 17 Nov 2026 12:11:05 +0100",
-      "description": "Une campagne d'affichage et des moyens supplémentaires pour des associations. La ville de Paris lance une nouvelle opération de lutte contre les discours masculinistes, qui imprègnent de plus en plus les adolescents et les jeunes adultes.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Déchets, crèches, restauration scolaire, transport en commun… La Cour des comptes veut que les usagers payent davantage",
-      "link": "https://www.lefigaro.fr/economie/dechets-creches-restauration-scolaire-transport-en-commun-la-cour-des-comptes-veut-que-les-usagers-payent-davantage-20261117",
-      "date": "Tue, 17 Nov 2026 11:51:32 +0100",
-      "description": "DÉCRYPTAGE - Un rapport plaide pour « un recours accru aux redevances » pour les services publics locaux.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "L'artiste ramène le vieux réservoir de navette spatiale à la vie",
+      "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+      "date": "Tue, 17 Nov 2026 12:15:54 +0000",
+      "description": "\"C'est certainement le plus grand projet d'art sur lequel j'ai jamais travaillé.\"",
+      "source": "Ars Technica",
+      "category": "Technologie"
     },
     {
       "title": "Disney a battu les estimations du quatrième trimestre, s'est fixé 3 milliards de dollars d'économies grâce à des efforts de réduction des coûts",
       "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "date": "Tue, 17 Nov 2026 11:38:33 GMT",
+      "date": "Tue, 17 Nov 2026 12:14:17 GMT",
       "description": "Les investisseurs chercheront à mieux comprendre la stratégie du PDG Josh D'Amaro après plusieurs séries de licenciements.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "EN DIRECT – Mobilisations sociales : à Marseille, «on ne brûle rien mais on est en colère»",
+      "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
+      "date": "Tue, 17 Nov 2026 12:10:32 +0000",
+      "description": "En cette nouvelle journée de grève et de manifestations, des cortèges se sont déjà élancés ce mardi 17 novembre dans la matinée à travers le pays, comme à Lyon, Nantes ou Toulouse. A Paris, le rassemblement est prévu pour 14 heures.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Élèves Liste des candidats à l'ouverture du parlement serbe",
+      "link": "https://www.dw.com/en/students-list-candidates-take-seats-as-serbian-parliament-opens/a-79969166?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 17 Nov 2026 12:09:00 GMT",
+      "description": "Les candidats à la Liste des étudiants de Serbie ont prêté serment lors de la session inaugurale du Parlement. En tant que nouvelle majorité, ils ont 90 jours pour former un gouvernement.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Boxe : l’Irlandais Lee Reeves meurt à 31 ans, trois mois après un KO",
+      "link": "https://www.liberation.fr/sports/boxe-lirlandais-lee-reeves-meurt-a-31-ans-trois-mois-apres-un-ko-20261117_65W3UDODZJDFHCTURKDY3XLGJM/",
+      "date": "Tue, 17 Nov 2026 12:02:18 +0000",
+      "description": "Le boxeur, plongé dans le coma artificiel, était hospitalisé depuis le 1er août pour des graves blessures survenues lors d’un combat pour le titre à Dublin. Il est mort lundi 16 novembre des suites d’une infection.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Contrat de données NHS pour rester avec Palantir jusqu'en 2029",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 12:00:12 GMT",
+      "description": "Malgré les appels de certains députés travaillistes à mettre fin à l'entente avec Palantir, les ministres disent qu'un nouveau contrat ne sera pas attribué avant 2029.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Inde vs Pakistan en direct: finale du Championnat SAFF",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "description": "Suivez les mises à jour du match, y compris l'accumulation, l'analyse et le commentaire de texte.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Revue Capillus HairBand: Bon look, Awkward Fit",
+      "link": "https://www.wired.com/review/capillus-hairband/",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "description": "La petite taille Capillus HairBand est à la fois sa plus grande attraction et l'un de ses plus grands inconvénients.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Des hommes armés tuent un journaliste costa-ricien qui a parlé du commerce de la drogue",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 11:58:16 GMT",
+      "description": "Rodríguez avait dénoncé des liens présumés entre des organisations criminelles et des personnalités puissantes au Costa Rica.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Klopp et Wirtz offrent un bel aperçu de l'avenir allemand",
+      "link": "https://www.dw.com/en/klopp-and-wirtz-offer-glimpse-of-bright-german-future/a-79968184?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 17 Nov 2026 11:55:00 GMT",
+      "description": "La chute de l'Allemagne ces dernières années a vu l'équipe s'éloigner des fans. Mais le dragage des Pays-Bas de lundi et l'impact de Jürgen Klopp, Florian Wirtz et les jeunes émergents offrent de l'espoir.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Le pont entre la Crimée et la Russie tombe sous les drones ukrainiens, une humiliation pour Poutine",
+      "link": "https://www.liberation.fr/international/europe/le-pont-de-crimee-tombe-sous-les-drones-ukrainiens-une-humiliation-pour-poutine-20261117_5IIL3DS5W5FTPDAVKKB36MWCEU/",
+      "date": "Tue, 17 Nov 2026 11:52:39 +0000",
+      "description": "Une arche et la partie routière du pont de Kertch ont été détruites dans la nuit du lundi 16 au mardi 17 novembre par des frappes ukrainiennes. Une claque politique au moment où Vladimir Poutine se rend en Chine pour une rencontre avec Xi Jinping et Donald Trump.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Rebecca Grynspan pourrait être la première femme patronne de l'ONU, si elle peut écraser Trump",
+      "link": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 11:49:39 +0000",
+      "description": "Si les États-Unis peuvent tester Grynspan, mais elle aime prendre des risques - et veut que l'ONU en prenne plus, dit-elle à Al Jazeera.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "En prétendant être en Nouvelle-Zélande, réserver des permissions et acheter des consoles - les fans de longueur vont à pour GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 11:49:01 GMT",
+      "description": "Capteur Tower estime que le jeu a déjà gagné 1,18 milliard de dollars en précommandes sur PlayStation et Xbox",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Plans pour s'appuyer sur le débat sur l'élimination du carbone lors de la COP31",
+      "link": "https://www.newscientist.com/article/2599223-plans-to-rely-on-carbon-removal-tech-spark-debate-at-cop31/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Tue, 17 Nov 2026 11:47:27 +0000",
+      "description": "Certains pays au sommet COP31 appellent à accélérer le déploiement de l'élimination du dioxyde de carbone et du captage du carbone, mais les critiques soutiennent que ces approches ne sont pas prouvées à l'échelle et distraient les efforts visant à éliminer progressivement les combustibles fossiles.",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "Le record du monde ukrainien pour la plus grande compétition libre",
@@ -123,20 +283,20 @@
       "category": "France"
     },
     {
+      "title": "«Un cran de plus dans l’escalade militaire» : Fabien Roussel s’insurge contre la présence de militaires français en Ukraine",
+      "link": "https://www.lefigaro.fr/politique/un-cran-de-plus-dans-l-escalade-militaire-fabien-roussel-s-insurge-contre-la-presence-de-militaires-francais-en-ukraine-20261117",
+      "date": "Tue, 17 Nov 2026 11:30:12 +0100",
+      "description": "Des militaires français et un général sont présents en Ukraine, dans le cadre de l’opération Volia, dans le but de former les soldats ukrainiens et assurer la maintenance des équipements fournis par la France.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Nouveau pacte positionne les Philippines comme un centre de défense pour les troupes australiennes",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/",
       "date": "Tue, 17 Nov 2026 11:29:34 +0000",
       "description": "Des hauts responsables australiens et philippins ont lancé un pacte de défense pour accélérer la coordination militaire, ouvrant la voie au déploiement de troupes par rotation et aux investissements australiens dans l'infrastructure militaire philippine.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Mises à jour en direct : Le voyage en Asie du Whirlwind Trump commence aux Philippines",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "date": "Tue, 17 Nov 2026 11:29:28 +0000",
-      "description": "Le voyage du président Trump's 48 heures commencera par une réunion avec les dirigeants de l'Asie du Sud-Est à Manille. Il rencontrera plus tard Xi Jinping de Chine et Vladimir Poutine de Russie à Shenzhen, un centre économique chinois.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
@@ -147,27 +307,11 @@
       "category": "France"
     },
     {
-      "title": "L'Ukraine endommage Poutine, le célèbre pont de Crimée, comme Zelenskyy loue une opération sans précédent.",
-      "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
-      "date": "Tue, 17 Nov 2026 11:27:33 GMT",
-      "description": "L'Ukraine a attaqué le pont Kerch reliant la Russie à la Crimée occupée pour une deuxième journée consécutive, donnant un coup symbolique au président Vladimir Poutine.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "EN DIRECT – Mobilisations sociales : à Marseille, «on ne brûle rien mais on est en colère»",
-      "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
-      "date": "Tue, 17 Nov 2026 11:26:15 +0000",
-      "description": "En cette nouvelle journée de grève et de manifestations, des cortèges se sont déjà élancés ce mardi 17 novembre dans la matinée à travers le pays, comme à Lyon, Nantes ou Toulouse. A Paris, le rassemblement est prévu pour 14 heures.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Guerre en Ukraine : Zelensky qualifie «d’opération sans précédent» l’attaque contre le pont de Crimée, la Russie promet de le «restaurer»",
-      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-ponts-de-kiev-touches-par-des-frappes-russes-20261116",
-      "date": "Tue, 17 Nov 2026 11:24:44 +0100",
-      "description": "LE POINT DE SITUATION - L’armée ukrainienne a attaqué pour la deuxième journée consécutive le pont de Crimée, qui relie la Russie à cette région annexée par Moscou, causant d’importants dégâts. Moscou va tenir une réunion d’urgence afin de faire face aux conséquences de l’attaque.",
-      "source": "Le Figaro",
+      "title": "Philippe Diallo, un candidat « peu connu » pour diriger la FIFA qui devra « fissurer le bloc » autour de Gianni Infantino, selon la presse internationale",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/17/avec-la-candidature-de-philippe-diallo-a-la-tete-de-la-fifa-la-presse-internationale-decouvre-un-candidat-peu-connu-qui-devra-fissurer-le-bloc-autour-de-gianni-infantino_6812953_3242.html",
+      "date": "Tue, 17 Nov 2026 11:27:27 +0100",
+      "description": "Les chances de l’emporter du président de la Fédération française de football face au puissant président sortant paraissent maigres pour de nombreux titres étrangers, notamment en raison du déficit de notoriété du dirigeant français.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -179,15 +323,7 @@
       "category": "France"
     },
     {
-      "title": "Jean-Luc Mélenchon, candidat LFI à la présidentielle, va dîner avec des grands patrons français dont Bernard Arnault et Patrick Pouyanné",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 17 Nov 2026 11:23:56 +0100",
-      "description": "Le leader de La France insoumise répond à l'invitation d'une association patronale qui avait reçu Marine Le Pen au printemps.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Retraites : Marine Le Pen veut faire reculer l’âge de départ à 62 ans",
+      "title": "Retraites : Marine Le Pen veut permettre de partir entre 60 et 62 ans",
       "link": "https://www.liberation.fr/politique/elections/marine-le-pen-presente-son-projet-de-reforme-des-retraites-20261117_4PGOZBOHAJGRTN5SP3MQA6OCYE/",
       "date": "Tue, 17 Nov 2026 11:21:56 +0000",
       "description": "Lors d’une conférence de presse ce mardi 17 novembre au siège du Rassemblement national, la cheffe de file du parti d’extrême droite a présenté son projet de réforme, applicable selon elle dès 2028.",
@@ -203,20 +339,12 @@
       "category": "Monde"
     },
     {
-      "title": "«La bataille de France» ou l’étrange référence du camp Glucksmann",
-      "link": "https://www.liberation.fr/politique/la-bataille-de-france-ou-letrange-reference-du-camp-glucksmann-20261117_T6O5OLXAFVEYBLM3WZUPH7PNZ4/",
-      "date": "Tue, 17 Nov 2026 11:19:04 +0000",
-      "description": "En glissant des clins d’œil nébuleux à la Seconde Guerre mondiale dans des discours, le candidat PS-Place publique et son équipe sèment le doute quant à leur savoir historique.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Le gouvernement américain confirme l'enquête sur l'entreprise technologique Megaspeed",
+      "title": "Nvidia partenaire Megaspeed étant examiné par le gouvernement américain sur les exportations de puces",
       "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 17 Nov 2026 11:17:32 GMT",
       "description": "La société basée à Singapour est soupçonnée d'aider à expédier des puces AI haut de gamme de Nvidia géant de technologie à la Chine, en violation des règles américaines d'exportation.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Monde"
     },
     {
       "title": "Le Pakistan est-il sur le point de tailler de nouvelles provinces? Dans le plan controversé",
@@ -225,14 +353,6 @@
       "description": "Parler de nouvelles provinces s'est accéléré, mais il n'y a pas de proposition officielle ou d'entente entre les parties au gouvernement.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Pétition pour l’interdiction de CNews : Yaël Braun-Pivet «regrette» l’absence de débat, définitivement confirmée ce mardi",
-      "link": "https://www.liberation.fr/politique/petition-pour-linterdiction-de-cnews-yael-braun-pivet-regrette-labsence-de-debat-confirmee-ce-mardi-20261117_MDVWSFY4TZA5PBLPGNVMRESWEM/",
-      "date": "Tue, 17 Nov 2026 11:15:58 +0000",
-      "description": "Le texte qui avait recueilli plus d’un million de signatures ne sera pas débattu dans l’hémicycle a rapporté la présidente de l’Assemblée ce mardi 17 novembre, déplorant cette décision. Un débat sera organisé à la place.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Soldats français déployés en Ukraine: Moscou y voit une «participation directe» au conflit",
@@ -291,6 +411,22 @@
       "category": "Monde"
     },
     {
+      "title": "La montre Apple Live Rewind peut enregistrer et rembobiner les conversations parlées. C'est plutôt awkward",
+      "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "date": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "description": "Live Rewind et Siri Recap peuvent transcrire les moments manqués et résumer votre journée – si vous ne vous souciez pas d'une petite maladresse sociale.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Des agents de rogue ont piraté sa compagnie. Pourquoi Clément Delangue est-il si optimiste à propos de l'IA?",
+      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "date": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "description": "Le PDG français de Hugging Face, une méga-hube de logiciels d'IA open-source, a déclaré que l'attaque des modèles OpenAI plus tôt cette année a prouvé une chose : L'humanité ne peut pas laisser l'IA être contrôlée par les quelques.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
       "title": "Le côté obscur de la Lune était la partie la plus brillante de 2026",
       "link": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
       "date": "Tue, 17 Nov 2026 11:00:00 +0000",
@@ -311,30 +447,6 @@
       "link": "https://www.wired.com/story/wired-yearbook-2026/",
       "date": "Tue, 17 Nov 2026 11:00:00 +0000",
       "description": "L'année dernière était franchement folle. Pour notre premier WIRED Yearbook, nous célébrons les gens, les inventions et les moments viraux qui l'ont rendu un peu plus supportable – et qui définissent déjà l'avenir.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "La montre Apple Live Rewind peut enregistrer et rembobiner les conversations parlées. C'est plutôt awkward",
-      "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-      "date": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "description": "Live Rewind et Siri Recap peuvent transcrire les moments manqués et résumer votre journée – si vous ne vous souciez pas d'une petite maladresse sociale.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Des agents de rogue ont piraté sa compagnie. Pourquoi Clément Delangue est-il si optimiste à propos de l'IA?",
-      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "date": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "description": "Le PDG français de Hugging Face, une méga-hube de logiciels d'IA open-source, a déclaré que l'attaque des modèles OpenAI plus tôt cette année a prouvé une chose : L'humanité ne peut pas laisser l'IA être contrôlée par les quelques.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Comment un ensemble de YouTube Auteurs réinventent Hollywood",
-      "link": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
-      "date": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "description": "Les toilettes ont commencé en 4chan meme. L'obsession vient de quelqu'un qui a commencé dans la comédie de croquis en ligne. Ils ont tous les deux ramené des gens dans les théâtres, et c'est juste le début.",
       "source": "WIRED",
       "category": "Technologie"
     },
@@ -395,14 +507,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Qui est derrière Habibi UK, un compte X qui a ciblé les critiques d'Israël ?",
-      "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 10:53:42 +0000",
-      "description": "Un ancien agent du service extérieur des États-Unis dirigeait une entreprise qui finançait des annonces électorales attaquant Jeremy Corbyn.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Ces Ukrainiens sont au combat. Mais ils font face à la guerre chaque jour.",
       "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
       "date": "Tue, 17 Nov 2026 10:48:38 +0000",
@@ -411,35 +515,11 @@
       "category": "Monde"
     },
     {
-      "title": "Le pont de Crimée s'effondre en partie alors que Zelensky salue une attaque « sans précédent » de l'Ukraine",
+      "title": "Le pont de la Crimée de Poutine s'effondre en partie alors que Zelensky salue une attaque « sans précédent » de l'Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 17 Nov 2026 10:45:55 GMT",
       "description": "L'Ukraine dit que l'attaque a pris des semaines à planifier, tandis que le Kremlin s'engage à reconstruire le pont stratégique.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Fomula Un champion Fernando Alonso au Dakar Rally 2027",
-      "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 10:42:42 +0000",
-      "description": "Fernando Alonso fera son retour au Dakar 2027 au Maroc avec l'équipe Leob et Aston Martin.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Dassault contre Airbus, une rivalité industrielle qui complique le réarmement de l’Europe",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/17/dassault-contre-airbus-une-rivalite-industrielle-qui-complique-le-rearmement-de-l-europe_6812935_3234.html",
-      "date": "Tue, 17 Nov 2026 10:34:06 +0100",
-      "description": "Engagés sur des programmes communs, comme le système de combat aérien du futur (SCAF) ou l’Eurodrone, les deux groupes n’ont jamais réussi à travailler ensemble. Une mésentente durable qui remonte à leur origine.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Les autorités turques raident la chaîne d'information Sozcu, nomment une nouvelle direction",
-      "link": "https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 17 Nov 2026 10:24:00 GMT",
-      "description": "Les autorités turques ont attaqué les bureaux d'Istanbul de Sozcu TV, stoppé les émissions, nommé un administrateur et ouvert une enquête. Cela marque une autre répression sur les chaînes de télévision pro-opposition en Turquie.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -451,28 +531,12 @@
       "category": "Technologie"
     },
     {
-      "title": "EN DIRECT, grève du 17 novembre | Interdiction d’une AG à Marseille, perturbations dans les transports parisiens… suivez la journée avec nos envoyés spéciaux partout en France",
+      "title": "EN DIRECT, grève du 17 novembre | Interdiction d’une AG à Marseille, perturbations dans les transports parisiens… Suivez la journée avec nos envoyés spéciaux partout en France",
       "link": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html",
       "date": "Tue, 17 Nov 2026 10:16:08 +0100",
       "description": "L’ensemble des organisations syndicales dans la fonction publique appellent à se mobiliser ce mardi pour exiger des augmentations immédiates de salaires. Nos correspondants sont sur place à Paris, Marseille, Lyon, Toulouse, en Bretagne et dans le Nord.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Allemagne: Des plans pour le centre de migrants rwandais sont mis en feu",
-      "link": "https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 17 Nov 2026 10:15:00 GMT",
-      "description": "Des groupes de défense des droits de l'homme ont mis en échec le projet de l'Allemagne et de quatre autres États de l'UE d'envoyer des demandeurs d'asile déboutés au Rwanda. Dans d'autres nouvelles, les start-ups en Allemagne sont sur la bonne voie pour atteindre le plus haut niveau depuis 2015.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Qu'est-ce qui rend 'Grand Theft Auto VI' plus qu'un simple jeu ?",
-      "link": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 17 Nov 2026 10:09:00 GMT",
-      "description": "Lorsque \"GTA VI\" sortira le 19 novembre, des millions de personnes dans le monde se précipiteront vers leur console pour la jouer. Comment ce jeu vidéo a-t-il créé un tel buzz transgénérationnel ?",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Congo Éclosion Ebola : comment la peur et la méfiance stimulent la propagation de la communauté",
@@ -497,6 +561,14 @@
       "description": "Aux Philippines, la participation de Donald Trump ce mardi 17 novembre au sommet de l’Asean, puis sa rencontre bilatérale le lendemain avec le président Ferdinand Marcos Jr., attise la colère des étudiants. Ils dénoncent notamment la Pax Silica, une initiative portée par Washington, qu'ils accusent de privilégier les intérêts américains au détriment des populations locales. Ces derniers jours, des campus se sont mobilisés dans plusieurs villes de l’archipel.",
       "source": "RFI",
       "category": "France"
+    },
+    {
+      "title": "MANGROVE complète la première phase du réseau d'espace de combat sous-marin de l'OTAN, yeux Essai arctique",
+      "link": "https://www.navalnews.com/naval-news/2026/11/mangrove-nato-underwater-battlespace-network-arctic-trial/",
+      "date": "Tue, 17 Nov 2026 09:59:51 +0000",
+      "description": "Le consortium MANGROVE dirigé par Saab a achevé la phase 1 du réseau d'espaces de combat sous-marins de l'OTAN, mettant en place un essai d'interopérabilité en direct en juillet 2027. Le post MANGROVE complète la première phase du réseau d'espace de combat sous-marin de l'OTAN, regards Arctic trial appeared first on Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Hera surveillant les astéroïdes avec une vision surhumaine",
@@ -568,14 +640,6 @@
       "date": "Tue, 17 Nov 2026 09:23:40 GMT",
       "description": "Une fuite de 15 millions de fichiers détaille des défaillances de contrôle présumées à la Deutsche Bank, y compris les paiements liés à Epstein et une erreur fiscale Trump.",
       "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Où a le plus d'emplois pour les 18-24 ans? Utilisez notre recherche pour découvrir",
-      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 09:15:38 GMT",
-      "description": "Combien d'emplois y a-t-il là où vous vivez et dans quels secteurs êtes-vous le plus susceptible de trouver une ouverture?",
-      "source": "BBC News",
       "category": "Économie"
     },
     {
@@ -659,14 +723,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Trump lance la tournée Asie avant les pourparlers majeurs avec Poutine, Xi en Chine",
-      "link": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 17 Nov 2026 07:34:00 GMT",
-      "description": "Le président américain Donald Trump s'est rendu à Manille pour une réunion Quad avant de partir en Chine pour une rencontre très attendue avec ses homologues russes et chinois. Suivez en direct.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Nouvelle journée de manifestations et de grève partout en France",
       "link": "https://www.rfi.fr/fr/france/20261117-nouvelle-journ%C3%A9e-de-mobilisation-et-de-gr%C3%A8ve-partout-en-france",
       "date": "Tue, 17 Nov 2026 07:24:44 GMT",
@@ -675,20 +731,28 @@
       "category": "France"
     },
     {
+      "title": "Trump est en Asie avant Xi, le sommet de Poutine. Et les dirigeants de la technologie veulent Huang à Nvidia",
+      "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "date": "Tue, 17 Nov 2026 07:20:57 -0500",
+      "description": "Trump dit qu'il prévoit de discuter de l'Ukraine lors de son voyage en Asie, ce qui contredit ce que la Maison Blanche avait annoncé précédemment. Et les dirigeants de la Silicon Valley réclament le retour de Jensen Huang à Nvidia.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Une mystérieuse torsion dans l'univers la plus ancienne lumière pourrait révéler une nouvelle physique",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+      "date": "Tue, 17 Nov 2026 07:14:04 EST",
+      "description": "Les scientifiques ont repéré des indices d'une rotation mystérieuse dans l'univers plus ancienne lumière qui pourrait révéler une nouvelle physique et éclairer sur la matière noire et l'énergie noire. Une nouvelle technique développée à UC San Diego pourrait aider à éliminer les erreurs de télescope trompeuses, ce qui rapprocherait les chercheurs de la détermination de la réalité du signal étrange.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "Nvidia avertit les acheteurs de puces des risques juridiques liés à l'accès AI en Chine, des sources disent CNBC",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
       "date": "Tue, 17 Nov 2026 07:07:35 GMT",
       "description": "Le Département du commerce des États-Unis prend des mesures pour renforcer les contrôles à l'exportation.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Corps du cheval de la Coupe Melbourne trouvé jeté à Sydney skip",
-      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 07:01:00 GMT",
-      "description": "Les restes d'un cheval de course australien qui est mort de coliques lundi ont été trouvés à une décharge publique.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
@@ -723,6 +787,22 @@
       "category": "France"
     },
     {
+      "title": "Le langage caché de la psychopathie n'est pas ce que les scientifiques attendaient",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
+      "date": "Tue, 17 Nov 2026 06:51:35 EST",
+      "description": "Les scientifiques ont découvert que les traits psychopathiques sont associés à des modèles de langage étonnamment différents, certains utilisant des mots plus positifs et d'autres exprimant une plus grande négativité ou moins d'anxiété. Les résultats remettent en question les stéréotypes familiers sur la psychopathie et suggèrent que les histoires que les gens racontent sur leur vie peuvent offrir des indices importants sur leur personnalité.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
+      "title": "Ozempic et Mounjaro peuvent avoir un effet surprenant sur votre cerveau",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+      "date": "Tue, 17 Nov 2026 06:39:45 EST",
+      "description": "Blockbuster des médicaments de perte de poids comme Ozempic et Mounjaro peuvent faire plus que aider les gens à perdre des kilos, avec des preuves croissantes suggérant qu'ils pourraient également influencer la santé du cerveau. Bien que des études aient associé les médicaments GLP-1 à un risque plus faible de démence, des essais majeurs ont révélé que le sémaglutide ne ralentissait pas la maladie d'Alzheimer. Les scientifiques soupçonnent que ces médicaments peuvent être plus efficaces pour préserver la mémoire et les capacités de pensée chez les personnes atteintes d'obésité ou de diabète,",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "Google peut-il gagner la course d'IA sans tuer sa vache cash ?",
       "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
       "date": "Tue, 17 Nov 2026 06:30:00 -0500",
@@ -737,6 +817,22 @@
       "description": "Alors que 25 lycées étaient toujours perturbés lundi en Île-de-France, selon la région, France 24 a échangé avec des personnels éducatifs de trois établissements. Enseignants et membres de la vie scolaire témoignent, après deux mois de mobilisation, des relations dégradées avec les directions, de l'inquiétude pour les élèves et des adaptations organisationnelles bâclées.",
       "source": "France 24",
       "category": "France"
+    },
+    {
+      "title": "Ce nouveau matériau remarquable pourrait résoudre un problème majeur de captage du carbone",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+      "date": "Tue, 17 Nov 2026 06:29:36 EST",
+      "description": "Les scientifiques ont mis au point un nouveau matériau de captage du carbone qui transforme l'humidité d'un obstacle en un avantage, ce qui pourrait résoudre un problème majeur lié à l'élimination du CO2 des émissions industrielles. Le matériau fonctionne même dans des conditions extrêmement humides et peut être réutilisé à plusieurs reprises, offrant une voie prometteuse vers une capture du carbone moins chère et plus efficace.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
+      "title": "Babcock et ST Engineering partenaires sur les opportunités maritimes internationales",
+      "link": "https://www.navalnews.com/naval-news/2026/11/babcock-and-st-engineering-partner-on-international-maritime-opportunities/",
+      "date": "Tue, 17 Nov 2026 06:28:00 +0000",
+      "description": "Babcock International Group (Babcock) a signé un protocole d'entente avec ST Engineering, un groupe mondial de technologie, de défense et d'ingénierie, pour collaborer à la création d'opportunités maritimes internationales en mettant l'accent sur les marchés mondiaux émergents, y compris la région d'Indo Pacific. Communiqué de presse de Babcock L'accord réunit les forces complémentaires des deux organisations qui ... Le post Babcock et ST Engineering partenaire",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Apple ajoute de nouvelles commandes de disque pour empêcher les agents d'IA d'exécuter amok",
@@ -867,14 +963,6 @@
       "category": "Monde"
     },
     {
-      "title": "Est-ce que les interdictions de téléphone cellulaire à l'école fonctionnent? Nouvelle étude dit oui – mais c'est compliqué",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-      "date": "Tue, 17 Nov 2026 05:00:00 -0500",
-      "description": "Une nouvelle étude sur les interdictions de téléphone cellulaire à l'école révèle qu'elles peuvent aider les élèves à rattraper certains des apprentissages qu'ils ont perdus depuis 2013 – une divergence par rapport aux résultats d'études antérieures.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Révélé: la Russie, l'Arabie saoudite et l'Australie sont les plus grands exportateurs de CO2 de tous les temps",
       "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
       "date": "Tue, 17 Nov 2026 05:00:00 +0000",
@@ -899,12 +987,20 @@
       "category": "Monde"
     },
     {
+      "title": "United Airlines dit «dépannage généralisé résolu",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+      "date": "Tue, 17 Nov 2026 02:57:06 GMT",
+      "description": "Airline reconnaît «question technologique qui retarde les départs de vol» lors de la dernière panne de grande visibilité pour affecter les Américains United. Nous avons résolu un problème technologique qui a retardé les départs de vol. Bien que certains vols aient été retardés, il n'y a pas eu d'incidence sur",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
       "title": "Nvidia rejette la campagne \"Bring Jensen Back\" alors que Trump soutient les efforts pour rétablir ex patron",
       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 17 Nov 2026 02:37:53 GMT",
       "description": "Un certain nombre de figures technologiques ont soutenu un effort demandant au géant des puces AI de rendre son travail à Jensen Huang.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Les stagiaires voleront T-38s une autre décennie alors que T-7 mûrit",
@@ -945,14 +1041,6 @@
       "description": "L'Allemagne, l'Autriche, les Pays-Bas, le Danemark et la Grèce sont susceptibles de faire face à des défis politiques critiqués en tant qu'«échec moral grave» Cinq États membres de l'UE ont annoncé leur intention de créer un centre offshore au Rwanda pour les personnes n'ayant aucun droit légal de séjour en Europe, dans le cadre d'un projet pilote qui devrait faire face à des défis juridiques et a été dénoncé comme un grave échec moral. L'Allemagne, l'Autriche, les Pays-Bas, le Danemark et la Grèce",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "Nouvelle-Zélande tricks et le congé annuel - les longueurs fans vont à pour GTA 6",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 01:04:45 GMT",
-      "description": "Capteur Tower estime que le jeu a déjà gagné 1,18 milliard de dollars en précommandes sur PlayStation et Xbox",
-      "source": "BBC News",
-      "category": "Technologie"
     },
     {
       "title": "Russie Kerch pont routier véhicule a été détruit par l'Ukraine",
@@ -1139,14 +1227,6 @@
       "category": "Défense"
     },
     {
-      "title": "Le secret de la construction des bases de la Lune peut se cacher dans des couvertures d'urgence",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
-      "date": "Sun, 15 Nov 2026 22:51:01 EST",
-      "description": "Les scientifiques ont transformé le plastique mince utilisé dans les couvertures d'urgence en une isolation remarquablement forte qui pourrait aider les astronautes à survivre aux températures extrêmes de la Lune. Construit à partir de centaines de couches empilées, le matériau résiste à la pression de concassage sans perdre sa protection thermique, ouvrant potentiellement la voie à des habitats lunaires plus résistants et plus durables.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
       "title": "Un virus ancien peut aider à expliquer ce qui rend le cerveau humain différent",
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
       "date": "Sun, 15 Nov 2026 19:32:12 EST",
@@ -1259,14 +1339,6 @@
       "category": "Économie"
     },
     {
-      "title": "Les scientifiques découvrent une façon étonnamment simple de transformer les déchets de café en combustible",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
-      "date": "Sat, 14 Nov 2026 06:42:28 EST",
-      "description": "Les scientifiques ont mis au point une méthode efficace pour transformer les terrains de café usagés en source potentielle de biodiésel tout en préservant les restes d'autres combustibles renouvelables et de produits chimiques précieux. Cette découverte pourrait transformer des millions de tonnes de déchets de café jetés en une ressource étonnamment utile pour l'énergie durable.",
-      "source": "ScienceDaily",
-      "category": "Environnement"
-    },
-    {
       "title": "«C'est frustrant: le chaos dans les aéroports américains comme l'arrêt planifie de s'arrêter",
       "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
       "date": "Sat, 14 Nov 2026 02:49:59 GMT",
@@ -1347,14 +1419,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Les start-ups d'IA qui réparent les routes cassées de l'Inde et les records de terrain en désordre",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 16 Nov 2026 23:25:53 GMT",
-      "description": "Des technologies juridiques aux soins de santé, des dizaines de start-ups indiennes d'IA résolvent des défis propres aux Indiens.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Première affectation permanente des F-15EX à la base aérienne de Kadena",
       "link": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
       "date": "Mon, 16 Nov 2026 23:23:56 +0000",
@@ -1393,14 +1457,6 @@
       "description": "Au Cambodge, le sommet de la Francophonie s’est achevé ce lundi sur le report d’un an de l’élection à la tête de l’organisation. En cause notamment : les tensions entre la République démocratique du Congo et le Rwanda. La secrétaire générale, la Rwandaise Louise Mushikiwabo, reste donc en poste jusqu’au prochain scrutin. L'occasion de parler de la francophonie et de son avenir qui se joue d'ailleurs principalement sur le continent africain.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Aschenbrenner, la prise de conscience de la situation a encore fait des paris d'IA avant octobre",
-      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-      "date": "Mon, 16 Nov 2026 23:05:12 GMT",
-      "description": "Le hedge fund de Leopold Aschenbrenner, qui s'est presque effondré au cours de l'été, a acheté des actions AI avant que les actions commencent à s'effondrer.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "La start-up Robo-Soldier soutenue par Eric Trump rate la paie, peut s'effondrer",
@@ -1467,6 +1523,14 @@
       "category": "Économie"
     },
     {
+      "title": "Addiction au cannabis liée à 57 % plus de probabilités de pensées suicidaires",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm",
+      "date": "Mon, 16 Nov 2026 21:57:22 EST",
+      "description": "Une étude massive impliquant plus de 415 000 Américains a révélé un lien concernant entre le trouble de consommation de cannabis et les pensées suicidaires. Les chercheurs ont constaté que les adultes atteints du trouble avaient 57 % plus de chances d'éprouver des pensées suicidaires, les femmes et les jeunes adultes présentant des risques particulièrement élevés.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "Trois petites défaillances combinées pour faire tomber Microsoft 365",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
       "date": "Mon, 16 Nov 2026 21:56:39 +0000",
@@ -1507,12 +1571,20 @@
       "category": "Exploration"
     },
     {
-      "title": "Revivez le vaisseau historique Vol 15 avec nos meilleures photos du lancement et ‘Mechazilla'",
+      "title": "Le vol historique 15 de Relive Starship avec nos meilleures photos du lancement et de la tour de Mechazilla",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
       "date": "Mon, 16 Nov 2026 21:26:29 +0000",
       "description": "Découvrez les photos les plus épiques du vol d'essai Vol 15 de SpaceX et des prises historiques de la tour de lancement.",
       "source": "Space.com",
       "category": "Exploration"
+    },
+    {
+      "title": "U.S. Navy Orders 82 UUV supplémentaires de Lionfish de HII",
+      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
+      "date": "Mon, 16 Nov 2026 21:25:59 +0000",
+      "description": "HII a reçu un contrat de la U.S. Navy pour 82 véhicules sous-marins Lionfish (UUVs) supplémentaires, ce qui porte le total des unités commandées à 175 avec 50 livrés. L'article U.S. Navy Orders 82 UUV supplémentaires Lionfish de HII est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Cette Supernova est 50 millions d'années-lumière, mais c'est assez proche pour les astronomes",
@@ -1529,6 +1601,14 @@
       "description": "Suite à une annonce d'octobre, Apple a détaillé de nouveaux contrôles d'autorisation, des avertissements et des fonctionnalités de transparence à venir sur macOS 27.3 pour traiter les risques posés par les agents d'IA et d'autres applications.",
       "source": "TechCrunch",
       "category": "Technologie"
+    },
+    {
+      "title": "La marine américaine commande quatre patrouilleurs supplémentaires de 40 PB en provenance de Metal Shark",
+      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
+      "date": "Mon, 16 Nov 2026 20:56:33 +0000",
+      "description": "Metal Shark a reçu une commande de livraison de quatre patrouilleurs supplémentaires de 40 PB Flight 2, augmentant ainsi sa production de flotte en Louisiane. The post U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Microsoft identifie le bug vieux de mois comme une cause racine de panne mondiale",
@@ -1635,14 +1715,6 @@
       "category": "Technologie"
     },
     {
-      "title": "La Cour suprême maintient en place une injonction contre le financement de l'aide de DEI",
-      "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "date": "Mon, 16 Nov 2026 19:54:21 +0000",
-      "description": "La décision de la cour d'appel a rejeté les annulations pour les motifs du premier amendement.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
       "title": "Uber dit que les pirates ont volé des informations sur près de 150 000 permis de conduire pendant la violation de données",
       "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
       "date": "Mon, 16 Nov 2026 19:53:00 +0000",
@@ -1697,6 +1769,14 @@
       "description": "Une grande vague a fait tomber au moins un spectateur sur une plage du nord de la Californie le 14 novembre, alors que de fortes marées ont frappé la côte ouest au cours du week-end. Les vagues ont atteint jusqu'à 50pieds le long de la côte alors que des houles surchargées par El Niño ont frappé dans les communautés balnéaires Continuer à lire...",
       "source": "The Guardian",
       "category": "Environnement"
+    },
+    {
+      "title": "DIU décerne un contrat saronique pour la livraison d'un navire autonome à faible profil pour la logistique contestée USMC",
+      "link": "https://www.navalnews.com/naval-news/2026/11/diu-awards-saronic-contract-to-deliver-autonomous-low-profile-vessel-for-usmc-contested-logistics/",
+      "date": "Mon, 16 Nov 2026 18:44:02 +0000",
+      "description": "L'Unité d'innovation pour la défense a attribué à Saronique Technologies un contrat prototype pour la livraison du navire autonome à faible profil (ALPV) pour le ravitaillement du U.S. Marine Corps. L'article DIU Awards Saronic Contract to Delivery Autonome Low Profile Vessel for USMC Concours Logistics est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "À mesure que les radars exquis deviennent des cibles, les petits capteurs tactiques jouent un rôle plus important.",
@@ -1915,6 +1995,14 @@
       "category": "Technologie"
     },
     {
+      "title": "La marine américaine réduit les retards d'entretien sous-marin de 40 % à mesure que la sortie surgisse",
+      "link": "https://www.navalnews.com/naval-news/2026/11/us-submarine-industrial-base-cuts-maintenance-delays/",
+      "date": "Mon, 16 Nov 2026 12:43:44 +0000",
+      "description": "Les réformes de la base industrielle des sous-marins américains ont aidé la marine américaine à réduire les délais d'entretien de 40 % et à retourner ou livrer 10 sous-marins au cours des 12 derniers mois. L'article U.S. Navy coupe les retards d'entretien sous-marin de 40 % à mesure que les enquêtes de sortie apparaissent en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
       "title": "Travaillant dans les eaux du Cap Cod, il vit une mye inhabituelle. C'était le début d'une invasion",
       "link": "https://www.theguardian.com/environment/2026/nov/16/cape-cod-invasive-manila-clams",
       "date": "Mon, 16 Nov 2026 12:00:58 GMT",
@@ -1979,30 +2067,6 @@
       "category": "Défense"
     },
     {
-      "title": "La vitamine B12 peut avoir la clé pour traiter un trouble génétique rare",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
-      "date": "Mon, 16 Nov 2026 09:31:10 EST",
-      "description": "Les scientifiques ont découvert que la vitamine B12 avait largement inversé les anomalies du développement chez les vers porteurs d'une mutation génétique liée au syndrome de Verheij, un trouble rare qui cause des problèmes de croissance et des retards de développement. Des changements métaboliques similaires ont été identifiés chez les patients humains, ce qui augmente la possibilité que cette vitamine commune puisse inspirer de nouveaux traitements pour les maladies génétiques rares.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
-      "title": "Les scientifiques découvrent que le cœur ne vieillit pas comme nous pensions",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
-      "date": "Mon, 16 Nov 2026 09:16:56 EST",
-      "description": "Les scientifiques ont découvert que le cœur vieillit inégalement, avec des points chauds surprenants de l'inflammation et des cicatrices concentrées dans les valves et les principaux vaisseaux sanguins plutôt que le muscle cardiaque. Les résultats remettent en question les hypothèses de longue date sur le vieillissement cardiaque et pourraient aider les chercheurs à trouver de nouvelles façons de protéger le cœur à mesure que nous vieillissons.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
-      "title": "La NASA offre 1 million de dollars pour des idées audacieuses pour aider à construire une base lune",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
-      "date": "Mon, 16 Nov 2026 09:02:10 EST",
-      "description": "La NASA offre 1 million de dollars dans son nouveau Moon Base Challenge, invitant les étudiants américains à développer des solutions innovantes pour construire l'humanité. Des systèmes électriques à la sécurité des astronautes, leurs idées pourraient aider à rendre la vie à long terme sur la Lune possible et ouvrir la voie à Mars.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
       "title": "Au moins 17 personnes tuées dans deux fusillades séparées en Afrique du Sud",
       "link": "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711",
       "date": "Mon, 16 Nov 2026 08:55:00 +0000",
@@ -2043,14 +2107,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Nouveau patch ultrasons portable stimule le sommeil REM sans médicaments ni chirurgie",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
-      "date": "Mon, 16 Nov 2026 05:22:15 EST",
-      "description": "Un nouveau patch portable révolutionnaire pourrait aider les gens à dormir plus réparateur sans médicaments ni chirurgie. Développé par des chercheurs de l'Université du Texas, l'appareil utilise une échographie douce pour stimuler les régions du cerveau profond, aidant les participants à entrer dans le sommeil REM 43 minutes plus rapidement et y rester 16 minutes plus longtemps en moyenne. La technologie a également montré des effets prometteurs sur la régulation du stress et les circuits du cerveau impliqués dans l'émotion.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
       "title": "Skeleton trouvé au Danemark vient d'un homme qui a assisté à l'arrivée de l'agriculture",
       "link": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Mon, 16 Nov 2026 00:01:00 +0000",
@@ -2075,14 +2131,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Microsoft panne secoue les entreprises, les écoles et les gouvernements locaux partout aux États-Unis",
-      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-      "date": "Fri, 13 Nov 2026 21:13:59 GMT",
-      "description": "Les responsables locaux avertissent que certains services demeurent indisponibles même lorsque Outlook commence à reprendre ses opérations normales après la panne.La panne Microsoft Outlook a secoué les entreprises et les gouvernements locaux à travers les États-Unis qui utilisent sa suite de courriels, de calendriers, de visioconférences et de systèmes de stockage en nuage. Même lorsque Outlook a commencé à reprendre ses opérations normales vendredi matin, des dirigeants locaux de tout le pays, y compris à Miami, Maryland et Los Angeles,",
-      "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
       "title": "Code de consolidation: USAF cherche un intégrateur de logiciels pour KC-46 Tankers",
       "link": "https://www.airandspaceforces.com/usaf-seeks-software-integrator-kc-46-tankers/",
       "date": "Fri, 13 Nov 2026 20:57:55 +0000",
@@ -2099,14 +2147,6 @@
       "category": "Environnement"
     },
     {
-      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
-      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "La Fédération de l'espace commercial accueille CesiumAstro comme nouveau membre associé",
       "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
       "date": "Fri, 13 Nov 2026 18:00:00 +0000",
@@ -2115,18 +2155,18 @@
       "category": "Exploration"
     },
     {
-      "title": "El Niño a-t-il provoqué une rupture précoce du vortex polaire ?",
-      "link": "https://www.newscientist.com/article/2599008-did-el-nino-cause-an-early-breakdown-in-the-polar-vortex/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 17:55:02 +0000",
-      "description": "Les vents polaires du vortex ont subi un affaiblissement sans précédent, qui pourrait amener le froid en Europe. Certains scientifiques soupçonnent que le record El Niño est à blâmer",
+      "title": "La pollution sonore remodele la santé et le comportement des animaux partout",
+      "link": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "description": "Il n'y a presque nulle part sur Terre sans bruit humain perturbateur – mais c'est l'un des problèmes environnementaux les plus faciles à résoudre",
       "source": "New Scientist",
       "category": "Sciences"
     },
     {
-      "title": "Les chercheurs construisent la première horloge quantique qui utilise la lumière du soleil",
-      "link": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 13 Nov 2026 17:00:00 +0000",
-      "description": "Les horloges quantiques reposent généralement sur des lasers avancés et des atomes isolés dans le laboratoire, mais une nouvelle expérience a montré que la même conception d'horloge peut fonctionner avec la lumière du soleil à la place",
+      "title": "El Niño a-t-il provoqué une rupture précoce du vortex polaire ?",
+      "link": "https://www.newscientist.com/article/2599008-did-el-nino-cause-an-early-breakdown-in-the-polar-vortex/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 13 Nov 2026 17:55:02 +0000",
+      "description": "Les vents polaires du vortex ont subi un affaiblissement sans précédent, qui pourrait amener le froid en Europe. Certains scientifiques soupçonnent que le record El Niño est à blâmer",
       "source": "New Scientist",
       "category": "Sciences"
     },
@@ -2219,6 +2259,30 @@
       "category": "Technologie"
     },
     {
+      "title": "Trois léopards perses à trois pattes Un voyage de 150 milles met en évidence les dangers frontaliers du Caucase",
+      "link": "https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/",
+      "date": "17 Nov 2026 12:19:48 +0000",
+      "description": "Un léopard persan en voie de disparition que les chercheurs ont nommé Aren a récemment terminé un voyage de 240 kilomètres (150 milles) à travers les montagnes du Caucus enneigées qui chevauchent la Russie, la Géorgie, l'Arménie et l'Azerbaïdjan. Ne sont pas seulement navigués un paysage qui contient encore des champs de mines vieux de décennies provenant de conflits antérieurs, mais il l'a fait sur seulement trois jambes. Son voyage met en lumière les graves dangers [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
+      "title": "La transition mondiale de l'énergie propre exige des millions d'acres, menaçant les droits des autochtones : rapport",
+      "link": "https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report-2/",
+      "date": "17 Nov 2026 12:06:29 +0000",
+      "description": "D'après un rapport récent, la poussée mondiale vers la transition vers l'abandon des combustibles fossiles est à l'origine d'une poussée massive de l'extraction minière et des infrastructures d'énergie renouvelable qui réorganise fondamentalement l'utilisation des terres, les flux de ressources et les relations géopolitiques de puissance. Le rapport, publié en novembre par l'International Land Coalition (ILC) et la Land Matrix, [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
+      "title": "La transition mondiale de l'énergie propre exige des millions d'acres, menaçant les droits des autochtones : rapport",
+      "link": "https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report/",
+      "date": "17 Nov 2026 12:00:34 +0000",
+      "description": "D'après un rapport récent, la poussée mondiale vers la transition vers l'abandon des combustibles fossiles est à l'origine d'une poussée massive de l'extraction minière et des infrastructures d'énergie renouvelable qui réorganise fondamentalement l'utilisation des terres, les flux de ressources et les relations géopolitiques de puissance. Le rapport, publié en novembre par l'International Land Coalition (ILC) et la Land Matrix, [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Les minéraux critiques",
       "link": "https://news.mongabay.com/specials/2026/11/drcs-critical-minerals-moment/",
       "date": "17 Nov 2026 09:49:33 +0000",
@@ -2239,30 +2303,6 @@
       "link": "https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/",
       "date": "17 Nov 2026 04:56:32 +0000",
       "description": "SINGAPORE — Avec l'appétit de Singapour pour l'électricité qui devrait atteindre la moitié de sa demande de pointe actuelle d'ici 2031, le pays se tourne vers ses voisins pour qu'ils accumulent de l'électricité propre — en partie pour maintenir ses centres de données à la hausse et soutenir l'absorption des véhicules électriques. La ville-état, qui a peu de place [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "L'accord sur la pollution du fleuve Thaïlande-Myanmar a été affaibli, puis signé. La Chine reste silencieuse",
-      "link": "https://news.mongabay.com/2026/11/thailand-myanmar-river-pollution-agreement-was-weakened-then-signed-china-remains-silent/",
-      "date": "17 Nov 2026 03:36:37 +0000",
-      "description": "MAE SAI, Thaïlande - Le ministre thaïlandais des Affaires étrangères Sihasak Phuangketkeow a effectué une visite d'une journée à Naypyidaw, la capitale du Myanmar, le 12 novembre, pour parler avec le régime militaire au sujet du commerce, de la sécurité des frontières et, notamment, de la pollution des rivières thaïlandaises contaminées par la pollution minière. Alors que le ministère thaïlandais des Affaires étrangères a signalé que la pollution transfrontière provenant de [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Les poissons paient le prix des rituels sacrés à Banganga",
-      "link": "https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/",
-      "date": "16 Nov 2026 23:18:51 +0000",
-      "description": "En octobre, des centaines de poissons ont été trouvés morts dans le réservoir de Banganga de Mumbai, un ancien réservoir d'eau douce considéré comme sacré avec des racines dans la mythologie indienne. Les décès de poissons sont devenus presque annuels à la suite des rituels de Pitru Paksha, lorsque des fleurs et divers aliments sont immergés dans l'eau. Les immersions provoquent probablement une chute sévère [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Pataxó Indigènes protestent contre l'arrestation d'une femme vice-chef au Brésil",
-      "link": "https://news.mongabay.com/short-article/2026/11/pataxo-indigenous-people-protest-the-arrest-of-a-female-vice-chief-in-brazils-bahia/",
-      "date": "16 Nov 2026 22:40:33 +0000",
-      "description": "Pataxó Les autochtones ont occupé l'entrée du poste de police civil dans la ville d'Eunápolis, dans l'extrême sud de l'État de Bahia du Brésil le 12 novembre. Il s'agissait d'une manifestation pacifique contre l'arrestation de deux dirigeants de Pataxó dans le territoire autochtone de Barra Velha. Erilsa Braz dos Santos, connue sous le nom d'Uruba Pataxó, vice-chef de [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
