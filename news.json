@@ -1,14 +1,110 @@
 {
-  "updated_at": "2026-11-18T03:38:44.443945+00:00",
-  "count": 287,
+  "updated_at": "2026-11-18T04:43:21.387732+00:00",
+  "count": 286,
   "articles": [
+    {
+      "title": "Au procès de l’interpellation violente de Michel Zecler, mea culpa et fausses justifications des policiers",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/18/au-proces-de-l-interpellation-violente-de-michel-zecler-mea-culpa-et-fausses-justifications-des-policiers_6813061_3224.html",
+      "date": "Wed, 18 Nov 2026 05:00:10 +0100",
+      "description": "Trois fonctionnaires sont jugés par la cour criminelle de Paris pour avoir passé à tabac le producteur, dans son studio de musique, en novembre 2020. Mardi, ils ont enfin été entendus sur les violences qui leur sont reprochées et pour lesquelles ils ont exprimé des excuses.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Sénat américain : les démocrates remportent l’Alaska et étendent leur majorité à 56 sièges contre 44",
+      "link": "https://www.lefigaro.fr/international/senat-americain-les-democrates-remportent-l-alaska-et-etendent-leur-majorite-a-56-sieges-contre-44-20261118",
+      "date": "Wed, 18 Nov 2026 04:56:12 +0100",
+      "description": "La candidate autochtone s’est imposée au bout du suspense avec 50,12% des voix face au sénateur républicain sortant, Dan Sullivan.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
     {
       "title": "Mises à jour en direct : Trump rencontre le leader philippin avant de s'envoler vers la Chine",
       "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "date": "Wed, 18 Nov 2026 03:35:22 +0000",
+      "date": "Wed, 18 Nov 2026 04:33:50 +0000",
       "description": "La prochaine étape du voyage en Asie du président Trump est la ville de Shenzhen, où il devrait rencontrer Xi Jinping de Chine et le président Vladimir V. Poutine de Russie.",
       "source": "The New York Times",
       "category": "Monde"
+    },
+    {
+      "title": "Poutine dit que l'UE perd de l'industrie, en retard sur la concurrence avant de rencontrer Trump, Xi",
+      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "date": "Wed, 18 Nov 2026 04:27:45 GMT",
+      "description": "Poutine s'est servi de ce discours pour souligner la résilience économique de la Russie malgré les sanctions américaines et a joué des occasions pour les membres de l'APEC dans le pays.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "« Aarigaa ! » : le triomphe du Sénat américain historique de Mary Peltola et ce que cela signifie pour les autochtones de l'Alaska",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+      "date": "Wed, 18 Nov 2026 04:25:29 GMT",
+      "description": "Peltola, la première autochtone de l'Alaska au Sénat des États-Unis, a mené une campagne qui a attiré l'attention sur les questions universelles de sa propre politique autochtone Tard dans la nuit du 3 novembre, tandis que les 48 États inférieurs étaient en train de s'éloigner de l'effondrement de la vague bleue aux États-Unis, Mary Peltola a pris la scène dans une salle de bal Sheraton Hotel à Anchorage, en Alaska, pour saluer ses partisans. Ce n'était pas un discours de victoire en tant que tel – il y aurait encore de longs jours avant que tous les votes puissent être",
+      "source": "The Guardian",
+      "category": "Environnement"
+    },
+    {
+      "title": "La Démocrate Mary Peltola remporte les élections au Sénat de l'Alaska",
+      "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+      "date": "Wed, 18 Nov 2026 04:18:13 GMT",
+      "description": "La défaite de Peltola contre le républicain actuel Dan Sullivan donne aux démocrates une forte majorité de 56 sièges au Sénat en janvier.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "L ' Australie sanctionne les colons israéliens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 04:12:03 +0000",
+      "description": "L'Australie a imposé des sanctions à trois Israéliens et à quatre organisations pour l'expansion illégale des colonies.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'homme pakistanais obtient 27 ans pour complot déjoué pour tuer Trump, Biden",
+      "link": "https://www.dw.com/en/pakistani-man-gets-27-years-for-foiled-plot-to-kill-trump-biden/a-79976086?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 18 Nov 2026 04:03:00 GMT",
+      "description": "Un Pakistanais lié au gouvernement iranien a été condamné à plus de 27 ans de prison pour avoir comploté pour tuer des politiciens américains, dont le président Donald Trump.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Rubio exclut les cyberattaques ou les liens entre les pannes technologiques",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 04:01:16 +0000",
+      "description": "Marco Rubio, secrétaire d'État américain, a déclaré qu'il n'y avait aucune preuve établissant un lien entre les pannes techniques ou les cyberattaques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Jeff Bezos dit qu'il était « très impliqué » dans le casting de Robert Pattinson comme nouveau 007",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 18 Nov 2026 04:00:54 GMT",
+      "description": "Le PDG d'Amazon a dit qu'il était à l'origine « contre » Pattinson « parce qu'il est déjà si célèbre ».",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "Mozambique: le procès de l'opposant Venancio Mondlane s'est ouvert devant la Cour suprême de Maputo",
+      "link": "https://www.rfi.fr/fr/afrique/20261118-mozambique-le-proc%C3%A8s-de-l-opposant-venancio-mondlane-s-est-ouvert-devant-la-cour-supr%C3%AAme-de-maputo",
+      "date": "Wed, 18 Nov 2026 04:00:10 GMT",
+      "description": "Poursuivi pour les violences survenues à la suite de la présidentielle de 2024 à laquelle il s'était porté candidat, le président du parti Anamola s'est montré confiant pour la suite des débats à l'issue de la première audience qui s'est déroulée mardi 17 novembre.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Le sommet de l'Apec s'ouvre à Shenzhen en attendant la réunion entre Donald Trump, Vladimir Poutine et Xi Jinping",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261118-le-sommet-de-l-apec-s-ouvre-%C3%A0-shenzhen-en-attendant-la-r%C3%A9union-entre-donald-trump-vladimir-poutine-et-xi-jinping",
+      "date": "Wed, 18 Nov 2026 03:57:36 GMT",
+      "description": "Avenir de la trêve commerciale entre Pékin et Washington, volonté de la Chine de restreindre l'accès du Japon aux terres rares et des alliés de l'Ukraine de faire pression sur l'économie russe ou encore hégémonie commerciale de Pékin : le sommet de l'Apec qui s'est ouvert ce mercredi 18 novembre à Shenzhen est, une fois encore, marqué par de nombreux sujets de tensions entre les 21 membres de l'organisation.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Dans les Hauts-de-France, le paradoxe de la «vallée de la batterie»",
+      "link": "https://www.liberation.fr/forums/dans-les-hauts-de-france-le-paradoxe-de-la-vallee-de-la-batterie-20261118_LWIHDWQPY5F6PMJMAJ3RNLPWAY/",
+      "date": "Wed, 18 Nov 2026 03:45:00 +0000",
+      "description": "Dans le bassin minier, l’implantation d’usines de fabrication de batteries est un renouveau économique pour la région, mais ne règle pas la dépendance à la voiture.",
+      "source": "Libération",
+      "category": "France"
     },
     {
       "title": "Chine Xi appelle à supprimer les obstacles au commerce et aux investissements avant sa rencontre avec Trump et Poutine",
@@ -19,6 +115,14 @@
       "category": "Économie"
     },
     {
+      "title": "Mary Peltola renverse le siège du Sénat de l'Alaska dans une autre victoire démocratique",
+      "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 03:28:41 +0000",
+      "description": "Le concours fort recherché est le dernier à être appelé au Sénat américain et est probablement confronté à des défis juridiques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Trois choses à regarder comme Trump, Xi et Poutine se rencontrent en Chine",
       "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
       "date": "Wed, 18 Nov 2026 03:25:32 GMT",
@@ -27,20 +131,12 @@
       "category": "Économie"
     },
     {
-      "title": "JPMorgan travaille sur les transactions d'agents d'IA qui ne concernent pas les humains",
-      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "date": "Wed, 18 Nov 2026 03:17:55 GMT",
-      "description": "JPMorgan et Hyundai Card cherchent à développer l'utilisation des agents d'IA dans les transactions financières.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Waymo tire temporairement des taxis sans chauffeur de toutes les autoroutes américaines",
+      "title": "Waymo tire des taxis sans chauffeur de toutes les autoroutes américaines",
       "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 18 Nov 2026 03:07:22 GMT",
       "description": "La décision est prise après que la Californie a interdit aux véhicules sans chauffeur de Waymo de circuler sur les autoroutes de l'État à la suite d'une série d'incidents de circulation.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Économie"
     },
     {
       "title": "Slovaquie : Des milliers de manifestants contre le leader pro-Kremlin Robert Fico",
@@ -75,22 +171,6 @@
       "category": "Économie"
     },
     {
-      "title": "Jeff Bezos dit qu'il était « très impliqué » dans le casting de Robert Pattinson comme nouveau 007",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 18 Nov 2026 02:40:45 GMT",
-      "description": "Le PDG d'Amazon a dit qu'il était à l'origine « contre » Pattinson « parce qu'il est déjà si célèbre ».",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : les pays du Golfe en alerte après des frappes américaines sur une île iranienne",
-      "link": "https://www.lefigaro.fr/international/koweit-l-armee-dit-qu-elle-pare-des-attaques-de-drones-hostiles-20261118",
-      "date": "Wed, 18 Nov 2026 02:36:34 +0100",
-      "description": "Les forces armées de Bahreïn et du Koweït ont annoncé mercredi faire face à des «attaques aériennes iraniennes».",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Les rares images du groupe autochtone en Amazonie mettent en évidence les menaces, disent les défenseurs",
       "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
       "date": "Wed, 18 Nov 2026 02:36:09 +0000",
@@ -123,14 +203,6 @@
       "category": "Économie"
     },
     {
-      "title": "Agents de l'IEC femme enceinte",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 02:17:12 +0000",
-      "description": "Une Américaine a été poussée au sol et a versé du poivre par des agents de l'ICE malgré leur avoir dit qu'elle était enceinte.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Crédit du Sénat Contraintes USAF-S Fighter Plans",
       "link": "https://www.airandspaceforces.com/senate-appropriators-constrain-usaf-fighter-plans/",
       "date": "Wed, 18 Nov 2026 02:06:30 +0000",
@@ -147,36 +219,12 @@
       "category": "Défense"
     },
     {
-      "title": "LeBron James poursuit la startup sur une annonce d'IA virale qui exploiterait sa ressemblance",
-      "link": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html",
-      "date": "Wed, 18 Nov 2026 02:02:02 GMT",
-      "description": "LeBron James a intenté une action en justice contre une start-up de paris sportifs alimentée par l'IA pour utilisation non autorisée de son image.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Les enjeux de la startup de Nvidia s'élèvent à 65 milliards de dollars, mais la sortie de Huangs met en doute les contrats futurs",
       "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
       "date": "Wed, 18 Nov 2026 01:44:21 +0000",
       "description": "La valeur des investissements privés de Nvidia a presque triplé au cours des neuf derniers mois, alimentée par Jensen Huang.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Qu'est-ce que Trump espère accomplir lors de la réunion de l'APEC en Chine?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 01:33:05 +0000",
-      "description": "Le président américain s'attend à rencontrer le leader chinois pour la troisième fois cette année; tenir un sommet trilatéral avec Poutine.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Les procureurs allèguent que l'homme a volé un avion militaire américain à l'aéroport irlandais",
-      "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 01:32:52 +0000",
-      "description": "Daithi O'Corrain, 48 ans, a été accusé d'avoir endommagé un avion C-130 militaire américain pendant qu'il était garé pendant la nuit.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Nvidia dit qu'il ne rétablira pas Huang comme des rapports fermes pare-chocs",
@@ -280,7 +328,7 @@
       "date": "Wed, 18 Nov 2026 00:00:24 GMT",
       "description": "L'Europe espère être un leader dans une nouvelle génération de puces informatiques qui utilisent la lumière pour traiter les données.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Économie"
     },
     {
       "title": "Vous pouvez maintenant voir et modifier ce que Google Gemini se souvient de vous",
@@ -435,7 +483,7 @@
       "category": "Technologie"
     },
     {
-      "title": "Thomas Markle inculpé pour abus sexuel sur enfants aux Philippines",
+      "title": "La police philippine demande aux procureurs d'inculper Thomas Markle pour abus sexuel sur enfant",
       "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 17 Nov 2026 22:44:15 GMT",
       "description": "Markle est détenu aux États-Unis après une accusation et a précédemment nié toutes les allégations.",
@@ -659,14 +707,6 @@
       "category": "Exploration"
     },
     {
-      "title": "RDC: un an après l'accord stratégique avec les États-Unis, du cuivre livré et de grands chantiers encore à négocier",
-      "link": "https://www.rfi.fr/fr/afrique/20261117-rdc-un-an-apr%C3%A8s-l-accord-strat%C3%A9gique-avec-les-%C3%A9tats-unis-du-cuivre-livr%C3%A9-et-de-grands-chantiers-encore-%C3%A0-n%C3%A9gocier",
-      "date": "Tue, 17 Nov 2026 21:13:59 GMT",
-      "description": "Près d'un an après la signature de l'accord stratégique entre Kinshasa et Washington, une première cargaison de cuivre congolais a rejoint la réserve américaine de minerais critiques. La RDC a aussi réformé sa fiscalité et signé une concession ferroviaire sur le corridor de Lobito. Mais la réhabilitation du rail reste à engager et le financement du barrage d'Inga 3 à réunir. Et dans l'est du pays, Kinshasa attend toujours les résultats espérés sur le plan sécuritaire.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "ICEYE fait 2 milliards de dollars pour la fusée italienne Avio",
       "link": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/",
       "date": "Tue, 17 Nov 2026 21:12:16 +0000",
@@ -744,14 +784,6 @@
       "date": "Tue, 17 Nov 2026 20:56:47 +0100",
       "description": "L'association justifie cette décision en évoquant ses \"principes d'indépendance et de neutralité politique\".",
       "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Mobilisation sociale : 146 000 personnes ont manifesté en France ce mardi selon l’Intérieur, plus de 500 000 selon les syndicats",
-      "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
-      "date": "Tue, 17 Nov 2026 20:56:31 +0000",
-      "description": "En cette nouvelle journée de grève, des manifestations ont eu lieu à travers le pays, comme à Marseille, Lyon, Nantes ou Toulouse.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -931,14 +963,6 @@
       "category": "Environnement"
     },
     {
-      "title": "France: la colère sociale s'est encore faite entendre, malgré des cortèges moins fournis",
-      "link": "https://www.rfi.fr/fr/france/20261117-france-la-col%C3%A8re-sociale-s-est-encore-faite-entendre-malgr%C3%A9-des-cort%C3%A8ges-moins-fournis",
-      "date": "Tue, 17 Nov 2026 19:14:20 GMT",
-      "description": "Ce mardi 17 novembre, étaient à nouveau appelés à manifester en France lycéens, étudiants, retraités, salariés du privés, fonctionnaires, à l'appel des syndicats d'agents publics. C'était le troisième appel à la grève et à la manifestation dans le public depuis la rentrée. Les manifestants mobilisés ont brandi un large éventail de revendications. Les syndicats, eux, ne décolèrent pas face au refus du Premier ministre, Sébastien Lecornu, d'augmenter le point d'indice qui permet de revaloriser les salaires des fonctionnaires.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Finlande Iceye offre 2 milliards d'euros pour le fabricant de fusées italien Avio",
       "link": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
       "date": "Tue, 17 Nov 2026 19:13:19 +0000",
@@ -961,14 +985,6 @@
       "description": "Les traqueurs de fitness et les diagnostics d'IA sont là pour rester. Ils peuvent fournir des données précieuses pour la planification opérationnelle — si la sécurité et la vie privée sont traitées correctement.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "« Jupiter » : la vertigineuse solitude du président face à l’arme nucléaire, incarné à l’écran par Denis Ménochet",
-      "link": "https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html",
-      "date": "Tue, 17 Nov 2026 19:00:09 +0100",
-      "description": "Le réalisateur Alexandre Smia fait monter la pression dans un huis clos au sein duquel le chef de l’Etat français doit décider d’utiliser ou non la bombe atomique contre la Russie.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
@@ -1073,14 +1089,6 @@
       "description": "Le premier procès par les survivants de grève vise une campagne militaire secrète américaine qui a tué plus de 240 personnes.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Jensen Huang dit qu'il serait « honoré » de revenir en tant que PDG de Nvidia si le conseil lui demandait",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 18:24:21 GMT",
-      "description": "Huang dit qu'il a eu une « explosion » d'appels d'investisseurs et d'autres appelant à son retour.",
-      "source": "BBC News",
-      "category": "Économie"
     },
     {
       "title": "William et Kate célèbrent les prix Earthshot à Mumbai",
@@ -1201,14 +1209,6 @@
       "description": "Lors de la première journée de Space Tech Expo Europe, SpaceNews, Mike Gruss s'assoit avec Pieter van Duijn, le directeur technologique de Loft Orbital. Ils discutent du niveau croissant [...] Le post Comment l'IA pousse les satellites à évoluer est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
-    },
-    {
-      "title": "Arabie Saoudite: les groupes de défense des droits s'inquiètent de la multiplication des exécutions",
-      "link": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 17 Nov 2026 17:02:00 GMT",
-      "description": "Au milieu de la guerre en Iran, la situation des droits de l'homme en Arabie saoudite demeure sombre, avec au moins 211 exécutions, des châtiments corporels et une répression accrue contre les critiques. Le conflit régional est-il à l'origine de la répression nationale?",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Quelle est votre madeleine de Proust ?",
@@ -1619,7 +1619,7 @@
       "category": "Monde"
     },
     {
-      "title": "«Il y avait beaucoup de feux de gaz: Pourquoi les étoiles podcast américaines ont abandonné Trump",
+      "title": "«Il y avait beaucoup de gazéification: pourquoi les étoiles podcast américaines ont abandonné Trump",
       "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
       "date": "Tue, 17 Nov 2026 05:00:25 GMT",
       "description": "Le président des alliés est responsable de la perte d'emprise sur les nouveaux médias après une défaite à mi-parcours",
@@ -2065,14 +2065,6 @@
       "description": "En octobre de cette année, OpenAI a révélé que deux de ses agents d'IA avaient éteint les systèmes construits pour les surveiller. L'un a coupé ses propres alertes de sécurité après avoir mal lu une instruction de ne pas envoyer de messages; l'autre a supprimé son intégration de suivi pendant la migration, puis a dit qu'il n'avait pas. Aucune règle n'avait dit aux agents de faire...",
       "source": "MIT Technology Review",
       "category": "Technologie"
-    },
-    {
-      "title": "Surge des datacenters américains ajoute l'équivalent des émissions annuelles du Danemark, étude trouve",
-      "link": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
-      "date": "Mon, 16 Nov 2026 16:00:47 GMT",
-      "description": "«Les datacenters Hyperscaler de partout au pays puisent dans des sources d'énergie plus sales pour répondre à de vastes besoins énergétiques, montre la recherche La construction frénétique des datacenters hyperscaler aux États-Unis a causé collectivement des émissions de réchauffement de la planète d'à peu près la même échelle que le Danemark émet en un an, de nouvelles recherches ont trouvé. Dans cette période, 403 hyperscalers – les plus grands datacenters utilisés principalement pour gérer la croissance de l'intelligence artificielle – ont émis environ 25,7m",
-      "source": "The Guardian",
-      "category": "Environnement"
     },
     {
       "title": "Les grands centres de données utilisent collectivement autant d'électricité qu'un État américain entier",
