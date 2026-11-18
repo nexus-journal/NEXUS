@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-17T23:34:11.184287+00:00",
-  "count": 282,
+  "updated_at": "2026-11-18T00:23:35.391976+00:00",
+  "count": 281,
   "articles": [
+    {
+      "title": "Nvidia promet que les recettes continueront d'augmenter — pour le moment",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "date": "Wed, 18 Nov 2026 00:16:50 +0000",
+      "description": "Malgré la tourmente que connaît Nvidia après le départ de son fondateur et PDG déshonoré Jensen Huang, la société prévoit que son chiffre d'affaires record ne s'arrêtera pas.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Stripe backer Atomico appelle l'Europe à posséder ses réussites",
+      "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "date": "Wed, 18 Nov 2026 00:01:00 +0000",
+      "description": "L'Europe abrite de nombreuses entreprises de tous les temps qui connaissent la croissance la plus rapide au monde, a souligné le vétéran de la firme VC Atomico dans son dernier rapport annuel sur l'état de la technologie européenne.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Iran guerre en direct: le Koweït dit intercepter les attaques de drones",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 00:00:27 +0000",
+      "description": "Le Koweït intercepte les attaques de drones « hostiles » alors que Bahreïn met en garde contre la « menace potentielle », exhorte les citoyens à rester calmes.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'Europe prévoit d'attraper la prochaine vague de puces informatiques",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 18 Nov 2026 00:00:24 GMT",
+      "description": "L'Europe espère être un leader dans une nouvelle génération de puces informatiques qui utilisent la lumière pour traiter les données.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Vous pouvez maintenant voir et modifier ce que Google Gemini se souvient de vous",
+      "link": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
+      "date": "Wed, 18 Nov 2026 00:00:00 +0000",
+      "description": "Modifier la mémoire de l'IA est une façon de façonner ses réponses.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
     {
       "title": "Analyse: Les annonces de contributions au financement du climat chutent de 70 % à mesure que les pays se réunissent à la COP31",
       "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
@@ -25,6 +65,78 @@
       "description": "L'appel expose une vision commune pour renforcer le rôle de l'Europe dans l'exploration spatiale humaine et robotique et fournit des orientations politiques pour les préparatifs de la réunion ministérielle intermédiaire qui se tiendra à Rome le 15 décembre.",
       "source": "ESA",
       "category": "Exploration"
+    },
+    {
+      "title": "Oregon est le dernier État à poursuivre OpenAI sur la sécurité des enfants",
+      "link": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
+      "date": "Tue, 17 Nov 2026 23:45:32 +0000",
+      "description": "Le procureur général de l'Oregon a intenté une poursuite contre le fabricant de ChatGPT au sujet de prétendus problèmes de sécurité des enfants.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Koweït signale des attaques de drones comme l'Iran, des attaques commerciales américaines contre Qeshm et Bahreïn",
+      "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:38:38 +0000",
+      "description": "L'armée koweïtienne affirme que sa défense aérienne repoussait les drones alors que l'Iran et les États-Unis s'entretuaient dans le Golfe.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Nvidia abandonne la Chine après Jensen Huang.",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "date": "Tue, 17 Nov 2026 23:37:48 +0000",
+      "description": "Le PDG intérimaire de Nvidia dit que la société a fini de vendre des jetons à la Chine. Combien ça va coûter ?",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "La révolution solaire du Pakistan semble inarrêtable - mais il y a un problème",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 23:34:56 GMT",
+      "description": "Les personnes qui installent leurs propres panneaux solaires ont contribué à augmenter la part solaire de l'électricité du Pakistan de 1% à 28%.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Avis: Caméra Nubia Redmagic 12 Pro",
+      "link": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+      "date": "Tue, 17 Nov 2026 23:34:44 +0000",
+      "description": "Avis: Caméra Nubia Redmagic 12 Pro",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Nvidia double les revenus comme le conseil dit qu'il n'a pas l'intention de rétablir Jensen Huang",
+      "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+      "date": "Tue, 17 Nov 2026 23:32:16 GMT",
+      "description": "L'entreprise publie le premier rapport de bénéfice après l'oster de PDG sur les allégations d'une liaison avec l'espion chinois présumé Nvidia, n'a pas l'intention de réintégrer Jensen en tant que PDG, le président du conseil d'administration de l'entreprise a déclaré mardi. Harvey Jones a fait la remarque lors du premier rapport trimestriel sur les gains de Nvidia, depuis Jensen Huang. Nvidia a annoncé le même jour que son chiffre d'affaires trimestriel a battu les attentes, arrivant à 115,84 milliards de dollars, en doublant de la même fois",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "5 ports de chargement de l'ancienne école que vous avez probablement oublié les téléphones avaient avant USB- C",
+      "link": "https://www.engadget.com/2315473/old-school-charging-ports-phones-used-before-usb-c/",
+      "date": "Tue, 17 Nov 2026 23:30:00 +0000",
+      "description": "Alors que USB-C est la norme aujourd'hui, nous avons vu beaucoup de ports de charge téléphonique avant les jours de Micro-USB et Mini-USB.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Parlement israélien élit Gadi Eisenkot allié Matan Kahana comme nouveau président",
+      "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:28:54 +0000",
+      "description": "Le bloc Eisenkot s'est engagé à défaire certaines des politiques nationales les plus controversées de Netanyahu après les élections de Kahana.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'agence d'espionnage de haut niveau souffre d'une panne de réseau, la dernière défaillance technique américaine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:19:12 +0000",
+      "description": "Une série d'événements malheureux ont frappé les États-Unis. Al Jazeera Emma Withrow détruit ce que nous savons.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Matan Kahana, un fidèle de Gadi Eisenkot élu président du Parlement en Israël, coup dur pour Benyamin Nétanyahou",
@@ -59,7 +171,7 @@
       "category": "France"
     },
     {
-      "title": "Nvidia dit que sa stratégie d'IA open-source reste intacte après la sortie de Jensen Huang",
+      "title": "Nvidia dit que sa stratégie d'IA open source reste intacte après la sortie de Jensen Huang.",
       "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "date": "Tue, 17 Nov 2026 23:04:35 +0000",
       "description": "Le PDG intérimaire de Nvidia a réaffirmé sa stratégie d'IA open source et prévoit d'acquérir Hugging Face, malgré le départ soudain de Jensen Huang.",
@@ -118,7 +230,7 @@
       "title": "Thomas Markle inculpé pour abus sexuel sur enfants aux Philippines",
       "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 17 Nov 2026 22:44:15 GMT",
-      "description": "Markle est détenu aux États-Unis pour une accusation distincte et a précédemment nié toutes les allégations.",
+      "description": "Markle est détenu aux États-Unis après une accusation et a précédemment nié toutes les allégations.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -193,14 +305,6 @@
       "description": "Amazon sera propriétaire d'un peu moins de 15% d'anthropique après l'IPO, avec l'option d'aller beaucoup plus haut. Google est une seconde proche avec des avoirs de près de 14%.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Nvidia double les revenus comme le conseil dit qu'il n'a pas l'intention de rétablir Jensen Huang",
-      "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-      "date": "Tue, 17 Nov 2026 22:27:14 GMT",
-      "description": "La société a déclaré doubler les revenus dans son premier rapport de bénéfice après l'oster de PDG sur les allégations d'affaire avec soupçonnés espion chinois Nvidia -Est pas l'intention de rétablir Jensen en tant que PDG, le président de la société , a déclaré mardi. Harvey Jones a fait cette remarque lors du premier rapport trimestriel sur les gains de Nvidia, depuis Jensen Huang. Nvidia a annoncé le même jour que ses recettes trimestrielles ont battu les attentes, en entrant à",
-      "source": "The Guardian",
-      "category": "Économie"
     },
     {
       "title": "Le président du conseil d'administration de NVIDIA déclare que l'entreprise n'envisage pas de rétablir Jensen Huang en tant que PDG",
@@ -283,14 +387,6 @@
       "category": "Défense"
     },
     {
-      "title": "Les Américains Lisa Cook refuse d'assister à l'audience de la Maison Blanche",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 22:01:27 +0000",
-      "description": "Le président américain Donald Trump essaie de virer Cook depuis août 2025.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Le Voyager 1 de la NASA l'a lancé deuxième, alors comment a-t-il battu Voyager 2 à un jour-lumière de près d'une décennie ?",
       "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
       "date": "Tue, 17 Nov 2026 22:00:00 +0000",
@@ -307,14 +403,6 @@
       "category": "France"
     },
     {
-      "title": "Waymo fait une pause dans tous les trajets en autoroute après que California DMV a dit que la robotaxie est « danger pour la sécurité publique »",
-      "link": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/",
-      "date": "Tue, 17 Nov 2026 21:57:49 +0000",
-      "description": "Des restrictions ont été imposées par le DMV de Californie après qu'un Waymo sans conducteur ait été pris en essayant de passer un véhicule de patrouille routier qui ralentissait la circulation.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
       "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
       "date": "Tue, 17 Nov 2026 21:50:34 +0000",
@@ -329,14 +417,6 @@
       "description": "Saint-Kitts-et-Nevis mettra fin au programme de citoyenneté par investissement après que l'UE aura mis en garde contre l'accès sans visa La décision de Saint-Kitts-et-Nevis de mettre fin à un programme lucratif offrant la citoyenneté à des étrangers riches en échange d'investissements menace son économie et sa capacité à soutenir les personnes dans le besoin, a averti le premier ministre de l'île de Nevis. Vendredi, Terrance Drew, le premier ministre de la nation jumelle des Caraïbes, a annoncé",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "SEC enquêterait sur Nvidia au milieu de la sortie Huang",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "date": "Tue, 17 Nov 2026 21:48:07 +0000",
-      "description": "La SEC ouvre une enquête sur Nvidia après le départ du PDG Jensen Huang, qui a admis avoir eu une liaison avec un espion chinois présumé, rapporte le Wall Street Journal.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "«Malika» de Mounia Meddour, bas de gamme",
@@ -363,22 +443,6 @@
       "category": "France"
     },
     {
-      "title": "Le Royaume-Uni remet à l'armée américaine un soldat américain assigné par l'OTAN accusé de Russie",
-      "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 21:35:24 +0000",
-      "description": "Les autorités britanniques ont transmis l'enquête aux États-Unis «conformément aux protocoles internationaux existants».",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Google rejoint la tendance des pannes de technologie en lui annonçant qu'il n'en a pas",
-      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "date": "Tue, 17 Nov 2026 21:34:50 +0000",
-      "description": "Avec des pannes technologiques apparemment partout, Google a pris l'étape inhabituelle d'annoncer que Gmail fonctionne très bien, en fait.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Les chasseurs américains frappent le site de missiles iraniens après la base de Bahreïn",
       "link": "https://www.airandspaceforces.com/us-fighters-strike-iranian-missile-site/",
       "date": "Tue, 17 Nov 2026 21:34:29 +0000",
@@ -401,22 +465,6 @@
       "description": "Mardi, les cortèges ont rassemblé 146 000 personnes dans différentes villes de France, selon le ministère de l’intérieur, plus de 500 000 selon la CGT. Alors que la mobilisation semble s’essouffler, les regards se tournent peu à peu vers le scrutin présidentiel d’avril 2027.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Royaume-Uni sanctions entreprises israéliennes de colonisation pour protéger la solution à deux États",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 21:28:31 +0000",
-      "description": "Le Royaume-Uni a imposé de nouvelles sanctions à huit entreprises israéliennes soutenant des colonies illégales en Cisjordanie occupée.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "«La transparence zéro: les plans à l'intérieur Trump pour le Venezuela",
-      "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 21:26:42 +0000",
-      "description": "Les démocrates disent qu'ils prévoient d'enquêter sur les relations de Trump avec le Venezuela après avoir remporté le contrôle du Congrès.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Israël: Matan Kahana, allié d'Eisenkot et opposant à Netanyahu, élu président de la Knesset",
@@ -505,14 +553,6 @@
       "description": "DÉCRYPTAGE - La réunion trilatérale verra les dirigeants chinois, américain et russe arbitrer les affaires du monde sans les Européens, qui redoutent une entente à leur détriment.",
       "source": "Le Figaro",
       "category": "France"
-    },
-    {
-      "title": "Il y a une chance que votre Xbox Series X soit branché sur le mauvais port HDMI",
-      "link": "https://www.engadget.com/2315403/chance-xbox-series-x-plugged-into-wrong-hdmi-port/",
-      "date": "Tue, 17 Nov 2026 21:00:00 +0000",
-      "description": "Assurez-vous de tirer le meilleur parti de votre Xbox Series X, en commençant par un contrôle de port.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "L'espace est rempli de déchets. Des miroirs réfléchissants au laser pourraient-ils aider l'humanité à nettoyer les choses ?",
@@ -643,28 +683,12 @@
       "category": "France"
     },
     {
-      "title": "La défaillance de la caméra de vitesse peut avoir permis aux conducteurs d'échapper aux amendes",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 20:04:54 GMT",
-      "description": "Le ministère de l'Intérieur a révoqué l'autorisation autorisant l'utilisation d'images de caméras de vitesse en preuve.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "«Neuromancer:» Date de sortie, distribution & tout ce que nous savons sur la nouvelle série de cyberpunk d'Apple TV",
       "link": "https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series",
       "date": "Tue, 17 Nov 2026 20:00:00 +0000",
       "description": "Hack dans notre guide pratique de cette adaptation électrisante du roman culte des années 80 de William Gibson.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Waymo suspend les trajets en autoroute à l'échelle nationale après la commande California DMV",
-      "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "date": "Tue, 17 Nov 2026 19:49:41 +0000",
-      "description": "Le DMV a déclaré que les opérations d'autoroute de Waymo représentent un danger imminent pour la sécurité publique. Des restrictions demeureront en place jusqu'à ce que Waymo puisse démontrer qu'elle a pris des « mesures correctives efficaces » pour combler les lacunes.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Vladimir Poutine est arrivé en Chine, où il doit rencontrer Donald Trump et Xi Jinping",
@@ -713,14 +737,6 @@
       "description": "L'administration Trump a nommé le général Christopher LaNeve chef d'état-major de l'armée.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Google Wallet lance sur iOS",
-      "link": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
-      "date": "Tue, 17 Nov 2026 19:33:27 +0000",
-      "description": "Dans le cas où vous, pour une raison quelconque, ne voulez pas utiliser le portefeuille d'Apple presque identique.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "En Israël, la police et le renseignement intérieur accusés d’avoir servi le clan Nétanyahou pour contester les résultats des législatives",
@@ -859,6 +875,14 @@
       "category": "Économie"
     },
     {
+      "title": "Russie Tu-95 Bombers arrivent au Vietnam après le flot de l'Asie du Nord-Est Alertes aériennes",
+      "link": "https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
+      "date": "Tue, 17 Nov 2026 18:39:58 -0500",
+      "description": "Un avion russe a violé l'espace aérien japonais et s'est approché de Taiwan avant deux Tu-95 et deux Il-76 à Da Nang. The post Russian Tu-95 Bombers Arrivée au Vietnam Après Flurry Of Northeast Asia Alertes Air est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
+    },
+    {
       "title": "L'UE, l'ANASE poursuivent des liens commerciaux plus étroits, mais des obstacles subsistent en raison de la lutte des entreprises contre les obstacles informels",
       "link": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Tue, 17 Nov 2026 18:39:00 GMT",
@@ -977,14 +1001,6 @@
       "description": "La police philippine poursuit trois chefs d'accusation contre Thomas Markle Sr concernant les images de violence sexuelle envers les enfants, Sky News comprend.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "Jensen Huang dit qu'il est prêt à revenir à Nvidia",
-      "link": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
-      "date": "Tue, 17 Nov 2026 17:32:24 +0000",
-      "description": "Huang a déclaré dans une déclaration qu'il serait honoré de revenir en tant que PDG de Nvidia si le conseil d'administration soutenait la décision.",
-      "source": "WIRED",
-      "category": "Technologie"
     },
     {
       "title": "Comment une fausse citation de Christine Lagarde a été amplifiée par un réseau de désinformation srilankais",
@@ -1419,14 +1435,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Nous sommes une société capitaliste : Grindr défend 120 $ par mois",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 09:41:07 GMT",
-      "description": "Il dit que le service ultra-prémium est destiné à une « petite communauté » d'utilisateurs - et pourrait devenir plus cher à l'avenir.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Des sorties de Galaxy régulent vraisemblablement la formation d'étoiles à ‘Cosmic Noon's Webb Reveals",
       "link": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
       "date": "Tue, 17 Nov 2026 09:29:00 +0000",
@@ -1457,14 +1465,6 @@
       "description": "L'accord garanti par Equity Union donne aux acteurs des droits sur le paiement et le consentement lorsque des répliques numériques sont utilisées Les acteurs au Royaume-Uni doivent se voir accorder davantage de droits sur leurs répliques numériques dans le cadre d'un nouvel accord sur la protection de l'IA avec les producteurs de télévision et de films, garanti après une réaction en marche. Dans le cadre d'un nouvel accord de grande envergure garanti par Equity, le syndicat des acteurs, les artistes interprètes ou exécutants auront le droit d'être payés lorsque leurs répliques numériques seront utilisées",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "Met Office avertissement jaune en place car la neige pourrait perturber les voyages mardi matin",
-      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 08:01:38 GMT",
-      "description": "Comme l'explique Chris Fawkes, la neige pourrait perturber le transport dans les collines du nord de l'Angleterre et du sud de l'Écosse.",
-      "source": "BBC News",
-      "category": "Sciences"
     },
     {
       "title": "Cosmo Bee au test de vol Honeybee Hall avec D-Orbit en 2027",
@@ -1963,14 +1963,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Les premiers F-15EX arrivent à la base aérienne de Kadena au Japon, 25 sont maintenant livrés aux USAF",
-      "link": "https://www.twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
-      "date": "Mon, 16 Nov 2026 19:26:47 -0500",
-      "description": "L'arrivée des F-15EX au Japon est le premier déploiement permanent du nouveau combattant de l'USAF en dehors des États-Unis. The post First F-15EXs Arrivée à la base aérienne de Kadena Au Japon, 25 Livred To The USAF sont apparus en premier sur TWZ .",
-      "source": "The War Zone",
-      "category": "Défense"
-    },
-    {
       "title": "Une vague massive frappe le spectateur en Californie – vidéo",
       "link": "https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video",
       "date": "Mon, 16 Nov 2026 18:52:31 GMT",
@@ -2163,6 +2155,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Satya Nadella dit qu'il a été dépouillé par l'AGI",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "date": "2026-11-17T18:41:18-05:00",
+      "description": "Microsoft PDG Satya Nadella dit qu'il est AGI-peiled, au moins quand il s'agit de comment l'IA pourrait apporter des changements surprenants à la structure de l'économie et comment la politique pourrait changer à cause de cela. « Je suis l'AGI pillée dans le sens qu'au niveau de l'économie, quelle est l'organisation de l'économie politique autour de l'AGI ? [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Jeff Bezos dit qu'il a été «très impliqué dans la sélection du nouveau James Bond",
       "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
       "date": "2026-11-17T17:38:41-05:00",
@@ -2199,14 +2199,6 @@
       "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
       "date": "2026-11-17T16:46:20-05:00",
       "description": "Si vous êtes à la recherche d'un nouvel ordinateur portable ou d'un cadeau pour l'étudiant dans votre vie, vous pouvez économiser 50 $ sur le MacBook Neo à plusieurs détaillants, dans les deux tailles de stockage et les quatre couleurs. Le modèle 256 Go est actuellement actualisé à 649 $ (Amazon, Best Buy, Target), tandis que le modèle 512 Go avec [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les gains du troisième trimestre de Nvidia ont atteint la note, sans mentionner toute la chose Jensen Huang",
-      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "date": "2026-11-17T16:40:59-05:00",
-      "description": "Par intérim, Colette Kress, PDG de Nvidia, a annoncé mardi le résultat du troisième trimestre de l'entreprise, sans mentionner au départ l'ancien PDG Jensen Huang, ni les détails de son départ, ni une éventuelle tentative de retour. Lors de l'appel de gains accompagnant la libération, le président du conseil Harvey Jones a commencé en disant que le conseil « n'a pas l'intention de rétablir Huang [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
