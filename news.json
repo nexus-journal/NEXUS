@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-11-18T02:46:00.549326+00:00",
+  "updated_at": "2026-11-18T03:38:44.443945+00:00",
   "count": 287,
   "articles": [
+    {
+      "title": "Mises à jour en direct : Trump rencontre le leader philippin avant de s'envoler vers la Chine",
+      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "date": "Wed, 18 Nov 2026 03:35:22 +0000",
+      "description": "La prochaine étape du voyage en Asie du président Trump est la ville de Shenzhen, où il devrait rencontrer Xi Jinping de Chine et le président Vladimir V. Poutine de Russie.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Chine Xi appelle à supprimer les obstacles au commerce et aux investissements avant sa rencontre avec Trump et Poutine",
+      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "date": "Wed, 18 Nov 2026 03:30:51 GMT",
+      "description": "Xi a ouvert le sommet de l'APEC à Shenzhen en appelant à réduire les obstacles au commerce et à l'investissement, en promettant un accès plus large au marché chinois et au secteur manufacturier.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Trois choses à regarder comme Trump, Xi et Poutine se rencontrent en Chine",
+      "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "date": "Wed, 18 Nov 2026 03:25:32 GMT",
+      "description": "Le président américain Donald Trump, le président chinois Xi Jinping et le président russe Vladimir Poutine doivent se réunir à Shenzhen aux côtés d'une réunion des dirigeants de l'APEC.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "JPMorgan travaille sur les transactions d'agents d'IA qui ne concernent pas les humains",
+      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "date": "Wed, 18 Nov 2026 03:17:55 GMT",
+      "description": "JPMorgan et Hyundai Card cherchent à développer l'utilisation des agents d'IA dans les transactions financières.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Waymo tire temporairement des taxis sans chauffeur de toutes les autoroutes américaines",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 18 Nov 2026 03:07:22 GMT",
+      "description": "La décision est prise après que la Californie a interdit aux véhicules sans chauffeur de Waymo de circuler sur les autoroutes de l'État à la suite d'une série d'incidents de circulation.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Slovaquie : Des milliers de manifestants contre le leader pro-Kremlin Robert Fico",
+      "link": "https://www.dw.com/en/slovakia-thousands-protest-against-pro-kremlin-leader-robert-fico/a-79976078?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 18 Nov 2026 03:06:00 GMT",
+      "description": "Le Premier ministre Robert Fico a été incendié par ses liens avec la Russie. Les rassemblements ont eu lieu à l'occasion de l'anniversaire de la Révolution Velvet de 1989 qui a renversé le communisme en Tchécoslovaquie.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Nvidia fait tomber les appels pour que Jensen Huangs revienne dans un bon salaire",
+      "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 03:00:22 +0000",
+      "description": "Le président du conseil d'administration de Nvidia dit que le géant des puces « n'a pas l'intention » de rétablir Huang car il projette des revenus de 130 milliards de dollars au quatrième trimestre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Nvidia a une chance de trader des drames pour la durabilité",
+      "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+      "date": "Wed, 18 Nov 2026 02:56:15 GMT",
+      "description": "Chip group rapporte les premiers résultats sans le co-fondateur flamboyant Jensen Huang à la barre",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Zelenskyy dit Starshield limite la vitesse toujours en place sur les \"territoires occupés\" de l'Ukraine",
+      "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+      "date": "Wed, 18 Nov 2026 02:50:16 GMT",
+      "description": "La charge d'affaires de l'Ukraine aux États-Unis, Denys Sienik, a déclaré que Starshield avait été limitée à sept jours déjà en Ukraine.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
     {
       "title": "Jeff Bezos dit qu'il était « très impliqué » dans le casting de Robert Pattinson comme nouveau 007",
       "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
@@ -9,14 +81,6 @@
       "description": "Le PDG d'Amazon a dit qu'il était à l'origine « contre » Pattinson « parce qu'il est déjà si célèbre ».",
       "source": "BBC News",
       "category": "Économie"
-    },
-    {
-      "title": "Mises à jour en direct : Trump rencontrera le leader philippin avant de s'envoler vers la Chine",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "date": "Wed, 18 Nov 2026 02:39:04 +0000",
-      "description": "La prochaine étape du voyage en Asie du président Trump est la ville de Shenzhen, où il devrait tenir une réunion trilatérale avec Xi Jinping de Chine et le président Vladimir V. Poutine de Russie.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Guerre au Moyen-Orient : les pays du Golfe en alerte après des frappes américaines sur une île iranienne",
@@ -27,12 +91,28 @@
       "category": "France"
     },
     {
-      "title": "Chine Xi appelle à supprimer les obstacles au commerce et aux investissements avant sa rencontre avec Trump et Poutine",
-      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-      "date": "Wed, 18 Nov 2026 02:23:20 GMT",
-      "description": "",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "Les rares images du groupe autochtone en Amazonie mettent en évidence les menaces, disent les défenseurs",
+      "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 02:36:09 +0000",
+      "description": "Les activités illégales en Amazonie présentent de graves risques pour des groupes autochtones sans contact comme le Brésil, Awa.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Équipe d'étiquettes: des rafales d'eau doubles apparaissent dans la baie de San Francisco au milieu d'un temps orageux",
+      "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+      "date": "Wed, 18 Nov 2026 02:33:21 GMT",
+      "description": "Le phénomène n'est pas un phénomène courant dans la région de la baie et on s'attend à ce que les intempéries se poursuivent pendant quelques jours.Une paire de déversements d'eau ont été enregistrés récemment dans la région de la baie de San Francisco, au grand plaisir et au choc de plusieurs observateurs, alors que des tempêtes ont frappé la région. Deux gouttes d'eau – des tourbillons de brume d'air et d'eau, essentiellement des tornades – ont coupé une striée dans le ciel, en spirale au-dessus de la baie, selon les images des médias sociaux",
+      "source": "The Guardian",
+      "category": "Environnement"
+    },
+    {
+      "title": "Hongrie en quête d'un héros de football",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 02:32:57 +0000",
+      "description": "L'Irlande du Nord a obtenu une promotion de la Société des Nations, avec la Hongrie 1-1.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "‘Witness the Wonders': Chine touts miracle ville pour le sommet Trump",
@@ -41,6 +121,14 @@
       "description": "Les autorités espèrent que les prouesses technologiques de Shenzhen",
       "source": "Financial Times",
       "category": "Économie"
+    },
+    {
+      "title": "Agents de l'IEC femme enceinte",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 02:17:12 +0000",
+      "description": "Une Américaine a été poussée au sol et a versé du poivre par des agents de l'ICE malgré leur avoir dit qu'elle était enceinte.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Crédit du Sénat Contraintes USAF-S Fighter Plans",
@@ -67,14 +155,6 @@
       "category": "Économie"
     },
     {
-      "title": "Équipe d'étiquettes: des rafales d'eau doubles apparaissent dans la baie de San Francisco au milieu d'un temps orageux",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
-      "date": "Wed, 18 Nov 2026 01:50:28 GMT",
-      "description": "Le phénomène n'est pas un phénomène courant dans la région de la baie et on s'attend à ce que les intempéries se poursuivent pendant quelques jours.Une paire de déversements d'eau ont été enregistrés récemment dans la région de la baie de San Francisco, au grand plaisir et au choc de plusieurs observateurs, alors que des tempêtes ont frappé la région. Deux gouttes d'eau – des tourbillons de brume d'air et d'eau, essentiellement des tornades – ont coupé une striée dans le ciel, en spirale au-dessus de la baie, selon les images des médias sociaux",
-      "source": "The Guardian",
-      "category": "Environnement"
-    },
-    {
       "title": "Les enjeux de la startup de Nvidia s'élèvent à 65 milliards de dollars, mais la sortie de Huangs met en doute les contrats futurs",
       "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
       "date": "Wed, 18 Nov 2026 01:44:21 +0000",
@@ -99,59 +179,11 @@
       "category": "Monde"
     },
     {
-      "title": "Homme accusé d'attaque brutale sur Somali-Américain au Minnesota",
-      "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 01:31:53 +0000",
-      "description": "Le chauffeur Mohamed Yusuf est dans un état critique après avoir été agressé par un passager.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "OpenAI bugging accusé Alfozan mis en jugement en janvier",
-      "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
-      "date": "Wed, 18 Nov 2026 01:31:37 GMT",
-      "description": "Abdulrahman Alfozan a été détenu sans caution depuis son arrestation en octobre, après que les procureurs aient dit qu'il avait placé un appareil d'écoute dans une salle de conférence OpenAI.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Manifestations comme l'accusateur de Jason Arday",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 01:28:53 +0000",
-      "description": "Des centaines de personnes ont protesté devant l'Université d'Oxford alors que Nathan Cofnas, qui accusait Jason Arday de plagiat, s'est exprimé lors d'un événement.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Trois choses à regarder comme Trump, Xi et Poutine se rencontrent en Chine",
-      "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-      "date": "Wed, 18 Nov 2026 01:23:29 GMT",
-      "description": "Le président américain Donald Trump, le président chinois Xi Jinping et le président russe Vladimir Poutine doivent se réunir à Shenzhen aux côtés d'une réunion des dirigeants de l'APEC.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Nvidia dit qu'il ne rétablira pas Huang comme des rapports fermes pare-chocs",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 18 Nov 2026 01:18:18 GMT",
       "description": "Le géant des puces d'IA a déclaré des gains trimestriels élevés mardi après la sortie dramatique de Jensen Huang.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Le Conseil de la paix met en garde contre l ' effondrement imminent du cessez-le-feu de Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 01:07:01 +0000",
-      "description": "Le conseil d'administration dirigé par les États-Unis a dénoncé la poursuite des combats à Gaza et les retards dans la mise en œuvre des termes d'un accord de cessez-le-feu de 2025.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Des pêcheurs équatoriens poursuivent l'administration Trump pour grève de drones",
-      "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 01:04:43 +0000",
-      "description": "L'équipage dit que leur bateau a été attaqué par des drones lancés à partir de navires américains dans le cadre d'une campagne \"manifestement illégale\".",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -323,14 +355,6 @@
       "category": "Économie"
     },
     {
-      "title": "JPMorgan travaille sur les transactions d'agents d'IA qui ne concernent pas les humains",
-      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "date": "Tue, 17 Nov 2026 23:30:13 GMT",
-      "description": "JPMorgan et Hyundai Card cherchent à développer l'utilisation des agents d'IA dans les transactions financières.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "5 ports de chargement de l'ancienne école que vous avez probablement oublié les téléphones avaient avant USB- C",
       "link": "https://www.engadget.com/2315473/old-school-charging-ports-phones-used-before-usb-c/",
       "date": "Tue, 17 Nov 2026 23:30:00 +0000",
@@ -473,6 +497,14 @@
       "description": "RÉCIT D’AUDIENCE - À l’issue de onze jours de débats, la cour d’assises de Blois a mis un terme judiciaire à l’une des plus anciennes énigmes criminelles françaises, vieille de près de 40 ans. Les parents d’Inass Touloub dormiront en prison ce mardi soir.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Mary Peltola retourne le siège du Sénat de l'Alaska dans la colonne des démocrates",
+      "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+      "date": "Tue, 17 Nov 2026 22:27:23 -0500",
+      "description": "L'ancienne Rép. Démocratique Mary Peltola a remporté de justesse la course du Sénat américain en Alaska, renversant le titulaire républicain, selon un appel de course de The Associated Press.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Premier F-15EX à Kadena Signals se terminent dans la vue pour les rotations des chasseurs: ‘Can't arrive assez vite",
@@ -955,20 +987,20 @@
       "category": "Sciences"
     },
     {
-      "title": "Les astronomes découvrent des trous noirs rares qui se forment lorsque les étoiles ne parviennent pas à se supernova",
-      "link": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-      "date": "Tue, 17 Nov 2026 19:00:00 +0000",
-      "description": "Les ondes gravitationnelles ont révélé une population de trous noirs qui peuvent être nés lorsque les étoiles massives n'ont pas réussi à devenir supernova.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Nous savons maintenant comment le rayonnement détruit les appareils électroniques",
       "link": "https://www.newscientist.com/article/2599254-we-now-know-how-radiation-destroys-electronics-devices/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Tue, 17 Nov 2026 19:00:00 +0000",
       "description": "Une image détaillée de la façon dont une seule particule de rayonnement peut détruire un dispositif semi-conducteur pourrait offrir des indications sur la façon de rendre l'électronique plus résistante aux conditions difficiles de l'espace",
       "source": "New Scientist",
       "category": "Sciences"
+    },
+    {
+      "title": "Les astronomes découvrent des trous noirs rares qui se forment lorsque les étoiles ne parviennent pas à se supernova",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+      "date": "Tue, 17 Nov 2026 19:00:00 +0000",
+      "description": "Les ondes gravitationnelles ont révélé une population de trous noirs qui peuvent être nés lorsque les étoiles massives n'ont pas réussi à devenir supernova.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "Prince William apporte le prix du climat en Inde, dans un Rickshaw électrique",
@@ -1041,6 +1073,14 @@
       "description": "Le premier procès par les survivants de grève vise une campagne militaire secrète américaine qui a tué plus de 240 personnes.",
       "source": "The New York Times",
       "category": "Monde"
+    },
+    {
+      "title": "Jensen Huang dit qu'il serait « honoré » de revenir en tant que PDG de Nvidia si le conseil lui demandait",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 18:24:21 GMT",
+      "description": "Huang dit qu'il a eu une « explosion » d'appels d'investisseurs et d'autres appelant à son retour.",
+      "source": "BBC News",
+      "category": "Économie"
     },
     {
       "title": "William et Kate célèbrent les prix Earthshot à Mumbai",
@@ -1139,14 +1179,6 @@
       "category": "Défense"
     },
     {
-      "title": "Nvidia a cessé de divulguer les ventes de Singapour car les revenus ont atteint 104 milliards de dollars",
-      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-      "date": "Tue, 17 Nov 2026 17:06:32 GMT",
-      "description": "Le chipmaker américain a modifié ses méthodes de déclaration à mesure que les revenus réservés par la ville-État ont augmenté de 70 pour cent",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Personnes aux États-Unis : comment fêtez-vous Thanksgiving cette année alors que les coûts augmentent aux États-Unis ?",
       "link": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout",
       "date": "Tue, 17 Nov 2026 17:04:50 GMT",
@@ -1193,14 +1225,6 @@
       "description": "Selon les sources, entre 500 000 et 146 000 personnes, lycéens, étudiants, retraités, salariés du privé ont battu le pavé en France, mardi, autour d'un large éventail de revendications, à l'appel des syndicats d'agents publics pour obtenir de meilleures rémunérations, alors que de nouvelles mobilisations se profilent.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Les États-Unis et le Mexique perdent leur statut d'États exempts de rougeole",
-      "link": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 17 Nov 2026 16:40:00 GMT",
-      "description": "Les États-Unis ont perdu leur statut d'élimination de la rougeole après 26 ans, a déclaré l'Organisation panaméricaine de la santé. La Bolivie et le Mexique ont également perdu leur statut d'élimination de la rougeole.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Allemagne: la Deutsche Bank au cœur d'un nouveau scandale de pratiques douteuses",
@@ -1387,14 +1411,6 @@
       "category": "Monde"
     },
     {
-      "title": "Où sont les emplois les plus nombreux pour les 18-24 ans?",
-      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 12:35:53 GMT",
-      "description": "Combien d'emplois y a-t-il là où vous vivez et dans quels secteurs êtes-vous le plus susceptible de trouver une ouverture?",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "AI lutte avec le retour de l'Antichrist",
       "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
       "date": "Tue, 17 Nov 2026 12:20:22 GMT",
@@ -1425,14 +1441,6 @@
       "description": "Certains pays au sommet COP31 appellent à accélérer le déploiement de l'élimination du dioxyde de carbone et du captage du carbone, mais les critiques soutiennent que ces approches ne sont pas prouvées à l'échelle et distraient les efforts visant à éliminer progressivement les combustibles fossiles.",
       "source": "New Scientist",
       "category": "Sciences"
-    },
-    {
-      "title": "Le gouvernement américain confirme l'enquête sur l'entreprise technologique Megaspeed",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 11:17:32 GMT",
-      "description": "La société basée à Singapour est soupçonnée d'aider à expédier des puces AI haut de gamme de Nvidia géant de technologie à la Chine, en violation des règles américaines d'exportation.",
-      "source": "BBC News",
-      "category": "Technologie"
     },
     {
       "title": "Le cancer du colon chez les jeunes pourrait avoir une biologie distincte et dangereuse",
@@ -1611,14 +1619,6 @@
       "category": "Monde"
     },
     {
-      "title": "Je suis un médecin humain avec l'intelligence humaine. Mais j'aime vraiment mon notetaker AI",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-      "date": "Tue, 17 Nov 2026 06:00:00 -0500",
-      "description": "Votre médecin a-t-il demandé s'ils pouvaient utiliser l'intelligence artificielle pour prendre des notes lors d'un examen? C'est très populaire, et voici comment penser à travers les avantages et les inconvénients de la nouvelle technologie.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "«Il y avait beaucoup de feux de gaz: Pourquoi les étoiles podcast américaines ont abandonné Trump",
       "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
       "date": "Tue, 17 Nov 2026 05:00:25 GMT",
@@ -1782,7 +1782,7 @@
       "title": "Où trouver le commerce anti-AI",
       "link": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
       "date": "Thu, 12 Nov 2026 10:38:28 +0000",
-      "description": "Le pire des chipmakers, les meilleurs actions indiennes",
+      "description": "Le pire des chipmakers, les meilleures actions indiennes",
       "source": "The Economist",
       "category": "Économie"
     },
@@ -1790,7 +1790,7 @@
       "title": "Italie",
       "link": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
       "date": "Thu, 12 Nov 2026 10:35:00 +0000",
-      "description": "L'imposition de riches émigrants des gains en capital peut être bonne en théorie. La pratique est plus difficile",
+      "description": "L'imposition de riches émigrants (les gains en capital) peut être bonne en théorie. La pratique est plus difficile",
       "source": "The Economist",
       "category": "Économie"
     },
