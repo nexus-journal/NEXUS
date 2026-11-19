@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-18T23:35:56.733883+00:00",
-  "count": 288,
+  "updated_at": "2026-11-19T00:37:09.542907+00:00",
+  "count": 280,
   "articles": [
+    {
+      "title": "Grand Theft Auto VI sorti comme les joueurs se réjouissent dans le monde entier",
+      "link": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 18 Nov 2026 23:58:00 GMT",
+      "description": "Après 13 ans d'attente, les fans du monde entier pourront jouer le dernier épisode de la série de jeux vidéo blockbuster. En bref : Une histoire de crime et de violence dans une version fictive de Miami.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Israël utilise la vidéo de natation de Gaza pour minimiser les difficultés hivernales",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 23:53:21 +0000",
+      "description": "Israël a partagé une vidéo d'Al Jazeera de Palestiniens nageant, pour suggérer que les tempêtes d'hiver à Gaza ne peuvent pas être si mauvaises.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
     {
       "title": "EN DIRECT - Présidentielle 2027 : Tondelier se dit «prête» à travailler à une «coalition autour de la candidature» Mélenchon",
       "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-a-la-traine-dans-les-sondages-presente-son-projet-a-date-20261118",
@@ -11,12 +27,60 @@
       "category": "France"
     },
     {
+      "title": "Kress, PDG intérimaire de Nvidia, raconte aux employés qu'ils vont de l'avant lors de la première réunion de toutes les mains depuis la sortie de Jensen Huang",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "date": "Wed, 18 Nov 2026 23:45:50 GMT",
+      "description": "La PDG intérimaire de Nvidia Colette Kress exhorte le personnel à avancer et offre des augmentations de salaire après la sortie de Jensen Huang.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Au milieu des craintes de cyberattaques de l'IA, Satya Nadella dit que beaucoup d'infrastructures critiques sont «incompatibles»",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "date": "Wed, 18 Nov 2026 23:45:00 +0000",
+      "description": "Le PDG de Microsoft a minimisé la récente panne Outlook tout en notant que l'IA causait à la fois des opportunités et de nouveaux défis pour sécuriser une grande partie du monde connecté.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Claude-maker Anthropic est prêt pour plus de 1,4 tn de début de bourse",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 18 Nov 2026 23:44:27 GMT",
+      "description": "L'anthropie a commencé il y a seulement cinq ans un est maintenant l'un des plus grands noms de l'intelligence artificielle.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "L'OPI anthropique recueille plus de 81 milliards de dollars en plus grande offre jamais enregistrée, dépassant SpaceX",
       "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "date": "Wed, 18 Nov 2026 23:35:03 GMT",
+      "date": "Wed, 18 Nov 2026 23:44:11 GMT",
       "description": "Les actions anthropiques commenceront à trader sur le Nasdaq sous le symbole ANT jeudi.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "Les sept fondateurs anthropiques qui sont sur le point de devenir multimilliardsaires",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 18 Nov 2026 23:42:07 GMT",
+      "description": "La société d'IA derrière Claude est sur le point de vendre ses actions sur le marché boursier américain - rendant ses fondateurs très riches.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le bateau migrant chavire du Sénégal, laissant au moins un mort",
+      "link": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 23:36:23 +0000",
+      "description": "L'incident survient quelques jours après qu'un autre bateau ait chaviré dans les eaux sénégalaises, et l'Espagne a déclaré une urgence migratoire.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Un Russe accusé d'espionnage sur une société américaine de défense technologique qui aide l'Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 18 Nov 2026 23:28:03 GMT",
+      "description": "Le suspect a suivi les employés et a été trouvé avec de fausses cartes d'identité américaines et deux passeports russes, selon les procureurs.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "Elon Musk dit qu'éviter Jensen Huang c'est comme \"tirer Michael Jordan de votre équipe\"",
@@ -91,14 +155,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Les États-Unis intensifient la pression sur le Hezbollah soutenu par l'Iran avec de nouvelles sanctions",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 22:56:19 +0000",
-      "description": "Le Trésor américain a accusé le Hezbollah d'utiliser les organisations caritatives comme des « fronts » pour la collecte de fonds.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "«On a pu discuter de tout ce qui n’allait pas et l’améliorer» : dans le Pas-de-Calais, un documentaire fait évoluer les mentalités",
       "link": "https://www.liberation.fr/forums/on-a-pu-discuter-de-tout-ce-qui-nallait-pas-et-lameliorer-dans-le-pas-de-calais-un-documentaire-fait-evoluer-les-mentalites-20261118_BFZZN6VL7VBPVPQ4M2BIKWUQAU/",
       "date": "Wed, 18 Nov 2026 22:56:00 +0000",
@@ -155,14 +211,6 @@
       "category": "Monde"
     },
     {
-      "title": "Palo Alto encre 4,5 milliards de dollars de marché pour la startup AI Applied Compute, actions pop 7% sur le bénéfice",
-      "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-      "date": "Wed, 18 Nov 2026 22:25:32 GMT",
-      "description": "Palo Alto Networks acquiert régulièrement des entreprises pour capitaliser sur la demande des outils informatiques pour lutter contre l'IA.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Couverture de la NASA pour le lancement de Northrop Grumman CRS-25, prélancement",
       "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
       "date": "Wed, 18 Nov 2026 22:19:17 +0000",
@@ -203,10 +251,10 @@
       "category": "France"
     },
     {
-      "title": "Les prix anthropiques bloquent l'IPO à 83 $ la part",
+      "title": "L'anthropie recueille 81 milliards de dollars en IP record",
       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
       "date": "Wed, 18 Nov 2026 22:04:50 GMT",
-      "description": "Le groupe AI attire une forte demande d'investisseurs en dépit de l'affluence des stocks technologiques",
+      "description": "Les prix géants de l'IA offrent une gamme supérieure à la cible et augmentent la taille des transactions après avoir attiré la demande des investisseurs",
       "source": "Financial Times",
       "category": "Économie"
     },
@@ -243,28 +291,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Nvidia a créé un peu d'intrigue bizarre en ne déposant pas un rapport SEC de routine",
-      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-      "date": "Wed, 18 Nov 2026 21:57:40 +0000",
-      "description": "Un analyste de Wall Street est arrivé au bas de l'annonce surprise de Nvidia qu'il ne déposerait pas son document de résultats trimestriels officiels, le 10-Q, pendant des semaines.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "350 milliards de dollars de projet de loi de réconciliation « ne va pas se produire »: HASC président",
       "link": "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/",
       "date": "Wed, 18 Nov 2026 21:56:01 +0000",
       "description": "Si un projet de loi de réconciliation est encore possible, il va devoir être dépouillé pour faire face ... le trou dans le budget de la défense que le Venezuela et l'Iran ont créé, a déclaré le Rep. Mike Rogers.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "L'Irak condamne six Français à la prison à vie pour avoir rejoint l'EIIL",
-      "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 21:53:17 +0000",
-      "description": "Les procès ont commencé en septembre pour 47 Français transférés de Syrie l'an dernier.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "\"Saint S, qui est Téhéran!\" B-2 Pilotes Histoire de l'opération Midnight Hammer",
@@ -281,14 +313,6 @@
       "description": "Les responsables du Sénat accordent la priorité au dôme d'or, aux drones et aux munitions, mais d'autres programmes militaires pourraient en payer le prix.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "Kress, PDG intérimaire de Nvidia, raconte aux employés qu'ils vont de l'avant lors de la première réunion de toutes les mains depuis la sortie de Jensen Huang",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "date": "Wed, 18 Nov 2026 21:40:21 GMT",
-      "description": "La PDG intérimaire de Nvidia Colette Kress exhorte le personnel à avancer et offre des augmentations de salaire après la sortie de Jensen Huang.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Budget, préventes, musique… Cinq chiffres vertigineux autour de \"GTA VI\", qui est sorti à minuit après treize ans d'attente",
@@ -321,22 +345,6 @@
       "description": "A travers un siècle d’histoire de l’armée nippone, l’historien montre combien celle-ci s’est avérée belliciste envers la Chine et l’Amérique, jusqu’à sa défaite accablante en 1945.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "La Corée du Sud lance la cinquième frégate FFX Batch-III, ROKS Pyeongtaek",
-      "link": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
-      "date": "Wed, 18 Nov 2026 21:24:48 +0000",
-      "description": "Hanwha Ocean a lancé la cinquième frégate FFX Batch-III de Corée du Sud, ROKS Pyeongtaek (FFG-833), avec des systèmes de guerre électronique et de cybersécurité améliorés. ROK Navy and Defense Acquisition Program Administration (DAPA) commun communiqué de presse traduit par Naval News La Marine République de Corée et l'Administration du Programme d'acquisition de la Défense (DAPA) ont organisé une cérémonie de lancement pour ROKS Pyeongtaek (FFG-833) à Hanwha ... L'après Corée du Sud lance",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
-      "title": "Les législateurs américains poussent à porter le salaire minimum à 25 $, système de salaire de bout en bout",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 21:24:19 +0000",
-      "description": "Le soutien du public à l'augmentation du salaire minimum augmente, 78 pour cent des électeurs affirmant que c'était une question électorale importante.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
@@ -395,14 +403,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Floodwaters submerge des voitures et des parkings dans la ville de Floride",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 21:08:04 +0000",
-      "description": "Les eaux de crue ont transformé les rues et les parkings en rivières à Davie, en Floride, laissant les conducteurs confrontés à des conditions dangereuses.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Reconstruire l'histoire cosmique et l'évolution de la Terre à partir des explosions cosmiques",
       "link": "https://www.universetoday.com/articles/reconstructing-cosmic-history-and-earths-evolution-from-cosmic-explosions",
       "date": "Wed, 18 Nov 2026 21:07:58 +0000",
@@ -433,14 +433,6 @@
       "description": "Vous pouvez oublier un mode 60 fps sur les consoles current-gen, même dans les patchs futurs.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Le secrétaire américain à la Défense Hegseth révèle un partenariat militaire pour le voyage au Venezuela",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 21:01:05 +0000",
-      "description": "Pete Hegseth dit que l'accord comprendra une formation conjointe et le partage de renseignements avec l'armée vénézuélienne.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Alexander Zverev visé par une nouvelle plainte de son ex-compagne",
@@ -475,7 +467,7 @@
       "category": "France"
     },
     {
-      "title": "Les musulmans projettent de dépasser le nombre de chrétiens dans le monde d'ici 2035 - la majorité au Royaume-Uni non religieux d'ici 2070",
+      "title": "Les musulmans projettent de dépasser le nombre de chrétiens dans le monde d'ici 2035",
       "link": "https://news.sky.com/story/muslims-projected-to-outnumber-christians-by-2035-with-majority-in-uk-non-religious-by-2070-13613731",
       "date": "Wed, 18 Nov 2026 20:42:00 +0000",
       "description": "Selon des projections détaillées publiées mercredi, l'islam devrait dépasser le christianisme en tant que religion la plus importante du monde en 2035.",
@@ -497,14 +489,6 @@
       "description": "Les défauts durcis s'alignent sur les normes du DoD, mais il peut y avoir des douleurs de croissance.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Que signifie une nouvelle offensive terrestre pour les Palestiniens à Gaza ?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-      "date": "Wed, 18 Nov 2026 20:38:06 +0000",
-      "description": "Les chars israéliens avancent au-delà de la 'ligne jaune', forçant les Palestiniens à fuir à nouveau à Gaza.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "All Points Logistics annonce un partenariat avec Expeditors pour Space Prep Logistics Center au Kennedy Space Center",
@@ -603,14 +587,6 @@
       "category": "Économie"
     },
     {
-      "title": "Trump, Xi et Poutine secouent les mains en Chine",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "date": "Wed, 18 Nov 2026 20:13:01 +0000",
-      "description": "Le leader chinois, Xi Jinping, a hissé le président Trump sur le tarmac alors qu'il était arrivé pour un sommet régional à Shenzhen. Ils devraient tenir une réunion trilatérale jeudi avec le président russe Vladimir V. Poutine.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "L'Observatoire Simons est en ligne et enquête sur la micro-onde cosmique",
       "link": "https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background",
       "date": "Wed, 18 Nov 2026 20:05:05 +0000",
@@ -699,14 +675,6 @@
       "category": "Économie"
     },
     {
-      "title": "Meilleures offres de téléphone du vendredi noir tôt (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
-      "date": "Wed, 18 Nov 2026 19:17:06 +0000",
-      "description": "Tandis que les vacances se rapprochent, je vois déjà des offres de téléphone en début de Black Friday.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Vous pouvez enfin éditer une histoire Instagram sans la supprimer",
       "link": "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/",
       "date": "Wed, 18 Nov 2026 19:14:19 +0000",
@@ -739,6 +707,14 @@
       "category": "Environnement"
     },
     {
+      "title": "IPO anthropique augmente record 81,3 milliards de dollars sur forte demande d'IA",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+      "date": "Wed, 18 Nov 2026 18:54:56 -0500",
+      "description": "La puissance de l'intelligence artificielle, âgée de cinq ans, a vendu sa première offre publique à 83 $ d'actions, ce qui a réduit les inquiétudes croissantes au sujet d'une éventuelle bulle d'IA et de la volatilité des stocks technologiques.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "William et Kate rencontrent le Premier ministre indien alors qu'ils concluent leur visite royale",
       "link": "https://news.sky.com/story/prince-william-and-kate-meet-indias-pm-narendra-modi-as-they-wrap-up-royal-visit-13613699",
       "date": "Wed, 18 Nov 2026 18:54:00 +0000",
@@ -769,14 +745,6 @@
       "description": "L'arc en acier qui est maintenant parti a pris environ deux ans pour produire, assembler et installer. Le remplacer sera compliqué, si possible en temps de guerre.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "De grands paris contre la dette AI, de CoreWeave à Oracle et le Mag 7, pourraient bientôt frapper le marché ETF",
-      "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-      "date": "Wed, 18 Nov 2026 18:37:39 GMT",
-      "description": "Les craintes des investisseurs au sujet des bilans d'IA et de la dette sont élevées, en particulier pour les néoclouds. Les ETF ciblant les swaps de défaut de crédit des émetteurs d'IA arrivent.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Israël lance une nouvelle opération terrestre à Gaza",
@@ -813,7 +781,7 @@
     {
       "title": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
       "link": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
-      "date": "Wed, 18 Nov 2026 18:00:19 +0100",
+      "date": "Wed, 18 Nov 2026 18:00:08 +0100",
       "description": "Le président russe doit rencontrer ses homologues chinois et américain, jeudi, en marge du sommet de la Coopération économique pour l’Asie-Pacifique. Alors que le chef du Kremlin est visé par un mandat d’arrêt de la Cour pénale internationale, ce sommet fait craindre que l’avenir de l’Ukraine soit discuté entre les trois hommes, sans considération pour les intérêts des Européens.",
       "source": "Le Monde",
       "category": "France"
@@ -888,7 +856,7 @@
       "date": "Wed, 18 Nov 2026 17:34:25 GMT",
       "description": "Les critiques ont leur mot à dire pour savoir si GTA 6, le jeu vidéo le plus attendu de tous les temps, est à la hauteur du hype.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Merci de faire la science de la NASA!",
@@ -929,14 +897,6 @@
       "description": "Les rayons gamma, le type de rayonnement électromagnétique le plus énergétique de l'univers, ont toujours eu un angle mort. Nous avons toujours eu de la difficulté à les mesurer dans la gamme d'énergie de l'électron-méga (MeV), que les astronomes ont pris pour appeler l'écart de l'électron-méga. Mais un nouveau document d'un groupe international de scientifiques travaillant avec la collaboration de Fermi Large Area Telescope (LAT) a récemment publié un document dans The Astrophysical Journal Supplement",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Qu'est-ce qui rend 'Grand Theft Auto VI' plus qu'un simple jeu ?",
-      "link": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Wed, 18 Nov 2026 17:13:00 GMT",
-      "description": "Lorsque \"GTA VI\" sortira le 19 novembre, des millions de personnes dans le monde se précipiteront vers leur console pour la jouer. Comment ce jeu vidéo a-t-il créé un tel buzz transgénérationnel ?",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
@@ -1003,14 +963,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Sahara Occidental: bataille d’infox entre des comptes marocains et algériens",
-      "link": "https://www.rfi.fr/fr/afrique/20261118-sahara-occidental-bataille-d-infox-entre-des-comptes-marocains-et-alg%C3%A9riens",
-      "date": "Wed, 18 Nov 2026 16:53:04 GMT",
-      "description": "Le non-renouvellement surprise de la force de maintien de la paix de l’ONU au Sahara occidental fin octobre suscite de vifs échanges sur les réseaux sociaux. Le Front Polisario et son allié algérien sont notamment accusés d’accumuler armes et troupes en vue d’affrontements avec le Maroc. De nombreuses infox circulent à ce sujet dans une zone où l’information fiable est très difficile à établir.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "L'Europe est en train d'explorer les armes de frappe profondes orbitales",
       "link": "https://www.twz.com/space/europe-is-exploring-orbital-deep-strike-weapons",
       "date": "Wed, 18 Nov 2026 16:50:08 -0500",
@@ -1033,22 +985,6 @@
       "description": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort des Rousses, petite commune près de la frontière suisse. Une consécration qui fait la fierté de toute la région.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "'Project Hail Mary' retourne au théâtre en décembre",
-      "link": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december",
-      "date": "Wed, 18 Nov 2026 16:24:34 +0000",
-      "description": "Fixez ma bosse, tout le monde, parce que le coup de box-office \"Projet Hail Mary\" est de retour aux théâtres.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
-      "title": "Trump serre la main avec Poutine et Xi avant les pourparlers historiques en Chine",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 18 Nov 2026 16:10:44 GMT",
-      "description": "Les trois dirigeants se réuniront pour la première fois jeudi au cours d'un sommet étroitement surveillé.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Présidentielle 2027 en France: Édouard Philippe mise sur des réformes «radicales»",
@@ -1096,14 +1032,6 @@
       "date": "Wed, 18 Nov 2026 15:49:03 +0000",
       "description": "Si les autorités libanaises ne sont pas en mesure de prendre possession matérielle des positions, le transfert pourrait se faire uniquement sur papier, a déclaré des sources.",
       "source": "Defense News",
-      "category": "Défense"
-    },
-    {
-      "title": "Le Congrès reprend le navire de guerre de la Marine américaine dans une nouvelle proposition de budget",
-      "link": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
-      "date": "Wed, 18 Nov 2026 15:42:53 +0000",
-      "description": "Les responsables du Sénat ont dévoilé leur budget sans réconciliation de 1,1 billion de dollars du Pentagone avec un certain nombre de révisions budgétaires, y compris un rejet quasi-total des Marines a valu 34 000 tonnes de missiles guidés de combat, ce qui a causé un revers majeur à l'une des initiatives de construction navale les plus ambitieuses de l'administration Trump. Les responsables du Sénat s'installent pour retirer près de 1,84 milliard de dollars ... Le poste Congrès réprimande le navire de combat de la marine américaine",
-      "source": "Naval News",
       "category": "Défense"
     },
     {
@@ -1211,14 +1139,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Les sept fondateurs anthropiques qui sont sur le point de devenir multimilliardsaires",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 18 Nov 2026 13:55:14 GMT",
-      "description": "La société d'IA derrière Claude est sur le point de vendre ses actions sur le marché boursier américain - rendant ses fondateurs très riches.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Le programme de missiles sol-air conteneurisés de l'armée de l'air américaine entre en ligne de mire",
       "link": "https://www.twz.com/land/u-s-air-forces-containerized-surface-to-air-missile-program-comes-into-sharper-focus",
       "date": "Wed, 18 Nov 2026 13:45:21 -0500",
@@ -1251,14 +1171,6 @@
       "category": "Monde"
     },
     {
-      "title": "La facture énergétique typique devrait augmenter de 443 £ par an à partir de janvier avec une nouvelle hausse du taux d'inflation",
-      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 18 Nov 2026 13:17:06 GMT",
-      "description": "Les factures d'énergie devraient augmenter de 26 % par an pour un ménage typique, l'inflation du Royaume-Uni atteignant son taux le plus élevé depuis un an.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Hacks, AI ou des mises à jour en retard - pourquoi il y a eu tant de pannes ?",
       "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 18 Nov 2026 13:16:53 GMT",
@@ -1273,14 +1185,6 @@
       "description": "Sur l'édition matinale de NPR, le designer Karl Kani parle de ses nouveaux mémoires, habille certaines des plus grandes stars du hip-hop et pourquoi jeans maigres ne sont pas pour tout le monde.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Frais de chauffage, chocolat et aliments pour chats: Ce que signifient les chiffres de l'inflation pour vous",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 18 Nov 2026 13:10:01 GMT",
-      "description": "Les prix augmentent à leur rythme le plus rapide depuis un an au Royaume-Uni, et les coûts de l'énergie sont en hausse.",
-      "source": "BBC News",
-      "category": "Économie"
     },
     {
       "title": "Le téléchargement : l'IA apprend à sentir et à se battre pour l'hydroélectricité",
@@ -1312,14 +1216,6 @@
       "date": "Wed, 18 Nov 2026 12:33:40 -0500",
       "description": "Le sous-marin armé de missiles Trident est retourné au port en Écosse après environ 217 jours d'immersion. The post This Is What Submarine HMS Vengeance ressemble à après sa patrouille de dissuasion nucléaire record apparu en premier sur TWZ .",
       "source": "The War Zone",
-      "category": "Défense"
-    },
-    {
-      "title": "Mistral dans une boîte: MBDA révoque le concept SPIMM contre les drones",
-      "link": "https://www.navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones/",
-      "date": "Wed, 18 Nov 2026 12:29:17 +0000",
-      "description": "MBDA et Terma s'associent à Euronaval 2026 pour relancer le système de défense antiaérienne Mistral 3 conteneurisé SPIMM contre les drones, les missiles de croisière et les USV. Le post Mistral in a Box: MBDA Revives SPIMM Concept Against Drones est apparu en premier sur Naval News .",
-      "source": "Naval News",
       "category": "Défense"
     },
     {
@@ -1443,14 +1339,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'Italie confirme la nouvelle VLS nationale pour la défense en profondeur et hypersonore",
-      "link": "https://www.navalnews.com/naval-news/2026/11/italy-confirms-new-national-vls-for-deep-strike-and-hypersonic-defense/",
-      "date": "Wed, 18 Nov 2026 09:20:58 +0000",
-      "description": "Italie Le plan de défense 2026-2028 confirme un nouveau système de lancement vertical national (VLS) pour les destroyers NG DDG et les frégates FREMM Evo pour lancer les missiles Stratus LO et Aquila. L'article Italie confirme la nouvelle VLS nationale pour Deep-Strike et Hypersonic Defense est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "En Utah, une ‘autoroute des hydrocarbures' pourrait traverser ce canyon rempli de pétroglyphe",
       "link": "https://grist.org/accountability/utah-blm-lawsuit-petroglyphs-canyon-oil/",
       "date": "Wed, 18 Nov 2026 09:15:00 +0000",
@@ -1465,14 +1353,6 @@
       "description": "La même start-up technologique qui a découvert un défaut PHP a utilisé l'IA pour découvrir un bug logiciel critique dans l'un des programmes de langage informatique les plus populaires au monde.",
       "source": "BBC News",
       "category": "Technologie"
-    },
-    {
-      "title": "L'interrupteur d'arrêt pour l'aide américaine mène à un gratte-ciel pour la Zambie et le Zimbabwe",
-      "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-      "date": "Wed, 18 Nov 2026 08:03:38 -0500",
-      "description": "Après avoir démantelé l'Agence américaine pour le développement international, l'administration Trump redémarre l'aide étrangère. En Zambie et au Zimbabwe, il existe des approches différentes mais des préoccupations similaires.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Corps trouvé dans la tourbière de Derry décapité il y a plus de 2000 ans, coroner trouve",
@@ -1515,14 +1395,6 @@
       "category": "Technologie"
     },
     {
-      "title": "TKMS et BAAINBw signent un contrat pour quatre frégates supplémentaires MEKO A-200 DEU",
-      "link": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
-      "date": "Wed, 18 Nov 2026 06:59:00 +0000",
-      "description": "Le constructeur naval allemand TKMS et l'Office fédéral des équipements, des technologies de l'information et du soutien en service (BAAINBw) ont signé le contrat pour le deuxième lot de quatre frégates MEKO A-200 DEU supplémentaires. Par Lars Hoffman / hartpunkt TKMS rapporte que cela fait suite à l'approvisionnement de ces navires, qui a été approuvé par le comité du budget de ... Le contrat de signature après TKMS et BAAINBw pour quatre MEKO supplémentaires A-200 DEU",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Démocrates défaites républicains en Alaska en dernière mi-parcours Course au Sénat",
       "link": "https://news.sky.com/story/democrat-defeats-republican-in-alaska-in-final-midterms-senate-race-13613459",
       "date": "Wed, 18 Nov 2026 06:46:00 +0000",
@@ -1537,14 +1409,6 @@
       "description": "La BBC regarde pourquoi en un été sec avec peu de déversements d'eaux usées, un site de baignade a échoué tant de tests de qualité de l'eau.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Quelle est l'importance de Nvidia et Jensen Huang pour l'économie américaine?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 18 Nov 2026 06:04:21 GMT",
-      "description": "L'ancien directeur général de Nvidia a été au centre du boom de l'intelligence artificielle.",
-      "source": "BBC News",
-      "category": "Technologie"
     },
     {
       "title": "La Deutsche Bank a engagé un roi qatarien. Pourquoi ?",
@@ -1729,14 +1593,6 @@
       "description": "Le président, qui avait accepté de déposer en octobre, mais qui a refusé, doit maintenant comparaître au plus tard le 22 janvier, Donald Trump s'est vu accorder un délai temporaire avant de devoir faire une déclaration de témoin dans son procès en diffamation de 10 milliards de dollars contre la BBC. Fin octobre, Enjoliqué Lett, juge de justice fédéral, a donné à Trump une date limite du 11 décembre pour se présenter à une déposition par des avocats représentant la BBC dans son procès contre le radiodiffuseur britannique. Si",
       "source": "The Guardian",
       "category": "Économie"
-    },
-    {
-      "title": "UDT Australie 2026: Discussions de conférence à être catalyseur pour la conversion du débat australien sur la guerre sous-marine",
-      "link": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
-      "date": "Tue, 17 Nov 2026 20:59:30 +0000",
-      "description": "Inaugural UDT Australia 2026 Conference in Adelaide vise à élargir le débat sur la guerre sous-marine en Australie au-delà des sous-marins à l'autonomie, la sécurité des fonds marins et AUKUS. The post UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare parut en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
     },
     {
       "title": "Il y a 125 000 ans, les hippopotames erraient dans le vaste désert arabe.",
@@ -1931,14 +1787,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Google peut-il gagner la course d'IA sans tuer sa vache cash ?",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-      "date": "Tue, 17 Nov 2026 06:30:00 -0500",
-      "description": "À la fin d'octobre, Google a eu la pire journée de son histoire en tant qu'entreprise publique. Le bulletin Planet Money demande: Google a-t-il été pris dans \"le dilemme de l'innovateur\"?",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
       "title": "Ce nouveau matériau remarquable pourrait résoudre un problème majeur de captage du carbone",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
       "date": "Tue, 17 Nov 2026 06:29:36 EST",
@@ -1995,12 +1843,76 @@
       "category": "Exploration"
     },
     {
+      "title": "Les meilleures affaires du vendredi noir sur les ordinateurs portables que j'ai testées moi-même (2026)",
+      "link": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "date": "Thu, 19 Nov 2026 00:23:15 +0000",
+      "description": "Quelques-unes des meilleures offres sur mes ordinateurs portables préférés de l'année ont déjà chuté dans l'avance à Black Friday.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'anthropie recueille 81,3 milliards de dollars dans la plus grande OPI de tous les temps",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 00:20:03 +0000",
+      "description": "AI géantes actions de prix à $83 dans blockbuster marché débuts.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Un résident de Pennsylvanie non vacciné meurt au milieu de la résurgence de la rougeole aux États-Unis",
+      "link": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 00:14:40 +0000",
+      "description": "La Pennsylvanie enregistre la huitième mort de la rougeole en 2026, un jour après que les États-Unis perdent officiellement leur statut d'élimination de 26 ans.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Le pont de Crimée a de nouveau été attaqué, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l'infrastructure",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html#xtor=RSS-3-[lestitres]",
       "date": "Thu, 19 Nov 2026 00:14:23 +0100",
       "description": "La circulation sur l'ouvrage, qui relie la Crimée annexée à la Russie, \"est temporairement interrompue\", a annoncé mercredi soir un responsable local russe.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Entre impatience et attentes très fortes, les joueurs français prêts pour la sortie de GTA VI",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-france/20261119-entre-impatience-et-attentes-tr%C3%A8s-fortes-les-joueurs-fran%C3%A7ais-pr%C3%AAts-pour-la-sortie-de-gta-vi",
+      "date": "Thu, 19 Nov 2026 00:12:08 GMT",
+      "description": "Imaginez un produit culturel capable de faire poser des congés à des milliers de personnes et de générer plus de revenus en 24 heures que les plus gros blockbusters du cinéma. Ce produit, c'est un jeu vidéo : Grand Theft Auto VI. Treize ans après le précédent volet, le titre le plus attendu de la décennie sort ce jeudi 19 novembre 2026. En France, l'impatience est à son comble. Des boutiques spécialisées aux forums de fans, c'est toute une communauté qui est prête à mettre sa vie sur pause.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Les gouvernements de l'UE approuvent l'accord commercial avec l'Indonésie pour compenser les tarifs de Trump",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 00:11:40 +0000",
+      "description": "L'accord, initialement conclu en 2025, verra les deux parties supprimer les droits à l'importation sur plus de 90 p. 100 des produits.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Trump, Xi et Poutine secouent les mains en Chine",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "date": "Thu, 19 Nov 2026 00:10:27 +0000",
+      "description": "Le leader chinois, Xi Jinping, a hissé le président Trump sur le tarmac alors qu'il était arrivé pour un sommet régional à Shenzhen. Ils devraient tenir une réunion trilatérale jeudi avec le président russe Vladimir V. Poutine.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Kash Patel saute Audience à la Chambre après le gala Mar-a-Lago avec un accès de 50 000 $",
+      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "date": "Thu, 19 Nov 2026 00:08:14 GMT",
+      "description": "Kash Patel a raté une audience du Congrès après avoir comparu la veille dans un gala de Mar-a-Lago offrant aux donateurs un accès de 50 000 $ aux hauts fonctionnaires.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Palo Alto encre 4,5 milliards de dollars de marché pour la startup AI Applied Compute, actions pop 7% sur le bénéfice",
+      "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+      "date": "Thu, 19 Nov 2026 00:07:06 GMT",
+      "description": "Palo Alto Networks acquiert régulièrement des entreprises pour capitaliser sur la demande des outils informatiques pour lutter contre l'IA.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "La vaccination face à la grippe permet d'éviter 9 000 hospitalisations chez les plus de 65 ans chaque année, selon Santé publique France",
@@ -2011,12 +1923,36 @@
       "category": "France"
     },
     {
+      "title": "La guerre en Iran est en vie : une coalition dirigée par l'Arabie saoudite frappe le Yémen ; des navires en feu à Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 00:01:02 +0000",
+      "description": "La coalition dirigée par l'Arabie saoudite a déclaré qu'elle avait détruit une plate-forme de missiles à Saada, au Yémen, alors que l'Iran prétendait que trois navires avaient touché des mines.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'abus sexuel de McDonald : « Ils attendaient que les jeunes filles aient 18 ans »",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 19 Nov 2026 00:00:59 GMT",
+      "description": "Un ancien travailleur de McDonald appelle l'entreprise à changer la façon dont ils traitent les jeunes employés, car un juge règle une affaire juridique contre la chaîne peut aller de l'avant.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
       "title": "L214 accuse un élevage dans le Finistère qui fournit le groupe Leclerc de violences sur des porcelets",
       "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
       "date": "Thu, 19 Nov 2026 00:00:01 +0100",
       "description": "L'association de protection animale annonce porter plainte contre cet élevage situé à Poullaouen. L'association accuse l'élevage de castrer des porcelets à vif.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Que vous vouliez Star Trek: Strange New Worlds ou la nostalgie pure de The Original Series, ce temps limité $2.99 Paramount+ L'accord de streaming vous obtient tous les deux",
+      "link": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
+      "date": "Thu, 19 Nov 2026 00:00:00 +0000",
+      "description": "Les abonnements Paramount+ ne sont maintenant que 2,99 $ par mois pour les deux premiers mois du Black Friday 2026. Cela vous donne accès à presque toutes les saisons de Star Trek et une foule de grands films. L'offre prend fin le 30 novembre.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "COP31: Comment Ed Miliband a répondu Carbon Brèves questions",
@@ -2259,6 +2195,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Borneo Les groupes autochtones transforment la victoire sur les droits fonciers en avertissement pour les générations futures",
+      "link": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
+      "date": "18 Nov 2026 23:34:38 +0000",
+      "description": "Les communautés autochtones de Bornéo malaisienne se sont réunies le 4 novembre pour placer une pierre commémorative en commémoration de leur bataille de trois ans avec une plantation de palmiers à huile qui menaçait leurs droits fonciers coutumiers indigènes et mettait également en danger un site du patrimoine mondial de l'UNESCO. Placer la pierre commémorative Ba Besanan dans la forêt était en partie une célébration par la [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Greenpeace baisse «Attenbulder» pour dissuader les chalutiers britanniques de fond dans une zone marine protégée",
       "link": "https://news.mongabay.com/short-article/2026/11/greenpeace-drops-attenboulder-to-deter-uk-bottom-trawlers-in-a-marine-protected-area/",
       "date": "18 Nov 2026 20:31:20 +0000",
@@ -2295,14 +2239,6 @@
       "link": "https://news.mongabay.com/2026/11/study-maps-jaguars-across-the-americas-to-help-their-populations-rebound/",
       "date": "18 Nov 2026 13:14:25 +0000",
       "description": "Lorsque les forêts sont sculptées dans des fermes, les chats de haut niveau de l'Amérique se trouvent piégés dans l'isolement.",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "De meilleures données peuvent aider à restaurer les écosystèmes himalayens et à se préparer aux risques climatiques (commentaires)",
-      "link": "https://news.mongabay.com/2026/11/better-data-can-help-restore-himalayan-ecosystems-prepare-for-climate-risks-commentary/",
-      "date": "18 Nov 2026 12:18:24 +0000",
-      "description": "En moins de sept semaines, deux événements d'inondation majeurs ont touché le Népal dans l'Himalaya, où les paysages montagneux écologiquement riches sont étroitement liés aux rivières, aux forêts et aux plaines inondables. Le matin du 26 août 2026, une crue catastrophique a commencé par un effondrement de la roche et de la glace sur le flanc nord de Langtang Lirung, dans le parc national Langtang. Les [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
