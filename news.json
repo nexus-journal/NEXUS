@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-11-19T09:56:20.671931+00:00",
-  "count": 273,
+  "updated_at": "2026-11-19T10:55:36.431618+00:00",
+  "count": 284,
   "articles": [
-    {
-      "title": "Kress, PDG intérimaire de Nvidia, raconte aux employés qu'ils vont de l'avant lors de la première réunion de toutes les mains depuis la sortie de Jensen Huang",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "date": "Wed, 18 Nov 2026 23:45:50 GMT",
-      "description": "La PDG intérimaire de Nvidia Colette Kress exhorte le personnel à avancer et offre des augmentations de salaire après la sortie de Jensen Huang.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
     {
       "title": "Au milieu des craintes de cyberattaques de l'IA, Satya Nadella dit que beaucoup d'infrastructures critiques sont «incompatibles»",
       "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
@@ -51,6 +43,14 @@
       "category": "Technologie"
     },
     {
+      "title": "\"Femmeblancherie\" : le procès de la haine des femmes",
+      "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
+      "date": "Wed, 18 Nov 2026 23:18:12 GMT",
+      "description": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram \"Femmeblancherie\" au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes, plusieurs dizaines d’abonnés sont accusés d’une trentaine de crimes et délits, dont \"provocation publique à commettre un crime\". Un procès qui découle d’une idéologie très en vogue chez les jeunes, notamment sur les réseaux sociaux : le masculinisme.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
       "title": "Microsoft PDG Satya Nadella reste confiant dans Nvidia après la sortie de Huang",
       "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "date": "Wed, 18 Nov 2026 23:17:28 +0000",
@@ -81,6 +81,14 @@
       "description": "La U.S. Air Force étend son entraînement sur les îles les plus occidentales de l'Amérique, où elle peut projeter de l'énergie et surveiller les adversaires à travers le Pacifique et l'Arctique.",
       "source": "Defense News",
       "category": "Défense"
+    },
+    {
+      "title": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
+      "link": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
+      "date": "Wed, 18 Nov 2026 22:39:24 GMT",
+      "description": "Qualifiant la dynamique de campagne de Jean-Luc Mélenchon d'\"indéniable\", la candidate écologiste à la présidentielle, Marine Tondelier, a dit mercredi soir sur France 2 être \"prête\" à \"travailler à une coalition\" avec l'insoumis. Le candidat Raphaël Glucksmann a jugé qu'elle \"[tournait] le dos\" à \"la tradition profondément proeuropéenne\" des écologistes.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Florida pasteur reconnu coupable plus de 2021 assassinat du président haïtien",
@@ -169,6 +177,14 @@
       "description": "L'IPO très attendu d'Anthropic devrait figurer parmi les 10 entreprises américaines les plus précieuses, mais l'avenir est incertain.",
       "source": "BBC News",
       "category": "Technologie"
+    },
+    {
+      "title": "La Corée du Sud lance la cinquième frégate FFX Batch-III, ROKS Pyeongtaek",
+      "link": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
+      "date": "Wed, 18 Nov 2026 21:24:48 +0000",
+      "description": "Hanwha Ocean a lancé la cinquième frégate FFX Batch-III de Corée du Sud, ROKS Pyeongtaek (FFG-833), avec des systèmes de guerre électronique et de cybersécurité améliorés. ROK Navy and Defense Acquisition Program Administration (DAPA) commun communiqué de presse traduit par Naval News La Marine République de Corée et l'Administration du Programme d'acquisition de la Défense (DAPA) ont organisé une cérémonie de lancement pour ROKS Pyeongtaek (FFG-833) à Hanwha ... L'après Corée du Sud lance",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Hegseth fait une visite surprise au Venezuela pour renforcer les liens militaires",
@@ -347,14 +363,6 @@
       "category": "Économie"
     },
     {
-      "title": "Vous pouvez enfin éditer une histoire Instagram sans la supprimer",
-      "link": "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/",
-      "date": "Wed, 18 Nov 2026 19:14:19 +0000",
-      "description": "Il y a une fenêtre de 15 minutes pour réparer les typos et faire d'autres changements.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Uranus et Neptune sont-ils secrètement des « géants » ? Un gaz noble pourrait retenir la réponse",
       "link": "https://www.universetoday.com/articles/are-uranus-and-neptune-secretly-rock-giants-a-noble-gas-might-hold-the-answer",
       "date": "Wed, 18 Nov 2026 19:11:15 +0000",
@@ -507,20 +515,20 @@
       "category": "Monde"
     },
     {
+      "title": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
+      "link": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+      "date": "Wed, 18 Nov 2026 17:09:31 GMT",
+      "description": "Le candidat de la France insoumise à l'élection présidentielle française de 2027, Jean-Luc Mélenchon, a dîné, mardi, avec les 13 plus grands patrons français. Un événement qui étonne pour le leader de la gauche radicale en rupture avec le capitalisme et fervent critique des ultra-riches.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
       "title": "Téhéran élargit les attaques contre les nations du Golfe après la dernière grève américaine sur l'île iranienne",
       "link": "https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
       "date": "Wed, 18 Nov 2026 17:06:41 -0500",
       "description": "La reprise des attaques iraniennes contre les États du Golfe accueillant les forces américaines et les frappes réactives des États-Unis se déroulent dans l'impasse des pourparlers de paix. Le post Téhéran Widens Attaques sur les nations du Golfe Après la dernière grève américaine sur l'île iranienne est apparu en premier sur TWZ.",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "Les Démocrates nomment Jeffries pour conférencier, préparer les enquêtes sur l'orbite de Trump",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
-      "date": "Wed, 18 Nov 2026 17:01:19 -0500",
-      "description": "Les démocrates ont fait signe à Hakeem Jeffries d'être le prochain président de la Chambre. Pendant ce temps, les Démocrates s'apprêtent à enquêter sur le gouvernement Trump en janvier.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Pourquoi tant de pannes technologiques critiques se produisent à la fois",
@@ -561,6 +569,14 @@
       "description": "Les législateurs démocrates demandent si le secrétaire commercial a favorisé Nvidia pour enrichir ses enfants adultes et Cantor Fitzgerald Le secrétaire commercial américain, Howard Lutnick, est confronté à des questions croissantes sur son traitement de l'affaire Nvidia alors que les législateurs démocratiques demandent des réponses sur son entreprise familiale. Cantor Fitzgerald, la société d'investissement Lutnick a couru pendant des décennies avant de rejoindre l'administration Trump , détenait des actions de la valeur de Nvidia",
       "source": "The Guardian",
       "category": "Économie"
+    },
+    {
+      "title": "France : le comté du Fort des Rousses élu meilleur fromage du monde",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
+      "date": "Wed, 18 Nov 2026 16:42:17 GMT",
+      "description": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort des Rousses, petite commune près de la frontière suisse. Une consécration qui fait la fierté de toute la région.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Sénateurs critiquent Apple et Google pour laisser les adolescents accéder à des applications «nudify» malgré les contrôles parentaux",
@@ -611,6 +627,14 @@
       "category": "Défense"
     },
     {
+      "title": "Le Congrès reprend le navire de guerre de la Marine américaine dans une nouvelle proposition de budget",
+      "link": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
+      "date": "Wed, 18 Nov 2026 15:42:53 +0000",
+      "description": "Les responsables du Sénat ont dévoilé leur budget sans réconciliation de 1,1 billion de dollars du Pentagone avec un certain nombre de révisions budgétaires, y compris un rejet quasi-total des Marines a valu 34 000 tonnes de missiles guidés de combat, ce qui a causé un revers majeur à l'une des initiatives de construction navale les plus ambitieuses de l'administration Trump. Les responsables du Sénat s'installent pour retirer près de 1,84 milliard de dollars ... Le poste Congrès réprimande le navire de combat de la marine américaine",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
       "title": "Le comité sénatorial principal refuse de voter sur Trump, candidat à la tête de la Fondation nationale des sciences, Jim O-Neill",
       "link": "https://www.scientificamerican.com/article/key-senate-committee-refuses-to-vote-on-trumps-nominee-to-lead-the-national-science-foundation-jim-oneill/",
       "date": "Wed, 18 Nov 2026 15:30:00 +0000",
@@ -633,6 +657,22 @@
       "description": "Les astronomes peuvent trouver des informations précieuses dans les objets les plus petits. C'était certainement le cas récemment lorsque douze grains de poussière collectés par un avion de haute altitude ont contribué à résoudre un mystère sur la naissance de notre système solaire. Ou du moins c'est l'argument d'un nouveau document publié dans Science Advances par des chercheurs de la NASA. Selon le journal, la région au-delà de Neptune avait autrefois un massif isolé",
       "source": "Universe Today",
       "category": "Exploration"
+    },
+    {
+      "title": "Élection présidentielle française 2027 – épisode 2 : le grand flou",
+      "link": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261118-%C3%A9lection-pr%C3%A9sidentielle-fran%C3%A7aise-2027-%E2%80%93-%C3%A9pisode-2-le-grand-flou",
+      "date": "Wed, 18 Nov 2026 14:57:16 GMT",
+      "description": "Au printemps prochain, la France se rendra aux urnes pour élire un nouveau président de la République. Trente-huit candidats sont actuellement en lice et ont jusqu'au 12 mars pour obtenir 500 parrainages. Aujourd'hui, quels que soient les candidats, les sondages donnent Marine Le Pen en tête du premier et du second tour.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : le candidat Édouard Philippe veut \"oser des réformes radicales\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales",
+      "date": "Wed, 18 Nov 2026 14:48:46 GMT",
+      "description": "Lors d'une conférence de presse de présentation de son programme pour l'élection présidentielle, Édouard Philippe a affirmé mercredi 18 novembre que \"nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années\". Le candidat Horizons de nouveau affirmé son refus à l'idée de participer à une primaire de la droite. Les précisions de Flore Simon, chroniqueuse politique à France 24.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "L'indice AI Hype : l'IA est partout",
@@ -691,14 +731,6 @@
       "category": "Sciences"
     },
     {
-      "title": "L'UE propose un prêt de 45 milliards d'euros en Ukraine, qui sera remboursé après que la Russie aura versé des réparations.",
-      "link": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations/",
-      "date": "Wed, 18 Nov 2026 13:20:41 +0000",
-      "description": "La Commission européenne a proposé mercredi un nouveau prêt de 45 milliards d'euros (49,5 milliards de dollars) à l'Ukraine pour aider à combler un déficit de financement de 70 milliards d'euros pour l'année prochaine alors que Kiev poursuit sa lutte contre l'invasion russe de 2022.",
-      "source": "Defense News",
-      "category": "Défense"
-    },
-    {
       "title": "Hacks, AI ou des mises à jour en retard - pourquoi il y a eu tant de pannes ?",
       "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 18 Nov 2026 13:16:53 GMT",
@@ -736,6 +768,14 @@
       "date": "Wed, 18 Nov 2026 12:33:40 -0500",
       "description": "Le sous-marin armé de missiles Trident est retourné au port en Écosse après environ 217 jours d'immersion. The post This Is What Submarine HMS Vengeance ressemble à après sa patrouille de dissuasion nucléaire record apparu en premier sur TWZ .",
       "source": "The War Zone",
+      "category": "Défense"
+    },
+    {
+      "title": "Mistral dans une boîte: MBDA révoque le concept SPIMM contre les drones",
+      "link": "https://www.navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones/",
+      "date": "Wed, 18 Nov 2026 12:29:17 +0000",
+      "description": "MBDA et Terma s'associent à Euronaval 2026 pour relancer le système de défense antiaérienne Mistral 3 conteneurisé SPIMM contre les drones, les missiles de croisière et les USV. Le post Mistral in a Box: MBDA Revives SPIMM Concept Against Drones est apparu en premier sur Naval News .",
+      "source": "Naval News",
       "category": "Défense"
     },
     {
@@ -827,6 +867,14 @@
       "category": "Environnement"
     },
     {
+      "title": "L'Italie confirme la nouvelle VLS nationale pour la défense en profondeur et hypersonore",
+      "link": "https://www.navalnews.com/naval-news/2026/11/italy-confirms-new-national-vls-for-deep-strike-and-hypersonic-defense/",
+      "date": "Wed, 18 Nov 2026 09:20:58 +0000",
+      "description": "Italie Le plan de défense 2026-2028 confirme un nouveau système de lancement vertical national (VLS) pour les destroyers NG DDG et les frégates FREMM Evo pour lancer les missiles Stratus LO et Aquila. L'article Italie confirme la nouvelle VLS nationale pour Deep-Strike et Hypersonic Defense est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
       "title": "En Utah, une ‘autoroute des hydrocarbures' pourrait traverser ce canyon rempli de pétroglyphe",
       "link": "https://grist.org/accountability/utah-blm-lawsuit-petroglyphs-canyon-oil/",
       "date": "Wed, 18 Nov 2026 09:15:00 +0000",
@@ -857,6 +905,14 @@
       "description": "Recherches visant à déterminer si l'interdiction peut apporter un changement significatif à la santé mentale et au bien-être des moins de 16 ans Les pays du monde entier envisagent l'interdiction des médias sociaux pour les enfants, mais la question de savoir si cela fonctionnerait dans la pratique a fait l'objet de vifs débats. Aujourd'hui, les chercheurs cherchent des réponses par le biais d'une grande étude scientifique menée par Wellcome, qui sera la première du genre. Dix projets de recherche exploreront des sujets allant de la santé mentale des enfants à la santé mentale des enfants.",
       "source": "The Guardian",
       "category": "Technologie"
+    },
+    {
+      "title": "TKMS et BAAINBw signent un contrat pour quatre frégates supplémentaires MEKO A-200 DEU",
+      "link": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
+      "date": "Wed, 18 Nov 2026 06:59:00 +0000",
+      "description": "Le constructeur naval allemand TKMS et l'Office fédéral des équipements, des technologies de l'information et du soutien en service (BAAINBw) ont signé le contrat pour le deuxième lot de quatre frégates MEKO A-200 DEU supplémentaires. Par Lars Hoffman / hartpunkt TKMS rapporte que cela fait suite à l'approvisionnement de ces navires, qui a été approuvé par le comité du budget de ... Le contrat de signature après TKMS et BAAINBw pour quatre MEKO supplémentaires A-200 DEU",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Démocrates défaites républicains en Alaska en dernière mi-parcours Course au Sénat",
@@ -1043,14 +1099,6 @@
       "category": "Technologie"
     },
     {
-      "title": "La police philippine poursuit trois chefs d'accusation contre Thomas Markle Sr",
-      "link": "https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346",
-      "date": "Tue, 17 Nov 2026 17:34:00 +0000",
-      "description": "La police philippine poursuit trois chefs d'accusation contre Thomas Markle Sr concernant les images de violence sexuelle envers les enfants, Sky News comprend.",
-      "source": "Sky News",
-      "category": "Monde"
-    },
-    {
       "title": "Nvidia essaie de retourner aux affaires",
       "link": "https://www.npr.org/2026/11/17/nx-s1-6044197/nvidia-tries-to-get-back-to-business",
       "date": "Tue, 17 Nov 2026 17:18:51 -0500",
@@ -1113,14 +1161,6 @@
       "description": "Les données du propriétaire des décharges montrent que le lithium dépasse les normes de l'eau souterraine près de la source d'eau potable pour des millions de personnes. Les véhicules rapides sont dirigés vers une décharge massive de 1 400 acres remplie de cendres de charbon et d'autres matières dangereuses et détenue par Dynegy Zimmer LLC, une filiale de Vistra Corp",
       "source": "The Guardian",
       "category": "Environnement"
-    },
-    {
-      "title": "Le conseil d'administration de Nvidia n'a pas l'intention de réintégrer Jensen Huang en tant que PDG",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-      "date": "Tue, 17 Nov 2026 12:36:31 -0500",
-      "description": "L'ancien PDG de Nvidia a dit qu'il serait « honoré » de revenir si le conseil le permettait. Mais le conseil dit qu'il n'a aucune intention de le réinsérer.",
-      "source": "NPR",
-      "category": "Économie"
     },
     {
       "title": "Hera surveillant les astéroïdes avec une vision surhumaine",
@@ -1221,9 +1261,137 @@
     {
       "title": "EN DIRECT - Sommet de Shenzhen : il faut «tout mettre en œuvre pour empêcher une guerre nucléaire», déclare Xi à Trump et Poutine",
       "link": "https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119",
-      "date": "Thu, 19 Nov 2026 10:52:02 +0100",
-      "description": "La photo s’annonce historique, mais les résultats restent incertains. Xi Jinping, Donald Trump et Vladimir Poutine se réunissent jeudi pour un sommet inédit dans le sud de la Chine, dans un contexte de crises multiples.",
+      "date": "Thu, 19 Nov 2026 11:50:02 +0100",
+      "description": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis ce jeudi en Chine pour un sommet inédit qui fait craindre, dans une période de crises multiples, des arrangements entre grandes puissances aux dépens d’autres acteurs internationaux comme l’Ukraine.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "\"Un reniement existentiel\" : les écologistes divisés, les socialistes navrés après la main tendue de Marine Tondelier à LFI pour la présidentielle 2027",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/un-reniement-existentiel-les-ecologistes-divises-les-socialistes-navres-apres-la-main-tendue-de-marine-tondelier-a-lfi-pour-la-presidentielle-2027_8289569.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 11:33:07 +0100",
+      "description": "La secrétaire nationale et candidate des Ecologistes se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\".",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "La Haute autorité de santé présente 60 recommandations officielles pour encadrer la pratique de l'aide à mourir",
+      "link": "https://www.franceinfo.fr/societe/euthanasie/la-haute-autorite-de-sante-presente-60-recommandations-officielles-pour-encadrer-la-pratique-de-l-aide-a-mourir_8289761.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 11:29:15 +0100",
+      "description": "Elle préconise l'usage d'un nombre limité de produits à usage létal disponible dans \"des kits prêts à l'emploi\".",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Rencontre entre Trump, Poutine et Xi : le sommet inédit entre les trois dirigeants a pris fin en Chine après une heure de discussion",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 11:18:31 +0100",
+      "description": "Les chefs d'Etat américain, russe et chinois se sont réunis pour un sommet tripartite pour \"préserver la paix mondiale\".",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Gianni Infantino, Philippe Diallo, Kozo Tashima… Qui sont les candidats déclarés pour prendre la tête de la Fifa ?",
+      "link": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/philippe-diallo-ramon-vega-kozo-tashima-qui-sont-les-candidats-qui-defient-gianni-infantino-pour-prendre-la-tete-de-la-fifa_8286605.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 11:10:49 +0100",
+      "description": "Le tout puissant patron de l'instance du foot mondial, très contesté, va notamment devoir affronter le Français Philippe Diallo, actuel président de la Fédération française de football. Le scrutin est prévu le 18 mars.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "L’emploi accompagné, un outil d’insertion pour les travailleurs handicapés, qui « permet d’anticiper les difficultés »",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/19/l-emploi-accompagne-un-outil-d-insertion-pour-les-travailleurs-handicapes-qui-permet-d-anticiper-les-difficultes_6813268_3224.html",
+      "date": "Thu, 19 Nov 2026 11:00:07 +0100",
+      "description": "Léa, Valérie ou Jessee sont soutenus par un « job coach », pour trouver ou conserver un emploi classique qui prendra en compte leurs besoins spécifiques liés à leur handicap.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Pensez-vous que le sommet de Shenzhen, Xi Jinping, Donald Trump et Vladimir Poutine, est une bonne chose pour la stabilité du monde ?",
+      "link": "https://www.lefigaro.fr/international/pensez-vous-que-le-sommet-de-shenzhen-xi-jinping-donald-trump-et-vladimir-poutine-est-une-bonne-chose-pour-la-stabilite-du-monde-20261119",
+      "date": "Thu, 19 Nov 2026 10:59:21 +0100",
+      "description": "",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Etats-Unis, Chine et Russie dans une situation unique de réduire les arsenaux nucléaires, affirme Donald Tump",
+      "link": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-etats-unis-chine-et-russie-dans-une-position-unique-pour-reduire-les-arsenaux-nucleaires-affirme-donald-tump_6810982_3210.html",
+      "date": "Thu, 19 Nov 2026 10:54:07 +0100",
+      "description": "Les présidents chinois, américain et russe sont réunis jeudi à Shenzhen, en Chine, pour un sommet inédit, qui fait craindre des arrangements aux dépens d’autres acteurs internationaux, comme l’Ukraine et l’Europe.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Anthropic recueille 81 milliards de dollars en début de marché boursier record",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 19 Nov 2026 10:48:04 GMT",
+      "description": "L'entreprise derrière le chatbot Claude deviendra l'une des entreprises les plus précieuses au monde.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Le monde de la musique vent debout contre le projet de loi de finances 2027 au Sénat : «La filière ne s’est jamais aussi bien portée, et autant appauvrie»",
+      "link": "https://www.liberation.fr/culture/musique/le-monde-de-la-musique-vent-debout-contre-le-projet-de-loi-de-finances-2027-au-senat-la-filiere-ne-sest-jamais-aussi-bien-portee-et-autant-appauvrie-20261119_H42YIFVHGVDRZLYF6YQERWVPYU/",
+      "date": "Thu, 19 Nov 2026 10:44:54 +0000",
+      "description": "Le secteur, qui doit faire face à l’augmentation des coûts artistiques, des assurances ou des frais techniques tout en subissant la baisse des aides, demande aux sénateurs d’amender la copie du gouvernement, en actant le déplafonnement des taxes affectées au Centre national de la musique.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "JO d’hiver 2030 : à Briançon, une réunion publique tourne au fiasco",
+      "link": "https://www.liberation.fr/sports/jeux-olympiques/jo-dhiver-2030-a-briancon-une-reunion-publique-tourne-au-fiasco-20261119_Z72XK7G2HRDW7DRJHVZOVX2QMU/",
+      "date": "Thu, 19 Nov 2026 10:43:09 +0000",
+      "description": "Comité d’alerte, citoyens excédés, intrusion bloquée par des vigiles : la cinquième édition des réunions publiques organisées par le Cojop s’est déroulée dans une ambiance électrique.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "La CIJ juge que la Birmanie avait l’intention de détruire la population rohingya",
+      "link": "https://www.liberation.fr/international/asie-pacifique/la-cij-juge-que-la-birmanie-avait-lintention-de-detruire-la-population-rohingya-20261119_IKE5JJSBERHPVKPN3DVBODRX5U/",
+      "date": "Thu, 19 Nov 2026 10:42:43 +0000",
+      "description": "La Cour internationale de justice se prononce ce jeudi sur les crimes de masse commis en Birmanie à l’encontre de la minorité musulmane en 2017. Une éventuelle qualification de génocide pourrait avoir des répercussions pour la Russie en Ukraine et Israël à Gaza.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Le Danemark ratifie Trump accord de sécurité sur le Groenland après des mois de tensions diplomatiques",
+      "link": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
+      "date": "Thu, 19 Nov 2026 10:41:32 GMT",
+      "description": "Il suit des mois de tensions après que le président Donald Trump a déclaré à plusieurs reprises que les États-Unis devraient prendre le contrôle du Groenland pour des raisons de sécurité nationale.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "MBDA et la startup allemande Atmos s'associent pour étudier les armes de frappe spatiales",
+      "link": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
+      "date": "Thu, 19 Nov 2026 10:36:23 +0000",
+      "description": "Le fabricant paneuropéen de missiles MBDA et la start-up allemande Atmos Space Cargo s'associent pour étudier le déploiement d'armes de frappe profonde sur orbite terrestre à l'aide de véhicules de rentrée.",
+      "source": "Defense News",
+      "category": "Défense"
+    },
+    {
+      "title": "«La biodiversité est notre avenir !» A Rouen, un festival pour comprendre le vivant",
+      "link": "https://www.liberation.fr/forums/la-biodiversite-est-notre-avenir-a-rouen-un-festival-pour-comprendre-le-vivant-20261111_US37HHUWTNHJJGXJTXRUY7YCJQ/",
+      "date": "Thu, 19 Nov 2026 10:35:14 +0000",
+      "description": "Pour le biologiste Marc-André Selosse, organisateur du festival «Naturellement !» à Rouen du 20 au 22 novembre, la crise de la biodiversité est surtout une crise de l’humain car nous sommes liés au monde par l’alimentation ou par le microbiote qui nous habite.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Le ministère de la Justice accuse un ressortissant russe d'espionner et de harceler des employés de Palantir",
+      "link": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/",
+      "date": "Thu, 19 Nov 2026 10:33:59 +0000",
+      "description": "Le ministère de la Justice dit que le ressortissant russe a été ordonné d'espionner Palantir sur l'utilisation de son logiciel par l'Ukraine à des fins de guerre.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "EN DIRECT – Sommet à Shenzhen : Xi Jinping veut tout faire pour «éviter une guerre nucléaire»",
+      "link": "https://www.liberation.fr/international/asie-pacifique/en-direct-trump-poutine-et-xi-suivez-la-rencontre-au-sommet-a-shenzhen-20261119_NCAHEZDLBNFVXBZWTWEWFRCJTQ/",
+      "date": "Thu, 19 Nov 2026 10:31:10 +0000",
+      "description": "Le président chinois accueille dans le sud de la Chine ce jeudi 19 novembre ses homologues russe et américain pour un sommet tripartite. Donald Trump a mené des discussions bilatérales avec Vladimir Poutine en amont de la rencontre.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -1235,19 +1403,27 @@
       "category": "France"
     },
     {
-      "title": "Jérôme Fourquet : «La présidentielle 2027 se jouera-t-elle sur le prix du m², le bio, les HLM ou… l’altitude ?»",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/jerome-fourquet-la-presidentielle-2027-se-jouera-t-elle-sur-le-prix-du-m2-le-bio-les-hlm-ou-l-altitude-20261119",
-      "date": "Thu, 19 Nov 2026 10:28:18 +0100",
-      "description": "Les sondeurs s’attellent à établir des panels toujours plus étoffés, des portraits-robots quasi mathématiques. Mais la présidentielle pourrait se jouer sur d’autres terrains plus insolites, comme celui du relief. Pour Le Figaro TV, Jérôme Fourquet dresse un nouveau tableau politique de la France.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "10 Meilleurs Gadgets et Theraguns Therabody à offrir cette année (2026)",
+      "link": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "date": "Thu, 19 Nov 2026 10:30:00 +0000",
+      "description": "Des pistolets de massage aux bottes de compression et les masques de visage LED, ces cadeaux Therabody sont parfaits pour quiconque mérite un peu de repos et de détente.",
+      "source": "WIRED",
+      "category": "Technologie"
     },
     {
-      "title": "Rencontre entre Trump, Poutine et Xi : \"Ensemble nous écrivons l'histoire\", déclare le président américain, qui annonce une discussion sur la guerre en Ukraine",
-      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 10:22:58 +0100",
-      "description": "Les chefs d'Etat américain, russe et chinois se réunissent pour un sommet tripartite pour \"préserver la paix mondiale\".",
-      "source": "franceinfo",
+      "title": "« Les 90 minutes les plus poilues de ma carrière » : comment la FAA s'est arrêtée",
+      "link": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+      "date": "Thu, 19 Nov 2026 10:30:00 +0000",
+      "description": "L'instabilité du système complexe de communications aériennes aux États-Unis a conduit à quelques heures chaotiques pour les contrôleurs de la circulation aérienne et les pilotes. Près d'une semaine plus tard, les fonctionnaires ne savent toujours pas ce qui s'est passé.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "«Il y a un vrai traumatisme» : un mois après les violences du 17 octobre, les commerçants parisiens tentent de se reconstruire",
+      "link": "https://www.lefigaro.fr/conso/il-y-a-un-vrai-traumatisme-un-mois-apres-les-violences-du-17-octobre-les-commercants-parisiens-tentent-de-se-reconstruire-20261119",
+      "date": "Thu, 19 Nov 2026 10:24:33 +0100",
+      "description": "REPORTAGE - Un mois après les pillages et émeutes en marge d’une mobilisation contre la vie chère, les commerçants touchés veulent passer à autre chose. Mais la plupart attendent encore d’être indemnisés par leur assurance et aidés par l’État.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1259,27 +1435,115 @@
       "category": "France"
     },
     {
-      "title": "Les deux départements corses placés en vigilance orange \"vent\", les Landes, la Seine-Maritime, la Somme et le Pas-de-Calais en alerte orange \"pluie-inondation\"",
-      "link": "https://www.franceinfo.fr/environnement/meteo/les-landes-et-la-seine-maritime-rejoignent-le-pas-de-calais-et-la-somme-places-en-vigilance-orange-pour-pluie-inondation-pour-la-journee-de-jeudi_8289359.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 10:15:25 +0100",
-      "description": "Météo-France prévoit de fortes précipitations dans le quart nord-ouest du pays notamment dans la nuit de jeudi à vendredi. La Haute-Corse et le Pas-de-Calais sont pour leur part placés en alerte orange pour un risque de crues.",
+      "title": "Les petits découverts bancaires bientôt soumis à de nouvelles règles plus contraignantes",
+      "link": "https://www.liberation.fr/economie/les-petits-decouverts-bancaires-bientot-soumis-a-de-nouvelles-regles-plus-contraignantes-20261016_WP6QCWUPBZDMVHCOU2DXNWD3TQ/",
+      "date": "Thu, 19 Nov 2026 10:13:58 +0000",
+      "description": "La Fédération bancaire française a précisé jeudi le nouveau contour des découverts bancaires à compter du 20 novembre. Ceux de moins de 200 euros ne seront plus automatiques, et seront soumis à une étude préalable par les banques avant leur autorisation.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "À Shenzen, Trump estime «écrire l'histoire» aux côtés de Poutine et Xi lors d'une rencontre tripartite",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261119-shenzen-trump-estime-%C3%A9crire-l-histoire-c%C3%B4t%C3%A9s-poutine-xi-rencontre-tripartite",
+      "date": "Thu, 19 Nov 2026 10:09:09 GMT",
+      "description": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis jeudi en Chine pour un sommet inédit qui fait craindre, dans une période de crises multiples, des arrangements entre grandes puissances aux dépens d'autres acteurs internationaux comme l'Ukraine.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "« Déplacement par conception : Trump's Le plan de paix de Gaza est un échec, disent les groupes d'aide",
+      "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 10:05:33 +0000",
+      "description": "Avec deux millions de Palestiniens confinés dans une zone de moins de 130 km2, le plan de paix de Gaza soutenu par l'ONU s'est effondré.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "\"C'est grandiose, on se sent pris dans le jeu !\" : les premières impressions d'une fan qui découvre \"GTA VI\"",
+      "link": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/temoignage-c-est-grandiose-on-se-sent-pris-dans-le-jeu-les-premieres-impressions-d-une-fan-qui-decouvre-gta-vi_8289533.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 10:05:16 +0100",
+      "description": "À minuit, dans la nuit de mercredi à jeudi, Constance, 24 ans, découvre enfin GTA VI, le jeu vidéo le plus attendu de l'année. Entre excitation, premières missions et courses-poursuites, elle partage avec franceinfo ses premières minutes de jeu.",
       "source": "franceinfo",
       "category": "France"
     },
     {
-      "title": "« J’ai jugé que je ne pouvais plus rester anonyme » : la jeune femme qui a porté plainte contre l’architecte Matthieu Poitevin pour violences sexistes et sexuelles témoigne",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/19/j-ai-juge-que-je-ne-pouvais-plus-rester-anonyme-la-jeune-femme-qui-a-porte-plainte-contre-l-architecte-matthieu-poitevin-pour-violences-sexistes-et-sexuelles-temoigne_6813259_3224.html",
-      "date": "Thu, 19 Nov 2026 10:00:17 +0100",
-      "description": "Passée par l’Ecole nationale d’architecture de Marseille où enseignait l’architecte, Cécile Michaux témoigne auprès du « Monde » des agissements de cette figure du milieu, organisateur du festival Possibles !. Celui-ci conteste « catégoriquement l’ensemble de ces allégations ».",
-      "source": "Le Monde",
+      "title": "Les rendements des obligations augmentent partout, sauf en Chine.",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+      "date": "Thu, 19 Nov 2026 10:04:37 +0000",
+      "description": "La banque centrale chinoise a réduit les taux d'intérêt malgré elle-même",
+      "source": "The Economist",
+      "category": "Économie"
+    },
+    {
+      "title": "14 Meilleurs cadeaux pour les voyageurs qui ont tout (2026)",
+      "link": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "date": "Thu, 19 Nov 2026 10:04:00 +0000",
+      "description": "Voyagez plus intelligemment avec des cadeaux emballés par les staffers WIRED.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Trump appelle à la réduction des armes nucléaires au sommet de l'APEC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 10:03:27 +0000",
+      "description": "Trump appelle à la réduction des armes nucléaires au sommet de l'APEC",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Pont de Crimée: la double défaite de Vladimir Poutine",
+      "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261119-ukraine-pont-crim%C3%A9e-kertch-double-d%C3%A9faite-poutine",
+      "date": "Thu, 19 Nov 2026 10:03:25 GMT",
+      "description": "Entretien bilatéral avec Donald Trump, puis « sommet des trois » avec Xi Jinping : les rencontres de Shenzhen en marge de l’Apec devaient marquer le grand retour de Vladimir Poutine dans le club des grandes puissances. Mais une opération militaire spectaculaire de l’Ukraine est venue gâcher la fête : la destruction d’une partie du pont de Crimée marque une double défaite, symbolique et stratégique, pour le président russe.",
+      "source": "RFI",
       "category": "France"
     },
     {
-      "title": "Mises à jour en direct : Trump tient son premier sommet avec Xi et Poutine, qu'il appelle « Ami »",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "date": "Thu, 19 Nov 2026 09:55:00 +0000",
-      "description": "Le président Trump a déclaré qu'il allait évoquer la guerre en Ukraine lors de la toute première rencontre des dirigeants de la Russie, de la Chine et des États-Unis.",
+      "title": "L'Europe renforce les sanctions contre la Russie. L'Amérique les relâche",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+      "date": "Thu, 19 Nov 2026 10:03:23 +0000",
+      "description": "Les régimes de sanctions de l'Ouest s'éloignent des autres",
+      "source": "The Economist",
+      "category": "Économie"
+    },
+    {
+      "title": "Colombie Le Président est en train d'obtenir une réputation pour avoir courtisé la controverse",
+      "link": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+      "date": "Thu, 19 Nov 2026 10:03:10 +0000",
+      "description": "Colombie Le nouveau leader, Abelardo De La Espriella, se présente comme un guerrier contre les groupes criminels et la culture réveillée, et les tribunaux controverse à chaque tour.",
       "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "L'IA avale les maths. L'économie est-elle la prochaine ?",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+      "date": "Thu, 19 Nov 2026 10:01:25 +0000",
+      "description": "L'appareil lugubre de la science pour la perturbation",
+      "source": "The Economist",
+      "category": "Économie"
+    },
+    {
+      "title": "C'est l'invasion des maisons de soins infirmiers. Les risques peuvent être mortels",
+      "link": "https://www.wired.com/story/shiftkey-gig-nursing/",
+      "date": "Thu, 19 Nov 2026 10:00:00 +0000",
+      "description": "Des rapports d'inspection détaillant les établissements de soins aux aînés montrent que peu ou pas de travailleur à bord peut conduire à des erreurs dangereuses et des infirmières débordées, une enquête WIRED et Proof News a trouvé.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Novartis fait passer les prévisions de médicaments à 18 milliards de dollars, car il cherche à prouver que la croissance peut durer",
+      "link": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html",
+      "date": "Thu, 19 Nov 2026 09:57:53 GMT",
+      "description": "Le fabricant de médicaments a cité une forte demande pour ses médicaments blockbuster car il a amélioré les prévisions de ventes de pointe pour la sclérose en plaques, la leucémie et les médicaments contre le cholestérol.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le champion malaisien d'haltérophilie Roslin perd le bras après un accident de moto",
+      "link": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 09:56:07 +0000",
+      "description": "Muhammad Hafizuddin Roslin, qui a remporté une médaille d'or aux Jeux du Commonwealth de 2026, a eu son bras amputé après accident.",
+      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -1291,20 +1555,12 @@
       "category": "France"
     },
     {
-      "title": "Présidentielle 2027 : le camp Glucksmann fustige Tondelier après sa main tendue à Mélenchon",
-      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-camp-glucksmann-fustige-tondelier-apres-sa-main-tendue-a-melenchon-20261119_QXGD6TJSA5AULJOBZZRXL4QIBA/",
-      "date": "Thu, 19 Nov 2026 09:51:36 +0000",
-      "description": "Les partisans du social-démocrate estiment ce jeudi 19 novembre qu’en se déclarant prête à «une coalition» avec les insoumis, dans une dynamique favorable pour la présidentielle, la candidate des Ecologistes à la présidentielle «tourne le dos» à la tradition de son parti.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Pour Olivier Faure, les policiers qui manifestent «sont censés faire respecter l’ordre mais ne le respectent pas»",
-      "link": "https://www.liberation.fr/politique/pour-olivier-faure-les-policiers-qui-manifestent-sont-censes-faire-respecter-lordre-mais-ne-le-respectent-pas-20261119_2HRO7Z5XRVH65HSRSBJOJQEZ5M/",
-      "date": "Thu, 19 Nov 2026 09:51:05 +0000",
-      "description": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "source": "Libération",
-      "category": "France"
+      "title": "ADSB délocaliser le chantier naval en regardant l'expansion de la construction navale",
+      "link": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+      "date": "Thu, 19 Nov 2026 09:51:57 +0000",
+      "description": "Aujourd'hui, Abu Dhabi Ship Building (ADSB) a trois grands contrats de construction navale de trois pays différents. Ces projets maintiennent la main-d'oeuvre presque entièrement occupée, mais, compte tenu de l'expansion future, ADSB planifie déjà un nouveau chantier naval qui permettra la construction de navires de plus en plus grands. La fonction essentielle de l'ADSB est la construction navale, qui ... Le post ADSB pour déplacer chantier naval comme il voit expansion de la construction navale apparut",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Même les \"bons gars\" de l'IA se verrouillent dans les combustibles fossiles",
@@ -1315,30 +1571,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Attentat de Trappes : Samba Coulibaly, victime de l’attaque, est sorti du coma après plusieurs semaines",
-      "link": "https://www.liberation.fr/societe/attentat-de-trappes-samba-coulibaly-victime-de-lattaque-est-sorti-du-coma-apres-plusieurs-semaines-20261119_GKOAYY7WTBH3JNXVZ3BK3XXBNE/",
-      "date": "Thu, 19 Nov 2026 09:41:46 +0000",
-      "description": "Me Battikh, avocat de l’homme de 36 ans criblé par les balles le 23 octobre dans les Yvelines, a donné des nouvelles rassurantes dans une vidéo à «Brut».",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "EN DIRECT – Sommet à Shenzhen : la réunion entre Trump, Xi et Poutine vient de débuter",
-      "link": "https://www.liberation.fr/international/asie-pacifique/en-direct-trump-poutine-et-xi-suivez-la-rencontre-au-sommet-a-shenzhen-20261119_NCAHEZDLBNFVXBZWTWEWFRCJTQ/",
-      "date": "Thu, 19 Nov 2026 09:41:20 +0000",
-      "description": "Le président américain a mené ce jeudi 19 novembre dans le sud de la Chine des discussions bilatérales avec son homologue russe avant un sommet tripartite inédit avec leur hôte chinois.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Accusée d’avoir cautionné des écrits antisémites, la députée RN Laure Lavalette ne veut pas se justifier «de ce qu’il s’est passé il y a trente ans dans un climat différent»",
-      "link": "https://www.liberation.fr/politique/accusee-davoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-ne-veut-pas-se-justifier-de-ce-quil-sest-passe-il-y-a-trente-ans-dans-un-climat-different-20261119_EXQSCHFTAVGMJKIJLDDOHURAWY/",
-      "date": "Thu, 19 Nov 2026 09:41:09 +0000",
-      "description": "Le média «les Jours» a dévoilé une revue ouvertement antisémite que l’élue a signée, alors qu’elle faisait partie d’un syndicat étudiant affilié au FN.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Les sous-marins nucléaires japonais sont une mauvaise idée pour la sécurité de la mer de Chine orientale.",
       "link": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now/",
       "date": "Thu, 19 Nov 2026 09:36:51 +0000",
@@ -1347,20 +1579,12 @@
       "category": "Défense"
     },
     {
-      "title": "Trump dit que les États-Unis, la Chine, la Russie «se positionnent exceptionnellement pour discuter de la réduction des armes nucléaires lors d'une réunion historique",
-      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "date": "Thu, 19 Nov 2026 09:34:17 GMT",
-      "description": "Les dirigeants des États-Unis, de la Chine et de la Russie se sont réunis jeudi à Shenzhen pour une rare rencontre trilatérale.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "«Quand on ment aux gens, ils deviennent dangereux», quel beau condensé de notre époque ! par Yannick Haenel",
-      "link": "https://www.liberation.fr/idees-et-debats/opinions/quand-on-ment-aux-gens-ils-deviennent-dangereux-quel-beau-condense-de-notre-epoque-par-yannick-haenel-20261119_CUGXNVCNJVGOFL7BNJJ4BTRK3Q/",
-      "date": "Thu, 19 Nov 2026 09:30:00 +0000",
-      "description": "Cette phrase d’une jeune détenue de Brest a marqué l’écrivain. Elle semble tout dire de la situation politique dans laquelle nous nous trouvons.",
-      "source": "Libération",
-      "category": "France"
+      "title": "La FIFA confirme les candidats à l'élection présidentielle contre Gianni Infantino",
+      "link": "https://news.sky.com/story/fifa-confirms-candidates-to-stand-against-gianni-infantino-in-presidential-election-13613862",
+      "date": "Thu, 19 Nov 2026 09:32:00 +0000",
+      "description": "La FIFA a confirmé les trois candidats proposés pour l'élection présidentielle de l'année prochaine.",
+      "source": "Sky News",
+      "category": "Monde"
     },
     {
       "title": "Alors que les maladies pulmonaires noires surgissent, l'administration Trump propose des «protections déréglementées» pour les mineurs",
@@ -1395,8 +1619,8 @@
       "category": "Monde"
     },
     {
-      "title": "L'Iran compte sur la Chine et la Russie à mesure que la pression américaine augmente, mais les deux puissances poursuivent des intérêts plus larges",
-      "link": "https://www.dw.com/en/iran-relies-on-china-and-russia-as-us-pressure-grows-but-both-powers-are-pursuing-broader-interests/a-79979920?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "L'Iran équilibre ses liens avec la Chine et la Russie alors que Trump augmente la pression",
+      "link": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Thu, 19 Nov 2026 09:07:00 GMT",
       "description": "Alors que Donald Trump cherche à renforcer la pression économique sur l'Iran, la Chine reste son plus grand client pétrolier et la Russie un partenaire clé. Mais les deux puissances concilient leur soutien à Téhéran avec des intérêts plus larges avec Washington.",
       "source": "Deutsche Welle",
@@ -1417,22 +1641,6 @@
       "description": "Certains médias locaux rapportent qu'au moins quatre corps ont été retrouvés.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "EN DIRECT - Présidentielle 2027 : en choisissant Mélenchon, Tondelier «tourne le dos» à la «tradition pro-européenne des écologistes», estime Glucksmann",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-c-est-une-bonne-nouvelle-faisons-le-repond-lfi-a-marine-tondelier-prete-a-une-coalition-autour-de-melenchon-20261119",
-      "date": "Thu, 19 Nov 2026 09:02:13 +0100",
-      "description": "La candidate des Écologistes à la présidentielle Marine Tondelier, mal placée dans les sondages, a ouvert la porte mercredi à un soutien de la candidature de l’Insoumis.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Présidentielle 2027 : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
-      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 09:02:08 +0100",
-      "description": "La secrétaire nationale des Ecologistes envisage une coalition avec Jean-Luc Mélenchon, ce qui l'amènerait à renoncer à sa candidature à l'élection présidentielle.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Trump loue « une grande relation » avec Poutine après sa rencontre, alors que la guerre en Ukraine prend une place centrale",
@@ -1467,20 +1675,20 @@
       "category": "France"
     },
     {
-      "title": "\"'GTA', c'est un catalyseur de tout ce qui se fait de mieux dans la pop culture\", salue le seul journaliste français à s'être rendu dans les studios du jeu",
-      "link": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/gta-c-est-un-catalyseur-de-tout-ce-qui-se-fait-de-mieux-dans-la-pop-culture-salue-le-seul-journaliste-francais-a-s-etre-rendu-dans-les-studios-du-jeu_8289566.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 08:46:26 +0100",
-      "description": "GTA IV, le jeu sorti dans la nuit de mercredi à jeudi, est un \"récit\", \"une narration qui nous porte\" estime Etienne Rouillon. \"C'est le meilleur film et c'est peut-être aussi le meilleur album\", poursuit-il.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Elon Musk accuse l'Ukraine d'être \"invraisemblable\" à propos des perturbations du bouclier",
       "link": "https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/",
       "date": "Thu, 19 Nov 2026 08:36:56 +0000",
       "description": "Elon Musk a accusé le président ukrainien Volodymyr Zelenskyy d'être «invraisemblable» au sujet des perturbations du bouclier.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "\"Tous les autres pays européens\" ont-ils repoussé l'âge de départ à la retraite à 66 ou 67 ans, comme l'affirme le patron du Medef ?",
+      "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-tous-les-autres-pays-europeens-ont-ils-repousse-l-age-de-depart-a-la-retraite-a-66-ou-67-ans-comme-l-affirme-patrick-martin_8268653.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 08:32:28 +0100",
+      "description": "Selon le président du Medef, la France devrait passer à un âge légal à 65 ans, pour s'aligner sur ses voisins européens qui sont tous passés à 66 ou 67 ans. En réalité, c'est une exagération.",
+      "source": "franceinfo",
+      "category": "France"
     },
     {
       "title": "Trump rencontre Poutine et Xi comme des États-Unis trilatéraux, la Russie, la Chine",
@@ -1499,43 +1707,11 @@
       "category": "Monde"
     },
     {
-      "title": "Trump aide-t-il à réhabiliter Poutine sur la scène mondiale ?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 08:31:14 +0000",
-      "description": "Trump aide-t-il à réhabiliter Poutine sur la scène mondiale ?",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "La coalition saoudienne intercepte des missiles Houthi visant Riyad et le sud",
-      "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 08:19:17 +0000",
-      "description": "Des dégâts matériels ont été signalés après la chute de débris à la suite des dernières frappes Houthi lancées vers l'Arabie saoudite.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Anthropic, créateur de l'IA Claude, entre en bourse avec une valorisation astronomique, un test pour le secteur",
-      "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/veritable-test-pour-le-secteur-de-l-ia-anthropic-createur-de-l-ia-claude-entre-en-bourse-avec-une-valorisation-astronomique_8268659.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 08:05:02 +0100",
-      "description": "Créateur de l'intelligence artificielle Claude, Anthropic fait son entrée à Wall Street avec une valorisation de 1 500 milliards de dollars. Une opération hors norme qui suscite l'enthousiasme des investisseurs, malgré les inquiétudes autour d'une possible bulle de l'IA.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "EN DIRECT, sortie de « GTA VI » : « le jeu le plus beau que j’ai jamais vu »",
+      "title": "EN DIRECT, sortie de « GTA VI » : un jeu magnifique… mais moins fluide que d’autres",
       "link": "https://www.lemonde.fr/pixels/live/2026/11/19/en-direct-sortie-de-gta-vi-les-premieres-impressions-et-reactions_6813247_4408996.html",
       "date": "Thu, 19 Nov 2026 08:00:05 +0100",
       "description": "« Grand Theft Auto VI », le dernier titre du studio Rockstar Games, est accessible sur PlayStation 5 et Xbox Series. Suivez toute la journée les premières impressions des joueurs et du service « Pixels » du « Monde ».",
       "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Des membres du personnel de l'Education nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ?",
-      "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-des-membres-du-personnel-de-l-education-nationale-sont-ils-complices-des-violences-commises-en-marge-des-mobilisations-lyceennes-comme-l-affirme-le-gouvernement_8286719.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 07:56:06 +0100",
-      "description": "Cette accusation a été portée par le Premier ministre, Sébastien Lecornu, ainsi que par les ministres de l'Intérieur, Laurent Nuñez, et de l'Education, Edouard Geffray. Or, les quelques cas signalés par les autorités judiciaires n'ont aucun lien avec la fourniture de mortiers d'artifice à des élèves et concernent des enseignants qui ne sont plus en exercice ou ont agi hors du cadre du lycée.",
-      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -1547,27 +1723,11 @@
       "category": "France"
     },
     {
-      "title": "Pourquoi Pete Hegseth renforce-t-il les liens militaires américains avec le Venezuela ?",
-      "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 07:52:30 +0000",
-      "description": "Le nouvel accord militaire de Hegseth avec le Venezuela soulève des questions sur l'influence américaine, la sécurité régionale et le retrait de Maduro.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Trump, Poutine et Xi commencent une réunion trilatérale historique",
+      "title": "Trump, Poutine et Xi étape réunion trilatérale historique",
       "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
       "date": "Thu, 19 Nov 2026 07:43:13 GMT",
-      "description": "Sommet avec trois dirigeants commence dans le sud de la ville chinoise de Shenzhen pendant la semaine de la diplomatie de haut niveau",
+      "description": "Sommet avec trois dirigeants dans le sud de la ville chinoise de Shenzhen pendant la semaine de la diplomatie de haut niveau",
       "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Takaichi reçoit une réception fraîche en Chine lors de sa première visite leader au Japon depuis 2019",
-      "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-      "date": "Thu, 19 Nov 2026 07:38:29 GMT",
-      "description": "Takaichi a reçu un accueil discret lors de son voyage pour assister au sommet de l'APEC, car Pékin montre un appétit limité pour la réparation des liens tendus par le différend de Taiwan.",
-      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -1601,14 +1761,6 @@
       "description": "Actions en AI géant va commencer à négocier jeudi après que la société vend des actions à 1,5 tn d'évaluation dans blockbuster listing",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : le sommet inédit entre Xi Jinping, Donald Trump et Vladimir Poutine a débuté",
-      "link": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-peu-avant-leur-rencontre-tripartite-en-chine-donald-trump-s-entretient-separement-avec-vladimir-poutine-et-xi-jinping_6810982_3210.html",
-      "date": "Thu, 19 Nov 2026 06:52:41 +0100",
-      "description": "Les présidents chinois, américain et russe sont réunis, jeudi, en Chine pour un sommet inédit, qui fait craindre des arrangements aux dépens d’autres acteurs internationaux, comme l’Ukraine et l’Europe.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Un village brûlé, son peuple tué ou exilé. C'était un génocide ?",
@@ -1651,52 +1803,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Codes et offres de rabais We-Vibe : jusqu'à 60% de rabais",
-      "link": "https://www.wired.com/story/we-vibe-discount-code/",
-      "date": "Thu, 19 Nov 2026 06:00:00 +0000",
-      "description": "Économisez sur We-Vibe, y compris les best-sellers contrôlés par l'application et les ensembles de cadeaux populaires conçus pour les couples, la connexion et le plaisir partagé.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Coupons TurboTax Full Service En novembre 2026",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "date": "Thu, 19 Nov 2026 06:00:00 +0000",
-      "description": "La saison fiscale ne doit pas être stressante. Score 10% de rabais sur le service complet expert sur les déclarations fiscales fédérales et plus exclusifs TurboTax codes d'escompte sur WIRED.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Code promo de l'entrepôt de sportifs: Économisez en novembre 2026",
-      "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "date": "Thu, 19 Nov 2026 06:00:00 +0000",
-      "description": "Que vous chassiez des armes à feu, des fournitures de camping ou du matériel de navigation, utilisez ces coupons d'entrepôt Sportsman pour maximiser vos économies en novembre 2026.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Codes promotionnels Lowe-S et affaires: jusqu'à 300 $ hors appareils",
-      "link": "https://www.wired.com/story/lowes-promo-code/",
-      "date": "Thu, 19 Nov 2026 06:00:00 +0000",
-      "description": "Trouvez les derniers codes promotionnels Lowe, y compris jusqu'à 300 $ de rabais sur certains appareils principaux et 5 $ de rabais sur 50 $ avec inscription, ici à WIRED.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Est-ce que la bulle d'IA éclate tout comme Anthropic devient public ?",
       "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Thu, 19 Nov 2026 05:58:00 GMT",
       "description": "La forte vente des stocks technologiques après les mi-parcours américains et le scandale de Nvidia a mis en doute l'IPO d'Anthropic. Pourtant, avec des centaines de milliards d'investissements encore en cours, certains pensent que le parti AI est toujours en pleine évolution.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Cisjordanie occupée: après le meurtre d’une Palestinienne à Jéricho, la tension monte face aux colons",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261119-cisjordanie-occup%C3%A9e-meurtre-palestinienne-%C3%A0-j%C3%A9richo-tension-monte-face-colons",
-      "date": "Thu, 19 Nov 2026 05:48:20 GMT",
-      "description": "En Cisjordanie occupée, la colonisation se poursuit, jour après jour. Il y a deux semaines, des colons israéliens se sont installés à Jéricho où ils disent avoir acheté des maisons palestiniennes. Les habitants du quartier parlent d’acquisition illégale. Cette nouvelle implantation laissait craindre des affrontements, des violences et effectivement une femme palestinienne d’une soixantaine d’année est morte cette semaine abattue d’une balle dans la tête.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Introduction en Bourse d’Anthropic : comment la start-up et son modèle Claude ont détrôné OpenAI",
@@ -1729,6 +1841,14 @@
       "description": "À l'approche d'une élection, une catastrophe ferroviaire en Espagne a déclenché un débat sur la question de savoir si l'entretien de ses infrastructures a suivi le rythme de la croissance démographique.",
       "source": "The New York Times",
       "category": "Monde"
+    },
+    {
+      "title": "Walmart doit déclarer les gains avant la cloche. Voici à quoi s'attendre",
+      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "date": "Thu, 19 Nov 2026 05:01:01 GMT",
+      "description": "On s'attend à ce que Walmart offre de la couleur sur les dépenses des consommateurs avant la saison des fêtes, car les clients se penchent sur la valeur et la commodité.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "La rougeole et les mi-parcours pourraient-ils faire tomber Maha ? – podcast",
@@ -1771,6 +1891,14 @@
       "category": "Économie"
     },
     {
+      "title": "Le géant de l'IA Anthropic recueille plus de 100 milliards de dollars en IP",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "date": "Thu, 19 Nov 2026 05:00:00 -0500",
+      "description": "Les actions dans le fabricant du populaire modèle d'intelligence artificielle Claude commenceront à négocier sur le Nasdaq jeudi.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "El Niño Rains Peignez l'Atacama",
       "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
       "date": "Thu, 19 Nov 2026 05:00:00 +0000",
@@ -1782,17 +1910,9 @@
       "title": "Nouvelles du matin",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
       "date": "Thu, 19 Nov 2026 04:46:29 -0500",
-      "description": "House Democrats nomme Hakeem Jeffries comme prochain président de la Chambre, le président Trump a rencontré le Chinois Xi et le Russe Poutine, le géant de l'IA Anthropic recueille plus de 100 milliards de dollars en IP record.",
+      "description": "Le président Trump rencontre le Chinois Xi et le Russe Poutine, les démocrates de la Chambre nomment Hakeem Jeffries comme prochain président de la Chambre, le géant de l'IA Anthropic recueille plus de 100 milliards de dollars en IP record.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Sommet de l'Apec: pourquoi la rencontre Trump-Xi-Poutine interroge à Washington",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261119-sommet-apec-pourquoi-rencontre-trump-xi-poutine-interroge-%C3%A0-washington",
-      "date": "Thu, 19 Nov 2026 04:43:26 GMT",
-      "description": "Donald Trump, Xi Jinping et Vladimir Poutine réunis ce jeudi 19 novembre 2026 à Shenzhen, en marge du sommet de la Coopération économique pour l'Asie-Pacifique (Apec). Cette rencontre trilatérale inédite entre les présidents américain, chinois et russe devrait être brève et ne déboucher sur aucun accord formel. Mais le menu est dense : guerre en Ukraine, crise énergétique au Proche-Orient, transfert de technologies sensibles.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "C'est un moment diplomatique remarquable pour le Xi chinois - mais il vient avec des pièges",
@@ -1831,14 +1951,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 19 Nov 2026 02:59:06 GMT",
       "description": "Le multimilliardaire a également déclaré qu'il n'était pas Maga, se détachant du mouvement politique lié à Trump.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "Anthropique évalué à 1,5 billion de dollars avant les débuts du géant de l'IA",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 02:20:15 GMT",
-      "description": "L'entreprise derrière le chatbot Claude deviendra l'une des entreprises les plus précieuses au monde.",
       "source": "BBC News",
       "category": "Technologie"
     },
@@ -1947,22 +2059,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Le retour de l'état de snatch-and-grab",
-      "link": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-      "date": "Thu, 12 Nov 2026 10:40:24 +0000",
-      "description": "Une nouvelle histoire de confiscation éclaire la guerre économique moderne",
-      "source": "The Economist",
-      "category": "Économie"
-    },
-    {
-      "title": "Où trouver le commerce anti-AI",
-      "link": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-      "date": "Thu, 12 Nov 2026 10:38:28 +0000",
-      "description": "Le pire des chipmakers, les meilleures actions indiennes",
-      "source": "The Economist",
-      "category": "Économie"
-    },
-    {
       "title": "Lancement du télescope spatial romain en mission pour explorer l'Univers",
       "link": "https://astronomynow.com/2026/08/30/roman-space-telescope-launches-on-mission-to-survey-the-universe/",
       "date": "Sun, 30 Aug 2026 12:16:25 +0000",
@@ -2051,14 +2147,6 @@
       "category": "Exploration"
     },
     {
-      "title": "L'Amérique ne produit pas de statistiques mondialisées. Qui ça ?",
-      "link": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
-      "date": "Mon, 16 Nov 2026 18:28:18 +0000",
-      "description": "Nous recherchons les données économiques les plus mauvaises et les meilleures du monde",
-      "source": "The Economist",
-      "category": "Économie"
-    },
-    {
       "title": "Un joueur de basket-ball américain arrêté avec 75 livres de marijuana à l'aéroport nigérian, disent les autorités",
       "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
       "date": "Mon, 16 Nov 2026 13:16:36 GMT",
@@ -2139,6 +2227,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Skinks in boots: Comment Hong Kong émerge comme centre clé en Australie",
+      "link": "https://news.mongabay.com/2026/11/skinks-in-boots-how-hong-kong-emerges-as-key-hub-in-australias-native-reptile-trafficking/",
+      "date": "19 Nov 2026 10:36:03 +0000",
+      "description": "CONGÉ — Deux jours après Noël l'an dernier, les autorités douanières de l'aéroport international de Hong Kong ont intercepté un envoi en provenance d'Australie et ont trouvé 13 lézards vivants liés et farcis à l'intérieur de chaussures d'hiver en peau de mouton, communément appelées bottes de ugg. Le fret aérien a été faussement déclaré pour contenir des collations, Hong Kong ...",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Journée mondiale de l'antéatre : le rétablissement et la restauration offrent de l'espoir pour les espèces énigmatiques",
       "link": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
       "date": "19 Nov 2026 06:52:26 +0000",
@@ -2175,14 +2271,6 @@
       "link": "https://news.mongabay.com/2026/11/indigenous-communities-in-panama-fear-a-second-dam-as-damage-from-first-goes-unrepaired/",
       "date": "18 Nov 2026 14:45:53 +0000",
       "description": "Près de deux décennies après le début de la construction du projet de barrage hydroélectrique CHAN-75, les communautés autochtones ngäbe de l'ouest du Panama continuent de subir de graves impacts environnementaux, culturels et spirituels, selon un nouveau rapport de l'organisation de défense des droits autochtones Cultural Survival. Il a constaté que les communautés souffrent encore du déplacement, de la pollution, de la perte d'espèces de poissons locaux, de la [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Cartes d'étude jaguars à travers les Amériques pour aider leurs populations à rebondir",
-      "link": "https://news.mongabay.com/2026/11/study-maps-jaguars-across-the-americas-to-help-their-populations-rebound/",
-      "date": "18 Nov 2026 13:14:25 +0000",
-      "description": "Lorsque les forêts sont sculptées dans des fermes, les chats de haut niveau de l'Amérique se trouvent piégés dans l'isolement.",
       "source": "Mongabay",
       "category": "Environnement"
     }
