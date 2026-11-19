@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T19:12:22.361975+00:00",
-  "count": 280,
+  "updated_at": "2026-11-19T20:16:46.955697+00:00",
+  "count": 287,
   "articles": [
     {
       "title": "Les sept fondateurs anthropiques qui sont sur le point de devenir multimilliardsaires",
@@ -8,14 +8,6 @@
       "date": "Wed, 18 Nov 2026 23:42:07 GMT",
       "description": "La société d'IA derrière Claude est sur le point de vendre ses actions sur le marché boursier américain - rendant ses fondateurs très riches.",
       "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le comité dirigé par Ted Cruz approuve la candidature de Trump FCC 15-0 comme vote de boycott des démocrates",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-      "date": "Wed, 18 Nov 2026 23:25:04 +0000",
-      "description": "Les démocrates tentent d'empêcher le quorum, disent Thumann qui a menti au sujet de ne pas travailler sur les questions médiatiques.",
-      "source": "Ars Technica",
       "category": "Technologie"
     },
     {
@@ -73,6 +65,14 @@
       "description": "L'IPO très attendu d'Anthropic devrait figurer parmi les 10 entreprises américaines les plus précieuses, mais l'avenir est incertain.",
       "source": "BBC News",
       "category": "Technologie"
+    },
+    {
+      "title": "La Corée du Sud lance la cinquième frégate FFX Batch-III, ROKS Pyeongtaek",
+      "link": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
+      "date": "Wed, 18 Nov 2026 21:24:48 +0000",
+      "description": "Hanwha Ocean a lancé la cinquième frégate FFX Batch-III de Corée du Sud, ROKS Pyeongtaek (FFG-833), avec des systèmes de guerre électronique et de cybersécurité améliorés. ROK Navy and Defense Acquisition Program Administration (DAPA) commun communiqué de presse traduit par Naval News La Marine République de Corée et l'Administration du Programme d'acquisition de la Défense (DAPA) ont organisé une cérémonie de lancement pour ROKS Pyeongtaek (FFG-833) à Hanwha ... L'après Corée du Sud lance",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Hegseth fait une visite surprise au Venezuela pour renforcer les liens militaires",
@@ -267,20 +267,20 @@
       "category": "Économie"
     },
     {
-      "title": "France : le comté du Fort des Rousses élu meilleur fromage du monde",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
-      "date": "Wed, 18 Nov 2026 16:42:17 GMT",
-      "description": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort des Rousses, petite commune près de la frontière suisse. Une consécration qui fait la fierté de toute la région.",
-      "source": "France 24",
-      "category": "France"
-    },
-    {
       "title": "Sénateurs critiquent Apple et Google pour laisser les adolescents accéder à des applications «nudify» malgré les contrôles parentaux",
       "link": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
       "date": "Wed, 18 Nov 2026 16:39:25 GMT",
       "description": "Exclusivité : trois sénateurs démocrates envoient des lettres aux PDG de technologie disant que les garanties contre les applications de nudification sont insuffisantes sur leurs plateformes Un trio de sénateurs américains dit qu'Apple et Google ne détectent pas ou ne suppriment pas efficacement les applications destinées à générer des images nues ou pornographiques non consensuelles. Les sénateurs disent également que Meta continue de profiter des publicités pour ces applications dites de nudification qui avouent que les femmes et les filles dans le monde entier. À",
       "source": "The Guardian",
       "category": "Technologie"
+    },
+    {
+      "title": "Le Congrès reprend le navire de guerre de la Marine américaine dans une nouvelle proposition de budget",
+      "link": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
+      "date": "Wed, 18 Nov 2026 15:42:53 +0000",
+      "description": "Les responsables du Sénat ont dévoilé leur budget sans réconciliation de 1,1 billion de dollars du Pentagone avec un certain nombre de révisions budgétaires, y compris un rejet quasi-total des Marines a valu 34 000 tonnes de missiles guidés de combat, ce qui a causé un revers majeur à l'une des initiatives de construction navale les plus ambitieuses de l'administration Trump. Les responsables du Sénat s'installent pour retirer près de 1,84 milliard de dollars ... Le poste Congrès réprimande le navire de combat de la marine américaine",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "L'indice AI Hype : l'IA est partout",
@@ -329,6 +329,14 @@
       "description": "Les législateurs du GOP se précipitent dans les projets de loi hautement prioritaires avant que les démocrates nouvellement élus ne soient assermentés dans les groupes du climat, craignant que les législateurs n'adoptent d'ici la fin de l'année un projet de loi qui conférerait aux sociétés de combustibles fossiles l'immunité contre les poursuites et la législation visant à les tenir responsables de la crise climatique. Après les élections de la vague bleue, les législateurs républicains se précipitent pour adopter des projets de loi hautement prioritaires avant que les démocrates nouvellement élus ne soient assermentés. Des centaines",
       "source": "The Guardian",
       "category": "Environnement"
+    },
+    {
+      "title": "Mistral dans une boîte: MBDA révoque le concept SPIMM contre les drones",
+      "link": "https://www.navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones/",
+      "date": "Wed, 18 Nov 2026 12:29:17 +0000",
+      "description": "MBDA et Terma s'associent à Euronaval 2026 pour relancer le système de défense antiaérienne Mistral 3 conteneurisé SPIMM contre les drones, les missiles de croisière et les USV. Le post Mistral in a Box: MBDA Revives SPIMM Concept Against Drones est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Le département de Stormont ne protège pas les oiseaux sauvages.",
@@ -555,14 +563,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Deutsche Bank a rejeté les avertissements concernant les transactions avec des clients à risque, déclare",
-      "link": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
-      "date": "Tue, 17 Nov 2026 13:35:39 GMT",
-      "description": "L'enquête internationale au moyen de trove de données internes divulguées montre que la banque allemande a négligé les préoccupations de conformité pour protéger les profits Deutsche Bank aurait rejeté les avertissements concernant ses relations avec des clients risqués, y compris des oligarques russes de premier plan, pour protéger les bénéfices, selon les conclusions d'une enquête sur un trove de documents bancaires divulgués. Une fuite de 15 m de fichiers internes est signalée pour montrer que la banque allemande troublée",
-      "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
       "title": "Prodex à 40 ans: faire progresser les sciences spatiales européennes",
       "link": "https://www.esa.int/articles/prodex-at-40-advancing-european-space-science",
       "date": "Tue, 17 Nov 2026 13:03:28 +0100",
@@ -627,12 +627,68 @@
       "category": "Exploration"
     },
     {
-      "title": "Le dernier blessé en urgence absolue de l'attentat de Trappes et de La Verrière est sorti du coma",
-      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-dernier-blesse-en-urgence-absolue-de-l-attentat-de-trappes-et-de-la-verriere-est-sorti-du-coma_8290475.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 20:07:33 +0100",
-      "description": "Samba Coulibaly avait reçu \"onze balles dans le corps\", raison pour laquelle \"son pronostic vital a été si longtemps engagé\". \"Il se rétablit tout doucement, tranquillement. Evidemment, il a besoin de temps pour reprendre ses forces\", a déclaré son avocat.",
+      "title": "\"Je n'ai pas convaincu les Français que j'étais en capacité d'apporter un réel changement\", déclare Gabriel Attal dans \"L'Heure de vérité\"",
+      "link": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 21:10:03 +0100",
+      "description": "Le candidat de Renaissance à la présidentielle est l'invité de l'émission politique de France 2.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Les Français Albano Olivetti et Théo Arribagé se qualifient pour les demi-finales du Masters ATP après leur victoire face à la meilleure paire mondiale",
+      "link": "https://www.franceinfo.fr/sports/tennis/masters/les-francais-albano-olivetti-et-theo-arribage-se-qualifient-pour-les-demi-finales-du-masters-atp-apres-leur-victoire-face-a-la-meilleure-paire-mondiale_8290616.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 20:56:22 +0100",
+      "description": "Les deux Tricolores, 6es au classement ATP en double, ont battu en deux manches, jeudi à Turin, le Finlandais Harri Heliovaara et le Britannique Henry Patten.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Val-de-Marne : un mort dans un violent incendie à Fontenay-sous-Bois, trois pompiers évacués en «urgence absolue»",
+      "link": "https://www.lefigaro.fr/faits-divers/val-de-marne-un-mort-dans-un-violent-incendie-a-fontenay-sous-bois-trois-pompiers-evacues-en-urgence-absolue-20261119",
+      "date": "Thu, 19 Nov 2026 20:51:43 +0100",
+      "description": "Le feu s'est déclaré vers 17 heures au 11e étage d'une tour de 18 étages. Trois sapeurs-pompiers ont été évacués en urgence absolue, sans que leur vie soit en danger.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Au procès des masculinistes de Telegram, un créateur \"plaqué\" par sa fiancée, des contributeurs en manque de \"lien social\" et des réquisitions exemplaires",
+      "link": "https://www.franceinfo.fr/faits-divers/justice-proces/au-proces-des-masculinistes-de-telegram-un-createur-plaque-par-sa-fiancee-des-contributeurs-en-manque-de-lien-social-et-des-requisitions-exemplaires_8289575.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 20:38:23 +0100",
+      "description": "Sept prévenus ont comparu mercredi et jeudi devant le tribunal correctionnel de Paris, jugés pour des messages haineux visant les femmes, les personnes noires, juives et LGBT+. Le parquet a requis contre eux entre 18 mois de sursis et deux ans de prison ferme.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Cyberattaques : \"On est sur un niveau de menace particulièrement grave et inédit\", prévient le Premier ministre Sébastien Lecornu",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-le-niveau-de-menace-est-sans-precedent-et-va-s-intensifier-previennent-sebastien-lecornu-et-vincent-strubel-le-directeur-de-l-anssi_8290514.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 20:33:33 +0100",
+      "description": "\"Ça va s'intensifier, le niveau de la menace va croître en volume\", a ajouté Vincent Strubel, le directeur de l'Agence nationale de la sécurité des systèmes d'information (Anssi).",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Le sommet de Shenzhen, symbole du grand recul américain sous Donald Trump",
+      "link": "https://www.lefigaro.fr/international/le-sommet-de-shenzhen-symbole-du-grand-recul-americain-sous-donald-trump-20261119",
+      "date": "Thu, 19 Nov 2026 20:31:39 +0100",
+      "description": "ANALYSE - La rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine illustre les limites de la diplomatie personnelle du président des États-Unis.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Réforme du cumul emploi-retraite : pourquoi certains cadres décident d’anticiper leur départ",
+      "link": "https://www.lefigaro.fr/conjoncture/reforme-du-cumul-emploi-retraite-pourquoi-certains-cadres-decident-d-anticiper-leur-depart-20261119",
+      "date": "Thu, 19 Nov 2026 20:14:16 +0100",
+      "description": "DÉCRYPTAGE - Adoptée l’année dernière dans le cadre du budget de la Sécurité sociale pour 2026, cette réforme entrera en vigueur le 1er janvier prochain.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Le Myanmar a commis un génocide contre la minorité Rohingya, règles de justice de l'ONU",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 19 Nov 2026 20:07:02 GMT",
+      "description": "Le verdict sans précédent de la Cour internationale de Justice concerne une répression militaire de 2017 qui a tué des milliers de personnes.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "Encadrement des loyers : malgré l’obstruction systématique du RN, la prolongation du dispositif adoptée à l’Assemblée nationale",
@@ -643,20 +699,108 @@
       "category": "France"
     },
     {
-      "title": "Guillaume Tabard : « Marine Tondelier prête à rejoindre Jean-Luc Mélenchon, de la symphonie pastorale à la symphonie pathétique »",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-marine-tondelier-prete-a-rejoindre-jean-luc-melenchon-de-la-symphonie-pastorale-a-la-symphonie-pathetique-20261119",
-      "date": "Thu, 19 Nov 2026 20:00:00 +0100",
-      "description": "CONTRE-POINT - En se soumettant sans condition au chef des Insoumis, les Écologistes sacrifient leur morale à leurs intérêts - du moins le croient-ils.",
-      "source": "Le Figaro",
+      "title": "Les employés appellent Google sur AI Rechercher dans les écoles",
+      "link": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+      "date": "Thu, 19 Nov 2026 20:00:12 +0000",
+      "description": "Le syndicat des travailleurs Alphabet a exprimé sa préoccupation au sujet de Google exigeant que ses outils AI soient groupés avec Search.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Plus d'atterrissage d'astéroïde : un problème moteur force la sonde japonaise Hayabusa2 à changer de plan",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+      "date": "Thu, 19 Nov 2026 20:00:00 +0000",
+      "description": "L'agence spatiale japonaise a décidé de changer de destination et d'objectifs pour l'acte final de sa mission d'astéroïde Hayabusa2, en raison de problèmes avec les propulseurs ioniques de l'engin spatial.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "Le Danemark ratifie l'accord de sécurité accentuant la présence militaire américaine au Groenland",
+      "link": "https://www.rfi.fr/fr/monde/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-accentuant-la-pr%C3%A9sence-militaire-am%C3%A9ricaine-au-groenland",
+      "date": "Thu, 19 Nov 2026 19:59:05 GMT",
+      "description": "L'accord de sécurité entre les États-Unis, le Groenland et le Danemark a été ratifié par les députés danois ce jeudi 19 novembre 2026. Signé à New York le 22 septembre dernier, en marge de l'Assemblée générale des Nations unies,l'accord prévoit d'étendre l'accès militaire américain au Groenland, territoire que revendiquait encore Donald Trump lors d'un meeting à la fin du mois d'octobre.",
+      "source": "RFI",
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : l’alliance avec Tondelier «devrait pouvoir se faire», estime Mélenchon",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-c-est-une-bonne-nouvelle-faisons-le-repond-lfi-a-marine-tondelier-prete-a-une-coalition-autour-de-melenchon-20261119",
-      "date": "Thu, 19 Nov 2026 19:56:03 +0100",
-      "description": "Déçu de la «clarification» opérée par Marine Tondelier en faveur de Jean-Luc Mélenchon, Raphaël Glucksmann en a appelé de son côté jeudi à «la tradition profondément pro-européenne» des électeurs écologistes.",
-      "source": "Le Figaro",
+      "title": "Walmart renverse les perspectives comme le dit le PDG du CNBC détaillant vise à maintenir les prix bas malgré la flambée des coûts du carburant",
+      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "date": "Thu, 19 Nov 2026 19:58:30 GMT",
+      "description": "Walmart a dit qu'il a vu la force avec le ramassage rempli de magasin et la livraison dans son troisième trimestre financier.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "De nouveaux outils pour les troupes pour abattre des drones.",
+      "link": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+      "date": "Thu, 19 Nov 2026 19:57:54 +0000",
+      "description": "La menace viscérale de drones bon marché qui livrent des munitions antipersonnel ciblées et guidées continue de créer de nouveaux systèmes de protection. De plus, une entrevue avec un récipiendaire de la Médaille d'honneur.",
+      "source": "Defense News",
+      "category": "Défense"
+    },
+    {
+      "title": "Après des débats houleux à l’Assemblée nationale, l’encadrement des loyers prolongé de deux ans",
+      "link": "https://www.liberation.fr/societe/ville/apres-des-debats-houleux-lencadrement-des-loyers-prolonge-de-deux-ans-20261119_KBM353LD2VEULICY624EQXZNLU/",
+      "date": "Thu, 19 Nov 2026 19:56:21 +0000",
+      "description": "Le texte a été approuvé à l’Assemblée ce jeudi par 148 voix contre 95 dans une certaine urgence, à quelques jours de la fin de l’expérimentation. 1,2 million de personnes sont concernées dans environ 70 communes.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Les candidats s'alignent pour être le prochain haut de HASC républicain.",
+      "link": "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel/",
+      "date": "Thu, 19 Nov 2026 19:54:46 +0000",
+      "description": "Avec les démocrates qui se préparent à prendre le contrôle du Comité des services armés de la Chambre, une course à la direction républicaine pourrait façonner la prochaine ronde de surveillance du Pentagone.",
+      "source": "Breaking Defense",
+      "category": "Défense"
+    },
+    {
+      "title": "«Sur la même page: Hegseth salue les liens américains avec Colombie",
+      "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 19:53:24 +0000",
+      "description": "Le secrétaire américain à la défense a salué la coopération en matière de sécurité avec la Colombie alors que le pays se joint à la Coalition contre les cartels des Amériques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Google se tourne vers Blue Origin pour une fusée, mais son problème à long terme reste",
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "date": "Thu, 19 Nov 2026 19:52:54 +0000",
+      "description": "\"Le projet Suncatcher est un coup de lune à long terme.\"",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "Une anthropie évaluée à 2 tn de dollars comme actions commence à se trader après une introduction en bourse record – entreprise en direct",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "date": "Thu, 19 Nov 2026 19:51:39 GMT",
+      "description": "Couverture tournante de l'IPO Anthropique, et les dernières nouvelles économiques et financières Anthropique de commencer la négociation publique à 1,5 tn d'évaluation après les plus grands IPO jamais eu des pannes, des espions, et des billions de dollars IPO: est-ce notre avenir AI? – Stateside avec Kai et Carter Anthropic a besoin de croître à sa valeur 1,5 tn, soutient Kathleen Brooks, directeur de recherche à XTB: Anthropic , l'IPO triomphante et son billion de dollars plus l'évaluation est plus typique d'une maturité",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "Grenoble : une professeure d’économie convoquée par sa hiérarchie pour un devoir faisant écho au mouvement lycéen",
+      "link": "https://www.liberation.fr/societe/education/grenoble-une-professeure-deconomie-convoquee-par-sa-hierarchie-pour-un-devoir-faisant-echo-au-mouvement-lyceen-20261119_HRZDLMWHARB2ZCEBR6AKOOXMJE/",
+      "date": "Thu, 19 Nov 2026 19:47:36 +0000",
+      "description": "Plusieurs familles mécontentes du sujet proposé par la prof du lycée Louise-Michel avaient saisi la direction de l’établissement. Même si le rectorat a voulu entendre l’enseignante, il assure aujourd’hui que les professeurs peuvent «s’appuyer sur l’actualité» pour illustrer leurs cours.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Trump a acheté Nvidia, Palantir, SpaceX en septembre en tant qu'accord fédéral, les liens de la Maison Blanche ont augmenté",
+      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "date": "Thu, 19 Nov 2026 19:43:08 GMT",
+      "description": "Le président Trump a annoncé des achats d'actions de Nvidia, de dettes de SpaceX et d'actions de Tesla en septembre, ainsi que des millions de dollars dans d'autres investissements.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Les dirigeants européens s'unissent à Berlin pour réaffirmer leur soutien à l'Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 19:40:23 +0000",
+      "description": "Le chancelier allemand met en garde contre l'échec des pourparlers de paix sans l'implication de l'Europe, en exhortant l'unité avec l'Ukraine.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : les Européens réaffirment leur soutien à Kiev et évoquent leur participation à de futures négociations avec les Russes et les Américains",
@@ -667,41 +811,113 @@
       "category": "France"
     },
     {
-      "title": "Le Parlement prolonge l'encadrement des loyers de deux ans",
-      "link": "https://www.franceinfo.fr/economie/immobilier/encadrement-des-loyers/le-parlement-prolonge-l-encadrement-des-loyers-de-deux-ans_8290517.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 19:25:53 +0100",
-      "description": "Porté par le député socialiste Inaki Echaniz, le texte – adopté par 148 voix pour et 95 contre – prévoyait initialement de pérenniser et d'élargir le dispositif qui plafonne dans certaines zones les loyers.",
-      "source": "franceinfo",
+      "title": "Donald Trump «ouvert» à une protection de type Otan pour l’Ukraine, selon son émissaire Jared Kushner",
+      "link": "https://www.liberation.fr/international/europe/donald-trump-ouvert-a-une-protection-de-type-otan-pour-lukraine-selon-son-emissaire-jared-kushner-20261119_RHRFUPJD7FAV7LQY2HWMBQJT6M/",
+      "date": "Thu, 19 Nov 2026 19:38:24 +0000",
+      "description": "Lors d’une conférence de presse ce jeudi à Berlin, après une réunion de la coalition des volontaires pour l’Ukraine, le représentant du président américain a avancé cette option, à condition qu’elle soit dans «l’intérêt» des Etats-Unis, a-t-il ajouté.",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "Gérard Depardieu visé par une nouvelle plainte pour viol et agressions sexuelles en réunion, Michel Houellebecq pour complicité",
-      "link": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-vise-par-une-nouvelle-plainte-pour-viol-et-agressions-sexuelles-en-reunion-michel-houellebecq-pour-complicite_8290478.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 19:24:03 +0100",
-      "description": "Une comédienne a porté plainte contre Gérard Depardieu pour viol et agressions sexuelles intervenus durant le tournage d'un film. L'écrivain Michel Houellebecq, qui jouait également dans le long métrage, est également visé par cette plainte.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "Défi : contribution du public à la vie et au monde en 2075",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "date": "Thu, 19 Nov 2026 19:34:20 +0000",
+      "description": "Les outils et technologies de transformation de la NASA (TTT) recueillent des points de vue publics sur la vie actuelle et sur la façon dont le monde peut changer d'ici 2075. Ce défi demande des idées conceptuelles sur la vie en 2075 sur quatre sujets. Les idées devraient explorer comment les futurs systèmes aéronautiques ou aérospatiaux pourraient : Les idées devraient être conceptuelles plutôt que techniques. Prix: 20 000 $ en [...]",
+      "source": "NASA",
+      "category": "Environnement"
     },
     {
-      "title": "Quels sont les métiers du privé qui offrent les meilleurs salaires en France ?",
-      "link": "https://www.lefigaro.fr/social/quels-sont-les-metiers-du-prive-qui-offrent-les-meilleurs-salaires-en-france-20261119",
-      "date": "Thu, 19 Nov 2026 19:11:11 +0100",
-      "description": "DÉCRYPTAGE - L’association pour l’emploi des cadres (Apec) a passé au crible les rémunérations de 111 métiers du privé. L’IA pourrait rebattre les cartes.",
-      "source": "Le Figaro",
+      "title": "Photos: Le génocide au pouvoir met en lumière le bilan humain de la crise des Rohingyas de 2017",
+      "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 19:33:25 +0000",
+      "description": "Près d'un million de Rohingyas ont fui vers le Bangladesh en 2017, formant l'un des plus grands camps de réfugiés au monde près de Bazar.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Ministre ougandais à la COP31: «Nous avons besoin d'une transition juste»",
+      "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Thu, 19 Nov 2026 19:31:00 GMT",
+      "description": "Le financement des pays riches pour aider à faire face aux impacts du changement climatique ne s'est pas concrétisé, affirme le ministre ougandais de l'Environnement. Le pays d'Afrique de l'Est espère que le pétrole et les crédits carbone contribueront à stimuler les finances.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Amazon lance une campagne d'application contre la facture de livraison soutenue par Mamdani à New York",
+      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "date": "Thu, 19 Nov 2026 19:29:31 GMT",
+      "description": "Amazon a fortement fait pression contre le projet de loi, tandis que le maire de New York, Zohran Mamdani, a appuyé le projet de loi plus tôt cette année.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le juge américain autorise Trump à poursuivre 15 milliards de dollars contre le New York Times",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
+      "date": "Thu, 19 Nov 2026 19:27:51 GMT",
+      "description": "Trump allègue la diffamation par trois reporters de Times et Penguin Random House en campagne contre les médias Un juge fédéral en Floride jeudi a déclaré Donald Trump $15 milliards de poursuites en diffamation contre le New York Times et l'éditeur de livres Penguin Random House peut procéder, une victoire pour le président américain dans sa campagne légale contre les entreprises de médias qu'il accuse de le traiter injustement. Le juge de district américain Steven Merryday à Tampa a renvoyé deux",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "La sortie de Blockbuster GTA VI montre des jeux vidéo culturels et économiques",
+      "link": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 19:27:32 +0000",
+      "description": "Le succès rugueux de la franchise populaire vient alors que l'industrie du jeu vidéo a lutté avec des licenciements massifs ces dernières années.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Sauver les enfants: Gaza Les enfants sont confrontés à des dangers sans égal",
+      "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 19:23:45 +0000",
+      "description": "Selon le groupe d'aide, un tiers des violations commises contre des enfants dans le monde se trouvaient dans le territoire palestinien occupé.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le monde réagit lorsque la CIJ déclare le Myanmar coupable de génocide contre Rohingya",
+      "link": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+      "date": "Thu, 19 Nov 2026 19:19:06 +0000",
+      "description": "C'est la première fois qu'un État est accusé de génocide à la CIJ.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Apple TV élargit sa couverture de course avec la F1 Academy entièrement féminine",
+      "link": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+      "date": "Thu, 19 Nov 2026 19:16:42 +0000",
+      "description": "La plateforme diffusera « chaque session de qualification et course tout au long de la saison ».",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'Europe prête pour des pourparlers avec la Russie sur la fin de la guerre en Ukraine, disent les dirigeants",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 19 Nov 2026 19:16:21 GMT",
+      "description": "Les alliés européens de l'Ukraine disent avoir une position de négociation «unie» lors d'un sommet à Berlin.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "La douleur des femmes toujours en proie au mépris du monde médical",
+      "link": "https://www.liberation.fr/idees-et-debats/la-douleur-des-femmes-toujours-en-proie-au-mepris-du-monde-medical-20261119_56PKTXUH7JAMZDXNL7FZ2PH2J4/",
+      "date": "Thu, 19 Nov 2026 19:15:31 +0000",
+      "description": "Pour «Libé» la journaliste Salomé Saqué et la médecin spécialiste de la douleur, Delphine Lhuillery, ont échangé sur les raisons qui font que les médecins ignorent trop souvent la parole des femmes qui souffrent. Une rencontre passionnante… et accablante.",
+      "source": "Libération",
       "category": "France"
     },
     {
       "title": "Les offices de propriété intellectuelle anthropiques pourraient fournir 156 milliards de dollars à des organismes de bienfaisance",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "date": "Thu, 19 Nov 2026 19:10:45 +0000",
-      "description": "À un prix de 94 $, la Fondation d'avantages publics du laboratoire frontalier, ce sont des dons d'employés et le montant de l'entreprise jusqu'à 155 milliards de dollars.",
+      "description": "À un prix boursier de 95 $, la Fondation d'avantages publics du laboratoire frontalier, ses dons d'employés et le montant égal de l'entreprise jusqu'à 156 milliards de dollars.",
       "source": "TechCrunch",
       "category": "Technologie"
     },
     {
       "title": "David Habib, député des Pyrénées-Atlantiques, meurt subitement à 65 ans",
       "link": "https://www.liberation.fr/politique/david-habib-depute-des-pyrenees-atlantiques-meurt-a-65-ans-20261119_MNFSZ5HHXJBV5FI6XT6RB5EQYM/",
-      "date": "Thu, 19 Nov 2026 19:08:35 +0000",
+      "date": "Thu, 19 Nov 2026 19:08:56 +0000",
       "description": "La présidente de l’Assemblée nationale a annoncé ce jeudi la mort dans la nuit de l’ancien socialiste qui siégeait au sein du groupe indépendant Liot. Dans l’hémicycle, les élus ont observé une minute de silence.",
       "source": "Libération",
       "category": "France"
@@ -715,12 +931,20 @@
       "category": "Monde"
     },
     {
-      "title": "Présidentielle 2027 : la députée Clémentine Autain, qui avait quitté LFI en 2024, appelle à soutenir Jean-Luc Mélenchon",
-      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 19 Nov 2026 19:04:46 +0100",
-      "description": "La secrétaire nationale des Ecologistes, Marine Tondelier, a de son côté ouvert la porte mercredi à une coalition avec le candidat insoumis à l'élection présidentielle.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "Ubisoft licencie 166 travailleurs de plus, ouvre un studio d'IA générateur",
+      "link": "https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/",
+      "date": "Thu, 19 Nov 2026 19:06:04 +0000",
+      "description": "Même les développeurs de Rockstar craignent les licenciements, car GTA 6 râte en milliards de dollars.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Sénat américain cherche à échanger des fonds de construction navale pour plus de munitions",
+      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-senate-seeks-to-exchange-shipbuilding-funds-for-more-munitions/",
+      "date": "Thu, 19 Nov 2026 19:05:27 +0000",
+      "description": "Le comité des services armés du Sénat américain a publié sa proposition de la National Defense Appropriation Act (NDAA) pour l'exercice 2027, révélant les priorités de financement de la Chambre au sein de la Marine. Détaillé dans un rapport publié simultanément, le Sénat cherche à remédier aux dépenses récentes en munitions et aux pénuries, les fonds étant principalement prélevés sur le montant demandé aux fins de la construction navale. ... Le poste de Sénat américain cherche à échanger",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Voyager 1 est à quelques jours. Et maintenant ?",
@@ -737,14 +961,6 @@
       "description": "Le service utilise le temps supplémentaire pour évaluer la charge de travail du centre, peaufiner ses processus et déterminer la structure de dotation et d'organisation nécessaires pour la rendre permanente.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "Les familles fuient Gaza Le camp de Bureij alors qu'Israël lance une nouvelle offensive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 19:01:00 +0000",
-      "description": "Les familles fuient Gaza Le camp de Bureij alors qu'Israël lance une nouvelle offensive",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "« Il ne s’agit plus seulement d’exciser, certaines filles sont également cousues » : en Gambie, un puissant mouvement conservateur tente de réhabiliter l’excision",
@@ -803,12 +1019,12 @@
       "category": "Monde"
     },
     {
-      "title": "La France attend le verdict six ans après que la police ait battu le producteur de musique noire",
-      "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 18:51:50 +0000",
-      "description": "Trois officiers sont accusés d'avoir agressé Michel Zecler dans un incident filmé par des caméras de surveillance.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "À Shenzhen, Xi Jinping s’affiche en pilier d’un nouvel ordre mondial",
+      "link": "https://www.lefigaro.fr/international/a-shenzhen-xi-jinping-s-affiche-en-pilier-d-un-nouvel-ordre-mondial-en-tutoyant-trump-et-en-menageant-poutine-20261119",
+      "date": "Thu, 19 Nov 2026 18:53:35 +0100",
+      "description": "RÉCIT - À l’issue d’une rencontre ce jeudi, les présidents chinois, américain et russe ont assuré s’engager en faveur de la « paix », avec le maintien de la « stabilité stratégique », et contre la « guerre nucléaire », sans accord contraignant.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "«Un moment de bassin versant» : Les chercheurs dévoilent un test sanguin de première qualité pour CTE",
@@ -819,12 +1035,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Les Palestiniens de Gaza font face à de nouveaux déplacements après l'opération de l'armée israélienne",
-      "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 18:46:10 +0000",
-      "description": "Les familles à Nuseirat passent la nuit sans abri, tandis que beaucoup craignent de revenir malgré Israël mettant fin à l'offensive.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "« Il est absurde de les dissuader d’exercer » : la réforme du cumul emploi-retraite pousse les médecins à partir avant la fin de l’année",
+      "link": "https://www.lefigaro.fr/conjoncture/il-est-absurde-de-les-dissuader-d-exercer-la-reforme-du-cumul-emploi-retraite-pousse-les-medecins-a-partir-avant-la-fin-de-l-annee-20261119",
+      "date": "Thu, 19 Nov 2026 18:45:00 +0100",
+      "description": "DÉCRYPTAGE - Le régime complémentaire des médecins libéraux a recensé 1 800 départs contre 800 anticipés.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "\"Vous avez raison\"—Les LLM se trompent d'information climatique si vous demandez",
@@ -838,25 +1054,9 @@
       "title": "Les dirigeants européens présentent un front uni en faveur de la paix en Ukraine",
       "link": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Thu, 19 Nov 2026 18:44:00 GMT",
-      "description": "Les pourparlers à Berlin se terminent par un soutien réaffirmé à Kiev et une volonté concertée de représentation européenne lors des futurs pourparlers de paix pour mettre fin à l'invasion de l'Ukraine par la Russie. DW en a plus.",
+      "description": "Les pourparlers de Berlin se terminent par un soutien réaffirmé à Kiev et une volonté concertée de représentation européenne lors des futurs pourparlers de paix pour mettre fin à l'invasion de l'Ukraine par la Russie.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Pistes cyclables glissantes et risques de chute sur les trottoirs : à Paris, l’épineux ramassage des feuilles mortes",
-      "link": "https://www.liberation.fr/societe/ville/pistes-cyclables-glissantes-et-risques-de-chute-sur-les-trottoirs-a-paris-lepineux-ramassage-des-feuilles-mortes-20261119_2UZ2OATKCRC55OFAX4T66UZHSA/",
-      "date": "Thu, 19 Nov 2026 18:42:10 +0000",
-      "description": "Après plusieurs jours marqués par des vents violents et de fortes précipitations, des riverains alertent sur les amas de feuillages qui encombrent les chaussées de la capitale. La mairie assure être «mobilisée» mais sollicite l’aide des Parisiens.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Sarah El Haïry saisit le parquet de Paris contre les sites Tipsy Chat et Lady’s One",
-      "link": "https://www.liberation.fr/lifestyle/hightech/sarah-el-hairy-saisit-le-parquet-de-paris-contre-les-sites-tipsy-chat-et-ladys-one-20261119_YMNHU53ROFDFNA5KWRVSVLTTKM/",
-      "date": "Thu, 19 Nov 2026 18:41:59 +0000",
-      "description": "L’application, dont nous avions révélé qu’elle mettait en relation des utilisateurs avec des personnages de fiction aux pratiques et aux discours sexuels violents sans vérification d’âge, est dans le viseur de la haute-commissaire à l’Enfance.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Anthropic est maintenant une entreprise publique d'une valeur de plus de 1 billion de dollars",
@@ -867,20 +1067,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Une anthropie évaluée à 2 tn de dollars comme actions commence à se trader après une introduction en bourse record – entreprise en direct",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "date": "Thu, 19 Nov 2026 18:39:51 GMT",
-      "description": "Couverture tournante de l'IPO Anthropique, et les dernières nouvelles économiques et financières Anthropique de commencer la négociation publique à 1,5 tn d'évaluation après les plus grands IPO jamais eu des pannes, des espions, et des billions de dollars IPO: est-ce notre avenir AI? – Stateside avec Kai et Carter Anthropic a besoin de croître à sa valeur 1,5 tn, soutient Kathleen Brooks, directeur de recherche à XTB: Anthropic , l'IPO triomphante et son billion de dollars plus l'évaluation est plus typique d'une maturité",
-      "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
-      "title": "En 2026, plus de 2 000 enfants dorment encore dans des écoles : à quand la prise de conscience politique ?",
-      "link": "https://www.liberation.fr/societe/education/en-2026-plus-de-2-000-enfants-dorment-encore-dans-des-ecoles-a-quand-la-prise-de-conscience-politique-20261119_3UDLPVSAJZCRNBLKBWCD2NHWKY/",
-      "date": "Thu, 19 Nov 2026 18:28:16 +0000",
-      "description": "D’ici à Noël, trois députées de gauche du Rhône vont passer une nuit dans des établissements scolaires lyonnais, aux côtés de familles sans abri logées grâce à la solidarité des parents et des enseignants. La répétition de ce genre d’initiative en dit long sur les manquements de l’Etat.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Baltic Workboats lance le navire modulaire EUROGUARD en Estonie",
+      "link": "https://www.navalnews.com/naval-news/2026/11/estonian-president-christens-first-euroguard-the-largest-warship-ever-built-in-the-country/",
+      "date": "Thu, 19 Nov 2026 18:32:50 +0000",
+      "description": "L'Estonie a baptisé et lancé le prototype EUROGUARD de 45 mètres à Baltic Workboats, le plus grand navire de guerre construit dans le pays et un banc d'essai pour la technologie navale autonome. L'article Baltic Workboats lance le vaisseau modulaire EUROGUARD en Estonie est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Le Myanmar a commis un génocide contre les Rohingyas, jugement de la Cour mondiale",
@@ -889,14 +1081,6 @@
       "description": "Dans une décision qui pourrait avoir des incidences importantes, la Cour internationale de Justice a jugé pour la première fois un État coupable de génocide.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Irak: avec la fermeture du détroit d’Ormuz, des travailleurs pétroliers sans «aucune opportunité» d'emploi",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261119-irak-avec-la-fermeture-du-d%C3%A9troit-d-ormuz-des-travailleurs-p%C3%A9troliers-sans-aucune-opportunit%C3%A9",
-      "date": "Thu, 19 Nov 2026 18:25:38 GMT",
-      "description": "Alors que l’Irak dépend à près de 90 % de ses revenus pétroliers, le pays exportait l’immense majorité de son pétrole via le détroit d’Ormuz depuis sa fermeture en raison du bras de fer entre les États-Unis et l’Iran. Les exportations atteignent désormais à peine un tiers des 93 millions de barils de brut : une catastrophe pour la population de la province de Bassora qui dépend des exploitations pétrolières pour vivre. Les travailleurs manifestent pour de meilleures opportunités d'emploi.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "AMD plonge sur le rapport de vente à découvert d'exposition présumée de la Chine",
@@ -923,14 +1107,6 @@
       "category": "Sciences"
     },
     {
-      "title": "L'Iraq parvient à un compromis avec le Hezbollah Kataib au sujet du bastion du groupe armé",
-      "link": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 18:16:09 +0000",
-      "description": "Le compromis conclu permettra de stationner des forces qui comprennent des brigades des Forces de Mobilisation Populaires.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Municipales 2026 : 105 maires de grandes villes se voient refuser le remboursement de leurs frais de campagne",
       "link": "https://www.lemonde.fr/politique/article/2026/11/19/municipales-2026-105-maires-de-grandes-villes-se-voient-refuser-le-remboursement-de-leurs-frais-de-campagne_6813354_823448.html",
       "date": "Thu, 19 Nov 2026 18:14:41 +0100",
@@ -939,12 +1115,12 @@
       "category": "France"
     },
     {
-      "title": "Sommet Trump-Xi-Putin : Cinq choses à savoir",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 18:13:52 +0000",
-      "description": "Donald Trump, Xi Jinping et Vladimir Poutine ont tenu leur premier sommet trilatéral en Chine.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "Au procès Zecler, prison ferme requise contre les policiers, qui se défendent de tout racisme",
+      "link": "https://www.france24.com/fr/france/20261119-au-proc%C3%A8s-zecler-prison-ferme-requise-contre-les-policiers-qui-se-d%C3%A9fendent-de-tout-racisme",
+      "date": "Thu, 19 Nov 2026 18:14:26 GMT",
+      "description": "L'accusation a requis jeudi entre quatre et six ans de prison ferme contre les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020. La défense reconnait des \"violences inadmissibles\" mais conteste la lourdeur des peines requises et rejette toute dimension raciste.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Ballet d’avions espions en mer Noire: ce que disent les images en sources ouvertes",
@@ -979,28 +1155,12 @@
       "category": "France"
     },
     {
-      "title": "Les principaux créateurs de contenus devront pour la première fois respecter les règles de l’Arcom pendant la campagne présidentielle",
-      "link": "https://www.liberation.fr/politique/presidentielle-2027-les-createurs-de-contenus-devront-pour-la-premiere-fois-respecter-le-pluralisme-annonce-larcom-20261119_DNP6YZIHU5AWDK4OWE4OMSCQSE/",
-      "date": "Thu, 19 Nov 2026 18:05:54 +0000",
-      "description": "Le régulateur de l’audiovisuel et du numérique a présenté ce jeudi, dans un flou relatif, les nouvelles modalités concernant l’élection en 2027. Les influenceurs, tels HugoDécrypte ou Guillaume Pley, pourraient être soumis aux mêmes contraintes que les radios et les télés.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "L'atmosphère de la Terre a pris trois respirations profondes d'oxygène avant que les océans ne prennent le dessus",
       "link": "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up",
       "date": "Thu, 19 Nov 2026 18:04:23 +0000",
       "description": "L'accumulation d'oxygène dans l'atmosphère et les océans de la Terre était un processus en plusieurs étapes qui s'est déroulé sur des échelles de temps géologiques. Les scientifiques ont travaillé dur pour comprendre tous les détails de ce processus complexe. La nouvelle recherche écrit un calendrier révisé pour la façon dont tout s'est déroulé.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Amazon lance une campagne d'application contre la facture de livraison soutenue par Mamdani à New York",
-      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-      "date": "Thu, 19 Nov 2026 18:03:03 GMT",
-      "description": "Amazon a fortement fait pression contre le projet de loi, tandis que le maire de New York, Zohran Mamdani, a appuyé le projet de loi plus tôt cette année.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Comment jouer partager GTA 6 et partager le coût avec un ami",
@@ -1027,14 +1187,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Trump a acheté Nvidia, Palantir, SpaceX en septembre en tant qu'accord fédéral, les liens de la Maison Blanche ont augmenté",
-      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "date": "Thu, 19 Nov 2026 17:59:04 GMT",
-      "description": "Le président Trump a annoncé des achats d'actions de Nvidia, de dettes de SpaceX et d'actions de Tesla en septembre, ainsi que des millions de dollars dans d'autres investissements.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Règles de la Cour des Nations Unies Le Myanmar a commis un génocide contre les Rohingyas",
       "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
       "date": "Thu, 19 Nov 2026 17:57:09 +0000",
@@ -1043,35 +1195,11 @@
       "category": "Monde"
     },
     {
-      "title": "Présidentielle 2027 : Clémentine Autain, qui avait quitté LFI après les «purges» de 2024, appelle à soutenir Jean-Luc Mélenchon",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-clementine-autain-qui-avait-quitte-lfi-apres-les-purges-de-2024-appelle-a-soutenir-jean-luc-melenchon-20261119",
-      "date": "Thu, 19 Nov 2026 17:57:06 +0100",
-      "description": "Mercredi soir, c’est la candidate écologiste Marine Tondelier qui a ouvert la porte d’un soutien à la candidature de l’Insoumis, en lui reconnaissant une dynamique «indéniable».",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "« C’est la fin des Écologistes » : la drôle de main tendue de Marine Tondelier à Jean-Luc Mélenchon",
-      "link": "https://www.lefigaro.fr/politique/c-est-la-fin-des-ecologistes-marine-tondelier-tend-la-main-a-jean-luc-melenchon-20261119",
-      "date": "Thu, 19 Nov 2026 17:57:01 +0100",
-      "description": "DÉCRYPTAGE - La patronne des Verts s’est dite prête mercredi soir à bâtir une « coalition » autour de l’Insoumis en chef, provoquant l’indignation de Raphaël Glucksmann.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Sommet Xi-Trump-Putin : Qu'est-ce qu'il a réalisé ?",
       "link": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Thu, 19 Nov 2026 17:52:00 GMT",
       "description": "Les présidents chinois, américains et russes ont tenu un sommet sans précédent. Alors que Trump a déclaré que les trois dirigeants « faisaient de l'histoire », Xi a décrit les pourparlers comme « fructueux », et Poutine les a appelés « ouverts et francs ».",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Xi exhorte les Etats-Unis et la Russie à unir leurs forces pour sauvegarder la paix mondiale",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
-      "date": "Thu, 19 Nov 2026 17:50:21 +0000",
-      "description": "Le président chinois Xi a exhorté le président américain Trump et le président russe Poutine à travailler avec la Chine pour sauvegarder la paix mondiale.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -1091,20 +1219,12 @@
       "category": "Technologie"
     },
     {
-      "title": "L'agent d'IA Muse mélange les conversations et expose les données privées, rapporte le rapport",
+      "title": "L'agent d'IA Muse mélange les conversations et pourrait exposer des données privées, dit le rapport",
       "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "date": "Thu, 19 Nov 2026 17:38:40 +0000",
       "description": "Dans certains de ces cas, les employés ont dit que Muse a fait surface des messages sur les demandes de garde d'enfants qu'ils n'avaient jamais faites, des conseils de carrière qu'ils n'avaient jamais demandés, des commandes de produits qu'ils n'avaient jamais placées et des soldes de comptes bancaires qui ne leur appartenaient pas.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "«Il faut sortir de l’Union européenne» : Franck Ferrand lance un appel aux candidats à la présidentielle",
-      "link": "https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/il-faut-sortir-de-l-union-europeenne-franck-ferrand-lance-un-appel-aux-candidats-a-la-presidentielle-20261119",
-      "date": "Thu, 19 Nov 2026 17:38:24 +0100",
-      "description": "VIDÉO - L’historien, invité du «Buzz TV», donne son point de vue sur l’actualité politique française. Il plaide pour mettre au cœur du débat la question de l’adhésion de la France à l’Union européenne.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Trump, Poutine et Xi libèrent la « déclaration de paix » après une réunion historique",
@@ -1131,14 +1251,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Apple HomePod mini 2 avis: Une mise à jour nécessaire, mais peu encourageante",
-      "link": "https://www.engadget.com/2321939/apple-homepod-mini-2-review/",
-      "date": "Thu, 19 Nov 2026 17:30:00 +0000",
-      "description": "La mise à jour la plus notable du HomePod mini 2 est sa puce S10, qui est censée alimenter Siri AI, mais qui est toujours dans les travaux.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "L'endroit doux pour la taille de constellation",
       "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
       "date": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1155,28 +1267,12 @@
       "category": "Défense"
     },
     {
-      "title": "Vous ne trouverez pas cette fonctionnalité préférée des fans dans GTA 6",
-      "link": "https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6/",
-      "date": "Thu, 19 Nov 2026 17:23:58 +0000",
-      "description": "Rejouer des missions est possible, mais pas facile.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "L'armée libanaise se dit «déterminée» à désarmer le Hezbollah",
       "link": "https://www.rfi.fr/fr/moyen-orient/20261119-l-arm%C3%A9e-libanaise-se-dit-d%C3%A9termin%C3%A9e-%C3%A0-d%C3%A9sarmer-le-hezbollah",
       "date": "Thu, 19 Nov 2026 17:21:00 GMT",
       "description": "Le chef de l’armée libanaise, le général Rodolphe Haykal, a déclaré ce jeudi 19 novembre que les forces armées sont « déterminées » à mettre en œuvre « le monopole des armes par l’État », la formulation utilisée au Liban pour évoquer le désarmement du Hezbollah. Cette position nouvelle tranche avec l’attitude jugée plutôt passive de l’armée, très critiquée localement et internationalement pour avoir traîné les pieds après les décisions prises par les autorités politiques pour réduire l’influence du Hezbollah.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Comment changer les vues des caméras en GTA 6",
-      "link": "https://www.engadget.com/2321960/gta-6-how-to-switch-camera-views/",
-      "date": "Thu, 19 Nov 2026 17:18:44 +0000",
-      "description": "Le jeu offre seulement une perspective de première personne dans des circonstances très limitées.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "L'armée américaine prévoit de faire exploser des produits chimiques de fabrication de bombes.",
@@ -1241,14 +1337,6 @@
       "description": "Le prix d'OPI d'Anthropic a été fixé à 83 $, ce qui représente plus de 80 milliards de dollars de nouveaux capitaux recueillis.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Le Myanmar a commis un génocide contre la minorité Rohingya, règles de justice de l'ONU",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 16:55:57 GMT",
-      "description": "Le verdict sans précédent de la Cour internationale de Justice concerne une répression militaire de 2017 qui a tué des milliers de personnes.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Après l'attaque du pont, Poutine dit qu'il ne négociera pas avec l'Ukraine",
@@ -1363,12 +1451,12 @@
       "category": "Monde"
     },
     {
-      "title": "Le trading anthropique teste l'appétit des investisseurs pour l'IA",
-      "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Thu, 19 Nov 2026 15:52:00 GMT",
-      "description": "Les actions d'Anthropic ont commencé à trader sur le Nasdaq après son record de 81 milliards de dollars d'IPO. Sa performance mettra à l'épreuve la confiance des investisseurs dans l'IA et l'évaluation de 1,5 billion de dollars du fabricant Claude.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "Jean-François Colosimo : « Lire Carl Schmitt pour comprendre le sommet Xi-Trump-Poutine »",
+      "link": "https://www.lefigaro.fr/vox/monde/jean-francois-colosimo-lire-carl-schmitt-pour-comprendre-le-sommet-xi-trump-poutine-20261119",
+      "date": "Thu, 19 Nov 2026 15:47:21 +0100",
+      "description": "TRIBUNE - Le sommet de Shenzhen doit se décrypter à l’aune des écrits du juriste allemand que lisent assidûment les conseillers de Xi Jinping, Donald Trump et Vladimir Poutine. Ces derniers prônent la fin de l’universalisme au profit d’une planète partagée entre quelques « grands espaces », analyse le théologien.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Le cas de l'optique",
@@ -1406,7 +1494,7 @@
       "title": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
       "link": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
       "date": "Thu, 19 Nov 2026 15:31:38 +0100",
-      "description": "Une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Au moins un ancien haut cadre de Beauvau est soupçonné.",
+      "description": "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le RN. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Au moins un ancien haut cadre de Beauvau, le préfet Hugues Moutouh, est soupçonné.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1441,6 +1529,14 @@
       "description": "Euclid a été lancé pour construire une carte 3D du ciel pour sonder la structure cosmique et l'expansion de l'Univers. Une partie de son travail est de chercher des lentilles gravitationnelles fortes, des sondes importantes de matière noire. Jusqu'ici, c'est un bon début. Elle a trouvé 15 000 candidats à la lentille gravitationnelle forte dans sa première relase de données.",
       "source": "Universe Today",
       "category": "Exploration"
+    },
+    {
+      "title": "Les juges ont mis en attente l'arche et le terrain de golf de Trump, mais seulement pour quelques jours",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+      "date": "Thu, 19 Nov 2026 14:46:27 -0500",
+      "description": "Un juge fédéral a deux fois retardé la construction de l'arche de Trump. Un autre est de garder East Potomac Park ouvert. La refonte proposée du parcours de golf a reçu des commentaires mitigés d'un comité fédéral des arts jeudi.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "La NASA effectue les derniers essais de moteur RS-25 à l'appui des futures missions Artemis",
@@ -1523,14 +1619,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Leonid météorite douche frissons stargazers dans le monde entier avec ciel coloré show (photos/vidéo)",
-      "link": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
-      "date": "Thu, 19 Nov 2026 13:58:47 +0000",
-      "description": "Des météores colorés aux sentiers persistants, les Leonids ont fait un grand spectacle cette année.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Ukraine veut plus Mirage 2000 combattants. D'où pourraient-ils venir ?",
       "link": "https://www.twz.com/air/ukraine-wants-more-mirage-2000-fighters-where-could-they-come-from",
       "date": "Thu, 19 Nov 2026 13:57:09 -0500",
@@ -1553,14 +1641,6 @@
       "description": "L'entreprise d'IA doit devenir une plateforme technologique d'entreprise complète après l'IPO",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Formation pour n'importe quel scénario, n'importe où dans le monde, en commençant par le Pacifique à Guam",
-      "link": "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam/",
-      "date": "Thu, 19 Nov 2026 13:43:00 +0000",
-      "description": "L'IA et les nouvelles techniques d'entraînement transforment les réseaux opérationnels en environnements d'entraînement pour les forces interarmées.",
-      "source": "Breaking Defense",
-      "category": "Défense"
     },
     {
       "title": "Les nouveaux plans lunaires de la NASA ont un problème : Orion n'a pas été conçu pour voler de cette façon.",
@@ -1587,28 +1667,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Le Venezuela signe un accord militaire avec les États-Unis moins d'un an après le retrait de Maduro",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 13:31:23 GMT",
-      "description": "Selon le secrétaire américain à la Défense, le Venezuela « est passé de notre menace régionale la plus agressive à un partenaire de sécurité conforme ».",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Les \"Magic Six\": Comment renforcer votre mariage en milieu de vie",
       "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
       "date": "Thu, 19 Nov 2026 13:28:23 -0500",
       "description": "Comment maintenir des relations amoureuses saines à mesure que nous vieillissons? Allison Aubrey et Scott Detrow parlent de la science des relations saines et futures.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Walmart renverse les perspectives comme le dit le PDG du CNBC détaillant vise à maintenir les prix bas malgré la flambée des coûts du carburant",
-      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "date": "Thu, 19 Nov 2026 13:23:50 GMT",
-      "description": "Walmart a dit qu'il a vu la force avec le ramassage rempli de magasin et la livraison dans son troisième trimestre financier.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "L'Ukraine prévoit de doubler les stocks de drones, triples frappes profondes",
@@ -1787,14 +1851,6 @@
       "category": "Monde"
     },
     {
-      "title": "MBDA et la startup allemande Atmos s'associent pour étudier les armes de frappe spatiales",
-      "link": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
-      "date": "Thu, 19 Nov 2026 10:36:23 +0000",
-      "description": "Le fabricant paneuropéen de missiles MBDA et la start-up allemande Atmos Space Cargo s'associent pour étudier le déploiement d'armes de frappe profonde sur orbite terrestre à l'aide de véhicules de rentrée.",
-      "source": "Defense News",
-      "category": "Défense"
-    },
-    {
       "title": "À Shenzen, Trump, Xi et Poutine adoptent une «déclaration de paix» après leur rencontre tripartite",
       "link": "https://www.rfi.fr/fr/asie-pacifique/20261119-shenzen-trump-estime-%C3%A9crire-l-histoire-c%C3%B4t%C3%A9s-poutine-xi-rencontre-tripartite",
       "date": "Thu, 19 Nov 2026 10:09:09 GMT",
@@ -1825,6 +1881,14 @@
       "description": "L'appareil lugubre de la science pour la perturbation",
       "source": "The Economist",
       "category": "Économie"
+    },
+    {
+      "title": "ADSB délocaliser le chantier naval en regardant l'expansion de la construction navale",
+      "link": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+      "date": "Thu, 19 Nov 2026 09:51:57 +0000",
+      "description": "Aujourd'hui, Abu Dhabi Ship Building (ADSB) a trois grands contrats de construction navale de trois pays différents. Ces projets maintiennent la main-d'oeuvre presque entièrement occupée, mais, compte tenu de l'expansion future, ADSB planifie déjà un nouveau chantier naval qui permettra la construction de navires de plus en plus grands. La fonction essentielle de l'ADSB est la construction navale, qui ... Le post ADSB pour déplacer chantier naval comme il voit expansion de la construction navale apparut",
+      "source": "Naval News",
+      "category": "Défense"
     },
     {
       "title": "Même les \"bons gars\" de l'IA se verrouillent dans les combustibles fossiles",
@@ -1880,7 +1944,7 @@
       "date": "Thu, 19 Nov 2026 07:26:01 -0500",
       "description": "Malgré l'inquiétude croissante concernant une éventuelle bulle d'IA, Anthropic a eu une offre publique initiale record. Et Hakeem Jeffries pourrait devenir le premier président noir de la Chambre.",
       "source": "NPR",
-      "category": "Monde"
+      "category": "Économie"
     },
     {
       "title": "Le report du rapport du GIEC menacera l'effort mondial pour faire face à la crise climatique, affirme le grand scientifique",
@@ -1961,14 +2025,6 @@
       "description": "Les parts dans le fabricant du populaire Claude modèle d'intelligence artificielle ont bondi dans la première journée de trading le jeudi Nasdaq.",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "El Niño Rains Peignez l'Atacama",
-      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
-      "date": "Thu, 19 Nov 2026 05:00:00 +0000",
-      "description": "Les précipitations hivernales ont aidé à réveiller des graines dormantes dans le nord du Chili, tapissant le désert avec ce qui pourrait être la région, la floraison la plus étendue de l'ère satellite.",
-      "source": "NASA",
-      "category": "Environnement"
     },
     {
       "title": "Les falaises de glace de l'Antarctique s'effondrent plus vite que prévu, mais là une torsion",
@@ -2147,6 +2203,46 @@
       "category": "Exploration"
     },
     {
+      "title": "Google met des chats AI directement sur la page d'accueil",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "date": "2026-11-19T15:05:06-05:00",
+      "description": "Google met à jour sa page d'accueil pour inclure les recherches d'IA. Dans un billet sur X, le vice-président du produit de Google, Robby Stein, montre comment vous pouvez maintenant ouvrir une barre latérale pliante pour voir et continuer vos conversations AI. Basé sur le GIF partagé par Stein, il semble que vous pouvez ouvrir la barre latérale en cliquant sur [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "La réglementation des feux verts de FAC permet aux prisons de bloquer les signaux des téléphones cellulaires",
+      "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "date": "2026-11-19T14:40:28-05:00",
+      "description": "La Commission fédérale des communications a voté à l'unanimité pour permettre aux prisons d'État et locales de bloquer les téléphones cellulaires. Dans une annonce de jeudi, la FCC soutient que la règle aidera à combattre un «flux de téléphones cellulaires de contrebande» utilisé pour commettre des crimes en prison. Les jammers sont généralement interdits en vertu de l'article 333 de la Loi sur les communications de 1934, bien qu'ils [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Sony-1000XM5 sont moins chers que jamais pour le Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "date": "2026-11-19T14:35:52-05:00",
+      "description": "À mon époque, les seules ventes de Dorbuster étaient dans les magasins de détail. Mais maintenant, vous pouvez obtenir des prix ultra-bas avant Black Friday que vous souhaitiez magasiner en magasin ou en ligne. Un qui se distingue est la génération précédente Sony WH-1000XM5 casque de parement de bruit, qui sont marqués à leur plus bas prix jamais, seulement 169,99 $ au meilleur [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Vous pouvez maintenant acheter une machine à vapeur sans se mettre sur une liste d'attente",
+      "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "date": "2026-11-19T14:33:22-05:00",
+      "description": "Valve a annoncé quelques mises à jour sur la disponibilité de Steam Machine aujourd'hui, y compris de bonnes nouvelles si vous voulez en acheter une dès maintenant et de mauvaises nouvelles potentielles sur l'approvisionnement futur en raison de RAMaggedon. La bonne nouvelle : vous pouvez maintenant acheter une machine à vapeur de 512 Go sans vous mettre sur une liste d'attente. Initialement, les acheteurs intéressés devaient obtenir sur la liste d'attente de Valve [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Certains créateurs sont sceptiques de Instagrams nouveau programme d'affiliation",
+      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "date": "2026-11-19T14:12:30-05:00",
+      "description": "Depuis des années, les influenceurs ont trouvé des solutions de rechange sur les médias sociaux pour comprendre comment partager les liens d'affiliation avec les abonnés. Une nouvelle intégration entre Instagram et Amazon a été annoncée plus tôt ce mois-ci comme un moyen de faciliter pour les influenceurs de faire de l'argent à partir de liens d'affiliation - mais certains créateurs de [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Sonos prend jusqu'à 30% de haut-parleurs et de barres sonores en ce moment",
       "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
       "date": "2026-11-19T13:33:08-05:00",
@@ -2155,44 +2251,20 @@
       "category": "Technologie"
     },
     {
-      "title": "Gemini sur Mac peut maintenant utiliser votre ordinateur",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "date": "2026-11-19T13:21:13-05:00",
-      "description": "L'application Gemini de Google pour macOS a maintenant l'utilisation de l'ordinateur, ce qui signifie qu'il peut vous aider \"à obtenir des tâches multi-étapes effectuées sur vos fichiers locaux, applications de bureau, et le Web\", dit la société. Google suggère que la fonctionnalité pourrait être utile pour des choses comme accélérer les workflows, remplir des formulaires, faire des présentations, et énumérer des articles à vendre. Les utilisateurs [...]",
-      "source": "The Verge",
-      "category": "Technologie"
+      "title": "Attraper plus de plastique que de poisson en Sierra Leone",
+      "link": "https://news.mongabay.com/2026/11/catching-more-plastic-than-fish-in-sierra-leones-coastal-mahera/",
+      "date": "19 Nov 2026 19:22:12 +0000",
+      "description": "PORT LOKO, Sierra Leone — Un samedi matin pluvieux, le pêcheur de 57 ans, le shérif Kamara, s'est assis entre autres membres de la communauté à l'intérieur d'un abri de fortune en bois à la plage Mahera de Sierra Leone. Le long du rivage, des bouteilles de plastique, des sachets d'eau, des sacs et des emballages de nourriture sont éparpillés parmi les vieilles chaussures et la mousse. Pour [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
-      "title": "Images échappées révèlent Motorolas large pliable",
-      "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-      "date": "2026-11-19T13:19:03-05:00",
-      "description": "De nouvelles images divulguées du prochain smartphone pliable de Motorola partagé par SammyGuru ajoutent plus de crédibilité à la théorie que l'écran large pourrait être la conception par défaut pour les pliables allant de l'avant. À la suite d'une seule prise de vue partagée hier avec Reddit, cette nouvelle récolte d'images révèle le Motorola Razr Flex sous plusieurs angles en deux finitions avec son [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Oh, Elon Musk est modéré maintenant, n'est-ce pas ?",
-      "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-      "date": "2026-11-19T13:15:00-05:00",
-      "description": "Il y a un peu moins de deux ans, Elon Musk se tenait sur scène à la Conservative Political Action Conference, des lunettes de soleil sur un chapeau noir de MAGA perché sur sa tête, portant une tronçonneuse. Hier soir, Musk a appelé au New York Times DealBook Summit et s'est éloigné du mouvement du président Donald Trump. \"Je pense être idéologiquement assez modéré. [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le leader de l'appareil photo iPhone d'Apples aurait quitté l'entreprise",
-      "link": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
-      "date": "2026-11-19T13:13:05-05:00",
-      "description": "Jon McCormack, vice-président de l'ingénierie du logiciel de caméra d'Apple, a quitté l'entreprise le mois dernier, rapporte Bloomberg. Selon ses sources, McCormack a pris sa retraite « fin octobre après plus de huit ans dans l'entreprise ». Apple n'aurait pas encore nommé un nouveau vice-président pour McCormack, qui a supervisé ses applications Camera et [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Amazon pousse des alertes contre la loi sur la protection de la livraison de NYC.",
-      "link": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
-      "date": "2026-11-19T12:58:01-05:00",
-      "description": "Amazon sert des notifications push et des bannières sur sa page d'accueil à certains utilisateurs, avertissant qu'une nouvelle facture pourrait ajouter jusqu'à 5 $ par commande à New York. La loi sur la protection de la livraison, qui est soutenue par le maire Zohran Mamdani et un certain nombre de groupes de travail, y compris les Teamsters, aurait besoin [...]",
-      "source": "The Verge",
-      "category": "Technologie"
+      "title": "Les autorités péruviennes auraient augmenté leur nombre à plus de 12 000 tarantules lors de saisies récentes.",
+      "link": "https://news.mongabay.com/short-article/2026/11/peruvian-officials-reportedly-increase-tally-to-more-than-12000-tarantulas-in-recent-seizure/",
+      "date": "19 Nov 2026 19:11:03 +0000",
+      "description": "Selon les médias sud-américains, les autorités péruviennes ont mis à jour le nombre de tarantules saisies dans une affaire récente de trafic d'espèces sauvages, qui est passé de 3 000 à plus de 12 000. Le dénombrement final de 12 796 araignées saisies aurait été annoncé par la Police nationale péruvienne (PNP). Selon les autorités, ces arachnides valent plus de la moitié [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
       "title": "Il n'y a pas de retour à la façon dont il était avant le choc énergétique de la guerre d'Iran, dit l'AIE",
@@ -2223,22 +2295,6 @@
       "link": "https://news.mongabay.com/short-article/2026/11/how-one-tiny-island-made-conservation-work/",
       "date": "19 Nov 2026 12:34:42 +0000",
       "description": "Dans la Manche de Bristol, nichée entre le Pays de Galles et l'Angleterre, l'île accidentée de Lundy est l'une des histoires les plus pionnières en matière de conservation. Regardez l'histoire.",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "L'Amazonie du centre-nord a connu une «augmentation de l'armement» des températures: étude",
-      "link": "https://news.mongabay.com/2026/11/central-north-amazonia-has-experienced-an-alarming-increase-in-temperatures-study/",
-      "date": "19 Nov 2026 12:00:27 +0000",
-      "description": "Une petite équipe de scientifiques comptabilisait les plantes pour un recensement forestier près de Manaus dans le nord du Brésil lorsque la saison des incendies a commencé en octobre 2023. Certains jours, la fumée était trop épaisse à voir; d'autres jours, il était trop chaud pour porter des masques conventionnels, de sorte qu'Aretha Guimarães, biologiste au Brésil, [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Les espèces menacées constituent la moitié des prises de requins au port de pêche indonésien, selon une étude",
-      "link": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
-      "date": "19 Nov 2026 10:57:05 +0000",
-      "description": "JAKARTA — A Muncar, un port de pêche occupé sur la côte sud-est de l'Indonésie, province de Java Est, les requins peuvent aller chercher jusqu'à 1,5 million de roupies chacun, soit environ 82 $. Cependant, leur valeur pour les communautés de pêcheurs a un coût pour la conservation : Espèces menacées, y compris la tête de marteaux pétoncles (Sphyrna lewini) en voie de disparition, [...]",
       "source": "Mongabay",
       "category": "Environnement"
     }
