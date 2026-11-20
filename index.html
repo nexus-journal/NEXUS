@@ -5,9 +5,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#080e18">
-<meta name="description" content="NEXUS Intelligence V14 Ultimate Premium — centre personnel de veille et d'information.">
+<meta name="description" content="NEXUS Intelligence V14 Ultimate · REBUILD — centre personnel de veille et d'information.">
 <link rel="manifest" href="./manifest.json">
-<title>NEXUS V14 — Intelligence V14 Ultimate Premium</title>
+<title>NEXUS Intelligence V14 Ultimate Premium</title>
 <style>
 :root{
 --bg:#080e18;--panel:#101b2b;--panel2:#16263a;
@@ -1178,32 +1178,11 @@ document.getElementById("time").addEventListener("change",e=>localStorage.setIte
 document.getElementById("articleCount").value=localStorage.getItem("nexusCount")||"8";
 document.getElementById("articleCount").addEventListener("change",e=>{localStorage.setItem("nexusCount",e.target.value);if(currentPage==="news")renderNews()});
 
-/* SERVICE WORKER — MISE À JOUR V14 (conserve les notifications Push) */
+/* SERVICE WORKER — CONSERVÉ POUR LES NOTIFICATIONS PUSH */
 if("serviceWorker" in navigator){
-  window.addEventListener("load", async()=>{
-    try{
-      const reg=await navigator.serviceWorker.register("./sw.js?v=nexus-v14-refresh",{updateViaCache:"none"});
-      try{await reg.update()}catch(e){}
-      if(reg.waiting){reg.waiting.postMessage({type:"SKIP_WAITING"});}
-      reg.addEventListener("updatefound",()=>{
-        const worker=reg.installing;
-        if(!worker)return;
-        worker.addEventListener("statechange",()=>{
-          if(worker.state==="installed"&&navigator.serviceWorker.controller){
-            try{worker.postMessage({type:"SKIP_WAITING"})}catch(e){}
-          }
-        });
-      });
-      let reloaded=false;
-      navigator.serviceWorker.addEventListener("controllerchange",()=>{
-        if(reloaded)return;reloaded=true;
-        if(!sessionStorage.getItem("nexus_sw_v14_reload")){
-          sessionStorage.setItem("nexus_sw_v14_reload","1");location.reload();
-        }
-      });
-      console.log("NEXUS : Service Worker V14 vérifié");
-    }catch(e){console.error("NEXUS Service Worker :",e)}
-  });
+window.addEventListener("load",()=>{
+navigator.serviceWorker.register("./sw.js").then(()=>console.log("NEXUS : service worker actif")).catch(e=>console.error("NEXUS :",e));
+});
 }
 
 /* NEXUS V10 — OUTILS TRANSVERSAUX */
@@ -1322,7 +1301,7 @@ const TROY_OUNCE_GRAMS=31.1034768;const METALS=[{label:"Or",symbol:"XAU",code:"X
 let marketCache={};
 async function fetchJSON(url){const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),9000);try{const r=await fetch(url,{signal:controller.signal,cache:"no-store"});if(!r.ok)throw Error("HTTP "+r.status);return await r.json()}finally{clearTimeout(timer)}}
 function quoteCard(label,price,change,source,updated){const pct=Number(change);const cls=Number.isFinite(pct)?(pct>=0?"good":"bad"):"source";return `<div class="market-card"><div class="label">${v13Esc(label)}</div><strong>${price==null?"Indisponible":v13Esc(price)}</strong><span class="${cls}">${Number.isFinite(pct)?(pct>0?"+":"")+pct.toFixed(2)+" %":"Variation indisponible"}</span><small>${v13Esc(source||"")} · ${v13Esc(updated||"")}</small></div>`}
-async function loadYahooQuote(item){let data,lastErr;for(const host of ["query1.finance.yahoo.com","query2.finance.yahoo.com"]){try{const url="https://"+host+"/v8/finance/chart/"+encodeURIComponent(item.symbol)+"?range=5d&interval=1d";data=await fetchJSON(url);const r=data?.chart?.result?.[0];if(!r)throw Error("Réponse de marché vide");const q=r.indicators?.quote?.[0],closes=(q?.close||[]).filter(Number.isFinite),last=closes.at(-1),prev=closes.at(-2);if(!Number.isFinite(last))throw Error("Cours absent");const quote={label:item.label,price:last.toLocaleString("fr-FR",{maximumFractionDigits:2}),change:prev?((last-prev)/prev*100):null,raw:last,updated:r.meta?.regularMarketTime?new Date(r.meta.regularMarketTime*1000).toLocaleString("fr-FR"):"Dernière séance",source:"Yahoo Finance · "+host};try{localStorage.setItem("nexusMarketQuote_"+item.label,JSON.stringify(quote))}catch(_){}return quote}catch(e){lastErr=e}}throw lastErr||Error("Fournisseurs indisponibles")}
+async function loadYahooQuote(item){let lastErr;const endpoints=["https://query1.finance.yahoo.com/v8/finance/chart/"+encodeURIComponent(item.symbol)+"?range=5d&interval=1d","https://query2.finance.yahoo.com/v8/finance/chart/"+encodeURIComponent(item.symbol)+"?range=5d&interval=1d"];for(const url of endpoints){try{const data=await fetchJSON(url),r=data?.chart?.result?.[0];if(!r)throw Error("Réponse de marché vide");const q=r.indicators?.quote?.[0],closes=(q?.close||[]).filter(Number.isFinite),last=closes.at(-1),prev=closes.at(-2);if(!Number.isFinite(last))throw Error("Cours absent");const quote={label:item.label,price:last.toLocaleString("fr-FR",{maximumFractionDigits:2}),change:prev?((last-prev)/prev*100):null,raw:last,updated:r.meta?.regularMarketTime?new Date(r.meta.regularMarketTime*1000).toLocaleString("fr-FR"):"Dernière séance",source:"Yahoo Finance"};try{localStorage.setItem("nexusMarketQuote_"+item.label,JSON.stringify(quote))}catch(_){}return quote}catch(e){lastErr=e}}for(const url of endpoints){try{const data=await fetchJSON("https://corsproxy.io/?url="+encodeURIComponent(url)),r=data?.chart?.result?.[0];if(!r)throw Error("Réponse proxy vide");const q=r.indicators?.quote?.[0],closes=(q?.close||[]).filter(Number.isFinite),last=closes.at(-1),prev=closes.at(-2);if(!Number.isFinite(last))throw Error("Cours absent");const quote={label:item.label,price:last.toLocaleString("fr-FR",{maximumFractionDigits:2}),change:prev?((last-prev)/prev*100):null,raw:last,updated:r.meta?.regularMarketTime?new Date(r.meta.regularMarketTime*1000).toLocaleString("fr-FR"):"Dernière séance",source:"Yahoo Finance · relais CORS"};try{localStorage.setItem("nexusMarketQuote_"+item.label,JSON.stringify(quote))}catch(_){}return quote}catch(e){lastErr=e}}try{const cached=JSON.parse(localStorage.getItem("nexusMarketQuote_"+item.label)||"null");if(cached)return {...cached,source:(cached.source||"Cache local")+" · données précédemment récupérées",cached:true}}catch(_){}throw lastErr||Error("Fournisseurs indisponibles")}
 async function loadMetalQuote(item,eurRate){const d=await fetchJSON("https://api.gold-api.com/price/"+item.symbol);const usdOz=Number(d.price);if(!Number.isFinite(usdOz)||!(eurRate>0))throw Error("Cours ou taux de change absent");const eurOz=usdOz*eurRate,eurGram=eurOz/TROY_OUNCE_GRAMS;const quote={label:item.label,code:item.code,price:eurGram,eurGram,eur10g:eurGram*10,eur100g:eurGram*100,eurKg:eurGram*1000,eurOz,usdOz,change:Number.isFinite(Number(d.ch)?Number(d.ch):Number(d.change))?Number(d.ch??d.change):null,updated:d.updated_at?new Date(d.updated_at).toLocaleString("fr-FR"):"Horodatage fournisseur",source:"Gold-API · conversion Frankfurter",currency:"EUR"};try{localStorage.setItem("nexusMarketMetal_"+item.label,JSON.stringify(quote))}catch(_){}return quote}
 function metalMoney(value,digits=2){return Number(value).toLocaleString("fr-FR",{minimumFractionDigits:digits,maximumFractionDigits:digits})+" €"}
 function renderMetalCard(r){const pct=Number(r.change),change=Number.isFinite(pct)?`<div class="metal-change ${pct>=0?"good":"bad"}">${pct>0?"+":""}${pct.toFixed(2)} % · variation fournisseur</div>`:`<div class="metal-change source">Variation indisponible</div>`;return `<article class="metal-card"><div class="metal-card-head"><span class="metal-card-name">${v13Esc(r.label.toUpperCase())}</span><span class="metal-card-symbol">${v13Esc(r.code)}</span></div><div class="metal-main-price">${metalMoney(r.eurGram,3)}</div><div class="metal-main-unit">par gramme · cours spot indicatif</div><div class="metal-price-grid"><div class="metal-price-cell"><small>10 GRAMMES</small><strong>${metalMoney(r.eur10g,2)}</strong></div><div class="metal-price-cell"><small>100 GRAMMES</small><strong>${metalMoney(r.eur100g,2)}</strong></div><div class="metal-price-cell"><small>1 KILOGRAMME</small><strong>${metalMoney(r.eurKg,2)}</strong></div><div class="metal-price-cell"><small>1 ONCE TROY</small><strong>${metalMoney(r.eurOz,2)}</strong></div></div>${change}<div class="metal-card-foot">Référence source : ${Number(r.usdOz).toLocaleString("fr-FR",{maximumFractionDigits:2})} $/oz t · ${v13Esc(r.source)}<br>Dernière donnée : ${v13Esc(r.updated)}</div></article>`}
