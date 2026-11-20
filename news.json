@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T21:31:46.042153+00:00",
-  "count": 288,
+  "updated_at": "2026-11-20T22:19:33.060591+00:00",
+  "count": 286,
   "articles": [
     {
       "title": "Les sept fondateurs anthropiques qui sont sur le point de devenir multimilliardsaires",
@@ -555,14 +555,6 @@
       "category": "Sciences"
     },
     {
-      "title": "L'anthropie augmente de plus de 100 milliards de dollars dans l'IPO. Et Dems nomme Jeffries comme conférencier à la Chambre",
-      "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-      "date": "Thu, 19 Nov 2026 07:26:01 -0500",
-      "description": "Malgré l'inquiétude croissante concernant une éventuelle bulle d'IA, Anthropic a eu une offre publique initiale record. Et Hakeem Jeffries pourrait devenir le premier président noir de la Chambre.",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
       "title": "Le report du rapport du GIEC menacera l'effort mondial pour faire face à la crise climatique, affirme le grand scientifique",
       "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
       "date": "Thu, 19 Nov 2026 07:16:45 GMT",
@@ -601,14 +593,6 @@
       "description": "Cette semaine, les États-Unis ont perdu leur statut d'élimination de la rougeole, une reconnaissance officielle que la maladie infectieuse est endémique dans le pays après avoir été éliminée pendant 26 ans. Pour savoir ce que cela signifie en termes pratiques pour les citoyens, Ian Sample entend parler de la journaliste américaine Jessica Glenza. Elle explique pourquoi il vient à un moment déjà difficile pour le secrétaire de la santé, Robert F Kennedy Jr, et son mouvement Make America Healthy Regain,",
       "source": "The Guardian",
       "category": "Sciences"
-    },
-    {
-      "title": "Investisseurs brouillent pour un morceau de l'IA géant Anthropic dans blockbuster IPO",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-      "date": "Thu, 19 Nov 2026 05:00:00 -0500",
-      "description": "Les parts dans le fabricant du populaire Claude modèle d'intelligence artificielle ont bondi dans la première journée de trading le jeudi Nasdaq.",
-      "source": "NPR",
-      "category": "Économie"
     },
     {
       "title": "Les falaises de glace de l'Antarctique s'effondrent plus vite que prévu, mais là une torsion",
@@ -723,10 +707,26 @@
       "category": "Environnement"
     },
     {
+      "title": "Affaire Michel Zecler : le récit mensonger des policiers mis à nu au procès",
+      "link": "https://www.lefigaro.fr/actualite-france/affaire-michel-zecler-le-recit-mensonger-des-policiers-mis-a-nu-au-proces-20261120",
+      "date": "Fri, 20 Nov 2026 23:00:56 +0100",
+      "description": "La circonstance aggravante de racisme, écartée au stade de l’instruction, a été retenue par le verdict mais les peines sont inférieures aux réquisitions.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Des condamnations allant d'un an à deux ans de prison ferme pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
       "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 20 Nov 2026 22:25:20 +0100",
+      "date": "Fri, 20 Nov 2026 22:58:34 +0100",
       "description": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre. Elle a finalement retenu la circonstance aggravante de racisme.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique",
+      "link": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 20 Nov 2026 22:55:57 +0100",
+      "description": "Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.",
       "source": "franceinfo",
       "category": "France"
     },
@@ -739,12 +739,92 @@
       "category": "France"
     },
     {
-      "title": "Interpellation violente de Michel Zecler : les trois policiers condamnés à cinq ans de prison, le caractère raciste de l’agression retenu",
+      "title": "Interpellation violente de Michel Zecler : de un an à deux ans de prison ferme pour les trois policiers, le caractère raciste de l’agression retenu",
       "link": "https://www.lemonde.fr/societe/article/2026/11/20/interpellation-violente-de-michel-zecler-les-trois-policiers-condamnes-a-cinq-ans-de-prison-le-caractere-raciste-de-l-agression-retenue_6813712_3224.html",
       "date": "Fri, 20 Nov 2026 22:10:49 +0100",
       "description": "En novembre 2020, Michel Zecler avait subi un passage à tabac dans l’entrée de son studio de musique par les trois policiers qui voulaient le contrôler pour non-port du masque – le pays connaissait alors son deuxième confinement pour endiguer la pandémie de Covid-19.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "L'effet quantique pourrait inverser la gravité et violer la théorie de la relativité de Einstein.",
+      "link": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 20 Nov 2026 22:00:00 +0000",
+      "description": "Deux recherches mathématiques ont conçu un moyen de faire la gravité produire la répulsion entre les objets, en rompant avec une compréhension de longue date de cette force",
+      "source": "New Scientist",
+      "category": "Sciences"
+    },
+    {
+      "title": "Google lance une nouvelle page d'accueil avec l'historique du chat AI et aucun bouton de recherche",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "date": "Fri, 20 Nov 2026 21:58:29 +0000",
+      "description": "La recherche Google facilite encore l'accès aux outils d'IA sur la page de recherche.",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "Nvidia fait face au régulateur américain.",
+      "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+      "date": "Fri, 20 Nov 2026 21:58:08 GMT",
+      "description": "L'enquête de la Commission des valeurs mobilières ajoute aux difficultés rencontrées par le groupe des puces après la démission de Jensen Huang",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
+      "link": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
+      "date": "Fri, 20 Nov 2026 21:54:13 GMT",
+      "description": "Les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020 ont été condamnés à des peines de un à deux ans de prison ferme. L'accusation avait de son côté requis, jeudi, entre quatre et six ans de prison ferme.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Les stocks de technologie américains plongent dans le marché des ours la semaine la plus sombre depuis la crise de Covid-19",
+      "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+      "date": "Fri, 20 Nov 2026 21:52:25 GMT",
+      "description": "Parts dans Anthropic et Nvidia tumble comme peurs sur l'IA boom de dépenses poignée Wall Street",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Comment diffuser GTA 6 sur votre iPhone, iPad ou Mac",
+      "link": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac/",
+      "date": "Fri, 20 Nov 2026 21:50:12 +0000",
+      "description": "Si vous êtes excité par GTA 6, les chances sont que vous voulez continuer à jouer quand vous êtes loin de votre console.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Meta reconsidère l'objectif net zéro 2030 au milieu des émissions enregistrées des centres de données sur l'IA",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "date": "Fri, 20 Nov 2026 21:47:10 +0000",
+      "description": "Meta est un objectif de durabilité à l'horizon 2030. D'autres suivront - ils?",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "Génocide des Rohingya : la Cour internationale de justice « confirme qu’elle est indubitablement la boussole du droit international »",
+      "link": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+      "date": "Fri, 20 Nov 2026 21:38:52 +0100",
+      "description": "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, cet arrêt pourrait faire jurisprudence.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Nasdaq efface tous les gains de 2026 comme AI vend-off amortit Anthropics deuxième jour de trading",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "date": "Fri, 20 Nov 2026 21:38:17 GMT",
+      "description": "Le Nasdaq a perdu des billions de valeur, avec la start-up AI, les IPO n'ont pas réussi à le soutenir car les investisseurs s'interrogent sur d'énormes sommes versées dans la construction de l'IA. Alors que les actions d'Anthropic s'effondrent au cours de sa deuxième journée de trading, le marché boursier plus large s'enrichit. Vendredi, le Composite Nasdaq a effacé tous ses gains pour 2026 et a fermé 5% de sa valeur le 1er janvier. La moyenne industrielle Dow Jones",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "Zscaler stock saute 18% sur rapport que CrowdStrike dans les pourparlers pour acheter fournisseur de sécurité",
+      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "date": "Fri, 20 Nov 2026 21:35:24 GMT",
+      "description": "Les entreprises de cybersécurité cherchent des acquisitions à l'ère de l'IA.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Les ventes de \"GTA VI\" ont généré 3,79 milliards de dollars le jour de sa sortie, selon l'éditeur du jeu vidéo",
@@ -763,12 +843,12 @@
       "category": "France"
     },
     {
-      "title": "Zscaler stock saute 20% sur rapport que CrowdStrike dans les pourparlers pour acheter fournisseur de sécurité",
-      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-      "date": "Fri, 20 Nov 2026 21:25:52 GMT",
-      "description": "Les entreprises de cybersécurité cherchent des acquisitions à l'ère de l'IA.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "Irak Le Premier ministre cible les bastions des milices pour affirmer le contrôle de l'État",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 21:28:25 +0000",
+      "description": "Le Premier ministre irakien Ali al-Zaidi a déclaré qu'une opération à Jurf al-Sakhar marque le début d'une campagne nationale pour affirmer le contrôle de l'État.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Quelle est l'hypothèse de Riemann et pourquoi sa solution est-elle si monumentale ?",
@@ -854,7 +934,7 @@
       "title": "La preuve de l'hypothèse de Riemann est presque certainement vrai, les mathématiciens indépendants attestent",
       "link": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
       "date": "Fri, 20 Nov 2026 21:00:00 +0000",
-      "description": "Les chercheurs sont sur le point de terminer leur vérification d'une solution revendiquée au problème le plus important non résolu en mathématiques",
+      "description": "Les chercheurs sont près d'achever leur vérification d'une solution revendiquée au problème le plus important non résolu en mathématiques",
       "source": "Scientific American",
       "category": "Sciences"
     },
@@ -883,7 +963,7 @@
       "category": "Monde"
     },
     {
-      "title": "Les experts mettent en garde: Presque tout le monde en AI est vulnérable à un piège au miel en ce moment",
+      "title": "Les experts mettent en garde: Presque tout le monde dans l'IA est sensible à un régime de piège au miel en ce moment",
       "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
       "date": "Fri, 20 Nov 2026 20:58:29 +0000",
       "description": "Les techniciens construisent des technologies qui peuvent faire progresser tous les aspects du monde, mais peuvent - ils protéger leurs cœurs? C'est la vulnérabilité que les pots de miel exploitent.",
@@ -923,14 +1003,6 @@
       "category": "Défense"
     },
     {
-      "title": "Trump dit qu'il a encore confiance en Lutnick",
-      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-      "date": "Fri, 20 Nov 2026 20:52:08 GMT",
-      "description": "Le président Donald Trump, à la demande de Eamon Javers de la CNBC, a déclaré qu'il n'avait pas perdu confiance en Howard Lutnick, secrétaire au Commerce.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Le Royaume-Uni et l'UE peuvent-ils tourner la page sur le Brexit?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
       "date": "Fri, 20 Nov 2026 20:51:19 +0000",
@@ -959,14 +1031,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
       "date": "Fri, 20 Nov 2026 20:45:09 +0000",
       "description": "Des enfants déplacés se sont rassemblés dans le camp de réfugiés d'Al-Nuseirat pour célébrer la Journée mondiale des enfants.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "La guerre au Soudan laisse les enfants handicapés privés d ' éducation",
-      "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 20:45:08 +0000",
-      "description": "Les écoles des forces de guerre, les centres de réadaptation doivent fermer, obligeant les enfants handicapés à perdre l ' accès à l ' éducation.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -1051,14 +1115,6 @@
       "category": "Monde"
     },
     {
-      "title": "Sommet à Shenzhen : Donald Trump assure que ses relations \"fantastiques\" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis",
-      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 20 Nov 2026 20:33:18 +0100",
-      "description": "Les dirigeants américain, russe et chinois ont échangé pendant environ 1h20 jeudi en Chine. Ils se sont mis d'accord sur une \"déclaration de paix\" à l'issue de cette rencontre.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Ukraine, Soudan, Gaza: le nombre d’enfants exposés à la guerre atteint des records dans le monde",
       "link": "https://www.rfi.fr/fr/monde/20261120-ukraine-soudan-gaza-le-nombre-d-enfants-expos%C3%A9s-%C3%A0-la-guerre-atteint-des-records-dans-le-monde",
       "date": "Fri, 20 Nov 2026 20:32:38 GMT",
@@ -1131,12 +1187,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Donald Trump menace la taxe sur les centres de données construits en dehors des États-Unis",
-      "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-      "date": "Fri, 20 Nov 2026 20:17:29 GMT",
-      "description": "Le président dit que la lutte consiste à empêcher Pékin de prendre la tête du développement de la technologie de l'IA",
-      "source": "Financial Times",
-      "category": "Économie"
+      "title": "Organisations présentes, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ?",
+      "link": "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 20 Nov 2026 20:11:44 +0100",
+      "description": "Le ministre de l'Intérieur a demandé aux préfets d'être \"particulièrement vigilants\" samedi, nouvelle journée de mobilisation sociale en France qui coïncide avec le huitième anniversaire du mouvement des gilets jaunes.",
+      "source": "franceinfo",
+      "category": "France"
     },
     {
       "title": "Une théorie radicale sur l'Univers vient de passer quelques tests clés. Qu'est-ce que ça veut dire ?",
@@ -1203,6 +1259,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Perspectives des marchés de prévision pour les actions en 2026 dims au milieu de la vente de l'IA",
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "date": "Fri, 20 Nov 2026 19:59:03 GMT",
+      "description": "Il semble que les S&P 500 traverseront 8 000, qui étaient autrefois au nord de 70 %, sont extrêmement bas sur la plate-forme Kalshi.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Daniel Ek soutient la start-up de puissance de fusion du chercheur AI. Voilà ce qu'ils construisent.",
       "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "date": "Fri, 20 Nov 2026 19:53:41 +0000",
@@ -1240,14 +1304,6 @@
       "date": "Fri, 20 Nov 2026 19:46:18 +0100",
       "description": "La gauche sénatoriale a d’ores et déjà annoncé qu’elle saisirait en commun le Conseil constitutionnel pour faire barrage à la promulgation de ce qu’elle considère comme l’instauration d’un « permis de tuer » pour les policiers.",
       "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Affaire Michel Zecler : le récit mensonger des policiers mis à nu au procès",
-      "link": "https://www.lefigaro.fr/actualite-france/affaire-michel-zecler-le-recit-mensonger-des-policiers-mis-a-nu-au-proces-20261120",
-      "date": "Fri, 20 Nov 2026 19:45:22 +0100",
-      "description": "Les débats ont permis de constater que la circonstance aggravante de racisme, écartée au stade de l’instruction, méritait d’être débattue de manière contradictoire.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1291,14 +1347,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'Armée retarde la détonation de l'azide de plomb \"catastrophiquement dangereux\" au milieu de la peur, de la colère",
-      "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "date": "Fri, 20 Nov 2026 19:21:50 +0000",
-      "description": "La modélisation prédit que le panache de plomb neurotoxique pourrait atteindre jusqu'à 100 milles de distance.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
       "title": "La Maison Blanche supprime le chef de la cybersécurité après une série de pannes technologiques",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 20 Nov 2026 19:03:56 GMT",
@@ -1312,14 +1360,6 @@
       "date": "Fri, 20 Nov 2026 19:02:24 GMT",
       "description": "Vivement combattue dans la rue par ses opposants qui l'assimilent à un \"permis de tuer\", l'instauration d'une présomption d'usage légal des armes par les forces de l'ordre a été définitivement adoptée au Parlement vendredi soir, à la veille d'une nouvelle journée de mobilisation sociale.",
       "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
-      "link": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 20 Nov 2026 19:01:22 +0100",
-      "description": "Yannick Jadot a annoncé quitter les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon pour la présidentielle 2027. Le désormais ex-membre du parti était déjà suspendu pour avoir rejoint Raphaël Glucksmann.",
-      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -1353,14 +1393,6 @@
       "description": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes, fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Le premier lecteur CD de Teenage Engineering ressemble à une platine",
-      "link": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/",
-      "date": "Fri, 20 Nov 2026 18:53:49 +0000",
-      "description": "Le EP/BC-1 coûte 329 $ et marque le début d'une nouvelle ligne d'équipement audio \"diffusé\".",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "France: le Parlement adopte définitivement la présomption d'usage légitime des armes par les forces de l'ordre",
@@ -1425,14 +1457,6 @@
       "description": "Une équipe humaine-AI a peut-être résolu le plus gros problème en mathématiques. Mais cela changera-t-il quelque chose pour nous ?",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Chez Accor, le premier actionnaire exige le départ du PDG Sébastien Bazin",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/20/chez-accor-le-premier-actionnaire-exige-le-depart-du-pdg_6813670_3234.html",
-      "date": "Fri, 20 Nov 2026 18:00:02 +0100",
-      "description": "Le fonds britannique Parvus, qui possède 14,1 % du géant français de l’hôtellerie, réclame l’éviction de Sébastien Bazin, menaçant de demander sa révocation lors de la prochaine assemblée générale.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Archives Internet Les employés se syndiquent",
@@ -1515,6 +1539,14 @@
       "category": "Défense"
     },
     {
+      "title": "S&P 500 coule 3,7 % et le composite Nasdaq est négatif pour l'année",
+      "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "date": "Fri, 20 Nov 2026 17:11:29 -0500",
+      "description": "Les stocks d'IA ont des valeurs de marché élevées et ont un impact beaucoup plus important sur la direction du marché. Ils ont été responsables des grands gains de Wall Street cette année et sont maintenant derrière la grande diapositive pour le marché.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Les 23 meilleures affaires du vendredi noir précoce : nos choix ultimes (2026)",
       "link": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
       "date": "Fri, 20 Nov 2026 17:01:45 +0000",
@@ -1587,6 +1619,30 @@
       "category": "Économie"
     },
     {
+      "title": "Les dernières nouvelles de la conférence de presse de Trump",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+      "date": "Fri, 20 Nov 2026 16:38:21 -0500",
+      "description": "Le président Trump a donné une large conférence de presse à la suite de son voyage historique en Asie où il a rencontré le président chinois Xi et le président russe Poutine.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Les mers montantes ont forcé le village de Quinault à déménager",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+      "date": "Fri, 20 Nov 2026 16:38:13 -0500",
+      "description": "La nation indienne Quinault a déplacé son plus grand village loin des mers montantes et des tsunamis",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Impact de Trump sur une aciérie de l'Ohio",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+      "date": "Fri, 20 Nov 2026 16:38:11 -0500",
+      "description": "L'usine d'acier géante de Middletown, en Ohio, prévoyait de s'éloigner du coke, une forme raffinée de charbon. Le changement aurait réduit la pollution atmosphérique dangereuse -- et les émissions de gaz à effet de serre. Mais ce plan a changé sous le président Trump",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Cérémonie de remise des distinctions honorifiques de la NASA",
       "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
       "date": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1603,14 +1659,6 @@
       "category": "Défense"
     },
     {
-      "title": "Les actions anthropiques s'affaiblissent le deuxième jour de la négociation en tant que bobine de marché provenant de la vente d'IA",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "date": "Fri, 20 Nov 2026 16:26:07 GMT",
-      "description": "Nasdaq efface les gains de 2026 et les marchés asiatiques enregistrent la pire semaine depuis 2020 alors que les investisseurs s'interrogent sur les sommes énormes qui sont versées dans la construction de l'IA Qui sont les sept co-fondateurs d'Anthropic, qui valent maintenant 180 milliards de dollars ? Au début de sa deuxième journée de trading, Anthropic est tombé, car son IPO record n'a pas réussi à endiguer une vente dans les sociétés liées à AI. Alors qu'ils ont chuté, le marché boursier plus large est tombé avec eux, le Nasdaq Composite effaçant tous ses gains pour 2026.",
-      "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
       "title": "Les forces iraquiennes entrent dans la forteresse de la puissante milice de l'Iran",
       "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
       "date": "Fri, 20 Nov 2026 16:18:21 +0000",
@@ -1624,14 +1672,6 @@
       "date": "Fri, 20 Nov 2026 16:16:06 +0000",
       "description": "Intuit a acquis l'entreprise en 2021 pour environ 12 milliards de dollars, donc il semble que Bending Spons obtient une bonne affaire.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Valve dit qu'il pourrait devoir augmenter le prix des machines à vapeur limitées à l'offre",
-      "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "date": "Fri, 20 Nov 2026 16:11:21 +0000",
-      "description": "\"Nous ne connaissons pas encore le nombre que nous pouvons faire, et à quel prix...\"",
-      "source": "Ars Technica",
       "category": "Technologie"
     },
     {
@@ -1691,6 +1731,14 @@
       "category": "Sciences"
     },
     {
+      "title": "Comme réservoir d'actions anthropiques, les investisseurs brouillent à la couverture. Ça pourrait être très cher.",
+      "link": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
+      "date": "Fri, 20 Nov 2026 15:12:40 GMT",
+      "description": "Liste des options anthropiques lundi. Ils seront probablement coûteux",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Le Sénat des États-Unis approuve un projet de loi visant à accélérer l'examen des projets énergétiques et des datacenters",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
       "date": "Fri, 20 Nov 2026 15:09:09 GMT",
@@ -1719,14 +1767,6 @@
       "link": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261120-les-f%C3%A9minicides-la-partie-%C3%A9merg%C3%A9e-du-contr%C3%B4le-coercitif",
       "date": "Fri, 20 Nov 2026 14:46:33 GMT",
       "description": "Les féminicides font aussi des victimes invisibles : les proches des femmes assassinées, confrontées à un deuil impossible et à des embûches judiciaires. Dans 75 % des cas, le féminicide survient sans violences physiques préalables, mais au terme d'une période de contrôle coercitif : une prison invisible faite d'emprise et de violences psychologiques, explique l'historienne Christelle Taraud, qui décrit des victimes \"zombifiées\" par leur tortionnaire.",
-      "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "Gérard Depardieu et Michel Houellebecq accusés de viol en réunion et d'agressions sexuelles",
-      "link": "https://www.france24.com/fr/france/20261120-g%C3%A9rard-depardieu-et-michel-houellebecq-accus%C3%A9s-de-viol-en-r%C3%A9union-et-d-agressions-sexuelles",
-      "date": "Fri, 20 Nov 2026 14:38:36 GMT",
-      "description": "Gérard Depardieu est de nouveau accusé de viol – en réunion cette fois, avec la complicité supposée de l'écrivain Michel Houellebecq, selon des sources proches du dossier, confirmant vendredi des révélations de Mediapart. Les faits, dénoncés par une comédienne, remonteraient au tournage du film \"Thalasso\" en 2018.",
       "source": "France 24",
       "category": "France"
     },
@@ -1763,26 +1803,10 @@
       "category": "Défense"
     },
     {
-      "title": "Le marché des taureaux a un nouveau problème. L'argent intelligent se vend",
-      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "date": "Fri, 20 Nov 2026 14:15:29 GMT",
-      "description": "Les entreprises passent des rachats d'actions à l'émission d'actions, ajoutant de nouvelles fournitures. Anthropique $ 81 milliards IPO met cette demande à l'épreuve.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Les stocks de technologie américains s'effondrent sous la forme d'un trafic d'IA",
+      "title": "Les actions anthropiques baissent de 9% par jour après les débuts du marché blockbuster",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "date": "Fri, 20 Nov 2026 14:01:58 GMT",
       "description": "Les investisseurs se précipitent pour des paradis comme la vente lourde balays Wall Street",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "La conclusion de l'accord de Maga menace la paix entre les États-Unis et les Balkans",
-      "link": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
-      "date": "Fri, 20 Nov 2026 14:00:38 GMT",
-      "description": "Trente ans après les accords de paix de Dayton, les États-Unis poursuivent des intérêts concurrents qui risquent d'aggraver les tensions ethniques en Bosnie",
       "source": "Financial Times",
       "category": "Économie"
     },
@@ -1907,14 +1931,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Comment l'orchestre Noir a transformé la musique classique en mouvement culturel",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-      "date": "Fri, 20 Nov 2026 11:12:18 -0500",
-      "description": "Orchestre Noir est de retour en tournée, vendant des scènes à travers le pays et prouvant la musique classique peut être tout ce que vous voulez qu'il soit.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "«Faible et étourdissant»: la tactique secrète d'alimentation par la force de l'ICE qui a mis fin à la grève de la faim d'un père cubain",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
       "date": "Fri, 20 Nov 2026 11:00:31 GMT",
@@ -1953,14 +1969,6 @@
       "description": "Les modèles frontières peuvent exploiter les défauts logiciels plus rapidement que le monde peut les réparer. Et les risques vont bien au-delà du cyber-univers Tu n'es pas fou de sentir que le monde s'écroule aux coutures. Au cours de la dernière semaine, les pannes ont diminué les services de base à Microsoft, United Airlines et JPMorgan Chase. Vendredi, tous les départs intérieurs américains ont été soldés pour la deuxième fois depuis le 11 septembre. Et mardi, CNN a signalé les NSA, très classifiés",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "Trump tout rencontre avec Xi et Poutine mais offre peu de résultats",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-      "date": "Fri, 20 Nov 2026 10:00:00 -0500",
-      "description": "Lors d'une conférence de presse de la Maison Blanche vendredi, Trump a offert peu de résultats réels des réunions, au-delà d'une déclaration commune sur l'unité sur certaines questions.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "L'utilisation de l'électricité augmente, surtout dans ces états",
@@ -2027,14 +2035,6 @@
       "category": "Défense"
     },
     {
-      "title": "Le vaisseau spatial BepiColombo entre enfin en orbite autour de Mercure",
-      "link": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 20 Nov 2026 08:00:00 +0000",
-      "description": "Après un voyage de huit ans vers le soleil, le vaisseau spatial BepiColombo peut enfin commencer sa mission pour démasquer les nombreux mystères de la plus petite planète de notre système solaire",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "Keto diète coupe la graisse du foie de 67% en seulement 4 mois",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
       "date": "Fri, 20 Nov 2026 07:44:39 EST",
@@ -2067,28 +2067,12 @@
       "category": "Technologie"
     },
     {
-      "title": "L'exécution au Texas a pris plus d'une heure tandis que le personnel luttait pour trouver de la veine; Reinaldo Dennes gémit de douleur",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-      "date": "Fri, 20 Nov 2026 07:24:40 -0500",
-      "description": "Le même jour Dennes a reçu une injection létale, la Floride a effectué une 20e exécution record de l'année.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Les scientifiques du CERN trouvent enfin la preuve d'une décomposition des particules si rare qu'il a fallu 40 ans pour la détecter.",
       "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
       "date": "Fri, 20 Nov 2026 07:23:23 EST",
       "description": "Les scientifiques du CERN ont trouvé la première preuve d'une décroissance des particules extrêmement rare après plus de 40 ans de recherche, en détectant un processus qui devrait se produire juste une fois sur 10 milliards de particules de beauté. La percée pourrait aider les physiciens à explorer un mystérieux domaine microscopique où des particules et des forces inconnues se cachent.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "Dems vise à bloquer le financement de la guerre en Iran. Et, l'armée retarde la détonation de l'azide de plomb en Iowa",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "date": "Fri, 20 Nov 2026 07:04:57 -0500",
-      "description": "Le Congrès doit adopter une mesure de financement pour éviter une fermeture le mois prochain, offrant ainsi à Dems l'occasion de tirer parti du pouvoir. Et, l'armée dit qu'attendre pour faire exploser l'azide de plomb pourrait devenir dangereux.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Quelle est notre vulnérabilité face aux cyberattaques ?",
@@ -2222,7 +2206,7 @@
       "title": "Rockstar dit que GTA VI a gagné 3,79 milliards de dollars en sa première journée",
       "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
       "date": "2026-11-20T14:35:06-05:00",
-      "description": "GTA VI a gagné 3,79 milliards de dollars lors de son premier jour de vente, qui a établi « un nouveau record de divertissement sur n'importe quel support », selon une annonce de Rockstar Games. Le jeu a également vendu 32,5 millions en pré-commandes. « C'est avec une immense gratitude que nous entrons dans un nouveau chapitre des Jeux Rockstar avec la sortie de Grand [...]",
+      "description": "GTA VI a gagné 3,79 milliards de dollars lors de son premier jour de vente, qui a établi « un nouveau record de divertissement sur n'importe quel support », selon une annonce de Rockstar Games. Le jeu a également vendu 32,5 millions d'exemplaires de précommande. « C'est avec une immense gratitude que nous entrons dans un nouveau chapitre de Rockstar Games avec la sortie de Grand [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
