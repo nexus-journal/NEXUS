@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T06:18:09.315695+00:00",
+  "updated_at": "2026-11-20T07:38:25.771391+00:00",
   "count": 287,
   "articles": [
     {
@@ -9,14 +9,6 @@
       "description": "La société d'IA derrière Claude est sur le point de vendre ses actions sur le marché boursier américain - rendant ses fondateurs très riches.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "\"Femmeblancherie\" : le procès de la haine des femmes",
-      "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
-      "date": "Wed, 18 Nov 2026 23:18:12 GMT",
-      "description": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram \"Femmeblancherie\" au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes, plusieurs dizaines d’abonnés sont accusés d’une trentaine de crimes et délits, dont \"provocation publique à commettre un crime\". Un procès qui découle d’une idéologie très en vogue chez les jeunes, notamment sur les réseaux sociaux : le masculinisme.",
-      "source": "France 24",
-      "category": "France"
     },
     {
       "title": "Waymo tire les taxis sans chauffeur des autoroutes à travers les États-Unis après l'interdiction de Californie",
@@ -531,28 +523,12 @@
       "category": "Technologie"
     },
     {
-      "title": "La Californie cible Nvidia en Chine",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 23:04:30 GMT",
-      "description": "La sonde de Californie, où le fabricant de puces AI a son siège mondial, suit le départ de l'ancien PDG Jensen Huang.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
-      "title": "Yannick Jadot quitte les Écologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+      "title": "Yannick Jadot claque la porte des Écologistes suite au rapprochement entre Marine Tondelier et LFI",
       "link": "https://www.france24.com/fr/france/20261119-france-presidentielle-yannick-jadot-quitte-les-ecologistes-marine-tondelier-jean-luc-melenchon-glucksmann",
       "date": "Thu, 19 Nov 2026 23:04:16 GMT",
       "description": "Les fractures deviennent apparentes chez les Écologistes, au lendemain de la main tendue de Marine Tondelier à Jean-Luc Mélenchon : Yannick Jadot, sénateur et ex-candidat écologiste à la présidentielle, a annoncé qu'il quittait le parti, tout comme le député Jérémie Iordanoff. Tous les deux préfèrent soutenir Raphaël Glucksmann.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Meta's Muse Charm coûterait $300 et sera livré avec gratuit Verizon 5G",
-      "link": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
-      "date": "Thu, 19 Nov 2026 22:56:42 +0000",
-      "description": "Le gadget AI autonome de Meta ne sera pas bon marché, mais il pourrait venir avec un plan de données gratuit.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "En ce jour dans l'espace ! 19 nov. 2005: Le vaisseau japonais Hayabusa fait le 1er décollage de la surface d'un astéroïde",
@@ -569,14 +545,6 @@
       "description": "IconSwapper donne vie aux icônes de l'application de votre Mac avec des données en temps réel, des animations et des personnalisations ludiques qui rendent votre bureau plus amusant.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Sud du Liban: les agriculteurs et les commerçants en difficulté face à la «ligne jaune» tracée par Israël",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261119-sud-du-liban-les-agriculteurs-et-les-commer%C3%A7ants-en-difficult%C3%A9-face-%C3%A0-la-ligne-jaune-trac%C3%A9e-par-isra%C3%ABl",
-      "date": "Thu, 19 Nov 2026 22:22:18 GMT",
-      "description": "Au Liban, alors que l’ambassadeur des États-Unis aux Nations unies, Mike Waltz, a rencontré cette semaine les autorités du pays pour aborder le départ de la Force intérimaire des Nations unies au Liban et le désarmement du Hezbollah, la situation est de plus en plus catastrophique pour les habitants du sud du pays. Notamment ceux qui sont proches de la « ligne jaune », tracée unilatéralement par l’armée israélienne dès l’entrée en vigueur du cessez-le-feu en avril dernier. Les habitants de Kfarchouba, village d'environ 1 000 habitants à majorité sunnite, à la frontière, témoignent.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Amazon lutte contre la loi sur la protection de la livraison avec bannière page d'accueil, pop-up in-app",
@@ -707,14 +675,6 @@
       "category": "Défense"
     },
     {
-      "title": "Meta Quest ajoute des achats et des locations de films 3D à son application TV",
-      "link": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
-      "date": "Thu, 19 Nov 2026 21:06:58 +0000",
-      "description": "Le film est une expérience de concert 3D de Billie Eilish co-réalisée par James Cameron.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Les actions anthropiques bondissent de 17% après l'enregistrement Wall Street",
       "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
       "date": "Thu, 19 Nov 2026 21:02:09 GMT",
@@ -729,14 +689,6 @@
       "description": "Le Parlement danois a ratifié à l'unanimité, jeudi, un accord de sécurité avec les États-Unis sur le Groenland, dans l'espoir de mettre fin à une impasse sur l'avenir de l'île arctique.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "« Mission humanitaire » pour Kostiantynivka : C'est un piège ?",
-      "link": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Thu, 19 Nov 2026 20:53:00 GMT",
-      "description": "Le président russe Poutine a proposé une évacuation de la ville ukrainienne de Kostiantynivka, comme la récente opération à Olechky. Les experts avertissent que cela pourrait servir des objectifs militaires et non humanitaires. Que devrait faire Kyiv?",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Ministère de la Vérification des échecs de la Force aérienne, Won=t publie son propre rapport financier",
@@ -761,6 +713,14 @@
       "description": "Le Royaume-Uni mène des cyberopérations offensives contre la Russie, la Chine, l'Iran et la Corée du Nord.",
       "source": "Sky News",
       "category": "Monde"
+    },
+    {
+      "title": "Le sommet de Shenzhen, symbole du grand recul américain sous Donald Trump",
+      "link": "https://www.lefigaro.fr/international/le-sommet-de-shenzhen-symbole-du-grand-recul-americain-sous-donald-trump-20261119",
+      "date": "Thu, 19 Nov 2026 20:31:39 +0100",
+      "description": "ANALYSE - La rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine illustre les limites de la diplomatie personnelle du président des États-Unis.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "L'arrêt au sol de la FAA suggère à quel point les améliorations au contrôle de la circulation aérienne peuvent être risquées",
@@ -801,14 +761,6 @@
       "description": "L'E-4B Nightwatch, un 747 fortement modifié, est le poste de commandement aérien survivable du Pentagone, et avoir un à proximité est standard pour les visites POTUS outre-mer. The post The Jet That Always Shadows Air Force One Quand le président voyage à l'étranger est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "Après l’attaque ukrainienne contre le pont de Crimée, Vladimir Poutine promet des représailles «encore plus douloureuses»",
-      "link": "https://www.lefigaro.fr/international/apres-l-attaque-ukrainienne-contre-le-pont-de-crimee-vladimir-poutine-promet-des-represailles-encore-plus-douloureuses-20261119",
-      "date": "Thu, 19 Nov 2026 20:01:27 +0100",
-      "description": "Sévèrement endommagé mardi par un missile et des drones ukrainiens, l’ouvrage reliant le territoire russe à la péninsule contrôlée par Moscou a été visé une troisième fois, mercredi soir, à la veille du sommet tripartite de Shenzhen.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Plus d'atterrissage d'astéroïde : un problème moteur force la sonde japonaise Hayabusa2 à changer de plan",
@@ -857,14 +809,6 @@
       "description": "Les outils et technologies de transformation de la NASA (TTT) recueillent des points de vue publics sur la vie actuelle et sur la façon dont le monde peut changer d'ici 2075. Ce défi demande des idées conceptuelles sur la vie en 2075 sur quatre sujets. Les idées devraient explorer comment les futurs systèmes aéronautiques ou aérospatiaux pourraient : Les idées devraient être conceptuelles plutôt que techniques. Prix: 20 000 $ en [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "Ministre ougandais à la COP31: «Nous avons besoin d'une transition juste»",
-      "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Thu, 19 Nov 2026 19:31:00 GMT",
-      "description": "Le financement des pays riches pour aider à faire face aux impacts du changement climatique ne s'est pas concrétisé, affirme le ministre ougandais de l'Environnement. Le pays d'Afrique de l'Est espère que le pétrole et les crédits carbone contribueront à stimuler les finances.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Le juge américain autorise Trump à poursuivre 15 milliards de dollars contre le New York Times",
@@ -1179,14 +1123,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Tirs de Varsovie pour les étoiles: MoD acheter de nouveaux sats dans le cadre de grands plans d'expansion spatiale",
-      "link": "https://breakingdefense.com/2026/11/warsaw-shoots-for-the-stars-mod-to-buy-new-sats-as-part-of-major-space-expansion-plans/",
-      "date": "Thu, 19 Nov 2026 15:21:04 +0000",
-      "description": "De nouveaux satellites militaires font partie d'un plan plus large pour la Pologne de gagner un siège à la table avec les principaux joueurs spatiaux d'Europe, les hauts responsables de la défense polonaise ont exclusivement dit Breaking Defense.",
-      "source": "Breaking Defense",
-      "category": "Défense"
-    },
-    {
       "title": "La sonde Hera de l'ESA utilise la vision \"surhumaine\" pour inspecter le site d'un accident d'astéroïde de la NASA",
       "link": "https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site",
       "date": "Thu, 19 Nov 2026 14:50:33 +0000",
@@ -1315,14 +1251,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Le Royaume-Uni rejoint GTA 6 frénésie lorsque le jeu devient disponible dans le monde entier",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 12:26:39 GMT",
-      "description": "Le jeu, qui était en développement depuis 13 ans, est devenu l'un des produits de divertissement les plus populaires au monde.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Plus grand que l'élection de Barack Obama : Les chercheurs réfléchissent à la course au Sénat du Mississippi",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
       "date": "Thu, 19 Nov 2026 12:03:11 -0500",
@@ -1345,14 +1273,6 @@
       "description": "La matière particulaire des cuisines est la principale source de pollution de l'air pendant le déjeuner et le dîner à Londres, une analyse montre",
       "source": "New Scientist",
       "category": "Sciences"
-    },
-    {
-      "title": "La Birmanie coupable de génocide à l'encontre des Rohingyas, pour la Cour internationale de justice",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice",
-      "date": "Thu, 19 Nov 2026 11:37:43 GMT",
-      "description": "La Cour internationale de justice (CIJ), organe de l'ONU qui donne son avis sur des questions de droit international, a estimé jeudi 19 novembre que des actes de génocide ont bien été commis concernant la minorité musulmane rohingya dans le nord de l'État de Rakhine. La décision a été adoptée par neuf voix contre six. Le président de la cour, Yuji Iwasawa, a déclaré que, selon la cour, la Birmanie avait bien eu l'intention de détruire «une partie substantielle» du peuple rohingya.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Nvidia approche le chef d'arm Rene Haas à la recherche d'un nouveau PDG",
@@ -1659,12 +1579,180 @@
       "category": "Environnement"
     },
     {
-      "title": "Guerre en Ukraine : Jared Kushner affirme que Donald Trump serait «disposé» à envisager la protection de l’Otan pour Kiev",
-      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-jared-kushner-affirme-que-donald-trump-serait-dispose-a-envisager-la-protection-de-l-otan-pour-kiev-20261119",
-      "date": "Fri, 20 Nov 2026 06:21:58 +0100",
-      "description": "«Je pense que le président Trump est ouvert à cette idée, mais il va de soi que cela doit servir les intérêts des États-Unis», a ajouté l’émissaire américain.",
+      "title": "Landes : un cargo s’échoue sur le littoral, une partie de l’équipage évacuée",
+      "link": "https://www.lefigaro.fr/actualite-france/landes-un-cargo-s-echoue-sur-le-littoral-une-operation-d-evacuation-en-cours-20261120",
+      "date": "Fri, 20 Nov 2026 08:26:50 +0100",
+      "description": "Un cargo battant pavillon maltais s’est échoué tôt ce vendredi sur la côte landaise, à hauteur de la commune de Lit-et-Mixe.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "La Chine Xi loue le « retournement » des relations avec l'Australie",
+      "link": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 20 Nov 2026 07:33:00 GMT",
+      "description": "Les dirigeants de l'Australie et de la Chine ont tenu des pourparlers en marge du sommet de l'APEC. Le Premier ministre australien Anthony Albanese doit également rencontrer le Premier ministre chinois Li Qiang.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "L'IA devrait-elle juger de notre solvabilité?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 07:32:19 GMT",
+      "description": "L'IA serait-elle un bon juge de savoir si vous devriez obtenir un prêt hypothécaire, un prêt automobile ou un contrat de téléphonie mobile?",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "OpenAI teste des agents personnels sur son niveau de 20 $ par mois Plus",
+      "link": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+      "date": "Fri, 20 Nov 2026 07:31:25 +0000",
+      "description": "OpenAI élargit l'accès aux points, les agents d'IA proactifs qui peuvent travailler pour vous sans aucune supervision ou assistance.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les produits en conserve et le lait UHT stimulent les ventes au détail après le lancement de la campagne 'Be Ready'",
+      "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 07:30:13 GMT",
+      "description": "Selon les données officielles, les ventes au détail ont été plus élevées en octobre, en raison de l'accumulation de nourriture de longue durée.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "SoftBank souffre le pire jour en plus de deux ans comme AI vend-off frappe les stocks de technologie asiatique",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "date": "Fri, 20 Nov 2026 07:23:06 GMT",
+      "description": "Les déclins en Asie surviennent après que le Composite de Nasdaq a chuté de plus de 2 % la nuit après les débuts très attendus de Wall Street.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "En Espagne, un débat de campagne déstabilisant pour Pedro Sánchez",
+      "link": "https://www.liberation.fr/international/europe/en-espagne-un-debat-de-campagne-destabilisant-pour-pedro-sanchez-20261120_RXWPPEUG4VGFPH32EICOW6UT7Q/",
+      "date": "Fri, 20 Nov 2026 07:22:47 +0000",
+      "description": "Pour le seul face-à-face télévisé avant les législatives du 29 novembre, le Premier ministre socialiste a défendu son bon bilan économique mais a vacillé face aux accusations de corruption et de négligences sur la sécurité des trains lancées par le conservateur Alberto Núñez Feijóo.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "La Gambie a défendu les Rohingyas, maintenant le monde doit agir",
+      "link": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 07:20:53 +0000",
+      "description": "La CIJ a rendu un jugement historique, mais la justice dépendra de ce qui se passera ensuite.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les stocks de technologie tombent alors que l'IPO anthropique échoue à relancer le commerce de l'IA",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "date": "Fri, 20 Nov 2026 07:17:10 GMT",
+      "description": "Les marchés d'Asie suivent Wall Street plus bas malgré Claude AI makers",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Le Royaume-Uni et l'UE conviennent d'un programme de mobilité des jeunes, BBC comprend",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 07:14:46 GMT",
+      "description": "Le programme devrait être approuvé lors du sommet UK-UE de vendredi, avec de nouveaux accords sur le commerce alimentaire et les émissions de carbone également sur la table.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "L'UE et la Grande-Bretagne s'accordent sur les mesures à prendre pour rétablir les relations",
+      "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 07:12:43 +0000",
+      "description": "Dix ans après le Brexit, Londres signale sa volonté de s'aligner plus étroitement avec l'UE sur diverses politiques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Sandpapergate: Le gouvernement australien demande à l'AC d'assurer la transparence dans le forum",
+      "link": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 07:04:27 +0000",
+      "description": "Cricket Australia's Sandpapergate forum pour les joueurs de donner leurs comptes a été ridiculisé par les anciens cricketters.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Ce 16 ans a fondé une startup de missiles d'IA. Ciblage du coût par tueur",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "date": "Fri, 20 Nov 2026 07:00:00 +0000",
+      "description": "Henrijs Dandzbergs a abandonné le lycée pour rejoindre l'accélérateur de démarrage Y Combinator. Avec une nouvelle race de missiles, il veut rendre les meurtres aussi efficaces que possible pour les États-Unis et leurs alliés militaires.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'Australie reçoit 2 premiers hélicoptères Seahawk supplémentaires sur 13",
+      "link": "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters/",
+      "date": "Fri, 20 Nov 2026 07:00:00 +0000",
+      "description": "Les livraisons étendront la flotte MH-60R de la Royal Australian Navy à 36 avions d'ici le début de 2028 dans le cadre d'un effort plus vaste visant à moderniser les capacités navales de l'Australie.",
+      "source": "Breaking Defense",
+      "category": "Défense"
+    },
+    {
+      "title": "Salvador: le président Bukele candidat pour un troisième mandat après avoir modifié la Constitution",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261120-salvador-le-pr%C3%A9sident-bukele-candidat-pour-un-troisi%C3%A8me-mandat-apr%C3%A8s-avoir-modifi%C3%A9-la-constitution",
+      "date": "Fri, 20 Nov 2026 06:51:46 GMT",
+      "description": "Le président de droite du Salvador, Nayib Bukele, a déposé jeudi soir sa candidature pour un troisième mandat, accompagné par environ 3 000 sympathisants.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Un préfet convoqué par Nuñez, Yannick Jadot vert de rage et dernier jour du procès Zecler… L’actu de ce vendredi 20 novembre au matin",
+      "link": "https://www.liberation.fr/international/europe/un-prefet-convoque-par-nunez-yannick-jadot-vert-de-rage-et-dernier-jour-du-proces-zecler-lactu-de-ce-vendredi-20-novembre-au-matin-20261120_53WDP2H4A5AD3HBSNJHWAVOXVE/",
+      "date": "Fri, 20 Nov 2026 06:46:28 +0000",
+      "description": "La rédaction de «Libération» compile les principales infos du jour.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Ukraine: des frappes russes font trois morts, deux ponts endommagés à Kiev",
+      "link": "https://www.rfi.fr/fr/europe/20261120-ukraine-des-frappes-russes-font-trois-morts-deux-ponts-endommag%C3%A9s-%C3%A0-kiev",
+      "date": "Fri, 20 Nov 2026 06:44:45 GMT",
+      "description": "Vladimir Poutine avait promis une « réponse douloureuse » après la destruction du pont de Crimée par l’armée ukrainienne. Kiev et toute une partie de l’Ukraine sont en effet sous une pluie de missiles cette nuit. Plusieurs dizaines de fusées balistiques ont touché des infrastructures énergétiques. Mais la cible principale semble bien avoir été les ponts de la capitale. Des attaques qui ont fait un mois 3 morts ainsi que plusieurs blessés.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Dominique de Villepin, un homme de droite populaire à gauche mais en quête d'électeurs",
+      "link": "https://www.france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs",
+      "date": "Fri, 20 Nov 2026 06:43:38 GMT",
+      "description": "L'ancien Premier ministre Dominique de Villepin doit officialiser vendredi sa candidature à l'élection présidentielle de 2027. L'homme du \"non\" de la France à la guerre en Irak en 2003 est revenu sur le devant de la scène ces dernières années pour ses prises de position sur les sujets internationaux, en particulier sur la guerre à Gaza. Mais sa popularité est surtout marquée à gauche, au sein d'un électorat qui ne devrait pas voter pour lui.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Allemagne nouvelles: Lufthansa pour couper 1000 emplois, selon les rapports",
+      "link": "https://www.dw.com/en/germany-news-lufthansa-to-cut-1-000-jobs-reports-say/live-79998529?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 20 Nov 2026 06:41:00 GMT",
+      "description": "Les réductions d'emploi viennent alors que Lufthansa Airlines peine à tourner un profit. Entre-temps, d'autres manifestations dirigées par des jeunes sont attendues. DW a le dernier.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Main tendue de Tondelier à Mélenchon : Jadot annonce son départ des Ecologistes",
+      "link": "https://www.liberation.fr/politique/elections/main-tendue-de-tondelier-a-melenchon-jadot-annonce-son-depart-des-ecologistes-20261120_UZTRMFUYAZHGZCDOXMPPCZW75M/",
+      "date": "Fri, 20 Nov 2026 06:37:22 +0000",
+      "description": "Le sénateur rallié à Raphaël Glucksmann, déjà suspendu du parti, a saisi l’occasion de la déclaration d’intention de la patronne du parti en faveur du candidat insoumis à la présidentielle pour couper les ponts, jeudi 19 novembre, avec une formation où il militait depuis 1999.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Uber Kids permettra aux parents de réserver des voyages pour leurs enfants âgés de 10 à 12 ans",
+      "link": "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/",
+      "date": "Fri, 20 Nov 2026 06:27:26 +0000",
+      "description": "Uber teste des trajets pour les enfants de 10 à 12 ans et paiera les conducteurs plus pour eux.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "«Nous ne voulons pas que notre avenir soit décidé par l'armée: Les jeunes Allemands protestent",
+      "link": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 06:20:26 +0000",
+      "description": "Avant les rassemblements nationaux de vendredi, les adolescents allemands expliquent pourquoi ils résistent à la conscription.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Un cargo avec 22 personnes à bord s'échoue sur le littoral landais en raison des intempéries",
@@ -1675,12 +1763,28 @@
       "category": "France"
     },
     {
+      "title": "Tashima dit que la ligne de carte rouge de Balogun à la Coupe du monde a suscité la candidature de la FIFA",
+      "link": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 06:15:06 +0000",
+      "description": "Tashima est l'un des trois noms sur le bulletin de vote pour l'élection de mars, ainsi que l'actuel président Infantino et Diallo.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Les nouvelles règles d’Airbnb suscitent la colère des petits propriétaires : « Le fait de payer n’offre pas tous les droits »",
       "link": "https://www.lemonde.fr/economie/article/2026/11/20/vaisselle-poubelles-draps-les-nouvelles-regles-d-airbnb-suscitent-la-colere-des-petits-proprietaires_6813590_3234.html",
       "date": "Fri, 20 Nov 2026 06:03:10 +0100",
       "description": "Des dizaines de milliers d’hôtes dénoncent l’encadrement des consignes sur les tâches ménagères et la modification des commissions. Certains quittent la plateforme, accusée de se rapprocher du modèle hôtelier.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "L'agence maritime américaine a averti l'Iran que le blocus allait augmenter les primes du Golfe",
+      "link": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 06:03:03 +0000",
+      "description": "US Maritime Administration a reconnu l'impact du blocus naval sur les primes d'assurance et la capacité de fret, note montre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Mouldy, logement infesté pour les personnes vulnérables vendus comme investissements éthiques à l'étranger",
@@ -1693,7 +1797,7 @@
     {
       "title": "Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective",
       "link": "https://www.lemonde.fr/international/article/2026/11/20/au-royaume-uni-andy-burnham-ravive-le-debat-sur-le-brexit-plus-de-cinq-ans-apres-sa-mise-en-uvre-effective_6813589_3210.html",
-      "date": "Fri, 20 Nov 2026 06:00:30 +0100",
+      "date": "Fri, 20 Nov 2026 06:00:18 +0100",
       "description": "Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche. S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britannique entretient le flou sur la nature du rapprochement qu’il envisage.",
       "source": "Le Monde",
       "category": "France"
@@ -1715,22 +1819,6 @@
       "category": "Économie"
     },
     {
-      "title": "Comment David Lisnard, le patron des maires de France, mène une double campagne, présidentielle et pour l’AMF",
-      "link": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/",
-      "date": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "description": "Le maire de Cannes compte être reconduit pour un nouveau mandat, en début de semaine prochaine, à l’occasion du Congrès des maires de France. Mais ses déclarations clivantes et sa proximité avec l’extrême droite déroutent plusieurs édiles qui dénoncent un mélange des genres.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "A la frontière entre Ethiopie et Erythrée, les fantômes de la guerre reviennent hanter Badmé",
-      "link": "https://www.liberation.fr/international/afrique/a-la-frontiere-entre-ethiopie-et-erythree-les-fantomes-de-la-guerre-reviennent-hanter-badme-20261120_ZEWT36JUHFGANOIAMTUFJ2AEX4/",
-      "date": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "description": "Depuis le 9 novembre, les affrontements sont quotidiens autour de cette localité isolée qui fut l’épicentre de la guerre de 1998 à 2000, terriblement meurtrière.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Codes promo Vimeo: 40% de rabais en novembre 2026",
       "link": "https://www.wired.com/story/vimeo-promo-code/",
       "date": "Fri, 20 Nov 2026 06:00:00 +0000",
@@ -1743,14 +1831,6 @@
       "link": "https://www.wired.com/story/expedia-coupon/",
       "date": "Fri, 20 Nov 2026 06:00:00 +0000",
       "description": "Réservez votre prochaine escapade avec Expedia et obtenez jusqu'à 75% de rabais sur votre séjour, avec ou sans code promo.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Codes de coupon de caméra Adorama & Codes promo: Novembre 2026",
-      "link": "https://www.wired.com/story/adorama-promo-code/",
-      "date": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "description": "Améliorez votre configuration de photographie pour moins. Économisez jusqu'à 20 % sur les caméras, les objectifs et les appareils Apple avec ces codes promo Adorama vérifiés et les offres de dédouanement.",
       "source": "WIRED",
       "category": "Technologie"
     },
@@ -1771,12 +1851,28 @@
       "category": "Technologie"
     },
     {
-      "title": "Coupons d'ascendance │50% de rabais │novembre 2026",
-      "link": "https://www.wired.com/story/ancestry-coupon-codes/",
+      "title": "Codes de coupon de caméra Adorama & Codes promo: Novembre 2026",
+      "link": "https://www.wired.com/story/adorama-promo-code/",
       "date": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "description": "Économisez sur les abonnements à l'histoire de la famille et les kits ADN avec les derniers codes de coupons d'ascendance, des offres spéciales et des rabais saisonniers.",
+      "description": "Améliorez votre configuration de photographie pour moins. Économisez jusqu'à 20 % sur les caméras, les objectifs et les appareils Apple avec ces codes promo Adorama vérifiés et les offres de dédouanement.",
       "source": "WIRED",
       "category": "Technologie"
+    },
+    {
+      "title": "Comment David Lisnard, le patron des maires de France, mène une double campagne, présidentielle et pour l’AMF",
+      "link": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/",
+      "date": "Fri, 20 Nov 2026 06:00:00 +0000",
+      "description": "Le maire de Cannes compte être reconduit pour un nouveau mandat, en début de semaine prochaine, à l’occasion du Congrès des maires de France. Mais ses déclarations clivantes et sa proximité avec l’extrême droite déroutent plusieurs édiles qui dénoncent un mélange des genres.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "A la frontière entre Ethiopie et Erythrée, les fantômes de la guerre reviennent hanter Badmé",
+      "link": "https://www.liberation.fr/international/afrique/a-la-frontiere-entre-ethiopie-et-erythree-les-fantomes-de-la-guerre-reviennent-hanter-badme-20261120_ZEWT36JUHFGANOIAMTUFJ2AEX4/",
+      "date": "Fri, 20 Nov 2026 06:00:00 +0000",
+      "description": "Depuis le 9 novembre, les affrontements sont quotidiens autour de cette localité isolée qui fut l’épicentre de la guerre de 1998 à 2000, terriblement meurtrière.",
+      "source": "Libération",
+      "category": "France"
     },
     {
       "title": "Mercure mystérieux est sur le point d'obtenir un visiteur - après le voyage épique de huit ans de vaisseau spatial",
@@ -1787,7 +1883,7 @@
       "category": "Sciences"
     },
     {
-      "title": "Sept pays d'Europe appelés à manifester contre la vie chère et pour le droit au logement ce vendredi",
+      "title": "Des mobilisations simultanées contre la vie chère et pour le droit au logement prévues dans sept pays européens",
       "link": "https://www.rfi.fr/fr/europe/20261120-sept-pays-d-europe-appel%C3%A9s-%C3%A0-manifester-contre-la-vie-ch%C3%A8re-et-pour-le-droit-au-logement-ce-vendredi",
       "date": "Fri, 20 Nov 2026 05:55:38 GMT",
       "description": "De nombreux pays sur le continent européen ont été le théâtre de manifestations contre la vie chère et pour le droit au logement ces dernières semaines, sans toujours obtenir les réponses espérées face à leur mobilisation. Alors pour tenter d'avoir le plus d'impact possible, des syndicats et associations de sept pays différents – Espagne, France, Italie, Royaume-Uni, Portugal, Grèce et Belgique – ont décidé de se coaliser et d'appeler à manifester en même temps à partir de ce vendredi 20 novembre et tout le week-end.",
@@ -1801,14 +1897,6 @@
       "description": "Petits découverts et mini-crédits seront désormais soumis à des modalités plus contraignantes. Une nouvelle réglementation qui pourrait inquiéter certains ménages, qui comptent sur eux pour faire face à des dépenses imprévues.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Trump s'incline contre la pression, remplace le directeur américain de la cybersécurité",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 05:48:35 +0000",
-      "description": "Le président Trump a retiré Sean Cairncross, le directeur national de la cybersécurité, et a nommé un responsable du Département de la défense comme intérimaire.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "La dernière refonte de page d'accueil de Google rend Gemini encore plus important",
@@ -1851,35 +1939,11 @@
       "category": "France"
     },
     {
-      "title": "Larmes de joie, prières pour le retour au pays: Rohingya réagit au génocide",
-      "link": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 05:36:21 +0000",
-      "description": "Pour les réfugiés, la décision de la CIJ selon laquelle le Myanmar a commis un génocide est une justification. Mais pourront-ils rentrer chez eux ?",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Championne, Blackhaine, Dialog… Qu’est-ce qu’on écoute cette semaine ?",
-      "link": "https://www.liberation.fr/culture/musique/championne-blackhaine-dialog-quest-ce-quon-ecoute-cette-semaine-20261120_4XTOANUAPFDL7IXICUFASHX4WI/",
-      "date": "Fri, 20 Nov 2026 05:35:00 +0000",
-      "description": "Pop, rock, musiques électroniques… Chaque semaine, «Libé» vous aide à vous y retrouver dans l’actu des sorties.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Guerre en Ukraine : à Berlin, la réunion des alliés de Kiev, miroir inversé de la rencontre de Shenzhen entre Xi, Trump et Poutine",
       "link": "https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html",
       "date": "Fri, 20 Nov 2026 05:30:15 +0100",
       "description": "Les membres de la coalition des volontaires, réunis jeudi en Allemagne, se sont engagés à honorer l’intégralité de l’aide promise en 2026 et à maintenir ce soutien en 2027, quand le président russe a mis en scène, en Chine, l’« amitié » que lui porte le chef de la Maison Blanche.",
       "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "La parole des enfants doit peser dans les décisions",
-      "link": "https://www.liberation.fr/idees-et-debats/la-parole-des-enfants-doit-peser-dans-les-decisions-20261120_2CDVEZXCLVEDZEY6ARWEVZHQIE/",
-      "date": "Fri, 20 Nov 2026 05:27:00 +0000",
-      "description": "Un enfant écouté n’est pas un enfant roi : c’est un citoyen qui apprend, par l’expérience, ce qu’est la démocratie, rappelle la Dynamique pour les droits des enfants alors que nous célébrons l’anniversaire de la convention internationale des droits de l’enfant ce 20 novembre.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -1891,28 +1955,12 @@
       "category": "France"
     },
     {
-      "title": "Les stocks techniques tombent après l'IPO anthropique",
-      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-      "date": "Fri, 20 Nov 2026 05:22:50 GMT",
-      "description": "Les marchés d'Asie suivent Wall Street plus bas malgré Claude AI makers",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Donc, Anthropic est enfin une société publique. Et maintenant ?",
       "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
       "date": "Fri, 20 Nov 2026 05:19:35 GMT",
       "description": "Un blockbuster IPO postmortem",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Budget 2027 : à rebours des députés, les sénateurs se préparent à durcir la copie",
-      "link": "https://www.liberation.fr/economie/budget-2027-a-rebours-des-deputes-les-senateurs-se-preparent-a-durcir-la-copie-20261120_VPAATUR3JVA33F2KJ5IMFHFLFY/",
-      "date": "Fri, 20 Nov 2026 05:19:00 +0000",
-      "description": "Après le rejet du texte à l’Assemblée nationale, les sénateurs examinent à leur tour le projet de loi de finances à partir de ce vendredi. Ils entendent amplifier l’effort en ratiboisant certaines niches fiscales qui bénéficient aux particuliers, dont celle des retraités, et en coupant dans les dépenses publiques.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "L'accord commercial entre le Royaume-Uni et l'Inde fait l'objet d'un essai rigoureux sur les taxes d'importation de whisky écossais.",
@@ -1939,14 +1987,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Gaza La défense civile lutte pour sauver des vies alors que les véhicules se brisent",
-      "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 05:01:40 +0000",
-      "description": "Plus de 85 % des véhicules de la défense civile de Gaza sont hors service alors que les équipages luttent pour atteindre les personnes piégées.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Le Pacifique Sud-Ouest Stormy",
       "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
       "date": "Fri, 20 Nov 2026 05:01:00 +0000",
@@ -1971,14 +2011,6 @@
       "category": "Économie"
     },
     {
-      "title": "L'essence contaminée laisse les conducteurs yéménites se battre pour atteindre les bouts",
-      "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 05:00:16 +0000",
-      "description": "Les chauffeurs des zones contrôlées par Houthi sont confrontés à une hausse des prix du carburant et à des réparations coûteuses, car l'essence contaminée endommage leurs voitures.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Comment les pensions ont mangé l'État",
       "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
       "date": "Fri, 20 Nov 2026 05:00:08 GMT",
@@ -1987,7 +2019,7 @@
       "category": "Économie"
     },
     {
-      "title": "Présidentielle 2027 : le Parti socialiste stoppe les discussions avec Les Ecologistes après le rapprochement de Tondelier avec Mélenchon",
+      "title": "Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon",
       "link": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html",
       "date": "Fri, 20 Nov 2026 05:00:07 +0100",
       "description": "Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de sa formation politique. Yannick Jadot et d’autres annoncent quitter Les Ecologistes.",
@@ -2003,43 +2035,11 @@
       "category": "France"
     },
     {
-      "title": "IPO anthropique « exactement ce dont les marchés ont besoin », mais les analystes mettent en garde contre la volatilité",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
-      "date": "Fri, 20 Nov 2026 04:51:28 GMT",
-      "description": "L'IPO anthropique est «ce dont les marchés ont besoin». Cependant, les analystes affirment que ses parts seront volatiles dans les prochaines semaines.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Kushner : Trump ouvert aux garanties de sécurité de l'OTAN pour l'Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 04:44:53 +0000",
-      "description": "Le président américain Donald Trump est prêt à offrir des garanties de sécurité semblables à celles de l'OTAN à l'Ukraine, a déclaré l'envoyé Jared Kushner.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le Royaume-Uni et l'UE conviennent d'un programme de mobilité des jeunes, BBC comprend",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 04:35:51 GMT",
-      "description": "Le programme devrait être approuvé lors du sommet UK-UE de vendredi, avec de nouveaux accords sur le commerce alimentaire et les émissions de carbone également sur la table.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "La Maison Blanche remplace le chef de la cybersécurité après les pannes technologiques",
       "link": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Fri, 20 Nov 2026 04:21:00 GMT",
       "description": "Sean Cairncross quitte son rôle de cyberdirecteur national après une semaine chaotique de pannes technologiques. Kirsten Davies, le chef de l'information du Pentagone, prendra le poste à titre intérimaire.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Canada Tim Hortons, bien-aimé, brasse sur l'accord de données israélien",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 04:05:17 +0000",
-      "description": "Les avocats ont soulevé des préoccupations au sujet de l'application Tim Horton, de la protection des renseignements personnels des consommateurs et du partage des données.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -2147,18 +2147,18 @@
       "category": "Technologie"
     },
     {
-      "title": "Je dis à mon fils que c'est juste des feux d'artifice. Les gens dans la ville assiégée du Yémen parlent à la BBC",
+      "title": "Je dis à mon fils que c'est juste des feux d'artifice. La vie dans la ville yéménite assiégée par Houthis",
       "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 20 Nov 2026 00:13:21 GMT",
-      "description": "Orla Guerin parle à sept personnes piégées à Taiz par les Houthis qui révèlent ce que la vie est comme sous siège.",
+      "description": "Orla Guerin parle à sept personnes piégées dans la ville clé de Taiz, coupées du monde extérieur pendant des semaines.",
       "source": "BBC News",
       "category": "Monde"
     },
     {
-      "title": "Les nouvelles règles d'Airbnb entrèrent en vigueur",
-      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 00:12:28 GMT",
-      "description": "De nouvelles règles sur ce que les hôtes Airbnb peuvent raisonnablement demander aux clients pourraient signifier moins de tâches, mais des coûts plus élevés pour les clients.",
+      "title": "Du poisson et des oeufs ? Les dos et les pas de la pause déjeuner",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 00:08:37 GMT",
+      "description": "Qu'est-ce qui est acceptable à manger à votre bureau, sans ennuyer vos collègues?",
       "source": "BBC News",
       "category": "Économie"
     },
