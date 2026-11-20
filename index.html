@@ -269,6 +269,19 @@ body.v14-radar:after{content:"";position:fixed;right:12px;top:calc(82px + env(sa
 @keyframes v14radar{to{transform:rotate(360deg)}}
 body.reduce-motion.v14-radar:after{animation:none}
 
+
+/* V14 ULTIMATE — MOBILE FIELD EXPERIENCE */
+:root{--v14-fx:35}
+body.v14-motion-off .page,body.v14-motion-off .panel,body.v14-motion-off .article{animation:none!important;transition:none!important}
+body.v14-fx-low .panel,body.v14-fx-low .article,body.v14-fx-low .header-action{box-shadow:none!important;filter:none!important}
+#v14FxIntensity{accent-color:var(--blue);width:min(130px,38vw)}
+.v14-focus-strip{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.v14-focus-strip button{border:1px solid var(--line);background:var(--panel);color:var(--text);padding:9px 11px;border-radius:10px;font-size:11px}
+.v14-focus-strip button:active{transform:scale(.97)}
+@keyframes v14Pulse{0%,100%{opacity:.55}50%{opacity:1}}
+body.v14-motion-on .live-indicator{animation:v14Pulse 2.8s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){body.v14-motion-on .live-indicator{animation:none}}
+
 </style>
 </head>
 <body>
@@ -490,6 +503,10 @@ body.reduce-motion.v14-radar:after{animation:none}
 <div class="setting-row"><div><strong>Densité de l'interface</strong><p>Espacement des éléments.</p></div><select id="densityMode"><option value="normal">Confortable</option><option value="compact">Compact</option><option value="spacious">Aéré</option></select></div>
 <div class="setting-row"><div><strong>Taille du texte</strong><p>Ajuster la lisibilité générale.</p></div><div class="font-scale-control"><input type="range" id="fontScale" min="75" max="180" step="5" value="100"><output id="fontScaleValue">100 %</output></div></div>
 <div class="setting-row"><div><strong>Animations réduites</strong><p>Désactiver les mouvements décoratifs.</p></div><label class="switch"><input type="checkbox" id="reducedMotion"><span></span></label></div>
+<div class="studio-heading">NEXUS V14 · MOBILE FX STUDIO</div>
+<div class="setting-row"><div><strong>Intensité des effets</strong><p>Équilibre les effets visuels pour le mobile.</p></div><input type="range" id="v14FxIntensity" min="0" max="100" step="5" value="35"></div>
+<div class="setting-row"><div><strong>Animations du radar et des cartes</strong><p>Animations d'ambiance, sans animation de données inventée.</p></div><label class="switch"><input type="checkbox" id="v14RadarMotion" checked><span></span></label></div>
+<div class="setting-row"><div><strong>Retour haptique</strong><p>Vibration courte sur les interactions, si le navigateur le permet.</p></div><label class="switch"><input type="checkbox" id="v14Haptics" checked><span></span></label></div>
 <div class="studio-heading">SAUVEGARDE DU THÈME</div>
 <p class="source">Exportation et importation de tes préférences visuelles. Cela ne remplace pas une sauvegarde des articles, dossiers ou favoris.</p>
 <div class="actions"><button class="small-btn" id="exportTheme" type="button">↧ Exporter mon thème</button><button class="small-btn" id="importThemeButton" type="button">↥ Importer un thème</button><input type="file" id="importThemeFile" accept="application/json,.json" hidden></div>
@@ -1273,7 +1290,7 @@ function initNexusV10(){
  document.getElementById("themeProfile").addEventListener("change",e=>applyThemeProfile(e.target.value));
  document.querySelectorAll("[data-profile]").forEach(b=>b.addEventListener("click",()=>applyThemeProfile(b.dataset.profile)));
  document.getElementById("resetAppearance").addEventListener("click",()=>{nexusPrefs={...DEFAULT_NEXUS_PREFS};saveNexusPreferences();showNexusToast("Apparence réinitialisée.")});
- document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:13,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
+ document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
  document.getElementById("importThemeButton").addEventListener("click",()=>document.getElementById("importThemeFile").click());
  document.getElementById("importThemeFile").addEventListener("change",async e=>{const file=e.target.files&&e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("Format invalide");nexusPrefs={...DEFAULT_NEXUS_PREFS,...data.preferences};saveNexusPreferences();showNexusToast("Thème importé.")}catch(err){showNexusToast("Fichier de thème invalide.")}e.target.value=""});
  document.addEventListener("keydown",e=>{const target=e.target;const typing=target&&(target.matches("input,textarea,select")||target.isContentEditable);if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==="k"){e.preventDefault();openGlobalSearch();return}if(e.key==="/"&&!typing){e.preventDefault();openGlobalSearch();return}});
@@ -1342,6 +1359,20 @@ function initNexusUltimate(){
  document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),data:Object.fromEntries(keys.map(k=>[k,localStorage.getItem(k)]))};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="nexus-ultimate-backup.json";a.click();URL.revokeObjectURL(url)});
  document.getElementById("importAllDataButton")?.addEventListener("click",()=>document.getElementById("importAllDataFile").click());document.getElementById("importAllDataFile")?.addEventListener("change",async e=>{const f=e.target.files?.[0];if(!f)return;try{const d=JSON.parse(await f.text());if(d.app!=="NEXUS Intelligence"||!d.data)throw Error("Format invalide");Object.entries(d.data).forEach(([k,v])=>{if(k.startsWith("nexus")||k===FAV_KEY||k===DOSSIER_KEY||k===ALERT_KEY)localStorage.setItem(k,v)});location.reload()}catch(err){showNexusToast("Sauvegarde invalide ou incompatible.")}e.target.value=""});
 }
+
+/* NEXUS V14 — mobile controls, motion intensity and optional haptics */
+(function initV14MobileStudio(){
+ const read=(k,d)=>{try{const v=localStorage.getItem(k);return v===null?d:v}catch(e){return d}};
+ const fx=document.getElementById('v14FxIntensity'),motion=document.getElementById('v14RadarMotion'),haptics=document.getElementById('v14Haptics');
+ const setFx=(v)=>{const n=Math.max(0,Math.min(100,Number(v)||0));document.documentElement.style.setProperty('--v14-fx',n);document.body.classList.toggle('v14-fx-low',n<15);document.documentElement.style.setProperty('--glow-strength',String(n/100));if(fx)fx.value=n};
+ const setMotion=(on)=>{document.body.classList.toggle('v14-motion-off',!on);document.body.classList.toggle('v14-motion-on',on);if(motion)motion.checked=on};
+ const setHaptics=(on)=>{if(haptics)haptics.checked=on};
+ setFx(read('nexusV14Fx',35));setMotion(read('nexusV14Motion','true')==='true');setHaptics(read('nexusV14Haptics','true')==='true');
+ fx?.addEventListener('input',()=>{setFx(fx.value);localStorage.setItem('nexusV14Fx',fx.value)});
+ motion?.addEventListener('change',()=>{setMotion(motion.checked);localStorage.setItem('nexusV14Motion',String(motion.checked))});
+ haptics?.addEventListener('change',()=>localStorage.setItem('nexusV14Haptics',String(haptics.checked)));
+ document.addEventListener('click',e=>{if(e.target.closest('button')&&read('nexusV14Haptics','true')==='true'&&navigator.vibrate){try{navigator.vibrate(8)}catch(_){}}});
+})();
 
 /* INITIALISATION */
 const stamp=localStorage.getItem("nexusLastUpdate");
