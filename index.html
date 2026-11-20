@@ -7,7 +7,7 @@
 <meta name="theme-color" content="#080e18">
 <meta name="description" content="NEXUS Intelligence V14 Ultimate Premium — centre personnel de veille et d'information.">
 <link rel="manifest" href="./manifest.json">
-<title>NEXUS Intelligence V14 Ultimate Premium</title>
+<title>NEXUS V14 — Intelligence V14 Ultimate Premium</title>
 <style>
 :root{
 --bg:#080e18;--panel:#101b2b;--panel2:#16263a;
@@ -1178,11 +1178,32 @@ document.getElementById("time").addEventListener("change",e=>localStorage.setIte
 document.getElementById("articleCount").value=localStorage.getItem("nexusCount")||"8";
 document.getElementById("articleCount").addEventListener("change",e=>{localStorage.setItem("nexusCount",e.target.value);if(currentPage==="news")renderNews()});
 
-/* SERVICE WORKER — CONSERVÉ POUR LES NOTIFICATIONS PUSH */
+/* SERVICE WORKER — MISE À JOUR V14 (conserve les notifications Push) */
 if("serviceWorker" in navigator){
-window.addEventListener("load",()=>{
-navigator.serviceWorker.register("./sw.js").then(()=>console.log("NEXUS : service worker actif")).catch(e=>console.error("NEXUS :",e));
-});
+  window.addEventListener("load", async()=>{
+    try{
+      const reg=await navigator.serviceWorker.register("./sw.js?v=nexus-v14-refresh",{updateViaCache:"none"});
+      try{await reg.update()}catch(e){}
+      if(reg.waiting){reg.waiting.postMessage({type:"SKIP_WAITING"});}
+      reg.addEventListener("updatefound",()=>{
+        const worker=reg.installing;
+        if(!worker)return;
+        worker.addEventListener("statechange",()=>{
+          if(worker.state==="installed"&&navigator.serviceWorker.controller){
+            try{worker.postMessage({type:"SKIP_WAITING"})}catch(e){}
+          }
+        });
+      });
+      let reloaded=false;
+      navigator.serviceWorker.addEventListener("controllerchange",()=>{
+        if(reloaded)return;reloaded=true;
+        if(!sessionStorage.getItem("nexus_sw_v14_reload")){
+          sessionStorage.setItem("nexus_sw_v14_reload","1");location.reload();
+        }
+      });
+      console.log("NEXUS : Service Worker V14 vérifié");
+    }catch(e){console.error("NEXUS Service Worker :",e)}
+  });
 }
 
 /* NEXUS V10 — OUTILS TRANSVERSAUX */
