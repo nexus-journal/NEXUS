@@ -16,6 +16,56 @@
 body[data-texture=grid]{background-image:linear-gradient(#6cb5d008 1px,transparent 1px),linear-gradient(90deg,#6cb5d008 1px,transparent 1px),radial-gradient(ellipse at 68% -15%,#19344b 0,transparent 38%),var(--bg);background-size:30px 30px,30px 30px,auto,auto}body[data-texture=stars]{background-image:radial-gradient(#a5daf01f 1px,transparent 1.5px),radial-gradient(ellipse at 68% -15%,#19344b 0,transparent 38%),var(--bg);background-size:36px 36px,auto,auto}body.ambient-ui:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;background:radial-gradient(circle at 10% 20%,color-mix(in srgb,var(--accent) 10%,transparent),transparent 30%),radial-gradient(circle at 90% 75%,color-mix(in srgb,var(--secondary) 9%,transparent),transparent 28%)}body.soft-glow .nav-item.active,body.soft-glow .btn.primary{filter:drop-shadow(0 0 12px color-mix(in srgb,var(--accent) 30%,transparent))}
 @media print{.sidebar,.topbar,.head-actions,.btn,.toolbar,.footer-note{display:none!important}.main-shell{margin:0!important}.main-content{padding:0!important;width:100%!important}.page{display:none!important}.page.active{display:block!important}.surface{box-shadow:none;break-inside:avoid}body{background:#fff;color:#111}.report-paper{color:#111!important;background:#fff!important}}
 </style>
+
+<style id="nexus-cyberpunk-v15">
+:root{
+ --bg:#03050b;--bg2:#080b16;--surface:#0a1020;--surface2:#10172a;--surface3:#151d35;
+ --line:#1b3150;--line2:#285276;--accent:#00e5ff;--secondary:#b44dff;--accent2:#ff36c7;
+ --good:#00ffa3;--warn:#ffb347;--bad:#ff426d;--glow-strength:.42;--card-radius:12px;
+ --shadow:0 18px 60px #0009,0 0 28px #00d9ff12;
+}
+body{
+ background:
+  radial-gradient(ellipse at 12% 8%,#102b49 0,transparent 30%),
+  radial-gradient(ellipse at 88% 16%,#32104466 0,transparent 29%),
+  radial-gradient(ellipse at 55% 100%,#071d32 0,transparent 45%),
+  repeating-linear-gradient(0deg,#00d9ff06 0 1px,transparent 1px 42px),
+  repeating-linear-gradient(90deg,#00d9ff05 0 1px,transparent 1px 42px),#03050b;
+}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.15;background:repeating-linear-gradient(0deg,transparent 0 3px,#8bdfff0b 4px);mix-blend-mode:screen}
+body:after{content:"";position:fixed;inset:-30%;pointer-events:none;z-index:1;background:conic-gradient(from 30deg at 50% 50%,transparent 0 18%,#00d9ff08 22%,transparent 29% 55%,#a43dff08 62%,transparent 70%);animation:nexus-ambient 34s linear infinite}
+@keyframes nexus-ambient{to{transform:rotate(360deg)}}
+.sidebar{background:linear-gradient(180deg,#070d19f5,#050812f8);border-right:1px solid #00d9ff55;box-shadow:8px 0 40px #0008,3px 0 24px #00d9ff0c}
+.brand-mark{border-radius:8px;background:linear-gradient(145deg,#00e5ff,#8d4dff 65%,#ff36c7);box-shadow:0 0 12px #00e5ff99,0 0 35px #8d4dff55}
+.brand-name{letter-spacing:4px;text-shadow:0 0 16px #00d9ff55}
+.brand-version{border-color:#9c4cff77;color:#d3a5ff;background:#a84cff12}
+.workspace-switch,.search-trigger,.icon-btn{background:#091326cc;border-color:#21446a;border-radius:8px;box-shadow:inset 0 0 18px #00d9ff06}
+.nav-item{border-radius:7px;letter-spacing:.4px}
+.nav-item.active{background:linear-gradient(90deg,#00d9ff1e,#9d45ff1c);border-color:#00d9ff66;box-shadow:inset 0 0 22px #00d9ff0b,0 0 18px #00d9ff14}
+.nav-item.active:before{background:var(--accent);box-shadow:0 0 8px var(--accent),0 0 22px var(--accent)}
+.topbar{background:#050914e8;border-bottom:1px solid #00d9ff38;box-shadow:0 8px 30px #0005}
+.crumb small,.eyebrow,.nav-label,.section-head span{letter-spacing:2px}
+.eyebrow{color:var(--accent);text-shadow:0 0 12px #00d9ff66}
+.main-content{position:relative;z-index:3}
+.surface,.surface-soft{background:linear-gradient(145deg,#0b1426e8,#080d19eF);border:1px solid #244567;border-radius:var(--card-radius);box-shadow:inset 0 1px #8ceaff0b,0 12px 36px #0006,0 0 calc(34px * var(--glow-strength)) #00cfff13;backdrop-filter:blur(var(--panel-blur,10px))}
+.surface:hover{border-color:#3675a1;box-shadow:inset 0 1px #8ceaff12,0 14px 42px #0008,0 0 24px #00d9ff20}
+.btn{background:linear-gradient(135deg,#101d35,#0a1325);border-color:#285276;border-radius:7px;letter-spacing:.25px}
+.btn:hover{border-color:var(--accent);box-shadow:0 0 18px #00d9ff2c, inset 0 0 12px #00d9ff0b}
+.btn.primary{background:linear-gradient(110deg,#00d9ff,#7e53ff 70%,#b84cff);border-color:#8deeff;color:#020712;box-shadow:0 0 22px #00d9ff30}
+input,select,textarea,.input,.select,.textarea{background:#060c18!important;border-color:#234361!important;color:#e5f7ff!important;border-radius:7px!important}
+input:focus,select:focus,textarea:focus{outline:1px solid var(--accent)!important;box-shadow:0 0 0 3px #00d9ff18,0 0 18px #00d9ff18!important}
+.hero{background:radial-gradient(ellipse at 82% 40%,#7b2acb45,transparent 35%),radial-gradient(ellipse at 60% 0%,#00c9ff24,transparent 45%),linear-gradient(115deg,#0b1b32,#090d1c 70%,#160d29);border-color:#2d6686;box-shadow:inset 0 0 55px #00cfff0b,0 18px 50px #0008}
+.hero:after{border-color:#00e5ff40;box-shadow:0 0 0 35px #00e5ff0c,0 0 0 80px #9f3bff0b,0 0 90px #00d9ff17}
+.metric-icon{background:#0c2740;color:#00e5ff;box-shadow:inset 0 0 14px #00d9ff1b,0 0 16px #00d9ff16}
+.metric strong{ text-shadow:0 0 18px #00d9ff22}
+.tag,.chip{border-radius:5px;border-color:#2b5a7c;background:#0c1b30;color:#8deeff}
+.divider{border-color:#203b5a}
+.modal,.modal-card{background:#080e1c;border-color:#286080;box-shadow:0 0 80px #000b,0 0 30px #00d9ff20}
+.toast{border-color:#00d9ff66;box-shadow:0 0 25px #00d9ff25}
+@media(max-width:850px){body:after{animation-duration:60s}.sidebar{box-shadow:0 0 55px #000c,0 0 25px #00d9ff18}}
+body.reduce-motion:after{animation:none}
+</style>
+
 </head>
 <body>
 <svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
@@ -140,6 +190,24 @@ body[data-texture=grid]{background-image:linear-gradient(#6cb5d008 1px,transpare
        <div class="setting-row"><div><strong>Ambiance lumineuse</strong><small>Reflets colorés en arrière-plan.</small></div><input class="toggle" type="checkbox" id="ambientUI"></div>
        <div class="setting-row"><div><strong>Taille générale du texte</strong><small>Échelle de lecture.</small></div><input type="range" id="fontScale" min="0.9" max="1.15" step="0.05" value="1"></div>
       </details>
+      
+      <details style="border-top:1px solid #254766;padding-top:13px;margin-top:13px">
+       <summary style="cursor:pointer;color:#9eeeff;font-size:11px;font-weight:800;letter-spacing:1px">CYBERPUNK ENGINE — CONTRÔLES AVANCÉS</summary>
+       <div class="setting-row"><div><strong>Couleur néon tertiaire</strong><small>Accents magenta et éléments secondaires.</small></div><input type="color" id="tertiaryPicker" value="#ff36c7"></div>
+       <div class="setting-row"><div><strong>Intensité des animations</strong><small>Du mode discret au mode immersif.</small></div><input type="range" id="motionIntensity" min="0" max="100" value="72"></div>
+       <div class="setting-row"><div><strong>Scanlines</strong><small>Trame d'écran rétro-futuriste.</small></div><input class="toggle" type="checkbox" id="scanlinesToggle" checked></div>
+       <div class="setting-row"><div><strong>Halo néon</strong><small>Contours lumineux sur les panneaux.</small></div><input class="toggle" type="checkbox" id="neonToggle" checked></div>
+       <div class="setting-row"><div><strong>Particules d'ambiance</strong><small>Effet atmosphérique en arrière-plan.</small></div><input class="toggle" type="checkbox" id="particlesToggle" checked></div>
+       <div class="setting-row"><div><strong>Contraste renforcé</strong><small>Améliore la séparation des panneaux.</small></div><input class="toggle" type="checkbox" id="contrastToggle"></div>
+       <div class="setting-row"><div><strong>Teinte des panneaux</strong><small>Bleu nuit, violet ou noir absolu.</small></div><select id="panelTint" class="select" style="width:145px"><option value="blue">Blue Core</option><option value="violet">Violet Core</option><option value="black">Blackout</option></select></div>
+       <div class="chip-row" style="margin:12px 0">
+        <button class="chip" data-cyber-preset="neon">NEON OPERATIONS</button>
+        <button class="chip" data-cyber-preset="stealth">STEALTH MODE</button>
+        <button class="chip" data-cyber-preset="neural">NEURAL CORE</button>
+        <button class="chip" data-cyber-preset="command">COMMAND CENTER</button>
+       </div>
+      </details>
+
       <div class="setting-row"><div><strong>Animations réduites</strong><small>Limite les mouvements de l'interface.</small></div><input class="toggle" type="checkbox" id="reduceMotion"></div><div class="setting-row"><div><strong>Navigation compacte</strong><small>Réduit la barre latérale en icônes.</small></div><input class="toggle" type="checkbox" id="compactSidebar"></div>
       <div class="divider"></div><div class="field"><label>NOM DU THÈME PERSONNEL</label><input class="input" id="themeName" placeholder="Ex. Mon thème NEXUS"></div><div class="actions" style="display:flex;gap:7px;flex-wrap:wrap"><button class="btn small primary" data-action="save-theme">Enregistrer le thème</button><button class="btn small" data-action="export-theme">Exporter</button><button class="btn small" data-action="import-theme">Importer</button><input id="themeFile" type="file" accept=".json,application/json" hidden></div>
       <div class="section-head"><h2>Thèmes enregistrés</h2><span>BIBLIOTHÈQUE</span></div><div id="savedThemes"><p class="muted small">Aucun thème personnel enregistré.</p></div><div class="setting-row"><div><strong>Restaurer le thème initial</strong><small>Réinitialise les réglages visuels.</small></div><button class="btn small" data-action="reset-theme">Réinitialiser</button></div></div><div class="surface" style="padding:18px"><div class="section-head" style="margin:0 0 12px"><h2>Sauvegarde & restauration</h2><span>DONNÉES LOCALES</span></div><p class="muted small">Exportez vos dossiers, favoris, rapports, espaces, jeux de données, notes et documents. Le fichier de sauvegarde peut être volumineux si vous avez importé de nombreux documents.</p><div class="grid two"><button class="btn primary" data-action="backup-export"><svg><use href="#i-download"/></svg> Exporter une sauvegarde</button><button class="btn" data-action="backup-import"><svg><use href="#i-upload"/></svg> Restaurer une sauvegarde</button><input id="backupFile" type="file" accept=".json,application/json" hidden></div><div class="divider"></div><div class="setting-row"><div><strong>Stockage</strong><small id="storageSummary">LocalStorage + IndexedDB</small></div><span class="tag">SUR CET APPAREIL</span></div><div class="setting-row"><div><strong>Synchronisation cloud</strong><small>Non activée dans cette version.</small></div><span class="muted small">Désactivée</span></div><div class="setting-row"><div><strong>IA intégrée</strong><small>Aucune clé API ni aucun service IA requis.</small></div><span class="muted small">Non incluse</span></div></div></div>
@@ -155,7 +223,7 @@ body[data-texture=grid]{background-image:linear-gradient(#6cb5d008 1px,transpare
 <script>
 'use strict';
 const KEYS={articles:'nexusArticlesV3',favorites:'nexusFavoritesV3',archive:'nexusArchiveV3',dossiers:'nexusDossiersV1',prefs:'nexusInterfacePrefsV1',notes:'nexusV13Notes',tasks:'nexusV13Tasks',events:'nexusV13Events',themes:'nexusSavedThemesV14',docs:'nexusV15Library',datasets:'nexusV15Datasets',entities:'nexusV15Entities',relations:'nexusV15Relations',reports:'nexusV15Reports',workspaces:'nexusV15Workspaces',activity:'nexusV15Activity',settings:'nexusV15Settings'};
-const DEFAULT_SETTINGS={accent:'#53d8f5',secondary:'#8a82ff',background:'deep',texture:'none',panelOpacity:94,cornerRadius:17,glowStrength:18,glassBlur:8,glassUI:false,ambientUI:false,fontScale:1,reduceMotion:false,compactSidebar:false};
+const DEFAULT_SETTINGS={accent:'#00e5ff',secondary:'#a855ff',tertiary:'#ff36c7',background:'deep',texture:'grid',panelOpacity:94,cornerRadius:12,glowStrength:42,glassBlur:10,glassUI:true,ambientUI:true,fontScale:1,reduceMotion:false,compactSidebar:false,motionIntensity:72,scanlines:true,neon:true,particles:true,contrast:false,panelTint:'blue'};
 const DEFAULT_WORKSPACE={id:'ws-global',name:'Global Research',description:'Espace de recherche principal',color:'#53d8f5',createdAt:new Date().toISOString()};
 function read(key,fallback){try{const raw=localStorage.getItem(key);return raw?JSON.parse(raw):fallback}catch(_){return fallback}}
 function safeRaw(key,fallback){try{return localStorage.getItem(key)||fallback}catch(_){return fallback}}
@@ -231,8 +299,8 @@ function saveNote(){const text=clean(document.getElementById('quickNote').value)
 async function openDocument(id){try{const file=await getStoredFile(id);if(!file){toast('Fichier introuvable dans le stockage local.');return}const url=URL.createObjectURL(file.blob),doc=state.docs.find(d=>d.id===id);activeObjectURL=url;let content='';if(doc.type==='image')content=`<img class="file-preview" src="${url}" alt="${esc(doc.name)}">`;else if(doc.type==='pdf')content=`<iframe src="${url}" style="width:100%;height:68vh;border:0;border-radius:9px;background:white"></iframe>`;else content=`<pre class="prose" style="max-height:65vh;overflow:auto;background:#0a1420;padding:15px;border-radius:10px">${esc(await file.blob.text())}</pre>`;openModal(doc.name,content,`<button class="btn" data-action="close-modal">Fermer</button><a class="btn primary" href="${url}" download="${esc(doc.name)}">Télécharger</a>`);document.getElementById('modalBackdrop').addEventListener('transitionend',()=>{}, {once:true});}catch(e){toast('Ouverture du document impossible.')}}
 function renderWorkspaces(){const host=document.getElementById('workspaceList');host.innerHTML=state.workspaces.map(w=>{const selected=w.id===state.activeWorkspace;const count=state.dossiers.filter(x=>x.workspaceId===w.id).length+state.docs.filter(x=>x.workspaceId===w.id).length+state.reports.filter(x=>x.workspaceId===w.id).length+state.datasets.filter(x=>x.workspaceId===w.id).length+state.entities.filter(x=>x.workspaceId===w.id).length;return `<article class="surface workspace-card"><div class="workspace-color" style="background:${esc(w.color||'#53d8f5')}"></div><div class="eyebrow">${selected?'ESPACE ACTIF':'ESPACE PERSONNEL'}</div><h3>${esc(w.name)}</h3><p>${esc(w.description||'Espace de travail personnalisé.')}</p><div class="dossier-meta"><span>${count} élément(s)</span><span>Créé le ${dateLabel(w.createdAt)}</span></div><div class="dossier-actions"><button class="btn small ${selected?'primary':'ghost'}" data-action="activate-workspace" data-id="${esc(w.id)}">${selected?'Actif':'Ouvrir cet espace'}</button>${w.id!=='ws-global'?`<button class="btn small ghost" data-action="delete-workspace" data-id="${esc(w.id)}">Supprimer</button>`:''}</div></article>`}).join('')}
 function newWorkspaceModal(){openModal('Créer un espace de travail',`<div class="field"><label>NOM DE L'ESPACE</label><input class="input" id="workspaceName" placeholder="Ex. Géopolitique, Histoire, Sciences…"></div><div class="field" style="margin-top:12px"><label>DESCRIPTION</label><textarea class="textarea" id="workspaceDesc" placeholder="À quoi servira cet espace ?"></textarea></div><div class="field" style="margin-top:12px"><label>COULEUR D'IDENTIFICATION</label><input type="color" class="input" id="workspaceColor" value="#53d8f5" style="width:70px;padding:3px"></div>`,`<button class="btn" data-action="close-modal">Annuler</button><button class="btn primary" data-action="create-workspace">Créer</button>`)}
-function renderSettings(){const s=state.settings;document.getElementById('accentPicker').value=s.accent||'#53d8f5';document.getElementById('secondaryPicker').value=s.secondary||'#8a82ff';document.getElementById('backgroundPreset').value=s.background||'deep';document.getElementById('texturePreset').value=s.texture||'none';document.getElementById('panelOpacity').value=s.panelOpacity??94;document.getElementById('cornerRadius').value=s.cornerRadius??17;document.getElementById('glowStrength').value=s.glowStrength??18;document.getElementById('glassBlur').value=s.glassBlur??8;document.getElementById('glassUI').checked=!!s.glassUI;document.getElementById('ambientUI').checked=!!s.ambientUI;document.getElementById('fontScale').value=s.fontScale??1;document.getElementById('reduceMotion').checked=!!s.reduceMotion;document.getElementById('compactSidebar').checked=!!s.compactSidebar;document.getElementById('storageSummary').textContent=`${Object.values(KEYS).length} espaces de données · IndexedDB pour les fichiers`;renderSavedThemes()}
-function applySettings(){const s=state.settings,root=document.documentElement;root.style.setProperty('--accent',s.accent||'#53d8f5');root.style.setProperty('--secondary',s.secondary||'#8a82ff');const backgrounds={deep:['#080d16','#0c1421','#19344b'],midnight:['#080812','#0d1021','#24224d'],slate:['#101923','#172433','#274055']};const b=backgrounds[s.background]||backgrounds.deep;root.style.setProperty('--bg',b[0]);root.style.setProperty('--bg2',b[1]);root.style.setProperty('--panel-alpha',String(s.panelOpacity??94));root.style.setProperty('--card-radius',(s.cornerRadius??17)+'px');root.style.setProperty('--glow-strength',String((s.glowStrength??18)/100));root.style.setProperty('--panel-blur',s.glassUI?((s.glassBlur??8)+'px'):'0px');root.style.setProperty('--font-scale',String(s.fontScale??1));document.body.dataset.texture=s.texture||'none';document.body.classList.toggle('reduce-motion',!!s.reduceMotion);document.body.classList.toggle('glass-ui',!!s.glassUI);document.body.classList.toggle('ambient-ui',!!s.ambientUI);document.body.classList.toggle('soft-glow',(s.glowStrength??18)>0);document.getElementById('appShell').classList.toggle('collapsed',!!s.compactSidebar)}
+function renderSettings(){const s=state.settings;document.getElementById('accentPicker').value=s.accent||'#00e5ff';document.getElementById('secondaryPicker').value=s.secondary||'#8a82ff';document.getElementById('backgroundPreset').value=s.background||'deep';document.getElementById('texturePreset').value=s.texture||'none';document.getElementById('panelOpacity').value=s.panelOpacity??94;document.getElementById('cornerRadius').value=s.cornerRadius??17;document.getElementById('glowStrength').value=s.glowStrength??18;document.getElementById('glassBlur').value=s.glassBlur??8;document.getElementById('glassUI').checked=!!s.glassUI;document.getElementById('ambientUI').checked=!!s.ambientUI;document.getElementById('fontScale').value=s.fontScale??1;document.getElementById('reduceMotion').checked=!!s.reduceMotion;document.getElementById('compactSidebar').checked=!!s.compactSidebar;[['tertiaryPicker',s.tertiary||'#ff36c7'],['motionIntensity',s.motionIntensity??72],['scanlinesToggle',!!s.scanlines],['neonToggle',s.neon!==false],['particlesToggle',s.particles!==false],['contrastToggle',!!s.contrast],['panelTint',s.panelTint||'blue']].forEach(([id,v])=>{const el=document.getElementById(id);if(el){if(el.type==='checkbox')el.checked=v;else el.value=v}});document.getElementById('storageSummary').textContent=`${Object.values(KEYS).length} espaces de données · IndexedDB pour les fichiers`;renderSavedThemes()}
+function applySettings(){const s=state.settings,root=document.documentElement;root.style.setProperty('--accent',s.accent||'#53d8f5');root.style.setProperty('--secondary',s.secondary||'#a855ff');root.style.setProperty('--accent2',s.tertiary||'#ff36c7');root.style.setProperty('--motion-speed',String(1.6-(s.motionIntensity??72)/100*1.2)+'s');root.style.setProperty('--panel-tint',s.panelTint==='violet'?'#160d27':s.panelTint==='black'?'#05070c':'#0a1020');document.body.classList.toggle('scanlines-off',!s.scanlines);document.body.classList.toggle('neon-off',!s.neon);document.body.classList.toggle('particles-off',!s.particles);document.body.classList.toggle('high-contrast',!!s.contrast);const backgrounds={deep:['#080d16','#0c1421','#19344b'],midnight:['#080812','#0d1021','#24224d'],slate:['#101923','#172433','#274055']};const b=backgrounds[s.background]||backgrounds.deep;root.style.setProperty('--bg',b[0]);root.style.setProperty('--bg2',b[1]);root.style.setProperty('--panel-alpha',String(s.panelOpacity??94));root.style.setProperty('--card-radius',(s.cornerRadius??17)+'px');root.style.setProperty('--glow-strength',String((s.glowStrength??18)/100));root.style.setProperty('--panel-blur',s.glassUI?((s.glassBlur??8)+'px'):'0px');root.style.setProperty('--font-scale',String(s.fontScale??1));document.body.dataset.texture=s.texture||'none';document.body.classList.toggle('reduce-motion',!!s.reduceMotion);document.body.classList.toggle('glass-ui',!!s.glassUI);document.body.classList.toggle('ambient-ui',!!s.ambientUI);document.body.classList.toggle('soft-glow',(s.glowStrength??18)>0);document.getElementById('appShell').classList.toggle('collapsed',!!s.compactSidebar)}
 function renderSavedThemes(){const themes=read(KEYS.themes,[]);document.getElementById('savedThemes').innerHTML=themes.length?themes.slice(0,12).map((t,i)=>`<div class="setting-row"><div><strong>${esc(t.name||'Thème personnel')}</strong><small>${dateLabel(t.createdAt)}</small></div><div style="display:flex;gap:6px"><button class="btn small" data-action="apply-saved-theme" data-index="${i}">Appliquer</button><button class="btn small ghost" data-action="delete-saved-theme" data-index="${i}">×</button></div></div>`).join(''):'<p class="muted small">Aucun thème personnel enregistré.</p>'}
 function saveTheme(){const name=clean(document.getElementById('themeName').value);if(!name){toast('Donnez un nom à ce thème.');return}const themes=read(KEYS.themes,[]);themes.unshift({id:uid('theme'),name,createdAt:new Date().toISOString(),settings:{...state.settings}});write(KEYS.themes,themes.slice(0,30));document.getElementById('themeName').value='';renderSavedThemes();toast('Thème enregistré dans votre bibliothèque.')}
 function applySavedTheme(index){const t=read(KEYS.themes,[])[index];if(!t)return;const p=t.settings||t.preferences||{};state.settings={...DEFAULT_SETTINGS,...state.settings,...p};if(p.customAccent&&p.accent==='custom')state.settings.accent=p.customAccent;if(!/^#[0-9a-f]{6}$/i.test(state.settings.accent||''))state.settings.accent='#53d8f5';if(!/^#[0-9a-f]{6}$/i.test(state.settings.secondary||''))state.settings.secondary=p.secondaryAccent||'#8a82ff';if(!['deep','midnight','slate'].includes(state.settings.background))state.settings.background='deep';persist();applySettings();renderSettings();toast('Thème appliqué.')}
@@ -274,6 +342,25 @@ document.getElementById('csvFile').addEventListener('change',async e=>{const f=e
 document.getElementById('documentFiles').addEventListener('change',e=>{const files=[...(e.target.files||[])];if(files.length)importDocuments(files);e.target.value=''});
 document.getElementById('themeFile').addEventListener('change',async e=>{const f=e.target.files?.[0];if(!f)return;try{await importTheme(f)}catch(err){toast(err.message||'Fichier de thème invalide.')}e.target.value=''});document.getElementById('backupFile').addEventListener('change',async e=>{const f=e.target.files?.[0];if(!f)return;try{await importBackup(f)}catch(err){toast(err.message||'Sauvegarde invalide.')}e.target.value=''});
 document.getElementById('accentPicker').addEventListener('input',e=>{state.settings.accent=e.target.value;applySettings();persist()});document.getElementById('secondaryPicker').addEventListener('input',e=>{state.settings.secondary=e.target.value;applySettings();persist()});document.getElementById('backgroundPreset').addEventListener('change',e=>{state.settings.background=e.target.value;applySettings();persist()});document.getElementById('texturePreset').addEventListener('change',e=>{state.settings.texture=e.target.value;applySettings();persist()});for(const [id,key] of [['panelOpacity','panelOpacity'],['cornerRadius','cornerRadius'],['glowStrength','glowStrength'],['glassBlur','glassBlur'],['fontScale','fontScale']])document.getElementById(id).addEventListener('input',e=>{state.settings[key]=Number(e.target.value);applySettings();persist()});for(const [id,key] of [['glassUI','glassUI'],['ambientUI','ambientUI']])document.getElementById(id).addEventListener('change',e=>{state.settings[key]=e.target.checked;applySettings();persist()});document.getElementById('reduceMotion').addEventListener('change',e=>{state.settings.reduceMotion=e.target.checked;applySettings();persist()});document.getElementById('compactSidebar').addEventListener('change',e=>{state.settings.compactSidebar=e.target.checked;applySettings();persist()});
+
+['tertiaryPicker','motionIntensity','scanlinesToggle','neonToggle','particlesToggle','contrastToggle','panelTint'].forEach(id=>{
+ const el=document.getElementById(id); if(!el)return;
+ const keyMap={tertiaryPicker:'tertiary',motionIntensity:'motionIntensity',scanlinesToggle:'scanlines',neonToggle:'neon',particlesToggle:'particles',contrastToggle:'contrast',panelTint:'panelTint'};
+ const key=keyMap[id]; const event=(el.type==='range'||el.type==='color')?'input':'change';
+ el.addEventListener(event,()=>{state.settings[key]=el.type==='checkbox'?el.checked:el.type==='range'?Number(el.value):el.value;persist();applySettings()});
+});
+document.addEventListener('click',e=>{
+ const p=e.target.closest('[data-cyber-preset]'); if(!p)return;
+ const presets={
+  neon:{accent:'#00e5ff',secondary:'#9b4dff',tertiary:'#ff36c7',texture:'grid',panelOpacity:91,cornerRadius:10,glowStrength:55,glassBlur:13,glassUI:true,ambientUI:true,motionIntensity:88,scanlines:true,neon:true,particles:true,panelTint:'blue'},
+  stealth:{accent:'#00ffa3',secondary:'#35a987',tertiary:'#ffb347',texture:'grid',panelOpacity:97,cornerRadius:7,glowStrength:16,glassBlur:4,glassUI:false,ambientUI:false,motionIntensity:18,scanlines:false,neon:false,particles:false,panelTint:'black'},
+  neural:{accent:'#b56cff',secondary:'#ff36c7',tertiary:'#00e5ff',texture:'stars',panelOpacity:88,cornerRadius:16,glowStrength:48,glassBlur:17,glassUI:true,ambientUI:true,motionIntensity:78,scanlines:true,neon:true,particles:true,panelTint:'violet'},
+  command:{accent:'#00cfff',secondary:'#526dff',tertiary:'#ffad42',texture:'grid',panelOpacity:96,cornerRadius:9,glowStrength:30,glassBlur:7,glassUI:true,ambientUI:true,motionIntensity:48,scanlines:true,neon:true,particles:false,panelTint:'blue'}
+ };
+ state.settings={...DEFAULT_SETTINGS,...state.settings,...presets[p.dataset.cyberPreset]};
+ persist();applySettings();renderSettings();toast('Profil '+p.dataset.cyberPreset.toUpperCase()+' activé.');
+});
+
 document.addEventListener('click',e=>{const entity=e.target.closest('[data-entity]');if(entity)showEntity(entity.dataset.entity);const base=e.target.closest('[data-basemap]');if(base)changeBasemap(base.dataset.basemap);const preset=e.target.closest('[data-theme-preset]');if(preset){const presets={obsidian:{accent:'#59d8ee',secondary:'#8c83ff',background:'deep',texture:'grid',panelOpacity:96,cornerRadius:16,glowStrength:13,glassBlur:4,glassUI:false,ambientUI:false,fontScale:1},arctic:{accent:'#64e4f2',secondary:'#5d9fff',background:'slate',texture:'none',panelOpacity:88,cornerRadius:20,glowStrength:28,glassBlur:12,glassUI:true,ambientUI:true,fontScale:1.02},nebula:{accent:'#ac91ff',secondary:'#5cd7ee',background:'midnight',texture:'stars',panelOpacity:88,cornerRadius:22,glowStrength:36,glassBlur:14,glassUI:true,ambientUI:true,fontScale:1}};state.settings={...DEFAULT_SETTINGS,...state.settings,...presets[preset.dataset.themePreset]};persist();applySettings();renderSettings();toast('Preset '+preset.dataset.themePreset+' appliqué.')}});
 document.addEventListener('keydown',e=>{const typing=['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName);if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();openSearch()}if(e.key==='/'&&!typing){e.preventDefault();openSearch()}if(e.key==='Escape'){closeSearch();closeModal()}});
 document.getElementById('modalBackdrop').addEventListener('click',e=>{if(e.target.id==='modalBackdrop')closeModal()});document.getElementById('searchBackdrop').addEventListener('click',e=>{if(e.target.id==='searchBackdrop')closeSearch()});
@@ -283,5 +370,22 @@ function migrateLegacy(){const oldPrefs=read(KEYS.prefs,{});if(oldPrefs&&typeof 
 function init(){migrateLegacy();applySettings();updateSidebar();renderHome();refreshNewsUI();document.getElementById('networkLabel').textContent=navigator.onLine?'Connexion disponible':'Mode hors ligne';loadNewsFile();}
 init();
 </script>
+
+<style id="nexus-cyberpunk-controls">
+body.scanlines-off:before{display:none}
+body.neon-off .surface,body.neon-off .surface-soft{box-shadow:0 12px 34px #0007}
+body.high-contrast .surface{background:#050914;border-color:#4b7898}
+body.high-contrast .muted,body.high-contrast small{color:#b4c9dc}
+body[data-texture="stars"]{background-image:radial-gradient(1px 1px at 20% 30%,#a5eaff77 50%,transparent 100%),radial-gradient(2px 2px at 70% 60%,#b47bff66 50%,transparent 100%),radial-gradient(ellipse at 50% 0%,#17284c,transparent 50%);background-size:180px 180px,240px 240px,auto}
+body[data-texture="grid"]{background-image:repeating-linear-gradient(0deg,#00d9ff08 0 1px,transparent 1px 38px),repeating-linear-gradient(90deg,#00d9ff07 0 1px,transparent 1px 38px),radial-gradient(ellipse at 12% 8%,#102b49 0,transparent 30%),radial-gradient(ellipse at 88% 16%,#32104466 0,transparent 29%),#03050b}
+body[data-texture="none"]{background:#03050b}
+body.particles-off:after{display:none}
+body.high-contrast .nav-item.active{background:#102c42;border-color:var(--accent)}
+#page-settings .surface{position:relative}
+#page-settings details[open] summary{color:var(--accent);text-shadow:0 0 12px #00d9ff55}
+#page-settings input[type=color]{width:44px;height:32px;border:1px solid #2d6686;border-radius:7px;background:#07101d;padding:2px}
+@media(prefers-reduced-motion:reduce){body:after{animation:none!important}}
+</style>
+
 </body>
 </html>
