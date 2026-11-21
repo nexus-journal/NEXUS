@@ -169,7 +169,92 @@ body.fx-active .appearance-preview,body.fx-active .profile-card{background:color
 @keyframes nexusNebulaDrift{0%{transform:translate3d(3%,-2%,0) scale(1.1)}100%{transform:translate3d(-5%,4%,0) scale(1.2)}} @keyframes nexusOrbitPulse{from{opacity:.35;transform:rotate(-18deg) scale(1.25)}to{opacity:.9;transform:rotate(-9deg) scale(1.42)}}
 @keyframes nexusScanSweep{0%{transform:translateY(0)}100%{transform:translateY(680%)}} @media(max-width:520px){#nexusFxBackground .fx-atmosphere{filter:blur(24px)}.fx-grid{background-size:36px 36px}.fx-preview{height:104px}}
 @media(prefers-reduced-motion:reduce){#nexusFxBackground .fx-atmosphere,#nexusFxBackground .fx-scan:after,.fx-preview-orb{animation:none!important}}
-</style></head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
+
+
+
+/* NEXUS IDENTITY STUDIO — component system */
+.identity-studio{overflow:hidden}.identity-studio-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.identity-studio-head h2{margin:8px 0;font-size:20px}.identity-studio-head p{color:var(--muted);font-size:12px;line-height:1.65;max-width:580px}
+.identity-live{display:flex;align-items:center;gap:7px;color:var(--green);font-size:9px;letter-spacing:1.5px;white-space:nowrap}.identity-live i{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 12px var(--green)}
+.identity-preview-shell{margin:16px 0 22px;padding:12px;border:1px solid var(--identity-edge);border-radius:14px;background:linear-gradient(145deg,#0c1b2b,#0a111d);box-shadow:inset 0 1px #ffffff0a,0 12px 30px #0003}
+.identity-preview-top{display:flex;justify-content:space-between;gap:8px;color:var(--muted);font-size:8px;letter-spacing:1.4px;margin:2px 3px 10px}.identity-demo-card{margin:0!important}.identity-demo-card .actions{pointer-events:none}
+.identity-preview-data{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-top:10px;color:var(--muted);font-size:8px;letter-spacing:1px}.identity-preview-data b{color:var(--blue);margin-left:4px}
+.identity-control-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:12px 0}
+.identity-control{display:flex;flex-direction:column;gap:7px;padding:12px;border:1px solid var(--line);border-radius:11px;background:#0b1624;color:var(--muted);font-size:10px;line-height:1.45}
+.identity-control select,.identity-control input{margin:0;min-width:0}.identity-control output{float:right;color:var(--blue);font-weight:bold}
+.identity-swatches{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:12px 0 20px}
+.identity-swatches button{display:flex;align-items:center;justify-content:center;flex-direction:column;gap:7px;min-width:0;padding:10px 4px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--muted);font-size:8px;letter-spacing:.7px}
+.identity-swatches i{display:block;width:32px;height:20px;border-radius:6px;border:1px solid #ffffff35}.swatch-obsidian{background:linear-gradient(135deg,#26394b,#080e18)}
+.swatch-holo{background:linear-gradient(135deg,#8ceaff80,#182d4c,#b69aff80)}.swatch-titanium{background:linear-gradient(135deg,#b8c3cc,#3d5365,#172534)}.swatch-prism{background:linear-gradient(135deg,#38dfff,#9c83ff,#f3bc75)}
+.identity-preset-row{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:7px;align-items:center}.identity-preset-row select{margin:0;min-width:0}
+.identity-footnote{border-top:1px solid var(--line);margin-top:16px;padding-top:12px;color:var(--muted);font-size:9px;line-height:1.6}
+/* Surface materials apply to cards, panels, data blocks and dossiers — not only the page background. */
+body :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){
+transition:background var(--identity-motion),border-color var(--identity-motion),box-shadow var(--identity-motion),transform var(--identity-motion);
+}
+body[data-surface="obsidian"] :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){
+background:linear-gradient(145deg,#182737,#0c1521 72%);border-color:#30465b;box-shadow:inset 0 1px #ffffff0a,0 10px 24px #0002;
+}
+body[data-surface="holographic"] :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){
+background:linear-gradient(135deg,#18334bba,#101b2bd9 60%,#21304bbb);backdrop-filter:blur(15px) saturate(125%);border-color:color-mix(in srgb,var(--blue) 36%,#52677d);box-shadow:inset 0 1px #ffffff18,0 14px 30px #0004;
+}
+body[data-surface="titanium"] :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){
+background:linear-gradient(155deg,#34495b,#192b3d 36%,#0c1724 78%);border-color:#60778b;box-shadow:inset 0 1px #ffffff2b,inset 0 -1px #0008,0 12px 26px #0004;
+}
+body[data-surface="stealth"] :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){background:#0a121d;border-color:#1b2a3b;box-shadow:none}
+body[data-surface="prism"] :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){
+background:linear-gradient(135deg,color-mix(in srgb,var(--blue) 13%,#111d2c),#111927 52%,#27203b);border-color:color-mix(in srgb,var(--blue) 42%,#52456c);box-shadow:inset 0 1px #ffffff14,0 12px 28px #0004;
+}
+body[data-surface="neon-edge"] :is(.article,.stat,.watch-stat,.info,.watch-dashboard,.module,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){
+background:linear-gradient(145deg,#14283b,#0b1421);border-color:color-mix(in srgb,var(--blue) 65%,#ffffff);
+box-shadow:0 0 0 1px color-mix(in srgb,var(--blue) 14%,transparent),0 0 20px color-mix(in srgb,var(--blue) 12%,transparent),inset 0 1px #ffffff12;
+}
+body[data-border="hairline"] :is(.article,.stat,.info,.module,.panel){border-color:#ffffff20;border-radius:8px}
+body[data-border="glow"] :is(.article,.stat,.info,.module,.panel){border-color:var(--identity-edge);box-shadow:0 0 0 1px color-mix(in srgb,var(--blue) 10%,transparent),0 0 18px color-mix(in srgb,var(--blue) 12%,transparent)}
+body[data-border="angular"] :is(.article,.stat,.info,.module,.panel){border-radius:5px}
+body[data-border="hud"] :is(.article,.stat,.info,.module,.panel){background-image:linear-gradient(90deg,var(--blue) 0 18px,transparent 18px) top left/22px 1px no-repeat,linear-gradient(var(--blue) 0 18px,transparent 18px) top left/1px 22px no-repeat}
+body[data-news-layout="editorial"] .article{border-left:3px solid var(--blue);padding-left:17px;border-radius:5px 14px 14px 5px}
+body[data-news-layout="editorial"] .article h3{font-size:calc(18px * var(--font-scale,1));line-height:1.4;letter-spacing:-.25px}
+body[data-news-layout="editorial"] .article .article-foot{border-top-color:color-mix(in srgb,var(--blue) 30%,var(--line))}
+body[data-news-layout="intelligence"] .article{border-top:1px solid color-mix(in srgb,var(--blue) 44%,var(--line))}
+body[data-news-layout="intelligence"] .article .tag{letter-spacing:1.8px}
+body[data-news-layout="minimal"] .article{background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:14px 4px;box-shadow:none}
+body[data-news-layout="minimal"] .article .source-match{background:transparent;border-style:dashed}body[data-news-layout="minimal"] .article .article-foot{border-top:0}
+body[data-controls="technical"] :is(.small-btn,.primary,.chip){border-radius:6px;letter-spacing:.5px;text-transform:uppercase}
+body[data-controls="soft"] :is(.small-btn,.primary,.chip){border-radius:999px;padding-left:15px;padding-right:15px}
+body[data-controls="minimal"] :is(.small-btn,.primary){background:transparent;border-color:color-mix(in srgb,var(--blue) 42%,var(--line));color:var(--blue);box-shadow:none}
+body[data-icons="outlined"] nav button b{border:1px solid currentColor;border-radius:8px;padding:2px 7px;font-size:15px}
+body[data-icons="geometric"] nav button b{width:29px;height:25px;display:grid;place-items:center;border:1px solid color-mix(in srgb,currentColor 35%,transparent);border-radius:7px;background:color-mix(in srgb,var(--blue) 7%,transparent)}
+body[data-icons="minimal"] nav button b{font-size:20px;border:0;background:none}
+body[data-nav-style="holographic"] nav{background:rgba(10,22,36,.78);backdrop-filter:blur(22px) saturate(145%);border-top-color:color-mix(in srgb,var(--blue) 50%,transparent);box-shadow:0 -8px 32px #0005,0 0 18px color-mix(in srgb,var(--blue) 8%,transparent)}
+body[data-nav-style="minimal"] nav{background:rgba(5,10,17,.98);backdrop-filter:blur(8px);box-shadow:0 -3px 14px #0002}
+body[data-nav-style="command"] nav{background:linear-gradient(180deg,#101d2df5,#070e18f8);border-top-color:var(--identity-edge)}
+body[data-chart="precision"] .bar{height:4px;border-radius:1px;background:#1b2a3b}body[data-chart="precision"] .bar span{border-radius:1px}
+body[data-chart="gradient"] .bar span{background:linear-gradient(90deg,var(--blue),#8e8cff,var(--green))}
+body[data-chart="neon"] .bar span{box-shadow:0 0 8px color-mix(in srgb,var(--blue) 65%,transparent)}
+body[data-motion-preset="cinematic"]{--identity-motion:.58s}body[data-motion-preset="snappy"]{--identity-motion:.16s}body[data-motion-preset="off"]{--identity-motion:0s}
+body[data-motion-preset="cinematic"] :is(.article,.panel){box-shadow:0 14px 32px #0004}body[data-motion-preset="snappy"] button{transition-duration:.12s!important}
+body[data-focus-glow="on"] :is(button,input,select):focus-visible{outline:2px solid var(--blue);outline-offset:3px;box-shadow:0 0 0 5px color-mix(in srgb,var(--blue) 13%,transparent)}
+body[data-data-flow="on"] .article{position:relative;overflow:hidden}
+body[data-data-flow="on"] .article:after{content:"";position:absolute;left:-55%;top:0;width:42%;height:1px;background:linear-gradient(90deg,transparent,var(--blue),transparent);opacity:calc(var(--identity-glow)*1.5);pointer-events:none;animation:nexusDataFlow 7s linear infinite}
+body[data-reveal="on"] :is(.article,.stat,.module){animation:nexusIdentityReveal var(--identity-motion) ease both}
+body[data-reveal="on"] .article:nth-child(2n),body[data-reveal="on"] .stat:nth-child(2n){animation-delay:.04s}
+@keyframes nexusDataFlow{0%{transform:translateX(0)}100%{transform:translateX(390%)}}
+@keyframes nexusIdentityReveal{from{opacity:.35;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+body.reduce-motion *,body[data-motion-preset="off"] *,body[data-motion-intensity="0"] *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+@media(max-width:520px){
+.identity-control-grid{grid-template-columns:1fr}
+.identity-swatches{grid-template-columns:repeat(4,minmax(0,1fr))}
+.identity-preset-row{grid-template-columns:minmax(0,1fr) auto}
+.identity-preset-row select{grid-column:1/-1}
+.identity-studio-head h2{font-size:18px}
+.identity-demo-card .actions{gap:6px}
+.identity-demo-card .actions button{font-size:9px;padding:9px 8px}
+}
+@media(prefers-reduced-motion:reduce){
+body[data-data-flow="on"] .article:after{animation:none!important}
+body[data-reveal="on"] :is(.article,.stat,.module){animation:none!important}
+}</style></head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
 <div class="fx-structure fx-scan"></div> <canvas id="nexusFxParticles"></canvas> <div class="fx-vignette"></div> </div> <div id="readingProgress" aria-hidden="true"></div> <div id="nexusToast" role="status" aria-live="polite"></div>
 <button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button> <header> <div class="top"> <div class="logo">NE<span>X</span>US</div> <div class="header-actions"> <div class="system" id="systemState">● INITIALISATION</div>
 <span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span> <button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button>
@@ -296,6 +381,34 @@ body.fx-active .appearance-preview,body.fx-active .profile-card{background:color
 <p class="source">Exportation et importation de tes préférences visuelles. Cela ne remplace pas une sauvegarde des articles, dossiers ou favoris.</p>
 <div class="actions"><button class="small-btn" id="exportTheme" type="button">↧ Exporter mon thème</button><button class="small-btn" id="importThemeButton" type="button">↥ Importer un thème</button>
 <input type="file" id="importThemeFile" accept="application/json,.json" hidden></div> <button class="small-btn" id="resetAppearance" type="button">Réinitialiser l'apparence</button> </div>
+<div class="info identity-studio" id="identityStudio"><div class="identity-studio-head"><div><div class="label">NEXUS / IDENTITY STUDIO</div><h2>Personnalisation avancée.</h2><p>
+Transforme les cartes, les commandes, les graphiques et les animations. Aperçu appliqué en direct à toute l'interface.</p></div><span class="identity-live"><i></i> LIVE</span></div><div class="identity-preview-shell"><div class="identity-preview-top">
+<span>COMPONENT PREVIEW / 01</span><span>LIVE RENDER</span></div><article class="article identity-demo-card"><div class="article-head"><span class="tag">INTELLIGENCE</span><span class="status good">● SIGNAL ACTIF</span></div><h3>
+Un aperçu de l'identité NEXUS</h3><p>Les matériaux, contours, espacements et effets sont appliqués aux composants réels de l'application.</p><div class="identity-preview-data"><span>DATA FLOW <b>ACTIVE</b></span><span>VISUAL ENGINE <b>V14</b></span></div>
+<div class="bar"><span style="width:72%"></span></div><div class="actions"><button class="primary" type="button" tabindex="-1">Action principale</button><button class="small-btn" type="button" tabindex="-1">Commande secondaire</button></div></article>
+</div><div class="studio-heading">01 / SURFACE ENGINE — MATÉRIAUX DES COMPOSANTS</div><div class="identity-control-grid"><label class="identity-control"><span>Matériau des cartes et panneaux</span><select id="surfaceMaterial"><option value="obsidian">
+Obsidian · graphite profond</option><option value="holographic">Holographic · verre lumineux</option><option value="titanium">Titanium · métal brossé</option><option value="stealth">Stealth · mat discret</option><option value="prism">
+Prism · reflets multiton</option><option value="neon-edge">Neon Edge · contours lumineux</option></select></label><label class="identity-control"><span>Traitement des bordures</span><select id="borderStyle"><option value="hud">HUD · angles techniques
+</option><option value="hairline">Hairline · ligne fine</option><option value="glow">Glow · contour lumineux</option><option value="angular">Angular · angles nets</option><option value="classic">Classique</option></select></label></div>
+<div class="identity-swatches"><button type="button" data-identity-look="obsidian"><i class="swatch-obsidian"></i>OBSIDIAN</button><button type="button" data-identity-look="holographic"><i class="swatch-holo"></i>HOLOGRAPHIC</button>
+<button type="button" data-identity-look="titanium"><i class="swatch-titanium"></i>TITANIUM</button><button type="button" data-identity-look="prism"><i class="swatch-prism"></i>PRISM</button></div><div class="studio-heading">
+02 / NEWS COMPOSITION — STYLE DES PUBLICATIONS</div><div class="identity-control-grid"><label class="identity-control"><span>Présentation des actualités</span><select id="newsCardLayout"><option value="intelligence">Intelligence · fiche de briefing
+</option><option value="editorial">Editorial · magazine premium</option><option value="minimal">Minimal · lecture épurée</option></select></label><label class="identity-control"><span>Style des graphiques et indicateurs</span><select id="chartStyle">
+<option value="neon">Neon · lumineux</option><option value="precision">Precision · technique</option><option value="gradient">Gradient · dégradé</option></select></label></div><div class="studio-heading">03 / CONTROL DESIGN — BOUTONS, ICÔNES ET NAVIGATION
+</div><div class="identity-control-grid"><label class="identity-control"><span>Style des commandes</span><select id="controlStyle"><option value="technical">Technical · commandes HUD</option><option value="soft">Soft · arrondis premium</option>
+<option value="minimal">Minimal · discret</option></select></label><label class="identity-control"><span>Style des icônes</span><select id="iconStyle"><option value="geometric">Geometric · géométrique</option><option value="outlined">Outlined · contour
+</option><option value="minimal">Minimal · sobre</option></select></label><label class="identity-control"><span>Style de la barre inférieure</span><select id="navStyle"><option value="command">Command · centre de contrôle</option>
+<option value="holographic">Holographic · verre</option><option value="minimal">Minimal · discret</option></select></label></div><div class="studio-heading">04 / MOTION ENGINE — MOUVEMENT ET RÉACTIONS</div><div class="identity-control-grid">
+<label class="identity-control"><span>Signature des animations</span><select id="motionPreset"><option value="balanced">Balanced · fluide et discret</option><option value="cinematic">Cinematic · transitions profondes</option><option value="snappy">
+Snappy · rapide et nerveux</option><option value="off">Off · aucun mouvement décoratif</option></select></label><label class="identity-control"><span>Intensité des animations <output id="motionIntensityValue">55 %</output></span>
+<input type="range" id="motionIntensity" min="0" max="100" step="5" value="55"></label></div><div class="setting-row"><div><strong>Focus lumineux</strong><p>Mettre en évidence les commandes sélectionnées et les éléments actifs.</p></div>
+<label class="switch"><input type="checkbox" id="focusGlow" checked><span></span></label></div><div class="setting-row"><div><strong>Flux lumineux sur les cartes</strong><p>Fine ligne animée sur les contours, sans masquer le contenu.</p></div>
+<label class="switch"><input type="checkbox" id="dataFlow" checked><span></span></label></div><div class="setting-row"><div><strong>Apparition progressive</strong><p>Révéler les cartes et modules lors de leur affichage.</p></div><label class="switch">
+<input type="checkbox" id="revealMotion" checked><span></span></label></div><div class="studio-heading">05 / PERSONAL PRESETS — IDENTITÉS ENREGISTRÉES</div><p class="source">
+Enregistre plusieurs configurations complètes sur cet appareil, puis restaure-les en un toucher. Les réglages restent locaux.</p><div class="identity-preset-row"><select id="savedIdentityPreset"><option value="">Aucune identité enregistrée</option>
+</select><button type="button" class="small-btn" id="loadIdentityPreset">Charger</button><button type="button" class="small-btn" id="deleteIdentityPreset">Supprimer</button></div><div class="actions">
+<button type="button" class="primary" id="saveIdentityPreset">＋ Enregistrer cette identité</button><button type="button" class="small-btn" id="resetIdentityEngine">Réinitialiser le moteur</button></div><div class="identity-footnote">
+Les options de personnalisation changent l'apparence des composants existants. Elles ne modifient pas les données des actualités ni les fonctions métier.</div></div> 
 <div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option><option>10</option><option>15</option><option>20</option></select></div>
 <div class="info"><div class="label">SOURCES</div><p>Les articles sont chargés depuis le fichier automatique news.json.</p></div>
 <div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div>
@@ -497,7 +610,8 @@ if("serviceWorker" in navigator){ window.addEventListener("load",()=>{ navigator
 if(subscription)await subscription.unsubscribe(); }catch(error){console.info("NEXUS : aucun ancien abonnement Push à désactiver.")} }).catch(e=>console.error("NEXUS :",e)); }); } /* NEXUS V10 — OUTILS TRANSVERSAUX */
 const NEXUS_PREFS_KEY="nexusInterfacePrefsV1";
 const DEFAULT_NEXUS_PREFS={profile:"tactical",accent:"blue",customAccent:"#43d9ff",glow:35,background:"deep",backgroundTexture:"grid",cardStyle:"standard",glass:false,glowMode:true,ambient:false,compact:false,density:"normal",reducedMotion:false,panelOpacity:78,cornerRadius:14,
-fontScale:100,fxIntensity:92,fxAtmosphere:88,fxParticles:48,fxSpeed:42,fxDepth:68,fxPalette:"nexus",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,haptics:true};
+fontScale:100,fxIntensity:92,fxAtmosphere:88,fxParticles:48,fxSpeed:42,fxDepth:68,fxPalette:"nexus",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,haptics:true,
+surfaceMaterial:"obsidian",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"balanced",motionIntensity:55,focusGlow:true,dataFlow:true,revealMotion:true};
 let nexusPrefs={...DEFAULT_NEXUS_PREFS,...readStorage(NEXUS_PREFS_KEY,{})}; const ACCENTS={
 blue:{blue:"#43d9ff",soft:"#12334b"},cyan:{blue:"#64f0e5",soft:"#103b3a"},green:{blue:"#62e6a5",soft:"#123a2b"},amber:{blue:"#f2bd62",soft:"#3b2c16"},violet:{blue:"#b69aff",soft:"#2b2146"},red:{blue:"#ff7777",soft:"#421f29"} }; function applyNexusPreferences(){
 const chosen=ACCENTS[nexusPrefs.accent]?nexusPrefs.accent:"blue"; const color=nexusPrefs.accent==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customAccent)?nexusPrefs.customAccent:ACCENTS[chosen].blue;
@@ -509,6 +623,21 @@ document.documentElement.style.setProperty("--font-scale",String(Math.max(75,Mat
 document.body.classList.toggle("compact",nexusPrefs.density==="compact"||!!nexusPrefs.compact); document.body.classList.toggle("spacious",nexusPrefs.density==="spacious"); document.body.classList.toggle("reduce-motion",!!nexusPrefs.reducedMotion);
 document.body.classList.toggle("glass-ui",!!nexusPrefs.glass);document.body.classList.toggle("soft-glow",!!nexusPrefs.glowMode&&Number(nexusPrefs.glow)>0);document.body.classList.toggle("ambient-ui",!!nexusPrefs.ambient&&!nexusPrefs.reducedMotion);
 document.body.classList.toggle("flat-cards",nexusPrefs.cardStyle==="flat");document.body.classList.toggle("round-cards",nexusPrefs.cardStyle==="round"); document.body.dataset.texture=nexusPrefs.backgroundTexture||"none"; document.body.classList.add("fx-active");
+document.body.dataset.surface=nexusPrefs.surfaceMaterial||"obsidian";
+document.body.dataset.border=nexusPrefs.borderStyle||"hud";
+document.body.dataset.newsLayout=nexusPrefs.newsCardLayout||"intelligence";
+document.body.dataset.controls=nexusPrefs.controlStyle||"technical";
+document.body.dataset.icons=nexusPrefs.iconStyle||"geometric";
+document.body.dataset.navStyle=nexusPrefs.navStyle||"command";
+document.body.dataset.chart=nexusPrefs.chartStyle||"neon";
+document.body.dataset.motionPreset=nexusPrefs.motionPreset||"balanced";
+document.body.dataset.focusGlow=nexusPrefs.focusGlow===false?"off":"on";
+document.body.dataset.dataFlow=nexusPrefs.dataFlow===false?"off":"on";
+document.body.dataset.reveal=nexusPrefs.revealMotion===false||nexusPrefs.reducedMotion?"off":"on";
+document.body.dataset.motionIntensity=String(nexusPrefs.motionIntensity??55);
+document.documentElement.style.setProperty("--identity-glow",String(Math.max(0,Math.min(100,Number(nexusPrefs.motionIntensity??55)))/100));
+document.documentElement.style.setProperty("--identity-motion",(0.12+Math.max(0,Math.min(100,Number(nexusPrefs.motionIntensity??55)))/100*.48)+"s");
+
 document.documentElement.style.setProperty("--fx-visibility",String(Math.max(0,Math.min(100,Number(nexusPrefs.fxIntensity)||0))/100)); document.documentElement.style.setProperty("--fx-atmosphere",String(Math.max(0,Math.min(100,Number(nexusPrefs.fxAtmosphere)||0))/100));
 const depth=Math.max(0,Math.min(100,Number(nexusPrefs.fxDepth)||0))/100; document.documentElement.style.setProperty("--fx-depth",String(depth)); document.documentElement.style.setProperty("--fx-grid-opacity",String(depth*.2));
 document.documentElement.style.setProperty("--fx-scan-opacity",String(depth*.38)); document.documentElement.style.setProperty("--fx-blur",(3+depth*11)+"px"); document.documentElement.style.setProperty("--fx-glow",(Math.max(0,Math.min(100,Number(nexusPrefs.glow)||0))*.18)+"%");
@@ -516,10 +645,49 @@ const speed=Math.max(0,Math.min(100,Number(nexusPrefs.fxSpeed)||0)); const durat
 document.documentElement.style.setProperty("--fx-orbit-duration",(duration*.7)+"s"); document.documentElement.style.setProperty("--fx-scan-duration",(duration*.46)+"s"); document.body.dataset.fxPalette=nexusPrefs.fxPalette||"nexus";
 document.body.dataset.fxGrid=nexusPrefs.fxGrid===false?"off":"on"; document.body.dataset.fxScan=nexusPrefs.fxScan===false?"off":"on"; document.body.dataset.fxAurora=nexusPrefs.fxAurora===false?"off":"on";
 document.body.dataset.fxParticles=Number(nexusPrefs.fxParticles)>0?"on":"off"; document.body.dataset.fxMotion=nexusPrefs.fxMotion===false||nexusPrefs.reducedMotion?"off":"on";
-const ids={themeProfile:nexusPrefs.profile||"tactical",accentColor:chosen,customAccent:nexusPrefs.customAccent,glowLevel:nexusPrefs.glow,backgroundStyle:nexusPrefs.background,backgroundTexture:nexusPrefs.backgroundTexture||"none",cardStyle:nexusPrefs.cardStyle,
-compactMode:nexusPrefs.density==="compact",reducedMotion:nexusPrefs.reducedMotion,glassMode:nexusPrefs.glass,glowMode:nexusPrefs.glowMode,ambientMode:nexusPrefs.ambient,panelOpacity:nexusPrefs.panelOpacity,cornerRadius:nexusPrefs.cornerRadius,fontScale:nexusPrefs.fontScale,
-densityMode:nexusPrefs.density||"normal",fxIntensity:nexusPrefs.fxIntensity,fxAtmosphere:nexusPrefs.fxAtmosphere,fxParticles:nexusPrefs.fxParticles,fxSpeed:nexusPrefs.fxSpeed,fxDepth:nexusPrefs.fxDepth,fxPalette:nexusPrefs.fxPalette,fxGrid:nexusPrefs.fxGrid,
-fxScan:nexusPrefs.fxScan,fxAurora:nexusPrefs.fxAurora,fxMotion:nexusPrefs.fxMotion,haptics:nexusPrefs.haptics};
+const ids={
+themeProfile:nexusPrefs.profile||"tactical",
+accentColor:chosen,
+customAccent:nexusPrefs.customAccent,
+glowLevel:nexusPrefs.glow,
+backgroundStyle:nexusPrefs.background,
+backgroundTexture:nexusPrefs.backgroundTexture||"none",
+cardStyle:nexusPrefs.cardStyle,
+
+compactMode:nexusPrefs.density==="compact",
+reducedMotion:nexusPrefs.reducedMotion,
+glassMode:nexusPrefs.glass,
+glowMode:nexusPrefs.glowMode,
+ambientMode:nexusPrefs.ambient,
+panelOpacity:nexusPrefs.panelOpacity,
+cornerRadius:nexusPrefs.cornerRadius,
+fontScale:nexusPrefs.fontScale,
+
+densityMode:nexusPrefs.density||"normal",
+fxIntensity:nexusPrefs.fxIntensity,
+fxAtmosphere:nexusPrefs.fxAtmosphere,
+fxParticles:nexusPrefs.fxParticles,
+fxSpeed:nexusPrefs.fxSpeed,
+fxDepth:nexusPrefs.fxDepth,
+fxPalette:nexusPrefs.fxPalette,
+fxGrid:nexusPrefs.fxGrid,
+
+fxScan:nexusPrefs.fxScan,
+fxAurora:nexusPrefs.fxAurora,
+fxMotion:nexusPrefs.fxMotion,
+haptics:nexusPrefs.haptics,
+surfaceMaterial:nexusPrefs.surfaceMaterial,
+borderStyle:nexusPrefs.borderStyle,
+newsCardLayout:nexusPrefs.newsCardLayout,
+controlStyle:nexusPrefs.controlStyle,
+iconStyle:nexusPrefs.iconStyle,
+navStyle:nexusPrefs.navStyle,
+chartStyle:nexusPrefs.chartStyle,
+motionPreset:nexusPrefs.motionPreset,
+motionIntensity:nexusPrefs.motionIntensity,
+focusGlow:nexusPrefs.focusGlow,
+dataFlow:nexusPrefs.dataFlow,
+revealMotion:nexusPrefs.revealMotion};
 Object.entries(ids).forEach(([id,value])=>{const el=document.getElementById(id);if(el)el.type==="checkbox"?el.checked=!!value:el.value=value});
 document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical"))); if(typeof refreshNexusFX==="function")refreshNexusFX(); } function applyThemeProfile(profile){ const presets={
 tactical:{profile:"tactical",accent:"blue",background:"deep",backgroundTexture:"grid",glow:32,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:80,cornerRadius:14,density:"normal",fxIntensity:78,fxAtmosphere:62,fxParticles:28,fxSpeed:30,fxDepth:58,
@@ -554,7 +722,7 @@ bind("fxIntensity","fxIntensity",()=>{});bind("fxAtmosphere","fxAtmosphere",()=>
 bind("fxPalette","fxPalette",()=>{});bind("fxGrid","fxGrid",()=>{});bind("fxScan","fxScan",()=>{});bind("fxAurora","fxAurora",()=>{});bind("fxMotion","fxMotion",()=>{});bind("haptics","haptics",()=>{});
 document.getElementById("themeProfile").addEventListener("change",e=>applyThemeProfile(e.target.value)); document.querySelectorAll("[data-profile]").forEach(b=>b.addEventListener("click",()=>applyThemeProfile(b.dataset.profile)));
 document.getElementById("resetAppearance").addEventListener("click",()=>{nexusPrefs={...DEFAULT_NEXUS_PREFS};saveNexusPreferences();showNexusToast("Apparence réinitialisée.")});
-document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:13,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const
+document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const
 a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
 document.getElementById("importThemeButton").addEventListener("click",()=>document.getElementById("importThemeFile").click());
 document.getElementById("importThemeFile").addEventListener("change",async e=>{const file=e.target.files&&e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("Format invalide");
@@ -646,7 +814,7 @@ document.getElementById("saveJournal")?.addEventListener("click",()=>{const el=d
 a.slice(0,200));el.value="";renderPersonalDesk()});
 document.addEventListener("click",e=>{const del=(attr,key)=>{const b=e.target.closest("["+attr+"]");if(b){const a=v13Read(key,[]);a.splice(Number(b.getAttribute(attr)),1);v13Save(key,a);renderPersonalDesk()}};del("data-delete-note",NEXUS_STORE.notes);del("data-delete-task",
 NEXUS_STORE.tasks);del("data-delete-event",NEXUS_STORE.events);const check=e.target.closest("[data-task-check]");if(check){const a=v13Read(NEXUS_STORE.tasks,[]);a[Number(check.dataset.taskCheck)].done=check.checked;v13Save(NEXUS_STORE.tasks,a)}});
-document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:13,exportedAt:new Date().toISOString(),
+document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),
 data:Object.fromEntries(keys.map(k=>[k,localStorage.getItem(k)]))};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="nexus-ultimate-backup.json";a.click();
 URL.revokeObjectURL(url)});
 document.getElementById("importAllDataButton")?.addEventListener("click",()=>document.getElementById("importAllDataFile").click());document.getElementById("importAllDataFile")?.addEventListener("change",async e=>{const f=e.target.files?.[0];if(!f)return;try{const
@@ -666,10 +834,98 @@ if(i%2===0&&particles.length<65){const q=particles[(i+7)%particles.length],dx=q.
 ctx.globalAlpha=1;frame=requestAnimationFrame(animate); } function refresh(){ const motion=nexusPrefs.fxMotion!==false&&!nexusPrefs.reducedMotion&&!window.matchMedia("(prefers-reduced-motion: reduce)").matches; canvas.style.display=Number(nexusPrefs.fxParticles)>0?"block":"none";
 resize();stop();if(motion&&!document.hidden&&particles.length)frame=requestAnimationFrame(animate); } window.addEventListener("resize",resize,{passive:true}); document.addEventListener("visibilitychange",()=>{if(document.hidden)stop();else refresh()});
 window.refreshNexusFX=refresh;refresh();
-if("vibrate" in navigator){document.addEventListener("click",event=>{const button=event.target.closest("button");if(button&&!button.disabled&&nexusPrefs.haptics&&!nexusPrefs.reducedMotion){try{navigator.vibrate(8)}catch(error){}}},{passive:true})} } /* INITIALISATION */
+if("vibrate" in navigator){document.addEventListener("click",event=>{const button=event.target.closest("button");if(button&&!button.disabled&&nexusPrefs.haptics&&!nexusPrefs.reducedMotion){try{navigator.vibrate(8)}catch(error){}}},{passive:true})} } 
+/* NEXUS V14 — IDENTITY STUDIO ENGINE */
+const NEXUS_IDENTITY_PRESETS_KEY="nexusIdentityPresetsV1";
+
+function readIdentityPresets(){try{return JSON.parse(localStorage.getItem(NEXUS_IDENTITY_PRESETS_KEY)||"[]")}catch(e){return []}}
+function renderIdentityPresets(){const select=document.getElementById("savedIdentityPreset");
+if(!select)return;
+const presets=readIdentityPresets();
+select.innerHTML='<option value="">'+(presets.length?"Choisir une identité enregistrée…":"Aucune identité enregistrée")+'</option>'+presets.map((p,i)=>'<option value="'+i+'">'+escapeHTML(p.name)+'</option>').join("")}
+function applyIdentityLook(surface){const borders={obsidian:"hud",holographic:"glow",titanium:"hairline",prism:"glow"};
+nexusPrefs.surfaceMaterial=surface;
+nexusPrefs.borderStyle=borders[surface]||"hud";
+nexusPrefs.profile="custom";
+saveNexusPreferences();
+showNexusToast("Matériau "+surface+" appliqué.")}
+function initNexusIdentityStudio(){
+const fields={
+surfaceMaterial:"surfaceMaterial",
+borderStyle:"borderStyle",
+newsCardLayout:"newsCardLayout",
+controlStyle:"controlStyle",
+iconStyle:"iconStyle",
+navStyle:"navStyle",
+chartStyle:"chartStyle",
+motionPreset:"motionPreset",
+motionIntensity:"motionIntensity",
+focusGlow:"focusGlow",
+dataFlow:"dataFlow",
+revealMotion:"revealMotion"};
+
+Object.entries(fields).forEach(([id,key])=>{const el=document.getElementById(id);
+if(!el)return;
+const save=()=>{nexusPrefs[key]=el.type==="checkbox"?el.checked:el.type==="range"?Number(el.value):el.value;
+nexusPrefs.profile="custom";
+saveNexusPreferences();
+const output=document.getElementById("motionIntensityValue");
+if(output)output.textContent=(nexusPrefs.motionIntensity??55)+" %"};
+el.addEventListener("input",save);
+el.addEventListener("change",save)});
+
+document.querySelectorAll("[data-identity-look]").forEach(button=>button.addEventListener("click",()=>applyIdentityLook(button.dataset.identityLook)));
+
+document.getElementById("saveIdentityPreset")?.addEventListener("click",()=>{const name=prompt("Nom de cette identité NEXUS :");
+if(!name||!name.trim())return;
+const presets=readIdentityPresets();
+presets.unshift({name:name.trim().slice(0,32),preferences:{...nexusPrefs},savedAt:new Date().toISOString()});
+localStorage.setItem(NEXUS_IDENTITY_PRESETS_KEY,JSON.stringify(presets.slice(0,12)));
+renderIdentityPresets();
+document.getElementById("savedIdentityPreset").value="0";
+showNexusToast("Identité enregistrée sur cet appareil.")});
+
+document.getElementById("loadIdentityPreset")?.addEventListener("click",()=>{const selected=document.getElementById("savedIdentityPreset").value;if(selected==="")return;const index=Number(selected),preset=readIdentityPresets()[index];
+if(!preset?.preferences)return;
+const allowed={...DEFAULT_NEXUS_PREFS,...preset.preferences};
+nexusPrefs=allowed;
+saveNexusPreferences();
+showNexusToast("Identité restaurée.")});
+
+document.getElementById("deleteIdentityPreset")?.addEventListener("click",()=>{const select=document.getElementById("savedIdentityPreset"),index=Number(select.value);
+if(!select.value)return;
+const presets=readIdentityPresets();
+presets.splice(index,1);
+localStorage.setItem(NEXUS_IDENTITY_PRESETS_KEY,JSON.stringify(presets));
+renderIdentityPresets();
+showNexusToast("Identité supprimée.")});
+
+document.getElementById("resetIdentityEngine")?.addEventListener("click",()=>{Object.assign(nexusPrefs,{surfaceMaterial:DEFAULT_NEXUS_PREFS.surfaceMaterial,
+borderStyle:DEFAULT_NEXUS_PREFS.borderStyle,
+newsCardLayout:DEFAULT_NEXUS_PREFS.newsCardLayout,
+controlStyle:DEFAULT_NEXUS_PREFS.controlStyle,
+iconStyle:DEFAULT_NEXUS_PREFS.iconStyle,
+navStyle:DEFAULT_NEXUS_PREFS.navStyle,
+chartStyle:DEFAULT_NEXUS_PREFS.chartStyle,
+motionPreset:DEFAULT_NEXUS_PREFS.motionPreset,
+motionIntensity:DEFAULT_NEXUS_PREFS.motionIntensity,
+focusGlow:DEFAULT_NEXUS_PREFS.focusGlow,
+dataFlow:DEFAULT_NEXUS_PREFS.dataFlow,
+revealMotion:DEFAULT_NEXUS_PREFS.revealMotion});
+nexusPrefs.profile="custom";
+saveNexusPreferences();
+showNexusToast("Moteur Identity Studio réinitialisé.")});
+
+const output=document.getElementById("motionIntensityValue");
+if(output)output.textContent=(nexusPrefs.motionIntensity??55)+" %";
+renderIdentityPresets();
+
+}
+
+/* INITIALISATION */
 const stamp=localStorage.getItem("nexusLastUpdate"); if(articles.length){ if(!archive.length){archive=articles;localStorage.setItem("nexusArchiveV3",JSON.stringify(archive))}
 document.getElementById("lastUpdate").textContent=stamp?"Dernière mise à jour : "+new Date(stamp).toLocaleString("fr-FR")+" (cache)":"Articles précédemment chargés."; document.getElementById("systemState").textContent="● CACHE LOCAL"; }
-document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", "); render(); renderPrimaryNav(); renderCommandMenu(); initNexusV10(); initNexusFX(); initNexusUltimate();
+document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", "); render(); renderPrimaryNav(); renderCommandMenu(); initNexusV10(); initNexusIdentityStudio(); initNexusFX(); initNexusUltimate();
 document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",String(!p.classList.contains("active")))); updateAlertIndicator(); refreshNews();
 </script>
 </body>
