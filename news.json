@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T10:19:43.039397+00:00",
+  "updated_at": "2026-11-21T11:06:40.178743+00:00",
   "count": 285,
   "articles": [
     {
@@ -523,20 +523,76 @@
       "category": "Exploration"
     },
     {
-      "title": "Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère, pour le sixième samedi d'affilée",
-      "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 11:04:30 +0100",
-      "description": "Ces rassemblements s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "title": "EN DIRECT - Colère sociale : Laurent Nuñez appelle les préfets à la vigilance à l’approche d’une sixième journée de mobilisation",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+      "date": "Sat, 21 Nov 2026 11:59:02 +0100",
+      "description": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Budget de l’UE : Paris rejette le nouveau projet qui prévoit 204 milliards d'euros et une taxe numérique",
+      "link": "https://www.lefigaro.fr/conjoncture/budget-le-conseil-europeen-prevoit-des-coupes-de-204-milliards-d-euros-et-une-taxe-numerique-20261121",
+      "date": "Sat, 21 Nov 2026 11:56:43 +0100",
+      "description": "L’Élysée qualifie de «très décevant» le nouveau projet de budget présenté ce samedi par le président du Conseil européen pour la période 2028-2034.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "\"Je crois que raconter l’histoire des mafias, notamment à travers le cinéma, est extrêmement utile\" : Roberto Saviano est l'invité exceptionnel du Festival du film d'Histoire de Pessac",
+      "link": "https://www.franceinfo.fr/culture/cinema/je-crois-que-raconter-l-histoire-des-mafias-notamment-a-travers-le-cinema-est-extremement-utile-roberto-saviano-est-l-invite-exceptionnel-du-festival-du-film-d-histoire-de-pessac_8289596.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 11:49:07 +0100",
+      "description": "L’écrivain italien qui a dénoncé la Camorra fait l'objet d'un documentaire, \"Gomorra, Manifeste antimafia\", et nous parle de ses goûts de cinéphile.",
       "source": "franceinfo",
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Colère sociale : Laurent Nuñez appelle les préfets à la vigilance à l’approche d’une sixième journée de mobilisation",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
-      "date": "Sat, 21 Nov 2026 10:57:03 +0100",
-      "description": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
-      "source": "Le Figaro",
+      "title": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\"",
+      "link": "https://www.franceinfo.fr/societe/manifestations/l-association-droit-au-logement-appelle-a-renforcer-l-encadrement-des-loyers-et-a-produire-du-logement-social_8293607.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 11:24:55 +0100",
+      "description": "Encadrement des loyers, construction de logements sociaux et lutte contre les passoires thermiques : l'association Droit au logement entend faire du logement une revendication centrale de l'\"Acte VI\" de la mobilisation contre la vie chère. Son porte-parole, Jean-Baptiste Eyraud, dénonce notamment un amendement sur les passoires thermiques, qu'il juge \"criminel\".",
+      "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : Eric Zemmour lance sa campagne avec un meeting à Toulon",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 11:19:13 +0100",
+      "description": "Le rassemblement doit débuter à 15h30 au Zénith, en présence notamment de Sarah Knafo, autre figure du parti Reconquête.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Meilleurs ordinateurs portables pour le voyage (2026): Qui prendre sur la route",
+      "link": "https://www.wired.com/story/best-laptops-for-travel/",
+      "date": "Sat, 21 Nov 2026 11:00:00 +0000",
+      "description": "Ayant apporté de nombreux ordinateurs portables différents lors de voyages de travail, je peux dire que ce sont les meilleurs ordinateurs portables pour voyager, basé sur mes tests personnels.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "La sonde BepiColombo européenne-japonaise arrive en orbite autour de Mercure aujourd'hui",
+      "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "date": "Sat, 21 Nov 2026 11:00:00 +0000",
+      "description": "Le vaisseau spatial BepiColombo arrivera enfin en orbite autour de Mercure aujourd'hui (21 novembre), plus de huit ans après avoir quitté sa planète d'origine.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "«Dancing on the Edge» de Pamela : dancer sur le volcan",
+      "link": "https://www.liberation.fr/culture/musique/dancing-on-the-edge-de-pamela-dancer-sur-le-volcan-20261121_QMKH4GCCS5ADHDDLZE5N6FKY6U/",
+      "date": "Sat, 21 Nov 2026 10:59:00 +0000",
+      "description": "Traversé par les idées sombres de l’époque, l’album de ce duo franco-britannique, virevoltant et imprévisible, fait un bien fou.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "COP31: Le sommet de l'ONU sur le climat se déroule en heures supplémentaires car l'accord reste insaisissable",
+      "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 10:52:00 GMT",
+      "description": "Après près de deux semaines de négociations, les pays restent divisés sur la manière de lutter contre le réchauffement climatique. Un nouveau projet de déclaration ne mentionne pas l'élimination progressive des combustibles fossiles, principaux moteurs du changement climatique. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
@@ -547,11 +603,83 @@
       "category": "France"
     },
     {
-      "title": "Eric Zemmour lance sa campagne pour l'élection présidentielle avec un meeting à Toulon",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 10:19:29 +0100",
-      "description": "Le rassemblement doit débuter à 15h30 au Zénith, en présence notamment de Sarah Knafo, autre figure du parti Reconquête.",
+      "title": "\"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville",
+      "link": "https://www.franceinfo.fr/societe/manifestations/reportage-je-vais-aller-bruler-un-cierge-a-lyon-les-commercants-de-la-place-bellecour-s-inquietent-du-retour-des-corteges-en-centre-ville_8292824.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 10:51:43 +0100",
+      "description": "La préfecture du Rhône a interdit les manifestations dans le centre-ville de Lyon, alors que les gilets jaunes ont annoncé une sixième journée de mobilisation, samedi 21 novembre. Trois rassemblements sont prévus, en évitant la place Bellecour, la plus grande place de la ville. Mais les commerçants s'inquiètent de la fin des cortèges.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT – Mobilisation contre la vie chère : coup d’envoi du sixième samedi de manifestations",
+      "link": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/",
+      "date": "Sat, 21 Nov 2026 10:42:45 +0000",
+      "description": "A Paris, la coordination des gilets jaunes s’est vue refuser par la préfecture de police de se rendre jusqu’à la place de la Concorde. Elle devrait donc rejoindre le cortège syndical, au départ de la place de la République.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les entrepreneurs de l'espace devraient chercher jusqu'au 16ème siècle Spice Trade For Inspiration",
+      "link": "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration",
+      "date": "Sat, 21 Nov 2026 10:39:27 +0000",
+      "description": "À court terme, l'exploration humaine de la Lune et de Mars semble pratique, mais pour les 50 prochaines années au moins, l'exploration robotique peut être la plus rentable et la plus efficace. L'exploration humaine exige un rendement impératif du capital.",
+      "source": "Universe Today",
+      "category": "Exploration"
+    },
+    {
+      "title": "«Celle qui doute» au théâtre de la Colline : dans l’enchanteur spectacle d’Isabelle Lafon, jeu est une autre",
+      "link": "https://www.liberation.fr/culture/celle-qui-doute-au-theatre-de-la-colline-dans-lenchanteur-spectacle-disabelle-lafon-jeu-est-une-autre-20261121_DW5XJYZANBFUNGFU5BBHURQFN4/",
+      "date": "Sat, 21 Nov 2026 10:35:00 +0000",
+      "description": "Avec son seul en scène, l’actrice et metteuse en scène nous transporte d’un univers à l’autre, d’une femme l’autre, sans décors ni costume. Un spectacle aussi enchanteur que saisissant. Jusqu’au 12 décembre.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Anthropique chercheur utilise l'IA pour résoudre la plus grande énigme des mathématiques",
+      "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 10:29:00 GMT",
+      "description": "La percée proposée pourrait remodeler la recherche mathématique, mais elle nécessite encore une vérification indépendante. C'est le dernier dans une série de cas où l'IA a dépassé les humains pour résoudre des problèmes de mathématiques célèbres.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Harden passe Bryant, ferme sur la Jordanie en NBA liste de 50 points",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 10:27:23 +0000",
+      "description": "James Harden monte la liste des records de carrière de NBA en tête de Cleveland Cavaliers à 128-119 victoire sur Indiana Pacers.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Détroit d'Ormuz: deux pétroliers touchés par des «projectiles d'origine inconnue»",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-d%C3%A9troit-d-ormuz-deux-p%C3%A9troliers-touch%C3%A9s-par-des-projectiles-d-origine-inconnue",
+      "date": "Sat, 21 Nov 2026 10:27:08 GMT",
+      "description": "Deux pétroliers ont été frappés samedi 21 novembre par des «projectiles d'origine inconnue» en sortant du détroit d'Ormuz, a rapporté l'agence maritime britannique UKMTO, se basant sur des informations d'une «autorité militaire».",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Les pays conviennent d'élaborer d'ici 2028 des règles pour les robots tueurs à l'IA",
+      "link": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 10:25:29 +0000",
+      "description": "Les membres de la Convention des Nations Unies sur certaines armes classiques ne parviennent pas à s'entendre sur l'adoption rapide de règles juridiquement contraignantes.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "«Ils avaient une façon de parler rassurante» : des centaines de Français victimes d’une «escroquerie» immobilière aux Etats-Unis",
+      "link": "https://www.liberation.fr/societe/police-justice/ils-avaient-une-facon-de-parler-rassurante-des-centaines-de-francais-victimes-dune-escroquerie-immobiliere-aux-etats-unis-20261121_U6XDD46VEFFTTAGDQPQSJ6DF3M/",
+      "date": "Sat, 21 Nov 2026 10:22:00 +0000",
+      "description": "La société RealToken proposait d’investir moyennant un ticket d’entrée de 50 dollars en cryptomonnaie. Vite, les victimes ne perçoivent plus les juteux intérêts promis et soupçonnent une pyramide de Ponzi. Elles portent plainte à Paris.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "«On t’a cru» : malgré des peines inférieures aux réquisitions, les avocats de Michel Zecler se réjouissent de la condamnation des policiers pour racisme",
+      "link": "https://www.liberation.fr/societe/police-justice/on-ta-cru-malgre-des-peines-inferieures-aux-requisitions-les-avocats-de-michel-zecler-se-rejouissent-de-la-condamnation-des-policiers-pour-racisme-20261121_TELVTY6TRVB67IMY2SB4QTKP3I/",
+      "date": "Sat, 21 Nov 2026 10:19:53 +0000",
+      "description": "Après le prononcé des peines contre les trois policiers, Serge Money et Seydi Ba ont tous les deux insisté sur le verdict sorti du procès, vendredi 20 novembre, y voyant une «jurisprudence» pour les personnes dénonçant les violences et les injures racistes de policiers.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -579,14 +707,6 @@
       "category": "Monde"
     },
     {
-      "title": "Au Brésil, Lula reconnaît les terres ancestrales du chef Raoni",
-      "link": "https://www.liberation.fr/international/amerique/au-bresil-lula-reconnait-les-terres-ancestrales-du-chef-raoni-20261121_GJLXDOY2RBHHXBPNCHNOVNE3OU/",
-      "date": "Sat, 21 Nov 2026 10:09:45 +0000",
-      "description": "En signant une ordonnance pour protéger ce territoire du Mato Grosso, le président brésilien réalise en geste fort en faveur des populations indigènes. Mais sa décision attise les tensions avec les propriétaires agricoles, très présents dans la région.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "17 Meilleurs cadeaux pour les femmes dans l'Enshittocène (2026)",
       "link": "https://www.wired.com/story/best-gifts-for-women/",
       "date": "Sat, 21 Nov 2026 10:02:00 +0000",
@@ -611,36 +731,20 @@
       "category": "Technologie"
     },
     {
+      "title": "Verstappen échappe à la discipline Vegas F1, prend la pole comme Antonelli pénalisé",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 09:58:59 +0000",
+      "description": "Max Verstappen échappe à la discipline à Vegas F1 pratique après les run-ins et prend la pole comme Kimi Antonelli frappé avec pénalité.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 21 Nov 2026 09:52:11 GMT",
       "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Jean-Victor Makengo, milieu de terrain du FC Lorient : «Le foot, c’est moi contre moi»",
-      "link": "https://www.liberation.fr/sports/football/jean-victor-makengo-milieu-de-terrain-du-fc-lorient-le-foot-cest-moi-contre-moi-20261121_56TCEHFRGZEHRIRRDPDXRG6X5Q/",
-      "date": "Sat, 21 Nov 2026 09:50:00 +0000",
-      "description": "Neuf ans après une première rencontre, on est retourné voir celui qui est devenu incontournable chez les Merlus, qui reçoivent Rennes dimanche 22 novembre. Le joueur raconte les deux bouts d’une carrière qui l’a vu évoluer au gré des transferts, des entraîneurs… et des enfants.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Top des ventes de livres : politique, prix et planches",
-      "link": "https://www.liberation.fr/culture/livres/top-des-ventes-de-livres-politique-prix-et-planches-20261121_C4M5IUNFTJHLDIK2HYQNTNFBLE/",
-      "date": "Sat, 21 Nov 2026 09:44:00 +0000",
-      "description": "Mélenchon, Goncourt ou BD : ambiance de mi-novembre.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Christine Lagarde, un recours pour la droite et le centre à l’élection présidentielle ?",
-      "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/christine-lagarde-un-recours-pour-la-droite-et-le-centre-a-l-election-presidentielle_8271749.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 09:41:41 +0100",
-      "description": "Certains dans l'ombre observent les mouvements dans les sondages des candidats actuellement déclarés, voulant à tout prix à éviter un duel final entre Marine Le Pen et Jean-Luc Mélenchon. Ils testent même de nouveaux noms, cherchant le candidat ou la candidate pourrait sauver le \"bloc central\".",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Sandpapergate: Cummins a l'Australie ‘unanimous support.",
@@ -657,22 +761,6 @@
       "description": "La base de données du Centre national d'information sur la criminalité est utilisée par les services de détection et de répression fédéraux et locaux pour échanger des informations.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "A Mayotte, les rixes et rackets se multiplient : «S’il se passait ailleurs le tiers de ce qui a lieu ici, ça ferait la une de tous les journaux»",
-      "link": "https://www.liberation.fr/societe/police-justice/a-mayotte-les-rixes-et-rackets-se-multiplient-sil-se-passait-ailleurs-le-tiers-de-ce-qui-a-lieu-ici-ca-ferait-la-une-de-tous-les-journaux-20261121_LCA4R2AJNNB3LPSM2M2N37FMMY/",
-      "date": "Sat, 21 Nov 2026 09:34:00 +0000",
-      "description": "Ces dernières semaines, l’archipel est confronté à une nouvelle surenchère de violence. Exaspérés, les habitants du département le plus jeune et le plus pauvre de France appellent à une réponse qui va au-delà de la simple répression.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Taxer les riches : les Patriotic Millionaires peaufinent leur arrivée en France",
-      "link": "https://www.liberation.fr/economie/taxer-les-riches-les-patriotic-millionaires-peaufinent-leur-arrivee-en-france-20261121_UMBUL7IKK5DEPKO7KWBRRDB4VE/",
-      "date": "Sat, 21 Nov 2026 09:31:00 +0000",
-      "description": "Pour sa première antenne non anglo-saxonne, l’ONG américaine qui défend une hausse de la contribution des plus fortunés, finalise le recrutement de ses futurs membres millionnaires français. Le lancement est prévu avant Noël.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Iran : l'IRGC descend le drone américain sur Hormuz alors que les efforts pour mettre fin à la guerre restent bloqués",
@@ -699,44 +787,12 @@
       "category": "Monde"
     },
     {
-      "title": "Les policiers français coupables d'agression de Michel Zecler : Que se passe-t-il maintenant ?",
-      "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 09:12:14 +0000",
-      "description": "Les agents ont porté plus de 30 coups au producteur de musique noire dans ce que la cour a jugé comme un crime à motivation raciale.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "\"Il aurait fallu réagir avant\" : dans le Pas-de-Calais, des habitants fatigués et en colère face à des crues à répétition",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-aurait-fallu-reagir-avant-dans-le-pas-de-calais-des-habitants-fatigues-et-en-colere-face-a-des-crues-a-repetition_8293445.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 09:08:46 +0100",
-      "description": "Face à l'intensification des épisodes de fortes pluies, les habitants du secteur de Montreuil-sur-Mer s'interrogent sur les réponses apportées depuis les inondations de 2023 et sur l'adaptation de leur territoire au changement climatique.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Brésil: 130 ans après l'abolition de l'esclavage, à Rio, la lutte continue avec la Journée de la conscience noire",
       "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-br%C3%A9sil-130-ans-apr%C3%A8s-l-abolition-de-l-esclavage-%C3%A0-rio-la-lutte-continue-avec-la-journ%C3%A9e-de-la-conscience-noire",
       "date": "Sat, 21 Nov 2026 09:05:20 GMT",
       "description": "Le Brésil a célébré la Journée de la conscience noire, vendredi 20 novembre. Un jour férié national depuis 2024, en hommage à Zumbi dos Palmares, figure de la lutte contre l’esclavage au Brésil. Un jour de mémoire, de fête, et de résistance.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Harry Kane à manquer «quelques mois» après une blessure comme Bayern Munich tirage",
-      "link": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 09:01:29 +0000",
-      "description": "Le vainqueur du Ballon d'Or déchire un ligament dans sa cheville gauche pendant le match nul 1-1 de Bayern Munich contre Cologne.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "L'alcool illicite tue 11, empoisonne 180 dans le nord-est de l'Inde",
-      "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 08:48:54 +0000",
-      "description": "Le ministre en chef de Manipur ordonne une enquête sur l'incident, disant que les responsables seront arrêtés et punis.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Le Royaume-Uni et la Norvège s'engagent pour plus de 100 millions de livres pour deux nouveaux bateaux d'attaque rapide pour l'Ukraine",
@@ -771,20 +827,20 @@
       "category": "Monde"
     },
     {
-      "title": "«Si j’avais su, je serais resté aux courriers postaux» : dans le Berry, l’arrivée d’un data center Google vire au débat sur la marche forcée de l’IA",
-      "link": "https://www.lefigaro.fr/actualite-france/si-j-avais-su-je-serais-reste-aux-courriers-postaux-dans-le-berry-l-arrivee-d-un-data-center-google-vire-au-debat-sur-la-marche-forcee-de-l-ia-20261121",
-      "date": "Sat, 21 Nov 2026 08:00:00 +0100",
-      "description": "REPORTAGE - Ce projet colossal, présenté par l’entreprise américaine comme «nécessaire» pour «répondre aux besoins» de ses utilisateurs, suscite la colère d’une partie des habitants, qui affirment être pris de court face aux progrès incessants de l’IA.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Le juge américain emprisonne un ressortissant indien dans un complot séparatiste sikh déjoué",
       "link": "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 21 Nov 2026 07:53:00 GMT",
       "description": "New Delhi a nié tout rôle dans le complot visant à tuer le séparatiste sikh Gurpatwant Singh Pannun à New York. Pendant ce temps, plus de 200 personnes ont été hospitalisées après avoir consommé de l'alcool fallacieux dans l'État du Manipur. DW en a plus.",
       "source": "Deutsche Welle",
       "category": "Monde"
+    },
+    {
+      "title": "Pourquoi le gouvernement doit trouver d’urgence plus de 6 milliards d’euros d’économies supplémentaires",
+      "link": "https://www.lefigaro.fr/conjoncture/pourquoi-le-gouvernement-doit-trouver-d-urgence-plus-de-6-milliards-d-euros-d-economies-supplementaires-20261120",
+      "date": "Sat, 21 Nov 2026 07:51:33 +0100",
+      "description": "DÉCRYPTAGE - Entre une croissance en berne et les nouvelles concessions sur le pouvoir d’achat à financer, la copie budgétaire actuelle ne permet plus d’atteindre les 5 % de déficit l’an prochain.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "À quelques heures d'écart, deux mathématiciens annoncent la résolution d'un des «problèmes du millénaire» grâce à l'IA",
@@ -807,30 +863,6 @@
       "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 21 Nov 2026 07:10:00 GMT",
       "description": "Un homme de 30 ans a été reconnu coupable d'avoir causé l'un des incendies les plus destructeurs de l'histoire de Los Angeles. Le verdict est arrivé après que l'affaire ait été réévaluée.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Franz-Olivier Giesbert : « Dans nombre de médias, la meute LFIste impose sa loi »",
-      "link": "https://www.lefigaro.fr/vox/societe/franz-olivier-giesbert-dans-nombre-de-medias-la-meute-lfiste-impose-sa-loi-20261121",
-      "date": "Sat, 21 Nov 2026 07:00:00 +0100",
-      "description": "ENTRETIEN - L’ancien directeur du Nouvel Observateur, du Figaro et du Point voit dans le climat actuel le retour d’un terrorisme intellectuel, porté par une extrême gauche qui ne conteste plus les idées mais veut faire taire ceux qui les portent.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "«Robots tueurs»: un accord à l'ONU en vue d'un possible encadrement international",
-      "link": "https://www.rfi.fr/fr/monde/20261121-robots-tueurs-un-accord-%C3%A0-l-onu-en-vue-d-un-possible-encadrement-international",
-      "date": "Sat, 21 Nov 2026 06:58:43 GMT",
-      "description": "Les pays réunis à Genève pour une conférence de l'ONU sur les «robots tueurs» se sont accordés samedi 21 novembre, après cinq jours d'âpres discussions, pour ouvrir la voie à un possible encadrement international de l'utilisation des systèmes d'armes autonomes.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Trois soldats du Salvador meurent dans un accident d'explosifs en Haïti",
-      "link": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 21 Nov 2026 06:58:00 GMT",
-      "description": "Les soldats faisaient partie d'un contingent militaire salvadorien déployé le mois dernier dans la nation des Caraïbes, en proie à la violence, pour secourir quatre aviateurs disparus. Le déploiement s'est élargi en une opération contre les gangs haïtiens.",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
@@ -870,7 +902,7 @@
       "title": "Sixième samedi de manifestation contre la vie chère, premier round contre les violences sexistes",
       "link": "https://www.france24.com/fr/france/20261121-sixi%C3%A8me-samedi-de-manifestation-contre-la-vie-ch%C3%A8re-premier-round-contre-les-violences-sexistes",
       "date": "Sat, 21 Nov 2026 06:16:30 GMT",
-      "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à protester samedi dans la rue contre la vie chère, dans un contexte de grogne sociale devenue européenne mais qui commence à se tasser les samedis en France. Des manifestations sont aussi prévues cette semaine dans l'Hexagone pour dénoncer les violences faites aux femmes et réclamer le vote de la loi intégrale.",
+      "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et Gilets jaunes appellent à manifester, samedi, contre la vie chère, malgré une baisse de la mobilisation. Des rassemblements sont aussi prévus cette semaine dans l'Hexagone pour dénoncer les violences faites aux femmes et réclamer le vote de la loi intégrale.",
       "source": "France 24",
       "category": "France"
     },
@@ -881,6 +913,14 @@
       "description": "La seule chose qui empêche l'IA de prendre le dessus sur le monde – ou au moins tout le monde est un emploi? Dextérité. Les mains humaines sont des merveilles anatomiques que les ingénieurs ont lutté pendant des années pour reproduire. Les experts sont en course pour changer que Juste à l'extérieur de Luton, dans un entrepôt Amazon de la taille de quatre emplacements de football, étagères jaunes pirouette dans une danse chorégraphiée numériquement. Tubes contenant un kit Lego Spider-Man, suivies de comprimés de lave-vaisselle, suivies d'une pochette",
       "source": "The Guardian",
       "category": "Technologie"
+    },
+    {
+      "title": "Mobilisation lycéenne : les introuvables « complicités » de violences parmi les enseignants dénoncées par Matignon",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-les-introuvables-complicites-de-violences-parmi-les-enseignants-denoncees-par-matignon_6813920_3224.html",
+      "date": "Sat, 21 Nov 2026 06:00:03 +0100",
+      "description": "Le premier ministre et son cabinet ont alimenté auprès de la presse l’idée de complicités au sein du personnel de l’éducation nationale dans les heurts qui ont eu lieu dans et aux abords des lycées. « Le Monde » a contacté plusieurs chefs d’établissement qui livrent un tout autre récit tandis que les parquets ne font pas état de procédures de cette nature.",
+      "source": "Le Monde",
+      "category": "France"
     },
     {
       "title": "Comment la Chine utilise les sommets pour élargir son influence mondiale",
@@ -931,14 +971,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Code du coupon Motorola pour novembre 2026",
-      "link": "https://www.wired.com/story/motorola-coupon-code/",
-      "date": "Sat, 21 Nov 2026 06:00:00 +0000",
-      "description": "Mettez votre smartphone à niveau pour moins avec les derniers codes promo Motorola, les offres de livraison gratuite et les réductions saisonnières exclusives.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "France: une association devant la justice pour tenter de suspendre les ventes d'armes à Israël",
       "link": "https://www.rfi.fr/fr/france/20261121-ine",
       "date": "Sat, 21 Nov 2026 05:47:53 GMT",
@@ -951,14 +983,6 @@
       "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/l-ecrivaine-et-realisatrice-quebecoise-anais-barbeau-lavalette-le-fait-que-je-sois-mortelle-m-habite-c-est-tres-vivifiant-et-ca-fait-de-moi-une-femme-qui-prend-des-risques_6813917_4500055.html",
       "date": "Sat, 21 Nov 2026 05:30:19 +0100",
       "description": "Connue en France pour son roman « La femme qui fuit », la documentariste et militante écologiste et féministe remporte actuellement au Québec un franc succès en avec son film « Pauline Julien, femme pays », portrait d’une figure du mouvement souverainiste, qui a le vent en poupe dans la belle province.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
-      "date": "Sat, 21 Nov 2026 05:30:08 +0100",
-      "description": "L’ampleur de cette nouvelle journée de protestation reste difficile à anticiper. Cet « acte VI » s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1027,14 +1051,6 @@
       "category": "Économie"
     },
     {
-      "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "description": "Les critiques disent maintenant que le géant de l'IA est une entreprise publique, son engagement à mettre la sécurité avant le succès commercial sera testé.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
       "date": "Sat, 21 Nov 2026 05:00:00 -0500",
@@ -1049,6 +1065,22 @@
       "description": "Un effort national visant à faire en sorte que seuls les gagnants du vote populaire deviennent président pourrait bientôt atteindre une étape critique.",
       "source": "NPR",
       "category": "Monde"
+    },
+    {
+      "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "description": "Les critiques disent maintenant que le géant de l'IA est une entreprise publique, son engagement à mettre la sécurité avant le succès commercial sera testé.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Comment les autres planètes sentent-elles ? La réponse se cache dans leur chimie",
+      "link": "https://www.scientificamerican.com/article/what-do-other-planets-smell-like-the-answer-hides-in-their-chemistry/",
+      "date": "Sat, 21 Nov 2026 05:00:00 +0000",
+      "description": "Nous ne reniflons probablement jamais d'autres planètes, mais cela ne signifie pas que nous ne pouvons pas avoir une idée de ce qu'ils sentent comme",
+      "source": "Scientific American",
+      "category": "Sciences"
     },
     {
       "title": "Math Puzzle: Le plus long mélange",
@@ -1073,14 +1105,6 @@
       "description": "Une start-up américaine cherche 162 millions de dollars en dommages et intérêts et une injonction pour impacter iPhone et Apple Watch importations en Inde.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Brésil ex-président Jair Bolsonaro conduit à l'hôpital pour des douleurs abdominales",
-      "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 21 Nov 2026 03:16:00 GMT",
-      "description": "Jair Bolsonaro a été hospitalisé à Brasilia avec une obstruction intestinale. L'ancien dirigeant brésilien d'extrême droite reçoit des médicaments contre la douleur, a déclaré son fils Carlos.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Les négociations des Nations unies sur les robots tueurs d'IA acceptent d'autres négociations, mais aucun engagement ferme n'est pris à leur égard.",
@@ -1587,6 +1611,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Le gouvernement s’en remet au RN pour éviter la crise financière... Les indiscrets du Figaro",
+      "link": "https://www.lefigaro.fr/politique/le-gouvernement-s-en-remet-au-rn-pour-eviter-la-crise-financiere-les-indiscrets-du-figaro-20261120",
+      "date": "Fri, 20 Nov 2026 20:00:00 +0100",
+      "description": "CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "GTA n'est pas allé dans l'espace (encore), mais ces jeux de science-fiction peuvent vous offrir une vie de crime parmi les étoiles",
       "link": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
       "date": "Fri, 20 Nov 2026 20:00:00 +0000",
@@ -1649,14 +1681,6 @@
       "description": "Vivement combattue dans la rue par ses opposants qui l'assimilent à un \"permis de tuer\", l'instauration d'une présomption d'usage légal des armes par les forces de l'ordre a été définitivement adoptée au Parlement vendredi soir, à la veille d'une nouvelle journée de mobilisation sociale.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Il y a un imposteur caché dans l'amas d'étoiles de Hyades. Tu peux le repérer ?",
-      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
-      "date": "Fri, 20 Nov 2026 19:00:00 +0000",
-      "description": "Aldebaran cherche le monde entier comme le membre le plus brillant du groupe d'étoiles Hyades. Il ne l'est pas — et de découvrir pourquoi changer la façon dont vous regardez les constellations.",
-      "source": "Space.com",
-      "category": "Exploration"
     },
     {
       "title": "La géothermie super-hote pourrait mettre fin aux problèmes énergétiques du centre de données",
@@ -1811,14 +1835,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer",
-      "link": "https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120",
-      "date": "Fri, 20 Nov 2026 16:45:16 +0100",
-      "description": "ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions. Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Islam Faisal: Cette réduction des coûts ne signifie pas que des prix plus bas suivront",
       "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 20 Nov 2026 16:41:52 GMT",
@@ -1931,14 +1947,6 @@
       "category": "Économie"
     },
     {
-      "title": "Le mathématicien anthropique prétend prouver l'hypothèse de Riemann, le plus célèbre problème dans tous les mathématiques",
-      "link": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "date": "Fri, 20 Nov 2026 14:00:00 +0000",
-      "description": "Une solution générée par l'IA du problème vieux de 167 ans, longtemps considéré comme hors de portée des mathématiciens humains, permettrait de mettre fin à la conquête de mathématiques pendant toute l'année.",
-      "source": "Scientific American",
-      "category": "Sciences"
-    },
-    {
       "title": "Anthropique parmi les grands perdants du marché boursier mondial",
       "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
       "date": "Fri, 20 Nov 2026 13:39:00 +0000",
@@ -1967,14 +1975,6 @@
       "link": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
       "date": "Fri, 20 Nov 2026 13:04:40 +0000",
       "description": "Certaines étoiles binaires finissent par partager une enveloppe commune de gaz, alors que l'étoile primaire retire du matériel de son compagnon. L'enveloppe fait glisser sur les étoiles et elles peuvent s'enrouler l'une vers l'autre. Dans certains cas, cela crée une éruption ou une explosion appelée nova rouge lumineuse. Pour la première fois, les astronomes ont pu en observer un en temps réel.",
-      "source": "Universe Today",
-      "category": "Exploration"
-    },
-    {
-      "title": "Loi sur les petits grains de sable en tant que speedomètres cosmiques pour les vents étrangers",
-      "link": "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds",
-      "date": "Fri, 20 Nov 2026 11:57:20 +0000",
-      "description": "Nous avons réussi à prendre des images orbitales à haute résolution de nombreux mondes à travers notre système solaire, et beaucoup d'entre eux avec une atmosphère ont une caractéristique dans les dunes de sable communes. Les scientifiques utilisent la taille et l'orientation de ces dunes depuis des décennies pour agir comme une girouette, en se demandant comment le vent souffle sur ces autres mondes. Malheureusement, les vanes météo ne sont pas bons à raconter l'histoire pleine de vent - ils ne peuvent pas vous dire à quelle vitesse le",
       "source": "Universe Today",
       "category": "Exploration"
     },
