@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#080e18">
-<meta name="description" content="NEXUS Intelligence V15 — centre personnel de veille et d'information, interface HUD personnalisable.">
+<meta name="description" content="NEXUS Intelligence V14 FX Studio — centre personnel de veille et d'information.">
 <link rel="manifest" href="./manifest.json">
-<title>NEXUS Intelligence V15</title>
+<title>NEXUS Intelligence V14 FX Studio</title>
 <style>:root{--bg:#080e18;--panel:#101b2b;--panel2:#16263a;--line:#263c55;--text:#edf5ff;--muted:#8fa4bb;--blue:#43d9ff;--green:#48dfb0;--amber:#f2bd62;--red:#ff7777}
 *{box-sizing:border-box}
 body{margin:0;background:radial-gradient(ellipse at top,#142b43 0%,#080e18 60%);color:var(--text);font-family:Arial,sans-serif}
@@ -545,139 +545,12 @@ to{opacity:1;transform:translateY(0)}
 .market-status,.market-disclaimer,.market-credit{font-size:10px;color:var(--muted);line-height:1.6;margin:9px 0}
 .market-disclaimer{border-top:1px solid var(--line);padding-top:10px}
 @media(max-width:480px){.theme-briefing,.trend-panel,.market-panel{padding:11px}.market-overview,.market-heatmap{min-height:340px}.market-widget tv-market-overview{min-height:340px}.market-widget tv-heatmap{height:340px}}
-</style>
-<style id="nexus-v15-overrides">
-/* V15 — four clear destinations and contextual sub-navigation */
-#primaryNav{grid-template-columns:repeat(4,minmax(0,1fr))!important}
-#primaryNav button{min-width:0}
-#sectionTabs{position:sticky;top:0;z-index:1200;margin:0 -2px 14px;padding:7px 0;background:linear-gradient(180deg,rgba(5,12,22,.97),rgba(5,12,22,.88));border-bottom:1px solid rgba(67,217,255,.13);backdrop-filter:blur(14px)}
-#sectionTabs[hidden]{display:none!important}
-.v15-section-tabs-inner{display:flex;gap:7px;overflow-x:auto;overscroll-behavior-x:contain;padding:0 2px 2px;scrollbar-width:none}
-.v15-section-tabs-inner::-webkit-scrollbar{display:none}
-.v15-section-tab{flex:0 0 auto;border:1px solid rgba(122,160,190,.18);border-radius:999px;padding:8px 13px;background:rgba(12,27,42,.8);color:#9bb0c4;font-size:10px;font-weight:700;white-space:nowrap;transition:background .2s,border-color .2s,color .2s}
-.v15-section-tab.active{color:#eafaff;border-color:color-mix(in srgb,var(--blue) 62%,transparent);background:color-mix(in srgb,var(--blue) 18%,#0b1b2b);box-shadow:0 0 15px color-mix(in srgb,var(--blue) 13%,transparent)}
-.v15-header .header-actions{gap:7px}
-#openSettings{font-size:15px}
-@media(max-width:520px){.v15-header .system{display:none}.v15-header .connection-chip{font-size:8px;padding:4px 6px}.v15-header .header-actions{gap:4px}.v15-header .header-action{min-width:32px;width:32px;height:32px}.v15-section-tab{padding:8px 11px}}
-@media(min-width:650px){#sectionTabs{margin-left:0;margin-right:0;border-radius:0 0 12px 12px}}
-/* Home: keep the first screen focused; advanced dashboards remain one tap away. */
-.v15-home-more,.v15-secondary-tools{margin:16px 0;border:1px solid rgba(67,217,255,.19);border-radius:13px;background:linear-gradient(145deg,rgba(13,29,45,.82),rgba(7,16,27,.88));overflow:hidden}
-.v15-home-more>summary,.v15-secondary-tools>summary{list-style:none;cursor:pointer;padding:14px 16px;color:#b9d1e3;font-size:11px;font-weight:750;letter-spacing:.2px;display:flex;align-items:center;justify-content:space-between;gap:10px}
-.v15-home-more>summary::-webkit-details-marker,.v15-secondary-tools>summary::-webkit-details-marker{display:none}
-.v15-home-more>summary:after,.v15-secondary-tools>summary:after{content:"＋";color:var(--blue);font-size:17px}
-.v15-home-more[open]>summary:after,.v15-secondary-tools[open]>summary:after{content:"−"}
-.v15-home-more[open],.v15-secondary-tools[open]{padding-bottom:12px}
-.v15-home-more[open]>summary,.v15-secondary-tools[open]>summary{border-bottom:1px solid rgba(67,217,255,.12);margin-bottom:12px}
-.v15-secondary-tools .info{margin:10px 12px}
-/* Weather now lives as a focused Explorer destination, not in an all-tools catalogue. */
-#tools .tools-grid{display:none!important}
-/* V15 FX studio: clearly separated controls, one custom color per effect. */
-.v15-effect-lab{margin:14px 0 20px;padding:14px;border:1px solid rgba(67,217,255,.24);border-radius:15px;background:linear-gradient(145deg,rgba(16,37,56,.94),rgba(7,17,29,.94));box-shadow:inset 0 1px rgba(255,255,255,.04),0 10px 26px rgba(0,0,0,.2)}
-.v15-effect-lab-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:12px}
-.v15-effect-lab-heading>div>span{font-size:8px;letter-spacing:1.6px;font-weight:850;color:var(--blue)}
-.v15-effect-lab-heading h3{font-size:16px;margin:5px 0 3px}
-.v15-effect-lab-heading p{font-size:10px;line-height:1.55;color:#8ea6bb;margin:0;max-width:420px}
-.v15-live-tag{flex:0 0 auto;border:1px solid rgba(67,217,255,.25);border-radius:999px;padding:5px 8px;color:#9deaff;font-size:8px;letter-spacing:1px}
-.v15-live-tag i{display:inline-block;width:6px;height:6px;border-radius:50%;background:#4fe2ba;box-shadow:0 0 8px #4fe2ba;margin-right:4px}
-.v15-effect-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
-.v15-effect-card{min-width:0;padding:11px;border:1px solid rgba(123,162,191,.17);border-radius:11px;background:rgba(8,19,31,.72);display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;align-items:center}
-.v15-effect-copy{min-width:0}
-.v15-effect-copy b{display:block;font-size:10px;color:#e6f4ff}
-.v15-effect-copy small{display:block;margin-top:3px;color:#849cb2;font-size:8px;line-height:1.4}
-.v15-effect-card .switch{grid-column:2;grid-row:1}
-.v15-color-control{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:8px;color:#91a8bd;font-size:9px;padding-top:7px;border-top:1px solid rgba(123,162,191,.12)}
-.v15-color-control input[type=color]{width:44px;height:29px;min-width:44px;padding:2px;margin:0;border:1px solid #3a5871;border-radius:7px;background:#091521;cursor:pointer}
-.v15-particle-card{grid-column:1/-1;grid-template-columns:minmax(0,1fr) auto}
-.v15-particle-card .v15-color-control{grid-column:2;grid-row:1;border:0;padding:0;gap:8px}
-.v15-particle-card .v15-color-control span{display:none}
-@media(max-width:480px){.v15-effect-grid{grid-template-columns:1fr}.v15-particle-card{grid-column:auto}.v15-particle-card .v15-color-control{grid-column:2}.v15-effect-lab{padding:11px}}
-/* Four restrained, layered ambient effects. All are behind interactive content. */
-#nexusFxBackground .v15-aurora{inset:-26% -18%!important;z-index:2;opacity:calc(var(--v15-fx-alpha,.9)*.46);background:radial-gradient(ellipse at 18% 34%,color-mix(in srgb,var(--v15-aurora-color,#477dff) 45%,transparent),transparent 37%),radial-gradient(ellipse at 78% 70%,color-mix(in srgb,var(--v15-aurora-color,#477dff) 27%,transparent),transparent 42%),radial-gradient(ellipse at 51% 12%,color-mix(in srgb,var(--v15-scan-color,#43d9ff) 13%,transparent),transparent 36%);filter:blur(30px);animation:v15-aurora-drift var(--v15-fx-duration,24s) ease-in-out infinite alternate;mix-blend-mode:screen}
-#nexusFxBackground .v15-scan-beam{inset:auto 0 auto!important;top:-32%;height:23vh;z-index:5;opacity:calc(var(--v15-fx-alpha,.9)*.32);background:linear-gradient(180deg,transparent 0%,color-mix(in srgb,var(--v15-scan-color,#43d9ff) 3%,transparent) 45%,color-mix(in srgb,var(--v15-scan-color,#43d9ff) 18%,transparent) 50%,color-mix(in srgb,var(--v15-scan-color,#43d9ff) 3%,transparent) 55%,transparent 100%);filter:blur(3px);animation:v15-scan-pass calc(var(--v15-fx-duration,24s)*.62) linear infinite}
-#nexusFxBackground .v15-orbit{inset:auto!important;z-index:2;width:min(76vw,620px);height:min(76vw,620px);right:-30vw;top:22vh;border:1px solid color-mix(in srgb,var(--v15-orbit-color,#8b7dff) 20%,transparent);border-radius:50%;opacity:calc(var(--v15-fx-alpha,.9)*.42);box-shadow:0 0 32px color-mix(in srgb,var(--v15-orbit-color,#8b7dff) 9%,transparent),inset 0 0 34px color-mix(in srgb,var(--v15-orbit-color,#8b7dff) 6%,transparent);animation:v15-orbit-turn calc(var(--v15-fx-duration,24s)*1.7) linear infinite}
-#nexusFxBackground .v15-orbit:before,#nexusFxBackground .v15-orbit:after{content:"";position:absolute;inset:9%;border:1px solid color-mix(in srgb,var(--v15-orbit-color,#8b7dff) 17%,transparent);border-radius:50%;transform:rotateX(62deg) rotate(-28deg)}
-#nexusFxBackground .v15-orbit:after{inset:22%;transform:rotateX(62deg) rotate(42deg);border-color:color-mix(in srgb,var(--v15-orbit-color,#8b7dff) 24%,transparent)}
-#nexusFxBackground .v15-circuit{inset:9px!important;z-index:7;border:1px solid color-mix(in srgb,var(--v15-circuit-color,#43d9ff) 10%,transparent);border-radius:18px;opacity:calc(var(--v15-fx-alpha,.9)*.72);box-shadow:inset 0 0 22px color-mix(in srgb,var(--v15-circuit-color,#43d9ff) 3%,transparent)}
-#nexusFxBackground .v15-circuit:before{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--v15-circuit-color,#43d9ff) 68%,transparent),transparent) top left/34% 1px no-repeat,linear-gradient(180deg,transparent,color-mix(in srgb,var(--v15-circuit-color,#43d9ff) 52%,transparent),transparent) top left/1px 27% no-repeat,linear-gradient(90deg,transparent,color-mix(in srgb,var(--v15-circuit-color,#43d9ff) 50%,transparent),transparent) bottom right/27% 1px no-repeat,linear-gradient(180deg,transparent,color-mix(in srgb,var(--v15-circuit-color,#43d9ff) 50%,transparent),transparent) bottom right/1px 33% no-repeat;animation:v15-circuit-pulse 5s ease-in-out infinite alternate}
-body[data-v15-aurora="off"] #nexusFxBackground .v15-aurora,body[data-v15-scan-beam="off"] #nexusFxBackground .v15-scan-beam,body[data-v15-orbit="off"] #nexusFxBackground .v15-orbit,body[data-v15-circuit="off"] #nexusFxBackground .v15-circuit{display:none!important}
-body[data-fx-motion="off"] #nexusFxBackground .v15-aurora,body[data-fx-motion="off"] #nexusFxBackground .v15-scan-beam,body[data-fx-motion="off"] #nexusFxBackground .v15-orbit,body[data-fx-motion="off"] #nexusFxBackground .v15-circuit:before{animation:none!important}
-@keyframes v15-aurora-drift{0%{transform:translate3d(-2%,1%,0) rotate(-3deg) scale(1)}100%{transform:translate3d(3%,-2%,0) rotate(4deg) scale(1.08)}}
-@keyframes v15-scan-pass{0%{transform:translateY(0)}100%{transform:translateY(620%)}}
-@keyframes v15-orbit-turn{to{transform:rotate(360deg)}}
-@keyframes v15-circuit-pulse{0%{opacity:.4}100%{opacity:1}}
-@media(max-width:520px){#nexusFxBackground .v15-orbit{right:-47vw;top:31vh;opacity:calc(var(--v15-fx-alpha,.9)*.28)}#nexusFxBackground .v15-circuit{inset:6px!important;border-radius:13px}}
-@media(prefers-reduced-motion:reduce){#nexusFxBackground .v15-aurora,#nexusFxBackground .v15-scan-beam,#nexusFxBackground .v15-orbit,#nexusFxBackground .v15-circuit:before{animation:none!important}}
-</style>
-
-<style id="nexus-v15-settings-polish">
-.v15-advanced-controls{margin:12px 0 16px;border:1px solid rgba(110,151,182,.17);border-radius:12px;background:rgba(8,19,31,.54);overflow:hidden}
-.v15-advanced-controls>summary{list-style:none;cursor:pointer;padding:13px 14px;color:#a9bfd2;font-size:10px;font-weight:750;display:flex;align-items:center;justify-content:space-between;gap:9px}
-.v15-advanced-controls>summary::-webkit-details-marker{display:none}
-.v15-advanced-controls>summary:after{content:"＋";font-size:16px;color:var(--blue)}
-.v15-advanced-controls[open]>summary:after{content:"−"}
-.v15-advanced-controls[open]>summary{border-bottom:1px solid rgba(110,151,182,.13)}
-.v15-advanced-controls .studio-section-title{padding:0 12px}
-.v15-advanced-controls .studio-control-grid{padding:0 10px 12px}
-</style>
-
-<style id="nexus-v15-jarvis-motion">
-/* JARVIS-inspired layers: all decorative, non-interactive and GPU-friendly. */
-:root{--v15-reticle-color:#58e6ff;--v15-data-color:#43d9ff;--v15-ring-color:#5b91ff;--v15-sweep-color:#74eaff;--v15-hex-color:#4bcfff}
-.nexus-simple-profiles .profile-jarvis{grid-column:1/-1;min-height:94px;border-color:#4ddfff88;background:radial-gradient(ellipse at 85% 50%,#1e7ea044,transparent 44%),linear-gradient(115deg,#0b1d30,#102c43 60%,#081724)!important;box-shadow:inset 0 1px #ffffff12,0 0 24px #37dfff17}
-.profile-jarvis .jarvis-dot,.jarvis-dot{background:#58e6ff;color:#58e6ff}
-.profile-aegis .aegis-dot,.aegis-dot{background:#5da8ff;color:#5da8ff}
-.profile-quantum .quantum-dot,.quantum-dot{background:#bd8aff;color:#bd8aff}
-.profile-orbital .orbital-dot,.orbital-dot{background:#a7efff;color:#a7efff}
-.profile-spectre .spectre-dot,.spectre-dot{background:#9298c8;color:#9298c8}
-.nexus-simple-profiles .profile-jarvis:after{content:"SYSTEM ONLINE  /  HUD ACTIVE";position:absolute;right:12px;bottom:10px;color:#8cecff;font-size:7px;letter-spacing:1.3px;opacity:.75}
-.v15-preset-library{margin:10px 0}
-.v15-preset-library .profile-grid{padding:10px 10px 2px;margin:0}
-.v15-preset-library .profile-card{min-height:67px}
-.v15-effect-card{grid-template-columns:minmax(0,1fr) auto;}
-.v15-effect-card .v15-color-control{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:9px}
-.v15-effect-card .v15-color-control input{width:58px;height:30px}
-#nexusFxBackground .v15-reticle{inset:auto!important;z-index:4;right:-5vw;top:32vh;width:min(47vw,370px);aspect-ratio:1;border:1px solid color-mix(in srgb,var(--v15-reticle-color) 23%,transparent);border-radius:50%;opacity:calc(var(--v15-fx-alpha,.9)*.36);box-shadow:0 0 20px color-mix(in srgb,var(--v15-reticle-color) 10%,transparent),inset 0 0 24px color-mix(in srgb,var(--v15-reticle-color) 5%,transparent);animation:v15-reticle-rotate calc(var(--v15-fx-duration,24s)*1.35) linear infinite}
-#nexusFxBackground .v15-reticle:before{content:"";position:absolute;inset:12%;border:1px dashed color-mix(in srgb,var(--v15-reticle-color) 36%,transparent);border-radius:50%;box-shadow:0 0 0 16px color-mix(in srgb,var(--v15-reticle-color) 3%,transparent),0 0 0 42px color-mix(in srgb,var(--v15-reticle-color) 2%,transparent);animation:v15-reticle-counter calc(var(--v15-fx-duration,24s)*.82) linear infinite}
-#nexusFxBackground .v15-reticle:after{content:"";position:absolute;inset:42%;border:1px solid color-mix(in srgb,var(--v15-reticle-color) 50%,transparent);border-radius:50%;box-shadow:0 0 0 1px color-mix(in srgb,var(--v15-reticle-color) 12%,transparent),0 0 24px color-mix(in srgb,var(--v15-reticle-color) 25%,transparent)}
-#nexusFxBackground .v15-data-stream{inset:12% 0 13%!important;z-index:3;opacity:calc(var(--v15-fx-alpha,.9)*.23);background:repeating-linear-gradient(90deg,transparent 0 6.5vw,color-mix(in srgb,var(--v15-data-color) 35%,transparent) 6.55vw 6.62vw,transparent 6.7vw 13vw);mask-image:linear-gradient(180deg,transparent,black 18%,black 82%,transparent);animation:v15-data-drift calc(var(--v15-fx-duration,24s)*.7) linear infinite alternate}
-#nexusFxBackground .v15-data-stream:before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(180deg,transparent 0 46px,color-mix(in srgb,var(--v15-data-color) 30%,transparent) 47px 49px,transparent 50px 92px);mask-image:linear-gradient(90deg,black,transparent 28%,transparent 72%,black)}
-#nexusFxBackground .v15-energy-ring{inset:auto!important;z-index:2;left:-132px;bottom:7vh;width:min(64vw,420px);aspect-ratio:1;border:1px solid color-mix(in srgb,var(--v15-ring-color) 26%,transparent);border-radius:50%;opacity:calc(var(--v15-fx-alpha,.9)*.31);box-shadow:0 0 32px color-mix(in srgb,var(--v15-ring-color) 9%,transparent),inset 0 0 28px color-mix(in srgb,var(--v15-ring-color) 7%,transparent);animation:v15-energy-pulse 7s ease-in-out infinite alternate}
-#nexusFxBackground .v15-energy-ring:before,#nexusFxBackground .v15-energy-ring:after{content:"";position:absolute;inset:9%;border:1px dashed color-mix(in srgb,var(--v15-ring-color) 32%,transparent);border-radius:50%;transform:rotateX(62deg);}
-#nexusFxBackground .v15-energy-ring:after{inset:23%;border-style:solid;transform:rotateX(62deg) rotate(45deg);}
-#nexusFxBackground .v15-holo-sweep{inset:-40% -70%!important;z-index:6;opacity:calc(var(--v15-fx-alpha,.9)*.16);background:linear-gradient(108deg,transparent 42%,color-mix(in srgb,var(--v15-sweep-color) 3%,transparent) 47%,color-mix(in srgb,var(--v15-sweep-color) 16%,transparent) 50%,color-mix(in srgb,var(--v15-sweep-color) 3%,transparent) 53%,transparent 58%);transform:translate3d(-48%,0,0);animation:v15-holo-cross var(--v15-fx-duration,24s) ease-in-out infinite alternate}
-#nexusFxBackground .v15-hex-mesh{inset:0!important;z-index:1;opacity:calc(var(--v15-fx-alpha,.9)*.105);background-image:linear-gradient(30deg,color-mix(in srgb,var(--v15-hex-color) 32%,transparent) 1px,transparent 1px),linear-gradient(150deg,color-mix(in srgb,var(--v15-hex-color) 24%,transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb,var(--v15-hex-color) 13%,transparent) 1px,transparent 1px);background-size:38px 66px,38px 66px,38px 66px;mask-image:radial-gradient(ellipse at 50% 48%,black,transparent 76%);animation:v15-hex-breathe 12s ease-in-out infinite alternate}
-body[data-v15-reticle="off"] #nexusFxBackground .v15-reticle,body[data-v15-data-stream="off"] #nexusFxBackground .v15-data-stream,body[data-v15-energy-ring="off"] #nexusFxBackground .v15-energy-ring,body[data-v15-holo-sweep="off"] #nexusFxBackground .v15-holo-sweep,body[data-v15-hex-mesh="off"] #nexusFxBackground .v15-hex-mesh{display:none!important}
-body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="off"] #nexusFxBackground .v15-data-stream,body[data-fx-motion="off"] #nexusFxBackground .v15-energy-ring,body[data-fx-motion="off"] #nexusFxBackground .v15-holo-sweep,body[data-fx-motion="off"] #nexusFxBackground .v15-hex-mesh{animation:none!important}
-@keyframes v15-reticle-rotate{to{transform:rotate(360deg)}}
-@keyframes v15-reticle-counter{to{transform:rotate(-360deg)}}
-@keyframes v15-data-drift{from{transform:translate3d(0,-44px,0)}to{transform:translate3d(0,44px,0)}}
-@keyframes v15-energy-pulse{from{transform:scale(.94) rotate(-8deg);opacity:calc(var(--v15-fx-alpha,.9)*.2)}to{transform:scale(1.06) rotate(8deg);opacity:calc(var(--v15-fx-alpha,.9)*.38)}}
-@keyframes v15-holo-cross{from{transform:translate3d(-48%,0,0)}to{transform:translate3d(48%,0,0)}}
-@keyframes v15-hex-breathe{from{transform:translate3d(-1%,0,0) scale(1)}to{transform:translate3d(1%,1%,0) scale(1.025)}}
-@media(max-width:520px){#nexusFxBackground .v15-reticle{width:58vw;right:-24vw;top:36vh;opacity:calc(var(--v15-fx-alpha,.9)*.23)}#nexusFxBackground .v15-energy-ring{width:57vw;left:-26vw;bottom:9vh}#nexusFxBackground .v15-data-stream{opacity:calc(var(--v15-fx-alpha,.9)*.13)}}
-@media(prefers-reduced-motion:reduce){#nexusFxBackground .v15-reticle,#nexusFxBackground .v15-reticle:before,#nexusFxBackground .v15-data-stream,#nexusFxBackground .v15-energy-ring,#nexusFxBackground .v15-holo-sweep,#nexusFxBackground .v15-hex-mesh{animation:none!important}}
-</style>
-
-</head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
-<div class="fx-structure fx-scan"></div> <canvas id="nexusFxParticles"></canvas> <div class="fx-vignette"></div>
-<div class="v15-aurora" aria-hidden="true"></div>
-<div class="v15-scan-beam" aria-hidden="true"></div>
-<div class="v15-orbit" aria-hidden="true"></div>
-<div class="v15-circuit" aria-hidden="true"></div>
-<div class="v15-reticle" aria-hidden="true"></div>
-<div class="v15-data-stream" aria-hidden="true"></div>
-<div class="v15-energy-ring" aria-hidden="true"></div>
-<div class="v15-holo-sweep" aria-hidden="true"></div>
-<div class="v15-hex-mesh" aria-hidden="true"></div>
-</div> <div id="readingProgress" aria-hidden="true"></div> <div id="nexusToast" role="status" aria-live="polite"></div>
-<button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button> <header class="v15-header"> <div class="top"> <div class="logo">NE<span>X</span>US</div> <div class="header-actions"> <div class="system" id="systemState">● INITIALISATION</div>
-<span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span>
-<button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button>
-<button class="header-action" id="openAlerts" aria-label="Ouvrir les alertes" title="Alertes">⚑<span class="action-dot" id="alertDot" hidden></span></button>
-<button class="header-action" id="openSettings" aria-label="Ouvrir les réglages" title="Personnalisation">⚙</button>
-</div> </div>
-<div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V15 · REFINED INTELLIGENCE</span></div> </header>
-<nav id="sectionTabs" aria-label="Navigation de l’espace courant" hidden></nav> <div id="globalSearchPanel" hidden> <div class="overlay-shell">
+</style></head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
+<div class="fx-structure fx-scan"></div> <canvas id="nexusFxParticles"></canvas> <div class="fx-vignette"></div> </div> <div id="readingProgress" aria-hidden="true"></div> <div id="nexusToast" role="status" aria-live="polite"></div>
+<button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button> <header> <div class="top"> <div class="logo">NE<span>X</span>US</div> <div class="header-actions"> <div class="system" id="systemState">● INITIALISATION</div>
+<span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span> <button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button>
+<button class="header-action" id="openFavorites" aria-label="Ouvrir les favoris" title="Favoris">☆</button> <button class="header-action" id="openAlerts" aria-label="Ouvrir les alertes" title="Alertes">⚑<span class="action-dot" id="alertDot" hidden></span></button> </div> </div>
+<div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V14 · AMBIENT FX SYSTEM</span></div> </header> <div id="globalSearchPanel" hidden> <div class="overlay-shell">
 <div class="overlay-head"><div class="overlay-title">NEXUS / GLOBAL SEARCH</div><button class="overlay-close" id="closeGlobalSearch" aria-label="Fermer">×</button></div>
 <input class="global-search-input" id="globalSearchInput" type="search" placeholder="Rechercher dans toutes les publications… ( / )" autocomplete="off"> <div class="source">Recherche transversale dans les titres, résumés et sources chargés localement.</div>
 <div id="globalSearchResults"><div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div></div> </div> </div> <div id="commandMenu" hidden> <div class="overlay-shell">
@@ -690,7 +563,6 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 <div class="toolbar"><button class="primary" onclick="refreshNews()">↻ Actualiser les données</button><button class="small-btn" onclick="showPage('top')">Voir le Top Intelligence →</button></div> <div id="lastUpdate" class="source">Initialisation des actualités…</div> </div>
 <div class="stats"> <div class="stat"><strong id="total">0</strong><small>Articles chargés</small></div> <div class="stat"><strong id="saved">0</strong><small>Favoris enregistrés</small></div>
 <div class="stat"><strong id="recentCount">0</strong><small>Publications · 24 h</small></div> <div class="stat"><strong id="trackedCount">0</strong><small>Sujets rapprochés</small></div> </div>
-<details class="v15-home-more"><summary>Indicateurs avancés, tendances et chronologie</summary>
 <section class="pulse-panel" aria-labelledby="pulseTitle">
   <div class="pulse-heading"><div><div class="label">NEXUS / ACTIVITY PULSE</div><h2 id="pulseTitle">Rythme de l’information</h2><p>Volume des publications publiées sur les sept derniers jours.</p></div><span class="pulse-live"><i></i> ANALYSE LOCALE</span></div>
   <div class="pulse-metrics" id="signalMetrics" aria-live="polite"></div>
@@ -707,10 +579,8 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 <div class="trend-panel"><div class="label">SIGNAL DE COUVERTURE · 48 H</div><div id="trendingDashboard"><div class="empty">Analyse des tendances…</div></div><div class="notice">Indicateur calculé à partir du volume de publications rapprochées. Ce n'est ni une mesure de gravité ni une prédiction.</div></div>
 <h2 class="section">GLOBAL SITUATION</h2>
 <div class="watch-dashboard"><div class="label">INDICATEURS DES FLUX RSS</div><div id="topicDashboard"><div class="empty">Analyse des publications…</div></div><div class="notice">Indicateurs textuels, pas une mesure de gravité réelle.</div></div>
-<h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div>
-</details>
-</section> <section class="page" id="situation">
-<h1>Carte mondiale.</h1><div class="subtitle">Cartographie des lieux mentionnés dans les publications NEXUS.</div> <div class="map-panel"> <div class="map-header"><span>GLOBAL MONITOR / WORLD MAP</span><span class="live-indicator">● CARTOGRAPHIE ACTIVE</span></div>
+<h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div> </section> <section class="page" id="situation">
+<h1>Global Situation.</h1><div class="subtitle">Cartographie des lieux mentionnés dans les publications NEXUS.</div> <div class="map-panel"> <div class="map-header"><span>GLOBAL MONITOR / WORLD MAP</span><span class="live-indicator">● CARTOGRAPHIE ACTIVE</span></div>
 <div class="map-topline"><span>GLOBAL SITUATION MONITOR</span><span>LIVE DATA / NEXUS RSS</span></div> <div id="nexus-map"></div> <div class="map-controls"><button onclick="resetMapView()">◎ Vue mondiale</button><button onclick="refreshNews()">↻ Actualiser</button></div>
 <div class="map-legend"><span><i class="legend-dot"></i>Lieux repérés dans les articles</span></div> <div id="mapStatus" class="map-status">La carte sera chargée à l'ouverture.</div>
 <p class="map-note">Les marqueurs indiquent des lieux explicitement mentionnés dans les titres ou résumés. Ils ne prouvent pas qu'un événement s'y est produit. Coordonnées approximatives.</p> </div>
@@ -720,13 +590,13 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 <button class="chip" data-cat="Technologie">Technologie</button><button class="chip" data-cat="Sciences">Sciences</button><button class="chip" data-cat="Économie">Économie</button>
 <button class="chip" data-cat="Environnement">Environnement</button><button class="chip" data-cat="Défense">Défense</button><button class="chip" data-cat="Exploration">Exploration</button><button class="chip" data-cat="Autres">Autres</button> </div>
 <input id="search" placeholder="Rechercher un article ou un sujet…" autocomplete="off"><div id="newsArticles"><div class="empty">Chargement…</div></div> </section>
-<section class="page" id="top"><h1>À la une.</h1><div class="subtitle">Classement indicatif selon fraîcheur, catégorie et rapprochements trouvés.</div>
+<section class="page" id="top"><h1>Top Intelligence.</h1><div class="subtitle">Classement indicatif selon fraîcheur, catégorie et rapprochements trouvés.</div>
 <div class="notice">Le score est un indicateur technique, pas une mesure de vérité ou d'importance objective.</div><div id="topArticles"></div></section>
-<section class="page" id="timeline"><h1>Chronologie.</h1><div class="subtitle">Chronologie des publications disponibles, classées par date.</div><div id="fullTimeline"></div></section> <section class="page" id="sources">
-<h1>Sources & couverture.</h1><div class="subtitle">État des flux et comparaison des couvertures similaires.</div>
+<section class="page" id="timeline"><h1>Global Timeline.</h1><div class="subtitle">Chronologie des publications disponibles, classées par date.</div><div id="fullTimeline"></div></section> <section class="page" id="sources">
+<h1>Source Monitor.</h1><div class="subtitle">État des flux et comparaison des couvertures similaires.</div>
 <div class="panel"><div class="label">SOURCE MONITOR</div><h3>Surveillance des médias.</h3><p>Les titres proches sont rapprochés automatiquement. Cela ne prouve ni l'indépendance des sources ni l'exactitude des informations.</p></div>
 <div class="info"><div class="label">ÉTAT DES FLUX</div><div id="feedStatus">En attente du premier chargement.</div></div> <h2 class="section">SUJETS COUVERTS PAR PLUSIEURS SOURCES</h2><div id="sourceGroups"></div> </section> <section class="page" id="analyst">
-<h1>Analyse d’une publication.</h1><div class="subtitle">Examiner les informations sans confondre faits, contexte et interprétation.</div>
+<h1>NEXUS Analyst.</h1><div class="subtitle">Examiner les informations sans confondre faits, contexte et interprétation.</div>
 <div class="panel"><div class="label">NEXUS ANALYST DESK</div><h3>Examiner une publication.</h3><select id="analystSelect"><option value="">Sélectionner un article…</option></select></div>
 <div class="info"><div class="label">01 / INFORMATIONS DISPONIBLES</div><div id="analystFacts" class="module-sub">Sélectionne un article.</div></div>
 <div class="info"><div class="label">02 / CONTEXTE FOURNI</div><div id="analystContext" class="module-sub">Le résumé du flux RSS apparaîtra ici.</div></div>
@@ -744,7 +614,18 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 <div class="notice">Les correspondances sont affichées ici dans NEXUS. Aucune notification système ou Push n’est envoyée.</div> <h2 class="section">DERNIÈRES CORRESPONDANCES</h2><div id="alertMatches"></div> </section>
 <section class="page" id="favorites"><h1>Favoris.</h1><div class="subtitle">Votre bibliothèque personnelle enregistrée sur cet appareil.</div><div id="favoriteArticles"></div></section>
 <section class="page" id="archive"><h1>Archives.</h1><div class="subtitle">Historique des articles récupérés par NEXUS.</div><div class="notice">Les archives sont stockées dans le navigateur de ce téléphone.</div><div id="archiveArticles"></div></section>
-<section class="page" id="tools"> <h1>Météo.</h1><div class="subtitle">Conditions actuelles et prévisions, pour une ville choisie manuellement.</div>
+<section class="page" id="tools"> <h1>Centre des outils.</h1><div class="subtitle">Tous les modules NEXUS, accessibles directement sans menu imbriqué.</div> <div class="tools-grid">
+<button class="tool-card" onclick="showPage('top')"><span>◆</span><strong>Top Intelligence</strong><small>Publications classées</small></button>
+<button class="tool-card" onclick="showPage('timeline')"><span>◷</span><strong>Chronologie</strong><small>Suivre les événements</small></button>
+<button class="tool-card" onclick="showPage('sources')"><span>◉</span><strong>Sources</strong><small>Comparer les médias</small></button> <button class="tool-card" onclick="showPage('analyst')"><span>⌕</span><strong>Analyste</strong><small>Examiner un article</small></button>
+<button class="tool-card" onclick="showPage('science')"><span>✧</span><strong>Science & espace</strong><small>Veille scientifique</small></button>
+<button class="tool-card" onclick="showPage('alerts')"><span>⚑</span><strong>Alertes</strong><small>Mots-clés surveillés</small></button>
+<button class="tool-card" onclick="showPage('favorites')"><span>☆</span><strong>Favoris</strong><small>Publications enregistrées</small></button>
+<button class="tool-card" onclick="showPage('archive')"><span>▤</span><strong>Archives</strong><small>Historique local</small></button>
+<button class="tool-card" onclick="showPage('world')"><span>◎</span><strong>World Intel</strong><small>Fiches pays et radar mondial</small></button>
+<button class="tool-card" onclick="showPage('analysis')"><span>⌗</span><strong>Analysis Lab</strong><small>Comparaison et dossiers</small></button>
+<button class="tool-card" onclick="showPage('personal')"><span>▣</span><strong>Personal Desk</strong><small>Notes, tâches et journal</small></button>
+<button class="tool-card" onclick="showPage('settings')"><span>⚙</span><strong>Personnalisation</strong><small>Configurer NEXUS</small></button> </div>
 <div class="weather-module" aria-labelledby="weatherTitle">
   <div class="weather-heading"><div><div class="label">ENVIRONMENT / WEATHER</div><h2 id="weatherTitle">Station météo</h2><p>Conditions actuelles et aperçu des trois prochains jours.</p></div><span class="weather-tag">OPTION EN LIGNE</span></div>
   <form id="weatherForm" class="weather-form">
@@ -757,7 +638,7 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
   <div class="weather-credit">Données météo : <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">Open-Meteo.com</a> · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></div>
 </div>
 </section> <section class="page" id="world">
-<h1>Monde & marchés.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div>
+<h1>World Intelligence.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div>
 <div class="panel"><div class="label">GLOBAL RADAR</div><p>Le radar est calculé à partir des publications déjà chargées. Il indique une fréquence de mentions, pas un niveau de menace ou une validation indépendante.</p><div id="worldRadar"></div></div>
 <h2 class="section">MARKET MONITOR</h2>
 <div class="market-panel">
@@ -772,20 +653,18 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 </div>
 <h2 class="section">FICHES PAYS</h2><input id="countrySearch" placeholder="Rechercher un pays…" autocomplete="off"><div id="countryCards" class="country-grid"></div>
 <div class="notice">Les fiches donnent des repères généraux. Les données politiques et économiques évoluent : vérifie les sources et dates avant de les utiliser dans un travail.</div> </section> <section class="page" id="analysis">
-<h1>Analyse & comparaison.</h1><div class="subtitle">Comparer les couvertures, construire des synthèses et organiser des analyses à partir des contenus disponibles.</div>
+<h1>Analysis Lab.</h1><div class="subtitle">Comparer les couvertures, construire des synthèses et organiser des analyses à partir des contenus disponibles.</div>
 <div class="info"><div class="label">COMPARATEUR DE PUBLICATIONS</div><select id="compareOne"><option value="">Choisir une première publication…</option>
 </select><select id="compareTwo"><option value="">Choisir une seconde publication…</option></select><button class="primary" id="compareArticles">Comparer</button><div id="comparisonResult" class="source">Sélectionne deux publications pour examiner leurs différences.</div></div>
 <div class="info"><div class="label">BRIEFING DU JOUR</div><p>Généré localement à partir des titres et résumés RSS présents sur cet appareil. Ce n'est pas un résumé produit par une IA.</p>
 <button class="small-btn" id="generateBriefing">Générer le briefing</button><div id="generatedBriefing"></div></div>
 <div class="info"><div class="label">MODE PRÉSENTATION</div><p>Masque les commandes et agrandit la zone de lecture pour présenter un dossier.</p><button class="small-btn" id="presentationMode">Activer / quitter le mode présentation</button></div> </section>
-<section class="page" id="personal"> <h1>Notes & journal.</h1><div class="subtitle">Tes notes et découvertes à conserver. Les tâches et l’agenda restent disponibles dans les options secondaires.</div>
+<section class="page" id="personal"> <h1>Personal Desk.</h1><div class="subtitle">Espace de travail local : notes, tâches, journal et événements personnels.</div>
 <div class="info"><div class="label">NOTES PERSONNELLES</div><textarea id="personalNote" placeholder="Tes notes, idées et observations…"></textarea><button class="primary" id="savePersonalNote">Enregistrer la note</button><div id="personalNotes"></div></div>
-<details class="v15-secondary-tools"><summary>Ouvrir les tâches et l’agenda personnel</summary>
 <div class="info"><div class="label">GESTIONNAIRE DE TÂCHES</div><div class="toolbar"><input id="taskInput" placeholder="Nouvelle tâche…"><button class="primary" id="addTask">Ajouter</button></div><div id="taskList"></div></div>
 <div class="info"><div class="label">AGENDA PERSONNEL</div><div class="toolbar"><input id="eventTitle" placeholder="Événement"><input id="eventDate" type="datetime-local"><button class="small-btn" id="addEvent">Ajouter</button></div><div id="eventList"></div></div>
-</details>
 <div class="info"><div class="label">JOURNAL DES DÉCOUVERTES</div><textarea id="journalInput" placeholder="Ce que tu as appris ou ce que tu veux retenir…"></textarea><button class="small-btn" id="saveJournal">Ajouter au journal</button><div id="journalList"></div></div>
-</section> <section class="page" id="settings"> <h1>Personnalisation.</h1><div class="subtitle">Une identité forte, des effets réglables et quelques options utiles.</div> <div class="info appearance-panel compact-studio" id="personalizationStudio">
+</section> <section class="page" id="settings"> <h1>Paramètres.</h1><div class="subtitle">Configuration de votre centre NEXUS.</div> <div class="info appearance-panel compact-studio" id="personalizationStudio">
 <div class="studio-hero">
   <div class="studio-hero-copy">
     <div class="label">NEXUS / IDENTITY</div>
@@ -801,42 +680,20 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 </div>
 <div class="studio-tabs" role="tablist" aria-label="Catégories de personnalisation">
   <button type="button" class="studio-tab active" data-studio-tab="appearance" role="tab" aria-selected="true">Identité</button>
-  <button type="button" class="studio-tab" data-studio-tab="ambiance" role="tab" aria-selected="false">Effets</button>
+  <button type="button" class="studio-tab" data-studio-tab="ambiance" role="tab" aria-selected="false">Ambiance</button>
   <button type="button" class="studio-tab" data-studio-tab="interface" role="tab" aria-selected="false">Interface</button>
   <button type="button" class="studio-tab" data-studio-tab="comfort" role="tab" aria-selected="false">Confort</button>
 </div>
 <section class="studio-panel active" data-studio-panel="appearance" role="tabpanel">
   <div class="studio-section-title"><div><span>01 / SIGNATURE</span><h3>Choisis ton univers</h3></div><small>5 profils · 10 réglages</small></div>
   <div class="profile-grid nexus-simple-profiles">
-    <button type="button" class="profile-card profile-jarvis" data-profile="jarvis"><i class="profile-dot jarvis-dot"></i><b>JARVIS CORE</b><small>HUD intelligent · radar · balayages · données vivantes</small><span class="profile-glint"></span></button>
-    <button type="button" class="profile-card profile-bladerunner" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>BLADE RUNNER</b><small>Néons · pluie · ambiance cinématique</small><span class="profile-glint"></span></button>
     <button type="button" class="profile-card profile-original" data-profile="tactical"><i class="profile-dot tactical-dot"></i><b>NEXUS ORIGINAL</b><small>La signature officielle</small><span class="profile-glint"></span></button>
-    <button type="button" class="profile-card profile-aegis" data-profile="aegis"><i class="profile-dot aegis-dot"></i><b>AEGIS COMMAND</b><small>Centre de contrôle · bleu acier</small><span class="profile-glint"></span></button>
-    <button type="button" class="profile-card profile-quantum" data-profile="quantum"><i class="profile-dot quantum-dot"></i><b>QUANTUM FIELD</b><small>Violet · énergie · profondeur</small><span class="profile-glint"></span></button>
-    <button type="button" class="profile-card profile-orbital" data-profile="orbital"><i class="profile-dot orbital-dot"></i><b>ORBITAL SYSTEM</b><small>Glace · anneaux · télémétrie</small><span class="profile-glint"></span></button>
-    <button type="button" class="profile-card profile-spectre" data-profile="spectre"><i class="profile-dot spectre-dot"></i><b>SPECTRE</b><small>Obsidienne · lumière discrète</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-bladerunner" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>BLADE RUNNER</b><small>Néons · pluie · cinématique</small><span class="profile-glint"></span></button>
     <button type="button" class="profile-card profile-stealth" data-profile="stealth"><i class="profile-dot stealth-dot"></i><b>STEALTH</b><small>Sombre · minimal · discret</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-arctic" data-profile="aurora"><i class="profile-dot aurora-dot"></i><b>ARCTIC</b><small>Glacier · bleu polaire</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-solaris" data-profile="solaris"><i class="profile-dot solaris-dot"></i><b>SOLARIS</b><small>Ambre · lumière chaude</small><span class="profile-glint"></span></button>
   </div>
-  <details class="v15-advanced-controls v15-preset-library"><summary>Explorer toutes les ambiances (autres profils)</summary>
-    <div class="profile-grid nexus-simple-profiles">
-      <button type="button" class="profile-card" data-profile="aurora"><i class="profile-dot" style="background:#72e4ff;color:#72e4ff"></i><b>ARCTIC AURORA</b><small>Glacier · aurore polaire</small></button>
-      <button type="button" class="profile-card" data-profile="solaris"><i class="profile-dot" style="background:#ffc66f;color:#ffc66f"></i><b>SOLARIS</b><small>Ambre · lumière chaude</small></button>
-      <button type="button" class="profile-card" data-profile="reactor"><i class="profile-dot" style="background:#43d9ff;color:#43d9ff"></i><b>REACTOR</b><small>Réacteur · énergie vive</small></button>
-      <button type="button" class="profile-card" data-profile="ghost"><i class="profile-dot" style="background:#b69aff;color:#b69aff"></i><b>GHOST</b><small>Hologramme violet</small></button>
-      <button type="button" class="profile-card" data-profile="deep-space"><i class="profile-dot" style="background:#9c8aff;color:#9c8aff"></i><b>DEEP SPACE</b><small>Cosmos · profondeur</small></button>
-      <button type="button" class="profile-card" data-profile="obsidian"><i class="profile-dot" style="background:#8ea4b9;color:#8ea4b9"></i><b>OBSIDIAN</b><small>Verre noir · sobriété</small></button>
-      <button type="button" class="profile-card" data-profile="redline"><i class="profile-dot" style="background:#ff7777;color:#ff7777"></i><b>REDLINE</b><small>Rouge · alerte technique</small></button>
-      <button type="button" class="profile-card" data-profile="matrix"><i class="profile-dot" style="background:#62e6a5;color:#62e6a5"></i><b>MATRIX</b><small>Vert · trame numérique</small></button>
-      <button type="button" class="profile-card" data-profile="aurum"><i class="profile-dot" style="background:#ffc66f;color:#ffc66f"></i><b>AURUM</b><small>Or · titane · élégance</small></button>
-      <button type="button" class="profile-card" data-profile="synthwave"><i class="profile-dot" style="background:#c084fc;color:#c084fc"></i><b>SYNTHWAVE</b><small>Rétro-futuriste · néon</small></button>
-      <button type="button" class="profile-card" data-profile="sonar"><i class="profile-dot" style="background:#43d9ff;color:#43d9ff"></i><b>SONAR</b><small>Impulsions · balayage rapide</small></button>
-      <button type="button" class="profile-card" data-profile="overdrive"><i class="profile-dot" style="background:#ffb454;color:#ffb454"></i><b>OVERDRIVE</b><small>Énergie · mouvement intense</small></button>
-      <button type="button" class="profile-card" data-profile="hologram"><i class="profile-dot" style="background:#64f0e5;color:#64f0e5"></i><b>HOLOGRAM</b><small>Verre · interface volumétrique</small></button>
-      <button type="button" class="profile-card" data-profile="monolith"><i class="profile-dot" style="background:#8393a8;color:#8393a8"></i><b>MONOLITH</b><small>Ultra-minimal · sans mouvement</small></button>
-      <button type="button" class="profile-card" data-profile="global-intel"><i class="profile-dot" style="background:#43d9ff;color:#43d9ff"></i><b>GLOBAL INTEL</b><small>Renseignement · cartographie</small></button>
-    </div>
-  </details>
-  <p class="studio-hint">Choisis un profil comme base, puis ajuste individuellement les couleurs et les effets. Tu peux aussi enregistrer ta propre identité.</p>
+  <p class="studio-hint">Les profils appliquent une base complète. Les réglages ci-dessous permettent ensuite de personnaliser chaque détail.</p>
   <div class="studio-section-title"><div><span>PERSONNALISATION FINE</span><h3>Signature visuelle</h3></div><small>10 réglages</small></div>
   <div class="studio-control-grid">
     <label class="studio-select"><span><b>Palette principale</b><small>Couleur dominante de NEXUS</small></span><select id="accentColor"><option value="blue" selected>Bleu électrique</option><option value="cyan">Cyan</option><option value="green">Vert</option><option value="amber">Ambre</option><option value="violet">Violet</option><option value="red">Rouge</option></select></label>
@@ -852,23 +709,7 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
   </div>
 </section>
 <section class="studio-panel" data-studio-panel="ambiance" role="tabpanel" hidden>
-  <div class="v15-effect-lab">
-  <div class="v15-effect-lab-heading"><div><span>V15 / COLOR LAYERS</span><h3>Effets visuels personnalisés</h3><p>Active chaque couche et choisis sa couleur indépendamment. Les réglages sont mémorisés sur cet appareil.</p></div><span class="v15-live-tag"><i></i> LIVE</span></div>
-  <div class="v15-effect-grid">
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Nébuleuse lumineuse</b><small>Voiles atmosphériques colorés</small></div><label class="switch"><input type="checkbox" id="v15Aurora" checked aria-label="Activer la nébuleuse lumineuse"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15AuroraColor" value="#477dff" aria-label="Couleur de la nébuleuse"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Balayage scanner</b><small>Faisceau lumineux en mouvement</small></div><label class="switch"><input type="checkbox" id="v15ScanBeam" checked aria-label="Activer le balayage scanner"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15ScanColor" value="#43d9ff" aria-label="Couleur du balayage scanner"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Anneaux orbitaux</b><small>Structures circulaires en profondeur</small></div><label class="switch"><input type="checkbox" id="v15Orbit" checked aria-label="Activer les anneaux orbitaux"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15OrbitColor" value="#8b7dff" aria-label="Couleur des anneaux orbitaux"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Contours circuit</b><small>Repères lumineux sur les bords</small></div><label class="switch"><input type="checkbox" id="v15Circuit" checked aria-label="Activer les contours circuit"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15CircuitColor" value="#43d9ff" aria-label="Couleur des contours circuit"></label></div>
-    <div class="v15-effect-card v15-particle-card"><div class="v15-effect-copy"><b>Particules & connexions</b><small>Couleur des points et traits du fond animé</small></div><label class="v15-color-control"><span>Couleur</span><input type="color" id="fxParticleColor" value="#43d9ff" aria-label="Couleur des particules"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Réticule intelligent</b><small>Cercles de ciblage, repères et croix HUD</small></div><label class="switch"><input type="checkbox" id="v15Reticle" checked aria-label="Activer le réticule intelligent"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15ReticleColor" value="#58e6ff" aria-label="Couleur du réticule"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Flux de données</b><small>Colonnes de télémétrie animées sur les bords</small></div><label class="switch"><input type="checkbox" id="v15DataStream" checked aria-label="Activer le flux de données"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15DataStreamColor" value="#43d9ff" aria-label="Couleur du flux de données"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Anneau énergétique</b><small>Onde circulaire avec pulsation lumineuse</small></div><label class="switch"><input type="checkbox" id="v15EnergyRing" checked aria-label="Activer l’anneau énergétique"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15EnergyRingColor" value="#5b91ff" aria-label="Couleur de l’anneau énergétique"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Balayage holographique</b><small>Reflet oblique qui traverse lentement l’écran</small></div><label class="switch"><input type="checkbox" id="v15HoloSweep" checked aria-label="Activer le balayage holographique"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15HoloSweepColor" value="#74eaff" aria-label="Couleur du balayage holographique"></label></div>
-    <div class="v15-effect-card"><div class="v15-effect-copy"><b>Maillage hexagonal</b><small>Trame technique qui respire en arrière-plan</small></div><label class="switch"><input type="checkbox" id="v15HexMesh" checked aria-label="Activer le maillage hexagonal"><span></span></label><label class="v15-color-control"><span>Couleur</span><input type="color" id="v15HexMeshColor" value="#4bcfff" aria-label="Couleur du maillage hexagonal"></label></div>
-  </div>
-</div>
-<details class="v15-advanced-controls"><summary>Réglages avancés de l’ambiance</summary>
-<div class="studio-section-title"><div><span>02 / ATMOSPHÈRE</span><h3>Règle l’ambiance générale</h3></div><small>Réglages globaux</small></div>
+  <div class="studio-section-title"><div><span>02 / ATMOSPHÈRE</span><h3>Compose ton ambiance</h3></div><small>10 réglages</small></div>
   <div class="studio-control-grid">
     <label class="studio-slider"><span><b>Présence visuelle</b><output id="fxIntensityValue">92%</output></span><small>Visibilité globale des effets décoratifs</small><input type="range" id="fxIntensity" min="0" max="100" step="5" value="92"></label>
     <label class="studio-slider"><span><b>Brume et atmosphère</b><output id="fxAtmosphereValue">88%</output></span><small>Intensité des halos atmosphériques</small><input type="range" id="fxAtmosphere" min="0" max="100" step="5" value="88"></label>
@@ -881,7 +722,6 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
     <div class="studio-toggle"><div><b>Lignes de balayage</b><small>Ajouter un balayage discret</small></div><label class="switch"><input type="checkbox" id="fxScan" checked><span></span></label></div>
     <div class="studio-toggle"><div><b>Voile lumineux</b><small>Activer les nappes lumineuses animées</small></div><label class="switch"><input type="checkbox" id="fxAurora" checked><span></span></label></div>
   </div>
-</details>
 </section>
 <section class="studio-panel" data-studio-panel="interface" role="tabpanel" hidden>
   <div class="studio-section-title"><div><span>03 / ERGONOMIE</span><h3>Façonne ton interface</h3></div><small>10 réglages</small></div>
@@ -890,9 +730,6 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
     <label class="studio-slider"><span><b>Échelle de l’interface</b><output id="uiScaleValue">100%</output></span><small>Ajuste légèrement la taille générale</small><input type="range" id="uiScale" min="90" max="115" step="5" value="100"></label>
     <label class="studio-select"><span><b>Densité des informations</b><small>Espacement dans les pages</small></span><select id="densityMode"><option value="compact">Compact</option><option value="normal" selected>Équilibré</option><option value="spacious">Aéré</option></select></label>
     <label class="studio-select"><span><b>Présentation des actualités</b><small>Organisation des cartes d’articles</small></span><select id="newsCardLayout"><option value="intelligence" selected>Centre de renseignement</option><option value="editorial">Éditorial</option><option value="minimal">Minimal</option></select></label>
-  </div>
-  <details class="v15-advanced-controls"><summary>Options visuelles avancées</summary>
-  <div class="studio-control-grid">
     <label class="studio-select"><span><b>Style des commandes</b><small>Forme et présence des boutons</small></span><select id="controlStyle"><option value="technical" selected>Technique</option><option value="soft">Doux</option><option value="minimal">Minimal</option></select></label>
     <label class="studio-select"><span><b>Style des icônes</b><small>Traitement graphique des icônes</small></span><select id="iconStyle"><option value="geometric" selected>Géométrique</option><option value="outlined">Contour</option><option value="minimal">Minimal</option></select></label>
     <label class="studio-select"><span><b>Style de navigation</b><small>Aspect de la barre inférieure</small></span><select id="navStyle"><option value="command" selected>Command</option><option value="holographic">Holographique</option><option value="minimal">Minimal</option></select></label>
@@ -900,7 +737,6 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
     <label class="studio-slider"><span><b>Lueur des contours</b><output id="edgeIntensityValue">45%</output></span><small>Accentuation lumineuse des bordures</small><input type="range" id="edgeIntensity" min="0" max="100" step="5" value="45"></label>
     <label class="studio-slider"><span><b>Relief des cartes</b><output id="cardDepthValue">55%</output></span><small>Profondeur des ombres et des surfaces</small><input type="range" id="cardDepth" min="0" max="100" step="5" value="55"></label>
   </div>
-  </details>
 </section>
 <section class="studio-panel" data-studio-panel="comfort" role="tabpanel" hidden>
   <div class="studio-section-title"><div><span>04 / CONTRÔLE</span><h3>Règle ton confort</h3></div><small>10 réglages</small></div>
@@ -909,9 +745,6 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
     <div class="studio-toggle"><div><b>Retour haptique</b><small>Petite vibration sur les appareils compatibles</small></div><label class="switch"><input type="checkbox" id="haptics" checked><span></span></label></div>
     <label class="studio-select"><span><b>Profil d’animation</b><small>Rythme des transitions de l’interface</small></span><select id="motionPreset"><option value="off">Désactivé</option><option value="balanced" selected>Équilibré</option><option value="cinematic">Cinématique</option><option value="snappy">Rapide</option></select></label>
     <label class="studio-slider"><span><b>Intensité des transitions</b><output id="motionIntensityValue">55%</output></span><small>Présence des transitions et réactions</small><input type="range" id="motionIntensity" min="0" max="100" step="5" value="55"></label>
-  </div>
-  <details class="v15-advanced-controls"><summary>Réglages avancés du mouvement</summary>
-  <div class="studio-control-grid">
     <div class="studio-toggle"><div><b>Mouvement des effets</b><small>Animer les particules et effets de fond</small></div><label class="switch"><input type="checkbox" id="fxMotion" checked><span></span></label></div>
     <div class="studio-toggle"><div><b>Micro-interactions</b><small>Réactions visuelles au toucher</small></div><label class="switch"><input type="checkbox" id="microInteractions" checked><span></span></label></div>
     <div class="studio-toggle"><div><b>Repères de focus</b><small>Contour lumineux des éléments sélectionnés</small></div><label class="switch"><input type="checkbox" id="focusGlow" checked><span></span></label></div>
@@ -919,11 +752,10 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
     <div class="studio-toggle"><div><b>Animations d’apparition</b><small>Transitions à l’arrivée des contenus</small></div><label class="switch"><input type="checkbox" id="revealMotion" checked><span></span></label></div>
     <label class="studio-slider"><span><b>Vitesse du radar</b><output id="radarSpeedValue">45%</output></span><small>Rythme de rotation du radar mondial</small><input type="range" id="radarSpeed" min="0" max="100" step="5" value="45"></label>
   </div>
-  </details>
 </section>
 <div class="studio-footer"><span>Préférences sauvegardées automatiquement sur cet appareil.</span><button type="button" class="small-btn" id="resetAppearance">Réinitialiser</button></div>
 <div class="studio-legacy" aria-hidden="true">
-  <select id="themeProfile"><option value="jarvis">JARVIS Core</option><option value="tactical">NEXUS Original</option><option value="cyber">Blade Runner</option><option value="aegis">Aegis Command</option><option value="quantum">Quantum Field</option><option value="orbital">Orbital System</option><option value="spectre">Spectre</option><option value="stealth">Stealth</option><option value="aurora">Arctic Aurora</option><option value="solaris">Solaris</option><option value="reactor">Reactor</option><option value="ghost">Ghost</option><option value="deep-space">Deep Space</option><option value="obsidian">Obsidian</option><option value="redline">Redline</option><option value="matrix">Matrix</option><option value="aurum">Aurum</option><option value="synthwave">Synthwave</option><option value="sonar">Sonar</option><option value="overdrive">Overdrive</option><option value="hologram">Hologram</option><option value="monolith">Monolith</option><option value="global-intel">Global Intel</option><option value="custom">Personnalisé</option></select>
+  <select id="themeProfile"><option value="tactical">NEXUS Original</option><option value="cyber">Blade Runner</option><option value="stealth">Stealth</option><option value="aurora">Arctic</option><option value="solaris">Solaris</option><option value="custom">Personnalisé</option></select>
   <button type="button" id="exportTheme">Exporter</button><button type="button" id="importThemeButton">Importer</button><input type="file" id="importThemeFile" accept="application/json,.json">
 </div>
 </div>
@@ -932,8 +764,8 @@ body[data-fx-motion="off"] #nexusFxBackground .v15-reticle,body[data-fx-motion="
 <div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div>
 <div class="info"><div class="label">SAUVEGARDE COMPLÈTE</div><p>Exporter ou restaurer les données personnelles locales de NEXUS (favoris, dossiers, alertes, notes, tâches et préférences).</p>
 <div class="actions"><button class="small-btn" id="exportAllData">Exporter toutes mes données</button><button class="small-btn" id="importAllDataButton">Importer une sauvegarde</button><input type="file" id="importAllDataFile" accept="application/json,.json" hidden></div></div>
-<button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button> <div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 15 — Refined Intelligence<br>Interface personnelle non commerciale.</p></div> </section> </main>
-<footer>NEXUS INTELLIGENCE / PERSONAL SYSTEM / V15</footer> <nav id="primaryNav" aria-label="Navigation principale"></nav>
+<button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button> <div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 14 — FX Studio<br>Interface personnelle non commerciale.</p></div> </section> </main>
+<footer>NEXUS INTELLIGENCE / PERSONAL SYSTEM / V14 FX STUDIO</footer> <nav id="primaryNav" aria-label="Navigation principale"></nav>
 <script>
 "use strict"; const NEWS_URL="./news.json"; const CACHE_KEY="nexusArticlesV3"; const FAV_KEY="nexusFavoritesV3"; const DOSSIER_KEY="nexusDossiersV1"; const ALERT_KEY="nexusAlertsV1"; function readStorage(key,fallback){
 try{const v=localStorage.getItem(key);return v?JSON.parse(v):fallback}catch(e){return fallback} } let articles=readStorage(CACHE_KEY,[]); let archive=readStorage("nexusArchiveV3",[]); let favorites=readStorage(FAV_KEY,[]); let dossiers=readStorage(DOSSIER_KEY,[]);
@@ -1153,47 +985,18 @@ updateAlertIndicator(); if(currentPage==="situation"&&nexusMap)renderMapMarkers(
 el.innerHTML=feedResults.length?feedResults.map(f=>`<p><span class="${f.ok?"good":"bad"}">${f.ok?"● DISPONIBLE":"● INDISPONIBLE"}</span> — ${escapeHTML(f.name)} (${f.ok?f.count+" articles":escapeHTML(f.error||"aucun article")})</p>`).join(""):"En attente du premier chargement.";
 } /* NEXUS HYBRID NAVIGATION / GLOBAL SEARCH */
 const NEXUS_PAGES=[
-{id:"home",label:"Accueil",icon:"⌂",desc:"Briefing quotidien et indicateurs"}, {id:"situation",label:"Carte mondiale",icon:"◎",desc:"Cartographie des lieux mentionnés"}, {id:"news",label:"Actualités",icon:"◫",desc:"Flux, catégories et publications"},
-{id:"top",label:"À la une",icon:"◆",desc:"Publications classées"}, {id:"timeline",label:"Chronologie",icon:"◷",desc:"Publications classées par date"}, {id:"sources",label:"Sources",icon:"◉",desc:"Suivi des médias et sujets couverts"},
-{id:"analyst",label:"Analyste",icon:"⌕",desc:"Examiner une publication"}, {id:"dossiers",label:"Dossiers",icon:"▣",desc:"Bibliothèque thématique"}, {id:"science",label:"Sciences",icon:"✧",desc:"Veille scientifique et spatiale"},
+{id:"home",label:"Accueil",icon:"⌂",desc:"Vue générale et briefing"}, {id:"situation",label:"Carte",icon:"◎",desc:"Cartographie mondiale"}, {id:"news",label:"Actualités",icon:"◫",desc:"Flux et catégories"},
+{id:"top",label:"Top Intelligence",icon:"◆",desc:"Publications classées"}, {id:"timeline",label:"Timeline",icon:"◷",desc:"Chronologie des publications"}, {id:"sources",label:"Sources",icon:"◉",desc:"Suivi des médias"},
+{id:"analyst",label:"Analyste",icon:"⌕",desc:"Examiner une publication"}, {id:"dossiers",label:"Dossiers",icon:"▣",desc:"Bibliothèque thématique"}, {id:"science",label:"Science & Space",icon:"✧",desc:"Veille scientifique et spatiale"},
 {id:"alerts",label:"Alertes",icon:"⚑",desc:"Mots-clés et catégories suivis"}, {id:"favorites",label:"Favoris",icon:"☆",desc:"Publications enregistrées"}, {id:"archive",label:"Archives",icon:"▤",desc:"Historique local"},
-{id:"world",label:"Monde & marchés",icon:"◎",desc:"Radar mondial, pays et marchés"}, {id:"analysis",label:"Tendances",icon:"⌗",desc:"Comparaison et tendances des médias"}, {id:"personal",label:"Notes",icon:"▣",desc:"Notes, journal et organisation personnelle"},
-{id:"settings",label:"Réglages",icon:"⚙",desc:"Apparence et sauvegarde NEXUS"}, {id:"tools",label:"Météo",icon:"⌘",desc:"Conditions et prévisions par ville"} ]; const PINNED_KEY="nexusPinnedPagesV1"; const DEFAULT_PINNED=["home","news","situation","favorites"];
+{id:"world",label:"World Intel",icon:"◎",desc:"Radar mondial et fiches pays"}, {id:"analysis",label:"Analysis Lab",icon:"⌗",desc:"Comparaison, briefing et présentation"}, {id:"personal",label:"Personal Desk",icon:"▣",desc:"Notes, tâches, agenda et journal"},
+{id:"settings",label:"Réglages",icon:"⚙",desc:"Configuration et sauvegarde NEXUS"}, {id:"tools",label:"Outils",icon:"⌘",desc:"Tous les modules NEXUS"} ]; const PINNED_KEY="nexusPinnedPagesV1"; const DEFAULT_PINNED=["home","news","situation","favorites"];
 let pinnedPages=readStorage(PINNED_KEY,DEFAULT_PINNED); if(!Array.isArray(pinnedPages))pinnedPages=DEFAULT_PINNED.slice(); pinnedPages=pinnedPages.filter((id,i,a)=>NEXUS_PAGES.some(p=>p.id===id)&&a.indexOf(id)===i).slice(0,4);
 if(!pinnedPages.length)pinnedPages=DEFAULT_PINNED.slice(); function savePinnedPages(){ localStorage.setItem(PINNED_KEY,JSON.stringify(pinnedPages)); renderPrimaryNav(); renderCommandMenu(); } const PRIMARY_TABS=[
-{id:"home",label:"Accueil",icon:"⌂"}, {id:"news",label:"Actualités",icon:"▤"},
-{id:"explorer",label:"Explorer",icon:"◎"}, {id:"library",label:"Bibliothèque",icon:"▣"}
-];
-const PAGE_GROUPS={
- home:["home"],
- news:["news","top","timeline","science"],
- explorer:["situation","world","sources","analyst","analysis","tools"],
- library:["dossiers","favorites","archive","personal"]
-};
-const SECTION_TABS={
- news:[{id:"news",label:"Flux"},{id:"top",label:"À la une"},{id:"timeline",label:"Chronologie"},{id:"science",label:"Sciences"}],
- explorer:[{id:"situation",label:"Carte"},{id:"world",label:"Monde & marchés"},{id:"sources",label:"Sources"},{id:"analysis",label:"Tendances"},{id:"analyst",label:"Analyste"},{id:"tools",label:"Météo"}],
- library:[{id:"dossiers",label:"Dossiers"},{id:"favorites",label:"Favoris"},{id:"archive",label:"Archives"},{id:"personal",label:"Notes"}]
-};
-const PAGE_ALIASES={explorer:"situation",library:"dossiers"};
-function groupForPage(page){return Object.keys(PAGE_GROUPS).find(group=>PAGE_GROUPS[group].includes(page))||"";}
-function renderSectionTabs(){
- const nav=document.getElementById("sectionTabs");if(!nav)return;
- const group=groupForPage(currentPage),tabs=SECTION_TABS[group]||[];
- nav.hidden=!tabs.length;
- if(!tabs.length){nav.innerHTML="";return;}
- nav.innerHTML='<div class="v15-section-tabs-inner">'+tabs.map(tab=>`<button type="button" data-subpage="${tab.id}" class="v15-section-tab ${currentPage===tab.id?"active":""}" ${currentPage===tab.id?'aria-current="page"':""}>${tab.label}</button>`).join("")+'</div>';
- nav.querySelectorAll("[data-subpage]").forEach(button=>button.addEventListener("click",()=>showPage(button.dataset.subpage)));
-}
-function renderPrimaryNav(){
- const nav=document.getElementById("primaryNav");if(!nav)return;
- const activeGroup=groupForPage(currentPage);
- nav.innerHTML=PRIMARY_TABS.map(tab=>{const active=tab.id===activeGroup;
- return `<button type="button" data-page="${tab.id}" class="${active?"active":""}" aria-label="${tab.label}" ${active?'aria-current="page"':""}><b aria-hidden="true">${tab.icon}</b><span class="nav-label">${tab.label}</span></button>`;
- }).join("");
- nav.querySelectorAll("button[data-page]").forEach(button=>button.addEventListener("click",()=>showPage(button.dataset.page)));
- renderSectionTabs();
-} function renderCommandMenu(){ const grid=document.getElementById("commandMenuGrid"); if(!grid)return; grid.innerHTML=NEXUS_PAGES.map(p=>{
+{id:"home",label:"Accueil",icon:"⌂"}, {id:"news",label:"Actualités",icon:"▤"}, {id:"situation",label:"Carte",icon:"◎"}, {id:"dossiers",label:"Dossiers",icon:"▣"}, {id:"tools",label:"Outils",icon:"⌘"} ]; function renderPrimaryNav(){ const nav=document.getElementById("primaryNav");
+if(!nav)return; nav.innerHTML=PRIMARY_TABS.map(p=>{ const active=currentPage===p.id||(p.id==="tools"&&!PRIMARY_TABS.some(tab=>tab.id===currentPage));
+return `<button type="button" data-page="${p.id}" class="${active?"active":""}" aria-label="${p.label}" ${active?'aria-current="page"':""}><b aria-hidden="true">${p.icon}</b><span class="nav-label">${p.label}</span></button>`; }).join("");
+nav.querySelectorAll("button[data-page]").forEach(b=>b.addEventListener("click",()=>showPage(b.dataset.page))); } function renderCommandMenu(){ const grid=document.getElementById("commandMenuGrid"); if(!grid)return; grid.innerHTML=NEXUS_PAGES.map(p=>{
 const pinned=pinnedPages.includes(p.id); return `<div class="menu-entry ${pinned?"pinned":""}">
 <button class="menu-entry-main" data-menu-page="${p.id}" style="display:flex;align-items:center;gap:9px;flex:1;min-width:0;background:none;border:0;color:inherit;text-align:left;padding:0">
 <span class="menu-symbol">${p.icon}</span><span class="menu-name">${p.label}<small style="display:block;color:var(--muted);font-size:9px;font-weight:normal;margin-top:3px">${p.desc}</small></span>
@@ -1225,21 +1028,13 @@ closeGlobalSearch();if(a){showPage("news");document.getElementById("search").val
 else{showPage("archive");const card=[...document.querySelectorAll("#archiveArticles .article")].find(el=>el.textContent.includes(library.get(id)?.title||""));card?.scrollIntoView({behavior:"smooth",block:"start"});}
 }));
 } function updateAlertIndicator(){ const dot=document.getElementById("alertDot"); if(!dot)return; dot.hidden=getAlertMatches().length===0; }
-document.getElementById("openGlobalSearch").addEventListener("click",openGlobalSearch); document.getElementById("closeGlobalSearch").addEventListener("click",closeGlobalSearch); document.getElementById("openSettings").addEventListener("click",()=>showPage("settings"));
+document.getElementById("openGlobalSearch").addEventListener("click",openGlobalSearch); document.getElementById("closeGlobalSearch").addEventListener("click",closeGlobalSearch); document.getElementById("openFavorites").addEventListener("click",()=>showPage("favorites"));
 document.getElementById("openAlerts").addEventListener("click",()=>showPage("alerts")); document.getElementById("closeCommandMenu").addEventListener("click",closeCommandMenu); document.getElementById("globalSearchInput").addEventListener("input",renderGlobalSearch);
 document.querySelectorAll("[data-quick-page]").forEach(b=>b.addEventListener("click",()=>{closeCommandMenu();showPage(b.dataset.quickPage)})); document.getElementById("globalSearchPanel").addEventListener("click",e=>{if(e.target.id==="globalSearchPanel")closeGlobalSearch()});
 document.getElementById("commandMenu").addEventListener("click",e=>{if(e.target.id==="commandMenu")closeCommandMenu()}); document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeGlobalSearch();closeCommandMenu();document.body.classList.remove("presentation-mode")}});
 renderPrimaryNav(); renderCommandMenu(); /* NAVIGATION */
-function showPage(page){
- if(PAGE_ALIASES[page])page=PAGE_ALIASES[page];
- if(!NEXUS_PAGES.some(p=>p.id===page))return;
- currentPage=page;renderPrimaryNav();
- document.querySelectorAll(".page").forEach(section=>{const active=section.id===page;section.classList.toggle("active",active);section.setAttribute("aria-hidden",String(!active))});
- window.scrollTo({top:0,behavior:nexusPrefs?.reducedMotion?"auto":"smooth"});
- renderPage(page);
- if(page==="situation")setTimeout(()=>{if(nexusMap)nexusMap.invalidateSize()},200);
- updateReadingProgress();
-} /* Les boutons de navigation sont gérés par renderPrimaryNav(). */
+function showPage(page){ if(!NEXUS_PAGES.some(p=>p.id===page))return; currentPage=page; renderPrimaryNav(); document.querySelectorAll(".page").forEach(p=>{const active=p.id===page;p.classList.toggle("active",active);p.setAttribute("aria-hidden",String(!active))});
+window.scrollTo({top:0,behavior:nexusPrefs?.reducedMotion?"auto":"smooth"}); renderPage(page); if(page==="situation")setTimeout(()=>{if(nexusMap)nexusMap.invalidateSize()},200); updateReadingProgress(); } /* Les boutons de navigation sont gérés par renderPrimaryNav(). */
 document.querySelectorAll(".chip[data-cat]").forEach(b=>b.addEventListener("click",()=>{ document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.remove("active")); b.classList.add("active");activeCategory=b.dataset.cat;renderNews(); })); let searchTimer;
 document.getElementById("search").addEventListener("input",()=>{ clearTimeout(searchTimer);searchTimer=setTimeout(renderNews,120); }); document.getElementById("analystSelect").addEventListener("change",showAnalyst);
 document.getElementById("date").textContent=new Intl.DateTimeFormat("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"}).format(new Date()).toUpperCase(); document.getElementById("articleCount").value=localStorage.getItem("nexusCount")||"8";
@@ -1249,8 +1044,7 @@ if(subscription)await subscription.unsubscribe(); }catch(error){console.info("NE
 const NEXUS_PREFS_KEY="nexusInterfacePrefsV1";
 const DEFAULT_NEXUS_PREFS={profile:"tactical",accent:"blue",customAccent:"#43d9ff",glow:35,background:"deep",backgroundTexture:"grid",cardStyle:"standard",glass:false,glowMode:true,ambient:false,compact:false,density:"normal",reducedMotion:false,panelOpacity:78,cornerRadius:14,
 fontScale:100,fxIntensity:92,fxAtmosphere:88,fxParticles:48,fxSpeed:42,fxDepth:68,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,haptics:true,
-surfaceMaterial:"obsidian",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"balanced",motionIntensity:55,focusGlow:true,dataFlow:true,revealMotion:true,edgeIntensity:45,radarSpeed:45,uiScale:100,cardDepth:55,hudCorners:true,microInteractions:true,
-v15Aurora:true,v15AuroraColor:"#477dff",v15ScanBeam:true,v15ScanColor:"#43d9ff",v15Orbit:true,v15OrbitColor:"#8b7dff",v15Circuit:true,v15CircuitColor:"#43d9ff",fxParticleColor:"#43d9ff",v15Reticle:true,v15ReticleColor:"#58e6ff",v15DataStream:true,v15DataStreamColor:"#43d9ff",v15EnergyRing:true,v15EnergyRingColor:"#5b91ff",v15HoloSweep:true,v15HoloSweepColor:"#74eaff",v15HexMesh:true,v15HexMeshColor:"#4bcfff"};
+surfaceMaterial:"obsidian",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"balanced",motionIntensity:55,focusGlow:true,dataFlow:true,revealMotion:true,edgeIntensity:45,radarSpeed:45,uiScale:100,cardDepth:55,hudCorners:true,microInteractions:true};
 let nexusPrefs={...DEFAULT_NEXUS_PREFS,...readStorage(NEXUS_PREFS_KEY,{})}; const ACCENTS={
 blue:{blue:"#43d9ff",soft:"#12334b"},cyan:{blue:"#64f0e5",soft:"#103b3a"},green:{blue:"#62e6a5",soft:"#123a2b"},amber:{blue:"#f2bd62",soft:"#3b2c16"},violet:{blue:"#b69aff",soft:"#2b2146"},red:{blue:"#ff7777",soft:"#421f29"} }; function applyNexusPreferences(){
 const chosen=ACCENTS[nexusPrefs.accent]?nexusPrefs.accent:"blue"; const color=nexusPrefs.accent==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customAccent)?nexusPrefs.customAccent:ACCENTS[chosen].blue;
@@ -1282,22 +1076,9 @@ const depth=Math.max(0,Math.min(100,Number(nexusPrefs.fxDepth)||0))/100; documen
 document.documentElement.style.setProperty("--fx-scan-opacity",String(depth*.38)); document.documentElement.style.setProperty("--fx-blur",(3+depth*11)+"px"); document.documentElement.style.setProperty("--fx-glow",(Math.max(0,Math.min(100,Number(nexusPrefs.glow)||0))*.18)+"%");
 const speed=Math.max(0,Math.min(100,Number(nexusPrefs.fxSpeed)||0)); const duration=40-speed*.28; document.documentElement.style.setProperty("--fx-aurora-duration",duration+"s"); document.documentElement.style.setProperty("--fx-nebula-duration",(duration*1.3)+"s");
 document.documentElement.style.setProperty("--fx-orbit-duration",(duration*.7)+"s"); document.documentElement.style.setProperty("--fx-scan-duration",(duration*.46)+"s"); document.body.dataset.fxPalette=nexusPrefs.fxPalette||"nexus";
-if(nexusPrefs.fxPalette==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customFxColor||"")){document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c1",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c2",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c3",nexusPrefs.customFxColor)}else{document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c1");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c2");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c3")}
+if(nexusPrefs.fxPalette==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customFxColor||"")){document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c1",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c2",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c3",nexusPrefs.customFxColor);document.documentElement.style.setProperty("--blue",nexusPrefs.customFxColor);document.documentElement.style.setProperty("--accent",nexusPrefs.customFxColor)}else{document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c1");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c2");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c3")}
 document.body.dataset.fxGrid=nexusPrefs.fxGrid===false?"off":"on"; document.body.dataset.fxScan=nexusPrefs.fxScan===false?"off":"on"; document.body.dataset.fxAurora=nexusPrefs.fxAurora===false?"off":"on";
 document.body.dataset.fxParticles=Number(nexusPrefs.fxParticles)>0?"on":"off"; document.body.dataset.fxMotion=nexusPrefs.fxMotion===false||nexusPrefs.reducedMotion?"off":"on";
-document.body.dataset.v15Aurora=nexusPrefs.v15Aurora===false?"off":"on";
-document.body.dataset.v15ScanBeam=nexusPrefs.v15ScanBeam===false?"off":"on";
-document.body.dataset.v15Orbit=nexusPrefs.v15Orbit===false?"off":"on";
-document.body.dataset.v15Circuit=nexusPrefs.v15Circuit===false?"off":"on";
-document.body.dataset.v15Reticle=nexusPrefs.v15Reticle===false?"off":"on";
-document.body.dataset.v15DataStream=nexusPrefs.v15DataStream===false?"off":"on";
-document.body.dataset.v15EnergyRing=nexusPrefs.v15EnergyRing===false?"off":"on";
-document.body.dataset.v15HoloSweep=nexusPrefs.v15HoloSweep===false?"off":"on";
-document.body.dataset.v15HexMesh=nexusPrefs.v15HexMesh===false?"off":"on";
-const colorVars={"--v15-aurora-color":nexusPrefs.v15AuroraColor,"--v15-scan-color":nexusPrefs.v15ScanColor,"--v15-orbit-color":nexusPrefs.v15OrbitColor,"--v15-circuit-color":nexusPrefs.v15CircuitColor,"--v15-particle-color":nexusPrefs.fxParticleColor,"--v15-reticle-color":nexusPrefs.v15ReticleColor,"--v15-data-color":nexusPrefs.v15DataStreamColor,"--v15-ring-color":nexusPrefs.v15EnergyRingColor,"--v15-sweep-color":nexusPrefs.v15HoloSweepColor,"--v15-hex-color":nexusPrefs.v15HexMeshColor};
-Object.entries(colorVars).forEach(([name,value])=>{if(/^#[0-9a-f]{6}$/i.test(String(value||"")))document.documentElement.style.setProperty(name,value)});
-document.documentElement.style.setProperty("--v15-fx-alpha",String(Math.max(0,Math.min(100,Number(nexusPrefs.fxIntensity)||0))/100));
-document.documentElement.style.setProperty("--v15-fx-duration",(34-Math.max(0,Math.min(100,Number(nexusPrefs.fxSpeed)||0))*.22)+"s");
 document.body.dataset.hudCorners=nexusPrefs.hudCorners===false?"off":"on";
 document.body.dataset.micro=nexusPrefs.microInteractions===false?"off":"on";
 document.documentElement.style.setProperty("--edge-intensity",String(Math.max(0,Math.min(100,Number(nexusPrefs.edgeIntensity??45)))/100));
@@ -1345,8 +1126,7 @@ motionPreset:nexusPrefs.motionPreset,
 motionIntensity:nexusPrefs.motionIntensity,
 focusGlow:nexusPrefs.focusGlow,
 dataFlow:nexusPrefs.dataFlow,
-revealMotion:nexusPrefs.revealMotion,edgeIntensity:nexusPrefs.edgeIntensity,radarSpeed:nexusPrefs.radarSpeed,uiScale:nexusPrefs.uiScale,cardDepth:nexusPrefs.cardDepth,hudCorners:nexusPrefs.hudCorners,microInteractions:nexusPrefs.microInteractions,
-v15Aurora:nexusPrefs.v15Aurora,v15AuroraColor:nexusPrefs.v15AuroraColor,v15ScanBeam:nexusPrefs.v15ScanBeam,v15ScanColor:nexusPrefs.v15ScanColor,v15Orbit:nexusPrefs.v15Orbit,v15OrbitColor:nexusPrefs.v15OrbitColor,v15Circuit:nexusPrefs.v15Circuit,v15CircuitColor:nexusPrefs.v15CircuitColor,fxParticleColor:nexusPrefs.fxParticleColor,v15Reticle:nexusPrefs.v15Reticle,v15ReticleColor:nexusPrefs.v15ReticleColor,v15DataStream:nexusPrefs.v15DataStream,v15DataStreamColor:nexusPrefs.v15DataStreamColor,v15EnergyRing:nexusPrefs.v15EnergyRing,v15EnergyRingColor:nexusPrefs.v15EnergyRingColor,v15HoloSweep:nexusPrefs.v15HoloSweep,v15HoloSweepColor:nexusPrefs.v15HoloSweepColor,v15HexMesh:nexusPrefs.v15HexMesh,v15HexMeshColor:nexusPrefs.v15HexMeshColor};
+revealMotion:nexusPrefs.revealMotion,edgeIntensity:nexusPrefs.edgeIntensity,radarSpeed:nexusPrefs.radarSpeed,uiScale:nexusPrefs.uiScale,cardDepth:nexusPrefs.cardDepth,hudCorners:nexusPrefs.hudCorners,microInteractions:nexusPrefs.microInteractions};
 Object.entries(ids).forEach(([id,value])=>{const el=document.getElementById(id);if(el)el.type==="checkbox"?el.checked=!!value:el.value=value});
 document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical"))); document.querySelectorAll('#personalizationStudio input[type="range"]').forEach(el=>{const out=document.getElementById(el.id+"Value");if(out)out.textContent=el.value+(el.id==="cornerRadius"?" px":" %")}); if(typeof refreshNexusFX==="function")refreshNexusFX(); } function applyThemeProfile(profile){ const presets={
 tactical:{profile:"tactical",accent:"blue",background:"deep",backgroundTexture:"grid",glow:32,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:80,cornerRadius:10,density:"normal",fxIntensity:78,fxAtmosphere:62,fxParticles:28,fxSpeed:30,fxDepth:58,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:false,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:48,edgeIntensity:52,radarSpeed:42,cardDepth:65,hudCorners:true,microInteractions:true},
@@ -1366,30 +1146,8 @@ overdrive:{profile:"overdrive",accent:"amber",background:"black",backgroundTextu
 hologram:{profile:"hologram",accent:"cyan",background:"midnight",backgroundTexture:"grid",glow:96,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:58,cornerRadius:20,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:68,fxSpeed:48,fxDepth:94,fxPalette:"aurora",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:78,edgeIntensity:100,radarSpeed:52,cardDepth:90,hudCorners:false,microInteractions:true},
 monolith:{profile:"monolith",accent:"blue",background:"black",backgroundTexture:"none",glow:0,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:100,cornerRadius:4,density:"compact",fxIntensity:8,fxAtmosphere:0,fxParticles:0,fxSpeed:0,fxDepth:10,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"titanium",borderStyle:"hairline",newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"off",motionIntensity:0,edgeIntensity:0,radarSpeed:0,cardDepth:8,hudCorners:false,microInteractions:false},
 solaris:{profile:"solaris",accent:"amber",background:"slate",backgroundTexture:"stars",glow:74,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"spacious",fxIntensity:96,fxAtmosphere:100,fxParticles:42,fxSpeed:32,fxDepth:78,fxPalette:"amber",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:64,edgeIntensity:78,radarSpeed:38,cardDepth:78,hudCorners:false,microInteractions:true},
-"global-intel":{profile:"global-intel",accent:"cyan",background:"deep",backgroundTexture:"grid",glow:48,glass:true,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:78,cornerRadius:11,density:"normal",fxIntensity:88,fxAtmosphere:70,fxParticles:36,fxSpeed:38,fxDepth:84,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:58,edgeIntensity:72,radarSpeed:54,cardDepth:72,hudCorners:true,microInteractions:true},
-jarvis:{profile:"jarvis",accent:"cyan",customAccent:"#58e6ff",background:"deep",backgroundTexture:"grid",glow:82,glass:true,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:70,cornerRadius:12,density:"normal",fxIntensity:100,fxAtmosphere:86,fxParticles:54,fxSpeed:38,fxDepth:96,fxPalette:"custom",customFxColor:"#58e6ff",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"holographic",chartStyle:"neon",motionPreset:"cinematic",motionIntensity:78,edgeIntensity:88,radarSpeed:64,cardDepth:78,hudCorners:true,microInteractions:true},
-aegis:{profile:"aegis",accent:"blue",customAccent:"#5da8ff",background:"deep",backgroundTexture:"grid",glow:64,glass:true,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:76,cornerRadius:10,density:"normal",fxIntensity:86,fxAtmosphere:72,fxParticles:30,fxSpeed:32,fxDepth:84,fxPalette:"custom",customFxColor:"#5da8ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:62,edgeIntensity:74,radarSpeed:48,cardDepth:72,hudCorners:true,microInteractions:true},
-quantum:{profile:"quantum",accent:"violet",customAccent:"#bd8aff",background:"midnight",backgroundTexture:"stars",glow:88,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:66,cornerRadius:17,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:78,fxSpeed:48,fxDepth:92,fxPalette:"custom",customFxColor:"#bd8aff",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:82,edgeIntensity:94,radarSpeed:58,cardDepth:88,hudCorners:false,microInteractions:true},
-orbital:{profile:"orbital",accent:"cyan",customAccent:"#a7efff",background:"midnight",backgroundTexture:"grid",glow:72,glass:true,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:74,cornerRadius:13,density:"normal",fxIntensity:94,fxAtmosphere:80,fxParticles:46,fxSpeed:42,fxDepth:86,fxPalette:"ice",customFxColor:"#a7efff",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"holographic",chartStyle:"precision",motionPreset:"cinematic",motionIntensity:70,edgeIntensity:82,radarSpeed:56,cardDepth:78,hudCorners:true,microInteractions:true},
-spectre:{profile:"spectre",accent:"violet",customAccent:"#9298c8",background:"black",backgroundTexture:"none",glow:52,glass:true,glowMode:true,ambient:false,cardStyle:"flat",panelOpacity:82,cornerRadius:9,density:"compact",fxIntensity:74,fxAtmosphere:54,fxParticles:22,fxSpeed:28,fxDepth:65,fxPalette:"custom",customFxColor:"#9298c8",fxGrid:false,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"obsidian",borderStyle:"hairline",newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"outlined",navStyle:"minimal",chartStyle:"precision",motionPreset:"balanced",motionIntensity:38,edgeIntensity:42,radarSpeed:42,cardDepth:42,hudCorners:false,microInteractions:true}
-};
-if(presets[profile]){
-  nexusPrefs={...nexusPrefs,...presets.tactical,...presets[profile]};
-  const tone=nexusPrefs.accent==="amber"?"#ffc66f":nexusPrefs.accent==="violet"?"#bd8aff":nexusPrefs.accent==="green"?"#62e6a5":nexusPrefs.accent==="red"?"#ff7777":nexusPrefs.customAccent||"#43d9ff";
-  const quiet=["stealth","obsidian","monolith","spectre"].includes(profile);
-  nexusPrefs.v15Reticle=!quiet;
-  nexusPrefs.v15ReticleColor=profile==="jarvis"?"#58e6ff":tone;
-  nexusPrefs.v15DataStream=!quiet;
-  nexusPrefs.v15DataStreamColor=profile==="jarvis"?"#43d9ff":tone;
-  nexusPrefs.v15EnergyRing=["jarvis","cyber","ghost","aurora","reactor","deep-space","synthwave","hologram","quantum","orbital","solaris"].includes(profile);
-  nexusPrefs.v15EnergyRingColor=profile==="quantum"?"#bd8aff":profile==="solaris"?"#ffc66f":"#5b91ff";
-  nexusPrefs.v15HoloSweep=["jarvis","cyber","ghost","aurora","reactor","deep-space","synthwave","hologram","quantum","orbital","aegis"].includes(profile);
-  nexusPrefs.v15HoloSweepColor=profile==="jarvis"?"#74eaff":tone;
-  nexusPrefs.v15HexMesh=["jarvis","aegis","quantum","orbital","reactor","hologram","global-intel","matrix"].includes(profile);
-  nexusPrefs.v15HexMeshColor=tone;
-}else nexusPrefs.profile="custom";
-saveNexusPreferences();
-} function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();}
+"global-intel":{profile:"global-intel",accent:"cyan",background:"deep",backgroundTexture:"grid",glow:48,glass:true,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:78,cornerRadius:11,density:"normal",fxIntensity:88,fxAtmosphere:70,fxParticles:36,fxSpeed:38,fxDepth:84,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:58,edgeIntensity:72,radarSpeed:54,cardDepth:72,hudCorners:true,microInteractions:true}
+}; if(presets[profile])nexusPrefs={...nexusPrefs,...presets[profile]};else nexusPrefs.profile="custom"; saveNexusPreferences(); } function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();}
 function showNexusToast(message){ const toast=document.getElementById("nexusToast");if(!toast)return; toast.textContent=message;toast.classList.add("visible"); clearTimeout(showNexusToast.timer);showNexusToast.timer=setTimeout(()=>toast.classList.remove("visible"),2400); }
 function updateConnectionState(){ const el=document.getElementById("connectionState");if(!el)return; const online=navigator.onLine;el.textContent=online?"EN LIGNE":"HORS LIGNE";el.classList.toggle("offline",!online);
 el.title=online?"Connexion réseau disponible":"Pas de connexion réseau — le cache local reste consultable"; } function updateReadingProgress(){ const el=document.getElementById("readingProgress");if(!el)return; const max=document.documentElement.scrollHeight-window.innerHeight;
@@ -1405,12 +1163,10 @@ bind("glowLevel","glow",()=>{});bind("backgroundStyle","background",()=>{});bind
 bind("panelOpacity","panelOpacity",()=>{});bind("cornerRadius","cornerRadius",()=>{});bind("fontScale","fontScale");bind("densityMode","density",()=>{});
 bind("compactMode","compact",e=>{nexusPrefs.density=e.target.checked?"compact":"normal"}); bind("reducedMotion","reducedMotion",()=>{});
 bind("fxIntensity","fxIntensity",()=>{});bind("fxAtmosphere","fxAtmosphere",()=>{});bind("fxParticles","fxParticles",()=>{});bind("fxSpeed","fxSpeed",()=>{});bind("fxDepth","fxDepth",()=>{});
-bind("fxPalette","fxPalette");bind("customFxColor","customFxColor",()=>{nexusPrefs.fxPalette="custom";const sel=document.getElementById("fxPalette");if(sel)sel.value="custom";showNexusToast("Palette globale des effets mise à jour.")});
-bind("v15Aurora","v15Aurora");bind("v15AuroraColor","v15AuroraColor");bind("v15ScanBeam","v15ScanBeam");bind("v15ScanColor","v15ScanColor");bind("v15Orbit","v15Orbit");bind("v15OrbitColor","v15OrbitColor");bind("v15Circuit","v15Circuit");bind("v15CircuitColor","v15CircuitColor");bind("fxParticleColor","fxParticleColor");bind("v15Reticle","v15Reticle");bind("v15ReticleColor","v15ReticleColor");bind("v15DataStream","v15DataStream");bind("v15DataStreamColor","v15DataStreamColor");bind("v15EnergyRing","v15EnergyRing");bind("v15EnergyRingColor","v15EnergyRingColor");bind("v15HoloSweep","v15HoloSweep");bind("v15HoloSweepColor","v15HoloSweepColor");bind("v15HexMesh","v15HexMesh");bind("v15HexMeshColor","v15HexMeshColor");
-bind("edgeIntensity","edgeIntensity",()=>{});bind("radarSpeed","radarSpeed",()=>{});bind("uiScale","uiScale",()=>{});bind("cardDepth","cardDepth",()=>{});bind("hudCorners","hudCorners",()=>{});bind("microInteractions","microInteractions",()=>{});bind("fxGrid","fxGrid",()=>{});bind("fxScan","fxScan",()=>{});bind("fxAurora","fxAurora",()=>{});bind("fxMotion","fxMotion",()=>{});bind("haptics","haptics",()=>{});
+bind("fxPalette","fxPalette");bind("customFxColor","customFxColor",()=>{nexusPrefs.fxPalette="custom";const sel=document.getElementById("fxPalette");if(sel)sel.value="custom";showNexusToast("Couleur libre des effets appliquée.")});bind("edgeIntensity","edgeIntensity",()=>{});bind("radarSpeed","radarSpeed",()=>{});bind("uiScale","uiScale",()=>{});bind("cardDepth","cardDepth",()=>{});bind("hudCorners","hudCorners",()=>{});bind("microInteractions","microInteractions",()=>{});bind("fxGrid","fxGrid",()=>{});bind("fxScan","fxScan",()=>{});bind("fxAurora","fxAurora",()=>{});bind("fxMotion","fxMotion",()=>{});bind("haptics","haptics",()=>{});
 document.getElementById("themeProfile").addEventListener("change",e=>applyThemeProfile(e.target.value)); document.querySelectorAll("[data-profile]").forEach(b=>b.addEventListener("click",()=>applyThemeProfile(b.dataset.profile)));
 document.getElementById("resetAppearance").addEventListener("click",()=>{nexusPrefs={...DEFAULT_NEXUS_PREFS};saveNexusPreferences();showNexusToast("Apparence réinitialisée.")});
-document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:15,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const
+document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const
 a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
 document.getElementById("importThemeButton").addEventListener("click",()=>document.getElementById("importThemeFile").click());
 document.getElementById("importThemeFile").addEventListener("change",async e=>{const file=e.target.files&&e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("Format invalide");
@@ -1553,22 +1309,22 @@ URL.revokeObjectURL(url)});
 document.getElementById("importAllDataButton")?.addEventListener("click",()=>document.getElementById("importAllDataFile").click());document.getElementById("importAllDataFile")?.addEventListener("change",async e=>{const f=e.target.files?.[0];if(!f)return;try{const
 d=JSON.parse(await f.text());if(d.app!=="NEXUS Intelligence"||!d.data)throw Error("Format invalide");Object.entries(d.data).forEach(([k,v])=>{if(k.startsWith("nexus")||k===FAV_KEY||k===DOSSIER_KEY||k===ALERT_KEY)localStorage.setItem(k,v)});
 location.reload()}catch(err){showNexusToast("Sauvegarde invalide ou incompatible.")}e.target.value=""});
-} /* NEXUS V15 — LIGHTWEIGHT BACKGROUND ENGINE */
+} /* NEXUS V14 — LIGHTWEIGHT BACKGROUND ENGINE */
 function initNexusFX(){ const canvas=document.getElementById("nexusFxParticles"); if(!canvas||typeof canvas.getContext!=="function")return; const ctx=canvas.getContext("2d",{alpha:true}); if(!ctx)return; let width=0,height=0,dpr=1,particles=[],frame=0,last=0;
-const clamp=(v,min,max)=>Math.max(min,Math.min(max,Number(v)||0)); function particleColor(){return /^#[0-9a-f]{6}$/i.test(nexusPrefs.fxParticleColor||"")?nexusPrefs.fxParticleColor:(getComputedStyle(document.getElementById("nexusFxBackground")).getPropertyValue("--fx-c1").trim()||"#43d9ff")} function resize(){
-dpr=Math.min(window.devicePixelRatio||1,window.innerWidth<=600?1:1.25);width=window.innerWidth;height=window.innerHeight; canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);canvas.style.width=width+"px";canvas.style.height=height+"px";ctx.setTransform(dpr,0,0,dpr,0,0);
-const amount=clamp(nexusPrefs.fxParticles,0,100),mobile=width<=600,count=Math.min(mobile?24:48,Math.round((width*height/(mobile?26000:20000))*(amount/50)));
+const clamp=(v,min,max)=>Math.max(min,Math.min(max,Number(v)||0)); function particleColor(){return getComputedStyle(document.getElementById("nexusFxBackground")).getPropertyValue("--fx-c1").trim()||"#43d9ff"} function resize(){
+dpr=Math.min(window.devicePixelRatio||1,1.5);width=window.innerWidth;height=window.innerHeight; canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);canvas.style.width=width+"px";canvas.style.height=height+"px";ctx.setTransform(dpr,0,0,dpr,0,0);
+const amount=clamp(nexusPrefs.fxParticles,0,100),count=Math.min(90,Math.round((width*height/12000)*(amount/50)));
 particles=Array.from({length:count},()=>({x:Math.random()*width,y:Math.random()*height,r:.45+Math.random()*1.25,a:.12+Math.random()*.42,vx:(Math.random()-.5)*.22,vy:.08+Math.random()*.2,phase:Math.random()*6.28})); drawStill(); } function drawStill(){
 ctx.clearRect(0,0,width,height);const color=particleColor(); particles.forEach(p=>{ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle=color;ctx.globalAlpha=p.a*.58;ctx.fill()});ctx.globalAlpha=1; } function stop(){if(frame){cancelAnimationFrame(frame);frame=0}last=0}
-function animate(time){ frame=0; if(document.hidden)return; if(last&&time-last<32){frame=requestAnimationFrame(animate);return;} const delta=last?Math.min(2,(time-last)/16.67):1;last=time; ctx.clearRect(0,0,width,height); const color=particleColor(),speed=.25+clamp(nexusPrefs.fxSpeed,0,100)/100*1.5; particles.forEach((p,i)=>{
+function animate(time){ frame=0; if(document.hidden)return; const delta=last?Math.min(2,(time-last)/16.67):1;last=time; ctx.clearRect(0,0,width,height); const color=particleColor(),speed=.25+clamp(nexusPrefs.fxSpeed,0,100)/100*1.5; particles.forEach((p,i)=>{
 p.x+=p.vx*speed*delta;p.y+=p.vy*speed*delta; if(p.y>height+8){p.y=-8;p.x=Math.random()*width}if(p.x<-8)p.x=width+8;if(p.x>width+8)p.x=-8;
 const pulse=.72+.28*Math.sin(time*.001+p.phase);ctx.beginPath();ctx.arc(p.x,p.y,p.r*(.8+pulse*.35),0,Math.PI*2);ctx.fillStyle=color;ctx.globalAlpha=p.a*pulse;ctx.fill();
-if(i%2===0&&particles.length<65){const q=particles[(i+7)%particles.length],dx=q.x-p.x,dy=q.y-p.y,dist=Math.hypot(dx,dy);if(dist<(width<=600?65:92)){ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(q.x,q.y);ctx.strokeStyle=color;ctx.globalAlpha=(1-dist/(width<=600?65:92))*.10;ctx.lineWidth=.7;ctx.stroke()}} });
+if(i%2===0&&particles.length<65){const q=particles[(i+7)%particles.length],dx=q.x-p.x,dy=q.y-p.y,dist=Math.hypot(dx,dy);if(dist<92){ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(q.x,q.y);ctx.strokeStyle=color;ctx.globalAlpha=(1-dist/92)*.12;ctx.lineWidth=.7;ctx.stroke()}} });
 ctx.globalAlpha=1;frame=requestAnimationFrame(animate); } function refresh(){ const motion=nexusPrefs.fxMotion!==false&&!nexusPrefs.reducedMotion&&!window.matchMedia("(prefers-reduced-motion: reduce)").matches; canvas.style.display=Number(nexusPrefs.fxParticles)>0?"block":"none";
 resize();stop();if(motion&&!document.hidden&&particles.length)frame=requestAnimationFrame(animate); } window.addEventListener("resize",resize,{passive:true}); document.addEventListener("visibilitychange",()=>{if(document.hidden)stop();else refresh()});
 window.refreshNexusFX=refresh;refresh();
 if("vibrate" in navigator){document.addEventListener("click",event=>{const button=event.target.closest("button");if(button&&!button.disabled&&nexusPrefs.haptics&&!nexusPrefs.reducedMotion){try{navigator.vibrate(8)}catch(error){}}},{passive:true})} } 
-/* NEXUS V15 — IDENTITY STUDIO ENGINE */
+/* NEXUS V14 — IDENTITY STUDIO ENGINE */
 const NEXUS_IDENTITY_PRESETS_KEY="nexusIdentityPresetsV1";
 
 function readIdentityPresets(){try{return JSON.parse(localStorage.getItem(NEXUS_IDENTITY_PRESETS_KEY)||"[]")}catch(e){return []}}
@@ -1653,7 +1409,7 @@ renderIdentityPresets();
 
 }
 
-/* NEXUS V15 — OPTIONAL WEATHER SERVICE (manual city lookup, no geolocation) */
+/* NEXUS V14.3 — OPTIONAL WEATHER SERVICE (manual city lookup, no geolocation) */
 function weatherCodeInfo(code){
 const groups=[
   {codes:[0],icon:"☀",label:"Ciel dégagé"},
@@ -1722,24 +1478,6 @@ document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",Strin
   }));
 })();
 </script>
-
-
-<style id="nexus-v15-mobile-performance-fix">
-/* Mobile rendering safeguards: reduce costly compositing and decorative density. */
-@media(max-width:700px){
-html,body{max-width:100%;overflow-x:hidden;overscroll-behavior-x:none}
-*,*:before,*:after{box-sizing:border-box}
-header,body.fx-active .profile-card,body.fx-active .panel,body.fx-active .stat,body.fx-active .info,body.fx-active .article,body.fx-active .watch-dashboard,body.fx-active .dossier,body.fx-active .region,body.fx-active .country-card,body.fx-active .personal-entry,body[data-surface="holographic"] :is(.article,.stat,.info,.watch-dashboard,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
-body.fx-active .panel{box-shadow:0 3px 12px #0003!important}
-#nexusFxBackground .fx-atmosphere,#nexusFxBackground .v15-aurora{filter:blur(12px)!important}
-#nexusFxBackground .fx-grid,#nexusFxBackground .v15-hex-mesh{opacity:.045!important}
-#nexusFxBackground .v15-data-stream,#nexusFxBackground .v15-holo-sweep{opacity:.06!important}
-#nexusFxBackground .v15-reticle,#nexusFxBackground .v15-energy-ring{box-shadow:none!important}
-#nexusFxBackground .fx-scan:after{filter:none!important}
-body :is(.article,.stat,.info,.watch-dashboard,.panel,.dossier,.region,.map-panel,.personal-entry,.country-card){transition:background-color .12s,border-color .12s!important}
-}
-@media(max-width:420px){main{padding-left:10px!important;padding-right:10px!important}.v15-effect-lab{max-width:100%}}
-</style>
 
 </body>
 </html>
