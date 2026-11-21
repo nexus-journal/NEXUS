@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T06:42:46.355746+00:00",
+  "updated_at": "2026-11-21T07:55:23.524243+00:00",
   "count": 286,
   "articles": [
     {
@@ -483,14 +483,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Les survivants du glissement de terrain meurtrier de l'Ouganda demandent justice à l'ONU",
-      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 09:21:54 GMT",
-      "description": "Les survivants rejettent les plans de réinstallation qu'ils disent ignorer leur sécurité, leurs droits fonciers et leurs moyens de subsistance.",
-      "source": "BBC News",
-      "category": "Sciences"
-    },
-    {
       "title": "Le report du rapport du GIEC menacera l'effort mondial pour faire face à la crise climatique, affirme le grand scientifique",
       "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
       "date": "Thu, 19 Nov 2026 07:16:45 GMT",
@@ -571,12 +563,60 @@
       "category": "Exploration"
     },
     {
+      "title": "EN DIRECT - Colère sociale : Laurent Nuñez appelle les préfets à la vigilance à l’approche d’une sixième journée de mobilisation",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+      "date": "Sat, 21 Nov 2026 08:29:03 +0100",
+      "description": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Le juge américain emprisonne un ressortissant indien dans un complot séparatiste sikh déjoué",
+      "link": "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 07:53:00 GMT",
+      "description": "New Delhi a nié tout rôle dans le complot visant à tuer le séparatiste sikh Gurpatwant Singh Pannun à New York. Pendant ce temps, plus de 200 personnes ont été hospitalisées après avoir consommé de l'alcool fallacieux dans l'État du Manipur. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Mort de Jean-Paul Benjamin : le policier qui a tué l’automobiliste noir en 2022 condamné à 18 mois de prison ferme",
+      "link": "https://www.liberation.fr/societe/police-justice/mort-de-jean-paul-benjamin-le-policier-qui-a-tue-lautomobiliste-noir-en-2022-condamne-a-18-mois-de-prison-ferme-20261121_BMVREVFT4VCOTD5B5X4MLURHLQ/",
+      "date": "Sat, 21 Nov 2026 07:41:41 +0000",
+      "description": "L’avocate générale avait demandé cinq ans de réclusion criminelle, assortis d’un mandat de dépôt différé, à l’encontre de cet ancien brigadier-chef de la BAC, Emmanuel Neves, 37 ans. Aucun mandat de dépôt n’a été demandé à son encontre.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
       "title": "Les négociations se prolongent samedi à la COP31, faute d'accord sur les textes les plus disputés",
       "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/les-negociations-se-prolongent-samedi-a-la-cop31-faute-d-accord-sur-les-textes-les-plus-disputes_8293427.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 07:36:26 +0100",
       "description": "\"Nous sommes proches de la ligne d'arrivée mais nous n'y sommes pas encore tout à fait\", a reconnu le président de la COP, le Turc Murat Kurum.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 07:31:05 GMT",
+      "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Au moins deux tués, 28 blessés dans des incendies à la centrale électrique en Irak",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 07:25:29 +0000",
+      "description": "L'incendie de la centrale de Hartha qui s'est étendue aux maisons voisines blesse des dizaines d'autres.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Zelensky dit que Poutine est un 'tueur' après Trump appelle le leader russe un ami",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 07:24:45 GMT",
+      "description": "Plus tôt cette semaine, Trump a accueilli Poutine avant une réunion en Chine et a déclaré que la paire avait une « grande relation ».",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "\"Des campagnes d'attaques de plus en plus automatisées\" : comment les cybercriminels ont placé l'intelligence artificielle au cœur de leurs opérations",
@@ -611,11 +651,91 @@
       "category": "France"
     },
     {
+      "title": "Des équipages d'urgence en Ukraine frappés par une frappe à double tap",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 07:12:03 +0000",
+      "description": "La vidéo montre les équipes d'urgence en Ukraine qui s'approchent de la scène d'une grève russe, avant une autre frappe.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le gouvernement est dans l’escalier, par Mathieu Lindon",
+      "link": "https://www.liberation.fr/idees-et-debats/opinions/le-gouvernement-est-dans-lescalier-par-mathieu-lindon-20261121_UXZYQOWTSFFGVA6KAZSY6RHRCE/",
+      "date": "Sat, 21 Nov 2026 07:12:00 +0000",
+      "description": "Inspirée par la situation, l’équipe Macron-Lecornu a posé un préavis de grève pour les six prochains mois. Elle est d’ailleurs déjà à la rue.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Racisme, mensonges, incompétence… Ce que le procès des agresseurs de Michel Zecler dit de la police française",
+      "link": "https://www.liberation.fr/societe/police-justice/racisme-mensonges-incompetence-ce-que-le-proces-des-agresseurs-de-michel-zecler-dit-de-la-police-francaise-20261121_43MGR2EKZBFOXN77M5LOWKB5OY/",
+      "date": "Sat, 21 Nov 2026 07:11:34 +0000",
+      "description": "Durant deux semaines, des policiers ont défilé à la barre pour l’agression du producteur de rap en novembre 2020, donnant à voir les pratiques et les logiques des agents sur le terrain. Une photographie inquiétante de l’institution.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les forces iraquiennes entrent dans la forteresse de la puissante milice de l'Iran",
+      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "date": "Sat, 21 Nov 2026 07:11:24 +0000",
+      "description": "Pour la première fois en plus d'une décennie, des unités de l'armée et de la police ont été déployées sur le territoire contrôlé par le groupe, Kataib Hezbollah. Mais il n'était pas clair s'il allait retirer ses forces.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Homme reconnu coupable d'incendie criminel pour un incendie mortel à Los Angeles en 2025",
+      "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 07:10:00 GMT",
+      "description": "Un homme de 30 ans a été reconnu coupable d'avoir causé l'un des incendies les plus destructeurs de l'histoire de Los Angeles. Le verdict est arrivé après que l'affaire ait été réévaluée.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Trois citoyens américains sur 4 condamnés au Honduras pour trafic sexuel",
+      "link": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 07:07:59 +0000",
+      "description": "Les accusés risquent 10 ans de prison après avoir été reconnus coupables d'avoir recruté des femmes dans un réseau de trafic sexuel.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Affaire Zecler : d’où vient le mot «procès» ?",
       "link": "https://www.lefigaro.fr/langue-francaise/actu-des-mots/affaire-zecler-d-ou-vient-le-mot-proces-20261121",
       "date": "Sat, 21 Nov 2026 07:00:00 +0100",
       "description": "CHRONIQUE - Jean Pruvost, éminent linguiste, décrypte pour Le Figaro des termes de l’actualité. Cette semaine, il s’intéresse au terme «procès», qui défraye régulièrement la chronique.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "«Robots tueurs»: un accord à l'ONU en vue d'un possible encadrement international",
+      "link": "https://www.rfi.fr/fr/monde/20261121-robots-tueurs-un-accord-%C3%A0-l-onu-en-vue-d-un-possible-encadrement-international",
+      "date": "Sat, 21 Nov 2026 06:58:43 GMT",
+      "description": "Les pays réunis à Genève pour une conférence de l'ONU sur les «robots tueurs» se sont accordés samedi 21 novembre, après cinq jours d'âpres discussions, pour ouvrir la voie à un possible encadrement international de l'utilisation des systèmes d'armes autonomes.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Trois soldats du Salvador meurent dans un accident d'explosifs en Haïti",
+      "link": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 06:58:00 GMT",
+      "description": "Les soldats faisaient partie d'un contingent militaire salvadorien déployé le mois dernier dans la nation des Caraïbes, en proie à la violence, pour secourir quatre aviateurs disparus. Le déploiement s'est élargi en une opération contre les gangs haïtiens.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Train collisions avec minibus en Indonésie",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 06:55:02 +0000",
+      "description": "Des images dramatiques montrent un train de voyageurs poussant un minibus flamboyant le long des voies après avoir heurté avec lui.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Au Palais de Tokyo, chanter les luttes d’hier et d’aujourd’hui avec Alexiane Trapp",
+      "link": "https://www.liberation.fr/culture/au-palais-de-tokyo-chanter-les-luttes-dhier-et-daujourdhui-avec-alexiane-trapp-20261121_GRPDEVOGGJCNPIFCAL7ZJQCW3M/",
+      "date": "Sat, 21 Nov 2026 06:52:00 +0000",
+      "description": "Passionnée par l’histoire des luttes, très active dans les mobilisations, l’artiste trentenaire a sillonné la France et l’Italie pour faire résonner la contestation autrement dans «Encore des chants». Une vidéo à voir et à écouter au musée parisien.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -625,6 +745,22 @@
       "description": "Un enfant de 7 ans et une infirmière âgée de 20 ans ont été tués lors de cette série d’attaques dans le sud-est de l’Ukraine. « Une soirée et une nuit tragiques », déplore Oleksandr Vilkoul, chef du conseil de défense de Kryvy Rih.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "La main morte de l'histoire pèse sur Deutsche Bank",
+      "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
+      "date": "Sat, 21 Nov 2026 06:32:26 GMT",
+      "description": "Les banquiers pourraient faire bien de se rappeler de temps en temps qu'ils prennent des décisions qui vont rester",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "La guerre au Soudan prendra fin, mais sera-t-il trop tard ?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 06:32:04 +0000",
+      "description": "Les pressions exercées par le Soudan peuvent aboutir à ce que la diplomatie internationale n'a pas.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
@@ -665,6 +801,30 @@
       "description": "Des sources bruxelloises avaient précédemment suggéré que le bloc ne puisse appliquer l'accord plus large tant que les frais n'auront pas été réduits pour les étudiants de l'UE en Grande-Bretagne.",
       "source": "BBC News",
       "category": "Monde"
+    },
+    {
+      "title": "Comment la Chine utilise les sommets pour élargir son influence mondiale",
+      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "date": "Sat, 21 Nov 2026 06:00:02 GMT",
+      "description": "Le président chinois Xi Jinping a aidé à coordonner une nouvelle séance photo d'importance mondiale.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Une rupture rapide du vortex polaire menace les stocks de gaz déjà épuisés",
+      "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+      "date": "Sat, 21 Nov 2026 06:00:02 GMT",
+      "description": "Les conditions météorologiques plus froides et les faibles vitesses du vent pourraient entraîner des tensions sur le marché européen du gaz, où le stockage a commencé l'hiver à son niveau le plus bas en plus d'une décennie.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le cyberpoint faible de l'Europe est le quotidien des entreprises que personne ne pensait protéger",
+      "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+      "date": "Sat, 21 Nov 2026 06:00:02 GMT",
+      "description": "Les vulnérabilités connues laissent les entreprises de plus en plus exposées au cybersabotage, car l'IA permet aux cybercriminels de travailler mieux et plus rapidement.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Réductions sur les téléphones mobiles pour novembre 2026",
@@ -723,22 +883,6 @@
       "category": "France"
     },
     {
-      "title": "Le bloc d'opposition d'Israël peut-il rester uni contre Netanyahou ?",
-      "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 05:46:29 +0000",
-      "description": "La fragile alliance d'Eisenkot doit surmonter de profondes divisions idéologiques pour transformer son opposition en gouvernement.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Égypte : Lina Attalah et Mada Masr, le combat pour survivre",
-      "link": "https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20261121-%C3%A9gypte-lina-attalah-et-mada-masr-le-combat-pour-survivre",
-      "date": "Sat, 21 Nov 2026 05:40:56 GMT",
-      "description": "En Égypte, l'étau des autorités sur les médias indépendants ne cesse de se resserrer. Fin septembre, les journalistes du média en ligne Matasdaash étaient arrêtés et torturés. Un mois plus tard, c'est au tour du principal média indépendant égyptien, Mada Masr, d'être visé. Un tribunal du Caire a ordonné sa fermeture et imposé une lourde amende à sa rédactrice en chef, Lina Attalah. La journaliste a également été condamnée à un an de prison par contumace. Elle et son équipe continuent de se battre pour leur média.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
       "link": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
       "date": "Sat, 21 Nov 2026 05:30:08 +0100",
@@ -755,22 +899,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Funérailles tenues pour l'adolescent de New York tourné tout en marchant à l'école",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 05:16:15 +0000",
-      "description": "Funérailles tenues pour l'adolescent de New York tourné tout en marchant à l'école",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Zelensky dit que Poutine est un 'tueur' après Trump appelle le leader russe un ami",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 05:15:41 GMT",
-      "description": "Plus tôt cette semaine, Trump a accueilli Poutine avant une réunion en Chine et a déclaré que la paire avait une « grande relation.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Le Danemark dit qu'il a déjoué \"l'intrigue russe\" pour tuer le rappeur américain-ukrainien",
       "link": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
       "date": "Sat, 21 Nov 2026 05:15:00 +0000",
@@ -785,14 +913,6 @@
       "description": "C’est à l’occasion d’investigations lancées au niveau européen que la justice a soupçonné la complicité d’un agent de l’Etat avec le parti.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Al Jazeera explique: La course USA-Chine AI entre dans une nouvelle phase",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 05:08:40 +0000",
-      "description": "Al JazeeraS Matthew Torres déballe les dernières informations du monde de l'intelligence artificielle.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "APOD: 2026 le 21 novembre – Voyager",
@@ -835,14 +955,6 @@
       "category": "Monde"
     },
     {
-      "title": "La coalition dirigée par l'Arabie saoudite intercepte trois missiles Houthi dirigés vers Riyad",
-      "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 04:32:07 +0000",
-      "description": "L'Arabie saoudite émet des alertes d'urgence à Riyad pour la troisième nuit consécutive, car les Houthis menacent les ports et la centrale électrique.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Startup poursuit Apple en Inde sur tap-to-share contacts fonction",
       "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
       "date": "Sat, 21 Nov 2026 04:00:00 +0000",
@@ -856,14 +968,6 @@
       "date": "Sat, 21 Nov 2026 03:16:00 GMT",
       "description": "Jair Bolsonaro a été hospitalisé à Brasilia avec une obstruction intestinale. L'ancien dirigeant brésilien d'extrême droite reçoit des médicaments contre la douleur, a déclaré son fils Carlos.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Trois policiers français condamnés pour agression raciste contre un Noir",
-      "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 03:01:24 +0000",
-      "description": "Le tribunal pénal de Paris estime que le racisme a été un facteur aggravant dans l'agression de Michel Zecler, producteur de musique noire en 2020.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -883,10 +987,10 @@
       "category": "Défense"
     },
     {
-      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
       "link": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
       "date": "Sat, 21 Nov 2026 01:33:30 +0100",
-      "description": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la Bourse américaine vivant une de ses pires semaines depuis la crise liée au Covid.",
+      "description": "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation. La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -899,14 +1003,6 @@
       "category": "France"
     },
     {
-      "title": "Eunice : dix universités, et autant de frontières à faire tomber",
-      "link": "https://www.liberation.fr/forums/eunice-dix-universites-et-autant-de-frontieres-a-faire-tomber-20261121_QH2FRJYEGBF7XGGZSYKXBGTQNY/",
-      "date": "Sat, 21 Nov 2026 01:19:00 +0000",
-      "description": "Un étudiant de Valenciennes pourrait-il effectuer une partie de son cursus en Finlande, le poursuivre en Espagne et ainsi obtenir un diplôme multi-universités ? C’est la promesse d’Eunice (European University for Customised Education) qui réunit dix établissements depuis 2020.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Gaza: six morts dans des frappes israéliennes selon la Défense civile et des hôpitaux",
       "link": "https://www.rfi.fr/fr/moyen-orient/20261121-gaza-six-morts-dans-des-frappes-isra%C3%A9liennes-selon-la-d%C3%A9fense-civile-et-des-h%C3%B4pitaux",
       "date": "Sat, 21 Nov 2026 01:12:32 GMT",
@@ -915,18 +1011,10 @@
       "category": "France"
     },
     {
-      "title": "En Seine-Maritime, le Cailly refait son lit",
-      "link": "https://www.liberation.fr/forums/en-seine-maritime-le-cailly-refait-son-lit-20261121_WB2WVL5V6ZCGZL76BIRNKECBFA/",
-      "date": "Sat, 21 Nov 2026 00:50:00 +0000",
-      "description": "Enterrée dans les années 60, la rivière va refaire surface grâce à des travaux, prévus en 2027, qui permettront de recréer une continuité écologique avec la Seine.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Au procès de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
+      "title": "Au procès des auteurs de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
       "link": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
       "date": "Sat, 21 Nov 2026 00:46:35 +0100",
-      "description": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents, qui avaient ensuite prétendu sur procès-verbal qu’il les avait agressés. Une version démentie par les images filmées par une caméra de surveillance.",
+      "description": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents, qui avaient ensuite prétendu dans leur procès-verbal qu’il les avait agressés. Vendredi 20 novembre, la cour criminelle de Paris a rendu sa décision, à l’issue de deux semaines de procès.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1061,17 +1149,9 @@
     {
       "title": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
       "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
-      "date": "Fri, 20 Nov 2026 23:25:50 +0100",
-      "description": "Après le faux départ de 2012, l’ancien premier ministre entend bien être présent au premier tour en avril. A 73 ans, il se frottera peut-être pour la première fois au suffrage universel. Il a dévoilé vendredi ses premières propositions et livré un réquisitoire implacable contre les différents partis.",
+      "date": "Fri, 20 Nov 2026 23:25:47 +0100",
+      "description": "Après le faux départ de 2012, l’ancien premier ministre entend bien être présent au premier tour en avril 2027. A 73 ans, il se frottera peut-être pour la première fois au suffrage universel. Il a dévoilé vendredi ses premières propositions et livré un réquisitoire implacable contre les différents partis.",
       "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Transition écologique : nous serons ce que nous produirons",
-      "link": "https://www.liberation.fr/forums/transition-ecologique-nous-serons-ce-que-nous-produirons-20261121_I54L6QPHZZGPBBUGYRBOGZOY3Y/",
-      "date": "Fri, 20 Nov 2026 23:20:00 +0000",
-      "description": "Produire en France ou en Europe est un choix de société et un impératif pour nos économies et notre indépendance énergétique.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -1088,7 +1168,7 @@
       "date": "Fri, 20 Nov 2026 23:08:57 GMT",
       "description": "Un mathématicien d'Anthropic dit qu'il a utilisé une AI pour prouver la célèbre hypothèse de Riemann, bien que la vérification prendra un certain temps.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "La guerre ravit l'Ukraine",
@@ -1171,10 +1251,10 @@
       "category": "Environnement"
     },
     {
-      "title": "Tunisie: la militante pour les droits humains Sihem Bensedrine condamnée à cinq ans de prison",
-      "link": "https://www.rfi.fr/fr/afrique/20261120-tunisie-la-militante-pour-les-droits-humains-sihem-bensedrine-condamn%C3%A9e-%C3%A0-cinq-ans-de-prison",
-      "date": "Fri, 20 Nov 2026 22:24:50 GMT",
-      "description": "Figure de la défense des droits humains en Tunisie, Sihem Bensedrine a été condamnée ce vendredi 20 novembre 2026 à cinq ans de prison. Elle était poursuivie pour des faits de corruption présumés commis lorsqu'elle dirigeait une commission chargée de la justice transitionnelle. Cette avocate de 76 ans a présidé l'Instance vérité et dignité (IVD), créée après la révolte de 2011 pour enquêter sur les violations des droits humains et les faits de corruption sous l'ancien pouvoir de Zine el-Abidine Ben Ali.",
+      "title": "France: le silence du RN interroge après la révélation par la presse de fuites du ministère de l'Intérieur",
+      "link": "https://www.rfi.fr/fr/france/20261120-france-le-silence-du-rn-interroge-apr%C3%A8s-la-r%C3%A9v%C3%A9lation-par-la-presse-de-fuites-du-minist%C3%A8re-de-l-int%C3%A9rieur",
+      "date": "Fri, 20 Nov 2026 22:24:04 GMT",
+      "description": "À cinq mois de l'élection présidentielle française, une nouvelle affaire judiciaire secoue le Rassemblement national. Un préfet, Hugues Moutouh, est soupçonné d'avoir transmis des informations confidentielles au parti d'extrême droite sur des enquêtes le visant du temps où il était secrétaire général du ministère de l'Intérieur. Une perquisition a eu lieu au siège du parti le 9 novembre dernier. Signe d'une certaine inquiétude, le Rassemblement national économise sa parole, voire se mure dans le silence.",
       "source": "RFI",
       "category": "France"
     },
@@ -1307,14 +1387,6 @@
       "category": "France"
     },
     {
-      "title": "Procès de l’agression de Michel Zecler : les trois policiers condamnés à de la prison ferme, le caractère raciste retenu",
-      "link": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE/",
-      "date": "Fri, 20 Nov 2026 21:20:11 +0000",
-      "description": "Aurélien Lapersonne, Philippe Tondeux et Pierre Plantier ont été condamnés à des peines allant d’une à deux années fermes ce vendredi 20 novembre. La cour criminelle départementale de Paris a finalement reconnu la circonstance aggravante du racisme. L’avocat de Michel Zecler a parlé de «succès» et de «décision qui fait date»",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "En ce jour dans l'espace ! 20 nov. 1998: La Russie lance le 1er module de la Station Spatiale Internationale alors que la construction commence sur la plus grande structure de construction humaine en orbite",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
       "date": "Fri, 20 Nov 2026 21:19:33 +0000",
@@ -1395,28 +1467,12 @@
       "category": "Défense"
     },
     {
-      "title": "Trump s'engage à empêcher les entreprises américaines de construire des data centers à l'étranger, menace 'tremendous tax'",
-      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "date": "Fri, 20 Nov 2026 20:47:58 GMT",
-      "description": "Trump a pris la parole à la Maison Blanche après avoir rencontré le président chinois Xi Jinping et le président russe Vladimir Poutine pour un sommet trilatéral historique en Chine.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Nouveau financement de démarrage de la NASA prime les petites entreprises pour l'innovation",
       "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
       "date": "Fri, 20 Nov 2026 20:46:14 +0000",
       "description": "Les prix décernés aux petites entreprises du pays répondent à certains des besoins technologiques les plus cruciaux de la NASA pour l'exploration de la Lune et de Mars tout en alimentant l'économie spatiale américaine. La NASA a récemment sélectionné 302 projets novateurs, pour un investissement total de 171 millions de dollars en semences. [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "L'ornithologue russe emprisonné pour de petits dons à la fondation de Navalny",
-      "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 20 Nov 2026 20:45:00 GMT",
-      "description": "Sofia Rosenfeld a consacré sa vie à étudier les oiseaux arctiques. Un tribunal russe l'a condamnée à 3,5 ans de prison pour dons à la fondation de Navalny. Les amis et la famille se battent pour sa libération.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Regarder une étoile géante avaler son voisin et exploser",
@@ -1443,14 +1499,6 @@
       "category": "Défense"
     },
     {
-      "title": "La répression contre les avocats iraniens augmente",
-      "link": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 20 Nov 2026 20:36:00 GMT",
-      "description": "Au moins 135 avocats iraniens ont fait l'objet de mesures répressives au cours de l'année écoulée. Les experts de l'ONU mettent en garde contre le fait que cela compromet sérieusement le droit des accusés à être jugés par une cour constitutionnelle.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "L'Allemagne semble sérieuse à propos d'une reprise de TikTok Europe",
       "link": "https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/",
       "date": "Fri, 20 Nov 2026 20:35:35 +0000",
@@ -1459,17 +1507,9 @@
       "category": "Technologie"
     },
     {
-      "title": "À la COP31, les conflits sur la science climatique ralentissent l'action sur le réchauffement climatique",
-      "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 20 Nov 2026 20:34:00 GMT",
-      "description": "Les attaques contre la science du climat et la désinformation risquent de retarder les mesures clés à la COP31 à Antalya. Alors que les pourparlers de l'ONU sur le climat s'achèvent, comment cela affectera-t-il les efforts visant à parvenir à un accord?",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "«Les objets russes sont écrasés en Pologne, disent les officiels. Voici ce qu'on peut voir.",
       "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "date": "Fri, 20 Nov 2026 20:30:59 +0000",
+      "date": "Fri, 20 Nov 2026 20:31:00 +0000",
       "description": "Il n'y a pas eu de blessures ou de dommages à la suite de trois incidents que les autorités polonaises ont qualifiés de probables «provocation» de Russie lors d'exercices militaires par des alliés ukrainiens.",
       "source": "The New York Times",
       "category": "Monde"
@@ -1507,28 +1547,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Le gouvernement s’en remet au RN pour éviter la crise financière... Les indiscrets du Figaro",
-      "link": "https://www.lefigaro.fr/politique/le-gouvernement-s-en-remet-au-rn-pour-eviter-la-crise-financiere-les-indiscrets-du-figaro-20261120",
-      "date": "Fri, 20 Nov 2026 20:00:00 +0100",
-      "description": "CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "GTA n'est pas allé dans l'espace (encore), mais ces jeux de science-fiction peuvent vous offrir une vie de crime parmi les étoiles",
       "link": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
       "date": "Fri, 20 Nov 2026 20:00:00 +0000",
       "description": "Grand Theft Auto 6 est enfin sorti, mais si vous êtes un aficionado de science-fiction à la recherche d'expériences similaires dans l'espace, il y a plusieurs alternatives.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Perspectives des marchés de prévision pour les actions en 2026 dims au milieu de la vente de l'IA",
-      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "date": "Fri, 20 Nov 2026 19:59:03 GMT",
-      "description": "Il semble que les S&P 500 traverseront 8 000, qui étaient autrefois au nord de 70 %, sont extrêmement bas sur la plate-forme Kalshi.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Daniel Ek soutient la start-up de puissance de fusion du chercheur AI. Voilà ce qu'ils construisent.",
@@ -1593,14 +1617,6 @@
       "description": "Aldebaran cherche le monde entier comme le membre le plus brillant du groupe d'étoiles Hyades. Il ne l'est pas — et de découvrir pourquoi changer la façon dont vous regardez les constellations.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "C'est la saison pour être reconnaissant à la Chine",
-      "link": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-      "date": "Fri, 20 Nov 2026 18:57:07 GMT",
-      "description": "Oubliez les scrooges héroïques à la CdP — aucun autre pays ne fait plus pour le climat",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "La géothermie super-hote pourrait mettre fin aux problèmes énergétiques du centre de données",
@@ -1811,14 +1827,6 @@
       "category": "Défense"
     },
     {
-      "title": "Les forces iraquiennes entrent dans la forteresse de la puissante milice de l'Iran",
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "date": "Fri, 20 Nov 2026 16:18:21 +0000",
-      "description": "Pour la première fois en plus d'une décennie, des unités de l'armée et de la police ont été déployées sur le territoire contrôlé par le groupe, Kataib Hezbollah. Mais il n'était pas clair s'il allait retirer ses forces.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "La curiosité Mars Rover recueille des échantillons",
       "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
       "date": "Fri, 20 Nov 2026 15:53:24 +0000",
@@ -1905,14 +1913,6 @@
       "description": "L'imagerie satellite du drone non identifié dans une installation d'essai en vol chinoise obscure soulève des questions intéressantes. The post Mysterious MQ-25 Stingray-Like Chinese Drone Emerges At Little-Known Flight Test Center est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "Le marché des taureaux a un nouveau problème. L'argent intelligent se vend",
-      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "date": "Fri, 20 Nov 2026 14:15:29 GMT",
-      "description": "Les entreprises passent des rachats d'actions à l'émission d'actions, ajoutant de nouvelles fournitures. Anthropique $ 81 milliards IPO met cette demande à l'épreuve.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Ces pêcheurs américains voient le vent au large comme un « dieu ». Trump veut l'arrêter",
