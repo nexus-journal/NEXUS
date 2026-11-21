@@ -515,6 +515,36 @@ to{opacity:1;transform:translateY(0)}
 }
 @media (prefers-reduced-motion:reduce){.pulse-track span{transition:none!important}
 }
+
+/* NEXUS research additions — compact, mobile-first */
+.theme-briefing,.trend-panel,.market-panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;margin:12px 0}
+.theme-briefing-head,.market-heading,.trend-top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.theme-briefing-head label{color:var(--muted);font-size:11px}
+.theme-briefing-head select{max-width:190px;margin:0}
+.theme-brief-item{padding:13px 0;border-bottom:1px solid var(--line)}
+.theme-brief-item:last-child{border-bottom:0}
+.theme-brief-meta,.trend-meta{display:flex;justify-content:space-between;gap:8px;color:var(--muted);font-size:10px;line-height:1.5}
+.theme-brief-item strong{display:block;margin:8px 0;font-size:13px;line-height:1.5}
+.theme-brief-item p,.market-heading p{color:var(--muted);font-size:11px;line-height:1.6;margin:5px 0}
+.theme-brief-item a,.market-credit a{color:var(--blue);font-size:11px;text-decoration:none}
+.trend-row{padding:12px 0;border-bottom:1px solid var(--line)}
+.trend-row:last-child{border-bottom:0}
+.trend-top strong{font-size:12px;line-height:1.45;flex:1;min-width:150px}
+.trend-state,.market-tag{font-size:9px;letter-spacing:1px;font-weight:bold;white-space:nowrap}
+.trend-state.up{color:var(--green)}.trend-state.down{color:var(--amber)}.trend-state.steady{color:var(--muted)}
+.trend-track{height:5px;background:var(--line);border-radius:8px;overflow:hidden;margin:9px 0 6px}
+.trend-track i{display:block;height:100%;background:var(--blue);border-radius:8px}
+.market-panel{background:linear-gradient(145deg,#10243a,var(--panel) 72%)}
+.market-heading h2{font-size:16px;margin:5px 0}
+.market-tag{color:var(--green);border:1px solid var(--line);padding:6px 8px;border-radius:20px}
+.market-widget{display:block;width:100%;overflow:hidden;border:1px solid var(--line);border-radius:10px;background:#0b1421;margin:12px 0}
+.market-overview{min-height:390px}.market-heatmap{min-height:390px}
+.market-widget tv-market-overview{display:block;width:100%;min-height:390px}
+.market-widget tv-heatmap{display:block;width:100%;height:390px}
+.market-subtitle{font-size:12px;margin:18px 0 8px}
+.market-status,.market-disclaimer,.market-credit{font-size:10px;color:var(--muted);line-height:1.6;margin:9px 0}
+.market-disclaimer{border-top:1px solid var(--line);padding-top:10px}
+@media(max-width:480px){.theme-briefing,.trend-panel,.market-panel{padding:11px}.market-overview,.market-heatmap{min-height:340px}.market-widget tv-market-overview{min-height:340px}.market-widget tv-heatmap{height:340px}}
 </style></head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
 <div class="fx-structure fx-scan"></div> <canvas id="nexusFxParticles"></canvas> <div class="fx-vignette"></div> </div> <div id="readingProgress" aria-hidden="true"></div> <div id="nexusToast" role="status" aria-live="polite"></div>
 <button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button> <header> <div class="top"> <div class="logo">NE<span>X</span>US</div> <div class="header-actions"> <div class="system" id="systemState">● INITIALISATION</div>
@@ -539,7 +569,15 @@ to{opacity:1;transform:translateY(0)}
   <div class="pulse-chart" id="signalBars" role="group" aria-label="Publications par jour sur les sept derniers jours"><div class="empty">Analyse des dates…</div></div>
   <div class="pulse-foot">Calculé à partir des dates contenues dans <code>news.json</code>. Ce graphique mesure le volume des flux, pas l’importance des événements.</div>
 </section>
-<h2 class="section">DAILY INTELLIGENCE BRIEFING</h2><div id="briefingArticles"><div class="empty">En attente des actualités…</div></div> <h2 class="section">GLOBAL SITUATION</h2>
+<h2 class="section">DAILY INTELLIGENCE BRIEFING</h2><div id="briefingArticles"><div class="empty">En attente des actualités…</div></div>
+<h2 class="section">BRIEFING THÉMATIQUE</h2>
+<div class="theme-briefing">
+  <div class="theme-briefing-head"><label for="themeBriefingSelect">Domaine suivi</label><select id="themeBriefingSelect" aria-label="Choisir le thème du briefing"><option>Tous</option><option>France</option><option>Monde</option><option>Technologie</option><option>Sciences</option><option>Économie</option><option>Environnement</option><option>Défense</option><option>Exploration</option></select><span id="themeBriefingCount" class="source">Chargement…</span></div>
+  <div id="themeBriefingList"><div class="empty">Sélectionne un thème pour afficher les dernières publications.</div></div>
+</div>
+<h2 class="section">TENDANCES DES SUJETS</h2>
+<div class="trend-panel"><div class="label">SIGNAL DE COUVERTURE · 48 H</div><div id="trendingDashboard"><div class="empty">Analyse des tendances…</div></div><div class="notice">Indicateur calculé à partir du volume de publications rapprochées. Ce n'est ni une mesure de gravité ni une prédiction.</div></div>
+<h2 class="section">GLOBAL SITUATION</h2>
 <div class="watch-dashboard"><div class="label">INDICATEURS DES FLUX RSS</div><div id="topicDashboard"><div class="empty">Analyse des publications…</div></div><div class="notice">Indicateurs textuels, pas une mesure de gravité réelle.</div></div>
 <h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div> </section> <section class="page" id="situation">
 <h1>Global Situation.</h1><div class="subtitle">Cartographie des lieux mentionnés dans les publications NEXUS.</div> <div class="map-panel"> <div class="map-header"><span>GLOBAL MONITOR / WORLD MAP</span><span class="live-indicator">● CARTOGRAPHIE ACTIVE</span></div>
@@ -602,6 +640,17 @@ to{opacity:1;transform:translateY(0)}
 </section> <section class="page" id="world">
 <h1>World Intelligence.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div>
 <div class="panel"><div class="label">GLOBAL RADAR</div><p>Le radar est calculé à partir des publications déjà chargées. Il indique une fréquence de mentions, pas un niveau de menace ou une validation indépendante.</p><div id="worldRadar"></div></div>
+<h2 class="section">MARKET MONITOR</h2>
+<div class="market-panel">
+  <div class="market-heading"><div><div class="label">GLOBAL MARKETS / OVERVIEW</div><h2>Marchés et matières premières</h2><p>Indices, devises, or, argent et énergie regroupés dans une vue unique.</p></div><span class="market-tag">WIDGET EXTERNE</span></div>
+  <div id="nexusMarketOverview" class="market-widget market-overview"><div class="empty">Le tableau de marché se chargera à l'ouverture de ce module.</div></div>
+  <h3 class="market-subtitle">Carte de performance des actions</h3>
+  <div id="nexusStockHeatmap" class="market-widget market-heatmap"><div class="empty">La carte sectorielle se chargera avec les données TradingView.</div></div>
+  <div id="marketWidgetStatus" class="market-status" role="status" aria-live="polite">Les widgets nécessitent une connexion Internet.</div>
+  <button id="marketRetry" class="small-btn" type="button" hidden>Réessayer le chargement</button>
+  <p class="market-disclaimer">Données et disponibilité fournies par TradingView, susceptibles de varier selon les places de marché. Vue informative uniquement, sans conseil financier.</p>
+  <div class="market-credit">Graphiques et données : <a href="https://www.tradingview.com/widget/" target="_blank" rel="noopener noreferrer">TradingView</a>.</div>
+</div>
 <h2 class="section">FICHES PAYS</h2><input id="countrySearch" placeholder="Rechercher un pays…" autocomplete="off"><div id="countryCards" class="country-grid"></div>
 <div class="notice">Les fiches donnent des repères généraux. Les données politiques et économiques évoluent : vérifie les sources et dates avant de les utiliser dans un travail.</div> </section> <section class="page" id="analysis">
 <h1>Analysis Lab.</h1><div class="subtitle">Comparer les couvertures, construire des synthèses et organiser des analyses à partir des contenus disponibles.</div>
@@ -732,10 +781,33 @@ if(/world|monde|international|europe|afrique|asia|amerique|middle east/.test(t))
 const stop=new Set(["avec","dans","pour","contre","apres","avant","entre","depuis","selon","plus","moins","cette","cela","leur","leurs","the","and","from","that","with","this","over","into","after","says","said"]);
 return normalized(title).replace(/[^a-z0-9 ]/g," ").split(/\s+/).filter(w=>w.length>3&&!stop.has(w)); } function similarity(a,b){ const A=new Set(titleTokens(a)),B=new Set(titleTokens(b)); if(!A.size||!B.size)return 0; let n=0;A.forEach(w=>{if(B.has(w))n++});
 return n/Math.min(A.size,B.size); } function articleTimestamp(a){ const t=a.date?Date.parse(a.date):NaN;return Number.isFinite(t)?t:null; } /* ANALYSE CALCULEE UNE SEULE FOIS PAR MISE A JOUR */
-function topicGroups(){ if(cachedGroups)return cachedGroups; const sorted=articles.filter(a=>a.title); const groups=[]; sorted.forEach(a=>{ let best=null,bestScore=0; for(const g of groups){ let score=0;
-for(const item of g.items)score=Math.max(score,similarity(a.title,item.title)); if(score>=.48&&score>bestScore){best=g;bestScore=score} } if(best)best.items.push(a);else groups.push({items:[a]}); }); cachedGroups=groups.map(g=>{
-const sources=[...new Set(g.items.map(a=>a.source))]; const dates=g.items.map(articleTimestamp).filter(v=>v!==null); return {...g,sources,firstDate:dates.length?Math.min(...dates):null,lastDate:dates.length?Math.max(...dates):null};
-}).sort((a,b)=>b.sources.length-a.sources.length||b.items.length-a.items.length); return cachedGroups; } function matchedSources(a){ if(cachedMatches.has(a.id))return cachedMatches.get(a.id); const sources=new Set([a.source]); articles.forEach(b=>{
+function articleStorySimilarity(a,b){
+const titleScore=similarity(a.title,b.title);
+const contextA=(a.title+" "+(a.description||"")).slice(0,520);
+const contextB=(b.title+" "+(b.description||"")).slice(0,520);
+const contextScore=similarity(contextA,contextB);
+return titleScore*.7+contextScore*.3;
+}
+function topicGroups(){
+if(cachedGroups)return cachedGroups;
+const sorted=articles.filter(a=>a.title),groups=[];
+sorted.forEach(a=>{
+let best=null,bestScore=0;
+for(const group of groups){
+let score=0;
+for(const item of group.items)score=Math.max(score,articleStorySimilarity(a,item));
+if(score>=.42&&score>bestScore){best=group;bestScore=score}
+}
+if(best){best.items.push(a);best.score=Math.max(best.score,bestScore)}
+else groups.push({items:[a],score:1});
+});
+cachedGroups=groups.map(group=>{
+const sources=[...new Set(group.items.map(a=>a.source))];
+const dates=group.items.map(articleTimestamp).filter(v=>v!==null);
+return {...group,sources,firstDate:dates.length?Math.min(...dates):null,lastDate:dates.length?Math.max(...dates):null};
+}).sort((a,b)=>b.sources.length-a.sources.length||b.items.length-a.items.length||(b.lastDate||0)-(a.lastDate||0));
+return cachedGroups;
+} function matchedSources(a){ if(cachedMatches.has(a.id))return cachedMatches.get(a.id); const sources=new Set([a.source]); articles.forEach(b=>{
 if(b.id!==a.id&&b.source!==a.source&&similarity(a.title,b.title)>=.55)sources.add(b.source); }); const result=[...sources];cachedMatches.set(a.id,result);return result; } function articleScore(a){ if(cachedScores.has(a.id))return cachedScores.get(a.id);
 const time=articleTimestamp(a),age=time===null?999:(Date.now()-time)/3600000; const freshness=time===null?0:Math.max(0,36-Math.max(0,age))/36*45; const coverage=Math.min(25,Math.max(0,matchedSources(a).length-1)*12.5);
 const category=["Défense","Sciences","Technologie","Économie","Environnement"].includes(a.category)?15:8; const length=Math.min(10,titleTokens(a.title).length/8*10); const score=Math.round(freshness+coverage+category+length); cachedScores.set(a.id,score);return score; }
@@ -781,7 +853,39 @@ time})=>`<div class="timeline-row">\
 <div class="timeline-title">${escapeHTML(a.title)}</div>\
 <div class="timeline-meta">${escapeHTML(a.source)} · ${escapeHTML(a.category)}</div>\
 </div>`).join(""):'<div class="empty">Aucune date exploitable dans les flux.</div>';
-document.getElementById("briefingArticles").innerHTML=[...articles].sort((a,b)=>articleScore(b)-articleScore(a)).slice(0,3).map(a=>articleCard(a,true)).join("")||'<div class="empty">Aucun article disponible.</div>'; } function renderRegions(){ const regions=[
+document.getElementById("briefingArticles").innerHTML=[...articles].sort((a,b)=>articleScore(b)-articleScore(a)).slice(0,3).map(a=>articleCard(a,true)).join("")||'<div class="empty">Aucun article disponible.</div>'; renderThemeBriefing();renderTrendDashboard(); } function renderThemeBriefing(){
+const select=document.getElementById("themeBriefingSelect"),target=document.getElementById("themeBriefingList"),count=document.getElementById("themeBriefingCount");
+if(!select||!target)return;
+const saved=localStorage.getItem("nexusThemeBriefingV1")||"Monde";
+if([...select.options].some(option=>option.value===saved))select.value=saved;
+const theme=select.value||"Monde";
+const matches=articles.filter(a=>theme==="Tous"||a.category===theme).sort((a,b)=>(articleTimestamp(b)||0)-(articleTimestamp(a)||0)).slice(0,3);
+if(count)count.textContent=matches.length+" publication(s)";
+target.innerHTML=matches.length?matches.map(a=>{
+const date=articleTimestamp(a),label=date?new Date(date).toLocaleDateString("fr-FR",{day:"numeric",month:"short"}):"Date inconnue";
+return `<article class="theme-brief-item"><div class="theme-brief-meta"><span>${escapeHTML(a.source)}</span><span>${label}</span></div><strong>${escapeHTML(a.title)}</strong><p>${escapeHTML((a.description||"Résumé non fourni.").slice(0,190))}</p><a href="${escapeHTML(safeURL(a.link))}" target="_blank" rel="noopener noreferrer">Lire l'article ↗</a></article>`;
+}).join(""):'<div class="empty">Aucune publication disponible dans ce thème.</div>';
+}
+function renderTrendDashboard(){
+const target=document.getElementById("trendingDashboard");
+if(!target)return;
+const now=Date.now(),windowMs=48*60*60*1000;
+const trends=topicGroups().filter(g=>g.items.length>=2).map(g=>{
+const dates=g.items.map(articleTimestamp).filter(v=>v!==null);
+const recent=dates.filter(t=>t>=now-windowMs&&t<=now).length;
+const previous=dates.filter(t=>t>=now-2*windowMs&&t<now-windowMs).length;
+return {...g,recent,previous,total:g.items.length};
+}).filter(g=>g.recent||g.previous).sort((a,b)=>b.recent-a.recent||b.sources.length-a.sources.length||b.total-a.total).slice(0,5);
+if(!trends.length){target.innerHTML='<div class="empty">Pas encore assez de publications rapprochées datées sur les dernières 96 heures.</div>';return;}
+const max=Math.max(1,...trends.map(g=>g.recent));
+target.innerHTML=trends.map(g=>{
+const rising=g.recent>g.previous,falling=g.recent<g.previous;
+const label=rising?"EN HAUSSE":falling?"EN RECUL":"STABLE";
+const delta=g.recent-g.previous,change=delta>0?"+"+delta:delta<0?String(delta):"±0";
+return `<div class="trend-row"><div class="trend-top"><strong>${escapeHTML(g.items[0].title)}</strong><span class="trend-state ${rising?"up":falling?"down":"steady"}">${label} ${change}</span></div><div class="trend-track"><i style="width:${Math.max(3,g.recent/max*100)}%"></i></div><div class="trend-meta">${g.recent} publication(s) sur 48 h · ${g.previous} sur les 48 h précédentes · ${g.sources.length} source(s)</div></div>`;
+}).join("");
+}
+function renderRegions(){ const regions=[
 {name:"Europe",terms:/europe|france|allemagne|ukraine|russie|royaume.uni|bruxelles|otan/}, {name:"Amérique du Nord",terms:/etats.unis|united states|america|canada|washington/}, {name:"Asie",terms:/chine|japon|inde|coree|taiwan|asia|beijing|pekin/},
 {name:"Moyen-Orient",terms:/iran|israel|gaza|palestine|syrie|irak|middle east/}, {name:"Afrique",terms:/afrique|africa|sahel|niger|mali|soudan|congo/}, {name:"Océans et pôles",terms:/ocean|arctique|antarctique|pacifique|atlantique/} ];
 const results=regions.map(r=>({...r,count:articles.filter(a=>r.terms.test(normalized(a.title+" "+a.description))).length})); const max=Math.max(1,...results.map(r=>r.count));
@@ -834,7 +938,7 @@ localStorage.setItem(ALERT_KEY,JSON.stringify(alertSettings));renderAlerts();upd
 const favs=favorites.map(id=>library.get(id)).filter(Boolean); document.getElementById("favoriteArticles").innerHTML=favs.map(articleCard).join("")||'<div class="empty">Aucun favori pour le moment.</div>'; } function renderArchive(){
 document.getElementById("archiveArticles").innerHTML=archive.slice(0,150).map(articleCard).join("")||'<div class="empty">Aucun article archivé pour le moment.</div>'; } function renderPage(page){ if(page==="home")renderHome();
 if(page==="situation"){renderRegions();initNexusMap();} if(page==="news")renderNews(); if(page==="top")renderTop(); if(page==="timeline")renderTimeline(); if(page==="sources"){renderSourceGroups();renderFeedStatus();} if(page==="analyst")renderAnalyst();
-if(page==="dossiers")renderDossiers(); if(page==="science")renderScience(); if(page==="alerts")renderAlerts(); if(page==="favorites")renderFavorites(); if(page==="archive")renderArchive(); if(page==="world")renderWorldIntel(); if(page==="analysis")populateComparators();
+if(page==="dossiers")renderDossiers(); if(page==="science")renderScience(); if(page==="alerts")renderAlerts(); if(page==="favorites")renderFavorites(); if(page==="archive")renderArchive(); if(page==="world"){renderWorldIntel();initNexusMarketWidgets();} if(page==="analysis")populateComparators();
 if(page==="personal")renderPersonalDesk(); } function render(){ document.getElementById("total").textContent=articles.length; document.getElementById("saved").textContent=favorites.length; renderPage(currentPage); } function toggleFavorite(id){
 favorites=favorites.includes(id)?favorites.filter(x=>x!==id):[...favorites,id]; localStorage.setItem(FAV_KEY,JSON.stringify(favorites));render(); } function resetFavorites(){ if(confirm("Effacer tous les favoris enregistrés sur cet appareil ?")){
 favorites=[];localStorage.setItem(FAV_KEY,"[]");render(); } } document.addEventListener("click",event=>{ const fav=event.target.closest("[data-favorite]"); if(fav){toggleFavorite(fav.dataset.favorite);return} const ds=event.target.closest("[data-dossier-select]");
@@ -903,17 +1007,27 @@ filterCommandModules(); } function togglePinnedPage(id){ if(pinnedPages.includes
 if(pinnedPages.length>=4){alert("La barre peut contenir quatre raccourcis. Retire-en un avant d'en ajouter un autre.");return} pinnedPages.push(id); } savePinnedPages(); } function openCommandMenu(){ renderCommandMenu(); document.getElementById("commandMenu").hidden=false;
 document.body.style.overflow="hidden"; } function closeCommandMenu(){ document.getElementById("commandMenu").hidden=true; document.body.style.overflow=""; } function openGlobalSearch(){ document.getElementById("globalSearchPanel").hidden=false;
 document.body.style.overflow="hidden"; setTimeout(()=>document.getElementById("globalSearchInput").focus(),60); } function closeGlobalSearch(){ document.getElementById("globalSearchPanel").hidden=true; document.body.style.overflow=""; } function renderGlobalSearch(){
-const input=document.getElementById("globalSearchInput"); const target=document.getElementById("globalSearchResults"); const q=normalized(input.value); if(!q){target.innerHTML='<div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div>';return}
-const matches=articles.map(a=>({a,score:(normalized(a.title).includes(q)?4:0)+(normalized(a.description).includes(q)?2:0)+(normalized(a.source).includes(q)?1:0)})).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,12);
+const input=document.getElementById("globalSearchInput"),target=document.getElementById("globalSearchResults"),q=normalized(input.value);
+if(!q){target.innerHTML='<div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div>';return;}
+const library=new Map([...archive,...articles].map(a=>[a.id,a]));
+const matches=[...library.values()].map(a=>({a,score:(normalized(a.title).includes(q)?6:0)+(normalized(a.description).includes(q)?3:0)+(normalized(a.source).includes(q)?2:0)+(normalized(a.category).includes(q)?1:0)})).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,12);
 const pageMatches=NEXUS_PAGES.filter(p=>normalized(p.label+" "+p.desc).includes(q));
+const dossierMatches=dossiers.filter(d=>normalized(d.name).includes(q)).slice(0,5);
+const categoryMatches=["France","Monde","Technologie","Sciences","Économie","Environnement","Défense","Exploration","Autres"].filter(c=>normalized(c).includes(q));
 target.innerHTML=(pageMatches.length?'<div class="menu-section-label">MODULES</div>'+pageMatches.map(p=>`<button class="search-result" data-search-page="${p.id}"><strong>${p.icon} ${p.label}</strong><small>${p.desc}</small></button>`).join(""):"")+
-(matches.length?'<div class="menu-section-label">PUBLICATIONS</div>'+matches.map(({a})=>`<button class="search-result" data-search-article="${escapeHTML(a.id)}">\
-<strong>${escapeHTML(a.title)}</strong>\
-<small>${escapeHTML(a.source)} · ${escapeHTML(a.category)}</small>\
-</button>`).join(""):"")+
-(!matches.length&&!pageMatches.length?'<div class="empty">Aucun résultat dans les données actuellement chargées.</div>':""); target.querySelectorAll("[data-search-page]").forEach(b=>b.addEventListener("click",()=>{closeGlobalSearch();showPage(b.dataset.searchPage)}));
-target.querySelectorAll("[data-search-article]").forEach(b=>b.addEventListener("click",()=>{ const a=articles.find(x=>x.id===b.dataset.searchArticle); closeGlobalSearch(); showPage("news"); document.getElementById("search").value=a?a.title:""; activeCategory="Tous";
-document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.toggle("active",x.dataset.cat==="Tous")); renderNews(); })); } function updateAlertIndicator(){ const dot=document.getElementById("alertDot"); if(!dot)return; dot.hidden=getAlertMatches().length===0; }
+(categoryMatches.length?'<div class="menu-section-label">CATÉGORIES</div>'+categoryMatches.map(c=>`<button class="search-result" data-search-category="${escapeHTML(c)}"><strong>${escapeHTML(c)}</strong><small>Filtrer les actualités de cette catégorie</small></button>`).join(""):"")+
+(dossierMatches.length?'<div class="menu-section-label">DOSSIERS</div>'+dossierMatches.map(d=>`<button class="search-result" data-search-dossier="${escapeHTML(d.id)}"><strong>${escapeHTML(d.name)}</strong><small>${(d.articleIds||[]).length} article(s) enregistré(s)</small></button>`).join(""):"")+
+(matches.length?'<div class="menu-section-label">PUBLICATIONS / ARCHIVES</div>'+matches.map(({a})=>`<button class="search-result" data-search-article="${escapeHTML(a.id)}"><strong>${escapeHTML(a.title)}</strong><small>${escapeHTML(a.source)} · ${escapeHTML(a.category)}${favorites.includes(a.id)?" · FAVORI":""}${articles.some(x=>x.id===a.id)?"":" · ARCHIVE"}</small></button>`).join(""):"")+
+(!matches.length&&!pageMatches.length&&!dossierMatches.length&&!categoryMatches.length?'<div class="empty">Aucun résultat dans les données chargées sur cet appareil.</div>':"");
+target.querySelectorAll("[data-search-page]").forEach(b=>b.addEventListener("click",()=>{closeGlobalSearch();showPage(b.dataset.searchPage)}));
+target.querySelectorAll("[data-search-category]").forEach(b=>b.addEventListener("click",()=>{closeGlobalSearch();showPage("news");activeCategory=b.dataset.searchCategory;document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.toggle("active",x.dataset.cat===activeCategory));renderNews()}));
+target.querySelectorAll("[data-search-dossier]").forEach(b=>b.addEventListener("click",()=>{closeGlobalSearch();showPage("dossiers")}));
+target.querySelectorAll("[data-search-article]").forEach(b=>b.addEventListener("click",()=>{
+const id=b.dataset.searchArticle,a=articles.find(x=>x.id===id);
+closeGlobalSearch();if(a){showPage("news");document.getElementById("search").value=a.title;activeCategory="Tous";document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.toggle("active",x.dataset.cat==="Tous"));renderNews();}
+else{showPage("archive");const card=[...document.querySelectorAll("#archiveArticles .article")].find(el=>el.textContent.includes(library.get(id)?.title||""));card?.scrollIntoView({behavior:"smooth",block:"start"});}
+}));
+} function updateAlertIndicator(){ const dot=document.getElementById("alertDot"); if(!dot)return; dot.hidden=getAlertMatches().length===0; }
 document.getElementById("openGlobalSearch").addEventListener("click",openGlobalSearch); document.getElementById("closeGlobalSearch").addEventListener("click",closeGlobalSearch); document.getElementById("openFavorites").addEventListener("click",()=>showPage("favorites"));
 document.getElementById("openAlerts").addEventListener("click",()=>showPage("alerts")); document.getElementById("closeCommandMenu").addEventListener("click",closeCommandMenu); document.getElementById("globalSearchInput").addEventListener("input",renderGlobalSearch);
 document.querySelectorAll("[data-quick-page]").forEach(b=>b.addEventListener("click",()=>{closeCommandMenu();showPage(b.dataset.quickPage)})); document.getElementById("globalSearchPanel").addEventListener("click",e=>{if(e.target.id==="globalSearchPanel")closeGlobalSearch()});
@@ -1072,7 +1186,52 @@ const NEXUS_COUNTRIES=[
 {name:"Russie",region:"Europe / Asie",capital:"Moscou",system:"République fédérale",focus:"Énergie, sécurité européenne, ressources naturelles et relations internationales."},
 {name:"Afrique du Sud",region:"Afrique",capital:"Pretoria (exécutif)",system:"République parlementaire",focus:"Économie régionale, minerais, énergie et diplomatie africaine."} ];
 const NEXUS_STORE={notes:"nexusV13Notes",tasks:"nexusV13Tasks",events:"nexusV13Events",journal:"nexusV13Journal"}; function v13Read(key,fallback){try{const x=localStorage.getItem(key);return x?JSON.parse(x):fallback}catch(e){return fallback}}
-function v13Save(key,value){localStorage.setItem(key,JSON.stringify(value))} function v13Esc(s){return escapeHTML(s)} function v13Date(s){const d=new Date(s);return Number.isNaN(d.getTime())?"Date inconnue":d.toLocaleString("fr-FR")} function renderWorldIntel(){
+function v13Save(key,value){localStorage.setItem(key,JSON.stringify(value))} function v13Esc(s){return escapeHTML(s)} function v13Date(s){const d=new Date(s);return Number.isNaN(d.getTime())?"Date inconnue":d.toLocaleString("fr-FR")} let nexusMarketLoading=false,nexusMarketReady=false;
+function loadNexusTradingViewComponent(file,tag){
+if(customElements.get(tag))return Promise.resolve();
+const url="https://widgets.tradingview-widget.com/w/en/"+file;
+return new Promise((resolve,reject)=>{
+const existing=document.querySelector('script[data-nexus-market="'+file+'"]');
+if(existing){
+if(customElements.get(tag)){resolve();return;}
+existing.addEventListener("load",resolve,{once:true});
+existing.addEventListener("error",()=>reject(new Error("Widget indisponible")),{once:true});
+return;
+}
+const script=document.createElement("script");
+script.type="module";script.async=true;script.src=url;script.dataset.nexusMarket=file;
+script.onload=resolve;script.onerror=()=>{script.remove();reject(new Error("Chargement TradingView impossible"));};
+document.head.appendChild(script);
+});
+}
+async function initNexusMarketWidgets(force=false){
+if(nexusMarketReady||nexusMarketLoading)return;
+const overview=document.getElementById("nexusMarketOverview"),heatmap=document.getElementById("nexusStockHeatmap");
+const status=document.getElementById("marketWidgetStatus"),retry=document.getElementById("marketRetry");
+if(!overview||!heatmap)return;
+nexusMarketLoading=true;if(retry)retry.hidden=true;if(status)status.textContent="Connexion aux widgets de marché…";
+try{
+await loadNexusTradingViewComponent("tv-market-overview.js","tv-market-overview");
+const market=document.createElement("tv-market-overview");
+market.setAttribute("locale","fr");market.setAttribute("color-theme","dark");
+market.setAttribute("symbol-sectors",JSON.stringify([
+{sectionName:"INDICES",symbols:["FOREXCOM:SPXUSD","FOREXCOM:NSXUSD","FOREXCOM:DJI","INDEX:CAC40","INDEX:DEU40","INDEX:NKY"]},
+{sectionName:"DEVISES",symbols:["FX:EURUSD","FX:GBPUSD","FX:USDJPY"]},
+{sectionName:"MÉTAUX",symbols:["TVC:GOLD","TVC:SILVER"]},
+{sectionName:"ÉNERGIE",symbols:["TVC:USOIL","TVC:UKOIL"]}
+]));
+market.style.cssText="display:block;width:100%;min-height:390px";overview.replaceChildren(market);
+await loadNexusTradingViewComponent("tv-heatmap.js","tv-heatmap");
+const map=document.createElement("tv-heatmap");
+map.setAttribute("heatmap-type","stock");map.setAttribute("data-source","SPX500");
+map.setAttribute("grouping","sector");map.setAttribute("block-size","market_cap_basic");
+map.setAttribute("block-color","change");map.setAttribute("locale","fr");map.setAttribute("color-theme","dark");
+map.style.cssText="display:block;width:100%;height:390px";heatmap.replaceChildren(map);
+nexusMarketReady=true;if(status)status.textContent="Widgets chargés. La fraîcheur des cotations dépend des marchés et du fournisseur.";
+}catch(error){if(status)status.textContent="Les widgets de marché ne sont pas accessibles pour le moment. Vérifie la connexion puis réessaie.";if(retry)retry.hidden=false;}
+finally{nexusMarketLoading=false;}
+}
+function renderWorldIntel(){
 const radar=document.getElementById("worldRadar");if(radar){const counts={};articles.forEach(a=>{const c=a.category||"Autres";counts[c]=(counts[c]||0)+1});const rows=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);radar.innerHTML=rows.length?rows.map(([k,
 v])=>`<div class="radar-row">\
 <span>${v13Esc(k)}</span>\
@@ -1107,7 +1266,7 @@ if(!out.hidden){out.hidden=true;button.textContent="Afficher la traduction";retu
 url="https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q="+encodeURIComponent(text);const data=await fetchJSON(url);const translated=(data?.[0]||[]).map(x=>x?.[0]||"").join("").trim();if(!translated)throw Error("Réponse vide");
 out.textContent=translated;out.hidden=false;button.textContent="Masquer la traduction"}catch(e){out.textContent="Traduction indisponible. Consulte l'article original : le service peut être inaccessible ou limiter les requêtes.";out.hidden=false;
 button.textContent="Réessayer la traduction"}finally{button.disabled=false}}
-function initNexusUltimate(){ document.addEventListener("click",e=>{const b=e.target.closest("[data-translate-article]");if(b)translateNexusArticle(b)}); document.getElementById("countrySearch")?.addEventListener("input",renderWorldIntel);
+function initNexusUltimate(){ document.addEventListener("click",e=>{const b=e.target.closest("[data-translate-article]");if(b)translateNexusArticle(b)}); document.getElementById("countrySearch")?.addEventListener("input",renderWorldIntel); document.getElementById("themeBriefingSelect")?.addEventListener("change",e=>{localStorage.setItem("nexusThemeBriefingV1",e.target.value);renderThemeBriefing()}); document.getElementById("marketRetry")?.addEventListener("click",()=>initNexusMarketWidgets(true));
 document.getElementById("compareArticles")?.addEventListener("click",()=>{const a=articles.find(x=>x.id===document.getElementById("compareOne").value),b=articles.find(x=>x.id===document.getElementById("compareTwo").value),out=document.getElementById("comparisonResult");
 if(!a||!b||a.id===b.id){out.textContent="Choisis deux publications différentes.";return}const overlap=[...new Set(titleTokens(a.title).filter(t=>titleTokens(b.title).includes(t)))];
 out.innerHTML=`<div class="compare-columns">\
@@ -1144,7 +1303,7 @@ document.getElementById("saveJournal")?.addEventListener("click",()=>{const el=d
 a.slice(0,200));el.value="";renderPersonalDesk()});
 document.addEventListener("click",e=>{const del=(attr,key)=>{const b=e.target.closest("["+attr+"]");if(b){const a=v13Read(key,[]);a.splice(Number(b.getAttribute(attr)),1);v13Save(key,a);renderPersonalDesk()}};del("data-delete-note",NEXUS_STORE.notes);del("data-delete-task",
 NEXUS_STORE.tasks);del("data-delete-event",NEXUS_STORE.events);const check=e.target.closest("[data-task-check]");if(check){const a=v13Read(NEXUS_STORE.tasks,[]);a[Number(check.dataset.taskCheck)].done=check.checked;v13Save(NEXUS_STORE.tasks,a)}});
-document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),
+document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY,"nexusThemeBriefingV1"];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),
 data:Object.fromEntries(keys.map(k=>[k,localStorage.getItem(k)]))};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="nexus-ultimate-backup.json";a.click();
 URL.revokeObjectURL(url)});
 document.getElementById("importAllDataButton")?.addEventListener("click",()=>document.getElementById("importAllDataFile").click());document.getElementById("importAllDataFile")?.addEventListener("change",async e=>{const f=e.target.files?.[0];if(!f)return;try{const
