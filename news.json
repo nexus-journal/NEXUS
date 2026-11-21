@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T21:52:55.858744+00:00",
-  "count": 281,
+  "updated_at": "2026-11-21T22:32:08.859383+00:00",
+  "count": 282,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -99,7 +99,7 @@
       "category": "Environnement"
     },
     {
-      "title": "Bonne année, Mars ! La planète rouge tourne 39 ans",
+      "title": "Bonne année, Mars ! La planète rouge a 39 ans.",
       "link": "https://astronomynow.com/2026/09/29/happy-new-year-mars-the-red-planet-is-turning-39/",
       "date": "Tue, 29 Sep 2026 12:46:30 +0000",
       "description": "Le 30 septembre, la planète rouge commence officiellement l'année 39 de Mars. Ce qui est une réussite pour un monde qui a en fait plus de 4,5 milliards d'années.",
@@ -288,7 +288,7 @@
       "date": "Thu, 19 Nov 2026 13:35:29 GMT",
       "description": "Un oiseau a étonné les conservationnistes en effectuant un voyage aller-retour de 6 800 milles en Sibérie et en arrière.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Le téléchargement : un foie vivant, une batterie d'un milliard de dollars et un hype d'IA",
@@ -438,15 +438,47 @@
       "title": "Lancement du télescope spatial romain en mission pour explorer l'Univers",
       "link": "https://astronomynow.com/2026/08/30/roman-space-telescope-launches-on-mission-to-survey-the-universe/",
       "date": "Sun, 30 Aug 2026 12:16:25 +0000",
-      "description": "Nancy Grace Roman Space Telescope a commencé son voyage dans l'espace, en commençant une mission qui va surveiller l'Univers à une échelle sans précédent à la recherche d'indices d'énergie noire, de matière noire et de mondes au-delà de notre système solaire.",
+      "description": "Nancy Grace Roman Space Telescope a commencé son voyage dans l'espace, en commençant une mission qui étudiera l'Univers à une échelle sans précédent à la recherche d'indices d'énergie sombre, de matière noire et de mondes au-delà de notre système solaire.",
       "source": "Astronomy Now",
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - France-Argentine : les Bleus tiennent leur finale face aux Springboks, plus que quelques minutes à jouer",
-      "link": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949596/france-argentine",
-      "date": "Sat, 21 Nov 2026 22:47:02 +0100",
-      "description": "A domicile, l’équipe de France doit impérativement s’imposer avec le bonus offensif pour se qualifier en finale du Championnat des nations et rejoindre l’Afrique du Sud.",
+      "title": "Les notes des Bleus après France-Argentine : Gourgues éclatant, Capilla épatant, Dupont dynamitant",
+      "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-argentine-gourgues-eclatant-capilla-epatant-dupont-dynamitant-20261121",
+      "date": "Sat, 21 Nov 2026 23:30:10 +0100",
+      "description": "Après la victoire tricolore sur les Pumas argentins (45-17), synonyme de finale dans le Championnat des nations, découvrez les notes des joueurs français attribuées par nos spécialistes rugby.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Le XV de France rejoint l'Afrique du Sud en finale du Championnat des nations après sa large victoire face à l'Argentine",
+      "link": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-rejoint-l-afrique-du-sud-en-finale-du-championnat-des-nations-apres-sa-large-victoire-face-a-l-argentine_8294108.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 23:24:58 +0100",
+      "description": "Les Bleus disputeront la finale de la première édition du Championnat des nations le week-end prochain à Twickenham, en forme de retrouvailles face à l'Afrique du Sud.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "France-Argentine : les Bleus (re)donnent rendez-vous aux Springboks en finale",
+      "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/la-france-punit-l-argentine-et-retrouvera-l-afrique-du-sud-en-finale-du-championnat-des-nations-20261121",
+      "date": "Sat, 21 Nov 2026 23:24:27 +0100",
+      "description": "Larges vainqueurs de l’Argentine (45-17) ce samedi soir, Dupont et ses partenaires terminent premiers de la poule Nord. Ils retrouveront l’Afrique du Sud en finale du Championnat des nations, dimanche prochain à Twickenham.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Championnat des nations : découvrez le classement final à l’issue de la 6e et dernière journée",
+      "link": "https://www.lefigaro.fr/sports/rugby/championnat-des-nations-decouvrez-le-classement-final-a-l-issue-de-la-6e-et-derniere-journee-20261121",
+      "date": "Sat, 21 Nov 2026 23:22:19 +0100",
+      "description": "À l’issue de la victoire des Bleus sur les Pumas argentins (45-17), découvrez le classement final du Championnat des nations, avant les matches de classement du week-end prochain.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d'exclure les macronistes»",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261121",
+      "date": "Sat, 21 Nov 2026 23:02:32 +0100",
+      "description": "Du fait de sa récente percée dans les sondages, David Lisnard est soupçonné de ne plus souhaiter la tenue de cette primaire de la droite et du centre.",
       "source": "Le Figaro",
       "category": "France"
     },
@@ -459,12 +491,84 @@
       "category": "France"
     },
     {
+      "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 22:19:43 GMT",
+      "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Avis : Godzilla Minus Zero rejoint la liste des suites vraiment stellaires",
+      "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "date": "Sat, 21 Nov 2026 22:12:41 +0000",
+      "description": "Le réalisateur Takashi Yamazaki monte l'ante en piquant Godzilla contre l'un des plus grands ennemis du monstre",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "Rugby: la France balaye l'Argentine et retrouvera l'Afrique du Sud en finale du Championnat des nations",
+      "link": "https://www.rfi.fr/fr/sports/20261121-rugby-france-vs-argentine",
+      "date": "Sat, 21 Nov 2026 22:07:19 GMT",
+      "description": "L'équipe de France a largement dominé l'Argentine (45-17) samedi 21 novembre et assuré sa place en finale du Championnat des nations grâce à une victoire bonifiée synonyme de première place de sa poule devant l'Angleterre. Après avoir douté pendant la première période, les Bleus ont déroulé face aux Pumas et retrouveront l'Afrique du Sud le 29 novembre à Twickenham dans un choc au sommet.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Bahreïn dit que l'attaque iranienne frappe des installations industrielles",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 22:02:03 +0000",
+      "description": "Bahreïn dit que l'attaque iranienne frappe des installations industrielles",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
       "link": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
       "date": "Sat, 21 Nov 2026 22:00:02 +0100",
       "description": "Le préfet a demandé sa mise en retrait après la révélation de suspicions le visant dans l’enquête sur les fuites d’informations confidentielles vers le RN. D’après les informations du « Monde », les investigations ont été déclenchées après la découverte d’un courriel d’une fonctionnaire de Beauvau au domicile à Rome de Frédéric Chatillon, un proche de Marine Le Pen.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Cet outil de fenêtres intégré peut indiquer si votre DirectX a un problème",
+      "link": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
+      "date": "Sat, 21 Nov 2026 22:00:00 +0000",
+      "description": "DxDiag est une ressource pratique et gratuite pour le dépannage DirectX.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Bahreïn accuse l'Iran d'avoir mené une frappe contre un de ses sites industriels",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-bahre%C3%AFn-accuse-l-iran-d-avoir-men%C3%A9-une-frappe-contre-un-de-ses-sites-industriels",
+      "date": "Sat, 21 Nov 2026 21:56:18 GMT",
+      "description": "Une frappe iranienne a provoqué samedi 21 novembre un incendie sur un site industriel à Bahreïn, a annoncé le royaume, déjà ciblé par quatre attaques depuis mi-novembre, Téhéran affirmant riposter à des tirs américains, sur fond d'enlisement du conflit au Moyen-Orient.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "L'Iran affirme que la Russie et la Chine s'opposent à un changement de sa doctrine nucléaire",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-l-iran-affirme-que-la-russie-et-la-chine-s-opposent-%C3%A0-un-changement-de-sa-doctrine-nucl%C3%A9aire",
+      "date": "Sat, 21 Nov 2026 21:51:55 GMT",
+      "description": "Le ministère iranien des Affaires étrangères, Abbas Araghchi, a déclaré que la Russie et la Chine rejetaient un changement dans la doctrine nucléaire du pays, alors que des voix s'élèvent en interne en faveur d'une réorientation, a rapporté un média d'État.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Le FBI et l'USDA auraient été la cible de cyberattaques consécutives.",
+      "link": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+      "date": "Sat, 21 Nov 2026 21:51:29 +0000",
+      "description": "On ne sait toujours pas qui est responsable des deux incidents.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'outil gratuit Raspberry Pi que vous devriez utiliser pour y accéder à distance",
+      "link": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
+      "date": "Sat, 21 Nov 2026 21:45:00 +0000",
+      "description": "Évitez les ports de transfert en utilisant cet outil pratique.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Signal limite les captures d'écran mobiles face à la «menace existentielle» de la surveillance de l'IA",
@@ -481,14 +585,6 @@
       "description": "Bahreïn ne signale aucune blessure, car l'IRGC iranien affirme avoir ciblé des positions militaires américaines sur deux bases à Al-Riffa et Awali.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "France-Argentine : l’hommage émouvant à Federico Martin Aramburu avant la rencontre",
-      "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-argentine-un-hommage-a-federico-martin-aramburu-avant-la-rencontre-20261121",
-      "date": "Sat, 21 Nov 2026 21:30:01 +0100",
-      "description": "Ce samedi soir au Stade de France, la Fédération Française de Rugby a consacré un moment de recueillement en l’honneur de l’ancien joueur argentin, tué à Paris le 19 mars 2022 par deux militants d’ultradroite.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Combien de temps les câbles à fibre optique peuvent-ils durer avant de perdre le signal?",
@@ -579,44 +675,12 @@
       "category": "Monde"
     },
     {
-      "title": "Des milliers de manifestants à travers l'Europe sur les coûts de la vie et le logement",
-      "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 20:47:50 +0000",
-      "description": "Des manifestations en France et au Portugal ont suivi des manifestations menées par des jeunes sur l'éducation et les difficultés économiques dans toute l'Europe.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Les compromis d'utiliser les écouteurs AirPods Max d'Apple",
-      "link": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
-      "date": "Sat, 21 Nov 2026 20:45:00 +0000",
-      "description": "AirPods Max d'Apple sonne bien, mais ils viennent avec beaucoup de compromis pour 549 $ écouteurs.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Nouvel exploit des Français Théo Arribagé et Albano Olivetti qualifiés pour la finale du Masters de Turin",
-      "link": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 20:38:58 +0100",
-      "description": "Le duo tricolore s'est imposé contre le tandem allemand Kevin Krawietz-Tim Puetz en demi-finales du \"tournoi des maîtres\", samedi, un nouvel exploit dans ce tournoi pour Arribagé et Olivetti.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Le Pentagone a émis un mémo limitant les activités sociales avec les militaires canadiens",
       "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
       "date": "Sat, 21 Nov 2026 20:35:07 +0000",
       "description": "La dernière salve des relations épuisantes entre les États-Unis et le Canada n'a pas affecté leur vaste opération militaire conjointe, y compris le commandement de l'espace aérien commun, le NORAD.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Disques vs disques: Quelle est la différence ?",
-      "link": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
-      "date": "Sat, 21 Nov 2026 20:30:00 +0000",
-      "description": "Ils sont prononcés de la même façon et ne s'écartent que d'une seule lettre, mais leur mécanique et leur utilisation sont très différentes.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
@@ -635,14 +699,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Pourquoi Apple Vision Pro n'a jamais décollé comme les casques VR de Meta",
-      "link": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
-      "date": "Sat, 21 Nov 2026 20:15:00 +0000",
-      "description": "L'Apple Vision Pro a fait ses débuts en 2024, mais les années qui ont suivi n'ont pas été aimables avec le casque de réalité mixte d'Apple.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Jacques Attali, Élise Lucet, Jean-Luc Mélenchon… Ce fléau des vidéos détournant l’image de personnalités qui coûte des millions d’euros aux épargnants",
       "link": "https://www.lefigaro.fr/placement/jacques-attali-elise-lucet-jean-luc-melenchon-ce-fleau-des-videos-detournant-l-image-de-personnalites-qui-coute-des-millions-d-euros-aux-epargnants-20261121",
       "date": "Sat, 21 Nov 2026 20:00:00 +0100",
@@ -657,14 +713,6 @@
       "description": "\"Je refuse que l’Etat, le ministère de l'Intérieur et le corps préfectoral deviennent les cibles ou les instruments de ces entreprises de déstabilisation\", a déclaré samedi le haut fonctionnaire dans un communiqué.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 19:33:49 GMT",
-      "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "«On nous chie dessus, on ne nous écoute pas» : à Lyon, plusieurs milliers de personnes ont défilé",
@@ -691,14 +739,6 @@
       "category": "Monde"
     },
     {
-      "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh demande à être relevé de ses fonctions",
-      "link": "https://www.lefigaro.fr/politique/enquete-visant-le-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121",
-      "date": "Sat, 21 Nov 2026 19:16:57 +0100",
-      "description": "Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Cargo échoué dans les Landes : des membres d’équipage hélitreuillés, le remorquage pas pour tout de suite",
       "link": "https://www.liberation.fr/societe/cargo-echoue-dans-les-landes-des-membres-dequipage-helitreuilles-le-remorquage-pas-pour-tout-de-suite-20261121_DV52LGLHC5CCLKUPOAJ5PC3TAQ/",
       "date": "Sat, 21 Nov 2026 19:12:34 +0000",
@@ -715,19 +755,11 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT, France-Argentine : Kalvin Gourgues creuse l’écart pour les Bleus, en route vers la finale du Championnat des nations",
+      "title": "EN DIRECT, France-Argentine : larges vainqueurs des Pumas, les Bleus retrouveront l’Afrique du Sud en finale du Championnat des nations",
       "link": "https://www.lemonde.fr/sport/live/2026/11/21/en-direct-france-argentine-suivez-le-match-du-championnat-des-nations-de-rugby_6814058_3242.html",
       "date": "Sat, 21 Nov 2026 19:10:04 +0100",
       "description": "Le XV de France dispute, samedi au Stade de France, son dernier match de la phase de groupes du Championnat des nations, face aux Pumas argentins. S’ils conservent la tête de la poule Nord, les Bleus joueront la première finale de la compétition.",
       "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh dans la tempête",
-      "link": "https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-le-prefet-hugues-moutouh-dans-la-tempete-20261120",
-      "date": "Sat, 21 Nov 2026 19:02:40 +0100",
-      "description": "RÉCIT - Convoqué vendredi par le ministre de l’Intérieur Laurent Nuñez, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours. Le préfet a demandé ce samedi à être relevé de ses fonctions.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -883,28 +915,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Cargo russe ciblé et survol d'hélicoptère: la Finlande signale une série d'incidents",
-      "link": "https://www.rfi.fr/fr/europe/20261121-cargo-russe-cibl%C3%A9-et-survol-d-h%C3%A9licopt%C3%A8re-la-finlande-signale-une-s%C3%A9rie-d-incidents",
-      "date": "Sat, 21 Nov 2026 16:58:40 GMT",
-      "description": "La Finlande a signalé le survol de son territoire par un hélicoptère russe ce 21 novembre. Quelques heures plus tôt, les autorités finlandaises avaient constaté non loin de leurs côtes une attaque d'un drone contre un navire russe. Récit d'une série d'incidents révélateurs de la tension qui règne dans cette région.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Trump dit qu'il pourrait y avoir un « spin positif » de la dernière base de données du FBI hack",
       "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
       "date": "Sat, 21 Nov 2026 16:57:34 GMT",
       "description": "Cela ferait la deuxième intrusion récente dans le système du FBI.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Le Mexique arrête le baron de la drogue «Chapo Isidro» recherché par le FBI",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-le-mexique-arr%C3%AAte-le-baron-de-la-drogue-chapo-isidro-recherch%C3%A9-par-le-fbi",
-      "date": "Sat, 21 Nov 2026 16:42:43 GMT",
-      "description": "Le Mexique a arrêté vendredi 20 novembre un baron de la drogue, Fausto Isidro Meza, alias « Chapo Isidro », un des 10 criminels en fuite les plus recherchés par le FBI, une interpellation qui a déclenché de violents affrontements dans l'État de Sinaloa, dans le nord-ouest du pays, où il opérait. Quatre militaires et sept criminels présumés ont été tués lors de l'opération, ont annoncé les autorités.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Anthropics record IPO rencontre avec la pire semaine sur Wall Street depuis 2020",
@@ -945,6 +961,14 @@
       "description": "Le 21 novembre 1676, l'astronome danois Ole Rømer découvrit la vitesse de la lumière tout en observant Jupiter et sa lune volcanique Io. Voilà pourquoi ça comptait.",
       "source": "Space.com",
       "category": "Exploration"
+    },
+    {
+      "title": "Le choix du budget de la marine a des investissements familiaux dans Trump Jr-linked entrepreneur",
+      "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+      "date": "Sat, 21 Nov 2026 16:19:19 GMT",
+      "description": "Les démocrates ont promis de soulever des conflits d'intérêts présumés concernant les fonctionnaires lorsqu'ils prendront la relève du Congrès",
+      "source": "Financial Times",
+      "category": "Économie"
     },
     {
       "title": "Est-ce que la vente d'une version AI de votre visage à cette startup microdrama l'avenir d'Hollywood?",
@@ -1179,14 +1203,6 @@
       "category": "Sciences"
     },
     {
-      "title": "France: un acte VI de la mobilisation sous l'impulsion des syndicats et des «gilets jaunes»",
-      "link": "https://www.rfi.fr/fr/france/20261121-mobilisation-en-france-un-acte-vi-sous-l-impulsion-des-syndicats-et-des-gilets-jaunes-qui-f%C3%AAtent-leurs-8-ans",
-      "date": "Sat, 21 Nov 2026 11:55:56 GMT",
-      "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à manifester ce samedi 21 novembre en France, contre la vie chère, pour l'augmentation des salaires et de meilleures conditions d'études. Cet « acte VI », comme l'appellent les « gilets jaunes » – dont le mouvement a été lancé il y a huit ans –, s'inscrit dans un cadre européen avec de nombreux pays qui connaissent des mobilisations similaires.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Sony Bravia 9 II Review (2026): réglable et lumineux",
       "link": "https://www.wired.com/review/sony-bravia-9-ii/",
       "date": "Sat, 21 Nov 2026 11:30:00 +0000",
@@ -1225,6 +1241,14 @@
       "description": "À court terme, l'exploration humaine de la Lune et de Mars semble pratique, mais pour les 50 prochaines années au moins, l'exploration robotique peut être la plus rentable et la plus efficace. L'exploration humaine exige un rendement impératif du capital.",
       "source": "Universe Today",
       "category": "Exploration"
+    },
+    {
+      "title": "Le Danemark accuse la Russie de complot pour assassiner le rappeur Ukrainien",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 10:26:36 GMT",
+      "description": "L'ambassade de Russie au Danemark a nié cette allégation, ce qui a conduit à l'expulsion de l'attaché de défense russe.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "L'IA peut ne pas fonctionner comme le cerveau humain après tout, les scientifiques découvrent",
@@ -1499,7 +1523,7 @@
       "category": "Économie"
     },
     {
-      "title": "Les galaxies précoces peuvent être encore plus massives que nous ne le pensions",
+      "title": "Les galaxies précoces peuvent être encore plus massives que nous pensions",
       "link": "https://astronomynow.com/2026/08/24/jwsts-impossible-early-galaxies-may-be-even-more-massive-than-we-thought/",
       "date": "Mon, 24 Aug 2026 10:42:39 +0000",
       "description": "Les étoiles de faible masse, faints, pourraient cacher une grande partie de la masse dans des galaxies lointaines, rendant les galaxies étonnamment grandes découvertes par JWST dans l'Univers précoce encore plus difficiles à expliquer.",
@@ -1507,10 +1531,10 @@
       "category": "Exploration"
     },
     {
-      "title": "Hera se ferme sur l'astéroïde DART impacté",
+      "title": "Hera se ferme sur l'astéroïde DART touché",
       "link": "https://astronomynow.com/2026/11/09/hera-closes-in-on-the-asteroid-dart-impacted/",
       "date": "Mon, 09 Nov 2026 10:45:12 +0000",
-      "description": "Le vaisseau spatial de l'Agence spatiale européenne (ESA) de Hera a rendu sa première vue en gros plan du système d'astéroïdes Didymos, marquant le début d'une ‘autopsie d'astéroïdes\" pour découvrir ce que l'impact du DART de NASA a vraiment fait à l'astéroïde lune Dimorphos en 2022.",
+      "description": "Le vaisseau spatial de l'Agence Spatiale Européenne (ESA) de Hera a rendu sa première vue en gros plan du système d'astéroïdes Didymos, marquant le début d'une «autopsie d'astéroïdes» pour découvrir ce que l'impact DART de NASA a vraiment fait à l'astéroïde lune Dimorphos en 2022.",
       "source": "Astronomy Now",
       "category": "Exploration"
     },
@@ -1552,7 +1576,7 @@
       "date": "Fri, 20 Nov 2026 22:57:26 GMT",
       "description": "Des centaines de jeunes oiseaux ont également été sauvés du feu, ce qui s'explique par le fait que le foie gras fait l'objet d'un nouvel examen des préoccupations liées au bien-être des animaux.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "Les ventes de GTA 6 ont atteint 3,8 milliards de dollars en une seule journée - le plus grand lancement de divertissement de l'histoire",
@@ -1560,7 +1584,7 @@
       "date": "Fri, 20 Nov 2026 22:53:24 GMT",
       "description": "La figure mammouth surpasse chaque lancement de jeu vidéo et le record de la boîte de film d'une journée.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "La vente d'actions technologiques traîne les marchés vers le bas comme le glissement des actions anthropiques",
@@ -1568,7 +1592,7 @@
       "date": "Fri, 20 Nov 2026 22:42:47 GMT",
       "description": "Les pressions ont pesé sur les marchés américains, les S&P 500 et la Dow Jones Industrial Medium étant poussées dans le territoire de correction.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "Les mathématiciens sont stupéfaits par la preuve de l'hypothèse de Riemann",
@@ -1619,14 +1643,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Nvidia fait face au régulateur américain.",
-      "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-      "date": "Fri, 20 Nov 2026 21:58:08 GMT",
-      "description": "L'enquête de la Commission des valeurs mobilières ajoute aux difficultés rencontrées par le groupe des puces après la démission de Jensen Huang",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
       "link": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
       "date": "Fri, 20 Nov 2026 21:54:13 GMT",
@@ -1675,14 +1691,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Le chercheur plante 2m de canaris dans la chaîne d'approvisionnement en AI. Un désastre de la vie privée a fait surface.",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "date": "Fri, 20 Nov 2026 20:59:08 +0000",
-      "description": "Tester à l'aide d'invites avec des secrets uniques et traçables prouve que les données ne restent pas privées.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
       "title": "Johann Chapoutot : \"la dédiabolisation du RN est véritablement un mythe\"",
       "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261120-johann-chapoutot-la-d%C3%A9diabolisation-du-rn-est-v%C3%A9ritablement-un-mythe",
       "date": "Fri, 20 Nov 2026 20:58:03 GMT",
@@ -1696,7 +1704,7 @@
       "date": "Fri, 20 Nov 2026 20:54:12 GMT",
       "description": "Le président américain a fourni peu de détails sur la politique potentielle, disant que d'autres membres de son équipe en entendaient parler pour la première fois.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "Ce système contre-UAS détecte au plus profond des frontières voisines pour détecter et vaincre les drones",
@@ -2016,7 +2024,7 @@
       "date": "Fri, 20 Nov 2026 10:24:52 GMT",
       "description": "Le gouvernement veut que davantage de maisons disposent de pompes à chaleur pour réduire l'utilisation de combustibles fossiles et réduire les factures d'énergie.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "L'utilisation de l'électricité augmente, surtout dans ces états",
@@ -2112,7 +2120,7 @@
       "date": "Fri, 20 Nov 2026 05:59:56 GMT",
       "description": "La mission est de nous donner notre meilleure vision de Mercure - la planète la plus proche du Soleil.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "APOD: 2026 le 20 novembre – V-G-R",
@@ -2128,7 +2136,7 @@
       "date": "Fri, 20 Nov 2026 05:03:43 GMT",
       "description": "Les pays africains au sommet des Nations unies sur le climat en Turquie demandent davantage de financement aux pays développés pour les aider à faire face aux changements climatiques.",
       "source": "BBC News",
-      "category": "Environnement"
+      "category": "Sciences"
     },
     {
       "title": "La Force aérienne annonce des promotions E-9, des fentes déclassées à remplir",
@@ -2171,6 +2179,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Amazon se plaint de NYC Council sur les étiquettes d'expédition, aussi",
+      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "date": "2026-11-21T16:59:31-05:00",
+      "description": "Amazon ne laisse aucun lieu inexploré dans sa lutte contre le conseil municipal de New York et la loi sur la protection des livraisons. L'entreprise met maintenant des étiquettes sur les expéditions en prétendant que le Conseil pourrait ajouter jusqu'à 5 $ à n'importe quel ordre Amazon. La loi sur la protection de la livraison interdirait effectivement le type d'arrangement de tiers Amazon actuellement [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "L'ONU ne s'accorde pas sur les règles régissant les «robots tueurs»",
       "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
       "date": "2026-11-21T15:03:37-05:00",
@@ -2207,14 +2223,6 @@
       "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "date": "2026-11-21T10:00:00-05:00",
       "description": "Aujourd'hui, je parle avec Hayden Field, le reporter senior de l'IA de Verge, de l'IPO anthropique pour le troisième et dernier épisode de notre série sur l'IA dans la vie réelle. Le labo d'IA derrière Claude a rendu public le Nasdaq jeudi dernier. Les chiffres sont gigantesques, mais pas vraiment aussi importants pour cette conversation, sauf pour [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Nos écouteurs sont tombés à leur prix le plus bas.",
-      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "date": "2026-11-21T09:55:28-05:00",
-      "description": "Si vous cherchez une nouvelle paire d'oreilles, les Soundcore Liberty 5 Pro sont en vente pour 129,99 $ à Amazon, Best Buy et Walmart en ce moment. C'est le prix le plus bas que nous avons vu pour les excellents écouteurs sans fil Anker, qui se vendent normalement pour 169,99 $ et viennent en quatre couleurs (noir, blanc, bleu et rose) tous de [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
