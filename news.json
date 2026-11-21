@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:25:39.738035+00:00",
+  "updated_at": "2026-11-21T21:13:11.517050+00:00",
   "count": 281,
   "articles": [
     {
@@ -443,6 +443,46 @@
       "category": "Exploration"
     },
     {
+      "title": "EN DIRECT - Colère sociale : 82.500 manifestants dans les cortèges en France ce samedi et 144 interpellations, selon le ministère de l’Intérieur",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+      "date": "Sat, 21 Nov 2026 22:12:27 +0100",
+      "description": "À Paris, la mobilisation était toujours en baisse lors de cet «Acte VI», où de premiers incidents ont été recensés, après l’arrivée du cortège à Nation. À Marseille, des débordements sont constatés.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : Marylise Léon appelle à son tour à changer la date pour éviter un second tour le 2 mai",
+      "link": "https://www.lefigaro.fr/politique/presidentielle-2027-marylise-leon-appelle-a-son-tour-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai-20261121",
+      "date": "Sat, 21 Nov 2026 22:09:15 +0100",
+      "description": "Le président du Sénat Gérard Larcher avait déjà réclamé jeudi de changer la date, la jugeant difficilement compatible avec la tenue des défilés du premier mai, où «s’expriment les syndicalistes et les politiques».",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+      "date": "Sat, 21 Nov 2026 22:00:02 +0100",
+      "description": "Le préfet a demandé sa mise en retrait après la révélation de suspicions le visant dans l’enquête sur les fuites d’informations confidentielles vers le RN. D’après les informations du « Monde », les investigations ont été déclenchées après la découverte d’un courriel d’une fonctionnaire de Beauvau au domicile à Rome de Frédéric Chatillon, un proche de Marine Le Pen.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Une histoire de deux Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "date": "Sat, 21 Nov 2026 21:07:42 +0000",
+      "description": "Nous avons deux photos très différentes de Nvidia — le dernier rapport sur les gains de l'entreprise contre les dirigeants de la technologie appelant fort pour le retour Jensen Huang.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le seigneur mexicain de la drogue sur la liste des 10 plus recherchés du FBI arrêté en fusillade",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 21:05:29 GMT",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, accusée de trafic de drogue et de torture, est détenue après avoir combattu avec les autorités.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
       "link": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 20:59:23 +0100",
@@ -451,12 +491,20 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Colère sociale : 82.500 manifestants dans les cortèges en France ce samedi et 144 interpellations, selon le ministère de l’Intérieur",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
-      "date": "Sat, 21 Nov 2026 20:41:19 +0100",
-      "description": "À Paris, la mobilisation était toujours en baisse lors de cet «Acte VI», où de premiers incidents ont été recensés, après l’arrivée du cortège à Nation. À Marseille, des débordements sont constatés.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "L'Iran dit avoir eu des entretiens avec des médiateurs qatariens, exhorte les États-Unis à accepter les conditions",
+      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 20:56:35 +0000",
+      "description": "Le ministre iranien des Affaires étrangères affirme que la réouverture du détroit n'est pas « difficile » si les États-Unis acceptent des conditions raisonnables.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Des milliers de manifestants à travers l'Europe sur les coûts de la vie et le logement",
+      "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 20:47:50 +0000",
+      "description": "Des manifestations en France et au Portugal ont suivi des manifestations menées par des jeunes sur l'éducation et les difficultés économiques dans toute l'Europe.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Nouvel exploit des Français Théo Arribagé et Albano Olivetti qualifiés pour la finale du Masters de Turin",
@@ -465,6 +513,22 @@
       "description": "Le duo tricolore s'est imposé contre le tandem allemand Kevin Krawietz-Tim Puetz en demi-finales du \"tournoi des maîtres\", samedi, un nouvel exploit dans ce tournoi pour Arribagé et Olivetti.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "L'AOC conteste l'influence de l'AIPAC sur le leadership démocratique",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 20:38:20 +0000",
+      "description": "La représentante américaine AOC a été mise en cause par une militante pour son soutien à Hakeem Jeffries, à la lumière de ses liens avec AIPAC.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Pentagone a émis un mémo limitant les activités sociales avec les militaires canadiens",
+      "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+      "date": "Sat, 21 Nov 2026 20:35:07 +0000",
+      "description": "La dernière salve des relations épuisantes entre les États-Unis et le Canada n'a pas affecté leur vaste opération militaire conjointe, y compris le commandement de l'espace aérien commun, le NORAD.",
+      "source": "The New York Times",
+      "category": "Monde"
     },
     {
       "title": "Colère sociale : à Paris, le «noyau décidé à battre le pavé» ne cache pas l’essoufflement croissant du mouvement",
@@ -483,12 +547,52 @@
       "category": "France"
     },
     {
+      "title": "Disques vs disques: Quelle est la différence ?",
+      "link": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
+      "date": "Sat, 21 Nov 2026 20:30:00 +0000",
+      "description": "Ils sont prononcés de la même façon et ne s'écartent que d'une seule lettre, mais leur mécanique et leur utilisation sont très différentes.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Top Drug Kingpin est capturé par l'armée mexicaine comme les coups de feu éclate",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "date": "Sat, 21 Nov 2026 20:28:34 +0000",
+      "description": "L'arrestation de Fausto Isidro Meza Flores, qui est connu sous le nom de El Chapo Isidro et était l'un des F.B.I.S 10 plus recherchés, était une victoire pour le gouvernement mexicain.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
       "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
       "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 20:23:01 +0100",
       "description": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Deux groupes vérifient mathématicien.",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "date": "Sat, 21 Nov 2026 20:15:57 GMT",
+      "description": "Anthropique Levent Alpöge dit qu'il a fallu six semaines pour lui en utilisant l'outil AI pour résoudre l'hypothèse Riemann du 19ème siècle Un mathématicien à Anthropic a dit de façon convaincante que la société d'intelligence artificielle basée à San Francisco (AI) logiciels a aidé à casser l'un des plus importants problèmes non résolus en mathématiques. Levent Alpöge, mathématicien turc américain, a publié vendredi une note sur son site personnel disant que Claude, l'AI",
+      "source": "The Guardian",
+      "category": "Technologie"
+    },
+    {
+      "title": "Pourquoi l'armée américaine fait exploser des explosifs riches en plomb en Iowa ?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 20:15:13 +0000",
+      "description": "Les explosions retardées ont suscité des craintes environnementales et des préoccupations concernant les effets sur la santé dans l'État.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Pourquoi Apple Vision Pro n'a jamais décollé comme les casques VR de Meta",
+      "link": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
+      "date": "Sat, 21 Nov 2026 20:15:00 +0000",
+      "description": "L'Apple Vision Pro a fait ses débuts en 2024, mais les années qui ont suivi n'ont pas été aimables avec le casque de réalité mixte d'Apple.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Jacques Attali, Élise Lucet, Jean-Luc Mélenchon… Ce fléau des vidéos détournant l’image de personnalités qui coûte des millions d’euros aux épargnants",
@@ -579,14 +683,6 @@
       "category": "Monde"
     },
     {
-      "title": "Comment la sécurité d'iCloud Private Relay se compare-t-elle aux alternatives VPN ?",
-      "link": "https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives/",
-      "date": "Sat, 21 Nov 2026 19:15:00 +0000",
-      "description": "Les abonnés iCloud+ ont accès à Private Relay, qui protège une partie de leur vie privée en ligne sans être un remplacement pur et simple d'un VPN traditionnel.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Cargo échoué dans les Landes : des membres d’équipage hélitreuillés, le remorquage pas pour tout de suite",
       "link": "https://www.liberation.fr/societe/cargo-echoue-dans-les-landes-des-membres-dequipage-helitreuilles-le-remorquage-pas-pour-tout-de-suite-20261121_DV52LGLHC5CCLKUPOAJ5PC3TAQ/",
       "date": "Sat, 21 Nov 2026 19:12:34 +0000",
@@ -603,36 +699,12 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT, France-Argentine : Mickaël Guillard ouvre la marque pour le XV de France",
+      "title": "EN DIRECT, France-Argentine : Peato Mauvaka remet le XV de France devant",
       "link": "https://www.lemonde.fr/sport/live/2026/11/21/en-direct-france-argentine-suivez-le-match-du-championnat-des-nations-de-rugby_6814058_3242.html",
       "date": "Sat, 21 Nov 2026 19:10:04 +0100",
       "description": "Le XV de France dispute, samedi au Stade de France, son dernier match de la phase de groupes du Championnat des nations, face aux Pumas argentins. S’ils conservent la tête de la poule Nord, les Bleus joueront la première finale de la compétition.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html",
-      "date": "Sat, 21 Nov 2026 19:01:12 +0100",
-      "description": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Quelle voiture a le plus grand écran tactile d'infodivertissement ?",
-      "link": "https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/",
-      "date": "Sat, 21 Nov 2026 19:00:00 +0000",
-      "description": "La plupart des voitures modernes auront une sorte d'écran tactile d'infodivertissement, bien que toutes ne soient pas égales. Une voiture, en particulier, règle le toit pour la taille pure.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Top Drug Kingpin est capturé par l'armée mexicaine comme les coups de feu éclate",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "date": "Sat, 21 Nov 2026 18:57:22 +0000",
-      "description": "L'arrestation de Fausto Isidro Meza Flores, qui est connu sous le nom de El Chapo Isidro et était l'un des F.B.I.S 10 plus recherchés, était une victoire pour le gouvernement mexicain.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\"",
@@ -641,14 +713,6 @@
       "description": "Dans un communiqué posté sur le réseau social X, le député a déclaré samedi qu'il prenait \"acte de l'impasse\" de sa campagne, faute d'avoir réussi à imposer l'organisation d'une \"grande primaire\" de toute la gauche.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "Le Pentagone a émis un mémo limitant les activités sociales avec les militaires canadiens",
-      "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
-      "date": "Sat, 21 Nov 2026 18:53:42 +0000",
-      "description": "La dernière salve des relations épuisantes entre les États-Unis et le Canada n'a pas affecté leur vaste opération militaire conjointe, y compris le commandement de l'espace aérien commun, le NORAD.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Trump dit que la base de données du FBI hack est \"pas bon\"",
@@ -707,22 +771,6 @@
       "category": "Monde"
     },
     {
-      "title": "La base de données nationale du FBI sur la criminalité est soupçonnée de violation :",
-      "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 18:19:10 +0000",
-      "description": "Le piratage déclaré est le dernier d'une série de violations et pannes affectant le gouvernement américain.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le Brexit pourrait-il être inversé ?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 18:18:11 +0000",
-      "description": "Le Premier ministre britannique Andy Burnham espère que son pays rejoindra l'UE de son vivant. Mais quelles sont les chances ?",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
       "link": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
       "date": "Sat, 21 Nov 2026 18:13:30 +0100",
@@ -739,12 +787,12 @@
       "category": "Défense"
     },
     {
-      "title": "Trump dit qu'il veut un accord permanent pour empêcher l'Iran d'obtenir des armes nucléaires",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 18:05:51 +0000",
-      "description": "Le président américain Donald Trump dit vouloir un accord permanent pour empêcher l'Iran de développer des armes nucléaires.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "Présidentielle 2027: François Ruffin jette l'éponge, faute de primaire de toute la gauche",
+      "link": "https://www.rfi.fr/fr/france/20261121-pr%C3%A9sidentielle-2027-fran%C3%A7ois-ruffin-jette-l-%C3%A9ponge-faute-de-primaire-de-toute-la-gauche",
+      "date": "Sat, 21 Nov 2026 18:00:47 GMT",
+      "description": "François Ruffin a annoncé samedi 21 novembre qu'il retirait sa candidature à l'élection présidentielle, prenant acte de « l'impasse » de sa campagne faute d'avoir réussi à imposer l'organisation d'une « grande primaire » de toute la gauche.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït",
@@ -753,22 +801,6 @@
       "description": "« Nos émotions : la colère ». Une sexualité épanouie, synonyme de complicité avec son ou sa partenaire, semble a priori incompatible avec la colère, qui rend agressif et égoïste. Et pourtant… livres et films témoignent qu’il existe bel et bien des amateurs de « sexe enragé ».",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "L'Iran va rationner l'électricité face à la pénurie énergétique",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-l-iran-va-rationner-l-%C3%A9lectricit%C3%A9-face-%C3%A0-la-p%C3%A9nurie-%C3%A9nerg%C3%A9tique",
-      "date": "Sat, 21 Nov 2026 17:57:37 GMT",
-      "description": "L'Iran va rationner l'électricité face à la pénurie énergétique, aggravée par les dégâts subis par les infrastructures énergétiques lors de la guerre au Moyen-Orient, a déclaré samedi 21 novembre un média d'État, citant un responsable.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "La police britannique traîne l'homme de protestation sur ‘Pallet Sign Acton shirt",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 17:57:27 +0000",
-      "description": "La police britannique traîne l'homme de protestation sur ‘Pallet Sign Acton shirt",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Suspecté d’être une taupe du RN, le préfet Hugues Moutouh demande à être relevé de ses fonctions",
@@ -835,14 +867,6 @@
       "category": "Économie"
     },
     {
-      "title": "Nicolas Baverez : « L’ultra violence, arme de destruction massive de la démocratie »",
-      "link": "https://www.lefigaro.fr/vox/societe/nicolas-baverez-l-ultra-violence-arme-de-destruction-massive-de-la-democratie-20261121",
-      "date": "Sat, 21 Nov 2026 17:00:00 +0100",
-      "description": "CHRONIQUE - Depuis le 17 octobre, l’ultra violence s’est installée en France comme un régime permanent et elle ne cesse de gagner du terrain. Il est de notre responsabilité de l’éradiquer maintenant, avant qu’il ne soit trop tard.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Voici les meilleurs agents d'IA qui peuvent vivre dans vos messages texte",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "date": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -867,6 +891,14 @@
       "category": "Économie"
     },
     {
+      "title": "Le Mexique arrête le baron de la drogue «Chapo Isidro» recherché par le FBI",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-le-mexique-arr%C3%AAte-le-baron-de-la-drogue-chapo-isidro-recherch%C3%A9-par-le-fbi",
+      "date": "Sat, 21 Nov 2026 16:42:43 GMT",
+      "description": "Le Mexique a arrêté vendredi 20 novembre un baron de la drogue, Fausto Isidro Meza, alias « Chapo Isidro », un des 10 criminels en fuite les plus recherchés par le FBI, une interpellation qui a déclenché de violents affrontements dans l'État de Sinaloa, dans le nord-ouest du pays, où il opérait. Quatre militaires et sept criminels présumés ont été tués lors de l'opération, ont annoncé les autorités.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
       "title": "Anthropics record IPO rencontre avec la pire semaine sur Wall Street depuis 2020",
       "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "date": "Sat, 21 Nov 2026 16:40:05 GMT",
@@ -875,20 +907,12 @@
       "category": "Économie"
     },
     {
-      "title": "Le mathématicien anthropique prétend avoir utilisé Claude pour prouver l'hypothèse de Riemann au XIXe siècle",
-      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "date": "Sat, 21 Nov 2026 16:39:49 GMT",
-      "description": "Levent Alpöge dit qu'il a fallu six semaines pour lui en utilisant l'outil AI pour résoudre le problème de mathématiques impliquant des nombres premiers Un mathématicien d'Anthropic soutient que la société d'intelligence artificielle basée à San Francisco (AI) logiciel a aidé à casser l'un des plus importants problèmes non résolus en mathématiques. Levent Alpöge, un mathématicien turc américain, a posté vendredi une note sur son site personnel disant que Claude, le logiciel AI, avait",
-      "source": "The Guardian",
-      "category": "Technologie"
-    },
-    {
       "title": "Négociations internationales des Nations Unies sur le contrôle de l'utilisation des armes autonomes",
       "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
       "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
       "source": "The Guardian",
-      "category": "Sciences"
+      "category": "Technologie"
     },
     {
       "title": "Le FBI aurait enquêté sur un hack apparent de sa base de données criminelle",
@@ -923,12 +947,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Budget UE: plus de 200 milliards d'euros d'économies proposées, Paris et Berlin font la moue",
-      "link": "https://www.rfi.fr/fr/europe/20261121-budget-ue-plus-de-200-milliards-d-euros-d-%C3%A9conomie-propos%C3%A9es-paris-et-berlin-font-la-moue",
-      "date": "Sat, 21 Nov 2026 15:44:08 GMT",
-      "description": "Le président du Conseil européen, Antonio Costa, a proposé samedi plus de 200 milliards d'euros d'économies et une nouvelle taxe sur le secteur numérique, dans l'espoir de conclure d'ici la fin de l'année les négociations sur le futur budget de l'UE, mais s'est aussitôt attiré les critiques de la France et de l'Allemagne, pour des raisons opposées.",
-      "source": "RFI",
-      "category": "France"
+      "title": "Bayer atteint le règlement Roundup qui pourrait coûter à l'entreprise des milliards",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+      "date": "Sat, 21 Nov 2026 15:37:35 -0500",
+      "description": "L'argent ira à des milliers de personnes qui ont été ou seront diagnostiquées avec un lymphome non hodgkinien – un cancer du sang lié à l'herbicide.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "L'UE et l'Indonésie signent un accord commercial",
@@ -1019,10 +1043,10 @@
       "category": "Environnement"
     },
     {
-      "title": "Chef présumé du cartel 'El Chapo Isidro' de la liste la plus recherchée du FBI capturée au Mexique",
+      "title": "Au moins 11 morts après le chef présumé du cartel 'El Chapo Isidro' capturé au Mexique",
       "link": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689",
       "date": "Sat, 21 Nov 2026 13:34:00 +0000",
-      "description": "Fausto Isidro Meza Flores, chef présumé du cartel, a été capturé.",
+      "description": "Une explosion de violence a tué au moins 11 personnes après que les autorités mexicaines ont capturé le chef présumé du cartel Fausto Isidro Meza Flores, connu sous le nom de El Chapo Isidro.",
       "source": "Sky News",
       "category": "Monde"
     },
@@ -1039,14 +1063,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 21 Nov 2026 13:17:38 GMT",
       "description": "Le président ukrainien dit que Kiev a agi après 109 attaques aériennes russes sur des ponts en Ukraine.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Le seigneur mexicain de la drogue sur la liste des 10 plus recherchés du FBI arrêté en fusillade",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 13:15:21 GMT",
-      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, accusée de trafic de drogue et de torture, est détenue après avoir combattu avec les autorités.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -1291,14 +1307,6 @@
       "category": "Monde"
     },
     {
-      "title": "Le Sénat permet aux projets de loi d'accélérer les énergies renouvelables, divise les verts sur le pétrole et le gaz",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-      "date": "Sat, 21 Nov 2026 07:40:17 -0500",
-      "description": "Un projet de loi sur les permis de réforme au Sénat pourrait aider à accélérer le développement de projets d'énergie renouvelable, mais il divise les écologistes par d'autres dispositions qui aident l'industrie pétrolière et gazière.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "La main morte de l'histoire pèse sur Deutsche Bank",
       "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
       "date": "Sat, 21 Nov 2026 06:32:26 GMT",
@@ -1371,18 +1379,18 @@
       "category": "Économie"
     },
     {
-      "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "description": "Les stocks d'IA — et les marchés plus larges — ont été entassés cette semaine, ce qui a suscité de vives inquiétudes au sujet du système financier et de l'économie en général. Voici quoi savoir.",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
       "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "date": "Sat, 21 Nov 2026 05:00:00 -0500",
       "description": "Les critiques disent maintenant que le géant de l'IA est une entreprise publique, son engagement à mettre la sécurité avant le succès commercial sera testé.",
+      "source": "NPR",
+      "category": "Économie"
+    },
+    {
+      "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "description": "Les stocks d'IA — et les marchés plus larges — ont été entassés cette semaine, ce qui a suscité de vives inquiétudes au sujet du système financier et de l'économie en général. Voici quoi savoir.",
       "source": "NPR",
       "category": "Économie"
     },
@@ -1672,14 +1680,6 @@
       "date": "Fri, 20 Nov 2026 20:59:08 +0000",
       "description": "Tester à l'aide d'invites avec des secrets uniques et traçables prouve que les données ne restent pas privées.",
       "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les experts mettent en garde: Presque tout le monde dans l'IA est sensible à un régime de piège au miel en ce moment",
-      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "date": "Fri, 20 Nov 2026 20:58:29 +0000",
-      "description": "Les techniciens construisent des technologies qui peuvent faire progresser tous les aspects du monde, mais peuvent - ils protéger leurs cœurs? C'est la vulnérabilité que les pots de miel exploitent.",
-      "source": "TechCrunch",
       "category": "Technologie"
     },
     {
