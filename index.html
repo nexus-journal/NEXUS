@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#080e18">
-<meta name="description" content="NEXUS Intelligence V14 Hybrid — centre personnel de veille et d'information.">
-<link rel="manifest" href="./manifest.json">
-<title>NEXUS Intelligence V14 · Hybrid</title>
+
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#080e18"><meta name="description" content="NEXUS Intelligence V14 Ultimate Premium — centre personnel de veille et d'information."><link rel="manifest" href="./manifest.json"><title>NEXUS V14 — Hybrid FX Intelligence System</title>
 <style>
 :root{
 --bg:#080e18;--panel:#101b2b;--panel2:#16263a;
@@ -165,8 +158,6 @@ body.reduce-motion *,body.reduce-motion *:before,body.reduce-motion *:after{scro
 button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
 .page{animation:pageIn .22s ease both}@keyframes pageIn{from{opacity:.55;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
 @media(max-width:420px){.connection-chip{display:none}.header-actions{gap:5px}.header-action{width:34px;height:34px}.setting-row{align-items:flex-start}.setting-row select{min-width:100px}}
-@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
-
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
 
 /* NEXUS V11 — VISUAL SYSTEM */
@@ -174,7 +165,6 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 body{background:radial-gradient(ellipse at 50% -12%,var(--bg-top) 0%,var(--bg-base) 64%);background-attachment:fixed}
 .panel,.stat,.watch-stat,.info,.article,.watch-dashboard,.module,.dossier,.region,.map-panel{border-radius:var(--card-radius);box-shadow:0 5px 20px #00000012}
 .panel,.module{box-shadow:0 8px 26px #0002,0 0 18px #43d9ff10}
-body.glass-ui .panel,body.glass-ui .info,body.glass-ui .article,body.glass-ui .module,body.glass-ui .stat,body.glass-ui .watch-stat{backdrop-filter:blur(12px);background-color:rgba(15,27,43,.82)}
 body.soft-glow .header-action,body.soft-glow .panel,body.soft-glow nav button.active{filter:drop-shadow(0 0 calc(13px * var(--glow-strength)) color-mix(in srgb,var(--blue) 55%,transparent))}
 body.ambient-ui:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;opacity:var(--ambient-opacity);background:radial-gradient(circle at 12% 28%,var(--blue),transparent 28%),radial-gradient(circle at 88% 72%,#17609a,transparent 30%);animation:nexusAmbient 18s ease-in-out infinite alternate}
 @keyframes nexusAmbient{from{transform:translate3d(-1%,0,0) scale(1)}to{transform:translate3d(1%,1%,0) scale(1.04)}}
@@ -191,7 +181,8 @@ body.round-cards .panel,body.round-cards .stat,body.round-cards .watch-stat,body
 @media(max-width:420px){nav{padding-top:4px}.nav-label{font-size:calc(8px * var(--font-scale,1))}.appearance-preview{padding:10px}}
 
 
-/* NEXUS V13 — NAVIGATION DIRECTE ET CUSTOMIZATION STUDIO */
+
+/* NEXUS V14 — NAVIGATION DIRECTE ET CUSTOMIZATION STUDIO */
 :root{--font-scale:1}
 body{font-size:calc(14px * var(--font-scale))}
 main{padding-bottom:calc(94px + env(safe-area-inset-bottom))}
@@ -228,309 +219,153 @@ body.glass-ui .panel,body.glass-ui .info,body.glass-ui .article,body.glass-ui .m
 .translation-output{white-space:pre-wrap;margin:10px 0;padding:12px;border:1px solid var(--line);border-left:3px solid var(--blue);border-radius:9px;background:#0a1522;color:var(--text);font-size:12px;line-height:1.7}.translation-output[hidden]{display:none}.country-card,.personal-entry{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:13px;min-width:0}.personal-entry small{display:block;color:var(--muted);font-size:9px;line-height:1.5;margin-top:7px}.radar-row{display:grid;grid-template-columns:85px 1fr auto;align-items:center;gap:9px;padding:8px 0;font-size:11px}.radar-row small{color:var(--muted)}.country-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin-top:12px}.country-card h3{margin:8px 0;font-size:15px}.country-card p{font-size:11px;line-height:1.6;color:var(--muted)}.compare-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}.compare-columns>div{min-width:0;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--panel)}.compare-columns h3{font-size:12px;line-height:1.5}.compare-columns p,.brief-item p{font-size:11px;line-height:1.6;color:var(--muted)}.brief-item{padding:10px 0;border-bottom:1px solid var(--line)}.personal-entry{margin:8px 0}.personal-entry p{font-size:12px;line-height:1.6;white-space:pre-wrap}.task-entry{display:flex;align-items:center;justify-content:space-between;gap:8px}.task-entry label{display:flex;align-items:center;gap:8px;font-size:12px}.task-entry input{width:auto;margin:0}.presentation-mode header,.presentation-mode #primaryNav,.presentation-mode #readingProgress,.presentation-mode #scrollTopButton,.presentation-mode footer{display:none!important}.presentation-mode main{max-width:1200px;padding-top:4vh;padding-bottom:5vh}.presentation-mode .page.active{font-size:1.12em}.presentation-mode .page.active h1{font-size:2.2em}.presentation-mode:after{content:"MODE PRÉSENTATION · ÉCHAP POUR REVENIR";position:fixed;bottom:8px;right:12px;color:var(--muted);font-size:9px;pointer-events:none}
 @media(max-width:520px){.country-grid{grid-template-columns:1fr 1fr}.compare-columns{grid-template-columns:1fr}.radar-row{grid-template-columns:70px 1fr auto}.font-scale-control{width:48%}}
 
+/* NEXUS V14.1 — PRECIOUS METALS PRO */
 
 
-/* NEXUS V14 — HYBRID FX / MOBILE FX STUDIO */
-:root{--nexus-fx-intensity:.5;--nexus-fx-light:.45;--nexus-fx-speed:22s}
-main{position:relative;z-index:1}
-#nexusFxAtmosphere{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden;opacity:0;transition:opacity .35s ease}
-body.nexus-fx-enabled #nexusFxAtmosphere{opacity:1}
-#nexusFxAtmosphere:before,#nexusFxAtmosphere:after{content:"";position:absolute;inset:-25%;pointer-events:none}
-#nexusFxAtmosphere:before{background:radial-gradient(ellipse at 15% 22%,color-mix(in srgb,var(--blue) 20%,transparent),transparent 34%),radial-gradient(ellipse at 88% 76%,rgba(24,100,170,.18),transparent 34%);opacity:calc(var(--nexus-fx-light) * .55)}
-body.nexus-fx-atmosphere #nexusFxAtmosphere:before{animation:nexusFxAtmosphere 28s ease-in-out infinite alternate}
-body.nexus-fx-light-flow #nexusFxAtmosphere:before{background-image:linear-gradient(118deg,transparent 38%,color-mix(in srgb,var(--blue) 13%,transparent) 49%,transparent 58%),radial-gradient(ellipse at 15% 22%,color-mix(in srgb,var(--blue) 15%,transparent),transparent 34%),radial-gradient(ellipse at 88% 76%,rgba(24,100,170,.13),transparent 34%);background-size:220% 220%,auto,auto;animation:nexusFxLightFlow var(--nexus-fx-speed) linear infinite}
-body.nexus-fx-particles #nexusFxAtmosphere:after{inset:0;opacity:calc(var(--nexus-fx-intensity) * .22);background-image:radial-gradient(circle,rgba(160,225,255,.65) 0 1px,transparent 1.5px),radial-gradient(circle,rgba(67,217,255,.5) 0 1px,transparent 1.5px);background-size:83px 83px,131px 131px;background-position:0 0,30px 44px;animation:nexusFxParticles 34s linear infinite}
-.logo{display:flex;align-items:center;gap:2px}
-#nexusCore{display:inline-block;position:relative;width:12px;height:12px;margin-left:5px;border:1px solid color-mix(in srgb,var(--blue) 70%,white);border-radius:50%;background:radial-gradient(circle,var(--blue) 0 18%,transparent 22%);box-shadow:0 0 9px color-mix(in srgb,var(--blue) 75%,transparent);vertical-align:middle}
-#nexusCore:after{content:"";position:absolute;inset:-4px;border:1px solid color-mix(in srgb,var(--blue) 40%,transparent);border-radius:50%}
-body.nexus-fx-core-pulse #nexusCore{animation:nexusCorePulse 3.8s ease-in-out infinite}
-.nexus-fx-overview{display:flex;align-items:center;gap:14px;padding:14px;margin:14px 0;background:linear-gradient(115deg,#10273c,#0b1725);border:1px solid #315778;border-radius:14px}
-.nexus-fx-core{width:54px;height:54px;flex:0 0 54px;position:relative;display:grid;place-items:center;border:1px solid color-mix(in srgb,var(--blue) 70%,transparent);border-radius:50%;background:radial-gradient(circle,var(--blue) 0 4%,#0d2c43 8%,#091624 68%);box-shadow:0 0 18px color-mix(in srgb,var(--blue) 26%,transparent),inset 0 0 14px #43d9ff22}
-.nexus-fx-core:before,.nexus-fx-core:after{content:"";position:absolute;border:1px solid color-mix(in srgb,var(--blue) 55%,transparent);border-radius:50%;inset:6px}
-.nexus-fx-core:after{inset:-5px;border-style:dashed;opacity:.55}
-body.nexus-fx-core-pulse .nexus-fx-core{animation:nexusCorePulse 3.8s ease-in-out infinite}
-.nexus-fx-overview-copy{min-width:0;flex:1}
-.nexus-fx-overview-copy strong{font-size:11px;letter-spacing:1.5px;color:var(--blue)}
-.nexus-fx-overview-copy p{margin:5px 0;color:var(--muted);font-size:10px;line-height:1.55}
-.nexus-fx-overview-copy small{font-size:9px;letter-spacing:1px;color:var(--green)}
-.fx-profile-grid .profile-card{min-height:67px}
-.fx-dot{color:var(--blue)}.fx-hybrid-dot{background:#43d9ff;color:#43d9ff}.fx-command-dot{background:#8eb7db;color:#8eb7db}.fx-immersive-dot{background:#b69aff;color:#b69aff}.fx-stealth-dot{background:#62e6a5;color:#62e6a5}.fx-arctic-dot{background:#88eaff;color:#88eaff}.fx-aurora-dot{background:#7ce7c2;color:#7ce7c2}.fx-obsidian-dot{background:#b0bbc9;color:#b0bbc9}.fx-focus-dot{background:#f2bd62;color:#f2bd62}
-.fx-range{display:flex;flex-direction:column;align-items:flex-end;gap:3px;width:min(180px,48%)}
-.fx-range input{width:100%;margin:0;accent-color:var(--blue)}
-.fx-range output{color:var(--blue);font-size:9px;white-space:nowrap}
-.nexus-fx-studio .notice{margin:14px 0}
-body.nexus-fx-enabled.nexus-fx-depth .panel,body.nexus-fx-enabled.nexus-fx-depth .article,body.nexus-fx-enabled.nexus-fx-depth .info,body.nexus-fx-enabled.nexus-fx-depth .module{transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease}
-@media(hover:hover){body.nexus-fx-enabled.nexus-fx-depth .article:hover,body.nexus-fx-enabled.nexus-fx-depth .module:hover{transform:translateY(-2px);border-color:color-mix(in srgb,var(--blue) 44%,var(--line));box-shadow:0 9px 24px #0004,0 0 16px color-mix(in srgb,var(--blue) 10%,transparent)}}
-body.nexus-fx-radar #nexus-map{position:relative;isolation:isolate}
-body.nexus-fx-radar #nexus-map:after{content:"";position:absolute;z-index:700;inset:0;pointer-events:none;border-radius:13px;background:conic-gradient(from 0deg at 50% 50%,transparent 0 78%,color-mix(in srgb,var(--blue) 16%,transparent) 86%,transparent 96%);opacity:calc(var(--nexus-fx-intensity) * .48);animation:nexusRadarSweep var(--nexus-fx-speed) linear infinite}
-body.nexus-fx-locations #nexus-map .nexus-marker-glow{transform-box:fill-box;transform-origin:center;animation:nexusLocationPulse 3.2s ease-in-out infinite}
-body.nexus-fx-shimmer .empty{background:linear-gradient(100deg,transparent 28%,rgba(67,217,255,.045) 48%,transparent 68%);background-size:220% 100%;animation:nexusShimmer 5s ease-in-out infinite}
-body[data-fx-mode="immersive"] .nexus-fx-overview{box-shadow:0 0 24px color-mix(in srgb,var(--blue) 16%,transparent),inset 0 0 22px #43d9ff0a}
-body[data-fx-mode="standard"] #nexusFxAtmosphere{opacity:.4}
-@keyframes nexusFxAtmosphere{from{transform:translate3d(-1.5%,0,0) scale(1)}to{transform:translate3d(1.5%,1%,0) scale(1.05)}}
-@keyframes nexusFxLightFlow{0%{background-position:150% 50%,0 0,0 0}100%{background-position:-50% 50%,0 0,0 0}}
-@keyframes nexusFxParticles{from{background-position:0 0,30px 44px}to{background-position:83px 83px,161px 175px}}
-@keyframes nexusCorePulse{0%,100%{filter:brightness(.9);box-shadow:0 0 8px color-mix(in srgb,var(--blue) 20%,transparent)}50%{filter:brightness(1.25);box-shadow:0 0 17px color-mix(in srgb,var(--blue) 52%,transparent)}}
-@keyframes nexusRadarSweep{to{transform:rotate(360deg)}}
-@keyframes nexusLocationPulse{0%,100%{opacity:.78}50%{opacity:1;filter:drop-shadow(0 0 8px var(--blue))}}
-@keyframes nexusShimmer{0%,100%{background-position:120% 0}50%{background-position:-20% 0}}
-@media(max-width:420px){.nexus-fx-overview{padding:11px;gap:10px}.nexus-fx-core{width:46px;height:46px;flex-basis:46px}.fx-range{width:45%}.fx-range input{width:100%}.fx-profile-grid{gap:7px}}
-body.reduce-motion #nexusFxAtmosphere:before,body.reduce-motion #nexusFxAtmosphere:after,body.reduce-motion #nexusCore,body.reduce-motion .nexus-fx-core,body.reduce-motion #nexus-map:after,body.reduce-motion #nexus-map .nexus-marker-glow,body.reduce-motion .empty{animation:none!important}
-@media(prefers-reduced-motion:reduce){#nexusFxAtmosphere:before,#nexusFxAtmosphere:after,#nexusCore,.nexus-fx-core,#nexus-map:after,#nexus-map .nexus-marker-glow,.empty{animation:none!important}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.metal-card-foot{border-top:1px solid var(--line);padding-top:9px;margin-top:10px;color:var(--muted);font-size:9px;line-height:1.6}
+
+
+
+
+
+
+
+@media(max-width:360px){}
+
+
+/* V14 Ultimate: new analysis utilities */
+#eventTrackList,#knowledgeList,#pulseResults,#crossSourceResults{margin-top:10px}.info #eventTrackInput,.info #knowledgeInput{width:100%;margin:8px 0}.info #knowledgeInput{min-height:100px}
+
+/* NEXUS HYBRID FX STUDIO — visual engine, local profiles, layered lighting */
+:root{--nfx-accent:#4ce6ff;--nfx-secondary:#8878ff;--nfx-atmo:#123d72;--nfx-glow:.82;--nfx-atmo-power:.72;--nfx-speed:1;--nfx-glass:22px;--nfx-radius:20px;--nfx-scan-opacity:.48}
+body.nfx-live{background-image:radial-gradient(ellipse at 12% 4%,color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-atmo-power)*17%),transparent),transparent 36%),radial-gradient(ellipse at 92% 28%,color-mix(in srgb,var(--nfx-secondary) calc(var(--nfx-atmo-power)*16%),transparent),transparent 35%),radial-gradient(ellipse at 50% 100%,color-mix(in srgb,var(--nfx-atmo) calc(var(--nfx-atmo-power)*25%),transparent),transparent 45%),linear-gradient(155deg,#080e18,#050914 58%,#070d19)!important;background-attachment:fixed!important}
+body.nfx-live.nfx-aurora:after{content:"";position:fixed;inset:-18%;z-index:-1;pointer-events:none;background:conic-gradient(from 0deg at 50% 50%,transparent 0 17%,color-mix(in srgb,var(--nfx-accent) 11%,transparent) 25%,transparent 34% 57%,color-mix(in srgb,var(--nfx-secondary) 12%,transparent) 69%,transparent 82%);filter:blur(76px);opacity:calc(var(--nfx-atmo-power)*.8);animation:nfxAuroraDrift calc(40s / max(.2,var(--nfx-speed))) linear infinite}
+@keyframes nfxAuroraDrift{to{transform:rotate(360deg) scale(1.07)}}
+body.nfx-live .panel,body.nfx-live .info,body.nfx-live .article,body.nfx-live .stat,body.nfx-live .watch-stat,body.nfx-live .watch-dashboard,body.nfx-live .module,body.nfx-live .tool-card,body.nfx-live .dossier,body.nfx-live .region{border-color:color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-glow)*25%),var(--line));transition:border-color .25s,box-shadow .25s,background .25s}
+body.nfx-live.nfx-edges .panel,body.nfx-live.nfx-edges .info,body.nfx-live.nfx-edges .article,body.nfx-live.nfx-edges .module,body.nfx-live.nfx-edges .tool-card{box-shadow:0 8px 26px #0005,0 0 calc(var(--nfx-glow)*25px) color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-glow)*15%),transparent),inset 0 1px rgba(255,255,255,.035)}
+body.nfx-live.nfx-edges #primaryNav{border-top-color:color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-glow)*48%),var(--line));box-shadow:0 -5px 26px color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-glow)*12%),transparent),0 -5px 22px #0004}
+body.nfx-live.nfx-edges #primaryNav button.active,body.nfx-live.nfx-edges .header-action,body.nfx-live.nfx-edges .primary{filter:drop-shadow(0 0 calc(var(--nfx-glow)*16px) color-mix(in srgb,var(--nfx-accent) 58%,transparent))}
+body.nfx-live.nfx-glass .panel,body.nfx-live.nfx-glass .info,body.nfx-live.nfx-glass .article,body.nfx-live.nfx-glass .module,body.nfx-live.nfx-glass .tool-card{backdrop-filter:blur(var(--nfx-glass));background-color:color-mix(in srgb,var(--panel) 78%,transparent)}
+body.nfx-live.nfx-scan .panel:after,body.nfx-live.nfx-scan .info:after{content:"";display:block;position:absolute;left:0;right:0;top:-60%;height:40%;pointer-events:none;opacity:var(--nfx-scan-opacity);background:linear-gradient(180deg,transparent,color-mix(in srgb,var(--nfx-accent) 10%,transparent),transparent);animation:nfxSurfaceScan calc(9s / max(.2,var(--nfx-speed))) linear infinite}
+body.nfx-live.nfx-scan .panel,body.nfx-live.nfx-scan .info{position:relative;overflow:hidden}
+@keyframes nfxSurfaceScan{to{top:130%}}
+#nexusFxCanvas{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;mix-blend-mode:screen;opacity:calc(.15 + var(--nfx-atmo-power)*.72)}
+body.nfx-live>header{position:sticky;top:0;z-index:1000}body.nfx-live>main{position:relative;z-index:1}body.nfx-live .nfx-no-radar .nfx-orbit-art{display:none}
+body.reduce-motion #nexusFxCanvas{display:none!important}
+/* FX studio layout */
+.nfx-page-head{display:flex;justify-content:space-between;align-items:flex-end;gap:14px;margin-bottom:18px}.nfx-kicker{font-size:9px;color:var(--nfx-accent);letter-spacing:2.2px;font-weight:800}.nfx-page-head h1{font-size:clamp(28px,5vw,42px);letter-spacing:-1.3px;margin:8px 0}.nfx-title-mark{color:var(--nfx-accent);font-size:.7em;margin-left:9px;text-shadow:0 0 17px var(--nfx-accent)}.nfx-live-indicator{white-space:nowrap;border:1px solid color-mix(in srgb,var(--nfx-accent) 37%,transparent);background:color-mix(in srgb,var(--nfx-accent) 7%,transparent);padding:9px 12px;border-radius:999px;font-size:9px;letter-spacing:1.2px;color:#bdeaf4}.nfx-live-indicator i,.nfx-preview-head span i{display:inline-block;width:6px;height:6px;border-radius:50%;background:#62f4c8;box-shadow:0 0 10px #62f4c8;margin-right:6px;animation:nfxBlink 1.8s infinite}@keyframes nfxBlink{50%{opacity:.3}}
+.nfx-workbench{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(300px,.92fr);gap:15px;align-items:start}.nfx-control-column{min-width:0}.nfx-block,.nfx-preview-card{border:1px solid color-mix(in srgb,var(--nfx-accent) 17%,var(--line));border-radius:18px;background:linear-gradient(145deg,rgba(15,28,48,.94),rgba(6,13,25,.94));padding:16px;margin:0 0 13px;box-shadow:0 14px 42px #0003,inset 0 1px rgba(255,255,255,.035)}.nfx-block-head{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:14px}.nfx-block-head b{display:block;font-size:10px;letter-spacing:1.5px;color:#e1f0ff}.nfx-block-head small{display:block;font-size:10px;color:var(--muted);margin-top:5px;line-height:1.4}.nfx-block-head>span{font-size:8px;color:var(--nfx-accent);letter-spacing:1px;white-space:nowrap;padding-top:2px}.nfx-presets{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.nfx-preset{position:relative;min-height:88px;text-align:left;color:var(--text);border:1px solid rgba(135,174,216,.15);border-radius:13px;padding:11px;background:rgba(255,255,255,.018);overflow:hidden;transition:transform .2s,border-color .2s,box-shadow .2s}.nfx-preset:after{content:"";position:absolute;width:85px;height:70px;border-radius:50%;right:-30px;bottom:-34px;filter:blur(22px);opacity:.35;background:var(--preset-color,var(--nfx-accent))}.nfx-preset.active{border-color:var(--nfx-accent);box-shadow:0 0 0 1px color-mix(in srgb,var(--nfx-accent) 24%,transparent),0 0 22px color-mix(in srgb,var(--nfx-accent) 13%,transparent);background:color-mix(in srgb,var(--nfx-accent) 6%,#0b1728)}.nfx-preset:active{transform:scale(.98)}.nfx-preset b{display:block;font-size:10px;letter-spacing:1px;position:relative;z-index:1}.nfx-preset small{display:block;color:var(--muted);font-size:9px;margin-top:5px;position:relative;z-index:1}.nfx-swatch{display:block;width:45px;height:4px;border-radius:8px;margin-bottom:12px;background:var(--preset-color);box-shadow:0 0 14px var(--preset-color)}.nfx-swatch.quantum,.nfx-preset[data-nfx-preset="quantum"]{--preset-color:#4ce6ff}.nfx-swatch.aurora,.nfx-preset[data-nfx-preset="aurora"]{--preset-color:#9c83ff}.nfx-swatch.reactor,.nfx-preset[data-nfx-preset="reactor"]{--preset-color:#ffad59}.nfx-swatch.eclipse,.nfx-preset[data-nfx-preset="eclipse"]{--preset-color:#f36bce}.nfx-swatch.arctic,.nfx-preset[data-nfx-preset="arctic"]{--preset-color:#bde8ff}.nfx-swatch.obsidian,.nfx-preset[data-nfx-preset="obsidian"]{--preset-color:#d8b77a}
+.nfx-colors{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.nfx-colors label{display:grid;gap:8px;color:#a9bfd6;font-size:9px}.nfx-colors input[type=color]{width:100%;height:38px;padding:3px;border:1px solid var(--line);background:#081422;border-radius:9px}.nfx-color-presets{display:flex;gap:8px;margin-top:13px}.nfx-color-presets button{width:30px;height:30px;border-radius:50%;border:2px solid rgba(255,255,255,.2);background:linear-gradient(135deg,var(--c1,#4ce6ff) 0 50%,var(--c2,#8878ff) 50%);box-shadow:0 0 14px color-mix(in srgb,var(--c1,#4ce6ff) 28%,transparent)}.nfx-slider{padding:12px 0;border-top:1px solid rgba(137,176,216,.1)}.nfx-slider:first-of-type{border-top:0}.nfx-slider>div{display:flex;justify-content:space-between;gap:8px;align-items:center;margin-bottom:8px}.nfx-slider label{font-size:11px;color:#d7e6f6;font-weight:650}.nfx-slider output{font-size:10px;color:var(--nfx-accent);font-variant-numeric:tabular-nums}.nfx-slider input[type=range]{width:100%;accent-color:var(--nfx-accent);height:4px}.nfx-slider small{display:block;margin-top:7px;font-size:9px;color:#7187a1}.nfx-layer{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:11px 0;border-top:1px solid rgba(137,176,216,.1)}.nfx-layer:first-of-type{border-top:0}.nfx-layer b{display:block;font-size:11px;color:#deebf7}.nfx-layer small{display:block;font-size:9px;color:#7e95ae;line-height:1.4;margin-top:4px}.nfx-switch{flex:0 0 42px;width:42px;height:24px;position:relative}.nfx-switch input{position:absolute;opacity:0;width:1px;height:1px}.nfx-switch i{display:block;width:42px;height:24px;border-radius:20px;background:#17253a;border:1px solid #32445c;transition:.2s;position:relative}.nfx-switch i:after{content:"";position:absolute;width:16px;height:16px;left:3px;top:3px;border-radius:50%;background:#7d91aa;transition:.2s}.nfx-switch input:checked+i{background:color-mix(in srgb,var(--nfx-accent) 20%,#101b2b);border-color:color-mix(in srgb,var(--nfx-accent) 65%,transparent);box-shadow:0 0 13px color-mix(in srgb,var(--nfx-accent) 20%,transparent)}.nfx-switch input:checked+i:after{transform:translateX(17px);background:var(--nfx-accent);box-shadow:0 0 11px var(--nfx-accent)}.nfx-select-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:6px}.nfx-select-row label{font-size:10px;color:#d7e6f6}.nfx-select-row select,.nfx-save-row select,.nfx-save-row input{width:auto;min-width:0;flex:1;background:#091626;color:#e8f5ff;border:1px solid var(--line);border-radius:9px;padding:9px;font-size:10px}.nfx-save-row{display:flex;gap:8px;margin:8px 0}.nfx-save-row button,.nfx-action-row button{border:1px solid color-mix(in srgb,var(--nfx-accent) 45%,var(--line));background:color-mix(in srgb,var(--nfx-accent) 9%,#0b1728);color:#dffaff;border-radius:9px;padding:9px 11px;font-size:9px;font-weight:800;letter-spacing:.6px;white-space:nowrap}.nfx-action-row{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}.nfx-action-row button{flex:1}.nfx-caption{font-size:9px;color:#7288a0;line-height:1.5;margin-top:10px}.nfx-preview-column{position:sticky;top:14px}.nfx-preview-card{padding:14px;overflow:hidden;background:radial-gradient(ellipse at 60% 24%,color-mix(in srgb,var(--nfx-accent) 12%,transparent),transparent 48%),linear-gradient(145deg,#101d32,#070f1e)}.nfx-preview-head{display:flex;justify-content:space-between;align-items:center;padding:3px 3px 12px}.nfx-preview-head b{display:block;font-size:10px;letter-spacing:1.3px}.nfx-preview-head small{display:block;font-size:9px;color:var(--muted);margin-top:4px}.nfx-preview-head span{font-size:8px;color:#6ee9c3;letter-spacing:1px}.nfx-device{--nfx-device-bg:#07101d;position:relative;max-width:390px;margin:auto;min-height:525px;padding:14px 13px 64px;border-radius:25px;border:1px solid color-mix(in srgb,var(--nfx-accent) 47%,#233c59);background:radial-gradient(ellipse at 45% 5%,color-mix(in srgb,var(--nfx-accent) 14%,transparent),transparent 45%),linear-gradient(155deg,#0c1a2b,#050b15 72%);box-shadow:0 0 34px color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-glow)*24%),transparent),0 24px 50px #0008,inset 0 0 28px color-mix(in srgb,var(--nfx-accent) 4%,transparent);overflow:hidden}.nfx-device:before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(110deg,transparent 20%,rgba(255,255,255,.04) 43%,transparent 59%);transform:translateX(-100%);animation:nfxDeviceSweep calc(8s / max(.2,var(--nfx-speed))) ease-in-out infinite}.nfx-device:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,transparent 20%,color-mix(in srgb,var(--nfx-accent) 5%,transparent),transparent 55%);animation:nfxDeviceScan calc(7s / max(.2,var(--nfx-speed))) linear infinite;opacity:var(--nfx-scan-opacity)}@keyframes nfxDeviceSweep{50%,100%{transform:translateX(110%)}}@keyframes nfxDeviceScan{to{background-position:0 520px}}
+.nfx-device-top,.nfx-device-brand,.nfx-device-date,.nfx-hero-card,.nfx-preview-metrics,.nfx-preview-label,.nfx-preview-news,.nfx-device-nav{position:relative;z-index:1}.nfx-device-top{font-size:7px;color:#91a9c1;display:flex;justify-content:space-between}.nfx-device-brand{display:flex;justify-content:space-between;align-items:center;margin-top:19px}.nfx-device-brand div{font-size:19px;font-weight:900;letter-spacing:4px}.nfx-device-brand span{color:var(--nfx-accent);text-shadow:0 0 14px var(--nfx-accent)}.nfx-device-brand>b{width:28px;height:28px;border:1px solid color-mix(in srgb,var(--nfx-accent) 44%,transparent);border-radius:9px;display:grid;place-items:center;color:var(--nfx-accent)}.nfx-device-date{font-size:7px;letter-spacing:1.4px;color:#7891ac;margin-top:5px}.nfx-hero-card{margin-top:19px;padding:14px;border:1px solid color-mix(in srgb,var(--nfx-accent) 42%,rgba(255,255,255,.08));border-radius:15px;background:linear-gradient(135deg,color-mix(in srgb,var(--nfx-accent) 10%,#0d1e32),#081423 75%);box-shadow:0 0 26px color-mix(in srgb,var(--nfx-accent) calc(var(--nfx-glow)*18%),transparent),inset 0 1px rgba(255,255,255,.07);overflow:hidden}.nfx-overline{font-size:7px;color:var(--nfx-accent);letter-spacing:1.5px}.nfx-hero-card h3{font-size:17px;letter-spacing:-.4px;line-height:1.2;margin:11px 0 7px;max-width:190px}.nfx-hero-card p{font-size:8px;color:#8da4bd;line-height:1.55;max-width:220px;margin:0}.nfx-hero-foot{display:flex;align-items:center;justify-content:space-between;font-size:7px;letter-spacing:.6px;color:#92a9c0;margin-top:15px}.nfx-hero-foot b{color:var(--nfx-accent);border:1px solid color-mix(in srgb,var(--nfx-accent) 36%,transparent);padding:5px 7px;border-radius:30px}.nfx-orbit-art{position:absolute;right:-34px;top:8px;width:125px;height:125px;border:1px solid color-mix(in srgb,var(--nfx-accent) 34%,transparent);border-radius:50%;opacity:.72}.nfx-orbit-art i{position:absolute;inset:13px;border:1px solid color-mix(in srgb,var(--nfx-secondary) 48%,transparent);border-radius:50%;transform:scaleX(.45) rotate(35deg);animation:nfxOrbit calc(9s / max(.2,var(--nfx-speed))) linear infinite}.nfx-orbit-art i:nth-child(2){transform:scaleY(.45) rotate(-45deg);animation-direction:reverse}.nfx-orbit-art b{position:absolute;left:50%;top:50%;width:6px;height:6px;border-radius:50%;background:var(--nfx-accent);box-shadow:0 0 16px 6px color-mix(in srgb,var(--nfx-accent) 60%,transparent)}@keyframes nfxOrbit{to{rotate:360deg}}
+.nfx-preview-metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:10px}.nfx-preview-metrics>div{padding:9px 7px;border:1px solid rgba(139,177,217,.14);border-radius:10px;background:rgba(255,255,255,.025)}.nfx-preview-metrics small{display:block;font-size:6px;letter-spacing:1px;color:#7189a5}.nfx-preview-metrics b{display:block;font-size:14px;margin-top:5px}.nfx-preview-metrics em{font-style:normal;font-size:6px;color:var(--nfx-accent)}.nfx-preview-label{display:flex;justify-content:space-between;font-size:8px;letter-spacing:1.4px;margin:18px 0 7px;color:#c8d8e8}.nfx-preview-label span{font-size:7px;color:var(--nfx-accent)}.nfx-preview-news{display:flex;gap:9px;padding:9px 0;border-top:1px solid rgba(139,177,217,.12)}.nfx-preview-news>i{width:3px;border-radius:5px;background:var(--nfx-accent);box-shadow:0 0 10px var(--nfx-accent);flex:0 0 3px}.nfx-preview-news b{display:block;font-size:8px;line-height:1.4}.nfx-preview-news small{display:block;font-size:6px;color:#7189a5;margin-top:4px}.nfx-device-nav{position:absolute;bottom:9px;left:10px;right:10px;height:43px;border:1px solid rgba(139,177,217,.15);border-radius:12px;background:rgba(5,13,25,.9);display:flex;justify-content:space-around;align-items:center;backdrop-filter:blur(14px)}.nfx-device-nav span{font-size:13px;color:#788fa9;text-align:center;line-height:1}.nfx-device-nav span.active{color:var(--nfx-accent);text-shadow:0 0 12px var(--nfx-accent)}.nfx-device-nav small{display:block;font-size:5px;margin-top:4px;letter-spacing:.4px}.nfx-preview-foot{display:flex;justify-content:space-between;gap:8px;margin-top:12px;font-size:8px;color:#8298b1;letter-spacing:1px}.nfx-preview-foot b{color:var(--nfx-accent);text-align:right}.nfx-mini-readout{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}.nfx-mini-readout>div{background:rgba(10,22,38,.83);border:1px solid var(--line);border-radius:11px;padding:10px}.nfx-mini-readout span{display:block;font-size:7px;color:#7188a1;letter-spacing:.7px}.nfx-mini-readout b{display:block;font-size:14px;color:var(--nfx-accent);margin-top:4px}.nfx-bottom-note{display:flex;gap:10px;align-items:flex-start;margin-top:12px;padding:13px;border:1px solid color-mix(in srgb,var(--nfx-accent) 20%,var(--line));border-radius:13px;background:color-mix(in srgb,var(--nfx-accent) 5%,#0b1728)}.nfx-bottom-note>span{color:var(--nfx-accent);font-size:19px;text-shadow:0 0 14px var(--nfx-accent)}.nfx-bottom-note b{display:block;font-size:10px}.nfx-bottom-note small{display:block;color:var(--muted);font-size:9px;line-height:1.5;margin-top:4px}.nfx-settings-launch{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:14px;margin:15px 0;border:1px solid color-mix(in srgb,var(--nfx-accent) 37%,var(--line));border-radius:13px;background:linear-gradient(105deg,color-mix(in srgb,var(--nfx-accent) 9%,#0b1728),rgba(10,21,36,.9));box-shadow:0 0 22px color-mix(in srgb,var(--nfx-accent) 9%,transparent)}.nfx-settings-launch b{display:block;font-size:10px;letter-spacing:1.2px;color:var(--nfx-accent)}.nfx-settings-launch small{display:block;color:var(--muted);font-size:9px;margin-top:4px}.nfx-settings-launch button{background:color-mix(in srgb,var(--nfx-accent) 14%,#0b1728);color:#dffaff;border:1px solid color-mix(in srgb,var(--nfx-accent) 45%,transparent);border-radius:9px;padding:10px;font-size:9px;font-weight:800;white-space:nowrap}.nfx-tool-card{border-color:color-mix(in srgb,var(--nfx-accent) 36%,var(--line))!important}.nfx-tool-card>span{color:var(--nfx-accent)!important;text-shadow:0 0 14px var(--nfx-accent)}
+@media(max-width:880px){.nfx-workbench{grid-template-columns:1fr}.nfx-preview-column{position:relative;top:auto;order:-1}.nfx-device{max-width:420px}.nfx-control-column{display:grid;grid-template-columns:1fr 1fr;gap:11px}.nfx-block{margin:0}.nfx-block:nth-child(3),.nfx-block:nth-child(4),.nfx-block:nth-child(5),.nfx-block:nth-child(6){grid-column:span 2}}
+@media(max-width:560px){.nfx-page-head{align-items:flex-start;flex-direction:column}.nfx-control-column{display:block}.nfx-block{margin-bottom:11px;padding:14px}.nfx-presets{gap:7px}.nfx-preset{min-height:82px;padding:9px}.nfx-preset b{font-size:9px}.nfx-colors{gap:7px}.nfx-save-row{flex-wrap:wrap}.nfx-save-row select,.nfx-save-row input{width:100%;flex:1 1 100%}.nfx-save-row button{flex:1}.nfx-settings-launch{align-items:flex-start;flex-direction:column}.nfx-settings-launch button{width:100%}.nfx-device{min-height:500px}.nfx-preview-column{position:static}}
+@media(prefers-reduced-motion:reduce){body.nfx-live.nfx-aurora:after,.nfx-orbit-art i,.nfx-device:before,.nfx-device:after{animation:none!important}}
 
 </style>
-</head>
-<body>
-<div id="readingProgress" aria-hidden="true"></div>
-<div id="nexusFxAtmosphere" aria-hidden="true"></div>
-<div id="nexusToast" role="status" aria-live="polite"></div>
-<button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button>
-<header>
-<div class="top">
- <div class="logo">NE<span>X</span>US <i id="nexusCore" aria-label="NEXUS Core"></i></div>
- <div class="header-actions">
-  <div class="system" id="systemState">● INITIALISATION</div>
-  <span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span>
-  <button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button>
-  <button class="header-action" id="openFavorites" aria-label="Ouvrir les favoris" title="Favoris">☆</button>
-  <button class="header-action" id="openAlerts" aria-label="Ouvrir les alertes" title="Alertes">⚑<span class="action-dot" id="alertDot" hidden></span></button>
- </div>
-</div>
-<div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V14 · HYBRID SYSTEM</span></div>
-</header>
-
-<div id="globalSearchPanel" hidden>
- <div class="overlay-shell">
-  <div class="overlay-head"><div class="overlay-title">NEXUS / GLOBAL SEARCH</div><button class="overlay-close" id="closeGlobalSearch" aria-label="Fermer">×</button></div>
-  <input class="global-search-input" id="globalSearchInput" type="search" placeholder="Rechercher dans toutes les publications… ( / )" autocomplete="off">
-  <div class="source">Recherche transversale dans les titres, résumés et sources chargés localement.</div>
-  <div id="globalSearchResults"><div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div></div>
- </div>
-</div>
-
-<div id="commandMenu" hidden>
- <div class="overlay-shell">
-  <div class="overlay-head"><div class="overlay-title">NEXUS / COMMAND MENU</div><button class="overlay-close" id="closeCommandMenu" aria-label="Fermer">×</button></div>
-  <p class="menu-intro">Accès centralisé aux modules. Épingle tes quatre raccourcis préférés dans la barre inférieure.</p>
-  <input id="moduleSearch" class="module-search" type="search" placeholder="Filtrer les modules…" autocomplete="off" aria-label="Filtrer les modules">
-  <div class="menu-section-label">ACCÈS RAPIDES</div>
-  <div class="quick-grid">
-   <button data-quick-page="home">⌂ Overview</button>
-   <button data-quick-page="news">◫ Actualités</button>
-   <button data-quick-page="favorites">☆ Favoris</button>
+</head><body><div id="readingProgress" aria-hidden="true"></div><div id="nexusToast" role="status" aria-live="polite"></div><button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button><header><div class="top"><div class="logo">NE<span>X</span>US</div><div class="header-actions"><div class="system" id="systemState">● INITIALISATION</div><span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span><button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button><button class="header-action" id="openFavorites" aria-label="Ouvrir les favoris" title="Favoris">☆</button><button class="header-action" id="openAlerts" aria-label="Ouvrir les alertes" title="Alertes">⚑<span class="action-dot" id="alertDot" hidden></span></button></div></div><div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V13 · ULTIMATE SYSTEM</span></div></header><div id="globalSearchPanel" hidden><div class="overlay-shell"><div class="overlay-head"><div class="overlay-title">NEXUS / GLOBAL SEARCH</div><button class="overlay-close" id="closeGlobalSearch" aria-label="Fermer">×</button></div><input class="global-search-input" id="globalSearchInput" type="search" placeholder="Rechercher dans toutes les publications… ( / )" autocomplete="off"><div class="source">Recherche transversale dans les titres, résumés et sources chargés localement.</div><div id="globalSearchResults"><div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div></div></div></div><div id="commandMenu" hidden><div class="overlay-shell"><div class="overlay-head"><div class="overlay-title">NEXUS / COMMAND MENU</div><button class="overlay-close" id="closeCommandMenu" aria-label="Fermer">×</button></div><p class="menu-intro">Accès centralisé aux modules. Épingle tes quatre raccourcis préférés dans la barre inférieure.</p><input id="moduleSearch" class="module-search" type="search" placeholder="Filtrer les modules…" autocomplete="off" aria-label="Filtrer les modules"><div class="menu-section-label">ACCÈS RAPIDES</div><div class="quick-grid"><button data-quick-page="home">⌂ Overview</button><button data-quick-page="news">◫ Actualités</button><button data-quick-page="favorites">☆ Favoris</button></div><div class="menu-section-label">TOUS LES MODULES · ★ POUR ÉPINGLER</div><div class="menu-grid" id="commandMenuGrid"></div></div></div><main><section class="page active" id="home"><div class="date" id="date"></div><h1>NEXUS Overview.</h1><div class="subtitle">Vue générale de votre centre personnel de veille et d'information.</div><div class="panel"><div class="label">NEXUS OVERVIEW</div><h3>Centre de situation.</h3><p>Suivi des publications, tendances thématiques et sujets à surveiller. Les indicateurs sont calculés à partir des flux RSS disponibles.</p><div class="toolbar"><button class="primary" onclick="refreshNews()">↻ Actualiser les données</button><button class="small-btn" onclick="showPage('top')">Voir le Top Intelligence →</button></div><div id="lastUpdate" class="source">Initialisation des actualités…</div></div><div class="stats"><div class="stat"><strong id="total">0</strong><small>Articles chargés</small></div><div class="stat"><strong id="saved">0</strong><small>Favoris enregistrés</small></div><div class="stat"><strong id="recentCount">0</strong><small>Publications · 24 h</small></div><div class="stat"><strong id="trackedCount">0</strong><small>Sujets rapprochés</small></div></div><h2 class="section">DAILY INTELLIGENCE BRIEFING</h2><div id="briefingArticles"><div class="empty">En attente des actualités…</div></div><h2 class="section">GLOBAL SITUATION</h2><div class="watch-dashboard"><div class="label">INDICATEURS DES FLUX RSS</div><div id="topicDashboard"><div class="empty">Analyse des publications…</div></div><div class="notice">Indicateurs textuels, pas une mesure de gravité réelle.</div></div><h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div></section><section class="page" id="situation"><h1>Global Situation.</h1><div class="subtitle">Cartographie des lieux mentionnés dans les publications NEXUS.</div><div class="map-panel"><div class="map-header"><span>GLOBAL MONITOR / WORLD MAP</span><span class="live-indicator">● CARTOGRAPHIE ACTIVE</span></div><div class="map-topline"><span>GLOBAL SITUATION MONITOR</span><span>LIVE DATA / NEXUS RSS</span></div><div id="nexus-map"></div><div class="map-controls"><button onclick="resetMapView()">◎ Vue mondiale</button><button onclick="refreshNews()">↻ Actualiser</button></div><div class="map-legend"><span><i class="legend-dot"></i>Lieux repérés dans les articles</span></div><div id="mapStatus" class="map-status">La carte sera chargée à l'ouverture.</div><p class="map-note">Les marqueurs indiquent des lieux explicitement mentionnés dans les titres ou résumés. Ils ne prouvent pas qu'un événement s'y est produit. Coordonnées approximatives.</p></div><h2 class="section">RÉPARTITION GÉOGRAPHIQUE</h2><div class="grid regions" id="regionDashboard"><div class="empty">Analyse…</div></div><div class="notice">Répartition indicative basée sur le texte des articles, pas sur une géolocalisation vérifiée.</div></section><section class="page" id="news"><h1>Actualités.</h1><div class="subtitle">Publications récupérées automatiquement depuis les flux RSS.</div><h2 class="section">CATÉGORIES</h2><div class="categories" id="categories"><button class="chip active" data-cat="Tous">Tout</button><button class="chip" data-cat="France">France</button><button class="chip" data-cat="Monde">Monde</button><button class="chip" data-cat="Technologie">Technologie</button><button class="chip" data-cat="Sciences">Sciences</button><button class="chip" data-cat="Économie">Économie</button><button class="chip" data-cat="Environnement">Environnement</button><button class="chip" data-cat="Défense">Défense</button><button class="chip" data-cat="Exploration">Exploration</button><button class="chip" data-cat="Autres">Autres</button></div><input id="search" placeholder="Rechercher un article ou un sujet…" autocomplete="off"><div id="newsArticles"><div class="empty">Chargement…</div></div></section><section class="page" id="top"><h1>Top Intelligence.</h1><div class="subtitle">Classement indicatif selon fraîcheur, catégorie et rapprochements trouvés.</div><div class="notice">Le score est un indicateur technique, pas une mesure de vérité ou d'importance objective.</div><div id="topArticles"></div></section><section class="page" id="timeline"><h1>Global Timeline.</h1><div class="subtitle">Chronologie des publications disponibles, classées par date.</div><div id="fullTimeline"></div></section><section class="page" id="sources"><h1>Source Monitor.</h1><div class="subtitle">État des flux et comparaison des couvertures similaires.</div><div class="panel"><div class="label">SOURCE MONITOR</div><h3>Surveillance des médias.</h3><p>Les titres proches sont rapprochés automatiquement. Cela ne prouve ni l'indépendance des sources ni l'exactitude des informations.</p></div><div class="info"><div class="label">ÉTAT DES FLUX</div><div id="feedStatus">En attente du premier chargement.</div></div><h2 class="section">SUJETS COUVERTS PAR PLUSIEURS SOURCES</h2><div id="sourceGroups"></div></section><section class="page" id="analyst"><h1>NEXUS Analyst.</h1><div class="subtitle">Examiner les informations sans confondre faits, contexte et interprétation.</div><div class="panel"><div class="label">NEXUS ANALYST DESK</div><h3>Examiner une publication.</h3><select id="analystSelect"><option value="">Sélectionner un article…</option></select></div><div class="info"><div class="label">01 / INFORMATIONS DISPONIBLES</div><div id="analystFacts" class="module-sub">Sélectionne un article.</div></div><div class="info"><div class="label">02 / CONTEXTE FOURNI</div><div id="analystContext" class="module-sub">Le résumé du flux RSS apparaîtra ici.</div></div><div class="info"><div class="label">03 / ANALYSE ET LIMITES</div><div id="analystAnalysis" class="module-sub">NEXUS ne vérifie pas automatiquement les faits.</div></div><div class="notice">Cet outil organise les informations disponibles. Il ne remplace pas une enquête journalistique.</div></section><section class="page" id="dossiers"><h1>Dossiers thématiques.</h1><div class="subtitle">Créer des dossiers personnels et y conserver des publications.</div><div class="panel"><div class="label">PERSONAL INTELLIGENCE FILES</div><input id="dossierName" placeholder="Nom du nouveau dossier…"><button class="primary" onclick="createDossier()">+ Créer un dossier</button></div><div id="dossierList"></div></section><section class="page" id="science"><h1>Science & Space Monitor.</h1><div class="subtitle">Veille des publications scientifiques et spatiales présentes dans les flux.</div><div class="notice">Cette rubrique filtre les articles existants. Elle ne crée pas de nouvelles sources RSS.</div><div class="stats"><div class="stat"><strong id="scienceCount">0</strong><small>Articles scientifiques</small></div><div class="stat"><strong id="spaceCount">0</strong><small>Articles liés à l'espace</small></div></div><h2 class="section">PUBLICATIONS SCIENTIFIQUES</h2><div id="scienceArticles"></div></section><section class="page" id="alerts"><h1>Alertes intelligentes.</h1><div class="subtitle">Surveiller des mots-clés et des catégories dans les publications chargées.</div><div class="panel"><div class="label">KEYWORD MONITOR</div><h3>Mots-clés à surveiller</h3><p>Sépare les mots-clés par des virgules.</p><textarea id="alertKeywords" placeholder="Exemple : NASA, climat, technologie"></textarea><button class="primary" onclick="saveAlerts()">Enregistrer les mots-clés</button></div><div class="info"><div class="label">CATÉGORIES SURVEILLÉES</div><div id="alertCategories" class="categories"></div><button class="small-btn" onclick="saveAlerts()">Enregistrer les catégories</button></div><div class="notice">Les correspondances apparaissent ici lorsque NEXUS charge de nouveaux articles.</div><h2 class="section">DERNIÈRES CORRESPONDANCES</h2><div id="alertMatches"></div></section><section class="page" id="favorites"><h1>Favoris.</h1><div class="subtitle">Votre bibliothèque personnelle enregistrée sur cet appareil.</div><div id="favoriteArticles"></div></section><section class="page" id="archive"><h1>Archives.</h1><div class="subtitle">Historique des articles récupérés par NEXUS.</div><div class="notice">Les archives sont stockées dans le navigateur de ce téléphone.</div><div id="archiveArticles"></div></section><section class="page" id="tools"><h1>Centre des outils.</h1><div class="subtitle">Tous les modules NEXUS, accessibles directement sans menu imbriqué.</div><div class="tools-grid"><button class="tool-card" onclick="showPage('top')"><span>◆</span><strong>Top Intelligence</strong><small>Publications classées</small></button><button class="tool-card" onclick="showPage('timeline')"><span>◷</span><strong>Chronologie</strong><small>Suivre les événements</small></button><button class="tool-card" onclick="showPage('sources')"><span>◉</span><strong>Sources</strong><small>Comparer les médias</small></button><button class="tool-card" onclick="showPage('analyst')"><span>⌕</span><strong>Analyste</strong><small>Examiner un article</small></button><button class="tool-card" onclick="showPage('science')"><span>✧</span><strong>Science & espace</strong><small>Veille scientifique</small></button><button class="tool-card" onclick="showPage('alerts')"><span>⚑</span><strong>Alertes</strong><small>Mots-clés surveillés</small></button><button class="tool-card" onclick="showPage('favorites')"><span>☆</span><strong>Favoris</strong><small>Publications enregistrées</small></button><button class="tool-card" onclick="showPage('archive')"><span>▤</span><strong>Archives</strong><small>Historique local</small></button><button class="tool-card" onclick="showPage('world')"><span>◎</span><strong>World Intel</strong><small>Fiches pays et radar mondial</small></button><button class="tool-card" onclick="showPage('analysis')"><span>⌗</span><strong>Analysis Lab</strong><small>Comparaison et dossiers</small></button><button class="tool-card" onclick="showPage('personal')"><span>▣</span><strong>Personal Desk</strong><small>Notes, tâches et journal</small></button><button class="tool-card" onclick="showPage('settings')"><span>⚙</span><strong>Personnalisation</strong><small>Configurer NEXUS</small></button><button class="tool-card nfx-tool-card" onclick="showPage('fxstudio')"><span>✧</span><strong>FX Studio</strong><small>Créer ton univers lumineux</small></button></div></section><section class="page" id="world"><h1>World Intelligence.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div><div class="panel"><div class="label">GLOBAL RADAR</div><p>Le radar est calculé à partir des publications déjà chargées. Il indique une fréquence de mentions, pas un niveau de menace ou une validation indépendante.</p><div id="worldRadar"></div></div><h2 class="section">FICHES PAYS</h2><input id="countrySearch" placeholder="Rechercher un pays…" autocomplete="off"><div id="countryCards" class="country-grid"></div><div class="notice">Les fiches donnent des repères généraux. Les données politiques et économiques évoluent : vérifie les sources et dates avant de les utiliser dans un travail.</div></section><section class="page" id="analysis"><h1>Analysis Lab.</h1><div class="subtitle">Comparer les couvertures, construire des synthèses et organiser des analyses à partir des contenus disponibles.</div><div class="info"><div class="label">COMPARATEUR DE PUBLICATIONS</div><select id="compareOne"><option value="">Choisir une première publication…</option></select><select id="compareTwo"><option value="">Choisir une seconde publication…</option></select><button class="primary" id="compareArticles">Comparer</button><div id="comparisonResult" class="source">Sélectionne deux publications pour examiner leurs différences.</div></div><div class="info"><div class="label">BRIEFING DU JOUR</div><p>Généré localement à partir des titres et résumés RSS présents sur cet appareil. Ce n'est pas un résumé produit par une IA.</p><button class="small-btn" id="generateBriefing">Générer le briefing</button><div id="generatedBriefing"></div></div><div class="info"><div class="label">MODE PRÉSENTATION</div><p>Masque les commandes et agrandit la zone de lecture pour présenter un dossier.</p><button class="small-btn" id="presentationMode">Activer / quitter le mode présentation</button></div><div class="info"><div class="label">EVENT TRACKER · SUIVI DE SUJETS</div><p>Crée un sujet suivi, puis retrouve les publications contenant ses mots-clés dans les flux disponibles.</p><div class="toolbar"><input id="eventTrackInput" placeholder="Sujet / mots-clés (ex. Ukraine, énergie…)"/><button class="primary" id="addEventTrack">Suivre</button></div><div id="eventTrackList"></div></div><div class="info"><div class="label">GLOBAL PULSE · TENDANCES DES FLUX</div><p>Classement calculé à partir des titres et catégories chargés localement, sans prétendre mesurer l'importance réelle.</p><button class="small-btn" id="generatePulse">Analyser les tendances</button><div id="pulseResults"></div></div><div class="info"><div class="label">CROSS-SOURCE · ÉVÉNEMENTS MULTI-MÉDIAS</div><p>Regroupe des titres partageant des mots-clés. Ce rapprochement automatique reste indicatif.</p><button class="small-btn" id="generateCrossSource">Détecter les sujets communs</button><div id="crossSourceResults"></div></div><div class="info"><div class="label">NEXUS KNOWLEDGE · NOTES DE CONNAISSANCE</div><textarea id="knowledgeInput" placeholder="Enregistrer une idée, un fait à vérifier, un repère ou une synthèse personnelle…"></textarea><button class="primary" id="saveKnowledge">Enregistrer</button><div id="knowledgeList"></div></div></section><section class="page" id="personal"><h1>Personal Desk.</h1><div class="subtitle">Espace de travail local : notes, tâches, journal et événements personnels.</div><div class="info"><div class="label">NOTES PERSONNELLES</div><textarea id="personalNote" placeholder="Tes notes, idées et observations…"></textarea><button class="primary" id="savePersonalNote">Enregistrer la note</button><div id="personalNotes"></div></div><div class="info"><div class="label">GESTIONNAIRE DE TÂCHES</div><div class="toolbar"><input id="taskInput" placeholder="Nouvelle tâche…"><button class="primary" id="addTask">Ajouter</button></div><div id="taskList"></div></div><div class="info"><div class="label">AGENDA PERSONNEL</div><div class="toolbar"><input id="eventTitle" placeholder="Événement"><input id="eventDate" type="datetime-local"><button class="small-btn" id="addEvent">Ajouter</button></div><div id="eventList"></div></div><div class="info"><div class="label">JOURNAL DES DÉCOUVERTES</div><textarea id="journalInput" placeholder="Ce que tu as appris ou ce que tu veux retenir…"></textarea><button class="small-btn" id="saveJournal">Ajouter au journal</button><div id="journalList"></div></div></section><section class="page" id="settings"><h1>Paramètres.</h1><div class="subtitle">Configuration de votre centre NEXUS.</div><div class="nfx-settings-launch"><div><b>PERSONAL FX STUDIO</b><small>Crée une signature visuelle complète pour toutes les pages NEXUS.</small></div><button type="button" onclick="showPage('fxstudio')">OUVRIR LE STUDIO ✧</button></div><div class="info appearance-panel"><div class="label">NEXUS / CUSTOMIZATION STUDIO</div><div class="appearance-preview"><span class="preview-dot"></span><div><strong>Aperçu en direct</strong><small>Chaque modification est appliquée immédiatement et sauvegardée sur cet appareil.</small></div></div><div class="studio-heading">PROFILS VISUELS</div><div class="setting-row"><div><strong>Ambiance prédéfinie</strong><p>Appliquer une identité complète en un seul réglage.</p></div><select id="themeProfile"><option value="tactical">Tactical</option><option value="cyber">Cyber</option><option value="stealth">Stealth</option><option value="ghost">Ghost</option><option value="custom">Personnalisé</option></select></div><div class="profile-grid"><button type="button" class="profile-card" data-profile="tactical"><i class="profile-dot tactical-dot"></i><b>TACTICAL</b><small>Bleu nuit · technique</small></button><button type="button" class="profile-card" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>CYBER</b><small>Cyan · lumineux</small></button><button type="button" class="profile-card" data-profile="stealth"><i class="profile-dot stealth-dot"></i><b>STEALTH</b><small>Noir · discret</small></button><button type="button" class="profile-card" data-profile="ghost"><i class="profile-dot ghost-dot"></i><b>GHOST</b><small>Violet · spectral</small></button></div><div class="studio-heading">COULEURS ET AMBIANCE</div><div class="setting-row"><div><strong>Palette de couleurs</strong><p>Couleur principale de l'interface.</p></div><select id="accentColor"><option value="blue">Bleu NEXUS</option><option value="cyan">Cyan électrique</option><option value="green">Vert tactique</option><option value="amber">Ambre radar</option><option value="violet">Violet spectral</option><option value="red">Rouge alerte</option><option value="custom">Personnalisée</option></select></div><div class="setting-row"><div><strong>Couleur personnalisée</strong><p>Choisir librement une couleur d'accentuation.</p></div><input type="color" id="customAccent" value="#43d9ff" aria-label="Couleur personnalisée"></div><div class="setting-row"><div><strong>Fond de l'interface</strong><p>Choisir la profondeur et la texture.</p></div><select id="backgroundStyle"><option value="deep">Bleu profond</option><option value="black">Noir absolu</option><option value="slate">Ardoise</option><option value="midnight">Nuit polaire</option></select></div><div class="setting-row"><div><strong>Texture du fond</strong><p>Grille technique ou ambiance discrète.</p></div><select id="backgroundTexture"><option value="none">Aucune</option><option value="grid">Grille technique</option><option value="stars">Points lumineux</option><option value="scan">Lignes de balayage</option></select></div><div class="studio-heading">MATIÈRE ET ÉCLAIRAGE</div><div class="setting-row"><div><strong>Intensité lumineuse</strong><p>Force des halos et reflets.</p></div><input type="range" id="glowLevel" min="0" max="100" step="5" value="35"></div><div class="setting-row"><div><strong>Transparence des panneaux</strong><p>Régler l'effet verre et la profondeur.</p></div><input type="range" id="panelOpacity" min="55" max="100" step="5" value="92"></div><div class="setting-row"><div><strong>Arrondi des panneaux</strong><p>De très anguleux à très arrondis.</p></div><input type="range" id="cornerRadius" min="4" max="24" step="1" value="14"></div><div class="setting-row"><div><strong>Style des panneaux</strong><p>Choisir le rendu des cartes.</p></div><select id="cardStyle"><option value="standard">Équilibré</option><option value="flat">Minimal</option><option value="round">Arrondi</option></select></div><div class="setting-row"><div><strong>Effet verre dépoli</strong><p>Transparence et flou léger.</p></div><label class="switch"><input type="checkbox" id="glassMode"><span></span></label></div><div class="setting-row"><div><strong>Halo lumineux</strong><p>Reflets autour des éléments actifs.</p></div><label class="switch"><input type="checkbox" id="glowMode"><span></span></label></div><div class="setting-row"><div><strong>Fond atmosphérique</strong><p>Éclairage d'ambiance animé.</p></div><label class="switch"><input type="checkbox" id="ambientMode"><span></span></label></div><div class="studio-heading">CONFORT ET AFFICHAGE</div><div class="setting-row"><div><strong>Densité de l'interface</strong><p>Espacement des éléments.</p></div><select id="densityMode"><option value="normal">Confortable</option><option value="compact">Compact</option><option value="spacious">Aéré</option></select></div><div class="setting-row"><div><strong>Taille du texte</strong><p>Ajuster la lisibilité générale.</p></div><div class="font-scale-control"><input type="range" id="fontScale" min="75" max="180" step="5" value="100"><output id="fontScaleValue">100 %</output></div></div><div class="setting-row"><div><strong>Animations réduites</strong><p>Désactiver les mouvements décoratifs.</p></div><label class="switch"><input type="checkbox" id="reducedMotion"><span></span></label></div><div class="studio-heading">SAUVEGARDE DU THÈME</div><p class="source">Exportation et importation de tes préférences visuelles. Cela ne remplace pas une sauvegarde des articles, dossiers ou favoris.</p><div class="actions"><button class="small-btn" id="exportTheme" type="button">↧ Exporter mon thème</button><button class="small-btn" id="importThemeButton" type="button">↥ Importer un thème</button><input type="file" id="importThemeFile" accept="application/json,.json" hidden></div><button class="small-btn" id="resetAppearance" type="button">Réinitialiser l'apparence</button></div><div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option><option>10</option><option>15</option><option>20</option></select></div><div class="info"><div class="label">SOURCES</div><p>Les articles sont chargés depuis le fichier automatique news.json.</p></div><div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div><div class="info"><div class="label">SAUVEGARDE COMPLÈTE</div><p>Exporter ou restaurer les données personnelles locales de NEXUS (favoris, dossiers, alertes, notes, tâches et préférences).</p><div class="actions"><button class="small-btn" id="exportAllData">Exporter toutes mes données</button><button class="small-btn" id="importAllDataButton">Importer une sauvegarde</button><input type="file" id="importAllDataFile" accept="application/json,.json" hidden></div></div><button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button><div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 14 — Hybrid FX Intelligence System<br>Interface personnelle non commerciale.</p></div></section>
+<section class="page" id="fxstudio">
+  <div class="nfx-page-head">
+    <div><div class="nfx-kicker">NEXUS / VISUAL ENGINE 02</div><h1>FX Studio<span class="nfx-title-mark">✦</span></h1><div class="subtitle">Compose ton propre univers. Chaque couche lumineuse, chaque reflet et chaque mouvement agit sur l'ensemble de l'application.</div></div>
+    <div class="nfx-live-indicator"><i></i> LIVE RENDER</div>
   </div>
-  <div class="menu-section-label">TOUS LES MODULES · ★ POUR ÉPINGLER</div>
-  <div class="menu-grid" id="commandMenuGrid"></div>
- </div>
-</div>
-<main>
-<section class="page active" id="home">
-<div class="date" id="date"></div><h1>NEXUS Overview.</h1>
-<div class="subtitle">Vue générale de votre centre personnel de veille et d'information.</div>
-<div class="panel">
-<div class="label">NEXUS OVERVIEW</div><h3>Centre de situation.</h3>
-<p>Suivi des publications, tendances thématiques et sujets à surveiller. Les indicateurs sont calculés à partir des flux RSS disponibles.</p>
-<div class="toolbar"><button class="primary" onclick="refreshNews()">↻ Actualiser les données</button><button class="small-btn" onclick="showPage('top')">Voir le Top Intelligence →</button></div>
-<div id="lastUpdate" class="source">Initialisation des actualités…</div>
-</div>
-<div class="stats">
-<div class="stat"><strong id="total">0</strong><small>Articles chargés</small></div>
-<div class="stat"><strong id="saved">0</strong><small>Favoris enregistrés</small></div>
-<div class="stat"><strong id="recentCount">0</strong><small>Publications · 24 h</small></div>
-<div class="stat"><strong id="trackedCount">0</strong><small>Sujets rapprochés</small></div>
-</div>
-<h2 class="section">DAILY INTELLIGENCE BRIEFING</h2><div id="briefingArticles"><div class="empty">En attente des actualités…</div></div>
-<h2 class="section">GLOBAL SITUATION</h2>
-<div class="watch-dashboard"><div class="label">INDICATEURS DES FLUX RSS</div><div id="topicDashboard"><div class="empty">Analyse des publications…</div></div><div class="notice">Indicateurs textuels, pas une mesure de gravité réelle.</div></div>
-<h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div>
+  <div class="nfx-workbench">
+    <div class="nfx-control-column">
+      <div class="nfx-block">
+        <div class="nfx-block-head"><div><b>01 / SIGNATURES VISUELLES</b><small>Choisis une base, puis transforme-la librement.</small></div><span>6 PRESETS</span></div>
+        <div class="nfx-presets" id="nfxPresets">
+          <button type="button" class="nfx-preset active" data-nfx-preset="quantum"><i class="nfx-swatch quantum"></i><b>QUANTUM CORE</b><small>Cyan ionique · précision</small></button>
+          <button type="button" class="nfx-preset" data-nfx-preset="aurora"><i class="nfx-swatch aurora"></i><b>AURORA FLOW</b><small>Violet · flux polaire</small></button>
+          <button type="button" class="nfx-preset" data-nfx-preset="reactor"><i class="nfx-swatch reactor"></i><b>REACTOR X</b><small>Ambre · énergie chaude</small></button>
+          <button type="button" class="nfx-preset" data-nfx-preset="eclipse"><i class="nfx-swatch eclipse"></i><b>ECLIPSE NOIR</b><small>Magenta · contraste</small></button>
+          <button type="button" class="nfx-preset" data-nfx-preset="arctic"><i class="nfx-swatch arctic"></i><b>ARCTIC SIGNAL</b><small>Glace · lumière froide</small></button>
+          <button type="button" class="nfx-preset" data-nfx-preset="obsidian"><i class="nfx-swatch obsidian"></i><b>OBSIDIAN</b><small>Graphite · or discret</small></button>
+        </div>
+      </div>
+      <div class="nfx-block">
+        <div class="nfx-block-head"><div><b>02 / COLOR LAB</b><small>Crée ta propre combinaison chromatique.</small></div><span>DUAL TONE</span></div>
+        <div class="nfx-colors">
+          <label><span>Couleur principale</span><input type="color" id="nfxAccent" value="#4ce6ff"></label>
+          <label><span>Couleur secondaire</span><input type="color" id="nfxAccent2" value="#8878ff"></label>
+          <label><span>Teinte atmosphérique</span><input type="color" id="nfxAtmosphereColor" value="#123d72"></label>
+        </div>
+        <div class="nfx-color-presets" id="nfxColorPresets">
+          <button type="button" data-nfx-colors="#4ce6ff,#8878ff,#123d72" title="Cyan / violet"></button>
+          <button type="button" data-nfx-colors="#9c83ff,#42dbc7,#18365c" title="Aurora"></button>
+          <button type="button" data-nfx-colors="#ffad59,#ff5d68,#462718" title="Reactor"></button>
+          <button type="button" data-nfx-colors="#f36bce,#8069ff,#35194b" title="Eclipse"></button>
+          <button type="button" data-nfx-colors="#c9e9ff,#718fff,#193f68" title="Arctic"></button>
+          <button type="button" data-nfx-colors="#e3c58a,#9d8b70,#302b25" title="Obsidian"></button>
+        </div>
+      </div>
+      <div class="nfx-block">
+        <div class="nfx-block-head"><div><b>03 / LIGHT ENGINE</b><small>Règle la puissance et la profondeur des effets.</small></div><span>REAL-TIME</span></div>
+        <div class="nfx-slider"><div><label for="nfxGlow">Puissance des halos</label><output id="nfxGlowValue">82%</output></div><input id="nfxGlow" type="range" min="0" max="100" value="82"><small>Contours, boutons actifs et reflets des panneaux</small></div>
+        <div class="nfx-slider"><div><label for="nfxAtmosphere">Intensité atmosphérique</label><output id="nfxAtmosphereValue">72%</output></div><input id="nfxAtmosphere" type="range" min="0" max="100" value="72"><small>Aurores, lumière d'arrière-plan et profondeur</small></div>
+        <div class="nfx-slider"><div><label for="nfxGlass">Profondeur du verre</label><output id="nfxGlassValue">22 px</output></div><input id="nfxGlass" type="range" min="0" max="32" value="22"><small>Flou et transparence des surfaces</small></div>
+        <div class="nfx-slider"><div><label for="nfxSpeed">Vitesse des animations</label><output id="nfxSpeedValue">55%</output></div><input id="nfxSpeed" type="range" min="0" max="100" value="55"><small>Flux, orbites, balayages et particules</small></div>
+        <div class="nfx-slider"><div><label for="nfxDensity">Densité des particules</label><output id="nfxDensityValue">36</output></div><input id="nfxDensity" type="range" min="0" max="64" value="36"><small>Le nombre de particules s'adapte à la puissance du téléphone</small></div>
+      </div>
+      <div class="nfx-block">
+        <div class="nfx-block-head"><div><b>04 / FX LAYER MIXER</b><small>Superpose les effets et choisis ceux qui restent visibles.</small></div><span>LAYERS</span></div>
+        <div class="nfx-layer"><div><b>Aurora field</b><small>Voiles lumineux mouvants en arrière-plan</small></div><label class="nfx-switch"><input type="checkbox" id="nfxAurora" checked><i></i></label></div>
+        <div class="nfx-layer"><div><b>Particle universe</b><small>Particules fines et points de lumière</small></div><label class="nfx-switch"><input type="checkbox" id="nfxParticles" checked><i></i></label></div>
+        <div class="nfx-layer"><div><b>Neon edge</b><small>Contours lumineux sur les panneaux et actions</small></div><label class="nfx-switch"><input type="checkbox" id="nfxEdges" checked><i></i></label></div>
+        <div class="nfx-layer"><div><b>Holographic scan</b><small>Balayage discret sur les surfaces</small></div><label class="nfx-switch"><input type="checkbox" id="nfxScan" checked><i></i></label></div>
+        <div class="nfx-layer"><div><b>Orbital radar</b><small>Anneaux et balayage dans l'aperçu</small></div><label class="nfx-switch"><input type="checkbox" id="nfxRadar" checked><i></i></label></div>
+        <div class="nfx-layer"><div><b>Glass surfaces</b><small>Verre dépoli et profondeur des cartes</small></div><label class="nfx-switch"><input type="checkbox" id="nfxGlassMode" checked><i></i></label></div>
+      </div>
+      <div class="nfx-block">
+        <div class="nfx-block-head"><div><b>05 / PERFORMANCE & FEEDBACK</b><small>Choisis le niveau d'effets adapté à ton appareil.</small></div><span>DEVICE</span></div>
+        <div class="nfx-select-row"><label for="nfxQuality">Qualité des effets</label><select id="nfxQuality"><option value="balanced">Équilibrée</option><option value="high">Ultra détaillée</option><option value="light">Économie d'énergie</option></select></div>
+        <div class="nfx-layer"><div><b>Retour haptique</b><small>Petite vibration lors des actions du studio, si prise en charge</small></div><label class="nfx-switch"><input type="checkbox" id="nfxHaptics" checked><i></i></label></div>
+        <div class="nfx-layer"><div><b>Micro-son d'interface</b><small>Son léger sur les interactions · désactivé par défaut</small></div><label class="nfx-switch"><input type="checkbox" id="nfxSound"><i></i></label></div>
+        <div class="nfx-layer"><div><b>Respecter les animations réduites</b><small>Désactive les mouvements si le système le demande</small></div><label class="nfx-switch"><input type="checkbox" id="nfxRespectMotion" checked><i></i></label></div>
+      </div>
+      <div class="nfx-block">
+        <div class="nfx-block-head"><div><b>06 / PROFILE VAULT</b><small>Sauvegarde plusieurs signatures et transporte-les.</small></div><span>LOCAL</span></div>
+        <div class="nfx-save-row"><input id="nfxProfileName" maxlength="32" placeholder="Nom de ton profil…"><button type="button" id="nfxSaveProfile">ENREGISTRER</button></div>
+        <div class="nfx-save-row"><select id="nfxSavedProfiles"><option value="">Profils enregistrés…</option></select><button type="button" id="nfxLoadProfile">CHARGER</button></div>
+        <div class="nfx-action-row"><button type="button" id="nfxExport">↧ EXPORTER</button><button type="button" id="nfxImportButton">↥ IMPORTER</button><input type="file" id="nfxImportFile" accept="application/json,.json" hidden><button type="button" id="nfxReset">RÉINITIALISER</button></div>
+        <div class="nfx-caption">Les profils et préférences sont conservés uniquement dans le stockage local de cet appareil.</div>
+      </div>
+    </div>
+    <aside class="nfx-preview-column">
+      <div class="nfx-preview-card">
+        <div class="nfx-preview-head"><div><b>LIVE INTERFACE</b><small>Simulation multi-composants</small></div><span><i></i> RENDER</span></div>
+        <div class="nfx-device" id="nfxDevicePreview">
+          <div class="nfx-device-top"><span>09:41 · NEXUS SECURE VIEW</span><span>◈ 5G ▰</span></div>
+          <div class="nfx-device-brand"><div>NEX<span>U</span>S</div><b>⌕</b></div>
+          <div class="nfx-device-date">DAILY INTELLIGENCE / 07:00</div>
+          <div class="nfx-hero-card"><div class="nfx-overline">◈ / GLOBAL BRIEFING</div><h3>Le monde, en perspective.</h3><p>Une vision claire des événements, des tendances et des sujets à suivre aujourd'hui.</p><div class="nfx-hero-foot"><span>PERSONAL INTELLIGENCE</span><b>OUVRIR ↗</b></div><div class="nfx-orbit-art"><i></i><i></i><b></b></div></div>
+          <div class="nfx-preview-metrics"><div><small>WORLD</small><b>08</b><em>signals</em></div><div><small>MARKETS</small><b>+1.24</b><em>index</em></div><div><small>SCIENCE</small><b>04</b><em>topics</em></div></div>
+          <div class="nfx-preview-label">À LA UNE <span>VOIR TOUT ↗</span></div>
+          <div class="nfx-preview-news"><i></i><div><b>Les grandes tendances internationales à suivre</b><small>MONDE · IL Y A 12 MIN</small></div></div>
+          <div class="nfx-preview-news"><i></i><div><b>Les nouvelles avancées scientifiques de la semaine</b><small>SCIENCES · IL Y A 28 MIN</small></div></div>
+          <div class="nfx-device-nav"><span class="active">⌂<small>HOME</small></span><span>▤<small>NEWS</small></span><span>◎<small>MAP</small></span><span>▣<small>FILES</small></span><span>⌘<small>TOOLS</small></span></div>
+        </div>
+        <div class="nfx-preview-foot"><span>ACTIVE SIGNATURE</span><b id="nfxActiveName">QUANTUM CORE</b></div>
+      </div>
+      <div class="nfx-mini-readout"><div><span>LIGHT OUTPUT</span><b id="nfxLightReadout">82%</b></div><div><span>ATMOSPHERE</span><b id="nfxAtmosReadout">72%</b></div><div><span>FX LAYERS</span><b id="nfxLayerReadout">06</b></div></div>
+      <div class="nfx-bottom-note"><span>✦</span><div><b>Une signature pour tout NEXUS.</b><small>Le rendu sélectionné habille aussi les cartes, les boutons, la navigation et les panneaux des autres pages.</small></div></div>
+    </aside>
+  </div>
 </section>
 
-<section class="page" id="situation">
-<h1>Global Situation.</h1><div class="subtitle">Cartographie des lieux mentionnés dans les publications NEXUS.</div>
-<div class="map-panel">
-<div class="map-header"><span>GLOBAL MONITOR / WORLD MAP</span><span class="live-indicator">● CARTOGRAPHIE ACTIVE</span></div>
-<div class="map-topline"><span>GLOBAL SITUATION MONITOR</span><span>LIVE DATA / NEXUS RSS</span></div>
-<div id="nexus-map"></div>
-<div class="map-controls"><button onclick="resetMapView()">◎ Vue mondiale</button><button onclick="refreshNews()">↻ Actualiser</button></div>
-<div class="map-legend"><span><i class="legend-dot"></i>Lieux repérés dans les articles</span></div>
-<div id="mapStatus" class="map-status">La carte sera chargée à l'ouverture.</div>
-<p class="map-note">Les marqueurs indiquent des lieux explicitement mentionnés dans les titres ou résumés. Ils ne prouvent pas qu'un événement s'y est produit. Coordonnées approximatives.</p>
-</div>
-<h2 class="section">RÉPARTITION GÉOGRAPHIQUE</h2><div class="grid regions" id="regionDashboard"><div class="empty">Analyse…</div></div>
-<div class="notice">Répartition indicative basée sur le texte des articles, pas sur une géolocalisation vérifiée.</div>
-</section>
-
-<section class="page" id="news">
-<h1>Actualités.</h1><div class="subtitle">Publications récupérées automatiquement depuis les flux RSS.</div>
-<h2 class="section">CATÉGORIES</h2>
-<div class="categories" id="categories">
-<button class="chip active" data-cat="Tous">Tout</button><button class="chip" data-cat="France">France</button><button class="chip" data-cat="Monde">Monde</button><button class="chip" data-cat="Technologie">Technologie</button><button class="chip" data-cat="Sciences">Sciences</button><button class="chip" data-cat="Économie">Économie</button><button class="chip" data-cat="Environnement">Environnement</button><button class="chip" data-cat="Défense">Défense</button><button class="chip" data-cat="Exploration">Exploration</button><button class="chip" data-cat="Autres">Autres</button>
-</div>
-<input id="search" placeholder="Rechercher un article ou un sujet…" autocomplete="off"><div id="newsArticles"><div class="empty">Chargement…</div></div>
-</section>
-
-<section class="page" id="top"><h1>Top Intelligence.</h1><div class="subtitle">Classement indicatif selon fraîcheur, catégorie et rapprochements trouvés.</div><div class="notice">Le score est un indicateur technique, pas une mesure de vérité ou d'importance objective.</div><div id="topArticles"></div></section>
-<section class="page" id="timeline"><h1>Global Timeline.</h1><div class="subtitle">Chronologie des publications disponibles, classées par date.</div><div id="fullTimeline"></div></section>
-<section class="page" id="sources">
-<h1>Source Monitor.</h1><div class="subtitle">État des flux et comparaison des couvertures similaires.</div>
-<div class="panel"><div class="label">SOURCE MONITOR</div><h3>Surveillance des médias.</h3><p>Les titres proches sont rapprochés automatiquement. Cela ne prouve ni l'indépendance des sources ni l'exactitude des informations.</p></div>
-<div class="info"><div class="label">ÉTAT DES FLUX</div><div id="feedStatus">En attente du premier chargement.</div></div>
-<h2 class="section">SUJETS COUVERTS PAR PLUSIEURS SOURCES</h2><div id="sourceGroups"></div>
-</section>
-<section class="page" id="analyst">
-<h1>NEXUS Analyst.</h1><div class="subtitle">Examiner les informations sans confondre faits, contexte et interprétation.</div>
-<div class="panel"><div class="label">NEXUS ANALYST DESK</div><h3>Examiner une publication.</h3><select id="analystSelect"><option value="">Sélectionner un article…</option></select></div>
-<div class="info"><div class="label">01 / INFORMATIONS DISPONIBLES</div><div id="analystFacts" class="module-sub">Sélectionne un article.</div></div>
-<div class="info"><div class="label">02 / CONTEXTE FOURNI</div><div id="analystContext" class="module-sub">Le résumé du flux RSS apparaîtra ici.</div></div>
-<div class="info"><div class="label">03 / ANALYSE ET LIMITES</div><div id="analystAnalysis" class="module-sub">NEXUS ne vérifie pas automatiquement les faits.</div></div>
-<div class="notice">Cet outil organise les informations disponibles. Il ne remplace pas une enquête journalistique.</div>
-</section>
-<section class="page" id="dossiers">
-<h1>Dossiers thématiques.</h1><div class="subtitle">Créer des dossiers personnels et y conserver des publications.</div>
-<div class="panel"><div class="label">PERSONAL INTELLIGENCE FILES</div><input id="dossierName" placeholder="Nom du nouveau dossier…"><button class="primary" onclick="createDossier()">+ Créer un dossier</button></div><div id="dossierList"></div>
-</section>
-<section class="page" id="science">
-<h1>Science & Space Monitor.</h1><div class="subtitle">Veille des publications scientifiques et spatiales présentes dans les flux.</div>
-<div class="notice">Cette rubrique filtre les articles existants. Elle ne crée pas de nouvelles sources RSS.</div>
-<div class="stats"><div class="stat"><strong id="scienceCount">0</strong><small>Articles scientifiques</small></div><div class="stat"><strong id="spaceCount">0</strong><small>Articles liés à l'espace</small></div></div>
-<h2 class="section">PUBLICATIONS SCIENTIFIQUES</h2><div id="scienceArticles"></div>
-</section>
-<section class="page" id="alerts">
-<h1>Alertes intelligentes.</h1><div class="subtitle">Surveiller des mots-clés et des catégories dans les publications chargées.</div>
-<div class="panel"><div class="label">KEYWORD MONITOR</div><h3>Mots-clés à surveiller</h3><p>Sépare les mots-clés par des virgules.</p><textarea id="alertKeywords" placeholder="Exemple : NASA, climat, technologie"></textarea><button class="primary" onclick="saveAlerts()">Enregistrer les mots-clés</button></div>
-<div class="info"><div class="label">CATÉGORIES SURVEILLÉES</div><div id="alertCategories" class="categories"></div><button class="small-btn" onclick="saveAlerts()">Enregistrer les catégories</button></div>
-<div class="notice">Les correspondances sont affichées ici dans NEXUS. Aucune notification système ou Push n’est envoyée.</div>
-<h2 class="section">DERNIÈRES CORRESPONDANCES</h2><div id="alertMatches"></div>
-</section>
-<section class="page" id="favorites"><h1>Favoris.</h1><div class="subtitle">Votre bibliothèque personnelle enregistrée sur cet appareil.</div><div id="favoriteArticles"></div></section>
-<section class="page" id="archive"><h1>Archives.</h1><div class="subtitle">Historique des articles récupérés par NEXUS.</div><div class="notice">Les archives sont stockées dans le navigateur de ce téléphone.</div><div id="archiveArticles"></div></section>
-
-<section class="page" id="tools">
-<h1>Centre des outils.</h1><div class="subtitle">Tous les modules NEXUS, accessibles directement sans menu imbriqué.</div>
-<div class="tools-grid">
-<button class="tool-card" onclick="showPage('top')"><span>◆</span><strong>Top Intelligence</strong><small>Publications classées</small></button>
-<button class="tool-card" onclick="showPage('timeline')"><span>◷</span><strong>Chronologie</strong><small>Suivre les événements</small></button>
-<button class="tool-card" onclick="showPage('sources')"><span>◉</span><strong>Sources</strong><small>Comparer les médias</small></button>
-<button class="tool-card" onclick="showPage('analyst')"><span>⌕</span><strong>Analyste</strong><small>Examiner un article</small></button>
-<button class="tool-card" onclick="showPage('science')"><span>✧</span><strong>Science & espace</strong><small>Veille scientifique</small></button>
-<button class="tool-card" onclick="showPage('alerts')"><span>⚑</span><strong>Alertes</strong><small>Mots-clés surveillés</small></button>
-<button class="tool-card" onclick="showPage('favorites')"><span>☆</span><strong>Favoris</strong><small>Publications enregistrées</small></button>
-<button class="tool-card" onclick="showPage('archive')"><span>▤</span><strong>Archives</strong><small>Historique local</small></button>
-<button class="tool-card" onclick="showPage('world')"><span>◎</span><strong>World Intel</strong><small>Fiches pays et radar mondial</small></button>
-<button class="tool-card" onclick="showPage('analysis')"><span>⌗</span><strong>Analysis Lab</strong><small>Comparaison et dossiers</small></button>
-<button class="tool-card" onclick="showPage('personal')"><span>▣</span><strong>Personal Desk</strong><small>Notes, tâches et journal</small></button>
-<button class="tool-card" onclick="showPage('settings')"><span>⚙</span><strong>Personnalisation</strong><small>Configurer NEXUS</small></button>
-</div></section>
-
-
-<section class="page" id="world">
-<h1>World Intelligence.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div>
-<div class="panel"><div class="label">GLOBAL RADAR</div><p>Le radar est calculé à partir des publications déjà chargées. Il indique une fréquence de mentions, pas un niveau de menace ou une validation indépendante.</p><div id="worldRadar"></div></div>
-<h2 class="section">FICHES PAYS</h2><input id="countrySearch" placeholder="Rechercher un pays…" autocomplete="off"><div id="countryCards" class="country-grid"></div>
-<div class="notice">Les fiches donnent des repères généraux. Les données politiques et économiques évoluent : vérifie les sources et dates avant de les utiliser dans un travail.</div>
-</section>
-<section class="page" id="analysis">
-<h1>Analysis Lab.</h1><div class="subtitle">Comparer les couvertures, construire des synthèses et organiser des analyses à partir des contenus disponibles.</div>
-<div class="info"><div class="label">COMPARATEUR DE PUBLICATIONS</div><select id="compareOne"><option value="">Choisir une première publication…</option></select><select id="compareTwo"><option value="">Choisir une seconde publication…</option></select><button class="primary" id="compareArticles">Comparer</button><div id="comparisonResult" class="source">Sélectionne deux publications pour examiner leurs différences.</div></div>
-<div class="info"><div class="label">BRIEFING DU JOUR</div><p>Généré localement à partir des titres et résumés RSS présents sur cet appareil. Ce n'est pas un résumé produit par une IA.</p><button class="small-btn" id="generateBriefing">Générer le briefing</button><div id="generatedBriefing"></div></div>
-<div class="info"><div class="label">MODE PRÉSENTATION</div><p>Masque les commandes et agrandit la zone de lecture pour présenter un dossier.</p><button class="small-btn" id="presentationMode">Activer / quitter le mode présentation</button></div>
-</section>
-<section class="page" id="personal">
-<h1>Personal Desk.</h1><div class="subtitle">Espace de travail local : notes, tâches, journal et événements personnels.</div>
-<div class="info"><div class="label">NOTES PERSONNELLES</div><textarea id="personalNote" placeholder="Tes notes, idées et observations…"></textarea><button class="primary" id="savePersonalNote">Enregistrer la note</button><div id="personalNotes"></div></div>
-<div class="info"><div class="label">GESTIONNAIRE DE TÂCHES</div><div class="toolbar"><input id="taskInput" placeholder="Nouvelle tâche…"><button class="primary" id="addTask">Ajouter</button></div><div id="taskList"></div></div>
-<div class="info"><div class="label">AGENDA PERSONNEL</div><div class="toolbar"><input id="eventTitle" placeholder="Événement"><input id="eventDate" type="datetime-local"><button class="small-btn" id="addEvent">Ajouter</button></div><div id="eventList"></div></div>
-<div class="info"><div class="label">JOURNAL DES DÉCOUVERTES</div><textarea id="journalInput" placeholder="Ce que tu as appris ou ce que tu veux retenir…"></textarea><button class="small-btn" id="saveJournal">Ajouter au journal</button><div id="journalList"></div></div>
-</section>
-<section class="page" id="settings">
-<h1>Paramètres.</h1><div class="subtitle">Configuration de votre centre NEXUS.</div>
-
-<div class="info appearance-panel">
-<div class="label">NEXUS / CUSTOMIZATION STUDIO</div>
-<div class="appearance-preview"><span class="preview-dot"></span><div><strong>Aperçu en direct</strong><small>Chaque modification est appliquée immédiatement et sauvegardée sur cet appareil.</small></div></div>
-<div class="studio-heading">PROFILS VISUELS</div>
-<div class="setting-row"><div><strong>Ambiance prédéfinie</strong><p>Appliquer une identité complète en un seul réglage.</p></div><select id="themeProfile"><option value="tactical">Tactical</option><option value="cyber">Cyber</option><option value="stealth">Stealth</option><option value="ghost">Ghost</option><option value="custom">Personnalisé</option></select></div>
-<div class="profile-grid">
-<button type="button" class="profile-card" data-profile="tactical"><i class="profile-dot tactical-dot"></i><b>TACTICAL</b><small>Bleu nuit · technique</small></button>
-<button type="button" class="profile-card" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>CYBER</b><small>Cyan · lumineux</small></button>
-<button type="button" class="profile-card" data-profile="stealth"><i class="profile-dot stealth-dot"></i><b>STEALTH</b><small>Noir · discret</small></button>
-<button type="button" class="profile-card" data-profile="ghost"><i class="profile-dot ghost-dot"></i><b>GHOST</b><small>Violet · spectral</small></button>
-</div>
-<div class="studio-heading">COULEURS ET AMBIANCE</div>
-<div class="setting-row"><div><strong>Palette de couleurs</strong><p>Couleur principale de l'interface.</p></div><select id="accentColor"><option value="blue">Bleu NEXUS</option><option value="cyan">Cyan électrique</option><option value="green">Vert tactique</option><option value="amber">Ambre radar</option><option value="violet">Violet spectral</option><option value="red">Rouge alerte</option><option value="custom">Personnalisée</option></select></div>
-<div class="setting-row"><div><strong>Couleur personnalisée</strong><p>Choisir librement une couleur d'accentuation.</p></div><input type="color" id="customAccent" value="#43d9ff" aria-label="Couleur personnalisée"></div>
-<div class="setting-row"><div><strong>Fond de l'interface</strong><p>Choisir la profondeur et la texture.</p></div><select id="backgroundStyle"><option value="deep">Bleu profond</option><option value="black">Noir absolu</option><option value="slate">Ardoise</option><option value="midnight">Nuit polaire</option></select></div>
-<div class="setting-row"><div><strong>Texture du fond</strong><p>Grille technique ou ambiance discrète.</p></div><select id="backgroundTexture"><option value="none">Aucune</option><option value="grid">Grille technique</option><option value="stars">Points lumineux</option><option value="scan">Lignes de balayage</option></select></div>
-<div class="studio-heading">MATIÈRE ET ÉCLAIRAGE</div>
-<div class="setting-row"><div><strong>Intensité lumineuse</strong><p>Force des halos et reflets.</p></div><input type="range" id="glowLevel" min="0" max="100" step="5" value="35"></div>
-<div class="setting-row"><div><strong>Transparence des panneaux</strong><p>Régler l'effet verre et la profondeur.</p></div><input type="range" id="panelOpacity" min="55" max="100" step="5" value="92"></div>
-<div class="setting-row"><div><strong>Arrondi des panneaux</strong><p>De très anguleux à très arrondis.</p></div><input type="range" id="cornerRadius" min="4" max="24" step="1" value="14"></div>
-<div class="setting-row"><div><strong>Style des panneaux</strong><p>Choisir le rendu des cartes.</p></div><select id="cardStyle"><option value="standard">Équilibré</option><option value="flat">Minimal</option><option value="round">Arrondi</option></select></div>
-<div class="setting-row"><div><strong>Effet verre dépoli</strong><p>Transparence et flou léger.</p></div><label class="switch"><input type="checkbox" id="glassMode"><span></span></label></div>
-<div class="setting-row"><div><strong>Halo lumineux</strong><p>Reflets autour des éléments actifs.</p></div><label class="switch"><input type="checkbox" id="glowMode"><span></span></label></div>
-<div class="setting-row"><div><strong>Fond atmosphérique</strong><p>Éclairage d'ambiance animé.</p></div><label class="switch"><input type="checkbox" id="ambientMode"><span></span></label></div>
-<div class="studio-heading">CONFORT ET AFFICHAGE</div>
-<div class="setting-row"><div><strong>Densité de l'interface</strong><p>Espacement des éléments.</p></div><select id="densityMode"><option value="normal">Confortable</option><option value="compact">Compact</option><option value="spacious">Aéré</option></select></div>
-<div class="setting-row"><div><strong>Taille du texte</strong><p>Ajuster la lisibilité générale.</p></div><div class="font-scale-control"><input type="range" id="fontScale" min="75" max="180" step="5" value="100"><output id="fontScaleValue">100 %</output></div></div>
-<div class="setting-row"><div><strong>Animations réduites</strong><p>Désactiver les mouvements décoratifs.</p></div><label class="switch"><input type="checkbox" id="reducedMotion"><span></span></label></div>
-<div class="studio-heading">SAUVEGARDE DU THÈME</div>
-<p class="source">Exportation et importation de tes préférences visuelles. Cela ne remplace pas une sauvegarde des articles, dossiers ou favoris.</p>
-<div class="actions"><button class="small-btn" id="exportTheme" type="button">↧ Exporter mon thème</button><button class="small-btn" id="importThemeButton" type="button">↥ Importer un thème</button><input type="file" id="importThemeFile" accept="application/json,.json" hidden></div>
-<button class="small-btn" id="resetAppearance" type="button">Réinitialiser l'apparence</button>
-</div>
-
-
-<div class="info nexus-fx-studio" id="nexusFxStudio">
- <div class="label">NEXUS / MOBILE FX STUDIO · V14</div>
- <div class="nexus-fx-overview">
-  <div class="nexus-fx-core" aria-hidden="true"><span></span></div>
-  <div class="nexus-fx-overview-copy"><strong>NEXUS CORE / HYBRID ENGINE</strong><p>Un moteur d'apparence adaptatif : lumière, profondeur, signaux cartographiques et retours tactiles, avec une intensité réglable.</p><small id="fxStatusLabel">HYBRID · INTENSITÉ ÉQUILIBRÉE</small></div>
- </div>
- <div class="studio-heading">PROFILS FX</div>
- <div class="profile-grid fx-profile-grid">
-  <button type="button" class="profile-card" data-fx-profile="hybrid"><i class="profile-dot fx-dot fx-hybrid-dot"></i><b>HYBRID</b><small>Signature NEXUS · équilibrée</small></button>
-  <button type="button" class="profile-card" data-fx-profile="command"><i class="profile-dot fx-dot fx-command-dot"></i><b>COMMAND</b><small>Terminal · précision</small></button>
-  <button type="button" class="profile-card" data-fx-profile="immersive"><i class="profile-dot fx-dot fx-immersive-dot"></i><b>IMMERSIVE</b><small>Ambiance renforcée</small></button>
-  <button type="button" class="profile-card" data-fx-profile="stealth"><i class="profile-dot fx-dot fx-stealth-dot"></i><b>STEALTH</b><small>Discret · basse intensité</small></button>
-  <button type="button" class="profile-card" data-fx-profile="arctic"><i class="profile-dot fx-dot fx-arctic-dot"></i><b>ARCTIC</b><small>Cyan froid · lumineux</small></button>
-  <button type="button" class="profile-card" data-fx-profile="aurora"><i class="profile-dot fx-dot fx-aurora-dot"></i><b>AURORA</b><small>Atmosphère · particules</small></button>
-  <button type="button" class="profile-card" data-fx-profile="obsidian"><i class="profile-dot fx-dot fx-obsidian-dot"></i><b>OBSIDIAN</b><small>Noir · contraste maîtrisé</small></button>
-  <button type="button" class="profile-card" data-fx-profile="focus"><i class="profile-dot fx-dot fx-focus-dot"></i><b>FOCUS</b><small>Lecture · distraction minimale</small></button>
- </div>
- <div class="studio-heading">STUDIO MOBILE</div>
- <div class="setting-row"><div><strong>Moteur FX</strong><p>Activer ou désactiver les effets additionnels.</p></div><label class="switch"><input type="checkbox" id="fxEnabled" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Mode d'affichage FX</strong><p>Standard, hybride ou immersif.</p></div><select id="fxMode"><option value="standard">Standard</option><option value="hybrid" selected>Hybrid</option><option value="immersive">Immersive</option></select></div>
- <div class="setting-row"><div><strong>Intensité générale</strong><p>Équilibre entre lisibilité et animation.</p></div><div class="fx-range"><input type="range" id="fxIntensity" min="0" max="100" step="5" value="50"><output id="fxIntensityOutput">50 · Équilibrée</output></div></div>
- <div class="setting-row"><div><strong>Puissance lumineuse</strong><p>Force des halos et des reflets.</p></div><div class="fx-range"><input type="range" id="fxLightIntensity" min="0" max="100" step="5" value="45"><output id="fxLightOutput">45 %</output></div></div>
- <div class="setting-row"><div><strong>Vitesse des animations</strong><p>Rythme des transitions et balayages.</p></div><select id="fxMotionSpeed"><option value="slow">Lente</option><option value="normal" selected>Normale</option><option value="fast">Rapide</option></select></div>
- <div class="studio-heading">LUMIÈRE ET MOUVEMENT</div>
- <div class="setting-row"><div><strong>CORE Pulse</strong><p>Respiration lumineuse du noyau NEXUS.</p></div><label class="switch"><input type="checkbox" id="fxCorePulse" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Flux lumineux</strong><p>Balayage discret de lumière sur l'arrière-plan.</p></div><label class="switch"><input type="checkbox" id="fxLightFlow" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Particules d'ambiance</strong><p>Micro-points animés, limités en intensité sur mobile.</p></div><label class="switch"><input type="checkbox" id="fxParticles" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Atmosphère dynamique</strong><p>Zones lumineuses très discrètes derrière l'interface.</p></div><label class="switch"><input type="checkbox" id="fxAtmosphere" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Profondeur interactive</strong><p>Réactions légères des cartes et panneaux.</p></div><label class="switch"><input type="checkbox" id="fxDepth" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Reflet de chargement</strong><p>Animation douce des zones d'attente.</p></div><label class="switch"><input type="checkbox" id="fxShimmer" checked><span></span></label></div>
- <div class="studio-heading">RADAR ET SIGNAUX DE POSITION</div>
- <div class="setting-row"><div><strong>Radar cartographique</strong><p>Balayage visuel léger sur la carte mondiale.</p></div><label class="switch"><input type="checkbox" id="fxRadarSweep" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Animation des lieux</strong><p>Pulsation des marqueurs présents sur la carte.</p></div><label class="switch"><input type="checkbox" id="fxLocationPulse" checked><span></span></label></div>
- <div class="studio-heading">RETOURS ET CONFORT</div>
- <div class="setting-row"><div><strong>Retour haptique</strong><p>Petite vibration lors des interactions, uniquement si l'appareil le prend en charge.</p></div><label class="switch"><input type="checkbox" id="fxHaptics" checked><span></span></label></div>
- <div class="setting-row"><div><strong>Son discret</strong><p>Retour sonore très léger au toucher. Désactivé par défaut.</p></div><label class="switch"><input type="checkbox" id="fxSound"><span></span></label></div>
- <div class="notice" id="fxSupportStatus">Haptique : vérification de la compatibilité de l'appareil… Les animations respectent le réglage « Animations réduites ».</div>
- <div class="actions"><button class="primary" id="fxSaveProfile" type="button">Enregistrer mon profil FX</button><button class="small-btn" id="fxReset" type="button">Réinitialiser FX</button></div>
- <p class="source">Les réglages FX sont conservés localement sur cet appareil. Ils ne modifient ni les données d'actualités, ni les favoris, ni les dossiers.</p>
-</div>
-
-<div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option><option>10</option><option>15</option><option>20</option></select></div>
-<div class="info"><div class="label">SOURCES</div><p>Les articles sont chargés depuis le fichier automatique news.json.</p></div>
-<div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div>
-<div class="info"><div class="label">SAUVEGARDE COMPLÈTE</div><p>Exporter ou restaurer les données personnelles locales de NEXUS (favoris, dossiers, alertes, notes, tâches et préférences).</p><div class="actions"><button class="small-btn" id="exportAllData">Exporter toutes mes données</button><button class="small-btn" id="importAllDataButton">Importer une sauvegarde</button><input type="file" id="importAllDataFile" accept="application/json,.json" hidden></div></div>
-<button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button>
-<div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 14 — Hybrid Intelligence System<br>Interface personnelle non commerciale.</p></div>
-</section>
-</main>
-<footer>NEXUS INTELLIGENCE / PERSONAL SYSTEM / V14 HYBRID</footer>
-<nav id="primaryNav" aria-label="Navigation principale"></nav>
+</main><footer>NEXUS INTELLIGENCE / HYBRID FX SYSTEM / V14</footer><nav id="primaryNav" aria-label="Navigation principale"></nav>
 
 <script>
 "use strict";
@@ -541,9 +376,9 @@ const FAV_KEY="nexusFavoritesV3";
 const DOSSIER_KEY="nexusDossiersV1";
 const ALERT_KEY="nexusAlertsV1";
 
-function readStorage(key,fallback){
-try{const v=localStorage.getItem(key);return v?JSON.parse(v):fallback}catch(e){return fallback}
-}
+
+function readStorage(key,fallback){try{const v=localStorage.getItem(key);return v?JSON.parse(v):fallback}catch(e){return fallback}}
+function writeStorage(key,value){try{localStorage.setItem(key,JSON.stringify(value));return true}catch(e){return false}}
 let articles=readStorage(CACHE_KEY,[]);
 let archive=readStorage("nexusArchiveV3",[]);
 let favorites=readStorage(FAV_KEY,[]);
@@ -937,8 +772,9 @@ const NEXUS_PAGES=[
  {id:"favorites",label:"Favoris",icon:"☆",desc:"Publications enregistrées"},
  {id:"archive",label:"Archives",icon:"▤",desc:"Historique local"},
  {id:"world",label:"World Intel",icon:"◎",desc:"Radar mondial et fiches pays"},
- {id:"analysis",label:"Analysis Lab",icon:"⌗",desc:"Comparaison, briefing et présentation"},
+ {id:"analysis",label:"Analysis Lab",icon:"⌗",desc:"Comparaison, briefing, suivi de sujets et tendances"},
  {id:"personal",label:"Personal Desk",icon:"▣",desc:"Notes, tâches, agenda et journal"},
+ {id:"fxstudio",label:"FX Studio",icon:"✧",desc:"Univers visuels, éclairage et effets personnalisés"},
  {id:"settings",label:"Réglages",icon:"⚙",desc:"Configuration et sauvegarde NEXUS"},
  {id:"tools",label:"Outils",icon:"⌘",desc:"Tous les modules NEXUS"}
 ];
@@ -1075,20 +911,37 @@ clearTimeout(searchTimer);searchTimer=setTimeout(renderNews,120);
 });
 document.getElementById("analystSelect").addEventListener("change",showAnalyst);
 document.getElementById("date").textContent=new Intl.DateTimeFormat("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"}).format(new Date()).toUpperCase();
+document.getElementById("time").value=localStorage.getItem("nexusTime")||"07:00";
+document.getElementById("time").addEventListener("change",e=>localStorage.setItem("nexusTime",e.target.value));
 document.getElementById("articleCount").value=localStorage.getItem("nexusCount")||"8";
 document.getElementById("articleCount").addEventListener("change",e=>{localStorage.setItem("nexusCount",e.target.value);if(currentPage==="news")renderNews()});
 
-/* SERVICE WORKER — CONSERVÉ POUR LA COMPATIBILITÉ PWA */
+/* SERVICE WORKER — CACHE ET MISE À JOUR */
 if("serviceWorker" in navigator){
-window.addEventListener("load",()=>{
-navigator.serviceWorker.register("./sw.js").then(async registration=>{
-console.log("NEXUS : service worker actif");
-try{
-const subscription=await registration.pushManager?.getSubscription();
-if(subscription)await subscription.unsubscribe();
-}catch(error){console.info("NEXUS : aucun ancien abonnement Push à désactiver.")}
-}).catch(e=>console.error("NEXUS :",e));
-});
+  window.addEventListener("load", async()=>{
+    try{
+      const reg=await navigator.serviceWorker.register("./sw.js?v=nexus-v14-refresh",{updateViaCache:"none"});
+      try{await reg.update()}catch(e){}
+      if(reg.waiting){reg.waiting.postMessage({type:"SKIP_WAITING"});}
+      reg.addEventListener("updatefound",()=>{
+        const worker=reg.installing;
+        if(!worker)return;
+        worker.addEventListener("statechange",()=>{
+          if(worker.state==="installed"&&navigator.serviceWorker.controller){
+            try{worker.postMessage({type:"SKIP_WAITING"})}catch(e){}
+          }
+        });
+      });
+      let reloaded=false;
+      navigator.serviceWorker.addEventListener("controllerchange",()=>{
+        if(reloaded)return;reloaded=true;
+        if(!sessionStorage.getItem("nexus_sw_v14_reload")){
+          sessionStorage.setItem("nexus_sw_v14_reload","1");location.reload();
+        }
+      });
+      console.log("NEXUS : Service Worker V14 vérifié");
+    }catch(e){console.error("NEXUS Service Worker :",e)}
+  });
 }
 
 /* NEXUS V10 — OUTILS TRANSVERSAUX */
@@ -1131,7 +984,7 @@ function applyThemeProfile(profile){
  saveNexusPreferences();
 }
 
-function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();}
+function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();if(typeof applyNexusFXTheme==="function")applyNexusFXTheme();}
 function showNexusToast(message){
  const toast=document.getElementById("nexusToast");if(!toast)return;
  toast.textContent=message;toast.classList.add("visible");
@@ -1172,14 +1025,14 @@ function initNexusV10(){
  document.getElementById("themeProfile").addEventListener("change",e=>applyThemeProfile(e.target.value));
  document.querySelectorAll("[data-profile]").forEach(b=>b.addEventListener("click",()=>applyThemeProfile(b.dataset.profile)));
  document.getElementById("resetAppearance").addEventListener("click",()=>{nexusPrefs={...DEFAULT_NEXUS_PREFS};saveNexusPreferences();showNexusToast("Apparence réinitialisée.")});
- document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs,fx:nexusFXPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
+ document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
  document.getElementById("importThemeButton").addEventListener("click",()=>document.getElementById("importThemeFile").click());
- document.getElementById("importThemeFile").addEventListener("change",async e=>{const file=e.target.files&&e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("Format invalide");nexusPrefs={...DEFAULT_NEXUS_PREFS,...data.preferences};if(data.fx&&typeof data.fx==="object")nexusFXPrefs={...DEFAULT_NEXUS_FX,...data.fx};saveNexusPreferences();saveNexusFXSettings(false);showNexusToast("Thème importé.")}catch(err){showNexusToast("Fichier de thème invalide.")}e.target.value=""});
+ document.getElementById("importThemeFile").addEventListener("change",async e=>{const file=e.target.files&&e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("Format invalide");nexusPrefs={...DEFAULT_NEXUS_PREFS,...data.preferences};saveNexusPreferences();showNexusToast("Thème importé.")}catch(err){showNexusToast("Fichier de thème invalide.")}e.target.value=""});
  document.addEventListener("keydown",e=>{const target=e.target;const typing=target&&(target.matches("input,textarea,select")||target.isContentEditable);if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==="k"){e.preventDefault();openGlobalSearch();return}if(e.key==="/"&&!typing){e.preventDefault();openGlobalSearch();return}});
 }
 
 
-/* NEXUS V13 ULTIMATE — nouveaux modules autonomes dans index.html */
+/* NEXUS V14 ULTIMATE — nouveaux modules autonomes dans index.html */
 const NEXUS_COUNTRIES=[
  {name:"France",region:"Europe",capital:"Paris",system:"République semi-présidentielle",focus:"Union européenne, diplomatie, industrie, énergie et défense."},
  {name:"États-Unis",region:"Amérique du Nord",capital:"Washington D.C.",system:"République fédérale présidentielle",focus:"Puissance économique et technologique, alliances, politique commerciale et sécurité internationale."},
@@ -1193,94 +1046,36 @@ const NEXUS_COUNTRIES=[
  {name:"Afrique du Sud",region:"Afrique",capital:"Pretoria (exécutif)",system:"République parlementaire",focus:"Économie régionale, minerais, énergie et diplomatie africaine."}
 ];
 const NEXUS_STORE={notes:"nexusV13Notes",tasks:"nexusV13Tasks",events:"nexusV13Events",journal:"nexusV13Journal"};
-function v13Read(key,fallback){try{const x=localStorage.getItem(key);return x?JSON.parse(x):fallback}catch(e){return fallback}}
-function v13Save(key,value){localStorage.setItem(key,JSON.stringify(value))}
-function v13Esc(s){return escapeHTML(s)}
 function v13Date(s){const d=new Date(s);return Number.isNaN(d.getTime())?"Date inconnue":d.toLocaleString("fr-FR")}
 function renderWorldIntel(){
- const radar=document.getElementById("worldRadar");if(radar){const counts={};articles.forEach(a=>{const c=a.category||"Autres";counts[c]=(counts[c]||0)+1});const rows=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);radar.innerHTML=rows.length?rows.map(([k,v])=>`<div class="radar-row"><span>${v13Esc(k)}</span><div class="bar"><span style="width:${Math.max(4,100*v/Math.max(...rows.map(x=>x[1])))}%"></span></div><small>${v} publication(s)</small></div>`).join(""):'<div class="empty">Aucune publication disponible pour alimenter le radar.</div>'}
- const input=document.getElementById("countrySearch"),q=normalized(input?.value||"");const target=document.getElementById("countryCards");if(target)target.innerHTML=NEXUS_COUNTRIES.filter(c=>normalized([c.name,c.region,c.capital,c.focus].join(" ")).includes(q)).map(c=>`<article class="country-card"><div class="label">${v13Esc(c.region)}</div><h3>${v13Esc(c.name)}</h3><p><b>Capitale :</b> ${v13Esc(c.capital)}</p><p><b>Institutions :</b> ${v13Esc(c.system)}</p><p>${v13Esc(c.focus)}</p></article>`).join("")||'<div class="empty">Aucun pays correspondant.</div>';
+ const radar=document.getElementById("worldRadar");if(radar){const counts={};articles.forEach(a=>{const c=a.category||"Autres";counts[c]=(counts[c]||0)+1});const rows=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);radar.innerHTML=rows.length?rows.map(([k,v])=>`<div class="radar-row"><span>${escapeHTML(k)}</span><div class="bar"><span style="width:${Math.max(4,100*v/Math.max(...rows.map(x=>x[1])))}%"></span></div><small>${v} publication(s)</small></div>`).join(""):'<div class="empty">Aucune publication disponible pour alimenter le radar.</div>'}
+ const input=document.getElementById("countrySearch"),q=normalized(input?.value||"");const target=document.getElementById("countryCards");if(target)target.innerHTML=NEXUS_COUNTRIES.filter(c=>normalized([c.name,c.region,c.capital,c.focus].join(" ")).includes(q)).map(c=>`<article class="country-card"><div class="label">${escapeHTML(c.region)}</div><h3>${escapeHTML(c.name)}</h3><p><b>Capitale :</b> ${escapeHTML(c.capital)}</p><p><b>Institutions :</b> ${escapeHTML(c.system)}</p><p>${escapeHTML(c.focus)}</p></article>`).join("")||'<div class="empty">Aucun pays correspondant.</div>';
 }
 async function fetchJSON(url){const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),9000);try{const r=await fetch(url,{signal:controller.signal,cache:"no-store"});if(!r.ok)throw Error("HTTP "+r.status);return await r.json()}finally{clearTimeout(timer)}}
-function populateComparators(){const opts=articles.map(a=>`<option value="${v13Esc(a.id)}">${v13Esc(a.title.slice(0,110))}</option>`).join("");["compareOne","compareTwo"].forEach(id=>{const el=document.getElementById(id);if(el&&el.options.length<=1)el.innerHTML='<option value="">Choisir une publication…</option>'+opts})}
-function renderPersonalDesk(){const notes=v13Read(NEXUS_STORE.notes,[]),tasks=v13Read(NEXUS_STORE.tasks,[]),events=v13Read(NEXUS_STORE.events,[]),journal=v13Read(NEXUS_STORE.journal,[]);const n=document.getElementById("personalNotes"),t=document.getElementById("taskList"),e=document.getElementById("eventList"),j=document.getElementById("journalList");if(n)n.innerHTML=notes.map((x,i)=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${v13Esc(x.text)}</p><button class="small-btn" data-delete-note="${i}">Supprimer</button></div>`).join("")||'<div class="empty">Aucune note enregistrée.</div>';if(t)t.innerHTML=tasks.map((x,i)=>`<div class="personal-entry task-entry"><label><input type="checkbox" data-task-check="${i}" ${x.done?"checked":""}> ${v13Esc(x.text)}</label><button class="small-btn" data-delete-task="${i}">×</button></div>`).join("")||'<div class="empty">Aucune tâche.</div>';if(e)e.innerHTML=events.sort((a,b)=>a.date.localeCompare(b.date)).map((x,i)=>`<div class="personal-entry"><b>${v13Esc(x.title)}</b><small>${v13Date(x.date)}</small><button class="small-btn" data-delete-event="${i}">Supprimer</button></div>`).join("")||'<div class="empty">Aucun événement personnel.</div>';if(j)j.innerHTML=journal.map(x=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${v13Esc(x.text)}</p></div>`).join("")||'<div class="empty">Ton journal est vide.</div>'}
+function populateComparators(){const opts=articles.map(a=>`<option value="${escapeHTML(a.id)}">${escapeHTML(a.title.slice(0,110))}</option>`).join("");["compareOne","compareTwo"].forEach(id=>{const el=document.getElementById(id);if(el&&el.options.length<=1)el.innerHTML='<option value="">Choisir une publication…</option>'+opts})}
+function renderPersonalDesk(){const notes=readStorage(NEXUS_STORE.notes,[]),tasks=readStorage(NEXUS_STORE.tasks,[]),events=readStorage(NEXUS_STORE.events,[]),journal=readStorage(NEXUS_STORE.journal,[]);const n=document.getElementById("personalNotes"),t=document.getElementById("taskList"),e=document.getElementById("eventList"),j=document.getElementById("journalList");if(n)n.innerHTML=notes.map((x,i)=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${escapeHTML(x.text)}</p><button class="small-btn" data-delete-note="${i}">Supprimer</button></div>`).join("")||'<div class="empty">Aucune note enregistrée.</div>';if(t)t.innerHTML=tasks.map((x,i)=>`<div class="personal-entry task-entry"><label><input type="checkbox" data-task-check="${i}" ${x.done?"checked":""}> ${escapeHTML(x.text)}</label><button class="small-btn" data-delete-task="${i}">×</button></div>`).join("")||'<div class="empty">Aucune tâche.</div>';if(e)e.innerHTML=events.sort((a,b)=>a.date.localeCompare(b.date)).map((x,i)=>`<div class="personal-entry"><b>${escapeHTML(x.title)}</b><small>${v13Date(x.date)}</small><button class="small-btn" data-delete-event="${i}">Supprimer</button></div>`).join("")||'<div class="empty">Aucun événement personnel.</div>';if(j)j.innerHTML=journal.map(x=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${escapeHTML(x.text)}</p></div>`).join("")||'<div class="empty">Ton journal est vide.</div>'}
 async function translateNexusArticle(button){const id=button.dataset.translateArticle,article=articles.find(a=>a.id===id)||archive.find(a=>a.id===id);const card=button.closest(".article"),out=card?.querySelector(".translation-output");if(!article||!out)return;if(!out.hidden){out.hidden=true;button.textContent="Afficher la traduction";return}button.disabled=true;button.textContent="Traduction…";out.hidden=false;out.textContent="Traduction en cours…";try{const text=(article.title+"\n\n"+(article.description||"")).slice(0,3800);const url="https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q="+encodeURIComponent(text);const data=await fetchJSON(url);const translated=(data?.[0]||[]).map(x=>x?.[0]||"").join("").trim();if(!translated)throw Error("Réponse vide");out.textContent=translated;out.hidden=false;button.textContent="Masquer la traduction"}catch(e){out.textContent="Traduction indisponible. Consulte l'article original : le service peut être inaccessible ou limiter les requêtes.";out.hidden=false;button.textContent="Réessayer la traduction"}finally{button.disabled=false}}
 function initNexusUltimate(){
  document.addEventListener("click",e=>{const b=e.target.closest("[data-translate-article]");if(b)translateNexusArticle(b)});
+ const TRACK_KEY="nexusEventTracksV14",KNOW_KEY="nexusKnowledgeV14";
+ const renderTracks=()=>{const el=document.getElementById("eventTrackList");if(!el)return;const list=(()=>{try{return JSON.parse(localStorage.getItem(TRACK_KEY)||"[]")}catch(_){return []}})();el.innerHTML=list.length?list.map((x,i)=>{const terms=x.toLowerCase().split(/[ ,;]+/).filter(Boolean),hits=articles.filter(a=>terms.some(t=>(a.title+" "+(a.description||"")).toLowerCase().includes(t)));return `<div class="personal-entry"><b>${escapeHTML(x)}</b><small>${hits.length} publication(s) correspondante(s)</small>${hits.slice(0,5).map(a=>`<p><a href="${escapeHTML(a.link||"#")}" target="_blank" rel="noopener">${escapeHTML(a.title)}</a><small>${escapeHTML(a.source||"")} · ${escapeHTML(a.date||"")}</small></p>`).join("")}<button class="small-btn" data-track-delete="${i}">Supprimer le suivi</button></div>`}).join(""):'<div class="empty">Aucun sujet suivi.</div>'};
+ const renderKnowledge=()=>{const el=document.getElementById("knowledgeList");if(!el)return;let list=[];try{list=JSON.parse(localStorage.getItem(KNOW_KEY)||"[]")}catch(_){}el.innerHTML=list.length?list.map((x,i)=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${escapeHTML(x.text)}</p><button class="small-btn" data-knowledge-delete="${i}">Supprimer</button></div>`).join(""):'<div class="empty">Aucune note enregistrée.</div>'};renderTracks();renderKnowledge();
+ document.getElementById("addEventTrack")?.addEventListener("click",()=>{const input=document.getElementById("eventTrackInput"),v=input.value.trim();if(!v)return;let list=[];try{list=JSON.parse(localStorage.getItem(TRACK_KEY)||"[]")}catch(_){}if(!list.includes(v))list.unshift(v);localStorage.setItem(TRACK_KEY,JSON.stringify(list.slice(0,40)));input.value="";renderTracks()});
+ document.getElementById("generatePulse")?.addEventListener("click",()=>{const out=document.getElementById("pulseResults");const counts={};articles.forEach(a=>{const k=a.category||"Autres";counts[k]=(counts[k]||0)+1});const rows=Object.entries(counts).sort((a,b)=>b[1]-a[1]);out.innerHTML=rows.length?rows.map(([k,n])=>`<div class="radar-row"><b>${escapeHTML(k)}</b><span>${n} publications</span><small>${articles.length?Math.round(n/articles.length*100):0}%</small></div>`).join("")+'<small class="source">Mesure de volume dans les publications chargées uniquement.</small>':'<div class="empty">Flux vide.</div>'});
+ document.getElementById("generateCrossSource")?.addEventListener("click",()=>{const out=document.getElementById("crossSourceResults"),groups={};articles.forEach(a=>{const toks=titleTokens(a.title).filter(t=>t.length>3);const key=toks.slice(0,3).sort().join(" ");if(key){(groups[key]||(groups[key]=[])).push(a)}});const rows=Object.values(groups).filter(g=>new Set(g.map(a=>a.source)).size>1).sort((a,b)=>b.length-a.length).slice(0,15);out.innerHTML=rows.length?rows.map(g=>`<div class="personal-entry"><b>${g.length} articles · ${new Set(g.map(a=>a.source)).size} sources</b>${g.slice(0,6).map(a=>`<p><a target="_blank" rel="noopener" href="${escapeHTML(a.link||"#")}">${escapeHTML(a.title)}</a><small>${escapeHTML(a.source||"")}</small></p>`).join("")}</div>`).join(""):'<div class="empty">Aucun rapprochement multi-source détecté pour le moment.</div>'});
+ document.getElementById("saveKnowledge")?.addEventListener("click",()=>{const el=document.getElementById("knowledgeInput"),v=el.value.trim();if(!v)return;let list=[];try{list=JSON.parse(localStorage.getItem(KNOW_KEY)||"[]")}catch(_){}list.unshift({text:v,date:new Date().toISOString()});localStorage.setItem(KNOW_KEY,JSON.stringify(list.slice(0,300)));el.value="";renderKnowledge()});
+ document.addEventListener("click",e=>{const t=e.target.closest("[data-track-delete]");if(t){let a=JSON.parse(localStorage.getItem(TRACK_KEY)||"[]");a.splice(Number(t.dataset.trackDelete),1);localStorage.setItem(TRACK_KEY,JSON.stringify(a));renderTracks()}const k=e.target.closest("[data-knowledge-delete]");if(k){let a=JSON.parse(localStorage.getItem(KNOW_KEY)||"[]");a.splice(Number(k.dataset.knowledgeDelete),1);localStorage.setItem(KNOW_KEY,JSON.stringify(a));renderKnowledge()}});
  document.getElementById("countrySearch")?.addEventListener("input",renderWorldIntel);
- document.getElementById("compareArticles")?.addEventListener("click",()=>{const a=articles.find(x=>x.id===document.getElementById("compareOne").value),b=articles.find(x=>x.id===document.getElementById("compareTwo").value),out=document.getElementById("comparisonResult");if(!a||!b||a.id===b.id){out.textContent="Choisis deux publications différentes.";return}const overlap=[...new Set(titleTokens(a.title).filter(t=>titleTokens(b.title).includes(t)))];out.innerHTML=`<div class="compare-columns"><div><b>${v13Esc(a.source)}</b><h3>${v13Esc(a.title)}</h3><p>${v13Esc(a.description||"Résumé absent.")}</p><small>${v13Esc(a.date||"Date inconnue")}</small></div><div><b>${v13Esc(b.source)}</b><h3>${v13Esc(b.title)}</h3><p>${v13Esc(b.description||"Résumé absent.")}</p><small>${v13Esc(b.date||"Date inconnue")}</small></div></div><p><b>Termes communs :</b> ${v13Esc(overlap.join(", ")||"Aucun terme significatif commun")}</p><p class="source">Comparaison textuelle automatique ; ne démontre pas que les sources sont indépendantes ni que les informations sont exactes.</p>`});
- document.getElementById("generateBriefing")?.addEventListener("click",()=>{const target=document.getElementById("generatedBriefing"),top=articles.slice().sort((a,b)=>articleScore(b)-articleScore(a)).slice(0,7);target.innerHTML=top.length?'<ol>'+top.map(a=>`<li class="brief-item"><b>${v13Esc(a.title)}</b><p>${v13Esc(a.description||"Résumé non fourni.")}</p><small>${v13Esc(a.source)} · ${v13Esc(a.category)} · ${v13Esc(a.date||"Date inconnue")}</small></li>`).join("")+'</ol><p class="source">Sélection calculée à partir des publications chargées dans NEXUS. Vérifie les articles originaux.</p>':'<div class="empty">Aucune actualité disponible.</div>'});
+ document.getElementById("compareArticles")?.addEventListener("click",()=>{const a=articles.find(x=>x.id===document.getElementById("compareOne").value),b=articles.find(x=>x.id===document.getElementById("compareTwo").value),out=document.getElementById("comparisonResult");if(!a||!b||a.id===b.id){out.textContent="Choisis deux publications différentes.";return}const overlap=[...new Set(titleTokens(a.title).filter(t=>titleTokens(b.title).includes(t)))];out.innerHTML=`<div class="compare-columns"><div><b>${escapeHTML(a.source)}</b><h3>${escapeHTML(a.title)}</h3><p>${escapeHTML(a.description||"Résumé absent.")}</p><small>${escapeHTML(a.date||"Date inconnue")}</small></div><div><b>${escapeHTML(b.source)}</b><h3>${escapeHTML(b.title)}</h3><p>${escapeHTML(b.description||"Résumé absent.")}</p><small>${escapeHTML(b.date||"Date inconnue")}</small></div></div><p><b>Termes communs :</b> ${escapeHTML(overlap.join(", ")||"Aucun terme significatif commun")}</p><p class="source">Comparaison textuelle automatique ; ne démontre pas que les sources sont indépendantes ni que les informations sont exactes.</p>`});
+ document.getElementById("generateBriefing")?.addEventListener("click",()=>{const target=document.getElementById("generatedBriefing"),top=articles.slice().sort((a,b)=>articleScore(b)-articleScore(a)).slice(0,7);target.innerHTML=top.length?'<ol>'+top.map(a=>`<li class="brief-item"><b>${escapeHTML(a.title)}</b><p>${escapeHTML(a.description||"Résumé non fourni.")}</p><small>${escapeHTML(a.source)} · ${escapeHTML(a.category)} · ${escapeHTML(a.date||"Date inconnue")}</small></li>`).join("")+'</ol><p class="source">Sélection calculée à partir des publications chargées dans NEXUS. Vérifie les articles originaux.</p>':'<div class="empty">Aucune actualité disponible.</div>'});
  document.getElementById("presentationMode")?.addEventListener("click",()=>{document.body.classList.toggle("presentation-mode");showNexusToast(document.body.classList.contains("presentation-mode")?"Mode présentation activé":"Mode présentation désactivé")});
- document.getElementById("savePersonalNote")?.addEventListener("click",()=>{const el=document.getElementById("personalNote"),text=el.value.trim();if(!text)return;const a=v13Read(NEXUS_STORE.notes,[]);a.unshift({text,date:new Date().toISOString()});v13Save(NEXUS_STORE.notes,a.slice(0,100));el.value="";renderPersonalDesk()});
- document.getElementById("addTask")?.addEventListener("click",()=>{const el=document.getElementById("taskInput"),text=el.value.trim();if(!text)return;const a=v13Read(NEXUS_STORE.tasks,[]);a.push({text,done:false});v13Save(NEXUS_STORE.tasks,a);el.value="";renderPersonalDesk()});
- document.getElementById("addEvent")?.addEventListener("click",()=>{const title=document.getElementById("eventTitle").value.trim(),date=document.getElementById("eventDate").value;if(!title||!date)return;const a=v13Read(NEXUS_STORE.events,[]);a.push({title,date});v13Save(NEXUS_STORE.events,a);document.getElementById("eventTitle").value="";renderPersonalDesk()});
- document.getElementById("saveJournal")?.addEventListener("click",()=>{const el=document.getElementById("journalInput"),text=el.value.trim();if(!text)return;const a=v13Read(NEXUS_STORE.journal,[]);a.unshift({text,date:new Date().toISOString()});v13Save(NEXUS_STORE.journal,a.slice(0,200));el.value="";renderPersonalDesk()});
- document.addEventListener("click",e=>{const del=(attr,key)=>{const b=e.target.closest("["+attr+"]");if(b){const a=v13Read(key,[]);a.splice(Number(b.getAttribute(attr)),1);v13Save(key,a);renderPersonalDesk()}};del("data-delete-note",NEXUS_STORE.notes);del("data-delete-task",NEXUS_STORE.tasks);del("data-delete-event",NEXUS_STORE.events);const check=e.target.closest("[data-task-check]");if(check){const a=v13Read(NEXUS_STORE.tasks,[]);a[Number(check.dataset.taskCheck)].done=check.checked;v13Save(NEXUS_STORE.tasks,a)}});
- document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,NEXUS_FX_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),data:Object.fromEntries(keys.map(k=>[k,localStorage.getItem(k)]))};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="nexus-ultimate-backup.json";a.click();URL.revokeObjectURL(url)});
+ document.getElementById("savePersonalNote")?.addEventListener("click",()=>{const el=document.getElementById("personalNote"),text=el.value.trim();if(!text)return;const a=readStorage(NEXUS_STORE.notes,[]);a.unshift({text,date:new Date().toISOString()});writeStorage(NEXUS_STORE.notes,a.slice(0,100));el.value="";renderPersonalDesk()});
+ document.getElementById("addTask")?.addEventListener("click",()=>{const el=document.getElementById("taskInput"),text=el.value.trim();if(!text)return;const a=readStorage(NEXUS_STORE.tasks,[]);a.push({text,done:false});writeStorage(NEXUS_STORE.tasks,a);el.value="";renderPersonalDesk()});
+ document.getElementById("addEvent")?.addEventListener("click",()=>{const title=document.getElementById("eventTitle").value.trim(),date=document.getElementById("eventDate").value;if(!title||!date)return;const a=readStorage(NEXUS_STORE.events,[]);a.push({title,date});writeStorage(NEXUS_STORE.events,a);document.getElementById("eventTitle").value="";renderPersonalDesk()});
+ document.getElementById("saveJournal")?.addEventListener("click",()=>{const el=document.getElementById("journalInput"),text=el.value.trim();if(!text)return;const a=readStorage(NEXUS_STORE.journal,[]);a.unshift({text,date:new Date().toISOString()});writeStorage(NEXUS_STORE.journal,a.slice(0,200));el.value="";renderPersonalDesk()});
+ document.addEventListener("click",e=>{const del=(attr,key)=>{const b=e.target.closest("["+attr+"]");if(b){const a=readStorage(key,[]);a.splice(Number(b.getAttribute(attr)),1);writeStorage(key,a);renderPersonalDesk()}};del("data-delete-note",NEXUS_STORE.notes);del("data-delete-task",NEXUS_STORE.tasks);del("data-delete-event",NEXUS_STORE.events);const check=e.target.closest("[data-task-check]");if(check){const a=readStorage(NEXUS_STORE.tasks,[]);a[Number(check.dataset.taskCheck)].done=check.checked;writeStorage(NEXUS_STORE.tasks,a)}});
+ document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),data:Object.fromEntries(keys.map(k=>[k,localStorage.getItem(k)]))};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="nexus-ultimate-backup.json";a.click();URL.revokeObjectURL(url)});
  document.getElementById("importAllDataButton")?.addEventListener("click",()=>document.getElementById("importAllDataFile").click());document.getElementById("importAllDataFile")?.addEventListener("change",async e=>{const f=e.target.files?.[0];if(!f)return;try{const d=JSON.parse(await f.text());if(d.app!=="NEXUS Intelligence"||!d.data)throw Error("Format invalide");Object.entries(d.data).forEach(([k,v])=>{if(k.startsWith("nexus")||k===FAV_KEY||k===DOSSIER_KEY||k===ALERT_KEY)localStorage.setItem(k,v)});location.reload()}catch(err){showNexusToast("Sauvegarde invalide ou incompatible.")}e.target.value=""});
-}
-
-
-/* NEXUS V14 — FX STUDIO / PREFS LOCALES */
-const NEXUS_FX_KEY="nexusFXStudioV14";
-const DEFAULT_NEXUS_FX={enabled:true,profile:"hybrid",mode:"hybrid",intensity:50,lightIntensity:45,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false};
-let nexusFXPrefs={...DEFAULT_NEXUS_FX,...readStorage(NEXUS_FX_KEY,{})};
-const NEXUS_FX_PRESETS={
- hybrid:{profile:"hybrid",mode:"hybrid",enabled:true,intensity:50,lightIntensity:45,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
- command:{profile:"command",mode:"hybrid",enabled:true,intensity:42,lightIntensity:38,speed:"slow",corePulse:true,lightFlow:false,particles:false,atmosphere:true,depth:true,shimmer:false,radarSweep:true,locationPulse:true,haptics:true,sound:false},
- immersive:{profile:"immersive",mode:"immersive",enabled:true,intensity:82,lightIntensity:78,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
- stealth:{profile:"stealth",mode:"standard",enabled:true,intensity:16,lightIntensity:12,speed:"slow",corePulse:false,lightFlow:false,particles:false,atmosphere:false,depth:false,shimmer:false,radarSweep:false,locationPulse:true,haptics:true,sound:false},
- arctic:{profile:"arctic",mode:"hybrid",enabled:true,intensity:48,lightIntensity:64,speed:"slow",corePulse:true,lightFlow:true,particles:false,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
- aurora:{profile:"aurora",mode:"immersive",enabled:true,intensity:68,lightIntensity:66,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
- obsidian:{profile:"obsidian",mode:"standard",enabled:true,intensity:28,lightIntensity:20,speed:"slow",corePulse:false,lightFlow:false,particles:false,atmosphere:false,depth:true,shimmer:false,radarSweep:false,locationPulse:true,haptics:true,sound:false},
- focus:{profile:"focus",mode:"standard",enabled:true,intensity:8,lightIntensity:8,speed:"slow",corePulse:false,lightFlow:false,particles:false,atmosphere:false,depth:false,shimmer:false,radarSweep:false,locationPulse:false,haptics:false,sound:false}
-};
-function nexusFXReducedMotion(){return !!nexusPrefs.reducedMotion||(window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches)}
-function nexusFXIntensityName(value){const n=Number(value)||0;return n<30?"DISCRÈTE":n<68?"ÉQUILIBRÉE":"IMMERSIVE"}
-function applyNexusFXSettings(){
- const p=nexusFXPrefs,enabled=p.enabled!==false,reduced=nexusFXReducedMotion();
- const cls={"nexus-fx-enabled":enabled,"nexus-fx-core-pulse":enabled&&p.corePulse,"nexus-fx-light-flow":enabled&&p.lightFlow&&!reduced,"nexus-fx-particles":enabled&&p.particles&&!reduced,"nexus-fx-atmosphere":enabled&&p.atmosphere&&!reduced,"nexus-fx-depth":enabled&&p.depth,"nexus-fx-shimmer":enabled&&p.shimmer&&!reduced,"nexus-fx-radar":enabled&&p.radarSweep&&!reduced,"nexus-fx-locations":enabled&&p.locationPulse&&!reduced};
- Object.entries(cls).forEach(([name,on])=>document.body.classList.toggle(name,!!on));
- document.documentElement.style.setProperty("--nexus-fx-intensity",String(Math.max(0,Math.min(100,Number(p.intensity)||0))/100));
- document.documentElement.style.setProperty("--nexus-fx-light",String(Math.max(0,Math.min(100,Number(p.lightIntensity)||0))/100));
- document.documentElement.style.setProperty("--nexus-fx-speed",({slow:"34s",normal:"22s",fast:"13s"})[p.speed]||"22s");
- document.body.dataset.fxMode=p.mode||"hybrid";
- const set=(id,value)=>{const el=document.getElementById(id);if(!el)return;if(el.type==="checkbox")el.checked=!!value;else el.value=value};
- set("fxEnabled",enabled);set("fxMode",p.mode||"hybrid");set("fxIntensity",p.intensity);set("fxLightIntensity",p.lightIntensity);set("fxMotionSpeed",p.speed||"normal");
- set("fxCorePulse",p.corePulse);set("fxLightFlow",p.lightFlow);set("fxParticles",p.particles);set("fxAtmosphere",p.atmosphere);set("fxDepth",p.depth);set("fxShimmer",p.shimmer);set("fxRadarSweep",p.radarSweep);set("fxLocationPulse",p.locationPulse);set("fxHaptics",p.haptics);set("fxSound",p.sound);
- const intensity=document.getElementById("fxIntensityOutput"),light=document.getElementById("fxLightOutput"),status=document.getElementById("fxStatusLabel"),support=document.getElementById("fxSupportStatus");
- if(intensity)intensity.textContent=Number(p.intensity)+" · "+nexusFXIntensityName(p.intensity).toLowerCase();
- if(light)light.textContent=Number(p.lightIntensity)+" %";
- if(status)status.textContent=(p.profile||"custom").toUpperCase()+" · "+nexusFXIntensityName(p.intensity);
- if(support){const haptic="vibrate" in navigator?"Haptique : disponible sur cet appareil.":"Haptique : non pris en charge par ce navigateur ; le réglage sera conservé.";support.textContent=haptic+(reduced?" Animations réduites détectées : les effets animés sont suspendus.":" Les préférences respectent le réglage « Animations réduites ».")}
- document.querySelectorAll("[data-fx-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.fxProfile===p.profile));
-}
-function saveNexusFXSettings(showMessage=true){localStorage.setItem(NEXUS_FX_KEY,JSON.stringify(nexusFXPrefs));applyNexusFXSettings();if(showMessage)showNexusToast("Réglages FX enregistrés sur cet appareil.")}
-function applyNexusFXProfile(name){const preset=NEXUS_FX_PRESETS[name];if(!preset)return;nexusFXPrefs={...DEFAULT_NEXUS_FX,...preset};saveNexusFXSettings(true)}
-let nexusFXAudioContext=null;
-function playNexusFXTick(){
- try{
-  const AudioCtx=window.AudioContext||window.webkitAudioContext;if(!AudioCtx)return;
-  if(!nexusFXAudioContext)nexusFXAudioContext=new AudioCtx();
-  if(nexusFXAudioContext.state==="suspended")nexusFXAudioContext.resume();
-  const osc=nexusFXAudioContext.createOscillator(),gain=nexusFXAudioContext.createGain();
-  osc.type="sine";osc.frequency.value=720;gain.gain.setValueAtTime(.012,nexusFXAudioContext.currentTime);gain.gain.exponentialRampToValueAtTime(.0001,nexusFXAudioContext.currentTime+.045);
-  osc.connect(gain);gain.connect(nexusFXAudioContext.destination);osc.start();osc.stop(nexusFXAudioContext.currentTime+.05);
- }catch(e){/* Son facultatif : aucune action si le navigateur le bloque. */}
-}
-function initNexusFXV14(){
- applyNexusFXSettings();
- document.querySelectorAll("[data-fx-profile]").forEach(b=>b.addEventListener("click",()=>applyNexusFXProfile(b.dataset.fxProfile)));
- const fields={fxEnabled:"enabled",fxIntensity:"intensity",fxLightIntensity:"lightIntensity",fxMotionSpeed:"speed",fxCorePulse:"corePulse",fxLightFlow:"lightFlow",fxParticles:"particles",fxAtmosphere:"atmosphere",fxDepth:"depth",fxShimmer:"shimmer",fxRadarSweep:"radarSweep",fxLocationPulse:"locationPulse",fxHaptics:"haptics",fxSound:"sound"};
- Object.entries(fields).forEach(([id,key])=>{const el=document.getElementById(id);if(!el)return;const update=()=>{nexusFXPrefs[key]=el.type==="checkbox"?el.checked:(el.type==="range"?Number(el.value):el.value);nexusFXPrefs.profile="custom";saveNexusFXSettings(false)};el.addEventListener("input",update);el.addEventListener("change",update)});
- document.getElementById("fxSaveProfile")?.addEventListener("click",()=>{nexusFXPrefs.profile="custom";saveNexusFXSettings(false);showNexusToast("Profil FX personnel enregistré.")});
- document.getElementById("fxReset")?.addEventListener("click",()=>{nexusFXPrefs={...DEFAULT_NEXUS_FX};saveNexusFXSettings(false);showNexusToast("Configuration FX Hybrid réinitialisée.")});
- document.addEventListener("click",event=>{
-  const control=event.target.closest("button,[role=button],a");if(!control||!nexusFXPrefs.enabled)return;
-  if(nexusFXPrefs.haptics&&typeof navigator.vibrate==="function")navigator.vibrate(10);
-  if(nexusFXPrefs.sound)playNexusFXTick();
- },{passive:true});
- if(window.matchMedia){const media=window.matchMedia("(prefers-reduced-motion: reduce)");media.addEventListener?.("change",applyNexusFXSettings)}
 }
 
 /* INITIALISATION */
@@ -1290,16 +1085,121 @@ if(!archive.length){archive=articles;localStorage.setItem("nexusArchiveV3",JSON.
 document.getElementById("lastUpdate").textContent=stamp?"Dernière mise à jour : "+new Date(stamp).toLocaleString("fr-FR")+" (cache)":"Articles précédemment chargés.";
 document.getElementById("systemState").textContent="● CACHE LOCAL";
 }
+
+/* NEXUS HYBRID FX ENGINE — complete app-wide personalization */
+const NEXUS_FX_KEY="nexusHybridFXPrefsV2";
+const NEXUS_FX_PROFILES_KEY="nexusHybridFXProfilesV2";
+const NEXUS_FX_DEFAULTS={preset:"quantum",accent:"#4ce6ff",accent2:"#8878ff",atmo:"#123d72",glow:82,atmosphere:72,glass:22,speed:55,density:36,aurora:true,particles:true,edges:true,scan:true,radar:true,glassMode:true,quality:"balanced",haptics:true,sound:false,respectMotion:true};
+const NEXUS_FX_PRESETS={
+ quantum:{name:"QUANTUM CORE",accent:"#4ce6ff",accent2:"#8878ff",atmo:"#123d72"},
+ aurora:{name:"AURORA FLOW",accent:"#9c83ff",accent2:"#42dbc7",atmo:"#18365c"},
+ reactor:{name:"REACTOR X",accent:"#ffad59",accent2:"#ff5d68",atmo:"#462718"},
+ eclipse:{name:"ECLIPSE NOIR",accent:"#f36bce",accent2:"#8069ff",atmo:"#35194b"},
+ arctic:{name:"ARCTIC SIGNAL",accent:"#bde8ff",accent2:"#718fff",atmo:"#193f68"},
+ obsidian:{name:"OBSIDIAN",accent:"#d8b77a",accent2:"#9d8b70",atmo:"#302b25"}
+};
+let nexusFxPrefs={...NEXUS_FX_DEFAULTS,...readStorage(NEXUS_FX_KEY,{})};
+let nexusFxCanvas=null,nexusFxCtx=null,nexusFxFrame=0,nexusFxLastFrame=0,nexusFxParticles=[];
+function nfxSafeColor(value,fallback){return /^#[0-9a-f]{6}$/i.test(String(value||""))?value:fallback}
+function nfxMotionAllowed(){return !(nexusFxPrefs.respectMotion&&window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches)&&!nexusPrefs?.reducedMotion}
+function applyNexusFXTheme(){
+ const root=document.documentElement,body=document.body,p=nexusFxPrefs;
+ const accent=nfxSafeColor(p.accent,NEXUS_FX_DEFAULTS.accent),accent2=nfxSafeColor(p.accent2,NEXUS_FX_DEFAULTS.accent2),atmo=nfxSafeColor(p.atmo,NEXUS_FX_DEFAULTS.atmo);
+ root.style.setProperty("--nfx-accent",accent);root.style.setProperty("--nfx-secondary",accent2);root.style.setProperty("--nfx-atmo",atmo);
+ root.style.setProperty("--blue",accent);root.style.setProperty("--accent",accent);root.style.setProperty("--nfx-glow",Math.max(0,Math.min(100,Number(p.glow)||0))/100);
+ root.style.setProperty("--nfx-atmo-power",Math.max(0,Math.min(100,Number(p.atmosphere)||0))/100);
+ root.style.setProperty("--nfx-speed",Math.max(.2,Number(p.speed||0)/55));root.style.setProperty("--nfx-glass",Math.max(0,Math.min(32,Number(p.glass)||0))+"px");
+ root.style.setProperty("--nfx-scan-opacity",p.scan?".48":"0");
+ body.classList.add("nfx-live");body.classList.toggle("nfx-aurora",!!p.aurora&&nfxMotionAllowed());body.classList.toggle("nfx-edges",!!p.edges);body.classList.toggle("nfx-scan",!!p.scan&&nfxMotionAllowed());body.classList.toggle("nfx-glass",!!p.glassMode);body.classList.toggle("nfx-particles",!!p.particles&&Number(p.density)>0&&nfxMotionAllowed());
+ const label=document.getElementById("nfxActiveName");if(label)label.textContent=(NEXUS_FX_PRESETS[p.preset]?.name)||"SIGNATURE PERSONNALISÉE";
+ const g=document.getElementById("nfxGlowValue"),a=document.getElementById("nfxAtmosphereValue"),v=document.getElementById("nfxGlassValue"),sp=document.getElementById("nfxSpeedValue"),de=document.getElementById("nfxDensityValue");
+ if(g)g.textContent=p.glow+"%";if(a)a.textContent=p.atmosphere+"%";if(v)v.textContent=p.glass+" px";if(sp)sp.textContent=p.speed+"%";if(de)de.textContent=p.density;
+ const l=document.getElementById("nfxLightReadout"),ar=document.getElementById("nfxAtmosReadout"),lr=document.getElementById("nfxLayerReadout");
+ if(l)l.textContent=p.glow+"%";if(ar)ar.textContent=p.atmosphere+"%";if(lr)lr.textContent=[p.aurora,p.particles,p.edges,p.scan,p.radar,p.glassMode].filter(Boolean).length.toString().padStart(2,"0");
+ document.querySelectorAll("[data-nfx-preset]").forEach(b=>b.classList.toggle("active",b.dataset.nfxPreset===p.preset));
+ const preview=document.getElementById("nfxDevicePreview");if(preview)preview.classList.toggle("nfx-no-radar",!p.radar);
+ if(nexusFxCanvas&&nexusFxParticles.length!==Math.max(0,Math.min(64,Number(p.density)||0)))nfxResizeCanvas();
+ if(nfxMotionAllowed()&&(p.aurora||(p.particles&&Number(p.density)>0)))nfxStartCanvas();else cancelAnimationFrame(nexusFxFrame);
+}
+function saveNexusFX(){try{localStorage.setItem(NEXUS_FX_KEY,JSON.stringify(nexusFxPrefs));return true}catch(e){return false}}
+function nfxHaptic(){if(nexusFxPrefs.haptics&&navigator.vibrate){try{navigator.vibrate(9)}catch(e){}}}
+function nfxSound(){if(!nexusFxPrefs.sound)return;try{const C=window.AudioContext||window.webkitAudioContext;if(!C)return;const c=new C(),o=c.createOscillator(),g=c.createGain();o.type="sine";o.frequency.value=740;g.gain.setValueAtTime(.025,c.currentTime);g.gain.exponentialRampToValueAtTime(.0001,c.currentTime+.075);o.connect(g);g.connect(c.destination);o.start();o.stop(c.currentTime+.08);o.onended=()=>c.close()}catch(e){}}
+function nfxFeedback(){nfxHaptic();nfxSound()}
+function nfxSetPreset(name){const t=NEXUS_FX_PRESETS[name];if(!t)return;nexusFxPrefs={...nexusFxPrefs,...t,preset:name};applyNexusFXTheme();saveNexusFX()}
+function nfxSetRange(key,value){nexusFxPrefs[key]=Number(value);applyNexusFXTheme();saveNexusFX()}
+function nfxSetToggle(key,value){nexusFxPrefs[key]=!!value;applyNexusFXTheme();saveNexusFX()}
+function nfxSyncControls(){
+ const map={nfxAccent:"accent",nfxAccent2:"accent2",nfxAtmosphereColor:"atmo",nfxGlow:"glow",nfxAtmosphere:"atmosphere",nfxGlass:"glass",nfxSpeed:"speed",nfxDensity:"density",nfxAurora:"aurora",nfxParticles:"particles",nfxEdges:"edges",nfxScan:"scan",nfxRadar:"radar",nfxGlassMode:"glassMode",nfxQuality:"quality",nfxHaptics:"haptics",nfxSound:"sound",nfxRespectMotion:"respectMotion"};
+ Object.entries(map).forEach(([id,key])=>{const el=document.getElementById(id);if(!el)return;if(el.type==="checkbox")el.checked=!!nexusFxPrefs[key];else el.value=nexusFxPrefs[key]??NEXUS_FX_DEFAULTS[key]});
+ applyNexusFXTheme();
+}
+function nfxRefreshSavedProfiles(){
+ const select=document.getElementById("nfxSavedProfiles");if(!select)return;
+ const profiles=readStorage(NEXUS_FX_PROFILES_KEY,{});select.innerHTML='<option value="">Profils enregistrés…</option>'+Object.keys(profiles).sort().map(name=>'<option value="'+escapeHTML(name)+'">'+escapeHTML(name)+'</option>').join("");
+}
+function nfxDownload(content,name,type){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1200)}
+function nfxInitCanvas(){
+ if(nexusFxCanvas)return;
+ nexusFxCanvas=document.createElement("canvas");nexusFxCanvas.id="nexusFxCanvas";nexusFxCanvas.setAttribute("aria-hidden","true");document.body.prepend(nexusFxCanvas);nexusFxCtx=nexusFxCanvas.getContext("2d",{alpha:true,desynchronized:true});
+ nfxResizeCanvas();window.addEventListener("resize",nfxResizeCanvas,{passive:true});document.addEventListener("visibilitychange",()=>{if(document.hidden){cancelAnimationFrame(nexusFxFrame)}else nfxStartCanvas()});nfxStartCanvas();
+}
+function nfxResizeCanvas(){
+ if(!nexusFxCanvas||!nexusFxCtx)return;
+ const ratio=Math.min(window.devicePixelRatio||1,1.35);nexusFxCanvas.width=Math.floor(window.innerWidth*ratio);nexusFxCanvas.height=Math.floor(window.innerHeight*ratio);nexusFxCanvas.style.width=window.innerWidth+"px";nexusFxCanvas.style.height=window.innerHeight+"px";nexusFxCtx.setTransform(ratio,0,0,ratio,0,0);
+ const count=Math.max(0,Math.min(64,Number(nexusFxPrefs.density)||0));nexusFxParticles=Array.from({length:count},()=>({x:Math.random()*window.innerWidth,y:Math.random()*window.innerHeight,r:.45+Math.random()*1.5,a:.18+Math.random()*.52,vx:(Math.random()-.5)*.22,vy:-.08-Math.random()*.25,phase:Math.random()*Math.PI*2}));
+}
+function nfxStartCanvas(){if(!nexusFxCanvas||!nexusFxCtx||document.hidden||!nfxMotionAllowed()||(!nexusFxPrefs.aurora&&!(nexusFxPrefs.particles&&Number(nexusFxPrefs.density)>0))){cancelAnimationFrame(nexusFxFrame);return}cancelAnimationFrame(nexusFxFrame);nexusFxFrame=requestAnimationFrame(nfxDrawCanvas)}
+function nfxDrawCanvas(now){
+ if(!nexusFxCtx||document.hidden||!nfxMotionAllowed())return;
+ const fps=nexusFxPrefs.quality==="light"?18:30,interval=1000/fps;
+ if(now-nexusFxLastFrame<interval){nexusFxFrame=requestAnimationFrame(nfxDrawCanvas);return}nexusFxLastFrame=now;
+ const ctx=nexusFxCtx,w=window.innerWidth,h=window.innerHeight,atmo=nexusFxPrefs.atmosphere/100,speed=Math.max(.15,nexusFxPrefs.speed/55),accent=nexusFxPrefs.accent,accent2=nexusFxPrefs.accent2;
+ ctx.clearRect(0,0,w,h);
+ if(nexusFxPrefs.aurora&&atmo>.04){
+  for(let k=0;k<3;k++){
+   const baseY=h*(.23+k*.19),phase=now*.00012*speed+k*1.7;
+   const grad=ctx.createLinearGradient(0,baseY-100, w,baseY+100);grad.addColorStop(0,"rgba(0,0,0,0)");grad.addColorStop(.26,accent+"26");grad.addColorStop(.58,accent2+"24");grad.addColorStop(1,"rgba(0,0,0,0)");
+   ctx.beginPath();ctx.moveTo(0,baseY);
+   for(let x=0;x<=w;x+=Math.max(24,w/24)){const y=baseY+Math.sin(x*.004+phase)*34+Math.sin(x*.009-phase*1.3)*16;ctx.lineTo(x,y)}
+   ctx.strokeStyle=grad;ctx.lineWidth=18+k*8;ctx.globalAlpha=atmo*(.13-k*.025);ctx.shadowBlur=34;ctx.shadowColor=k%2?accent2:accent;ctx.stroke();
+  }
+ }
+ if(nexusFxPrefs.particles&&nexusFxParticles.length){ctx.shadowBlur=8;ctx.shadowColor=accent;for(const p of nexusFxParticles){p.x+=p.vx*speed;p.y+=p.vy*speed;if(p.y<-4){p.y=h+4;p.x=Math.random()*w}if(p.x<-4)p.x=w+4;if(p.x>w+4)p.x=-4;ctx.globalAlpha=p.a*(.5+.5*Math.sin(now*.001+p.phase));ctx.fillStyle=accent;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fill()}}
+ ctx.globalAlpha=1;ctx.shadowBlur=0;nexusFxFrame=requestAnimationFrame(nfxDrawCanvas);
+}
+function initNexusFX(){
+ nexusFxPrefs={...NEXUS_FX_DEFAULTS,...readStorage(NEXUS_FX_KEY,{})};
+ nfxSyncControls();nfxInitCanvas();
+ document.querySelectorAll("[data-nfx-preset]").forEach(b=>b.addEventListener("click",()=>nfxSetPreset(b.dataset.nfxPreset)));
+ const bindRange=(id,key)=>{const el=document.getElementById(id);el.addEventListener("input",()=>nfxSetRange(key,el.value))};
+ bindRange("nfxGlow","glow");bindRange("nfxAtmosphere","atmosphere");bindRange("nfxGlass","glass");bindRange("nfxSpeed","speed");bindRange("nfxDensity","density");
+ const bindColor=(id,key)=>{const el=document.getElementById(id);el.addEventListener("input",()=>{nexusFxPrefs[key]=el.value;nexusFxPrefs.preset="custom";applyNexusFXTheme();saveNexusFX()})};
+ bindColor("nfxAccent","accent");bindColor("nfxAccent2","accent2");bindColor("nfxAtmosphereColor","atmo");
+ const bindToggle=(id,key)=>document.getElementById(id).addEventListener("change",e=>nfxSetToggle(key,e.target.checked));
+ [["nfxAurora","aurora"],["nfxParticles","particles"],["nfxEdges","edges"],["nfxScan","scan"],["nfxRadar","radar"],["nfxGlassMode","glassMode"],["nfxHaptics","haptics"],["nfxSound","sound"],["nfxRespectMotion","respectMotion"]].forEach(x=>bindToggle(x[0],x[1]));
+ document.getElementById("nfxQuality").addEventListener("change",e=>{nexusFxPrefs.quality=e.target.value;saveNexusFX();nfxResizeCanvas();nfxFeedback()});
+ document.querySelectorAll("[data-nfx-colors]").forEach(b=>b.addEventListener("click",()=>{const [accent,accent2,atmo]=b.dataset.nfxColors.split(",");nexusFxPrefs={...nexusFxPrefs,accent,accent2,atmo,preset:"custom"};nfxSyncControls();saveNexusFX()}));
+ document.getElementById("nfxSaveProfile").addEventListener("click",()=>{const name=(document.getElementById("nfxProfileName").value||"").trim().slice(0,32);if(!name){showNexusToast("Donne un nom à ton profil.");return}const profiles=readStorage(NEXUS_FX_PROFILES_KEY,{});profiles[name]={...nexusFxPrefs};if(!writeStorage(NEXUS_FX_PROFILES_KEY,profiles)){showNexusToast("Stockage local indisponible.");return}nfxRefreshSavedProfiles();document.getElementById("nfxSavedProfiles").value=name;showNexusToast("Profil FX enregistré.")});
+ document.getElementById("nfxLoadProfile").addEventListener("click",()=>{const name=document.getElementById("nfxSavedProfiles").value,profiles=readStorage(NEXUS_FX_PROFILES_KEY,{});if(!name||!profiles[name]){showNexusToast("Sélectionne un profil.");return}nexusFxPrefs={...NEXUS_FX_DEFAULTS,...profiles[name]};nfxSyncControls();saveNexusFX();showNexusToast("Profil FX chargé.")});
+ document.getElementById("nfxExport").addEventListener("click",()=>nfxDownload(JSON.stringify({app:"NEXUS FX Studio",version:2,preferences:nexusFxPrefs,profiles:readStorage(NEXUS_FX_PROFILES_KEY,{})},null,2),"nexus-fx-profiles.json","application/json"));
+ document.getElementById("nfxImportButton").addEventListener("click",()=>document.getElementById("nfxImportFile").click());
+ document.getElementById("nfxImportFile").addEventListener("change",async e=>{const file=e.target.files?.[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("invalid");nexusFxPrefs={...NEXUS_FX_DEFAULTS,...data.preferences};if(data.profiles&&typeof data.profiles==="object")writeStorage(NEXUS_FX_PROFILES_KEY,data.profiles);nfxSyncControls();saveNexusFX();nfxRefreshSavedProfiles();showNexusToast("Configuration FX importée.")}catch(err){showNexusToast("Fichier FX invalide.")}e.target.value=""});
+ document.getElementById("nfxReset").addEventListener("click",()=>{nexusFxPrefs={...NEXUS_FX_DEFAULTS};nfxSyncControls();saveNexusFX();showNexusToast("Studio FX réinitialisé.")});
+ nfxRefreshSavedProfiles();
+ document.addEventListener("click",e=>{if(e.target.closest(".nfx-block button,.nfx-switch,.nfx-preset,.nfx-color-presets button")){nfxHaptic();if(nexusFxPrefs.sound)nfxSound()}});
+ const motionQuery=window.matchMedia?window.matchMedia("(prefers-reduced-motion: reduce)"):null;if(motionQuery){const onChange=()=>{applyNexusFXTheme();if(nfxMotionAllowed())nfxStartCanvas();else cancelAnimationFrame(nexusFxFrame)};motionQuery.addEventListener?.("change",onChange)}
+}
+
+
 document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", ");
 render();
 renderPrimaryNav();
 renderCommandMenu();
 initNexusV10();
 initNexusUltimate();
-initNexusFXV14();
+initNexusFX();
 document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",String(!p.classList.contains("active"))));
 updateAlertIndicator();
 refreshNews();
 </script>
-</body>
-</html>
+</body></html>
