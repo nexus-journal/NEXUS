@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T23:57:37.416668+00:00",
-  "count": 284,
+  "updated_at": "2026-11-21T00:53:33.848306+00:00",
+  "count": 285,
   "articles": [
     {
       "title": "Waymo tire les taxis sans chauffeur des autoroutes à travers les États-Unis après l'interdiction de Californie",
@@ -257,14 +257,6 @@
       "description": "Thomas Markle est apte à être jugé pour possession de matériel d'abus sexuels sur enfants, un tribunal américain a statué.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "Défaillance du dernier lancement de la Force spatiale",
-      "link": "https://www.airandspaceforces.com/ula-launch-failure-trouble-space-force/",
-      "date": "Thu, 19 Nov 2026 21:31:18 +0000",
-      "description": "Quand une fusée United Launch Alliance a échoué le 15 novembre, l'explosion a fait plus que détruire une fusée et les 40 satellites Amazon LEO qu'elle transportait : Il a resserré le goulot d'étranglement qui limite déjà la capacité de lancement de la Force spatiale et a augmenté la pression sur ULA. L'article ULAS Dernières défaillances de lancement Perturbations pour la Force spatiale est apparu en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
     },
     {
       "title": "Les pénuries de missiles aux États-Unis créent un problème de portée.",
@@ -595,6 +587,22 @@
       "category": "Exploration"
     },
     {
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+      "date": "Sat, 21 Nov 2026 01:33:30 +0100",
+      "description": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la Bourse américaine vivant une de ses pires semaines depuis la crise liée au Covid.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
+      "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 01:26:28 +0100",
+      "description": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre, et a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an sous bracelet électronique à deux ans de prison ferme.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "Au procès de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
       "link": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
       "date": "Sat, 21 Nov 2026 00:46:36 +0100",
@@ -603,12 +611,36 @@
       "category": "France"
     },
     {
-      "title": "Des condamnations allant d'un an à deux ans de prison ferme pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
-      "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 00:10:11 +0100",
-      "description": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre. Elle a finalement retenu la circonstance aggravante de racisme.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "L'Armée 3 étoiles dirigera le NORAD; la Force aérienne choisira un nouveau chef au Centre des armes nucléaires",
+      "link": "https://www.airandspaceforces.com/army-3-star-norad-air-force-nuclear-weapons-center-boss/",
+      "date": "Sat, 21 Nov 2026 00:37:01 +0000",
+      "description": "La Maison-Blanche nomme le lieutenant-général Patrick D. Frank comme commandant du Commandement nord des États-Unis et du Commandement de la défense aérospatiale de l'Amérique du Nord, rôle traditionnellement assumé par les officiers de la Force aérienne. Le poste 3 étoiles de l'Armée de terre pour diriger le NORAD; la Force aérienne choisit un nouveau chef au Centre des armes nucléaires est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
+      "title": "AI peut vraiment aider à repérer Black Friday offres? Nous l'avons mis à l'épreuve",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 00:06:11 GMT",
+      "description": "Nous avons mis à l'épreuve quatre modèles d'IA pour voir s'ils pouvaient nous faire économiser de l'argent sur une nouvelle télé.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le juge américain approuve le règlement du cancer de Bayer $7,25 milliards",
+      "link": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 00:03:00 GMT",
+      "description": "Bayer pourrait mettre fin à des années de poursuites coûteuses aux États-Unis pour avoir prétendu que son hérisson Roundup cause le cancer. Des dizaines de milliers de personnes pourraient maintenant recevoir une indemnisation, bien que certains avocats disent que les paiements sont trop faibles.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "La guerre en Iran est en vie : la coalition dirigée par l'Arabie saoudite a abattu les missiles Houthi",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 00:00:06 +0000",
+      "description": "L'Arabie saoudite émet un flot d'alertes d'urgence pour Riyad, comme la coalition saoudienne le dit intercepté trois missiles.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -768,7 +800,7 @@
       "date": "Fri, 20 Nov 2026 23:08:57 GMT",
       "description": "Un mathématicien d'Anthropic dit qu'il a utilisé une AI pour prouver la célèbre hypothèse de Riemann, bien que la vérification prendra un certain temps.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "L'impasse des négociations sur le combustible fossile pousse le sommet climatique COP31 à des heures supplémentaires",
@@ -840,7 +872,7 @@
       "date": "Fri, 20 Nov 2026 22:42:47 GMT",
       "description": "Les pressions ont pesé sur les marchés américains, les S&P 500 et la Dow Jones Industrial Medium étant poussées dans le territoire de correction.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Des policiers français condamnés pour avoir battu le producteur de musique Michel Zecler",
@@ -1027,6 +1059,14 @@
       "category": "France"
     },
     {
+      "title": "À l'intérieur d'Anthropics IPO historique",
+      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "date": "Fri, 20 Nov 2026 21:21:29 GMT",
+      "description": "L'entreprise à bas-clé peut-elle préserver sa culture idiosyncratique dans l'éclat des marchés publics ?",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
       "title": "Procès de l’agression de Michel Zecler : les trois policiers condamnés à de la prison ferme, le caractère raciste retenu",
       "link": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE/",
       "date": "Fri, 20 Nov 2026 21:20:11 +0000",
@@ -1043,28 +1083,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Trump menace l'impôt sur les entreprises technologiques américaines construisant des centres de données AI à l'étranger",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 21:10:53 +0000",
-      "description": "Le président américain Donald Trump a mis en garde les entreprises technologiques américaines face à une énorme taxe s'ils construisent des centres de données AI à l'étranger.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Julien Perrot, «inclus dans quelque chose de très grand»",
       "link": "https://www.liberation.fr/forums/julien-perrot-inclus-dans-quelque-chose-de-tres-grand-20261120_34GKER7W4ZA45EPFQIO56AF4VY/",
       "date": "Fri, 20 Nov 2026 21:06:00 +0000",
       "description": "Le naturaliste suisse à la tête de la maison d’édition la Salamandre, créateur de fanzines et de documentaires, pense la biodiversité comme un lieu d’apaisement à réinvestir pour mieux la protéger.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Grand Theft Auto VI bat des records avec 3,8 milliards de dollars en ventes",
-      "link": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
-      "date": "Fri, 20 Nov 2026 21:05:48 GMT",
-      "description": "Les consommateurs ont déjà dépensé plus pour le jeu vidéo que le film le plus gros",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "GTA 6 a gagné 3,79 milliards de dollars en sa première journée, mais les travailleurs de Rockstar manquent encore de sécurité d'emploi",
@@ -1307,7 +1331,7 @@
       "category": "Exploration"
     },
     {
-      "title": "Yémen: la coalition saoudienne frappe un port contrôlé par les Houthis, les rebelles promettent de riposter",
+      "title": "Yémen: la coalition saoudienne frappe un port contrôlé par les Houthis, les rebelles ripostent",
       "link": "https://www.rfi.fr/fr/moyen-orient/20261120-y%C3%A9men-la-coalition-saoudienne-frappe-un-port-contr%C3%B4l%C3%A9-par-les-houthis-les-rebelles-promettent-de-riposter",
       "date": "Fri, 20 Nov 2026 20:05:25 GMT",
       "description": "Les forces saoudiennes ont indiqué vendredi 20 novembre 2026 avoir mené une série d'attaques au Yémen, notamment contre le port d'Hodeida contrôlé par les Houthis pro-iraniens. Ces derniers ont menacé en retour de frapper de nouveau le quartier financier de Riyad.",
@@ -1459,14 +1483,6 @@
       "category": "Économie"
     },
     {
-      "title": "Au Mali, une nouvelle société militaire turque épaule secrètement la junte d’Assimi Goïta",
-      "link": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
-      "date": "Fri, 20 Nov 2026 18:56:59 +0100",
-      "description": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes, fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "La géothermie super-hote pourrait mettre fin aux problèmes énergétiques du centre de données",
       "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
       "date": "Fri, 20 Nov 2026 18:34:00 +0000",
@@ -1552,14 +1568,6 @@
       "date": "Fri, 20 Nov 2026 17:49:48 GMT",
       "description": "L'accord conclu vendredi entre le Royaume-Uni et l'UE porte sur les exportations de denrées alimentaires britanniques, l'échange de droits d'émission et un programme d'expérience pour les jeunes.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Allemagne news: les enfants prennent dans la rue l'école, le climat et les coûts",
-      "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 20 Nov 2026 17:43:00 GMT",
-      "description": "En Allemagne, des milliers de jeunes ont demandé des améliorations dans les domaines de l'éducation, du climat et de l'accessibilité. Les manifestants disent qu'ils ne sont pas pris au sérieux et continueront à protester jusqu'à ce que les choses changent.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -1699,6 +1707,14 @@
       "category": "Monde"
     },
     {
+      "title": "L'ébauche manuscrite du discours emblématique de MLK exposée pour la première fois",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+      "date": "Fri, 20 Nov 2026 16:38:05 -0500",
+      "description": "La seule ébauche manuscrite connue du discours du révérend Martin Luther King Jr. « J'ai un rêve » est exposée dans sa ville natale. La phrase emblématique, cependant, ne l'a jamais fait sur la page.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Cérémonie de remise des distinctions honorifiques de la NASA",
       "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
       "date": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1779,14 +1795,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Comme réservoir d'actions anthropiques, les investisseurs brouillent à la couverture. Ça pourrait être très cher.",
-      "link": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
-      "date": "Fri, 20 Nov 2026 15:12:40 GMT",
-      "description": "Liste des options anthropiques lundi. Ils seront probablement coûteux",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Le Sénat des États-Unis approuve un projet de loi visant à accélérer l'examen des projets énergétiques et des datacenters",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
       "date": "Fri, 20 Nov 2026 15:09:09 GMT",
@@ -1851,12 +1859,20 @@
       "category": "Défense"
     },
     {
+      "title": "Le marché des taureaux a un nouveau problème. L'argent intelligent se vend",
+      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "date": "Fri, 20 Nov 2026 14:15:29 GMT",
+      "description": "Les entreprises passent des rachats d'actions à l'émission d'actions, ajoutant de nouvelles fournitures. Anthropique $ 81 milliards IPO met cette demande à l'épreuve.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Ces pêcheurs américains voient le vent au large comme un « dieu ». Trump veut l'arrêter",
       "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
       "date": "Fri, 20 Nov 2026 14:00:31 GMT",
       "description": "Malgré les attaques du président, Sea Services forme les pêcheurs de la Nouvelle-Angleterre à la construction éolienne en mer et leur fournit un deuxième flux de revenus.Un matin de septembre pluvieux, le Pamela Ann, un bateau rouillé de 26 mètres (86 pieds) de pétoncle, accosté à New Bedford, au Massachusetts. Son équipage avait passé les 12 derniers jours en mer, enregistrant les observations de mammifères, en surveillant les navires pour s'assurer qu'ils n'entrent pas dans les zones de construction et en surveillant les travailleurs.",
       "source": "The Guardian",
-      "category": "Économie"
+      "category": "Environnement"
     },
     {
       "title": "Le mathématicien anthropique prétend prouver l'hypothèse de Riemann, le plus célèbre problème dans tous les mathématiques",
@@ -1905,14 +1921,6 @@
       "description": "Certaines étoiles binaires finissent par partager une enveloppe commune de gaz, alors que l'étoile primaire retire du matériel de son compagnon. L'enveloppe fait glisser sur les étoiles et elles peuvent s'enrouler l'une vers l'autre. Dans certains cas, cela crée une éruption ou une explosion appelée nova rouge lumineuse. Pour la première fois, les astronomes ont pu en observer un en temps réel.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Trump a d'abord accepté les résultats à mi-parcours, mais la plupart des électeurs du GOP doutent qu'ils soient justes.",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-      "date": "Fri, 20 Nov 2026 12:00:00 -0500",
-      "description": "Moins de la moitié des républicains du pays ont considéré les élections à mi-parcours « libres et équitables », selon de nouveaux sondages.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Loi sur les petits grains de sable en tant que speedomètres cosmiques pour les vents étrangers",
@@ -2064,7 +2072,7 @@
       "date": "Fri, 20 Nov 2026 07:32:19 GMT",
       "description": "L'IA serait-elle un bon juge de savoir si vous devriez obtenir un prêt hypothécaire, un prêt automobile ou un contrat de téléphonie mobile?",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Économie"
     },
     {
       "title": "Les scientifiques du CERN trouvent enfin la preuve d'une décomposition des particules si rare qu'il a fallu 40 ans pour la détecter.",
