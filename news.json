@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T18:59:39.233682+00:00",
-  "count": 287,
+  "updated_at": "2026-11-21T19:42:08.195445+00:00",
+  "count": 281,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -158,7 +158,7 @@
       "title": "Analyse : Les émissions de CO2 provenant des combustibles fossiles devraient diminuer en 2026 alors que le conflit iranien touche l'utilisation du pétrole",
       "link": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
       "date": "Tue, 10 Nov 2026 01:01:00 +0000",
-      "description": "Les émissions de dioxyde de carbone (CO2) provenant des combustibles fossiles et du ciment devraient diminuer d'environ 0,4 % en 2026 à 38,2 milliards... The post Analyse: Les émissions de CO2 des combustibles fossiles devraient diminuer en 2026 alors que le conflit iranien touche l'utilisation du pétrole est apparu en premier sur Carbon Brief .",
+      "description": "Les émissions de dioxyde de carbone (CO2) des combustibles fossiles et du ciment devraient diminuer d'environ 0,4 % en 2026 à 38,2 milliards... The post Analyse: Les émissions de CO2 des combustibles fossiles devraient diminuer en 2026 alors que le conflit iranien touche l'utilisation du pétrole est apparu en premier sur Carbon Brief .",
       "source": "Carbon Brief",
       "category": "Environnement"
     },
@@ -288,7 +288,7 @@
       "date": "Thu, 19 Nov 2026 13:35:29 GMT",
       "description": "Un oiseau a étonné les conservationnistes en effectuant un voyage aller-retour de 6 800 milles en Sibérie et en arrière.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "Le téléchargement : un foie vivant, une batterie d'un milliard de dollars et un hype d'IA",
@@ -443,19 +443,27 @@
       "category": "Exploration"
     },
     {
-      "title": "Présidentielle 2027 : en meeting à Toulon, Éric Zemmour cherche un élan en «candidat de la liberté»",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-meeting-a-toulon-eric-zemmour-cherche-un-elan-en-candidat-de-la-liberte-20261121",
-      "date": "Sat, 21 Nov 2026 19:46:24 +0100",
-      "description": "REPORTAGE - Loin des liesses de 2022, Éric Zemmour, de nouveau en course pour l’Élysée, a posé des bases programmatiques plus larges que le seul thème de l’immigration, tout en défendant une primaire «de droite».",
+      "title": "EN DIRECT - Colère sociale : 82.500 manifestants dans les cortèges en France ce samedi et 144 interpellations, selon le ministère de l’Intérieur",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+      "date": "Sat, 21 Nov 2026 20:41:19 +0100",
+      "description": "À Paris, la mobilisation était toujours en baisse lors de cet «Acte VI», où de premiers incidents ont été recensés, après l’arrivée du cortège à Nation. À Marseille, des débordements sont constatés.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : le point sur l’attaque par drone d’un cargo russe en mer Baltique, la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien",
-      "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html",
-      "date": "Sat, 21 Nov 2026 19:41:34 +0100",
-      "description": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
-      "source": "Le Monde",
+      "title": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
+      "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 20:38:25 +0100",
+      "description": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Colère sociale : à Paris, le «noyau décidé à battre le pavé» ne cache pas l’essoufflement croissant du mouvement",
+      "link": "https://www.lefigaro.fr/actualite-france/colere-sociale-a-paris-le-noyau-decide-a-battre-le-pave-ne-cache-pas-l-essoufflement-croissant-du-mouvement-20261121",
+      "date": "Sat, 21 Nov 2026 20:34:35 +0100",
+      "description": "REPORTAGE - Le sixième samedi de mobilisation contre la vie chère n’a rassemblé que 21.500 personnes dans la capitale, selon la préfecture de police. Des heurts ont éclaté place de la Nation en fin de cortège.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -467,6 +475,38 @@
       "category": "France"
     },
     {
+      "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 19:33:49 GMT",
+      "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "«On nous chie dessus, on ne nous écoute pas» : à Lyon, plusieurs milliers de personnes ont défilé",
+      "link": "https://www.liberation.fr/societe/on-nous-chie-dessus-on-ne-nous-ecoute-pas-a-lyon-plusieurs-milliers-de-personnes-ont-defile-20261121_MJTNCCB6TJDPZC6UCJ6IYDGDDE/",
+      "date": "Sat, 21 Nov 2026 19:31:34 +0000",
+      "description": "Pour l’acte VI de la mobilisation contre la vie chère, plus de 4000 personnes ont déambulé dans la préfecture du Rhône, malgré l’interdiction de manifester qui concernait une large partie du centre-ville. Dans les cortèges, beaucoup se montrent inquiets quant à un tournant autoritaire du gouvernement.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les mystères de Mercure, l’étrange planète du Système solaire, que la mission BepiColombo devrait lever",
+      "link": "https://www.lemonde.fr/sciences/article/2026/11/21/les-mysteres-de-mercure-l-etrange-planete-du-systeme-solaire-que-la-mission-bepicolombo-devrait-lever_6814059_1650684.html",
+      "date": "Sat, 21 Nov 2026 19:25:04 +0100",
+      "description": "Après huit ans de transit, les deux sondes de la mission européano-japonaise se sont mises en orbite autour de Mercure. Elles devraient aider les scientifiques à résoudre les nombreuses énigmes qui entourent cette petite planète pas comme les autres.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Bateau en Russie attaqué dans le golfe de Finlande",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 19:20:22 GMT",
+      "description": "Les forces de défense finlandaises disent que l'Ukraine était probablement derrière l'attaque du drone sur le navire.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh demande à être relevé de ses fonctions",
       "link": "https://www.lefigaro.fr/politique/enquete-visant-le-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121",
       "date": "Sat, 21 Nov 2026 19:16:57 +0100",
@@ -475,11 +515,27 @@
       "category": "France"
     },
     {
-      "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh dans la tempête",
-      "link": "https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-le-prefet-hugues-moutouh-dans-la-tempete-20261120",
-      "date": "Sat, 21 Nov 2026 19:02:40 +0100",
-      "description": "RÉCIT - Convoqué vendredi par le ministre de l’Intérieur Laurent Nuñez, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours. Le préfet a demandé ce samedi à être relevé de ses fonctions.",
-      "source": "Le Figaro",
+      "title": "Comment la sécurité d'iCloud Private Relay se compare-t-elle aux alternatives VPN ?",
+      "link": "https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives/",
+      "date": "Sat, 21 Nov 2026 19:15:00 +0000",
+      "description": "Les abonnés iCloud+ ont accès à Private Relay, qui protège une partie de leur vie privée en ligne sans être un remplacement pur et simple d'un VPN traditionnel.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Cargo échoué dans les Landes : des membres d’équipage hélitreuillés, le remorquage pas pour tout de suite",
+      "link": "https://www.liberation.fr/societe/cargo-echoue-dans-les-landes-des-membres-dequipage-helitreuilles-le-remorquage-pas-pour-tout-de-suite-20261121_DV52LGLHC5CCLKUPOAJ5PC3TAQ/",
+      "date": "Sat, 21 Nov 2026 19:12:34 +0000",
+      "description": "Alors qu’un fort coup de vent était attendu dans la nuit, onze personnes à bord du cargo échoué sur une plage landaise ont été hélitreuillés ce samedi 21 novembre par mesure de sécurité. Le remorquage pourrait prendre plusieurs jours.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Biodiversité : «Les “aires éducatives” pour placer l’élève au cœur de la décision»",
+      "link": "https://www.liberation.fr/forums/biodiversite-les-aires-educatives-pour-placer-leleve-au-coeur-de-la-decision-20261120_M6QBGSYAQRBYZI4NNM6HEPFVQA/",
+      "date": "Sat, 21 Nov 2026 19:11:00 +0000",
+      "description": "François Morisseau, chef d’unité au sein de l’OFB, revient sur le dispositif qui vise à sensibiliser les élèves aux enjeux environnementaux et leur propose d’agir.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -491,19 +547,27 @@
       "category": "France"
     },
     {
+      "title": "Quelle voiture a le plus grand écran tactile d'infodivertissement ?",
+      "link": "https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/",
+      "date": "Sat, 21 Nov 2026 19:00:00 +0000",
+      "description": "La plupart des voitures modernes auront une sorte d'écran tactile d'infodivertissement, bien que toutes ne soient pas égales. Une voiture, en particulier, règle le toit pour la taille pure.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Top Drug Kingpin est capturé par l'armée mexicaine comme les coups de feu éclate",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "date": "Sat, 21 Nov 2026 18:57:22 +0000",
+      "description": "L'arrestation de Fausto Isidro Meza Flores, qui est connu sous le nom de El Chapo Isidro et était l'un des F.B.I.S 10 plus recherchés, était une victoire pour le gouvernement mexicain.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
       "title": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\"",
       "link": "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 18:56:33 +0100",
       "description": "Dans un communiqué posté sur le réseau social X, le député a déclaré samedi qu'il prenait \"acte de l'impasse\" de sa campagne, faute d'avoir réussi à imposer l'organisation d'une \"grande primaire\" de toute la gauche.",
       "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Présidentielle 2027 : François Ruffin retire sa candidature et souhaite «bonne campagne» aux «candidats de gauche encore en lice»",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-francois-ruffin-retire-sa-candidature-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice-20261121",
-      "date": "Sat, 21 Nov 2026 18:54:17 +0100",
-      "description": "Dans son communiqué publié sur X ce samedi, le député ex-insoumis n’apporte son soutien à aucun candidat.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -513,14 +577,6 @@
       "description": "La dernière salve des relations épuisantes entre les États-Unis et le Canada n'a pas affecté leur vaste opération militaire conjointe, y compris le commandement de l'espace aérien commun, le NORAD.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Mobilisation du 21 novembre : 82 500 personnes ont manifesté dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
-      "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 18:50:34 +0100",
-      "description": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Six projets Raspberry Pi simples pour les débutants",
@@ -553,6 +609,22 @@
       "description": "L'attaquant international français est sorti sur civière à la 44e minute, samedi à Nice, après un mauvais appui suite auquel Désiré Doué s'est immédiatement tenu le genou.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "«Ça va être fun, y’a pas de caméra dans la bagnole»: enquête ouverte contre des policiers pour violences et agression sexuelle lors d’une manifestation",
+      "link": "https://www.lefigaro.fr/faits-divers/ca-va-etre-fun-y-a-pas-de-camera-dans-la-bagnole-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-d-une-manifestation-20261121",
+      "date": "Sat, 21 Nov 2026 18:42:46 +0100",
+      "description": "Les faits se seraient produits en marge de la manifestation parisienne du 31 octobre. Les plaignants sont également accusés d’avoir frappé des policiers.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Attaque mortelle à Kiev alors que la Russie lance un barrage contre l'Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 18:42:38 +0000",
+      "description": "La Russie a lancé plus de 400 drones et 110 missiles en Ukraine pendant la nuit, tuant au moins sept personnes à Kiev.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Accord commercial majeur signé entre l'UE et l'Indonésie",
@@ -601,22 +673,6 @@
       "description": "La technologie autonome de Tesla attend un autre vote important de l'Union européenne avant la fin de l'année.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Primaire : la date du prochain rendez-vous entre les camps Attal, Retailleau et Lisnard a été fixée",
-      "link": "https://www.lefigaro.fr/politique/primaire-la-date-du-prochain-rendez-vous-entre-les-camps-attal-retailleau-et-lisnard-a-ete-fixee-20261121",
-      "date": "Sat, 21 Nov 2026 18:25:09 +0100",
-      "description": "INFO LE FIGARO - Après un premier rendez-vous, et l’esquisse de convergences, les représentants des candidats à l’élection présidentielle poursuivent leurs discussions.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Bateau en Russie attaqué dans le golfe de Finlande",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 18:22:09 GMT",
-      "description": "Les forces de défense finlandaises disent que l'Ukraine était probablement derrière l'attaque du drone sur le navire.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "La base de données nationale du FBI sur la criminalité est soupçonnée de violation :",
@@ -675,14 +731,6 @@
       "category": "France"
     },
     {
-      "title": "Configuration d'un Apple HomeView est ridiculement facile grâce à votre iPhone",
-      "link": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
-      "date": "Sat, 21 Nov 2026 18:00:00 +0000",
-      "description": "Voici comment configurer un Apple HomeView et comment ajouter d'autres utilisateurs.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "L'Iran va rationner l'électricité face à la pénurie énergétique",
       "link": "https://www.rfi.fr/fr/moyen-orient/20261121-l-iran-va-rationner-l-%C3%A9lectricit%C3%A9-face-%C3%A0-la-p%C3%A9nurie-%C3%A9nerg%C3%A9tique",
       "date": "Sat, 21 Nov 2026 17:57:37 GMT",
@@ -707,20 +755,12 @@
       "category": "Monde"
     },
     {
-      "title": "Suspecté d’être une taupe du RN, le préfet Moutouh demande à être relevé de ses fonctions",
+      "title": "Suspecté d’être une taupe du RN, le préfet Hugues Moutouh demande à être relevé de ses fonctions",
       "link": "https://www.liberation.fr/societe/police-justice/suspecte-detre-une-taupe-du-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121_LUXHW7N52BELTCNJHZ6VHWMFHU/",
       "date": "Sat, 21 Nov 2026 17:54:03 +0000",
       "description": "Le représentant de l’Etat dans la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le parti d’extrême droite.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Top Drug Kingpin est capturé par l'armée mexicaine comme les coups de feu éclate",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "date": "Sat, 21 Nov 2026 17:50:25 +0000",
-      "description": "L'arrestation de Fausto Isidro Meza Flores, qui est connu sous le nom de El Chapo Isidro et était l'un des F.B.I.S 10 plus recherchés, était une victoire pour le gouvernement mexicain.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne",
@@ -747,30 +787,6 @@
       "category": "France"
     },
     {
-      "title": "HomeView vs. Echo Afficher : Quelle est la différence entre les écrans intelligents d'Apple et d'Amazon ?",
-      "link": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
-      "date": "Sat, 21 Nov 2026 17:45:00 +0000",
-      "description": "Le HomeView et Echo Show ont mis un assistant AI dans votre maison, mais ils travaillent de différentes façons.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "EN DIRECT - Colère sociale : 82.500 personnes présentes dans les cortèges en France ce samedi, annonce le ministère de l’Intérieur",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
-      "date": "Sat, 21 Nov 2026 17:44:31 +0100",
-      "description": "À Paris, la mobilisation était toujours en baisse lors de cet «Acte VI», où de premiers incidents ont été recensés, après l’arrivée du cortège à Nation. À Marseille, des débordements sont constatés.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "«Perdre une journée de salaire, c’est compliqué» : à Paris, ces manifestants qui privilégient le samedi",
-      "link": "https://www.liberation.fr/societe/education/perdre-une-journee-de-salaire-cest-complique-a-paris-ces-manifestants-qui-privilegient-le-samedi-20261121_QY2Q4N3XNNFNFGCOST3KXLKXCY/",
-      "date": "Sat, 21 Nov 2026 17:41:58 +0000",
-      "description": "Pour le sixième samedi consécutif de mobilisation, des cortèges ont défilé partout en France notamment contre la vie chère. A Paris, des manifestants continuent de descendre dans la rue, faute de pouvoir faire grève en semaine.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Présidentielle : prenant \"acte de l’impasse\" de sa campagne, François Ruffin retire sa candidature",
       "link": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
       "date": "Sat, 21 Nov 2026 17:37:20 GMT",
@@ -787,36 +803,12 @@
       "category": "France"
     },
     {
-      "title": "Mobilisation du 21 novembre : entre 82 500 et 150 000 personnes ont défilé en France",
-      "link": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/",
-      "date": "Sat, 21 Nov 2026 17:30:00 +0000",
-      "description": "Qu’il s’agisse des autorités ou des organisateurs, tout le monde s’accorde à décrire des rangs plus clairsemés ce samedi 21 novembre par rapport à la semaine précédente.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Liverpool vs Manchester United: Premier League – équipes, prévision, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 17:28:51 +0000",
-      "description": "Une des plus grandes rivalités du sport prend le devant de la scène car Liverpool accueille un côté Man United dans la zone de relégation EPL.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "En France, l'automne en colère, les chaînes de télévision sont accusés de stirring the Pot",
       "link": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
       "date": "Sat, 21 Nov 2026 17:14:17 +0000",
       "description": "Les critiques disent que CNews et BFM TV, deux grandes chaînes d'information, ont utilisé le langage raciste dans la couverture des manifestations. Les chaînes le démentent.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
-      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/",
-      "date": "Sat, 21 Nov 2026 17:13:19 +0000",
-      "description": "Le député de la Somme, en rupture avec La France insoumise, a annoncé renoncer à l’élection présidentielle, ce samedi 21 novembre, face au risque de voir le RN prendre le pouvoir. Il n’apporte son soutien à aucun candidat.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Hélicoptère russe soupçonné de violer l'espace aérien finlandais",
@@ -841,6 +833,14 @@
       "description": "L'exécutif chinois en relation romantique avec l'ancien PDG de Nvidia Jensen Huang avait des liens avec le commerce lucratif des puces en Chine",
       "source": "Financial Times",
       "category": "Économie"
+    },
+    {
+      "title": "Nicolas Baverez : « L’ultra violence, arme de destruction massive de la démocratie »",
+      "link": "https://www.lefigaro.fr/vox/societe/nicolas-baverez-l-ultra-violence-arme-de-destruction-massive-de-la-democratie-20261121",
+      "date": "Sat, 21 Nov 2026 17:00:00 +0100",
+      "description": "CHRONIQUE - Depuis le 17 octobre, l’ultra violence s’est installée en France comme un régime permanent et elle ne cesse de gagner du terrain. Il est de notre responsabilité de l’éradiquer maintenant, avant qu’il ne soit trop tard.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Voici les meilleurs agents d'IA qui peuvent vivre dans vos messages texte",
@@ -896,7 +896,7 @@
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
       "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
       "source": "The Guardian",
-      "category": "Sciences"
+      "category": "Technologie"
     },
     {
       "title": "Le FBI aurait enquêté sur un hack apparent de sa base de données criminelle",
@@ -923,20 +923,20 @@
       "category": "Exploration"
     },
     {
-      "title": "La marine américaine se prépare à la troisième mise à niveau hypersonore de Zumwalt",
-      "link": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-prepares-for-third-zumwalt-hypersonic-upgrade/",
-      "date": "Sat, 21 Nov 2026 16:14:42 +0000",
-      "description": "La marine américaine prévoit une révision en 2028 pour équiper le destroyer de la classe Zumwalt de l'USS Michael Monsoor (DDG-1001) de missiles hypersoniques classiques. Le post U.S. Navy se prépare pour la troisième mise à niveau hypersonique Zumwalt est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Est-ce que la vente d'une version AI de votre visage à cette startup microdrama l'avenir d'Hollywood?",
       "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "date": "Sat, 21 Nov 2026 16:00:00 +0000",
       "description": "Un acteur a licencié son visage à une start-up microdrama, dans une tendance déjà populaire en Chine. Les experts s'interrogent sur les conséquences à long terme si cela devient aussi une tendance à Hollywood.",
       "source": "TechCrunch",
       "category": "Technologie"
+    },
+    {
+      "title": "Jusqu’à 10.000 euros : le guichet d’aide aux commerces dégradés à cause des violences urbaines est ouvert",
+      "link": "https://www.lefigaro.fr/conjoncture/commerces-degrades-a-cause-des-violences-urbaines-le-guichet-national-d-aide-est-ouvert-20261121",
+      "date": "Sat, 21 Nov 2026 15:59:38 +0100",
+      "description": "Les entreprises concernées disposent d’un délai de six semaines pour déposer leur demande d’aide qui peut grimper jusqu’à 10.000 euros.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Budget UE: plus de 200 milliards d'euros d'économies proposées, Paris et Berlin font la moue",
@@ -1000,14 +1000,6 @@
       "date": "Sat, 21 Nov 2026 14:58:00 GMT",
       "description": "Le président du Conseil européen, Antonio Costa, a proposé de réduire le budget de l'UE pour 2028-2034, y compris une taxe de 3 % sur les grandes entreprises numériques afin d'alléger les contributions des États membres. La France a déjà rejeté ce plan comme inadéquat.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 14:54:24 GMT",
-      "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -1235,14 +1227,6 @@
       "category": "Sciences"
     },
     {
-      "title": "La Marine française Quatrième classe SSN ‘De Grasse' entre en service actif",
-      "link": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
-      "date": "Sat, 21 Nov 2026 10:18:51 +0000",
-      "description": "La quatrième SSN de la classe Suffren, De Grasse, est officiellement entrée en service avec la marine française dans le cadre du programme sous-marin Barracuda. Le post Marine française Quatrième classe deuffren SSN ‘De Grasse.",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Le temps peut être bien plus étrange que nous ne le savons. Les scientifiques ont un moyen de le tester",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
       "date": "Sat, 21 Nov 2026 10:09:46 EST",
@@ -1289,14 +1273,6 @@
       "description": "Les procureurs ont soutenu que l'accusé, Jonathan Rinderknecht, 30 ans, avait été « fou à tout » dans les jours qui ont précédé le feu de janvier 2025, qui a tué 12 personnes.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Le Royaume-Uni et la Norvège s'engagent pour plus de 100 millions de livres pour deux nouveaux bateaux d'attaque rapide pour l'Ukraine",
-      "link": "https://www.navalnews.com/naval-news/2026/11/uk-and-norway-commit-over-100m-for-two-new-fast-attack-craft-for-ukraine/",
-      "date": "Sat, 21 Nov 2026 08:46:25 +0000",
-      "description": "Construit au Royaume-Uni, les deux embarcations d'attaque rapide de 30 mètres porteront des systèmes avancés de défense aérienne et de missiles pour aider la marine ukrainienne à protéger le corridor des grains de la mer Noire. Communiqué de presse du Premier ministre britannique Deux bateaux d'attaque rapide avancés pour l'Ukraine sont financés conjointement par le Royaume-Uni et la Norvège pour stimuler la défense ukrainienne et exercer de nouvelles pressions sur la Russie. ... The post Royaume-Uni et Norvège Commit Plus de £100M pour deux nouveaux rapides Attack Craft pour",
-      "source": "Naval News",
-      "category": "Défense"
     },
     {
       "title": "Les scientifiques disent que l'arbre généalogique humain peut avoir besoin d'une réécriture radicale",
@@ -1531,7 +1507,7 @@
       "category": "Exploration"
     },
     {
-      "title": "Q&A: Qu'est-ce que le mécanisme Belém-Antalya pour une « transition juste »?",
+      "title": "Q&A : Qu'est-ce que le mécanisme Belém-Antalya pour une « transition juste » ?",
       "link": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
       "date": "Mon, 09 Nov 2026 08:00:00 +0000",
       "description": "L'un des principaux résultats attendus du prochain sommet climatique COP31 à Antalya, en Turquie, est le lancement d'un... L'article Q&A : Quel est le mécanisme Belém-Antalya pour une « transition juste » ? paru en premier sur Carbon Brief .",
@@ -1568,7 +1544,7 @@
       "date": "Fri, 20 Nov 2026 22:57:26 GMT",
       "description": "Des centaines de jeunes oiseaux ont également été sauvés du feu, ce qui s'explique par le fait que le foie gras fait l'objet d'un nouvel examen des préoccupations liées au bien-être des animaux.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "Les ventes de GTA 6 ont atteint 3,8 milliards de dollars en une seule journée - le plus grand lancement de divertissement de l'histoire",
@@ -1971,14 +1947,6 @@
       "category": "Exploration"
     },
     {
-      "title": "TKMS dévoile le futur modèle de frégate de la marine allemande F128 à Euronaval 2026",
-      "link": "https://www.navalnews.com/naval-news/2026/11/tkms-unveils-future-german-navy-f128-frigate-model-at-euronaval-2026/",
-      "date": "Fri, 20 Nov 2026 14:49:23 +0000",
-      "description": "TKMS a dévoilé le modèle de première échelle de la future frégate F128 de la marine allemande (MEKO A-200 DEU) à Euronaval 2026, détaillant ses capteurs, ses armes et sa conception. L'article TKMS dévoile le futur modèle de frégate de la marine allemande F128 à Euronaval 2026 est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Marine Les plans du CCA n'attendront pas F/A-XX",
       "link": "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
       "date": "Fri, 20 Nov 2026 14:38:25 -0500",
@@ -2048,15 +2016,7 @@
       "date": "Fri, 20 Nov 2026 10:24:52 GMT",
       "description": "Le gouvernement veut que davantage de maisons disposent de pompes à chaleur pour réduire l'utilisation de combustibles fossiles et réduire les factures d'énergie.",
       "source": "BBC News",
-      "category": "Sciences"
-    },
-    {
-      "title": "Italie Nouvelle Génération DDG (NG DDG / DDX): Première Plateforme et Système de Combat Détails",
-      "link": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
-      "date": "Fri, 20 Nov 2026 10:16:09 +0000",
-      "description": "Suite à la signature du contrat de 3,7 milliards d'euros, Naval News dévoile la première plate-forme, capteur et détails d'arme de la Marine italienne nouvelle 13 500 tonnes NG DDG (anciennement connue sous le nom de DDX). L'article Italie Nouvelle génération DDG (NG DDG / DDX): Première plate-forme et le système de combat Détails sont apparus en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
+      "category": "Environnement"
     },
     {
       "title": "L'utilisation de l'électricité augmente, surtout dans ces états",
@@ -2107,14 +2067,6 @@
       "category": "Monde"
     },
     {
-      "title": "Baglietto Navy dévoile un nouveau MPV54 de 54 mètres, s'associe à JA Solutions",
-      "link": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/baglietto-navy-unveils-new-54-metre-mpv54-vessel-teams-up-with-ja-solutions/",
-      "date": "Fri, 20 Nov 2026 08:45:22 +0000",
-      "description": "Baglietto Navy a dévoilé son nouveau MPV54 (bateau de patrouille polyvalent) à Euronaval 2026 en collaboration avec JA Solutions L'article Baglietto Navy dévoile un nouveau MPV54 de 54 mètres, s'associe à JA Solutions pour la première fois sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Le Voyager 1 de la NASA est si loin que la lumière prend 24 heures pour l'atteindre",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
       "date": "Fri, 20 Nov 2026 07:55:54 EST",
@@ -2160,7 +2112,7 @@
       "date": "Fri, 20 Nov 2026 05:59:56 GMT",
       "description": "La mission est de nous donner notre meilleure vision de Mercure - la planète la plus proche du Soleil.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "APOD: 2026 le 20 novembre – V-G-R",
@@ -2176,7 +2128,7 @@
       "date": "Fri, 20 Nov 2026 05:03:43 GMT",
       "description": "Les pays africains au sommet des Nations unies sur le climat en Turquie demandent davantage de financement aux pays développés pour les aider à faire face aux changements climatiques.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Environnement"
     },
     {
       "title": "La Force aérienne annonce des promotions E-9, des fentes déclassées à remplir",
