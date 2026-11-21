@@ -269,6 +269,36 @@ body .article,body .info,body .stat,body .panel{box-shadow:0 5px calc(8px + var(
 @media(min-width:650px){.profile-grid.nexus-world-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:360px){.profile-grid.nexus-world-grid{gap:6px}.nexus-world-grid .profile-card{padding:9px;min-height:76px}}
 
+
+/* NEXUS V14 — SIMPLIFIED PERSONALIZATION STUDIO */
+.compact-studio{padding:0!important;overflow:hidden;background:transparent!important;border:0!important;box-shadow:none!important}
+.studio-hero{display:grid;grid-template-columns:1.1fr .9fr;gap:14px;align-items:center;padding:19px;border:1px solid #315778;border-radius:17px;background:radial-gradient(ellipse at 82% 42%,#16415a88,transparent 42%),linear-gradient(135deg,#132b43,#08121e 72%);box-shadow:inset 0 1px #ffffff0b,0 14px 32px #0004;position:relative;overflow:hidden}
+.studio-hero:after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(112deg,transparent 0 23px,#66dfff08 24px 25px);mask-image:linear-gradient(90deg,transparent,#000)}
+.studio-hero-copy,.studio-live-preview{position:relative;z-index:1}.studio-hero-copy h2{font-size:clamp(20px,5vw,27px);line-height:1.15;margin:9px 0}.studio-hero-copy p{color:#a9bed1;font-size:11px;line-height:1.65;margin:0;max-width:260px}
+.studio-live-preview{min-height:138px;padding:11px;border:1px solid #4ca5c566;border-radius:13px;background:linear-gradient(145deg,#091724dd,#0b1d2ddd);box-shadow:0 0 28px #43d9ff18,inset 0 0 24px #43d9ff0a}
+.preview-topline{display:flex;justify-content:space-between;color:#8ca9c1;font-size:7px;letter-spacing:1.3px}.preview-topline span:last-child{color:#55e5b7}.preview-topline i{display:inline-block;width:5px;height:5px;border-radius:50%;background:#55e5b7;box-shadow:0 0 7px #55e5b7;vertical-align:1px;margin-right:4px}
+.preview-orbit{width:65px;height:65px;margin:8px auto 5px;border:1px solid #43d9ff77;border-radius:50%;display:grid;place-items:center;position:relative;box-shadow:0 0 20px #43d9ff20,inset 0 0 16px #43d9ff18}.preview-orbit:before,.preview-orbit:after{content:"";position:absolute;border:1px solid #43d9ff55;border-radius:50%;inset:8px;transform:rotateX(65deg)}.preview-orbit:after{inset:-5px;border-color:#f2bd6255;transform:rotateY(66deg) rotateZ(20deg)}.preview-orbit span{position:absolute;width:5px;height:5px;right:7px;top:10px;border-radius:50%;background:#f2bd62;box-shadow:0 0 9px #f2bd62}.preview-orbit b{font-size:21px;letter-spacing:3px;color:#dff8ff;text-shadow:0 0 12px #43d9ff}
+.preview-signal{display:flex;justify-content:space-between;gap:5px;color:#7895ad;font-size:7px;letter-spacing:1px}.preview-signal strong{color:#43d9ff;font-size:7px}.preview-bars{height:12px;display:flex;align-items:end;gap:3px;margin-top:8px}.preview-bars i{display:block;flex:1;height:var(--bar-h,35%);background:linear-gradient(0deg,#2475a6,#58e4ff);opacity:.7;border-radius:2px 2px 0 0}.preview-bars i:nth-child(2){height:70%}.preview-bars i:nth-child(3){height:43%}.preview-bars i:nth-child(4){height:88%}.preview-bars i:nth-child(5){height:55%}.preview-bars i:nth-child(6){height:100%}.preview-bars i:nth-child(7){height:63%}.preview-bars i:nth-child(8){height:78%}
+.studio-tabs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:5px;margin:14px 0;padding:5px;background:#091522;border:1px solid #20384e;border-radius:12px}.studio-tab{min-width:0;border:1px solid transparent;border-radius:8px;padding:10px 4px;background:transparent;color:#8fa4bb;font-size:10px;font-weight:700;transition:.2s}.studio-tab.active{color:#e7f9ff;background:linear-gradient(145deg,#16415e,#10283d);border-color:#347da1;box-shadow:0 0 14px #43d9ff18}
+.studio-panel{padding:5px 2px 12px;animation:studioEnter .22s ease both}.studio-panel[hidden]{display:none!important}@keyframes studioEnter{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.studio-section-title{display:flex;justify-content:space-between;align-items:end;gap:10px;margin:12px 1px}.studio-section-title span{color:#43d9ff;font-size:8px;letter-spacing:1.6px;font-weight:800}.studio-section-title h3{font-size:17px;margin:5px 0 0}.studio-section-title>small{color:#8098ad;font-size:9px;white-space:nowrap}
+.nexus-simple-profiles{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:13px 0}.nexus-simple-profiles .profile-card{position:relative;overflow:hidden;min-height:75px;padding:12px;border-radius:13px;background:linear-gradient(145deg,#122338,#0a1420);border-color:#28435a;grid-template-columns:15px 1fr;z-index:0}.nexus-simple-profiles .profile-card b{font-size:10px;letter-spacing:.8px}.nexus-simple-profiles .profile-card small{font-size:9px;line-height:1.4}.nexus-simple-profiles .profile-card.selected{border-color:#59dfff;background:linear-gradient(145deg,#163a52,#0c1b2a);box-shadow:0 0 0 1px #43d9ff30,0 8px 24px #0004,0 0 18px #43d9ff19}.nexus-simple-profiles .profile-card .profile-glint{position:absolute;right:-30px;top:-28px;width:95px;height:95px;border-radius:50%;background:radial-gradient(circle,#43d9ff18,transparent 68%);pointer-events:none;z-index:-1}.nexus-simple-profiles .profile-bladerunner{grid-column:1/-1;min-height:93px;background:linear-gradient(110deg,#111b2a,#202638 56%,#3b241b)!important;border-color:#8c654d}.nexus-simple-profiles .profile-bladerunner .profile-glint{width:170px;height:150px;right:-14px;top:-35px;background:radial-gradient(ellipse,#e18a4a44,transparent 68%)}.nexus-simple-profiles .profile-bladerunner:after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:repeating-linear-gradient(105deg,transparent 0 17px,#f7c58a0a 18px 19px)}
+.profile-arctic .profile-dot{background:#72e4ff;color:#72e4ff}.profile-solaris .profile-dot{background:#ffc66f;color:#ffc66f}.studio-hint{font-size:10px!important;line-height:1.6;color:#839bb1!important;margin:6px 2px 0!important}
+.studio-slider{display:block;padding:14px;margin:10px 0;background:linear-gradient(145deg,#101f30,#0b1623);border:1px solid #233d55;border-radius:12px}.studio-slider>span{display:flex;justify-content:space-between;align-items:center;gap:8px}.studio-slider b,.studio-select b,.studio-toggle b{font-size:11px;color:#e6f2fc}.studio-slider output{font-size:11px;color:#54ddff;font-weight:800;font-variant-numeric:tabular-nums}.studio-slider>small,.studio-select small,.studio-toggle small{display:block;color:#849bb0;font-size:9px;line-height:1.5;margin-top:4px}.studio-slider input[type=range]{width:100%;display:block;margin:15px 0 1px;padding:0;accent-color:#43d9ff;height:4px}
+.studio-select,.studio-toggle{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px;margin:10px 0;background:linear-gradient(145deg,#101f30,#0b1623);border:1px solid #233d55;border-radius:12px}.studio-select>span,.studio-toggle>div{min-width:0}.studio-select select{max-width:46%;min-width:112px;margin:0;padding:10px;font-size:11px}.studio-toggle .switch{flex-shrink:0}
+.studio-footer{display:flex;align-items:center;justify-content:space-between;gap:10px;border-top:1px solid #20384e;padding:13px 2px 3px;color:#8198ad;font-size:9px;line-height:1.5}.studio-footer .small-btn{white-space:nowrap}.studio-legacy{display:none!important}
+.studio-control-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:11px 0 18px}
+.studio-control-grid>.studio-slider,.studio-control-grid>.studio-select,.studio-control-grid>.studio-toggle{min-width:0;margin:0;min-height:82px;padding:12px}
+.studio-control-grid>.studio-slider{display:flex;flex-direction:column;justify-content:space-between}
+.studio-control-grid>.studio-slider input[type=range]{margin:13px 0 1px}
+.studio-control-grid>.studio-select select{min-width:0;max-width:48%;font-size:10px;padding:9px}
+.studio-control-grid>.studio-select input[type=color]{width:43px;min-width:43px;height:35px;padding:2px;margin:0;border:1px solid #3b5972;background:#0b1623;border-radius:8px}
+.studio-control-grid>.studio-toggle{align-items:center}
+@media(max-width:560px){.studio-control-grid{grid-template-columns:1fr;gap:8px}.studio-control-grid>.studio-slider,.studio-control-grid>.studio-select,.studio-control-grid>.studio-toggle{min-height:76px;padding:12px}}
+
+@media(max-width:480px){.studio-hero{grid-template-columns:1fr .82fr;padding:14px;gap:8px}.studio-live-preview{min-height:128px;padding:9px}.studio-hero-copy h2{font-size:21px}.studio-hero-copy p{font-size:10px}.studio-tabs{gap:3px}.studio-tab{font-size:9px;padding:10px 2px}.nexus-simple-profiles{gap:7px}.nexus-simple-profiles .profile-card{padding:10px;min-height:72px}.studio-footer{align-items:flex-start}.studio-footer span{max-width:65%}}
+@media(prefers-reduced-motion:reduce){.studio-panel{animation:none!important}.studio-tab,.nexus-simple-profiles .profile-card{transition:none!important}}
+
 </style></head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
 <div class="fx-structure fx-scan"></div> <canvas id="nexusFxParticles"></canvas> <div class="fx-vignette"></div> </div> <div id="readingProgress" aria-hidden="true"></div> <div id="nexusToast" role="status" aria-live="polite"></div>
 <button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button> <header> <div class="top"> <div class="logo">NE<span>X</span>US</div> <div class="header-actions"> <div class="system" id="systemState">● INITIALISATION</div>
@@ -351,99 +381,101 @@ body .article,body .info,body .stat,body .panel{box-shadow:0 5px calc(8px + var(
 <div class="info"><div class="label">GESTIONNAIRE DE TÂCHES</div><div class="toolbar"><input id="taskInput" placeholder="Nouvelle tâche…"><button class="primary" id="addTask">Ajouter</button></div><div id="taskList"></div></div>
 <div class="info"><div class="label">AGENDA PERSONNEL</div><div class="toolbar"><input id="eventTitle" placeholder="Événement"><input id="eventDate" type="datetime-local"><button class="small-btn" id="addEvent">Ajouter</button></div><div id="eventList"></div></div>
 <div class="info"><div class="label">JOURNAL DES DÉCOUVERTES</div><textarea id="journalInput" placeholder="Ce que tu as appris ou ce que tu veux retenir…"></textarea><button class="small-btn" id="saveJournal">Ajouter au journal</button><div id="journalList"></div></div>
-</section> <section class="page" id="settings"> <h1>Paramètres.</h1><div class="subtitle">Configuration de votre centre NEXUS.</div> <div class="info appearance-panel"> <div class="label">NEXUS / CUSTOMIZATION STUDIO</div>
-<div class="appearance-preview"><span class="preview-dot"></span><div><strong>Aperçu en direct</strong><small>Chaque modification est appliquée immédiatement et sauvegardée sur cet appareil.</small></div></div> <div class="studio-heading">PROFILS VISUELS</div>
-<div class="setting-row"><div><strong>Ambiance prédéfinie</strong><p>Appliquer une identité complète en un seul réglage.</p></div><select id="themeProfile">
-<option value="tactical">Tactical</option><option value="cyber">Cyber</option><option value="stealth">Stealth</option><option value="ghost">Ghost</option>
-<option value="aurora">Aurora / Arctic</option><option value="reactor">Reactor</option><option value="deep-space">Deep Space</option><option value="obsidian">Obsidian</option><option value="redline">Redline</option><option value="matrix">Digital Matrix</option><option value="aurum">Aurum</option><option value="synthwave">Synthwave</option><option value="sonar">Sonar</option><option value="overdrive">Overdrive</option><option value="hologram">Hologram</option><option value="monolith">Monolith</option><option value="solaris">Solaris</option><option value="global-intel">Global Intel</option><option value="custom">Personnalisé</option></select></div> <div class="profile-grid nexus-world-grid">
-<button type="button" class="profile-card" data-profile="tactical"><i class="profile-dot tactical-dot"></i><b>TACTICAL OPS</b><small>Bleu nuit · centre opérationnel</small></button>
-<button type="button" class="profile-card" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>NEON DISTRICT</b><small>Cyan · magenta · ville nocturne</small></button>
-<button type="button" class="profile-card" data-profile="stealth"><i class="profile-dot stealth-dot"></i><b>STEALTH</b><small>Noir absolu · discret</small></button>
-<button type="button" class="profile-card" data-profile="ghost"><i class="profile-dot ghost-dot"></i><b>NEO-NOIR</b><small>Violet · rouge · cinématique</small></button>
-<button type="button" class="profile-card" data-profile="aurora"><i class="profile-dot aurora-dot"></i><b>ARCTIC</b><small>Glacier · polaire · lumineux</small></button>
-<button type="button" class="profile-card" data-profile="reactor"><i class="profile-dot reactor-dot"></i><b>REACTOR</b><small>Énergie · impulsions</small></button>
-<button type="button" class="profile-card" data-profile="deep-space"><i class="profile-dot"></i><b>DEEP SPACE</b><small>Bleu abyssal · violet stellaire</small></button>
-<button type="button" class="profile-card" data-profile="obsidian"><i class="profile-dot"></i><b>OBSIDIAN</b><small>Graphite · verre fumé</small></button>
-<button type="button" class="profile-card" data-profile="redline"><i class="profile-dot"></i><b>REDLINE</b><small>Noir · rouge électrique</small></button>
-<button type="button" class="profile-card" data-profile="matrix"><i class="profile-dot"></i><b>DIGITAL MATRIX</b><small>Vert numérique · terminal</small></button>
-<button type="button" class="profile-card" data-profile="aurum"><i class="profile-dot"></i><b>AURUM</b><small>Noir · or métallique</small></button>
-<button type="button" class="profile-card" data-profile="synthwave"><i class="profile-dot"></i><b>SYNTHWAVE</b><small>Magenta · violet rétro-futuriste</small></button>
-<button type="button" class="profile-card" data-profile="sonar"><i class="profile-dot"></i><b>SONAR</b><small>Marine · balayage radar</small></button>
-<button type="button" class="profile-card" data-profile="overdrive"><i class="profile-dot"></i><b>OVERDRIVE</b><small>Ambre · orange industriel</small></button>
-<button type="button" class="profile-card" data-profile="hologram"><i class="profile-dot"></i><b>HOLOGRAM</b><small>Verre · cyan · transparence</small></button>
-<button type="button" class="profile-card" data-profile="monolith"><i class="profile-dot"></i><b>MONOLITH</b><small>Monochrome · contraste net</small></button>
-<button type="button" class="profile-card" data-profile="solaris"><i class="profile-dot"></i><b>SOLARIS</b><small>Or solaire · lumière chaude</small></button>
-<button type="button" class="profile-card" data-profile="global-intel"><i class="profile-dot"></i><b>GLOBAL INTEL</b><small>Cartographie · renseignement</small></button>
-</div> <div class="studio-heading">COULEURS ET AMBIANCE</div>
-<div class="setting-row"><div><strong>Palette de couleurs</strong><p>Couleur principale de l'interface.</p></div><select id="accentColor"><option value="blue">Bleu NEXUS</option>
-<option value="cyan">Cyan électrique</option><option value="green">Vert tactique</option><option value="amber">Ambre radar</option><option value="violet">Violet spectral</option><option value="red">Rouge alerte</option><option value="custom">Personnalisée</option></select></div>
-<div class="setting-row"><div><strong>Couleur personnalisée</strong><p>Choisir librement une couleur d'accentuation.</p></div><input type="color" id="customAccent" value="#43d9ff" aria-label="Couleur personnalisée"></div>
-<div class="setting-row"><div><strong>Fond de l'interface</strong><p>Choisir la profondeur et la texture.</p></div><select id="backgroundStyle">
-<option value="deep">Bleu profond</option><option value="black">Noir absolu</option><option value="slate">Ardoise</option><option value="midnight">Nuit polaire</option></select></div>
-<div class="setting-row"><div><strong>Texture du fond</strong><p>Grille technique ou ambiance discrète.</p></div><select id="backgroundTexture">
-<option value="none">Aucune</option><option value="grid">Grille technique</option><option value="stars">Points lumineux</option><option value="scan">Lignes de balayage</option></select></div> <div class="studio-heading">MATIÈRE ET ÉCLAIRAGE</div>
-<div class="setting-row"><div><strong>Intensité lumineuse</strong><p>Force des halos et reflets.</p></div><input type="range" id="glowLevel" min="0" max="100" step="5" value="35"></div>
-<div class="setting-row"><div><strong>Transparence des panneaux</strong><p>Régler l'effet verre et la profondeur.</p></div><input type="range" id="panelOpacity" min="52" max="96" step="2" value="78"></div>
-<div class="setting-row"><div><strong>Arrondi des panneaux</strong><p>De très anguleux à très arrondis.</p></div><input type="range" id="cornerRadius" min="4" max="24" step="1" value="14"></div>
-<div class="setting-row"><div><strong>Style des panneaux</strong><p>Choisir le rendu des cartes.</p></div><select id="cardStyle"><option value="standard">Équilibré</option><option value="flat">Minimal</option><option value="round">Arrondi</option></select></div>
-<div class="setting-row"><div><strong>Effet verre dépoli</strong><p>Transparence et flou léger.</p></div><label class="switch"><input type="checkbox" id="glassMode"><span></span></label></div>
-<div class="setting-row"><div><strong>Halo lumineux</strong><p>Reflets autour des éléments actifs.</p></div><label class="switch"><input type="checkbox" id="glowMode"><span></span></label></div>
-<div class="setting-row"><div><strong>Fond atmosphérique</strong><p>Éclairage d'ambiance animé.</p></div><label class="switch"><input type="checkbox" id="ambientMode"><span></span></label></div> <div class="studio-heading">BACKGROUND ENGINE / EFFETS AVANCÉS</div>
-<div class="fx-preview" aria-hidden="true"><div class="fx-preview-orb"></div><div class="fx-preview-grid"></div><div class="fx-preview-content"><span>LIVE BACKGROUND</span><b>NEXUS / AMBIENT SYSTEM</b><small>Atmosphère · particules · profondeur · balayage</small></div></div>
-<div class="setting-row"><div><strong>Visibilité du fond</strong><p>Force globale des effets à l'écran.</p></div><input type="range" id="fxIntensity" min="0" max="100" step="5" value="92"></div>
-<div class="setting-row"><div><strong>Intensité atmosphérique</strong><p>Volume des halos et nappes lumineuses.</p></div><input type="range" id="fxAtmosphere" min="0" max="100" step="5" value="88"></div>
-<div class="setting-row"><div><strong>Densité des particules</strong><p>Points flottants et connexions discrètes.</p></div><input type="range" id="fxParticles" min="0" max="100" step="5" value="48"></div>
-<div class="setting-row"><div><strong>Vitesse des animations</strong><p>Déplacement lent ou dynamique.</p></div><input type="range" id="fxSpeed" min="0" max="100" step="5" value="42"></div>
-<div class="setting-row"><div><strong>Profondeur visuelle</strong><p>Contraste du quadrillage et des volumes.</p></div><input type="range" id="fxDepth" min="0" max="100" step="5" value="68"></div>
-<div class="setting-row"><div><strong>Palette du fond</strong><p>Teinte des volumes lumineux.</p></div><select id="fxPalette"><option value="nexus">NEXUS · bleu / cyan</option>
-<option value="aurora">Aurora · bleu polaire</option><option value="violet">Spectral · violet</option><option value="amber">Solar · ambre</option></select></div>
-<div class="setting-row"><div><strong>Grille technique</strong><p>Structure en perspective sur le fond.</p></div><label class="switch"><input type="checkbox" id="fxGrid" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Balayage énergétique</strong><p>Fine ligne de scan animée.</p></div><label class="switch"><input type="checkbox" id="fxScan" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Aurores dynamiques</strong><p>Grandes nappes lumineuses en mouvement.</p></div><label class="switch"><input type="checkbox" id="fxAurora" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Animations du fond</strong><p>Activer les déplacements et pulsations.</p></div><label class="switch"><input type="checkbox" id="fxMotion" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Retour haptique</strong><p>Courte vibration lors des actions, si le téléphone le permet.</p></div><label class="switch"><input type="checkbox" id="haptics" checked><span></span></label></div>
-<div class="studio-heading">PERSONNALISATION FINE / RÉGLAGES SUPPLÉMENTAIRES</div>
-<div class="setting-row"><div><strong>Intensité du contour lumineux</strong><p>Accentue les bords des cartes et panneaux.</p></div><input type="range" id="edgeIntensity" min="0" max="100" step="5" value="45"></div>
-<div class="setting-row"><div><strong>Vitesse du balayage radar</strong><p>Rythme de l'animation radar et des scans.</p></div><input type="range" id="radarSpeed" min="0" max="100" step="5" value="45"></div>
-<div class="setting-row"><div><strong>Échelle de l'interface</strong><p>Réduit ou agrandit légèrement les composants.</p></div><input type="range" id="uiScale" min="90" max="115" step="1" value="100"></div>
-<div class="setting-row"><div><strong>Effet de profondeur des cartes</strong><p>Ombres et relief des surfaces.</p></div><input type="range" id="cardDepth" min="0" max="100" step="5" value="55"></div>
-<div class="setting-row"><div><strong>Contours HUD angulaires</strong><p>Accentue l'identité technique des panneaux.</p></div><label class="switch"><input type="checkbox" id="hudCorners" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Micro-interactions</strong><p>Réactions visuelles au toucher et au survol.</p></div><label class="switch"><input type="checkbox" id="microInteractions" checked><span></span></label></div>
-<div class="studio-heading">CONFORT ET AFFICHAGE</div>
-<div class="setting-row"><div><strong>Densité de l'interface</strong><p>Espacement des éléments.</p></div><select id="densityMode"><option value="normal">Confortable</option><option value="compact">Compact</option><option value="spacious">Aéré</option></select></div>
-<div class="setting-row"><div><strong>Taille du texte</strong><p>Ajuster la lisibilité générale.</p></div><div class="font-scale-control"><input type="range" id="fontScale" min="75" max="180" step="5" value="100"><output id="fontScaleValue">100 %</output></div></div>
-<div class="setting-row"><div><strong>Animations réduites</strong><p>Désactiver les mouvements décoratifs.</p></div><label class="switch"><input type="checkbox" id="reducedMotion"><span></span></label></div> <div class="studio-heading">SAUVEGARDE DU THÈME</div>
-<p class="source">Exportation et importation de tes préférences visuelles. Cela ne remplace pas une sauvegarde des articles, dossiers ou favoris.</p>
-<div class="actions"><button class="small-btn" id="exportTheme" type="button">↧ Exporter mon thème</button><button class="small-btn" id="importThemeButton" type="button">↥ Importer un thème</button>
-<input type="file" id="importThemeFile" accept="application/json,.json" hidden></div> <button class="small-btn" id="resetAppearance" type="button">Réinitialiser l'apparence</button> </div>
-<div class="info identity-studio" id="identityStudio"><div class="identity-studio-head"><div><div class="label">NEXUS / IDENTITY STUDIO</div><h2>Personnalisation avancée.</h2><p>
-Transforme les cartes, les commandes, les graphiques et les animations. Aperçu appliqué en direct à toute l'interface.</p></div><span class="identity-live"><i></i> LIVE</span></div><div class="identity-preview-shell"><div class="identity-preview-top">
-<span>COMPONENT PREVIEW / 01</span><span>LIVE RENDER</span></div><article class="article identity-demo-card"><div class="article-head"><span class="tag">INTELLIGENCE</span><span class="status good">● SIGNAL ACTIF</span></div><h3>
-Un aperçu de l'identité NEXUS</h3><p>Les matériaux, contours, espacements et effets sont appliqués aux composants réels de l'application.</p><div class="identity-preview-data"><span>DATA FLOW <b>ACTIVE</b></span><span>VISUAL ENGINE <b>V14</b></span></div>
-<div class="bar"><span style="width:72%"></span></div><div class="actions"><button class="primary" type="button" tabindex="-1">Action principale</button><button class="small-btn" type="button" tabindex="-1">Commande secondaire</button></div></article>
-</div><div class="studio-heading">01 / SURFACE ENGINE — MATÉRIAUX DES COMPOSANTS</div><div class="identity-control-grid"><label class="identity-control"><span>Matériau des cartes et panneaux</span><select id="surfaceMaterial"><option value="obsidian">
-Obsidian · graphite profond</option><option value="holographic">Holographic · verre lumineux</option><option value="titanium">Titanium · métal brossé</option><option value="stealth">Stealth · mat discret</option><option value="prism">
-Prism · reflets multiton</option><option value="neon-edge">Neon Edge · contours lumineux</option></select></label><label class="identity-control"><span>Traitement des bordures</span><select id="borderStyle"><option value="hud">HUD · angles techniques
-</option><option value="hairline">Hairline · ligne fine</option><option value="glow">Glow · contour lumineux</option><option value="angular">Angular · angles nets</option><option value="classic">Classique</option></select></label></div>
-<div class="identity-swatches"><button type="button" data-identity-look="obsidian"><i class="swatch-obsidian"></i>OBSIDIAN</button><button type="button" data-identity-look="holographic"><i class="swatch-holo"></i>HOLOGRAPHIC</button>
-<button type="button" data-identity-look="titanium"><i class="swatch-titanium"></i>TITANIUM</button><button type="button" data-identity-look="prism"><i class="swatch-prism"></i>PRISM</button></div><div class="studio-heading">
-02 / NEWS COMPOSITION — STYLE DES PUBLICATIONS</div><div class="identity-control-grid"><label class="identity-control"><span>Présentation des actualités</span><select id="newsCardLayout"><option value="intelligence">Intelligence · fiche de briefing
-</option><option value="editorial">Editorial · magazine premium</option><option value="minimal">Minimal · lecture épurée</option></select></label><label class="identity-control"><span>Style des graphiques et indicateurs</span><select id="chartStyle">
-<option value="neon">Neon · lumineux</option><option value="precision">Precision · technique</option><option value="gradient">Gradient · dégradé</option></select></label></div><div class="studio-heading">03 / CONTROL DESIGN — BOUTONS, ICÔNES ET NAVIGATION
-</div><div class="identity-control-grid"><label class="identity-control"><span>Style des commandes</span><select id="controlStyle"><option value="technical">Technical · commandes HUD</option><option value="soft">Soft · arrondis premium</option>
-<option value="minimal">Minimal · discret</option></select></label><label class="identity-control"><span>Style des icônes</span><select id="iconStyle"><option value="geometric">Geometric · géométrique</option><option value="outlined">Outlined · contour
-</option><option value="minimal">Minimal · sobre</option></select></label><label class="identity-control"><span>Style de la barre inférieure</span><select id="navStyle"><option value="command">Command · centre de contrôle</option>
-<option value="holographic">Holographic · verre</option><option value="minimal">Minimal · discret</option></select></label></div><div class="studio-heading">04 / MOTION ENGINE — MOUVEMENT ET RÉACTIONS</div><div class="identity-control-grid">
-<label class="identity-control"><span>Signature des animations</span><select id="motionPreset"><option value="balanced">Balanced · fluide et discret</option><option value="cinematic">Cinematic · transitions profondes</option><option value="snappy">
-Snappy · rapide et nerveux</option><option value="off">Off · aucun mouvement décoratif</option></select></label><label class="identity-control"><span>Intensité des animations <output id="motionIntensityValue">55 %</output></span>
-<input type="range" id="motionIntensity" min="0" max="100" step="5" value="55"></label></div><div class="setting-row"><div><strong>Focus lumineux</strong><p>Mettre en évidence les commandes sélectionnées et les éléments actifs.</p></div>
-<label class="switch"><input type="checkbox" id="focusGlow" checked><span></span></label></div><div class="setting-row"><div><strong>Flux lumineux sur les cartes</strong><p>Fine ligne animée sur les contours, sans masquer le contenu.</p></div>
-<label class="switch"><input type="checkbox" id="dataFlow" checked><span></span></label></div><div class="setting-row"><div><strong>Apparition progressive</strong><p>Révéler les cartes et modules lors de leur affichage.</p></div><label class="switch">
-<input type="checkbox" id="revealMotion" checked><span></span></label></div><div class="studio-heading">05 / PERSONAL PRESETS — IDENTITÉS ENREGISTRÉES</div><p class="source">
-Enregistre plusieurs configurations complètes sur cet appareil, puis restaure-les en un toucher. Les réglages restent locaux.</p><div class="identity-preset-row"><select id="savedIdentityPreset"><option value="">Aucune identité enregistrée</option>
-</select><button type="button" class="small-btn" id="loadIdentityPreset">Charger</button><button type="button" class="small-btn" id="deleteIdentityPreset">Supprimer</button></div><div class="actions">
-<button type="button" class="primary" id="saveIdentityPreset">＋ Enregistrer cette identité</button><button type="button" class="small-btn" id="resetIdentityEngine">Réinitialiser le moteur</button></div><div class="identity-footnote">
-Les options de personnalisation changent l'apparence des composants existants. Elles ne modifient pas les données des actualités ni les fonctions métier.</div></div> 
+</section> <section class="page" id="settings"> <h1>Paramètres.</h1><div class="subtitle">Configuration de votre centre NEXUS.</div> <div class="info appearance-panel compact-studio" id="personalizationStudio">
+<div class="studio-hero">
+  <div class="studio-hero-copy">
+    <div class="label">NEXUS / IDENTITY</div>
+    <h2>Ton espace. Ton identité.</h2>
+    <p>Une apparence forte, quelques réglages utiles. Le reste s'adapte automatiquement.</p>
+  </div>
+  <div class="studio-live-preview" aria-label="Aperçu visuel en direct">
+    <div class="preview-topline"><span>NEXUS SYSTEM</span><span><i></i> LIVE</span></div>
+    <div class="preview-orbit"><span></span><b>N</b></div>
+    <div class="preview-signal"><span>INTELLIGENCE</span><strong>FEED ACTIVE</strong></div>
+    <div class="preview-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+  </div>
+</div>
+<div class="studio-tabs" role="tablist" aria-label="Catégories de personnalisation">
+  <button type="button" class="studio-tab active" data-studio-tab="appearance" role="tab" aria-selected="true">Identité</button>
+  <button type="button" class="studio-tab" data-studio-tab="ambiance" role="tab" aria-selected="false">Ambiance</button>
+  <button type="button" class="studio-tab" data-studio-tab="interface" role="tab" aria-selected="false">Interface</button>
+  <button type="button" class="studio-tab" data-studio-tab="comfort" role="tab" aria-selected="false">Confort</button>
+</div>
+<section class="studio-panel active" data-studio-panel="appearance" role="tabpanel">
+  <div class="studio-section-title"><div><span>01 / SIGNATURE</span><h3>Choisis ton univers</h3></div><small>5 profils · 10 réglages</small></div>
+  <div class="profile-grid nexus-simple-profiles">
+    <button type="button" class="profile-card profile-original" data-profile="tactical"><i class="profile-dot tactical-dot"></i><b>NEXUS ORIGINAL</b><small>La signature officielle</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-bladerunner" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>BLADE RUNNER</b><small>Néons · pluie · cinématique</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-stealth" data-profile="stealth"><i class="profile-dot stealth-dot"></i><b>STEALTH</b><small>Sombre · minimal · discret</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-arctic" data-profile="aurora"><i class="profile-dot aurora-dot"></i><b>ARCTIC</b><small>Glacier · bleu polaire</small><span class="profile-glint"></span></button>
+    <button type="button" class="profile-card profile-solaris" data-profile="solaris"><i class="profile-dot solaris-dot"></i><b>SOLARIS</b><small>Ambre · lumière chaude</small><span class="profile-glint"></span></button>
+  </div>
+  <p class="studio-hint">Les profils appliquent une base complète. Les réglages ci-dessous permettent ensuite de personnaliser chaque détail.</p>
+  <div class="studio-section-title"><div><span>PERSONNALISATION FINE</span><h3>Signature visuelle</h3></div><small>10 réglages</small></div>
+  <div class="studio-control-grid">
+    <label class="studio-select"><span><b>Palette principale</b><small>Couleur dominante de NEXUS</small></span><select id="accentColor"><option value="blue" selected>Bleu électrique</option><option value="cyan">Cyan</option><option value="green">Vert</option><option value="amber">Ambre</option><option value="violet">Violet</option><option value="red">Rouge</option></select></label>
+    <label class="studio-select"><span><b>Couleur personnalisée</b><small>Choisis ta propre teinte d’accent</small></span><input type="color" id="customAccent" value="#43d9ff" aria-label="Couleur personnalisée"></label>
+    <label class="studio-select"><span><b>Fond général</b><small>Base sombre de l’application</small></span><select id="backgroundStyle"><option value="deep" selected>Bleu profond</option><option value="black">Noir absolu</option><option value="slate">Ardoise</option><option value="midnight">Bleu nuit</option></select></label>
+    <label class="studio-select"><span><b>Texture de fond</b><small>Motif discret derrière les pages</small></span><select id="backgroundTexture"><option value="none">Aucune</option><option value="grid" selected>Grille technique</option><option value="stars">Poussière d’étoiles</option><option value="scan">Lignes de scan</option></select></label>
+    <label class="studio-select"><span><b>Matière des panneaux</b><small>Rendu des cartes et blocs</small></span><select id="surfaceMaterial"><option value="obsidian" selected>Obsidienne</option><option value="holographic">Holographique</option><option value="titanium">Titane</option><option value="stealth">Stealth mat</option><option value="prism">Prisme</option><option value="neon-edge">Contours néon</option></select></label>
+    <label class="studio-select"><span><b>Style des bordures</b><small>Contour des panneaux et cartes</small></span><select id="borderStyle"><option value="hud" selected>HUD technique</option><option value="glow">Lumineux</option><option value="hairline">Fin et discret</option><option value="angular">Angulaire</option></select></label>
+    <label class="studio-select"><span><b>Forme des cartes</b><small>Style des blocs d’information</small></span><select id="cardStyle"><option value="standard" selected>Standard</option><option value="flat">Plat</option><option value="round">Arrondi</option></select></label>
+    <div class="studio-toggle"><div><b>Effet verre</b><small>Transparence et flou des surfaces</small></div><label class="switch"><input type="checkbox" id="glassMode"><span></span></label></div>
+    <label class="studio-slider"><span><b>Opacité des panneaux</b><output id="panelOpacityValue">78%</output></span><small>Dosage de transparence des blocs</small><input type="range" id="panelOpacity" min="55" max="100" step="5" value="78"></label>
+    <label class="studio-slider"><span><b>Arrondi des angles</b><output id="cornerRadiusValue">14 px</output></span><small>Forme plus carrée ou plus douce</small><input type="range" id="cornerRadius" min="4" max="24" step="1" value="14"></label>
+  </div>
+</section>
+<section class="studio-panel" data-studio-panel="ambiance" role="tabpanel" hidden>
+  <div class="studio-section-title"><div><span>02 / ATMOSPHÈRE</span><h3>Compose ton ambiance</h3></div><small>10 réglages</small></div>
+  <div class="studio-control-grid">
+    <label class="studio-slider"><span><b>Présence visuelle</b><output id="fxIntensityValue">92%</output></span><small>Visibilité globale des effets décoratifs</small><input type="range" id="fxIntensity" min="0" max="100" step="5" value="92"></label>
+    <label class="studio-slider"><span><b>Brume et atmosphère</b><output id="fxAtmosphereValue">88%</output></span><small>Intensité des halos atmosphériques</small><input type="range" id="fxAtmosphere" min="0" max="100" step="5" value="88"></label>
+    <label class="studio-slider"><span><b>Particules</b><output id="fxParticlesValue">48%</output></span><small>Quantité de particules flottantes</small><input type="range" id="fxParticles" min="0" max="100" step="5" value="48"></label>
+    <label class="studio-slider"><span><b>Vitesse des effets</b><output id="fxSpeedValue">42%</output></span><small>Rythme des animations de fond</small><input type="range" id="fxSpeed" min="0" max="100" step="5" value="42"></label>
+    <label class="studio-slider"><span><b>Profondeur visuelle</b><output id="fxDepthValue">68%</output></span><small>Force des couches, flous et textures</small><input type="range" id="fxDepth" min="0" max="100" step="5" value="68"></label>
+    <label class="studio-slider"><span><b>Éclairage néon</b><output id="glowLevelValue">35%</output></span><small>Intensité des halos et reflets lumineux</small><input type="range" id="glowLevel" min="0" max="100" step="5" value="35"></label>
+    <label class="studio-select"><span><b>Palette des effets</b><small>Teinte des particules et de l’atmosphère</small></span><select id="fxPalette"><option value="nexus" selected>NEXUS cyan</option><option value="amber">Ambre</option><option value="aurora">Aurore</option><option value="violet">Violet</option><option value="ice">Glace</option></select></label>
+    <div class="studio-toggle"><div><b>Grille holographique</b><small>Afficher la trame technique</small></div><label class="switch"><input type="checkbox" id="fxGrid" checked><span></span></label></div>
+    <div class="studio-toggle"><div><b>Lignes de balayage</b><small>Ajouter un balayage discret</small></div><label class="switch"><input type="checkbox" id="fxScan" checked><span></span></label></div>
+    <div class="studio-toggle"><div><b>Voile lumineux</b><small>Activer les nappes lumineuses animées</small></div><label class="switch"><input type="checkbox" id="fxAurora" checked><span></span></label></div>
+  </div>
+</section>
+<section class="studio-panel" data-studio-panel="interface" role="tabpanel" hidden>
+  <div class="studio-section-title"><div><span>03 / ERGONOMIE</span><h3>Façonne ton interface</h3></div><small>10 réglages</small></div>
+  <div class="studio-control-grid">
+    <label class="studio-slider"><span><b>Taille du texte</b><output id="fontScaleValue">100%</output></span><small>Ajuste la taille des textes</small><input type="range" id="fontScale" min="85" max="125" step="5" value="100"></label>
+    <label class="studio-slider"><span><b>Échelle de l’interface</b><output id="uiScaleValue">100%</output></span><small>Ajuste légèrement la taille générale</small><input type="range" id="uiScale" min="90" max="115" step="5" value="100"></label>
+    <label class="studio-select"><span><b>Densité des informations</b><small>Espacement dans les pages</small></span><select id="densityMode"><option value="compact">Compact</option><option value="normal" selected>Équilibré</option><option value="spacious">Aéré</option></select></label>
+    <label class="studio-select"><span><b>Présentation des actualités</b><small>Organisation des cartes d’articles</small></span><select id="newsCardLayout"><option value="intelligence" selected>Centre de renseignement</option><option value="editorial">Éditorial</option><option value="minimal">Minimal</option></select></label>
+    <label class="studio-select"><span><b>Style des commandes</b><small>Forme et présence des boutons</small></span><select id="controlStyle"><option value="technical" selected>Technique</option><option value="soft">Doux</option><option value="minimal">Minimal</option></select></label>
+    <label class="studio-select"><span><b>Style des icônes</b><small>Traitement graphique des icônes</small></span><select id="iconStyle"><option value="geometric" selected>Géométrique</option><option value="outlined">Contour</option><option value="minimal">Minimal</option></select></label>
+    <label class="studio-select"><span><b>Style de navigation</b><small>Aspect de la barre inférieure</small></span><select id="navStyle"><option value="command" selected>Command</option><option value="holographic">Holographique</option><option value="minimal">Minimal</option></select></label>
+    <label class="studio-select"><span><b>Style des graphiques</b><small>Affichage des barres et indicateurs</small></span><select id="chartStyle"><option value="neon" selected>Néon</option><option value="precision">Précision</option><option value="gradient">Dégradé</option></select></label>
+    <label class="studio-slider"><span><b>Lueur des contours</b><output id="edgeIntensityValue">45%</output></span><small>Accentuation lumineuse des bordures</small><input type="range" id="edgeIntensity" min="0" max="100" step="5" value="45"></label>
+    <label class="studio-slider"><span><b>Relief des cartes</b><output id="cardDepthValue">55%</output></span><small>Profondeur des ombres et des surfaces</small><input type="range" id="cardDepth" min="0" max="100" step="5" value="55"></label>
+  </div>
+</section>
+<section class="studio-panel" data-studio-panel="comfort" role="tabpanel" hidden>
+  <div class="studio-section-title"><div><span>04 / CONTRÔLE</span><h3>Règle ton confort</h3></div><small>10 réglages</small></div>
+  <div class="studio-control-grid">
+    <div class="studio-toggle"><div><b>Animations réduites</b><small>Désactiver les mouvements décoratifs</small></div><label class="switch"><input type="checkbox" id="reducedMotion"><span></span></label></div>
+    <div class="studio-toggle"><div><b>Retour haptique</b><small>Petite vibration sur les appareils compatibles</small></div><label class="switch"><input type="checkbox" id="haptics" checked><span></span></label></div>
+    <label class="studio-select"><span><b>Profil d’animation</b><small>Rythme des transitions de l’interface</small></span><select id="motionPreset"><option value="off">Désactivé</option><option value="balanced" selected>Équilibré</option><option value="cinematic">Cinématique</option><option value="snappy">Rapide</option></select></label>
+    <label class="studio-slider"><span><b>Intensité des transitions</b><output id="motionIntensityValue">55%</output></span><small>Présence des transitions et réactions</small><input type="range" id="motionIntensity" min="0" max="100" step="5" value="55"></label>
+    <div class="studio-toggle"><div><b>Mouvement des effets</b><small>Animer les particules et effets de fond</small></div><label class="switch"><input type="checkbox" id="fxMotion" checked><span></span></label></div>
+    <div class="studio-toggle"><div><b>Micro-interactions</b><small>Réactions visuelles au toucher</small></div><label class="switch"><input type="checkbox" id="microInteractions" checked><span></span></label></div>
+    <div class="studio-toggle"><div><b>Repères de focus</b><small>Contour lumineux des éléments sélectionnés</small></div><label class="switch"><input type="checkbox" id="focusGlow" checked><span></span></label></div>
+    <div class="studio-toggle"><div><b>Flux de données</b><small>Animations fines sur les blocs d’information</small></div><label class="switch"><input type="checkbox" id="dataFlow" checked><span></span></label></div>
+    <div class="studio-toggle"><div><b>Animations d’apparition</b><small>Transitions à l’arrivée des contenus</small></div><label class="switch"><input type="checkbox" id="revealMotion" checked><span></span></label></div>
+    <label class="studio-slider"><span><b>Vitesse du radar</b><output id="radarSpeedValue">45%</output></span><small>Rythme de rotation du radar mondial</small><input type="range" id="radarSpeed" min="0" max="100" step="5" value="45"></label>
+  </div>
+</section>
+<div class="studio-footer"><span>Préférences sauvegardées automatiquement sur cet appareil.</span><button type="button" class="small-btn" id="resetAppearance">Réinitialiser</button></div>
+<div class="studio-legacy" aria-hidden="true">
+  <select id="themeProfile"><option value="tactical">NEXUS Original</option><option value="cyber">Blade Runner</option><option value="stealth">Stealth</option><option value="aurora">Arctic</option><option value="solaris">Solaris</option><option value="custom">Personnalisé</option></select>
+  <button type="button" id="exportTheme">Exporter</button><button type="button" id="importThemeButton">Importer</button><input type="file" id="importThemeFile" accept="application/json,.json">
+</div>
+</div>
 <div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option><option>10</option><option>15</option><option>20</option></select></div>
 <div class="info"><div class="label">SOURCES</div><p>Les articles sont chargés depuis le fichier automatique news.json.</p></div>
 <div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div>
@@ -703,7 +735,6 @@ ambientMode:nexusPrefs.ambient,
 panelOpacity:nexusPrefs.panelOpacity,
 cornerRadius:nexusPrefs.cornerRadius,
 fontScale:nexusPrefs.fontScale,
-
 densityMode:nexusPrefs.density||"normal",
 fxIntensity:nexusPrefs.fxIntensity,
 fxAtmosphere:nexusPrefs.fxAtmosphere,
@@ -730,9 +761,9 @@ focusGlow:nexusPrefs.focusGlow,
 dataFlow:nexusPrefs.dataFlow,
 revealMotion:nexusPrefs.revealMotion,edgeIntensity:nexusPrefs.edgeIntensity,radarSpeed:nexusPrefs.radarSpeed,uiScale:nexusPrefs.uiScale,cardDepth:nexusPrefs.cardDepth,hudCorners:nexusPrefs.hudCorners,microInteractions:nexusPrefs.microInteractions};
 Object.entries(ids).forEach(([id,value])=>{const el=document.getElementById(id);if(el)el.type==="checkbox"?el.checked=!!value:el.value=value});
-document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical"))); if(typeof refreshNexusFX==="function")refreshNexusFX(); } function applyThemeProfile(profile){ const presets={
+document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical"))); document.querySelectorAll('#personalizationStudio input[type="range"]').forEach(el=>{const out=document.getElementById(el.id+"Value");if(out)out.textContent=el.value+(el.id==="cornerRadius"?" px":" %")}); if(typeof refreshNexusFX==="function")refreshNexusFX(); } function applyThemeProfile(profile){ const presets={
 tactical:{profile:"tactical",accent:"blue",background:"deep",backgroundTexture:"grid",glow:32,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:80,cornerRadius:10,density:"normal",fxIntensity:78,fxAtmosphere:62,fxParticles:28,fxSpeed:30,fxDepth:58,fxPalette:"nexus",fxGrid:true,fxScan:false,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:48,edgeIntensity:52,radarSpeed:42,cardDepth:65,hudCorners:true,microInteractions:true},
-cyber:{profile:"cyber",accent:"cyan",background:"black",backgroundTexture:"scan",glow:86,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:78,fxSpeed:64,fxDepth:90,fxPalette:"nexus",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"holographic",chartStyle:"neon",motionPreset:"cinematic",motionIntensity:82,edgeIntensity:95,radarSpeed:70,cardDepth:80,hudCorners:true,microInteractions:true},
+cyber:{profile:"cyber",accent:"cyan",background:"black",backgroundTexture:"scan",glow:86,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:78,fxSpeed:38,fxDepth:90,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"holographic",chartStyle:"neon",motionPreset:"cinematic",motionIntensity:82,edgeIntensity:95,radarSpeed:70,cardDepth:80,hudCorners:true,microInteractions:true},
 stealth:{profile:"stealth",accent:"green",background:"black",backgroundTexture:"none",glow:8,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:94,cornerRadius:6,density:"compact",fxIntensity:20,fxAtmosphere:12,fxParticles:0,fxSpeed:15,fxDepth:18,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"obsidian",borderStyle:"hairline",newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"snappy",motionIntensity:12,edgeIntensity:5,radarSpeed:20,cardDepth:18,hudCorners:false,microInteractions:false},
 ghost:{profile:"ghost",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:58,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:72,cornerRadius:20,density:"spacious",fxIntensity:90,fxAtmosphere:88,fxParticles:52,fxSpeed:30,fxDepth:78,fxPalette:"violet",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:68,edgeIntensity:72,radarSpeed:35,cardDepth:76,hudCorners:false,microInteractions:true},
 aurora:{profile:"aurora",accent:"cyan",background:"midnight",backgroundTexture:"stars",glow:62,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:70,cornerRadius:19,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:62,fxSpeed:28,fxDepth:82,fxPalette:"aurora",fxGrid:true,fxScan:false,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:62,edgeIntensity:65,radarSpeed:30,cardDepth:75,hudCorners:false,microInteractions:true},
@@ -975,5 +1006,32 @@ document.getElementById("lastUpdate").textContent=stamp?"Dernière mise à jour 
 document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", "); render(); renderPrimaryNav(); renderCommandMenu(); initNexusV10(); initNexusIdentityStudio(); initNexusFX(); initNexusUltimate();
 document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",String(!p.classList.contains("active")))); updateAlertIndicator(); refreshNews();
 </script>
+
+<script>
+(()=>{
+  const tabs=[...document.querySelectorAll('[data-studio-tab]')];
+  const panels=[...document.querySelectorAll('[data-studio-panel]')];
+  tabs.forEach(tab=>tab.addEventListener('click',()=>{
+    const key=tab.dataset.studioTab;
+    tabs.forEach(item=>{const active=item===tab;item.classList.toggle('active',active);item.setAttribute('aria-selected',String(active))});
+    panels.forEach(panel=>{const active=panel.dataset.studioPanel===key;panel.classList.toggle('active',active);panel.hidden=!active});
+  }));
+  const values={fxIntensity:'fxIntensityValue',motionIntensity:'motionIntensityValue',glowLevel:'glowLevelValue',fontScale:'fontScaleValue'};
+  Object.entries(values).forEach(([id,outputId])=>{
+    const input=document.getElementById(id),output=document.getElementById(outputId);
+    if(!input||!output)return;
+    const update=()=>output.textContent=input.value+' %';
+    input.addEventListener('input',update);input.addEventListener('change',update);update();
+  });
+  if(typeof nexusPrefs!=='undefined'){
+    ['fxIntensity','motionIntensity','glowLevel','fontScale'].forEach(id=>{const input=document.getElementById(id);if(input&&nexusPrefs[id]!==undefined)input.value=nexusPrefs[id]});
+    const density=document.getElementById('densityMode');if(density)density.value=nexusPrefs.density||'normal';
+    const reduced=document.getElementById('reducedMotion');if(reduced)reduced.checked=!!nexusPrefs.reducedMotion;
+    const haptics=document.getElementById('haptics');if(haptics)haptics.checked=nexusPrefs.haptics!==false;
+    Object.entries(values).forEach(([id,outputId])=>{const input=document.getElementById(id),output=document.getElementById(outputId);if(input&&output)output.textContent=input.value+' %'});
+  }
+})();
+</script>
+
 </body>
 </html>
