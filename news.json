@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T13:43:48.400461+00:00",
-  "count": 287,
+  "updated_at": "2026-11-21T14:31:47.175006+00:00",
+  "count": 288,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -95,14 +95,6 @@
       "link": "https://grist.org/food-and-agriculture/they-migrated-to-new-york-for-work-now-theyre-fighting-to-climate-proof-it/",
       "date": "Wed, 18 Nov 2026 09:45:00 +0000",
       "description": "Plus le temps devient mauvais, plus les livreurs travaillent. Peut-on apprendre à la ville comment s'adapter aux catastrophes climatiques?",
-      "source": "Grist",
-      "category": "Environnement"
-    },
-    {
-      "title": "Ce projet de loi du Congrès pour accélérer les projets énergétiques signifierait pour vous",
-      "link": "https://grist.org/energy/what-congress-bill-to-speed-up-energy-projects-would-mean-for-you-permitting-reform-baaja/",
-      "date": "Wed, 18 Nov 2026 09:30:00 +0000",
-      "description": "Les projets de loi de réforme du Sénat faciliteraient la construction d'énergies renouvelables, mais aussi les infrastructures pétrolières et gazières.",
       "source": "Grist",
       "category": "Environnement"
     },
@@ -515,20 +507,44 @@
       "category": "Exploration"
     },
     {
-      "title": "«On utilise un art légitime contre le système» : Étienne Jarrier, enfant de la bourgeoisie et chef d’orchestre de la révolution",
-      "link": "https://www.lefigaro.fr/actualite-france/on-utilise-un-art-legitime-contre-le-systeme-etienne-jarrier-enfant-de-la-bourgeoisie-et-chef-d-orchestre-de-la-revolution-20261113",
-      "date": "Sun, 15 Nov 2026 09:25:43 +0100",
-      "description": "PORTRAIT - Ce clarinettiste de formation a fondé l’association L’orchestre du Nouveau Monde, qui s’attelle à décloisonner l’univers de la musique classique afin de le mettre au service des luttes sociales et climatiques.",
+      "title": "EN DIRECT - Colère sociale : le cortège parisien s’est élancé depuis la place de la République, la mobilisation en baisse",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+      "date": "Sat, 21 Nov 2026 15:20:45 +0100",
+      "description": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Colère sociale : le cortège parisien s’est élancé depuis la place de la République",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
-      "date": "Sat, 21 Nov 2026 14:35:03 +0100",
-      "description": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "title": "Commerces dégradés à cause des violences urbaines : le guichet national d’aide est ouvert",
+      "link": "https://www.lefigaro.fr/conjoncture/commerces-degrades-a-cause-des-violences-urbaines-le-guichet-national-d-aide-est-ouvert-20261121",
+      "date": "Sat, 21 Nov 2026 15:17:50 +0100",
+      "description": "Les entreprises concernées disposent d’un délai de six semaines pour déposer leur demande d’aide qui peut grimper jusqu’à 10.000 euros.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "L’armée finlandaise a détecté une «attaque de drone» contre un cargo russe dans le golfe de Finlande",
+      "link": "https://www.lefigaro.fr/international/finlande-l-armee-a-detecte-une-attaque-de-drone-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121",
+      "date": "Sat, 21 Nov 2026 15:11:18 +0100",
+      "description": "«Samedi matin, les forces de défense finlandaises ont détecté une attaque de drone contre un cargo russe à l’ouest de Suursaari, dans l’est du golfe de Finlande, en eaux internationales», a annoncé le ministère de la Défense.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Mobilisation du 21 novembre : 44 rassemblements ont été recensés par le ministère de l'Intérieur sur le territoire national",
+      "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 14:55:59 +0100",
+      "description": "Ces actions s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Etsy dit qu'il n'utilisera pas le contenu des vendeurs pour former l'IA après qu'ils se révoltent sur les changements de politique",
+      "link": "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
+      "date": "Sat, 21 Nov 2026 14:25:25 +0000",
+      "description": "Etsy a modifié ses conditions d'utilisation en ajoutant une clause sur la formation à l'IA. Maintenant, il a précisé qu'il n'utilisera pas le contenu des vendeurs pour former AI qui peut copier leur travail.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "\"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie",
@@ -547,12 +563,36 @@
       "category": "France"
     },
     {
-      "title": "Mobilisation du 21 novembre : le cortège s'élance de la place de la République à Paris, pour le sixième samedi de manifestation",
-      "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 14:13:57 +0100",
-      "description": "Ces rassemblements s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
-      "source": "franceinfo",
+      "title": "L'Iran pourrait-il inverser sa politique déclarée d'un programme nucléaire exclusivement civil?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 14:15:36 +0000",
+      "description": "Le FM iranien Araghchi dit qu'il y a un « grand débat stratégique » sur l'avenir de la doctrine nucléaire iranienne.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "À quoi ressemblait le stockage des données au début des années 2000 vs aujourd'hui",
+      "link": "https://www.engadget.com/2318027/what-data-storage-looked-like-early-2000s-vs-today/",
+      "date": "Sat, 21 Nov 2026 14:15:00 +0000",
+      "description": "Nous avons parcouru un long chemin dans la technologie de stockage en seulement 25 ans, des disquettes et de minuscules clés USB aux SSD massifs et stockage en nuage.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "«Ça va être fun, y’a pas de caméra dans la bagnole» : enquête ouverte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre",
+      "link": "https://www.liberation.fr/societe/police-justice/ca-va-etre-fun-ya-pas-de-camera-dans-la-bagnole-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-de-la-manifestation-du-31-octobre-20261121_35KT4DY2BZBM3GHXH7Y7YYUQ6Q/",
+      "date": "Sat, 21 Nov 2026 14:13:17 +0000",
+      "description": "Les manifestants avaient été arrêtés en marge du troisième samedi de manifestations contre la vie chère pour avoir frappé des policiers. Ils avaient porté plainte le 4 novembre contre deux d’entre eux, les accusant de violences.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Catherine, Princesse de Galles, Documents La vie avec le cancer dans BBC Film",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+      "date": "Sat, 21 Nov 2026 14:09:39 +0000",
+      "description": "Catherine, qui est en rémission, dit dans une bande-annonce pour le film. Il sortira ce mois-ci.",
+      "source": "The New York Times",
+      "category": "Monde"
     },
     {
       "title": "Le remorquage du cargo échoué dans les Landes pourrait prendre plusieurs jours, selon la préfecture",
@@ -563,27 +603,107 @@
       "category": "France"
     },
     {
-      "title": "Messages de soulèvements, « Black Friday » du pillage : les « gilets jaunes » et l’ultragauche veulent relancer le mouvement de colère sociale",
-      "link": "https://www.lefigaro.fr/actualite-france/messages-de-soulevements-black-friday-du-pillage-les-gilets-jaunes-et-l-ultragauche-veulent-relancer-le-mouvement-de-colere-sociale-20261120",
-      "date": "Sat, 21 Nov 2026 13:45:12 +0100",
-      "description": "Alors que les pilleurs pourraient s’en prendre aux boutiques et aux marchés de Noël, 70.000 policiers et gendarmes seront déployés ce samedi. Pour cet «Acte VI», les émeutiers veulent se rappeler au bon souvenir des «gilets», huit ans après.",
-      "source": "Le Figaro",
+      "title": "Jerusalem Daily : Gaza fait face à des grèves meurtrières et à une crise sanitaire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 14:06:06 +0000",
+      "description": "Jerusalem Daily : Gaza fait face à des grèves meurtrières et à une crise sanitaire",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Une «illusion de glamour et de glamour»: À l'intérieur de la Californie moderne ruée vers l'or, où les mineurs peuvent apporter des millions",
+      "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+      "date": "Sat, 21 Nov 2026 14:05:40 GMT",
+      "description": "Le prix de l'or a déclenché une ruée vers l'or moderne en Californie. Les petits mineurs investissent du temps, du travail physique et de l'argent pour déterrer le métal jaune.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "De La Rochelle à l’Espagne, sur la route des teufeurs : «Fuir la France, c’est la seule solution pour faire vivre les free parties»",
+      "link": "https://www.liberation.fr/culture/musique/de-la-rochelle-a-lespagne-sur-la-route-des-teufeurs-fuir-la-france-cest-la-seule-solution-pour-faire-vivre-les-free-parties-20261121_XPWRSDXR35BRBCQZXQMFH45TWI/",
+      "date": "Sat, 21 Nov 2026 14:04:00 +0000",
+      "description": "Depuis la loi Ripost adoptée au Parlement cet été, les sanctions autour de ces fêtes clandestines ont été considérablement durcies. Des teufeurs traversent donc la frontière pour échapper à la répression et faire perdurer ces «espaces de lutte».",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "EN DIRECT – A Lyon dans le cortège contre la vie chère aspergé de gaz : «Mais c’est interdit le rassemblement ?»",
+      "title": "EN DIRECT – Mobilisation du 21 novembre : l’Intérieur dénombre une quarantaine d’actions et 2 000 participants à la mi-journée",
       "link": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/",
-      "date": "Sat, 21 Nov 2026 13:40:50 +0000",
+      "date": "Sat, 21 Nov 2026 14:03:29 +0000",
       "description": "A Paris, la coordination des gilets jaunes s’est vue refuser par la préfecture de police de se rendre jusqu’à la place de la Concorde. Elle devrait donc rejoindre le cortège syndical, au départ de la place de la République.",
       "source": "Libération",
       "category": "France"
     },
     {
-      "title": "«Legend», HugoDécrypte ou Blast : quels créateurs de contenus et médias en ligne sont vraiment concernés par la régulation de l’Arcom ?",
-      "link": "https://www.liberation.fr/checknews/legend-hugodecrypte-ou-blast-quels-createurs-de-contenus-et-medias-en-ligne-sont-vraiment-concernes-par-la-regulation-de-larcom-20261121_DVECUULTW5BTNH232B2IBVLBT4/",
-      "date": "Sat, 21 Nov 2026 13:37:17 +0000",
-      "description": "Selon les informations de «CheckNews», seule une dizaine de youtubeurs et médias en ligne seront contraints de respecter l’obligation de pluralisme. Une émission comme «BackSeat» ne cumulerait pas assez d’audience, tandis que Brut ou Blast auraient été approchés.",
+      "title": "«Ce qui se joue» de Caroline Hinault : en verbe et contre tout",
+      "link": "https://www.liberation.fr/culture/ce-qui-se-joue-de-caroline-hinault-en-verbe-et-contre-tout-20261121_XSBNONDALRHTFLRRI7HZKWDR5A/",
+      "date": "Sat, 21 Nov 2026 14:03:00 +0000",
+      "description": "A travers le récit d’une épidémie d’aphasie gagnant le corps enseignant, l’autrice célèbre la puissance du langage et l’impérieuse nécessité des services publics.",
       "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "«Désolant mais normal» : de l’affaire Dutroux à la mort de Lyhanna, trente ans qui ont rendu les parents méfiants envers leurs très proches",
+      "link": "https://www.lefigaro.fr/actualite-france/desolant-mais-normal-de-l-affaire-dutroux-a-la-mort-de-lyhanna-trente-ans-qui-ont-rendu-les-parents-mefiants-envers-leurs-tres-proches-20261121",
+      "date": "Sat, 21 Nov 2026 14:00:00 +0100",
+      "description": "RÉCIT - Longtemps associée à l’extérieur, au prédateur à la camionnette blanche, la pédophilie est désormais reliée à l’entourage de l’enfant. Pour les spécialistes du problème, nous commençons enfin à le comprendre dans sa complexité.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Pourquoi des réductions profondes sur Apple AirPods utilisés ne valent pas la peine",
+      "link": "https://www.engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it/",
+      "date": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "description": "Avant de cliquer sur acheter sur AirPods d'occasion, découvrez les risques que la plupart des vendeurs ne mentionnent jamais et les façons plus intelligentes d'économiser sur une nouvelle paire d'oreilles.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Au Nord-Kivu, la lutte contre Ebola se heurte à la colère des soignants",
+      "link": "https://www.liberation.fr/international/afrique/au-nord-kivu-la-lutte-contre-ebola-se-heurte-a-la-colere-des-soignants-20261121_EFXABKMUP5DP5DXVC3MHTEFS2I/",
+      "date": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "description": "L’épidémie la plus meurtrière jamais enregistrée dans le pays poursuit sa progression. En première ligne, les personnels de santé locaux, qui travaillent dans la précarité, durcissent leur grève. Et les ONG internationales multiplient les cris d’alarme.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Nouvelle communauté net-zero deviendra la première centrale électrique virtuelle du Michigan",
+      "link": "https://grist.org/cities/new-net-zero-community-will-become-michigans-first-virtual-power-plant/",
+      "date": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "description": "Le développement d'Ann Arbor partagera son énergie solaire et batterie avec le réseau, dans le cadre d'un projet pilote visant à réduire les coûts énergétiques et à assurer la fiabilité.",
+      "source": "Grist",
+      "category": "Environnement"
+    },
+    {
+      "title": "En Israël, les négociations patinent autour de la formation du gouvernement",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-en-isra%C3%ABl-les-n%C3%A9gociations-patinent-autour-de-la-formation-du-gouvernement",
+      "date": "Sat, 21 Nov 2026 13:49:24 GMT",
+      "description": "En Israël, les tractations politiques s’intensifient pour former le prochain gouvernement. Chargé de constituer une coalition d’ici le 6 décembre, le chef de l’opposition Gadi Eisenkot prévient qu’il pourrait présenter un gouvernement minoritaire faute d’accord large.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Lilith, «monstre de désir» : du mythe biblique au dessin animé Netflix",
+      "link": "https://www.liberation.fr/lifestyle/intimites/lilith-monstre-de-desir-du-mythe-biblique-au-dessin-anime-netflix-20261121_H4EFWFYCXJGXNOWGEQTGSV6FAU/",
+      "date": "Sat, 21 Nov 2026 13:49:00 +0000",
+      "description": "Selon la légende, la première épouse d’Adam refusa la position du missionnaire. Elle devient aujourd’hui l’héroïne d’un dessin animé tout public sur la plateforme américaine. Analyse de Christophe Stener, exégète du livre sacré.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les avantages et les inconvénients de l'utilisation d'un téléphone muet sur un smartphone en 2026",
+      "link": "https://www.engadget.com/2317890/pros-cons-using-dumb-phone-over-smartphone-2026/",
+      "date": "Sat, 21 Nov 2026 13:45:00 +0000",
+      "description": "Les téléphones nuls sont bon marché et sans distraction, mais votre smartphone vous manquera probablement.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
+      "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+      "date": "Sat, 21 Nov 2026 13:36:49 +0100",
+      "description": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’armes.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -603,12 +723,12 @@
       "category": "France"
     },
     {
-      "title": "Les groupes de parole de Terreur Graphique : «Bonjour, je m’appelle Jason Dibal…»",
-      "link": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-je-mappelle-jason-dibal-20261121_BQDUR4XCPRG4RKQJTG7PPAFZD4/",
-      "date": "Sat, 21 Nov 2026 13:25:00 +0000",
-      "description": "Parce que ça va mieux en le disant, tour d’horizon des groupes de parole.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Comment utiliser Gemini Notebook pour transformer votre recherche en site interactif",
+      "link": "https://www.engadget.com/2321236/how-to-use-gemini-notebook-to-turn-your-research-into-an-interactive-site/",
+      "date": "Sat, 21 Nov 2026 13:30:00 +0000",
+      "description": "La dernière fonctionnalité de Gemini Notebook peut créer un site Web avec des aides visuelles et des éléments interactifs (vérifiez simplement son travail).",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Zelensky dit que le pont de Crimée frappe \"juste réponse\" alors qu'il rencontre le streeting britannique",
@@ -635,14 +755,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Pourquoi les nouveaux Walkmans numériques de Sony coûtent des milliers de dollars",
-      "link": "https://www.engadget.com/2322505/why-sony-digital-walkmans-cost-thousands/",
-      "date": "Sat, 21 Nov 2026 13:15:00 +0000",
-      "description": "Sony vient d'ouvrir des pré-commandes pour trois nouveaux Walkmans avec des étiquettes de prix à la mâchoire. Voici ce que l'argent achète et pourquoi les chiffres peuvent ne pas correspondre.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "La lutte de l'État et du gouvernement fédéral pour la réglementation des marchés de prévision se réchauffe après les mi-parcours",
       "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
       "date": "Sat, 21 Nov 2026 13:12:41 GMT",
@@ -659,22 +771,6 @@
       "category": "Monde"
     },
     {
-      "title": "«La guerre s’étend jusqu’à nos portes» : une «attaque de drone» détectée contre un cargo russe dans le golfe de Finlande",
-      "link": "https://www.liberation.fr/international/europe/la-guerre-setend-jusqua-nos-portes-une-attaque-de-drone-detectee-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121_IBIBYATSGVC5TKHIW7MAULCT5U/",
-      "date": "Sat, 21 Nov 2026 13:07:03 +0000",
-      "description": "Le ministère de la Défense finlandais, qui a détecté l’incident ce samedi 21 novembre, n’a pas précisé l’origine de cette agression.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "GuiHome : «Le silence laisse trop de place à mon imagination»",
-      "link": "https://www.liberation.fr/culture/musique/guihome-le-silence-laisse-trop-de-place-a-mon-imagination-20261121_5DDU5WT53FCFZHGPU3PBPQY6SA/",
-      "date": "Sat, 21 Nov 2026 13:07:00 +0000",
-      "description": "L’humoriste, actuellement en tournée en France, dévoile ses goûts musicaux à «Libération».",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Warren Buffett quadruples cadeaux d'Action de grâce: Une rupture de combien de richesse il donne",
       "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
       "date": "Sat, 21 Nov 2026 13:01:44 GMT",
@@ -689,14 +785,6 @@
       "description": "De récentes pannes technologiques ont laissé certains inquiets au sujet des cyberattaques d'IA et du réseau électrique américain. L'économie dominicale se réchauffe en conséquence.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "« Il a bien fallu s’adapter » : du totem des 60 ans jusqu’à la capitalisation obligatoire, la longue mue de Marine Le Pen sur les retraites",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/il-a-bien-fallu-s-adapter-du-totem-des-60-ans-jusqu-a-la-capitalisation-obligatoire-la-longue-mue-de-marine-le-pen-sur-les-retraites-20261121",
-      "date": "Sat, 21 Nov 2026 13:00:00 +0100",
-      "description": "RÉCIT - De sa rupture avec les accents libéraux portés par Jean-Marie Le Pen au début des années 2010, jusqu’à sa récente conversion au réalisme budgétaire pour 2027, la candidate nationaliste a considérablement fait évoluer sa vision.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Les pannes ne font que commencer",
@@ -723,14 +811,6 @@
       "category": "Monde"
     },
     {
-      "title": "Au musée d’Art moderne de Paris, l’artiste syrienne Simone Fattal en ses cèdres et racines",
-      "link": "https://www.liberation.fr/culture/arts/art-contemporain/au-musee-dart-moderne-de-paris-lartiste-syrienne-simone-fattal-en-ses-cedres-et-racines-20261121_KUTC2T5AFVCO3L74SFLQBV7N5E/",
-      "date": "Sat, 21 Nov 2026 12:51:00 +0000",
-      "description": "Le musée parisien accueille les toiles, collages et sculptures peuplés de mythes et de souvenirs de l’artiste syrienne trop peu connue.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "L'hypothèse de Riemann : le problème de maths le plus célèbre du monde a-t-il été craqué ?",
       "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
       "date": "Sat, 21 Nov 2026 12:49:20 +0000",
@@ -739,10 +819,10 @@
       "category": "Monde"
     },
     {
-      "title": "La Russie dit que le navire à destination de Kaliningrad a été frappé par des drones dans le golfe de Finlande",
+      "title": "Efforts de sauvetage en cours lorsque des drones ont frappé un navire russe au large des côtes finlandaises",
       "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
       "date": "Sat, 21 Nov 2026 12:45:24 +0000",
-      "description": "Deux drones attaquent un cargo près de la frontière maritime russe, causant des dommages et l'évacuation de l'équipage.",
+      "description": "Deux drones attaquent un cargo que les autorités finlandaises disent avoir des liens avec les forces armées russes.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -771,22 +851,6 @@
       "category": "France"
     },
     {
-      "title": "Récapitulation de la revue Engadget : Apple HomeView, Ray-Ban Meta (Gen 3) et plus",
-      "link": "https://www.engadget.com/2323697/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/",
-      "date": "Sat, 21 Nov 2026 12:30:00 +0000",
-      "description": "Un tour d'horizon des récentes revues d'Engadget.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les attaques israéliennes contre Gaza tuent au moins quatre Palestiniens",
-      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 12:29:49 +0000",
-      "description": "L'attaque de drones israéliens tue trois personnes à Gaza, une autre abattue par les forces israéliennes à Jabalia.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France",
       "link": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 12:27:41 +0100",
@@ -803,14 +867,6 @@
       "category": "France"
     },
     {
-      "title": "Les résidents de Floride se tournent vers les kayaks et les radeaux comme les inondations ruelles marécageuses",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 12:22:24 +0000",
-      "description": "Des jours de fortes pluies ont inondé les rues de Floride, forçant les résidents à trouver des moyens créatifs de se déplacer.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Le réalisme de la course n'est pas réaliste et il n'est pas une bonne science",
       "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
       "date": "Sat, 21 Nov 2026 12:01:13 +0000",
@@ -825,6 +881,14 @@
       "description": "Gardez votre téléphone, ordinateur portable, console de jeu portable, et d'autres électroniques fonctionnant avec ces banques d'énergie conviviales de voyage.",
       "source": "WIRED",
       "category": "Technologie"
+    },
+    {
+      "title": "La première classe internationale est terminée pour les compagnies aériennes américaines. Entrez la méga cabine de classe affaires",
+      "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "date": "Sat, 21 Nov 2026 12:00:01 GMT",
+      "description": "Les compagnies aériennes choisissent de construire des cabines géantes de classe affaires avec des suites toujours plus luxueuses.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Une sonde spatiale retourne aux astéroïdes où la NASA a testé des systèmes de défense planétaire",
@@ -848,14 +912,6 @@
       "date": "Sat, 21 Nov 2026 11:55:56 GMT",
       "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à manifester ce samedi 21 novembre en France, contre la vie chère, pour l'augmentation des salaires et de meilleures conditions d'études. Cet « Acte VI », comme l'appellent les gilets jaunes qui fêtent leurs 8 ans ce week-end, s'inscrit dans un cadre européen avec de nombreux pays qui connaissent des mobilisations similaires.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "La F1, ce sport mixte sur le papier, où les femmes peinent toujours à exister",
-      "link": "https://www.lemonde.fr/sport/article/2026/11/21/la-f1-ce-sport-mixte-sur-le-papier-ou-les-femmes-peinent-toujours-a-exister_6813981_3242.html",
-      "date": "Sat, 21 Nov 2026 11:30:15 +0100",
-      "description": "Aucune pilote n’a pris le départ d’un Grand Prix depuis l’Italienne Lella Lomardi en 1976. La F1 Academy, lancée en 2023 et dont la dernière manche de la saison se déroule en marge du Grand Prix de Las Vegas, samedi, vise à y remédier. Mais les freins restent nombreux.",
-      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -987,6 +1043,14 @@
       "category": "Monde"
     },
     {
+      "title": "Robots tueurs : les négociations de l'ONU manquent d'espoir pour des règles juridiquement contraignantes",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "date": "Sat, 21 Nov 2026 09:18:17 -0500",
+      "description": "Les pourparlers de l'ONU à Genève n'ont pas abouti à l'adoption de règles contraignantes en matière d'armes autonomes, car les groupes humanitaires avertissent que l'IA militaire progresse beaucoup plus rapidement que la diplomatie.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Les «robots de Killer» se poursuivent à l'ONU sans interdiction juridiquement contraignante",
       "link": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 21 Nov 2026 09:18:00 GMT",
@@ -1001,6 +1065,14 @@
       "description": "Le Brésil a célébré la Journée de la conscience noire, vendredi 20 novembre. Un jour férié national depuis 2024, en hommage à Zumbi dos Palmares, figure de la lutte contre l’esclavage au Brésil. Un jour de mémoire, de fête, et de résistance.",
       "source": "RFI",
       "category": "France"
+    },
+    {
+      "title": "Le jury fédéral condamne l'homme à commencer le feu mortel des Palisades 2025 à Los Angeles",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+      "date": "Sat, 21 Nov 2026 08:58:33 -0500",
+      "description": "Les procureurs ont soutenu que l'accusé, Jonathan Rinderknecht, 30 ans, avait été « fou à tout » dans les jours qui ont précédé le feu de janvier 2025, qui a tué 12 personnes.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Le Royaume-Uni et la Norvège s'engagent pour plus de 100 millions de livres pour deux nouveaux bateaux d'attaque rapide pour l'Ukraine",
@@ -1075,22 +1147,6 @@
       "category": "France"
     },
     {
-      "title": "Les forces iraquiennes entrent dans la forteresse de la puissante milice de l'Iran",
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "date": "Sat, 21 Nov 2026 07:11:24 +0000",
-      "description": "Pour la première fois en plus d'une décennie, des unités de l'armée et de la police ont été déployées sur le territoire contrôlé par le groupe, Kataib Hezbollah. Mais il n'était pas clair s'il allait retirer ses forces.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Le candidat LR Bruno Retailleau cherche la meilleure porte de sortie",
-      "link": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261121-le-candidat-lr-bruno-retailleau-cherche-la-meilleure-porte-de-sortie",
-      "date": "Sat, 21 Nov 2026 06:46:52 GMT",
-      "description": "Et si, pour la première fois de l’histoire, le parti Les Républicains ne présentait pas de candidat à l’élection présidentielle? Cette question se pose désormais sérieusement. Bruno Retailleau, dont les intentions de vote frôlent maintenant les 5%, cherche à tout prix une porte de sortie honorable.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "La main morte de l'histoire pèse sur Deutsche Bank",
       "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
       "date": "Sat, 21 Nov 2026 06:32:26 GMT",
@@ -1121,14 +1177,6 @@
       "description": "Le premier ministre et son cabinet ont alimenté auprès de la presse l’idée de complicités au sein du personnel de l’éducation nationale dans les heurts qui ont eu lieu dans et aux abords des lycées. « Le Monde » a contacté plusieurs chefs d’établissement qui livrent un tout autre récit tandis que les parquets ne font pas état de procédures de cette nature.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Comment la Chine utilise les sommets pour élargir son influence mondiale",
-      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-      "date": "Sat, 21 Nov 2026 06:00:02 GMT",
-      "description": "Le président chinois Xi Jinping a aidé à coordonner une nouvelle séance photo d'importance mondiale.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir",
@@ -1195,20 +1243,12 @@
       "category": "Économie"
     },
     {
-      "title": "Un effort pour contourner le Collège électoral peut être à portée de main. Mais les obstacles restent",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "description": "Un effort national visant à faire en sorte que seuls les gagnants du vote populaire deviennent président pourrait bientôt atteindre une étape critique.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "date": "Sat, 21 Nov 2026 05:00:00 -0500",
       "description": "Les critiques disent maintenant que le géant de l'IA est une entreprise publique, son engagement à mettre la sécurité avant le succès commercial sera testé.",
       "source": "NPR",
-      "category": "Monde"
+      "category": "Économie"
     },
     {
       "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
@@ -1355,22 +1395,6 @@
       "category": "Défense"
     },
     {
-      "title": "Pourquoi ne pas compter sur GTA 6 pour enregistrer automatiquement",
-      "link": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save/",
-      "date": "Fri, 20 Nov 2026 23:48:00 +0000",
-      "description": "Nous vous expliquons comment fonctionne le système d'enregistrement automatique de GTA 6, de sorte que vous ne perdez pas accidentellement de progrès dans le jeu massif.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "YouTube pourrait payer 3 milliards de dollars pour régler des poursuites en matière de dépendance aux médias sociaux avec les districts scolaires",
-      "link": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/",
-      "date": "Fri, 20 Nov 2026 23:40:10 +0000",
-      "description": "YouTube fait face à un nombre croissant de poursuites alléguant que sa plateforme est conçue pour être addictif et qu'elle a fait du mal aux adolescents.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "En une année de résolution de problèmes mathématiques de l'IA, un travailleur anthropopique dit qu'il a peut-être craqué le plus grand",
       "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 20 Nov 2026 23:08:57 GMT",
@@ -1385,14 +1409,6 @@
       "description": "La guerre en Ukraine a eu des conséquences indicibles pour les dauphins, les orignaux, les cigognes et un vaste éventail d'autres espèces sauvages dont les habitats sont aujourd'hui ravagés par des filets antidrones, des champs de mines ou dans la ligne de feu directe.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Le stock de Nvidia plonge 14%, se termine plus longue série de pertes hebdomadaires depuis la crise financière de 2008",
-      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-      "date": "Fri, 20 Nov 2026 22:59:33 GMT",
-      "description": "Autrefois la société la plus précieuse au monde, Nvidia se classe au quatrième rang derrière Apple, Microsoft et Alphabet.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Oiseaux tués en feu dans l'une des plus grandes fermes de foie gras aux États-Unis",
@@ -1456,14 +1472,6 @@
       "date": "Fri, 20 Nov 2026 22:16:51 +0000",
       "description": "Expliquez les changements qui ont été apportés au service Starshield en octobre 2026.",
       "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les travailleurs d'Internet Archive se syndicalisent",
-      "link": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing/",
-      "date": "Fri, 20 Nov 2026 22:15:03 +0000",
-      "description": "Aucune de leurs demandes n'est radicale : une meilleure rémunération, des avantages supplémentaires qui s'appliquent à tous et des voies pour le développement de carrière et la promotion.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -2219,6 +2227,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Chess.com Le prochain mouvement est un nouveau hub pour les jeux classiques, du mahjong au sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "date": "2026-11-21T09:00:00-05:00",
+      "description": "Chess.com est prêt à aller beaucoup plus grand que les échecs. Après avoir lancé Gambit, un site de poker sans jeu, plus tôt cette année, l'entreprise ajoute maintenant 10 autres jeux: backgammon, checkers, go, coeurs, mahjong, shogi, sudoku, solitaire, xiangqi, et une alternative Scrabble appelé mot. Ils font tous partie de la nouvelle plateforme des Jeux Classiques d'Ess, qui [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Le Xiaomi 18 Pro prouve que deux écrans ne sont pas mieux qu'un",
       "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
       "date": "2026-11-21T08:00:00-05:00",
@@ -2255,14 +2271,6 @@
       "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
       "date": "2026-11-20T14:35:06-05:00",
       "description": "GTA VI a gagné 3,79 milliards de dollars lors de son premier jour de vente, qui a établi « un nouveau record de divertissement sur n'importe quel support », selon une annonce de Rockstar Games. Le jeu a également vendu 32,5 millions d'exemplaires de précommande. « C'est avec une immense gratitude que nous entrons dans un nouveau chapitre de Rockstar Games avec la sortie de Grand [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "L'Omni C28 est de 53 pour cent devant le Black Friday",
-      "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "date": "2026-11-20T14:15:00-05:00",
-      "description": "Accueillir Thanksgiving peut être amusant, mais nettoyer après ? Pas tellement. L'hybride robot omni C28 peut aider, et grâce à une offre du vendredi noir tôt, vous pouvez le récupérer à un nouveau prix bas de 379,99 $ (420 $ sur son prix d'origine) à Amazon, Best Buy, ou directement de [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
