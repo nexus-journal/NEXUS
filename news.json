@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T07:55:23.524243+00:00",
+  "updated_at": "2026-11-21T08:45:05.634123+00:00",
   "count": 286,
   "articles": [
     {
@@ -33,14 +33,6 @@
       "description": "MERRITT ISLAND, FL, 18 Novembre, 2026 — All Points Logistics a annoncé un partenariat avec Expeditors International de Washington, Inc. (NYSE: EXPD) pour servir de fournisseur de [...] The post All Points Logistics annonce un partenariat avec Expeditors pour Space Prep Logistics Center au Kennedy Space Center est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
-    },
-    {
-      "title": "Tirs de la Force aérienne Minuteman III ICBM dans le lancement d'essai",
-      "link": "https://www.airandspaceforces.com/air-force-global-strike-test-launch-minuteman-icbm/",
-      "date": "Wed, 18 Nov 2026 20:28:57 +0000",
-      "description": "La Force aérienne a lancé un missile balistique intercontinental Minuteman III non armé de la base de la Force spatiale de Vandenberg, Calif., fin novembre 17, son premier essai en six mois. Le post Air Force Fires Minuteman III ICBM dans Test Launch est apparu en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
     },
     {
       "title": "Rencontrer la nouvelle équipe de la Banque centrale européenne",
@@ -251,6 +243,14 @@
       "category": "Monde"
     },
     {
+      "title": "Défaillance du dernier lancement de la Force spatiale",
+      "link": "https://www.airandspaceforces.com/ula-launch-failure-trouble-space-force/",
+      "date": "Thu, 19 Nov 2026 21:31:18 +0000",
+      "description": "Quand une fusée United Launch Alliance a échoué le 15 novembre, l'explosion a fait plus que détruire une fusée et les 40 satellites Amazon LEO qu'elle transportait : Il a resserré le goulot d'étranglement qui limite déjà la capacité de lancement de la Force spatiale et a augmenté la pression sur ULA. L'article ULAS Dernières défaillances de lancement Perturbations pour la Force spatiale est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
       "title": "Les pénuries de missiles aux États-Unis créent un problème de portée.",
       "link": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
       "date": "Thu, 19 Nov 2026 21:23:13 +0000",
@@ -264,14 +264,6 @@
       "date": "Thu, 19 Nov 2026 20:57:05 +0000",
       "description": "Le Parlement danois a ratifié à l'unanimité, jeudi, un accord de sécurité avec les États-Unis sur le Groenland, dans l'espoir de mettre fin à une impasse sur l'avenir de l'île arctique.",
       "source": "Defense News",
-      "category": "Défense"
-    },
-    {
-      "title": "Ministère de la Vérification des échecs de la Force aérienne, Won=t publie son propre rapport financier",
-      "link": "https://www.airandspaceforces.com/department-of-air-force-fails-audit-wont-publish-financial-report/",
-      "date": "Thu, 19 Nov 2026 20:41:44 +0000",
-      "description": "Le ministère de la Force aérienne a échoué à sa dernière vérification financière au cours de l'exercice 2026, de même que le Pentagone global, bien que les fonctionnaires affirment qu'ils font des progrès avant l'échéance de 2028 pour en passer une. C'est aussi la première fois depuis au moins deux décennies que le ministère de la Force aérienne n'a pas publié de rapport financier distinct. Dans une déclaration faite à Air & Space Forces Magazine, un porte-parole de la Force aérienne a déclaré que le ministère prévoit reprendre la publication",
-      "source": "Air & Space Forces Magazine",
       "category": "Défense"
     },
     {
@@ -565,9 +557,73 @@
     {
       "title": "EN DIRECT - Colère sociale : Laurent Nuñez appelle les préfets à la vigilance à l’approche d’une sixième journée de mobilisation",
       "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
-      "date": "Sat, 21 Nov 2026 08:29:03 +0100",
+      "date": "Sat, 21 Nov 2026 09:15:03 +0100",
       "description": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "\"Il aurait fallu réagir avant\" : dans le Pas-de-Calais, des habitants fatigués et en colère face à des crues à répétition",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-aurait-fallu-reagir-avant-dans-le-pas-de-calais-des-habitants-fatigues-et-en-colere-face-a-des-crues-a-repetition_8293445.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 09:08:46 +0100",
+      "description": "Face à l'intensification des épisodes de fortes pluies, les habitants du secteur de Montreuil-sur-Mer s'interrogent sur les réponses apportées depuis les inondations de 2023 et sur l'adaptation de leur territoire au changement climatique.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Serge Money, avocat de Michel Zecler, salue une \"décision historique\" mais les peines \"laissent un petit goût amer\"",
+      "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/serge-money-avocat-de-michel-zecler-salue-une-decision-historique-mais-les-peines-laissent-un-petit-gout-amer_8293472.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 08:56:43 +0100",
+      "description": "C'est une \"décision historique\", a réagi sur franceinfo Serge Money, l'avocat de Michel Zecler, après la condamnation des trois policiers vendredi.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Achim et Briac Severe, Perséphone, Matthew Dear, Soraya Cinéma... la playlist du cahier musique de «Libération»",
+      "link": "https://www.liberation.fr/culture/musique/achim-et-briac-severe-persephone-matthew-dear-soraya-cinema-la-playlist-du-cahier-musique-de-liberation-20261121_IKA7MJ6GAJAHFMJ4Z2CS4SVEQE/",
+      "date": "Sat, 21 Nov 2026 08:42:00 +0000",
+      "description": "Chaque week-end, la web radio de «Tsugi» accompagne le cahier musique de «Libération».",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "En direct : Acte VI de la mobilisation pour la jeunesse et contre la vie chère",
+      "link": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
+      "date": "Sat, 21 Nov 2026 08:23:49 GMT",
+      "description": "Pour la sixième semaine consécutive, syndicats, organisations de jeunesse et gilets jaunes appellent à protester dans la rue contre la vie chère, dans un contexte de grogne sociale devenue européenne mais qui commence à s'essouffler en France. Des manifestations contre les violences faites aux femmes sont également attendues à partir de samedi dans toute la France. Suivez notre direct sur cette page.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "En Amérique latine, de nouvelles caravanes de migrants s'organisent vers les États-Unis",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-en-am%C3%A9rique-latine-de-nouvelles-caravanes-de-migrants-s-organisent-vers-les-%C3%A9tats-unis",
+      "date": "Sat, 21 Nov 2026 08:23:11 GMT",
+      "description": "Quelques jours après la victoire des démocrates au Congrès des États-Unis, les flux migratoires depuis l’Amérique latine, qui s’étaient faits discrets ces deux dernières années, sont de nouveaux visibles. Vendredi 20 novembre, une caravane d’environ 200 migrants, formée au Honduras, est entrée au Mexique.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Zelensky dit que Poutine est un 'tueur' après Trump appelle le leader russe un ami",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 08:10:25 GMT",
+      "description": "Plus tôt cette semaine, Trump a accueilli Poutine avant une réunion en Chine et a déclaré que la paire avait une « grande relation ».",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Tondelier-Mélenchon : et si l’histoire n’était pas encore écrite ?",
+      "link": "https://www.liberation.fr/politique/elections/tondelier-melenchon-et-si-lhistoire-netait-pas-encore-ecrite-20261121_HK7DHTMEIJC2LMGTVCRHITA4HU/",
+      "date": "Sat, 21 Nov 2026 08:08:00 +0000",
+      "description": "Le choix de l’écologiste de se tourner vers les insoumis pour «travailler à une coalition» est loin de signifier la fin de sa candidature. Le candidat LFI ne goûte guère ses discussions d’appareil et n’a pas l’air partant pour «mettre de l’eau dans [son] vin» international.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Donald Trump veut que Nvidia accorde une «seconde chance» à Jensen Huang",
+      "link": "https://www.liberation.fr/economie/economie-numerique/donald-trump-veut-que-nvidia-accorde-une-seconde-chance-a-jensen-huang-20261121_KVS5YUW7KBCKVHMKZK36BNBXUI/",
+      "date": "Sat, 21 Nov 2026 07:59:15 +0000",
+      "description": "Quelques jours après la démission du patron du géant des puces électroniques, le président américain a pris la défense, vendredi 20 novembre, de celui avec qui il partage une approche dérégulée du développement de l’IA.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -579,12 +635,28 @@
       "category": "Monde"
     },
     {
+      "title": "À quelques heures d'écart, deux mathématiciens annoncent la résolution d'un des «problèmes du millénaire» grâce à l'IA",
+      "link": "https://www.rfi.fr/fr/science/20261121-%C3%A0-quelques-heures-d-%C3%A9cart-deux-math%C3%A9maticiens-annoncent-la-r%C3%A9solution-d-un-des-probl%C3%A8mes-du-mill%C3%A9naire-gr%C3%A2ce-%C3%A0-l-ia",
+      "date": "Sat, 21 Nov 2026 07:42:10 GMT",
+      "description": "Le chercheur Levent Alpöge a affirmé vendredi 20 novembre avoir résolu l'hypothèse de Riemann, considéré par certains comme le problème de mathématiques le plus important du monde, avec l'aide d'un modèle d'intelligence artificielle (IA) d'Anthropic... avant qu'un professeur affirme, quelques heures plus tard, que l'un de ses élèves avait fait de même.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
       "title": "Mort de Jean-Paul Benjamin : le policier qui a tué l’automobiliste noir en 2022 condamné à 18 mois de prison ferme",
       "link": "https://www.liberation.fr/societe/police-justice/mort-de-jean-paul-benjamin-le-policier-qui-a-tue-lautomobiliste-noir-en-2022-condamne-a-18-mois-de-prison-ferme-20261121_BMVREVFT4VCOTD5B5X4MLURHLQ/",
       "date": "Sat, 21 Nov 2026 07:41:41 +0000",
       "description": "L’avocate générale avait demandé cinq ans de réclusion criminelle, assortis d’un mandat de dépôt différé, à l’encontre de cet ancien brigadier-chef de la BAC, Emmanuel Neves, 37 ans. Aucun mandat de dépôt n’a été demandé à son encontre.",
       "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "La médiation peut-elle réussir dans un monde déchiré par la guerre? Épisode 1",
+      "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 07:38:38 +0000",
+      "description": "Avec plus de 65 conflits armés qui font rage dans le monde, les meilleurs médiateurs montrent pourquoi la paix n'a jamais été plus difficile à réaliser.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Les négociations se prolongent samedi à la COP31, faute d'accord sur les textes les plus disputés",
@@ -603,19 +675,11 @@
       "category": "Monde"
     },
     {
-      "title": "Au moins deux tués, 28 blessés dans des incendies à la centrale électrique en Irak",
+      "title": "Au moins quatre morts, 35 blessés dans un incendie à la centrale électrique en Irak",
       "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
       "date": "Sat, 21 Nov 2026 07:25:29 +0000",
-      "description": "L'incendie de la centrale de Hartha qui s'est étendue aux maisons voisines blesse des dizaines d'autres.",
+      "description": "Le feu a éclaté à la centrale de Hartha et s'est répandu dans les maisons voisines.",
       "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Zelensky dit que Poutine est un 'tueur' après Trump appelle le leader russe un ami",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 07:24:45 GMT",
-      "description": "Plus tôt cette semaine, Trump a accueilli Poutine avant une réunion en Chine et a déclaré que la paire avait une « grande relation ».",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -631,14 +695,6 @@
       "link": "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 07:18:08 +0100",
       "description": "Le haut fonctionnaire, qui a été le numéro deux du ministère de l'Intérieur entre avril 2025 et mai 2026, a été convoqué vendredi par Laurent Nuñez après l'ouverture d'une enquête pour \"violation du secret professionnel, violation du secret de l'enquête et recel de ces délits\".",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Black Week, Cyber Monday, Black Month… Pourquoi les commerçants n'attendent-ils plus le Black Friday pour casser les prix ?",
-      "link": "https://www.franceinfo.fr/economie/black-week-cyber-monday-black-month-pourquoi-les-commercants-n-attendent-ils-plus-le-black-friday-pour-casser-les-prix_8284550.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 07:17:38 +0100",
-      "description": "Les offres promotionnelles se multiplient en novembre et ne concernent plus seulement le dernier vendredi du mois. Une stratégie qui vise à capter les achats de Noël avant la concurrence.",
       "source": "franceinfo",
       "category": "France"
     },
@@ -731,14 +787,6 @@
       "category": "Monde"
     },
     {
-      "title": "Au Palais de Tokyo, chanter les luttes d’hier et d’aujourd’hui avec Alexiane Trapp",
-      "link": "https://www.liberation.fr/culture/au-palais-de-tokyo-chanter-les-luttes-dhier-et-daujourdhui-avec-alexiane-trapp-20261121_GRPDEVOGGJCNPIFCAL7ZJQCW3M/",
-      "date": "Sat, 21 Nov 2026 06:52:00 +0000",
-      "description": "Passionnée par l’histoire des luttes, très active dans les mobilisations, l’artiste trentenaire a sillonné la France et l’Italie pour faire résonner la contestation autrement dans «Encore des chants». Une vidéo à voir et à écouter au musée parisien.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : deux morts et 47 blessés dans des frappes russes sur Kryvy Rih, ville natale de Volodymyr Zelensky",
       "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
       "date": "Sat, 21 Nov 2026 06:38:14 +0100",
@@ -771,27 +819,11 @@
       "category": "France"
     },
     {
-      "title": "Netanyahou joue avec le feu qui a tué Rabin",
-      "link": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 06:21:03 +0000",
-      "description": "Ses attaques contre les législateurs arabes font écho à l'incitation qui a précédé l'assassinat de Rabin et risquent de déclencher de nouvelles violences.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Sixième samedi de manifestation contre la vie chère, premier round contre les violences sexistes",
       "link": "https://www.france24.com/fr/france/20261121-sixi%C3%A8me-samedi-de-manifestation-contre-la-vie-ch%C3%A8re-premier-round-contre-les-violences-sexistes",
       "date": "Sat, 21 Nov 2026 06:16:30 GMT",
       "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à protester samedi dans la rue contre la vie chère, dans un contexte de grogne sociale devenue européenne mais qui commence à se tasser les samedis en France. Des manifestations sont aussi prévues cette semaine dans l'Hexagone pour dénoncer les violences faites aux femmes et réclamer le vote de la loi intégrale.",
       "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "Loi sur la présomption de légitime défense pour les policiers : le Sénat, Chambre pas très sages",
-      "link": "https://www.liberation.fr/politique/loi-sur-la-presomption-de-legitime-defense-pour-les-policiers-le-senat-chambre-pas-tres-sages-20261121_DRVQ6RHGDZFWTPEU5VJHJCW2W4/",
-      "date": "Sat, 21 Nov 2026 06:16:00 +0000",
-      "description": "En soutenant ce texte dangereux, la droite et les macronistes rendent moins service au maintien de l’ordre qu’à une extrême droite aux portes du pouvoir.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -907,20 +939,28 @@
       "category": "Monde"
     },
     {
-      "title": "Affaire des fuites d’infos de l’Intérieur vers le RN : une perquisition à l’origine des soupçons",
-      "link": "https://www.liberation.fr/politique/affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-une-perquisition-a-lorigine-des-soupcons-20261121_ENEU45ECBBBYHJ4ABA64OZF6YA/",
-      "date": "Sat, 21 Nov 2026 05:10:00 +0000",
-      "description": "C’est à l’occasion d’investigations lancées au niveau européen que la justice a soupçonné la complicité d’un agent de l’Etat avec le parti.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "APOD: 2026 le 21 novembre – Voyager",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
       "date": "Sat, 21 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 21 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Voyager-S Neptune Explication: [...]",
       "source": "NASA",
       "category": "Environnement"
+    },
+    {
+      "title": "Sur la piste avec l'Espagne Premier ministre, alors qu'il essaie de tirer une victoire",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "date": "Sat, 21 Nov 2026 05:01:09 +0000",
+      "description": "Pedro Sánchez, le leader le plus en vue de la gauche en Europe, semble devoir perdre le pouvoir lors d'élections la semaine prochaine. Notre reporter a suivi son dernier effort pour retourner sa campagne.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "En France, l'automne en colère, les chaînes de télévision sont accusés de stirring the Pot",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
+      "date": "Sat, 21 Nov 2026 05:01:07 +0000",
+      "description": "Les critiques disent que CNews et BFM TV, deux grandes chaînes d'information, ont utilisé le langage raciste dans la couverture des manifestations. Les chaînes le démentent.",
+      "source": "The New York Times",
+      "category": "Monde"
     },
     {
       "title": "La fabrication de nouveauté",
@@ -971,6 +1011,14 @@
       "category": "Monde"
     },
     {
+      "title": "Les négociations des Nations unies sur les robots tueurs d'IA acceptent d'autres négociations, mais aucun engagement ferme n'est pris à leur égard.",
+      "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+      "date": "Sat, 21 Nov 2026 03:08:01 -0500",
+      "description": "Les efforts déployés pour établir des règles pour les robots tueurs à l'IA et les drones ont échoué. Les discussions soutenues par l'ONU à Genève se sont terminées samedi par un accord visant à prolonger les discussions pendant deux années supplémentaires.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "activiste anti-migrant britannique emprisonné pour avoir scindé Channel dinghy",
       "link": "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 21 Nov 2026 02:47:00 GMT",
@@ -995,26 +1043,10 @@
       "category": "France"
     },
     {
-      "title": "Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
-      "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 01:26:28 +0100",
-      "description": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre, et a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an sous bracelet électronique à deux ans de prison ferme.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Gaza: six morts dans des frappes israéliennes selon la Défense civile et des hôpitaux",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-gaza-six-morts-dans-des-frappes-isra%C3%A9liennes-selon-la-d%C3%A9fense-civile-et-des-h%C3%B4pitaux",
-      "date": "Sat, 21 Nov 2026 01:12:32 GMT",
-      "description": "Des frappes israéliennes ont tué six personnes dans la bande de Gaza vendredi 20 novembre 2026, a indiqué à l'AFP la Défense civile du territoire palestinien, l'armée israélienne affirmant y avoir ciblé des combattants du Hamas, en dépit du cessez-le-feu théoriquement en vigueur.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Au procès des auteurs de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
       "link": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
       "date": "Sat, 21 Nov 2026 00:46:35 +0100",
-      "description": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents, qui avaient ensuite prétendu dans leur procès-verbal qu’il les avait agressés. Vendredi 20 novembre, la cour criminelle de Paris a rendu sa décision, à l’issue de deux semaines de procès.",
+      "description": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents qui avaient ensuite prétendu dans leur procès-verbal qu’il les avait agressés. Vendredi, la cour criminelle de Paris a rendu sa décision à l’issue de deux semaines de procès.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1377,14 +1409,6 @@
       "description": "Le Voyager 1 de la NASA a atteint une étape extraordinaire, voyageant à 16,1 milliards de kilomètres de la Terre pour devenir le premier vaisseau spatial si éloigné que ses signaux prennent une journée entière pour nous atteindre. Près de 50 ans après son lancement, la sonde vieillissante poursuit son parcours historique dans l'espace interstellaire, repoussant les limites de l'exploration humaine malgré la diminution de la puissance et des défis techniques.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "Affaire Michel Zecler: prison ferme pour les trois policiers, le caractère raciste de l'agression retenu",
-      "link": "https://www.rfi.fr/fr/france/20261120-affaire-michel-zecler-prison-ferme-pour-les-trois-policiers-le-caract%C3%A8re-raciste-de-l-agression-retenu",
-      "date": "Fri, 20 Nov 2026 21:22:30 GMT",
-      "description": "En France, les trois policiers jugés pour l'agression de Michel Zecler, producteur de musique passé à tabac en 2020, ont écopé ce vendredi 20 novembre 2026 des peines allant de un à deux ans de prison ferme. Des peines en deçà des réquisitions, mais la circonstance aggravante de racisme a été retenue par les juges. Les trois hommes sont également interdits d'exercer le métier de policier à vie. Ce matin, avant le verdict, les accusés avaient renouvelé leurs excuses à Michel Zecler.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "En ce jour dans l'espace ! 20 nov. 1998: La Russie lance le 1er module de la Station Spatiale Internationale alors que la construction commence sur la plus grande structure de construction humaine en orbite",
@@ -1843,14 +1867,6 @@
       "category": "Environnement"
     },
     {
-      "title": "De l'océan Indien aux Caraïbes, la sécheresse frappe plusieurs territoires d'Outre-mer",
-      "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261120-de-l-oc%C3%A9an-indien-aux-cara%C3%AFbes-la-s%C3%A9cheresse-frappe-plusieurs-territoires-d-outre-mer",
-      "date": "Fri, 20 Nov 2026 15:36:16 GMT",
-      "description": "La sécheresse s'installe durablement en Outre-mer. Le manque d'eau fragilise les cultures et menace les récoltes aux Antilles et à La Réunion. La situation est également très préoccupante en Guyane, où le niveau du fleuve continue de baisser.",
-      "source": "France 24",
-      "category": "France"
-    },
-    {
       "title": "Le mathématicien anthropique revendique la preuve assistée par l'IA de l'hypothèse Riemann",
       "link": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Fri, 20 Nov 2026 15:20:01 +0000",
@@ -1899,14 +1915,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Gen Z conduit le changement politique mondial, aidant l'extrême gauche et l'extrême droite",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
-      "date": "Fri, 20 Nov 2026 14:17:02 +0000",
-      "description": "Les manifestations à travers l'Europe sont le dernier exemple de colère mondiale des jeunes qui a provoqué des manifestations et des bouleversements électoraux.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Mysterious MQ-25 Stingray-comme le drone chinois émerge au centre de test de vol peu connu",
       "link": "https://www.twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center",
       "date": "Fri, 20 Nov 2026 14:16:03 -0500",
@@ -1936,14 +1944,6 @@
       "date": "Fri, 20 Nov 2026 13:39:00 +0000",
       "description": "Les actions d'Anthropic ont chuté de plus de 10% à l'ouverture de vendredi sur Wall Street, juste un jour après leurs débuts records à Nasdaq, dans le cadre d'une course boursière mondiale.",
       "source": "Sky News",
-      "category": "Monde"
-    },
-    {
-      "title": "Un deuxième juge bloque l'arc de Trump, disant qu'il est peu probable qu'il réussisse au tribunal",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-      "date": "Fri, 20 Nov 2026 13:25:09 -0500",
-      "description": "Une juge fédérale en Virginie a déclaré qu'elle va émettre une injonction préliminaire contre l'arche de Trump, allant un peu plus loin que le juge fédéral de D.C. qui a temporairement bloqué la construction plus tôt cette semaine.",
-      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -1992,14 +1992,6 @@
       "date": "Fri, 20 Nov 2026 11:00:31 GMT",
       "description": "Exclusivité : Luis Alejandro Cora Pérez dit dans des messages à Guardian de l'intérieur de l'installation Texas douleur de l'alimentation de force lui a causé de briser la grève Le message texte qui venait de l'intérieur du centre de détention Immigration and Customs Enforcement (ICE) était très net : J'ai passé cinq jours à manger régulièrement. Si je ne le mange pas, ils me mettent le tube pour me nourrir. Un demandeur d'asile cubain, Luis Alejandro Cora Pérez, 32 ans, a déclaré dans des messages au Gardien :",
       "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
-      "title": "Les victimes d'abus sexuels religieux veulent plus d'engagement du pape Leo",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "date": "Fri, 20 Nov 2026 10:38:19 +0000",
-      "description": "Alors qu'il visitait l'Amérique du Sud ce mois-ci, le pape Léon XIV a rencontré 11 victimes d'abus sexuels. Certains veulent qu'il s'engage plus sérieusement.",
-      "source": "The New York Times",
       "category": "Monde"
     },
     {
@@ -2169,6 +2161,14 @@
       "description": "Une étude menée auprès de plus de 10 000 étudiants du collège a révélé que l'exercice régulier peut être plus important pour la santé mentale que de se pousser par des séances d'entraînement intenses ou longues. Les élèves qui ont exercé moins souvent étaient plus susceptibles de souffrir de dépression et d'anxiété un an plus tard, ce qui suggère que la cohérence pourrait être un élément clé de la protection du bien-être mental.",
       "source": "ScienceDaily",
       "category": "Sciences"
+    },
+    {
+      "title": "La Force aérienne annonce des promotions E-9, des fentes déclassées à remplir",
+      "link": "https://www.airandspaceforces.com/air-force-e-9-promotions-list-backfill/",
+      "date": "Fri, 20 Nov 2026 03:11:30 +0000",
+      "description": "La Force aérienne fera la promotion de 601 sergents-chefs supérieurs au sergent-chef dans le cadre du cycle de promotion de 2026, a annoncé le 19 novembre le Centre du personnel de la Force aérienne. Il y avait 2 429 E-8 admissibles, soit un taux de promotion de 24,7 %. Ce sera la première fois que le service testera sa nouvelle liste supplémentaire d'ordre de mérite, un effort qui pourrait donner aux sergents-chefs supérieurs juste en dessous de la limite initiale une seconde chance de monter si l'un des",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
     },
     {
       "title": "Deux étoiles massives peuvent nourrir secrètement le trou noir supermassif de la Voie lactée",
