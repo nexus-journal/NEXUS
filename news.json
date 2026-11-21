@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T18:09:30.029405+00:00",
+  "updated_at": "2026-11-21T18:59:39.233682+00:00",
   "count": 287,
   "articles": [
     {
@@ -443,9 +443,33 @@
       "category": "Exploration"
     },
     {
-      "title": "Soupçons de fuites au profit du RN :le préfet Hugues Moutouh demande à être relevé de ses fonctions",
+      "title": "Présidentielle 2027 : en meeting à Toulon, Éric Zemmour cherche un élan en «candidat de la liberté»",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-meeting-a-toulon-eric-zemmour-cherche-un-elan-en-candidat-de-la-liberte-20261121",
+      "date": "Sat, 21 Nov 2026 19:46:24 +0100",
+      "description": "REPORTAGE - Loin des liesses de 2022, Éric Zemmour, de nouveau en course pour l’Élysée, a posé des bases programmatiques plus larges que le seul thème de l’immigration, tout en défendant une primaire «de droite».",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : le point sur l’attaque par drone d’un cargo russe en mer Baltique, la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien",
+      "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html",
+      "date": "Sat, 21 Nov 2026 19:41:34 +0100",
+      "description": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
+      "link": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 19:40:48 +0100",
+      "description": "\"Je refuse que l’Etat, le ministère de l'Intérieur et le corps préfectoral deviennent les cibles ou les instruments de ces entreprises de déstabilisation\", a déclaré samedi le haut fonctionnaire dans un communiqué.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Soupçons de fuites au profit du RN : le préfet Hugues Moutouh demande à être relevé de ses fonctions",
       "link": "https://www.lefigaro.fr/politique/enquete-visant-le-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121",
-      "date": "Sat, 21 Nov 2026 19:06:32 +0100",
+      "date": "Sat, 21 Nov 2026 19:16:57 +0100",
       "description": "Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national.",
       "source": "Le Figaro",
       "category": "France"
@@ -461,7 +485,7 @@
     {
       "title": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
       "link": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html",
-      "date": "Sat, 21 Nov 2026 19:01:16 +0100",
+      "date": "Sat, 21 Nov 2026 19:01:12 +0100",
       "description": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur.",
       "source": "Le Monde",
       "category": "France"
@@ -483,12 +507,36 @@
       "category": "France"
     },
     {
+      "title": "Le Pentagone a émis un mémo limitant les activités sociales avec les militaires canadiens",
+      "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+      "date": "Sat, 21 Nov 2026 18:53:42 +0000",
+      "description": "La dernière salve des relations épuisantes entre les États-Unis et le Canada n'a pas affecté leur vaste opération militaire conjointe, y compris le commandement de l'espace aérien commun, le NORAD.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
       "title": "Mobilisation du 21 novembre : 82 500 personnes ont manifesté dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
       "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 18:50:34 +0100",
       "description": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Six projets Raspberry Pi simples pour les débutants",
+      "link": "https://www.engadget.com/2318530/simple-raspberry-pi-projects-for-beginners/",
+      "date": "Sat, 21 Nov 2026 18:45:00 +0000",
+      "description": "Arrêtez de laisser vos projets Pi inachevés avec ces six idées accessibles.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Trump dit que la base de données du FBI hack est \"pas bon\"",
+      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "date": "Sat, 21 Nov 2026 18:44:53 +0000",
+      "description": "Le FBI enquête sur un piratage du Centre national d'information sur la criminalité.",
+      "source": "TechCrunch",
+      "category": "Technologie"
     },
     {
       "title": "Roberto Saviano, auteur de « Gomorra » : « Le suicide de l’ancien chef de la police italienne Gianni De Gennaro est un choc immense »",
@@ -499,12 +547,60 @@
       "category": "France"
     },
     {
-      "title": "Grosse inquiétude pour Désiré Doué, blessé au genou droit avec le PSG et sorti sur civière face à Nice en Ligue 1",
+      "title": "\"Blessure grave\" pour Désiré Doué, touché au genou droit avec le PSG et sorti sur civière face à Nice en Ligue 1",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-1/grosse-inquietude-pour-desire-doue-blesse-au-genou-droit-avec-le-psg-et-sorti-sur-civiere-face-a-nice-en-ligue-1_8294027.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 21 Nov 2026 18:42:55 +0100",
       "description": "L'attaquant international français est sorti sur civière à la 44e minute, samedi à Nice, après un mauvais appui suite auquel Désiré Doué s'est immédiatement tenu le genou.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Accord commercial majeur signé entre l'UE et l'Indonésie",
+      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20261121-accord-commercial-majeur-sign%C3%A9-entre-l-ue-et-l-indon%C3%A9sie",
+      "date": "Sat, 21 Nov 2026 18:41:01 GMT",
+      "description": "L'Union européenne (UE) et l'Indonésie ont signé officiellement, samedi 21 novembre à Bruxelles, un accord commercial visant à ouvrir leurs marchés respectifs, qui pourrait entrer en vigueur début 2027.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Se débarrasser de la résistance aux antibiotiques : défis et solutions possibles",
+      "link": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 18:39:00 GMT",
+      "description": "Si les antibiotiques cessent de fonctionner, même la moindre infection peut être fatale. L'OMS attend des millions de décès au cours des 25 prochaines années. L'approche « One Health » peut-elle aider à combattre la résistance aux antibiotiques?",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Gabriel Zucman, Joseph Stiglitz, Jayati Ghosh… Réunis à Paris, les grands noms de l’économie dénoncent les dérives de l’«oligarchie mondiale»",
+      "link": "https://www.liberation.fr/idees-et-debats/gabriel-zucman-joseph-stiglitz-jayati-ghosh-reunis-a-paris-les-grands-noms-de-leconomie-denoncent-les-derives-de-loligarchie-mondiale-20261121_47QX5R2EL5FBZHDPVYKHTGXFBQ/",
+      "date": "Sat, 21 Nov 2026 18:33:27 +0000",
+      "description": "A l’occasion du «Premier sommet de Paris contre l’oligarchie mondiale», ce samedi 21 novembre, «Libé» a interrogé plusieurs figures de l’économie mondiale sur les inégalités en France et dans le monde. Ils détaillent les mesures urgentes à mettre en place.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les forces spéciales mexicaines arrêtent le roi de la drogue \"Chapo Isidro\"",
+      "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 21 Nov 2026 18:30:00 GMT",
+      "description": "Le chef présumé du gang Beltran Leyva et l'un des fugitifs les plus recherchés du FBI, connu sous le nom de \"Chapo Isidro\", a été capturé par l'armée mexicaine à la suite d'un raid et d'une fusillade dans l'État côtier de Sinaloa.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Comment utiliser un panneau solaire pour recharger votre téléphone",
+      "link": "https://www.engadget.com/2318512/how-to-use-solar-panel-charge-phone/",
+      "date": "Sat, 21 Nov 2026 18:30:00 +0000",
+      "description": "Le soleil peut-il vraiment charger votre téléphone ? Découvrez comment les chargeurs solaires portables fonctionnent et quelles caractéristiques rechercher avant votre prochain voyage de camping ou blackout.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le système de conduite assistée de Tesla obtient le feu vert pour le déploiement en Italie",
+      "link": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
+      "date": "Sat, 21 Nov 2026 18:29:20 +0000",
+      "description": "La technologie autonome de Tesla attend un autre vote important de l'Union européenne avant la fin de l'année.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Primaire : la date du prochain rendez-vous entre les camps Attal, Retailleau et Lisnard a été fixée",
@@ -515,12 +611,36 @@
       "category": "France"
     },
     {
-      "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
-      "link": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 21 Nov 2026 18:18:07 +0100",
-      "description": "En 2025, cet homme de 36 ans avait attaqué à coups de marteau une vitrine contenant la \"Pierre du Destin\", un bloc de grès utilisé lors du couronnement des rois en Écosse. Il sera fixé sur son sort le 6 janvier.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "Bateau en Russie attaqué dans le golfe de Finlande",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 18:22:09 GMT",
+      "description": "Les forces de défense finlandaises disent que l'Ukraine était probablement derrière l'attaque du drone sur le navire.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "La base de données nationale du FBI sur la criminalité est soupçonnée de violation :",
+      "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 18:19:10 +0000",
+      "description": "Le piratage déclaré est le dernier d'une série de violations et pannes affectant le gouvernement américain.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Brexit pourrait-il être inversé ?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 18:18:11 +0000",
+      "description": "Le Premier ministre britannique Andy Burnham espère que son pays rejoindra l'UE de son vivant. Mais quelles sont les chances ?",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Combien pouvez-vous obtenir pour votre vieille Apple Watch discontinué?",
+      "link": "https://www.engadget.com/2318441/how-much-old-discontinued-apple-watch-trade-in-program/",
+      "date": "Sat, 21 Nov 2026 18:15:00 +0000",
+      "description": "Votre vieille Apple Watch peut chercher de l'argent vers votre prochain au lieu de s'asseoir sur votre bureau ne faisant rien.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
@@ -531,7 +651,7 @@
       "category": "France"
     },
     {
-      "title": "Selon McGuinty, le Canada n'a pas connu de changements dans les relations de défense avec les États-Unis.",
+      "title": "Malgré la note de Hegseth, le Canada n'a pas vu de changements dans les relations de défense avec les États-Unis, dit DefMin",
       "link": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
       "date": "Sat, 21 Nov 2026 18:06:38 +0000",
       "description": "Le porte-parole en chef du Pentagone, Sean Parnell, a déclaré à Breaking Defense que le Ministère prenait des mesures pour s'assurer que ses engagements avec le Canada font progresser des objectifs de défense américains tangibles et, en fin de compte, soutiennent une relation de défense revigorée.",
@@ -539,11 +659,35 @@
       "category": "Défense"
     },
     {
+      "title": "Trump dit qu'il veut un accord permanent pour empêcher l'Iran d'obtenir des armes nucléaires",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "date": "Sat, 21 Nov 2026 18:05:51 +0000",
+      "description": "Le président américain Donald Trump dit vouloir un accord permanent pour empêcher l'Iran de développer des armes nucléaires.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït",
       "link": "https://www.lemonde.fr/intimites/article/2026/11/21/faire-l-amour-en-se-faisant-la-guerre-comment-les-adeptes-du-hate-sex-lient-colere-et-coit_6814049_6190330.html",
       "date": "Sat, 21 Nov 2026 18:00:13 +0100",
       "description": "« Nos émotions : la colère ». Une sexualité épanouie, synonyme de complicité avec son ou sa partenaire, semble a priori incompatible avec la colère, qui rend agressif et égoïste. Et pourtant… livres et films témoignent qu’il existe bel et bien des amateurs de « sexe enragé ».",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Configuration d'un Apple HomeView est ridiculement facile grâce à votre iPhone",
+      "link": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
+      "date": "Sat, 21 Nov 2026 18:00:00 +0000",
+      "description": "Voici comment configurer un Apple HomeView et comment ajouter d'autres utilisateurs.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'Iran va rationner l'électricité face à la pénurie énergétique",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261121-l-iran-va-rationner-l-%C3%A9lectricit%C3%A9-face-%C3%A0-la-p%C3%A9nurie-%C3%A9nerg%C3%A9tique",
+      "date": "Sat, 21 Nov 2026 17:57:37 GMT",
+      "description": "L'Iran va rationner l'électricité face à la pénurie énergétique, aggravée par les dégâts subis par les infrastructures énergétiques lors de la guerre au Moyen-Orient, a déclaré samedi 21 novembre un média d'État, citant un responsable.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -635,31 +779,15 @@
       "category": "France"
     },
     {
-      "title": "États-Unis: le FBI et le ministère de l'Agriculture ciblés par des piratages informatiques",
-      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20261121-%C3%A9tats-unis-le-fbi-et-le-minist%C3%A8re-de-l-agriculture-cibl%C3%A9s-par-des-piratages-informatiques",
-      "date": "Sat, 21 Nov 2026 17:34:27 GMT",
-      "description": "Le ministère de l'Agriculture et la police fédérale (FBI) des États-Unis ont été victimes de piratages informatiques, ont rapporté les médias américains vendredi 20 novembre, quelques jours après des pannes technologiques dans des secteurs stratégiques du pays. Les incidents ont été initialement relatés par NBC News et CNN et l'on ignore encore s'ils sont liés entre eux et qui en est responsable.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Présidence de la Fifa: la CAF affiche son unité derrière Infantino, un désaveu pour Philippe Diallo",
       "link": "https://www.rfi.fr/fr/sports/20261121-ca",
       "date": "Sat, 21 Nov 2026 17:30:50 GMT",
-      "description": "La Confédération africaine de football (CAF) a affiché son soutien indéfectible au patron de la Fifa Gianni Infantino lors de l'Assemblée générale de l'instance à Abuja, samedi 21 novembre, en vue de se réélection à la tête de l'instance. Présent sur place, le candidat de la Confédération européenne (UEFA) Philippe Diallo et principal concurrent d'Infantino a essuyé un désaveu majeur dans sa quête de soutiens à la présidence.",
+      "description": "La Confédération africaine de football (CAF) a affiché son soutien indéfectible au patron de la Fifa Gianni Infantino lors de l'Assemblée générale de l'instance à Abuja, samedi 21 novembre, en vue de sa réélection à la tête de l'instance mondiale. Présent sur place, le candidat de la Confédération européenne (UEFA) Philippe Diallo et principal concurrent d'Infantino a essuyé un revers majeur dans sa quête de voix en Afrique.",
       "source": "RFI",
       "category": "France"
     },
     {
-      "title": "Ce classique rétro est le jeu le plus re-publié de tous les temps — voici pourquoi",
-      "link": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
-      "date": "Sat, 21 Nov 2026 17:30:00 +0000",
-      "description": "Surpassant n'importe quel autre jeu, ce titre rétro reconnaissable a été publié sur pratiquement toutes les plateformes de jeu, des premières machines rétro aux smartphones.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "EN DIRECT – Mobilisation du 21 novembre : entre 82 500 et 150 000 personnes ont défilé en France",
+      "title": "Mobilisation du 21 novembre : entre 82 500 et 150 000 personnes ont défilé en France",
       "link": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/",
       "date": "Sat, 21 Nov 2026 17:30:00 +0000",
       "description": "Qu’il s’agisse des autorités ou des organisateurs, tout le monde s’accorde à décrire des rangs plus clairsemés ce samedi 21 novembre par rapport à la semaine précédente.",
@@ -673,30 +801,6 @@
       "description": "Une des plus grandes rivalités du sport prend le devant de la scène car Liverpool accueille un côté Man United dans la zone de relégation EPL.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Chelsea a battu 4-1 par Leeds pour subir la troisième perte en quatre en Premier League",
-      "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 17:21:37 +0000",
-      "description": "Leeds vient d'un but vers le bas au pont Stamford pour choquer Chelsea et grimper au-dessus de leurs hôtes à la sixième en Premier League.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "La grève russe tue deux, blessures 60, dans la ville natale de Zelenskyy",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 17:20:03 +0000",
-      "description": "L'attaque contre Kryvyi Rih intervient alors que des missiles russes atterrissent en Pologne, membre de l'OTAN, et les efforts de paix menés par les États-Unis sont incertains.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Comment configurer le son surround avec Apple TV 4K et HomePods",
-      "link": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
-      "date": "Sat, 21 Nov 2026 17:15:00 +0000",
-      "description": "Entourez-vous de l'expérience de théâtre à domicile d'Apple - pour un prix.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "En France, l'automne en colère, les chaînes de télévision sont accusés de stirring the Pot",
@@ -739,27 +843,11 @@
       "category": "Économie"
     },
     {
-      "title": "Nicolas Baverez : « L’ultra violence, arme de destruction massive de la démocratie »",
-      "link": "https://www.lefigaro.fr/vox/societe/nicolas-baverez-l-ultra-violence-arme-de-destruction-massive-de-la-democratie-20261121",
-      "date": "Sat, 21 Nov 2026 17:00:00 +0100",
-      "description": "CHRONIQUE - Depuis le 17 octobre, l’ultra violence s’est installée en France comme un régime permanent et elle ne cesse de gagner du terrain. Il est de notre responsabilité de l’éradiquer maintenant, avant qu’il ne soit trop tard.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Voici les meilleurs agents d'IA qui peuvent vivre dans vos messages texte",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "date": "Sat, 21 Nov 2026 17:00:00 +0000",
       "description": "Nous avons créé une liste des agents d'IA les plus remarquables qui peuvent vivre dans vos messages texte, des assistants généraux aux agents conçus pour les familles, les voyages et le travail.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "5 choses intelligentes que vous pouvez encore faire avec un vieux lecteur DVD ou CD",
-      "link": "https://www.engadget.com/2318405/clever-uses-old-dvd-cd-players/",
-      "date": "Sat, 21 Nov 2026 17:00:00 +0000",
-      "description": "Si vous n'avez pas de disques à jouer, ils peuvent faire pour le fourrage intelligent pour les projets de bricolage.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -787,30 +875,6 @@
       "category": "France"
     },
     {
-      "title": "Une des meilleures fonctionnalités d'Apple HomeView vous fera cuisiner comme un pro",
-      "link": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
-      "date": "Sat, 21 Nov 2026 16:45:00 +0000",
-      "description": "Apple fait de la cuisson une explosion avec ce nouvel outil sur son écran intelligent.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le Mexique arrête le baron de la drogue «Chapo Isidro» recherché par le FBI",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-le-mexique-arr%C3%AAte-le-baron-de-la-drogue-chapo-isidro-recherch%C3%A9-par-le-fbi",
-      "date": "Sat, 21 Nov 2026 16:42:43 GMT",
-      "description": "Le Mexique a arrêté vendredi 20 novembre un baron de la drogue, Fausto Isidro Meza, alias « Chapo Isidro », un des 10 criminels en fuite les plus recherchés par le FBI, une interpellation qui a déclenché de violents affrontements dans l'État de Sinaloa, dans le nord-ouest du pays, où il opérait.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "«La guerre s’étend jusqu’à nos portes» : une attaque de drone, possiblement ukrainienne, contre un cargo russe dans le golfe de Finlande",
-      "link": "https://www.liberation.fr/international/europe/la-guerre-setend-jusqua-nos-portes-une-attaque-de-drone-detectee-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121_IBIBYATSGVC5TKHIW7MAULCT5U/",
-      "date": "Sat, 21 Nov 2026 16:42:05 +0000",
-      "description": "Le ministère de la Défense finlandais a détecté l’incident ce samedi 21 novembre. Un porte-parole des forces armées finlandaises a évoqué une attaque ukrainienne.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Anthropics record IPO rencontre avec la pire semaine sur Wall Street depuis 2020",
       "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "date": "Sat, 21 Nov 2026 16:40:05 GMT",
@@ -832,7 +896,7 @@
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
       "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
       "source": "The Guardian",
-      "category": "Technologie"
+      "category": "Sciences"
     },
     {
       "title": "Le FBI aurait enquêté sur un hack apparent de sa base de données criminelle",
@@ -851,14 +915,6 @@
       "category": "Monde"
     },
     {
-      "title": "36 % des ménages ont récemment abandonné un abonnement au service de streaming : Voilà pourquoi",
-      "link": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
-      "date": "Sat, 21 Nov 2026 16:30:00 +0000",
-      "description": "Si vous avez réduit vos abonnements en streaming récemment, vous n'êtes pas seul.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "En ce jour dans l'espace ! 21 nov. 1676: L'astronome danois découvre la vitesse de la lumière — par accident — tout en observant la lune de Jupiter Io",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
       "date": "Sat, 21 Nov 2026 16:20:37 +0000",
@@ -875,14 +931,6 @@
       "category": "Défense"
     },
     {
-      "title": "Inde Étapes de l'opposition manifestations contre Meta sur les suppressions de compte",
-      "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 16:14:01 +0000",
-      "description": "Le Congrès de la jeunesse indienne lance un « ultimatum » de sept jours au géant américain de la technologie, l'exhortant à lever toutes les restrictions.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Est-ce que la vente d'une version AI de votre visage à cette startup microdrama l'avenir d'Hollywood?",
       "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "date": "Sat, 21 Nov 2026 16:00:00 +0000",
@@ -896,14 +944,6 @@
       "date": "Sat, 21 Nov 2026 15:44:08 GMT",
       "description": "Le président du Conseil européen, Antonio Costa, a proposé samedi plus de 200 milliards d'euros d'économies et une nouvelle taxe sur le secteur numérique, dans l'espoir de conclure d'ici la fin de l'année les négociations sur le futur budget de l'UE, mais s'est aussitôt attiré les critiques de la France et de l'Allemagne, pour des raisons opposées.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque au drone d’un cargo russe en mer Baltique",
-      "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html",
-      "date": "Sat, 21 Nov 2026 15:35:11 +0100",
-      "description": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
-      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -1003,19 +1043,19 @@
       "category": "Environnement"
     },
     {
-      "title": "L'ONU s'abstient de réglementer les armes létales autonomes, mais prévoit de réessayer",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-      "date": "Sat, 21 Nov 2026 13:35:19 +0000",
-      "description": "Les grandes puissances militaires comme les États-Unis et la Russie ont exprimé une forte résistance aux restrictions contraignantes.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Chef présumé du cartel 'El Chapo Isidro' de la liste la plus recherchée du FBI capturée au Mexique",
       "link": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689",
       "date": "Sat, 21 Nov 2026 13:34:00 +0000",
       "description": "Fausto Isidro Meza Flores, chef présumé du cartel, a été capturé.",
       "source": "Sky News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les tempêtes attendues sur les deux côtes menacent les voyages de Thanksgiving",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+      "date": "Sat, 21 Nov 2026 13:22:46 -0500",
+      "description": "Le maire de San Francisco demande aux habitants de la ville de ne pas voyager à moins d'être « absolument essentiels ». Pendant ce temps, une tempête qui remonte la côte est pourrait aussi retarder les déplacements avant Thanksgiving.",
+      "source": "NPR",
       "category": "Monde"
     },
     {
@@ -1041,6 +1081,22 @@
       "description": "Les États, le Congrès et la CFTC intensifient leur lutte pour la réglementation des prévisions du marché après les mi-parcours.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "USS Theodore Roosevelt arrive au Moyen-Orient, soulageant USS George Washington",
+      "link": "https://www.twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington",
+      "date": "Sat, 21 Nov 2026 13:11:09 -0500",
+      "description": "Lorsque les transporteurs d'aéronefs sont au 21 novembre 2026. The post USS Theodore Roosevelt Arrives in the Middle East, Soulagement USS George Washington est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
+    },
+    {
+      "title": "Le Mexique détient le chef du cartel El Chapo Isidro, qui déclenche la violence",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+      "date": "Sat, 21 Nov 2026 13:08:55 -0500",
+      "description": "Fausto Isidro Meza Flores, plus connu sous le nom de \"El Chapo Isidro\", était l'un des fugitifs les plus recherchés du FBI. Son arrestation dans le nord-ouest du Mexique samedi a déclenché la violence dans la région.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Warren Buffett quadruples cadeaux d'Action de grâce: Une rupture de combien de richesse il donne",
@@ -1075,27 +1131,11 @@
       "category": "Exploration"
     },
     {
-      "title": "Theodore Roosevelt Strike Group arrive au Moyen-Orient, soulageant l'USS George Washington",
-      "link": "https://www.twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington",
-      "date": "Sat, 21 Nov 2026 12:56:11 -0500",
-      "description": "Lorsque les transporteurs d'aéronefs sont au 20 novembre 2026. Theodore Roosevelt Strike Group Arrives In the Middle East, Relief USS George Washington est apparu en premier sur TWZ .",
-      "source": "The War Zone",
-      "category": "Défense"
-    },
-    {
       "title": "Sur la piste avec l'Espagne Premier ministre, alors qu'il essaie de tirer une victoire",
       "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
       "date": "Sat, 21 Nov 2026 12:54:44 +0000",
       "description": "Pedro Sánchez, le leader le plus en vue de la gauche en Europe, semble devoir perdre le pouvoir lors d'élections la semaine prochaine. Notre reporter a suivi son dernier effort pour retourner sa campagne.",
       "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Rapport allemand sur la liberté religieuse: régimes autoritaires, guerres saintes et espions à l'étranger",
-      "link": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 21 Nov 2026 12:31:00 GMT",
-      "description": "Harcèlement, persécution, surveillance: Dans une grande partie du monde, les gens de foi sont confrontés à une pression croissante. Un nouveau rapport du gouvernement allemand critique particulièrement la Chine.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -1139,10 +1179,10 @@
       "category": "Sciences"
     },
     {
-      "title": "Mobilisation en France: l'acte VI rassemble 150 000 manifestants selon les organisateurs",
+      "title": "France: un acte VI de la mobilisation sous l'impulsion des syndicats et des «gilets jaunes»",
       "link": "https://www.rfi.fr/fr/france/20261121-mobilisation-en-france-un-acte-vi-sous-l-impulsion-des-syndicats-et-des-gilets-jaunes-qui-f%C3%AAtent-leurs-8-ans",
       "date": "Sat, 21 Nov 2026 11:55:56 GMT",
-      "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes ont manifesté partout en France ce 21 novembre. Quelque 150 000 personnes se sont mobilisées, 82 500 selon le gouvernement. Une diminution par rapport aux précédentes journées de mobilisation.",
+      "description": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à manifester ce samedi 21 novembre en France, contre la vie chère, pour l'augmentation des salaires et de meilleures conditions d'études. Cet « acte VI », comme l'appellent les « gilets jaunes » – dont le mouvement a été lancé il y a huit ans –, s'inscrit dans un cadre européen avec de nombreux pays qui connaissent des mobilisations similaires.",
       "source": "RFI",
       "category": "France"
     },
@@ -1177,14 +1217,6 @@
       "description": "Le vaisseau spatial BepiColombo arrivera enfin en orbite autour de Mercure aujourd'hui (21 novembre), plus de huit ans après avoir quitté sa planète d'origine.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "COP31: Le sommet de l'ONU sur le climat se déroule en heures supplémentaires car l'accord reste insaisissable",
-      "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 21 Nov 2026 10:52:00 GMT",
-      "description": "Après près de deux semaines de négociations, les pays restent divisés sur la manière de lutter contre le réchauffement climatique. Un nouveau projet de déclaration ne mentionne pas l'élimination progressive des combustibles fossiles, principaux moteurs du changement climatique. DW en a plus.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Les entrepreneurs de l'espace devraient chercher jusqu'au 16ème siècle Spice Trade For Inspiration",
@@ -1299,14 +1331,6 @@
       "category": "Monde"
     },
     {
-      "title": "Le travailleur anthropopique prétend avoir résolu un Saint Graal de problèmes mathématiques avec l'aide de l'IA",
-      "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-      "date": "Sat, 21 Nov 2026 07:30:16 -0500",
-      "description": "Un mathématicien qui travaille pour l'intelligence artificielle géant Anthropic prétend avoir résolu un Saint Graal de problèmes mathématiques avec l'aide de l'outil AI de l'entreprise Claude. C'est la deuxième fois au cours des derniers mois qu'une entreprise d'IA ou quelqu'un lié à l'un prétend avoir craqué un célèbre problème de mathématiques non résolus.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "La main morte de l'histoire pèse sur Deutsche Bank",
       "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
       "date": "Sat, 21 Nov 2026 06:32:26 GMT",
@@ -1353,14 +1377,6 @@
       "description": "APOD Science APOD APOD: 2026 November 21 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Voyager-S Neptune Explication: [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "5 façons d'éteindre votre « cerveau de travail » après la fin de la journée",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
-      "date": "Sat, 21 Nov 2026 05:01:00 -0500",
-      "description": "Ne laissez pas vos problèmes de travail vous suivre à la maison. Le psychologue Guy Winch partage des techniques pour t'aider à arrêter de draguer sur tes neuf à cinq, afin que tu puisses te concentrer sur ce qui compte vraiment.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "La fabrication de nouveauté",
@@ -1571,14 +1587,6 @@
       "category": "Monde"
     },
     {
-      "title": "Des policiers français condamnés pour avoir battu le producteur de musique Michel Zecler",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 22:37:09 GMT",
-      "description": "Le tribunal a confirmé le passage à tabac en 2020 du producteur de musique noire comme circonstance aggravante du racisme.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Les mathématiciens sont stupéfaits par la preuve de l'hypothèse de Riemann",
       "link": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Fri, 20 Nov 2026 22:33:06 +0000",
@@ -1761,14 +1769,6 @@
       "description": "Selon une nouvelle étude de l'Université d'Ottawa, un modèle alternatif dans lequel l'Univers a 26,7 milliards d'années et n'a besoin ni de matière noire ni d'énergie noire s'est heurté à plusieurs tests de cosmologie majeurs.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Daniel Ek soutient la start-up de puissance de fusion du chercheur AI. Voilà ce qu'ils construisent.",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "date": "Fri, 20 Nov 2026 19:53:41 +0000",
-      "description": "Daniel Ek, fondateur de Spotify, soutient Europa Fusion, une start-up fondée par un chercheur en AI. Voilà ce que la startup construit.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Le plan de construction navale nécessiterait une augmentation massive des crédits annuels: CBO",
