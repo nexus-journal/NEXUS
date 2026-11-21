@@ -1,269 +1,1305 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#07111f">
-<title>NEXUS HYBRID V14 — Initialisation</title>
+<meta name="theme-color" content="#080e18">
+<meta name="description" content="NEXUS Intelligence V14 Hybrid — centre personnel de veille et d'information.">
+<link rel="manifest" href="./manifest.json">
+<title>NEXUS Intelligence V14 · Hybrid</title>
 <style>
-:root{color-scheme:dark;--bg:#07111f;--panel:#10243a;--line:#24445d;--text:#eaf5ff;--muted:#91a8bc;--cyan:#21c7d9;--teal:#70e5d1}
+:root{
+--bg:#080e18;--panel:#101b2b;--panel2:#16263a;
+--line:#263c55;--text:#edf5ff;--muted:#8fa4bb;
+--blue:#43d9ff;--green:#48dfb0;--amber:#f2bd62;--red:#ff7777
+}
 *{box-sizing:border-box}
-body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:radial-gradient(ellipse at 50% -10%,#173b55,var(--bg) 65%);color:var(--text);font:14px/1.6 system-ui,Arial,sans-serif}
-main{width:min(560px,100%);padding:24px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(145deg,#10243a,#091522);box-shadow:0 20px 65px #0007}
-.brand{display:flex;align-items:center;gap:12px;margin-bottom:26px}
-.core{position:relative;width:38px;height:38px;border:1px solid var(--cyan);border-radius:50%;box-shadow:0 0 18px #21c7d966}
-.core:before,.core:after{content:"";position:absolute;inset:4px;border:1px solid #21c7d9aa;border-radius:50%;transform:scaleX(.55);animation:orbit 7s linear infinite}
-.core:after{transform:rotate(60deg) scaleX(.65);animation-direction:reverse}
-.core i{position:absolute;inset:12px;border-radius:50%;background:var(--cyan);box-shadow:0 0 12px var(--cyan)}
-@keyframes orbit{to{transform:rotate(360deg) scaleX(.55)}}
-h1{font-size:24px;line-height:1.2;margin:0 0 8px}
-p{color:var(--muted);margin:8px 0}
-.status{margin-top:20px;padding:13px;border:1px solid var(--line);border-radius:11px;background:#081522;white-space:pre-wrap;overflow-wrap:anywhere}
-.status.error{color:#ffd0bc;border-color:#80524a}
-.bar{height:4px;background:#1d3448;border-radius:8px;overflow:hidden;margin-top:16px}
-.bar i{display:block;width:12%;height:100%;background:linear-gradient(90deg,var(--cyan),var(--teal));transition:width .25s}
-small{color:var(--muted)}
-@media(prefers-reduced-motion:reduce){.core:before,.core:after{animation:none}}
+body{margin:0;background:radial-gradient(ellipse at top,#142b43 0%,#080e18 60%);color:var(--text);font-family:Arial,sans-serif}
+header{padding:17px;background:#080e18;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1000}
+.top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.logo{font-size:calc(29px * var(--font-scale,1));font-weight:900;letter-spacing:6px}
+.logo span{color:var(--blue)}
+.system{color:var(--green);font-size:calc(10px * var(--font-scale,1))}
+.edition{color:var(--muted);font-size:calc(9px * var(--font-scale,1));letter-spacing:2px;margin-top:8px}
+main{max-width:1100px;margin:auto;padding:22px 15px 110px}
+.page{display:none}
+.page.active{display:block}
+h1{font-size:calc(27px * var(--font-scale,1));line-height:1.25;margin:13px 0}
+h2.section{font-size:calc(12px * var(--font-scale,1));letter-spacing:1.7px;margin:27px 0 13px}
+h3{line-height:1.4}
+.subtitle{color:var(--muted);font-size:calc(13px * var(--font-scale,1));line-height:1.7}
+.date,.label,.tag{color:var(--blue);font-size:calc(10px * var(--font-scale,1));letter-spacing:1.5px}
+.label,.tag{font-weight:bold}
+.panel{background:linear-gradient(135deg,#183653,#101b2b 75%);border:1px solid #315778;border-radius:16px;padding:18px;margin-top:18px}
+.panel p,.info p{color:#bdcddd;font-size:calc(12px * var(--font-scale,1));line-height:1.7}
+.stats,.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:14px}
+.stat,.watch-stat,.info,.article,.watch-dashboard,.module{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:15px;margin:12px 0}
+.stat strong,.watch-stat strong{display:block;font-size:calc(25px * var(--font-scale,1));color:var(--blue);margin-bottom:6px}
+.stat small,.watch-stat span{color:var(--muted);font-size:calc(10px * var(--font-scale,1))}
+.module{background:linear-gradient(145deg,#12243a,#0d1725)}
+.module-sub{color:var(--muted);font-size:calc(10px * var(--font-scale,1));line-height:1.6;margin-top:6px}
+.categories{display:flex;overflow-x:auto;gap:8px;padding:3px 0 12px}
+.chip{flex-shrink:0;padding:10px 13px;border-radius:30px;background:var(--panel);border:1px solid var(--line);color:var(--muted);font-size:calc(11px * var(--font-scale,1))}
+.chip.active{background:#17446b;color:white;border-color:var(--blue)}
+input,select,textarea{width:100%;padding:13px;background:var(--panel);color:white;border:1px solid var(--line);border-radius:10px;margin:7px 0;font-size:calc(14px * var(--font-scale,1))}
+textarea{min-height:80px;resize:vertical}
+button{cursor:pointer}
+.small-btn,.primary{border-radius:9px;padding:10px 12px;font-size:calc(11px * var(--font-scale,1))}
+.small-btn{background:var(--panel2);border:1px solid var(--line);color:var(--blue)}
+.primary{background:#17609a;color:white;border:1px solid var(--blue)}
+.toolbar,.actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:13px 0}
+.article-head{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.status{font-size:calc(9px * var(--font-scale,1));text-align:right}
+.article h3{font-size:calc(16px * var(--font-scale,1));line-height:1.5;margin:13px 0 8px}
+.article p{font-size:calc(12px * var(--font-scale,1));color:#b2c2d4;line-height:1.7}
+.article-foot{border-top:1px solid var(--line);padding-top:12px;margin-top:13px;display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
+.source{font-size:calc(10px * var(--font-scale,1));color:var(--muted);line-height:1.6}
+.source-match,.notice{background:#0b1421;border:1px solid var(--line);border-radius:10px;padding:12px;color:var(--muted);font-size:calc(11px * var(--font-scale,1));line-height:1.7;margin:12px 0}
+.empty{color:var(--muted);text-align:center;padding:24px 10px;font-size:calc(13px * var(--font-scale,1));line-height:1.7}
+.good{color:var(--green)}.warn{color:var(--amber)}.bad{color:var(--red)}
+.topic-row,.timeline-row{padding:12px 0;border-bottom:1px solid var(--line)}
+.topic-title,.timeline-title{font-size:calc(12px * var(--font-scale,1));line-height:1.5}
+.topic-meta,.timeline-meta{font-size:calc(10px * var(--font-scale,1));color:var(--muted);line-height:1.6;margin-top:5px}
+.region{border:1px solid var(--line);border-radius:10px;padding:12px;background:#101b2b}
+.region strong{display:block;font-size:calc(12px * var(--font-scale,1));margin-bottom:7px}
+.region span{color:var(--muted);font-size:calc(10px * var(--font-scale,1))}
+.bar{height:5px;background:#263c55;border-radius:5px;margin-top:9px;overflow:hidden}
+.bar span{display:block;height:100%;background:var(--blue);border-radius:5px}
+.score{color:var(--green);font-size:calc(10px * var(--font-scale,1))}
+.dossier{border:1px solid var(--line);border-radius:12px;padding:13px;margin:10px 0;background:#101b2b}
+.dossier h3{font-size:calc(14px * var(--font-scale,1));margin:0 0 6px}
+.pill{display:inline-block;border:1px solid var(--line);padding:5px 8px;border-radius:20px;color:var(--muted);font-size:calc(9px * var(--font-scale,1));margin:3px}
+.map-panel{margin-top:20px;padding:13px;background:linear-gradient(145deg,#101f32,#091321);border:1px solid #315778;border-radius:18px}
+.map-header{display:flex;justify-content:space-between;gap:8px;padding:7px 4px 14px;color:#c1d9ed;font-size:calc(10px * var(--font-scale,1));letter-spacing:1.5px;font-weight:bold}
+.live-indicator{color:var(--green);font-size:calc(9px * var(--font-scale,1))}
+.map-topline{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;margin:0 3px 12px;font-size:calc(9px * var(--font-scale,1));color:#91a9c1;letter-spacing:1px}
+.map-topline span:last-child{color:var(--blue)}
+#nexus-map{width:100%;height:450px;border-radius:13px;overflow:hidden;background:#091321;border:1px solid #25445f;z-index:1}
+#nexus-map .leaflet-tile{filter:invert(100%) hue-rotate(180deg) brightness(55%) contrast(115%) saturate(65%)}
+#nexus-map .leaflet-control-zoom a{background:#10253b;color:#43d9ff;border-color:#315778}
+#nexus-map .leaflet-control-attribution{background:#081522dd;color:#9bb1c8;font-size:calc(9px * var(--font-scale,1))}
+#nexus-map .leaflet-control-attribution a{color:#43d9ff}
+#nexus-map .leaflet-bar{border:1px solid #315778}
+#nexus-map .leaflet-popup-content-wrapper{background:#101f32;color:#edf5ff;border:1px solid #3a6688;border-radius:10px}
+#nexus-map .leaflet-popup-tip{background:#101f32}
+.nexus-popup{line-height:1.5}
+.nexus-popup strong{color:#43d9ff}
+.nexus-popup small{color:#b6c9db;display:block;margin-top:7px;font-size:calc(10px * var(--font-scale,1))}
+.nexus-popup a{color:#43d9ff;font-size:calc(10px * var(--font-scale,1))}
+.nexus-marker-glow{filter:drop-shadow(0 0 5px #32dfff) drop-shadow(0 0 10px #168bc7)}
+.map-legend{display:flex;flex-wrap:wrap;gap:15px;padding:14px 3px 3px;font-size:calc(10px * var(--font-scale,1));color:var(--muted)}
+.legend-dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:#27d8ff;box-shadow:0 0 9px #27d8ff;margin-right:6px}
+.map-note,.map-status{color:var(--muted);font-size:calc(10px * var(--font-scale,1));line-height:1.7;margin:12px 3px}
+.map-status{color:var(--blue);padding:10px;background:#0b1828;border:1px solid #203c55;border-radius:8px}
+.map-controls{display:flex;gap:8px;flex-wrap:wrap;margin:12px 2px}
+.map-controls button{background:#142b42;color:#bcecff;border:1px solid #315778;border-radius:8px;padding:9px 12px;font-size:calc(10px * var(--font-scale,1))}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:space-around;align-items:stretch;gap:0;overflow:hidden;background:rgba(7,14,24,.97);border-top:1px solid var(--line);border-radius:0;padding:5px 5px calc(5px + env(safe-area-inset-bottom));z-index:2000;backdrop-filter:blur(14px);box-shadow:0 -8px 24px #0003}
+nav button{position:relative;flex:1 1 0;min-width:0;max-width:none;background:none;border:0;color:var(--muted);font-size:calc(9px * var(--font-scale,1));display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;padding:5px 2px 4px;transition:color .18s ease,background .18s ease}
+nav button b{font-size:calc(18px * var(--font-scale,1));line-height:1.15;font-weight:normal}
+nav button.active{color:var(--blue);background:transparent}
+nav button.active:before{content:"";position:absolute;top:-5px;left:25%;right:25%;height:2px;background:var(--blue);border-radius:0 0 3px 3px;box-shadow:0 0 9px var(--blue)}
+footer{text-align:center;color:#71869e;font-size:calc(9px * var(--font-scale,1));letter-spacing:2px;padding:20px}
+a{color:var(--blue);text-decoration:none}
+
+/* NEXUS HYBRID COMMAND NAVIGATION */
+.header-actions{display:flex;align-items:center;gap:7px}
+.header-action{width:38px;height:38px;border-radius:11px;border:1px solid #294760;background:linear-gradient(145deg,#142a40,#0c1725);color:var(--blue);font-size:calc(18px * var(--font-scale,1));display:grid;place-items:center;position:relative}
+.header-action:active{transform:scale(.96)}
+.header-action .action-dot{position:absolute;right:6px;top:5px;width:7px;height:7px;border-radius:50%;background:var(--amber);box-shadow:0 0 8px var(--amber)}
+.edition{display:flex;justify-content:space-between;align-items:center;gap:8px}
+#globalSearchPanel,#commandMenu{position:fixed;inset:0;z-index:3000;background:#050b13ed;backdrop-filter:blur(12px);padding:calc(18px + env(safe-area-inset-top)) 15px calc(22px + env(safe-area-inset-bottom));overflow-y:auto}
+.overlay-shell{max-width:760px;margin:0 auto;background:linear-gradient(145deg,#142a40,#0a1421);border:1px solid #315778;border-radius:18px;padding:17px;box-shadow:0 20px 70px #0009}
+.overlay-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:13px}
+.overlay-title{font-size:calc(12px * var(--font-scale,1));letter-spacing:2px;color:var(--blue);font-weight:bold}
+.overlay-close{width:34px;height:34px;border-radius:9px;background:#1b3045;color:#d9efff;border:1px solid #315778;font-size:calc(18px * var(--font-scale,1))}
+.global-search-input{font-size:calc(16px * var(--font-scale,1))!important;margin:0 0 12px!important}
+.search-result{width:100%;display:block;text-align:left;padding:12px;border:1px solid var(--line);background:#0c1928;border-radius:11px;color:var(--text);margin:8px 0}
+.search-result strong{display:block;font-size:calc(12px * var(--font-scale,1));line-height:1.5}
+.search-result small{display:block;color:var(--muted);font-size:calc(10px * var(--font-scale,1));margin-top:5px}
+.menu-intro{color:var(--muted);font-size:calc(11px * var(--font-scale,1));line-height:1.6;margin:0 0 14px}
+.menu-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.menu-entry{display:flex;align-items:center;gap:9px;min-width:0;text-align:left;padding:12px 10px;background:#0c1928;border:1px solid var(--line);border-radius:12px;color:var(--text)}
+.menu-entry .menu-symbol{font-size:calc(19px * var(--font-scale,1));color:var(--blue);width:24px;text-align:center}
+.menu-entry .menu-name{font-size:calc(11px * var(--font-scale,1));font-weight:bold;flex:1}
+.menu-entry .pin-toggle{font-size:calc(15px * var(--font-scale,1));color:var(--amber);padding:4px}
+.menu-entry.pinned{border-color:#327ca0;background:#10273a}
+.menu-section-label{font-size:calc(9px * var(--font-scale,1));letter-spacing:1.7px;color:var(--muted);margin:19px 0 9px}
+.quick-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.quick-grid button{padding:11px 6px;border-radius:10px;border:1px solid #315778;background:#12263b;color:#bcecff;font-size:calc(10px * var(--font-scale,1))}
+nav button.menu-nav{border-left:1px solid var(--line);margin-left:3px;padding-left:4px;max-width:none;flex:1 1 0;color:var(--muted)}
+nav button.menu-nav b{font-size:calc(18px * var(--font-scale,1))}
+.nav-label{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;font-size:calc(9px * var(--font-scale,1));letter-spacing:.1px}
+@media(min-width:650px){
+ #globalSearchPanel,#commandMenu{padding-top:7vh}
+ .menu-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+ nav{left:0;right:0;transform:none;width:100%;border-left:0;border-right:0;border-bottom:0;border-radius:0}
+}
+@media(max-width:360px){
+ .logo{font-size:calc(24px * var(--font-scale,1));letter-spacing:4px}
+ .header-action{width:34px;height:34px}
+ nav button{font-size:calc(8px * var(--font-scale,1));padding-left:1px;padding-right:1px}
+ nav button b{font-size:calc(17px * var(--font-scale,1))}
+ .nav-label{font-size:calc(8px * var(--font-scale,1))}
+}
+
+@media(min-width:650px){main{padding-left:24px;padding-right:24px}.grid.regions{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:400px){#nexus-map{height:390px}}
+
+
+/* NEXUS V10 — ERGONOMIE, ACCESSIBILITÉ ET PERSONNALISATION */
+:root{--accent:var(--blue);--accent-soft:#12334b}
+#readingProgress{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--blue),var(--green));z-index:5000;box-shadow:0 0 10px #43d9ff88;transition:width .08s linear}
+.connection-chip{font-size:calc(8px * var(--font-scale,1));letter-spacing:1px;color:var(--green);border:1px solid #245d52;background:#0d2825;padding:5px 7px;border-radius:20px;white-space:nowrap}
+.connection-chip.offline{color:var(--amber);border-color:#66502b;background:#2a2112}
+#nexusToast{position:fixed;left:50%;bottom:calc(78px + env(safe-area-inset-bottom));transform:translate(-50%,14px);opacity:0;pointer-events:none;z-index:4500;background:#142a40;border:1px solid #39749a;color:var(--text);padding:11px 16px;border-radius:12px;box-shadow:0 10px 35px #0008;font-size:calc(12px * var(--font-scale,1));max-width:min(90vw,420px);text-align:center;transition:opacity .2s,transform .2s}
+#nexusToast.visible{opacity:1;transform:translate(-50%,0)}
+#scrollTopButton{position:fixed;right:15px;bottom:calc(83px + env(safe-area-inset-bottom));z-index:1800;width:42px;height:42px;border-radius:14px;background:#132b42ee;color:var(--blue);border:1px solid #315778;font-size:calc(22px * var(--font-scale,1));box-shadow:0 6px 20px #0006;opacity:0;visibility:hidden;transform:translateY(8px);transition:.2s}
+#scrollTopButton.visible{opacity:1;visibility:visible;transform:translateY(0)}
+.module-search{margin:0 0 12px!important;background:#091522!important}
+.menu-entry[hidden]{display:none}
+.setting-row{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
+.setting-row strong{font-size:calc(12px * var(--font-scale,1))}.setting-row p{margin:4px 0 0;color:var(--muted);font-size:calc(10px * var(--font-scale,1));line-height:1.5}.setting-row select{width:auto;min-width:112px;margin:0;padding:9px;font-size:calc(11px * var(--font-scale,1))}
+.switch{position:relative;display:inline-flex;flex:0 0 42px;width:42px;height:24px}.switch input{position:absolute;opacity:0;width:1px;height:1px}.switch span{width:42px;height:24px;background:#263c55;border:1px solid #49617a;border-radius:20px;transition:.2s}.switch span:after{content:"";display:block;width:16px;height:16px;margin:3px;background:#d8e7f4;border-radius:50%;transition:.2s}.switch input:checked+span{background:#17609a;border-color:var(--blue)}.switch input:checked+span:after{transform:translateX(18px);background:white}.switch input:focus-visible+span{outline:2px solid var(--blue);outline-offset:3px}
+body.compact main{padding-top:14px}body.compact .panel,body.compact .stat,body.compact .watch-stat,body.compact .info,body.compact .article,body.compact .watch-dashboard,body.compact .module{padding:11px;margin:8px 0}body.compact h2.section{margin:19px 0 9px}body.compact .page h1{margin-top:8px}
+body.reduce-motion *,body.reduce-motion *:before,body.reduce-motion *:after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+.page{animation:pageIn .22s ease both}@keyframes pageIn{from{opacity:.55;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:420px){.connection-chip{display:none}.header-actions{gap:5px}.header-action{width:34px;height:34px}.setting-row{align-items:flex-start}.setting-row select{min-width:100px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
+
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+
+/* NEXUS V11 — VISUAL SYSTEM */
+:root{--glow-strength:.34;--panel-alpha:1;--ambient-opacity:.16;--card-radius:14px;--bg-top:#142b43;--bg-base:#080e18}
+body{background:radial-gradient(ellipse at 50% -12%,var(--bg-top) 0%,var(--bg-base) 64%);background-attachment:fixed}
+.panel,.stat,.watch-stat,.info,.article,.watch-dashboard,.module,.dossier,.region,.map-panel{border-radius:var(--card-radius);box-shadow:0 5px 20px #00000012}
+.panel,.module{box-shadow:0 8px 26px #0002,0 0 18px #43d9ff10}
+body.glass-ui .panel,body.glass-ui .info,body.glass-ui .article,body.glass-ui .module,body.glass-ui .stat,body.glass-ui .watch-stat{backdrop-filter:blur(12px);background-color:rgba(15,27,43,.82)}
+body.soft-glow .header-action,body.soft-glow .panel,body.soft-glow nav button.active{filter:drop-shadow(0 0 calc(13px * var(--glow-strength)) color-mix(in srgb,var(--blue) 55%,transparent))}
+body.ambient-ui:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;opacity:var(--ambient-opacity);background:radial-gradient(circle at 12% 28%,var(--blue),transparent 28%),radial-gradient(circle at 88% 72%,#17609a,transparent 30%);animation:nexusAmbient 18s ease-in-out infinite alternate}
+@keyframes nexusAmbient{from{transform:translate3d(-1%,0,0) scale(1)}to{transform:translate3d(1%,1%,0) scale(1.04)}}
+body.flat-cards .panel,body.flat-cards .stat,body.flat-cards .watch-stat,body.flat-cards .info,body.flat-cards .article,body.flat-cards .watch-dashboard,body.flat-cards .module,body.flat-cards .dossier{box-shadow:none;border-radius:8px}
+body.round-cards .panel,body.round-cards .stat,body.round-cards .watch-stat,body.round-cards .info,body.round-cards .article,body.round-cards .watch-dashboard,body.round-cards .module,body.round-cards .dossier{border-radius:19px}
+.appearance-preview{display:flex;align-items:center;gap:10px;padding:12px;border:1px solid var(--line);border-radius:12px;background:linear-gradient(120deg,var(--panel),var(--panel2));margin:12px 0}
+.appearance-preview .preview-dot{width:11px;height:11px;border-radius:50%;background:var(--blue);box-shadow:0 0 12px var(--blue)}
+.appearance-preview strong{font-size:calc(11px * var(--font-scale,1))}.appearance-preview small{display:block;color:var(--muted);font-size:calc(9px * var(--font-scale,1));margin-top:3px}
+.color-swatches{display:flex;gap:8px;flex-wrap:wrap;padding:8px 0}
+.color-swatch{width:30px;height:30px;border-radius:50%;border:2px solid #ffffff33;box-shadow:0 0 0 1px var(--line);padding:0}
+.color-swatch[aria-pressed="true"]{outline:2px solid var(--text);outline-offset:3px}
+.setting-row input[type=range]{width:112px;margin:0;accent-color:var(--blue)}
+.setting-row input[type=color]{width:42px;height:34px;padding:2px;margin:0;border-radius:8px}
+@media(max-width:420px){nav{padding-top:4px}.nav-label{font-size:calc(8px * var(--font-scale,1))}.appearance-preview{padding:10px}}
+
+
+/* NEXUS V13 — NAVIGATION DIRECTE ET CUSTOMIZATION STUDIO */
+:root{--font-scale:1}
+body{font-size:calc(14px * var(--font-scale))}
+main{padding-bottom:calc(94px + env(safe-area-inset-bottom))}
+#primaryNav{position:fixed;left:0;right:0;bottom:0;z-index:2000;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));align-items:stretch;gap:0;overflow:hidden;padding:5px 7px calc(5px + env(safe-area-inset-bottom));background:rgba(5,11,19,.96);border-top:1px solid color-mix(in srgb,var(--blue) 22%,var(--line));border-radius:0;box-shadow:0 -5px 22px #0003;backdrop-filter:blur(16px)}
+#primaryNav button{position:relative;min-width:0;max-width:none;flex:initial;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;padding:7px 2px 6px;border:0;border-radius:8px;background:transparent;color:#8295aa;font-size:calc(9px * var(--font-scale,1));transition:color .18s ease,background .18s ease}
+#primaryNav button b{font-size:calc(18px * var(--font-scale,1));line-height:1.1;font-weight:400}
+#primaryNav button .nav-label{font-size:calc(9px * var(--font-scale,1));letter-spacing:.1px;max-width:100%;white-space:nowrap}
+#primaryNav button.active{color:var(--blue);background:color-mix(in srgb,var(--blue) 8%,transparent)}
+#primaryNav button.active:before{content:"";position:absolute;top:0;left:32%;right:32%;height:2px;border-radius:0 0 3px 3px;background:var(--blue);box-shadow:0 0 9px var(--blue)}
+#primaryNav button:active{transform:scale(.97)}
+@media(min-width:650px){#primaryNav{left:50%;right:auto;transform:translateX(-50%);width:min(620px,calc(100% - 30px));bottom:12px;border:1px solid var(--line);border-radius:14px;padding-bottom:5px}main{padding-bottom:110px}}
+@media(max-width:370px){#primaryNav button .nav-label{font-size:calc(8px * var(--font-scale,1))}#primaryNav button b{font-size:calc(17px * var(--font-scale,1))}}
+.studio-heading{margin:23px 0 7px;padding-bottom:8px;border-bottom:1px solid var(--line);color:var(--blue);font-size:calc(9px * var(--font-scale,1));font-weight:bold;letter-spacing:1.8px}
+.profile-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:10px 0 16px}
+.profile-card{display:grid;grid-template-columns:18px 1fr;grid-template-rows:auto auto;align-items:center;gap:3px 8px;text-align:left;padding:11px;border:1px solid var(--line);border-radius:11px;background:#0c1928;color:var(--text)}
+.profile-card b{font-size:calc(10px * var(--font-scale,1));letter-spacing:1px}.profile-card small{grid-column:2;color:var(--muted);font-size:calc(9px * var(--font-scale,1))}.profile-card.selected{border-color:var(--blue);background:color-mix(in srgb,var(--blue) 10%,#0c1928);box-shadow:0 0 14px color-mix(in srgb,var(--blue) 14%,transparent)}
+.profile-dot{grid-row:1/3;width:13px;height:13px;border-radius:50%;box-shadow:0 0 10px currentColor}.tactical-dot{background:#43d9ff;color:#43d9ff}.cyber-dot{background:#64f0e5;color:#64f0e5}.stealth-dot{background:#62e6a5;color:#62e6a5}.ghost-dot{background:#b69aff;color:#b69aff}
+.tools-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:18px}
+.tool-card{display:flex;min-height:112px;flex-direction:column;align-items:flex-start;justify-content:center;gap:7px;padding:15px;text-align:left;background:linear-gradient(145deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:13px;color:var(--text);transition:border-color .18s,transform .18s}
+.tool-card:active{transform:scale(.98)}.tool-card>span{font-size:calc(20px * var(--font-scale,1));color:var(--blue)}.tool-card strong{font-size:calc(12px * var(--font-scale,1))}.tool-card small{font-size:calc(10px * var(--font-scale,1));color:var(--muted)}
+body.spacious .panel,body.spacious .info,body.spacious .article,body.spacious .stat,body.spacious .module{padding:20px;margin:16px 0}
+body[data-texture="grid"]{background-image:linear-gradient(rgba(90,160,205,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(90,160,205,.035) 1px,transparent 1px),radial-gradient(ellipse at 50% -12%,var(--bg-top),var(--bg-base) 64%);background-size:28px 28px,28px 28px,auto;background-attachment:fixed}
+body[data-texture="stars"]{background-image:radial-gradient(circle,rgba(130,190,230,.22) 1px,transparent 1.5px),radial-gradient(ellipse at 50% -12%,var(--bg-top),var(--bg-base) 64%);background-size:34px 34px,auto;background-attachment:fixed}
+body[data-texture="scan"]{background-image:repeating-linear-gradient(0deg,transparent 0 5px,rgba(90,180,220,.025) 6px 7px),radial-gradient(ellipse at 50% -12%,var(--bg-top),var(--bg-base) 64%);background-attachment:fixed}
+body.glass-ui .panel,body.glass-ui .info,body.glass-ui .article,body.glass-ui .module,body.glass-ui .stat,body.glass-ui .watch-stat{background:color-mix(in srgb,var(--panel) var(--panel-alpha),transparent);backdrop-filter:blur(14px)}
+.setting-row input[type=range]{width:min(125px,34vw)}
+@media(max-width:420px){.setting-row{gap:8px}.setting-row>div{flex:1;min-width:0}.setting-row select{min-width:108px;max-width:46%}.tools-grid{gap:8px}.tool-card{min-height:104px;padding:12px}}
+
+
+#commandMenu{display:none!important}
+
+/* V13 ULTIMATE COMPONENTS */
+.font-scale-control{display:flex;align-items:center;gap:10px;width:min(230px,48%)}.font-scale-control input{width:100%;accent-color:var(--blue);margin:0}.font-scale-control output{min-width:48px;text-align:right;color:var(--blue);font-size:11px}
+.translation-output{white-space:pre-wrap;margin:10px 0;padding:12px;border:1px solid var(--line);border-left:3px solid var(--blue);border-radius:9px;background:#0a1522;color:var(--text);font-size:12px;line-height:1.7}.translation-output[hidden]{display:none}.country-card,.personal-entry{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:13px;min-width:0}.personal-entry small{display:block;color:var(--muted);font-size:9px;line-height:1.5;margin-top:7px}.radar-row{display:grid;grid-template-columns:85px 1fr auto;align-items:center;gap:9px;padding:8px 0;font-size:11px}.radar-row small{color:var(--muted)}.country-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin-top:12px}.country-card h3{margin:8px 0;font-size:15px}.country-card p{font-size:11px;line-height:1.6;color:var(--muted)}.compare-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}.compare-columns>div{min-width:0;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--panel)}.compare-columns h3{font-size:12px;line-height:1.5}.compare-columns p,.brief-item p{font-size:11px;line-height:1.6;color:var(--muted)}.brief-item{padding:10px 0;border-bottom:1px solid var(--line)}.personal-entry{margin:8px 0}.personal-entry p{font-size:12px;line-height:1.6;white-space:pre-wrap}.task-entry{display:flex;align-items:center;justify-content:space-between;gap:8px}.task-entry label{display:flex;align-items:center;gap:8px;font-size:12px}.task-entry input{width:auto;margin:0}.presentation-mode header,.presentation-mode #primaryNav,.presentation-mode #readingProgress,.presentation-mode #scrollTopButton,.presentation-mode footer{display:none!important}.presentation-mode main{max-width:1200px;padding-top:4vh;padding-bottom:5vh}.presentation-mode .page.active{font-size:1.12em}.presentation-mode .page.active h1{font-size:2.2em}.presentation-mode:after{content:"MODE PRÉSENTATION · ÉCHAP POUR REVENIR";position:fixed;bottom:8px;right:12px;color:var(--muted);font-size:9px;pointer-events:none}
+@media(max-width:520px){.country-grid{grid-template-columns:1fr 1fr}.compare-columns{grid-template-columns:1fr}.radar-row{grid-template-columns:70px 1fr auto}.font-scale-control{width:48%}}
+
+
+
+/* NEXUS V14 — HYBRID FX / MOBILE FX STUDIO */
+:root{--nexus-fx-intensity:.5;--nexus-fx-light:.45;--nexus-fx-speed:22s}
+main{position:relative;z-index:1}
+#nexusFxAtmosphere{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden;opacity:0;transition:opacity .35s ease}
+body.nexus-fx-enabled #nexusFxAtmosphere{opacity:1}
+#nexusFxAtmosphere:before,#nexusFxAtmosphere:after{content:"";position:absolute;inset:-25%;pointer-events:none}
+#nexusFxAtmosphere:before{background:radial-gradient(ellipse at 15% 22%,color-mix(in srgb,var(--blue) 20%,transparent),transparent 34%),radial-gradient(ellipse at 88% 76%,rgba(24,100,170,.18),transparent 34%);opacity:calc(var(--nexus-fx-light) * .55)}
+body.nexus-fx-atmosphere #nexusFxAtmosphere:before{animation:nexusFxAtmosphere 28s ease-in-out infinite alternate}
+body.nexus-fx-light-flow #nexusFxAtmosphere:before{background-image:linear-gradient(118deg,transparent 38%,color-mix(in srgb,var(--blue) 13%,transparent) 49%,transparent 58%),radial-gradient(ellipse at 15% 22%,color-mix(in srgb,var(--blue) 15%,transparent),transparent 34%),radial-gradient(ellipse at 88% 76%,rgba(24,100,170,.13),transparent 34%);background-size:220% 220%,auto,auto;animation:nexusFxLightFlow var(--nexus-fx-speed) linear infinite}
+body.nexus-fx-particles #nexusFxAtmosphere:after{inset:0;opacity:calc(var(--nexus-fx-intensity) * .22);background-image:radial-gradient(circle,rgba(160,225,255,.65) 0 1px,transparent 1.5px),radial-gradient(circle,rgba(67,217,255,.5) 0 1px,transparent 1.5px);background-size:83px 83px,131px 131px;background-position:0 0,30px 44px;animation:nexusFxParticles 34s linear infinite}
+.logo{display:flex;align-items:center;gap:2px}
+#nexusCore{display:inline-block;position:relative;width:12px;height:12px;margin-left:5px;border:1px solid color-mix(in srgb,var(--blue) 70%,white);border-radius:50%;background:radial-gradient(circle,var(--blue) 0 18%,transparent 22%);box-shadow:0 0 9px color-mix(in srgb,var(--blue) 75%,transparent);vertical-align:middle}
+#nexusCore:after{content:"";position:absolute;inset:-4px;border:1px solid color-mix(in srgb,var(--blue) 40%,transparent);border-radius:50%}
+body.nexus-fx-core-pulse #nexusCore{animation:nexusCorePulse 3.8s ease-in-out infinite}
+.nexus-fx-overview{display:flex;align-items:center;gap:14px;padding:14px;margin:14px 0;background:linear-gradient(115deg,#10273c,#0b1725);border:1px solid #315778;border-radius:14px}
+.nexus-fx-core{width:54px;height:54px;flex:0 0 54px;position:relative;display:grid;place-items:center;border:1px solid color-mix(in srgb,var(--blue) 70%,transparent);border-radius:50%;background:radial-gradient(circle,var(--blue) 0 4%,#0d2c43 8%,#091624 68%);box-shadow:0 0 18px color-mix(in srgb,var(--blue) 26%,transparent),inset 0 0 14px #43d9ff22}
+.nexus-fx-core:before,.nexus-fx-core:after{content:"";position:absolute;border:1px solid color-mix(in srgb,var(--blue) 55%,transparent);border-radius:50%;inset:6px}
+.nexus-fx-core:after{inset:-5px;border-style:dashed;opacity:.55}
+body.nexus-fx-core-pulse .nexus-fx-core{animation:nexusCorePulse 3.8s ease-in-out infinite}
+.nexus-fx-overview-copy{min-width:0;flex:1}
+.nexus-fx-overview-copy strong{font-size:11px;letter-spacing:1.5px;color:var(--blue)}
+.nexus-fx-overview-copy p{margin:5px 0;color:var(--muted);font-size:10px;line-height:1.55}
+.nexus-fx-overview-copy small{font-size:9px;letter-spacing:1px;color:var(--green)}
+.fx-profile-grid .profile-card{min-height:67px}
+.fx-dot{color:var(--blue)}.fx-hybrid-dot{background:#43d9ff;color:#43d9ff}.fx-command-dot{background:#8eb7db;color:#8eb7db}.fx-immersive-dot{background:#b69aff;color:#b69aff}.fx-stealth-dot{background:#62e6a5;color:#62e6a5}.fx-arctic-dot{background:#88eaff;color:#88eaff}.fx-aurora-dot{background:#7ce7c2;color:#7ce7c2}.fx-obsidian-dot{background:#b0bbc9;color:#b0bbc9}.fx-focus-dot{background:#f2bd62;color:#f2bd62}
+.fx-range{display:flex;flex-direction:column;align-items:flex-end;gap:3px;width:min(180px,48%)}
+.fx-range input{width:100%;margin:0;accent-color:var(--blue)}
+.fx-range output{color:var(--blue);font-size:9px;white-space:nowrap}
+.nexus-fx-studio .notice{margin:14px 0}
+body.nexus-fx-enabled.nexus-fx-depth .panel,body.nexus-fx-enabled.nexus-fx-depth .article,body.nexus-fx-enabled.nexus-fx-depth .info,body.nexus-fx-enabled.nexus-fx-depth .module{transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease}
+@media(hover:hover){body.nexus-fx-enabled.nexus-fx-depth .article:hover,body.nexus-fx-enabled.nexus-fx-depth .module:hover{transform:translateY(-2px);border-color:color-mix(in srgb,var(--blue) 44%,var(--line));box-shadow:0 9px 24px #0004,0 0 16px color-mix(in srgb,var(--blue) 10%,transparent)}}
+body.nexus-fx-radar #nexus-map{position:relative;isolation:isolate}
+body.nexus-fx-radar #nexus-map:after{content:"";position:absolute;z-index:700;inset:0;pointer-events:none;border-radius:13px;background:conic-gradient(from 0deg at 50% 50%,transparent 0 78%,color-mix(in srgb,var(--blue) 16%,transparent) 86%,transparent 96%);opacity:calc(var(--nexus-fx-intensity) * .48);animation:nexusRadarSweep var(--nexus-fx-speed) linear infinite}
+body.nexus-fx-locations #nexus-map .nexus-marker-glow{transform-box:fill-box;transform-origin:center;animation:nexusLocationPulse 3.2s ease-in-out infinite}
+body.nexus-fx-shimmer .empty{background:linear-gradient(100deg,transparent 28%,rgba(67,217,255,.045) 48%,transparent 68%);background-size:220% 100%;animation:nexusShimmer 5s ease-in-out infinite}
+body[data-fx-mode="immersive"] .nexus-fx-overview{box-shadow:0 0 24px color-mix(in srgb,var(--blue) 16%,transparent),inset 0 0 22px #43d9ff0a}
+body[data-fx-mode="standard"] #nexusFxAtmosphere{opacity:.4}
+@keyframes nexusFxAtmosphere{from{transform:translate3d(-1.5%,0,0) scale(1)}to{transform:translate3d(1.5%,1%,0) scale(1.05)}}
+@keyframes nexusFxLightFlow{0%{background-position:150% 50%,0 0,0 0}100%{background-position:-50% 50%,0 0,0 0}}
+@keyframes nexusFxParticles{from{background-position:0 0,30px 44px}to{background-position:83px 83px,161px 175px}}
+@keyframes nexusCorePulse{0%,100%{filter:brightness(.9);box-shadow:0 0 8px color-mix(in srgb,var(--blue) 20%,transparent)}50%{filter:brightness(1.25);box-shadow:0 0 17px color-mix(in srgb,var(--blue) 52%,transparent)}}
+@keyframes nexusRadarSweep{to{transform:rotate(360deg)}}
+@keyframes nexusLocationPulse{0%,100%{opacity:.78}50%{opacity:1;filter:drop-shadow(0 0 8px var(--blue))}}
+@keyframes nexusShimmer{0%,100%{background-position:120% 0}50%{background-position:-20% 0}}
+@media(max-width:420px){.nexus-fx-overview{padding:11px;gap:10px}.nexus-fx-core{width:46px;height:46px;flex-basis:46px}.fx-range{width:45%}.fx-range input{width:100%}.fx-profile-grid{gap:7px}}
+body.reduce-motion #nexusFxAtmosphere:before,body.reduce-motion #nexusFxAtmosphere:after,body.reduce-motion #nexusCore,body.reduce-motion .nexus-fx-core,body.reduce-motion #nexus-map:after,body.reduce-motion #nexus-map .nexus-marker-glow,body.reduce-motion .empty{animation:none!important}
+@media(prefers-reduced-motion:reduce){#nexusFxAtmosphere:before,#nexusFxAtmosphere:after,#nexusCore,.nexus-fx-core,#nexus-map:after,#nexus-map .nexus-marker-glow,.empty{animation:none!important}}
+
 </style>
 </head>
 <body>
+<div id="readingProgress" aria-hidden="true"></div>
+<div id="nexusFxAtmosphere" aria-hidden="true"></div>
+<div id="nexusToast" role="status" aria-live="polite"></div>
+<button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button>
+<header>
+<div class="top">
+ <div class="logo">NE<span>X</span>US <i id="nexusCore" aria-label="NEXUS Core"></i></div>
+ <div class="header-actions">
+  <div class="system" id="systemState">● INITIALISATION</div>
+  <span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span>
+  <button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button>
+  <button class="header-action" id="openFavorites" aria-label="Ouvrir les favoris" title="Favoris">☆</button>
+  <button class="header-action" id="openAlerts" aria-label="Ouvrir les alertes" title="Alertes">⚑<span class="action-dot" id="alertDot" hidden></span></button>
+ </div>
+</div>
+<div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V14 · HYBRID SYSTEM</span></div>
+</header>
+
+<div id="globalSearchPanel" hidden>
+ <div class="overlay-shell">
+  <div class="overlay-head"><div class="overlay-title">NEXUS / GLOBAL SEARCH</div><button class="overlay-close" id="closeGlobalSearch" aria-label="Fermer">×</button></div>
+  <input class="global-search-input" id="globalSearchInput" type="search" placeholder="Rechercher dans toutes les publications… ( / )" autocomplete="off">
+  <div class="source">Recherche transversale dans les titres, résumés et sources chargés localement.</div>
+  <div id="globalSearchResults"><div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div></div>
+ </div>
+</div>
+
+<div id="commandMenu" hidden>
+ <div class="overlay-shell">
+  <div class="overlay-head"><div class="overlay-title">NEXUS / COMMAND MENU</div><button class="overlay-close" id="closeCommandMenu" aria-label="Fermer">×</button></div>
+  <p class="menu-intro">Accès centralisé aux modules. Épingle tes quatre raccourcis préférés dans la barre inférieure.</p>
+  <input id="moduleSearch" class="module-search" type="search" placeholder="Filtrer les modules…" autocomplete="off" aria-label="Filtrer les modules">
+  <div class="menu-section-label">ACCÈS RAPIDES</div>
+  <div class="quick-grid">
+   <button data-quick-page="home">⌂ Overview</button>
+   <button data-quick-page="news">◫ Actualités</button>
+   <button data-quick-page="favorites">☆ Favoris</button>
+  </div>
+  <div class="menu-section-label">TOUS LES MODULES · ★ POUR ÉPINGLER</div>
+  <div class="menu-grid" id="commandMenuGrid"></div>
+ </div>
+</div>
 <main>
- <div class="brand"><div class="core"><i></i></div><div><strong style="letter-spacing:4px">NEXUS</strong><br><small>HYBRID V14 · FX ENGINE</small></div></div>
- <h1>Initialisation de NEXUS HYBRID.</h1>
- <p>Chargement de la base NEXUS et activation du studio de personnalisation.</p>
- <div class="bar"><i id="progress"></i></div>
- <div class="status" id="status" role="status" aria-live="polite">Préparation du système…</div>
+<section class="page active" id="home">
+<div class="date" id="date"></div><h1>NEXUS Overview.</h1>
+<div class="subtitle">Vue générale de votre centre personnel de veille et d'information.</div>
+<div class="panel">
+<div class="label">NEXUS OVERVIEW</div><h3>Centre de situation.</h3>
+<p>Suivi des publications, tendances thématiques et sujets à surveiller. Les indicateurs sont calculés à partir des flux RSS disponibles.</p>
+<div class="toolbar"><button class="primary" onclick="refreshNews()">↻ Actualiser les données</button><button class="small-btn" onclick="showPage('top')">Voir le Top Intelligence →</button></div>
+<div id="lastUpdate" class="source">Initialisation des actualités…</div>
+</div>
+<div class="stats">
+<div class="stat"><strong id="total">0</strong><small>Articles chargés</small></div>
+<div class="stat"><strong id="saved">0</strong><small>Favoris enregistrés</small></div>
+<div class="stat"><strong id="recentCount">0</strong><small>Publications · 24 h</small></div>
+<div class="stat"><strong id="trackedCount">0</strong><small>Sujets rapprochés</small></div>
+</div>
+<h2 class="section">DAILY INTELLIGENCE BRIEFING</h2><div id="briefingArticles"><div class="empty">En attente des actualités…</div></div>
+<h2 class="section">GLOBAL SITUATION</h2>
+<div class="watch-dashboard"><div class="label">INDICATEURS DES FLUX RSS</div><div id="topicDashboard"><div class="empty">Analyse des publications…</div></div><div class="notice">Indicateurs textuels, pas une mesure de gravité réelle.</div></div>
+<h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div>
+</section>
+
+<section class="page" id="situation">
+<h1>Global Situation.</h1><div class="subtitle">Cartographie des lieux mentionnés dans les publications NEXUS.</div>
+<div class="map-panel">
+<div class="map-header"><span>GLOBAL MONITOR / WORLD MAP</span><span class="live-indicator">● CARTOGRAPHIE ACTIVE</span></div>
+<div class="map-topline"><span>GLOBAL SITUATION MONITOR</span><span>LIVE DATA / NEXUS RSS</span></div>
+<div id="nexus-map"></div>
+<div class="map-controls"><button onclick="resetMapView()">◎ Vue mondiale</button><button onclick="refreshNews()">↻ Actualiser</button></div>
+<div class="map-legend"><span><i class="legend-dot"></i>Lieux repérés dans les articles</span></div>
+<div id="mapStatus" class="map-status">La carte sera chargée à l'ouverture.</div>
+<p class="map-note">Les marqueurs indiquent des lieux explicitement mentionnés dans les titres ou résumés. Ils ne prouvent pas qu'un événement s'y est produit. Coordonnées approximatives.</p>
+</div>
+<h2 class="section">RÉPARTITION GÉOGRAPHIQUE</h2><div class="grid regions" id="regionDashboard"><div class="empty">Analyse…</div></div>
+<div class="notice">Répartition indicative basée sur le texte des articles, pas sur une géolocalisation vérifiée.</div>
+</section>
+
+<section class="page" id="news">
+<h1>Actualités.</h1><div class="subtitle">Publications récupérées automatiquement depuis les flux RSS.</div>
+<h2 class="section">CATÉGORIES</h2>
+<div class="categories" id="categories">
+<button class="chip active" data-cat="Tous">Tout</button><button class="chip" data-cat="France">France</button><button class="chip" data-cat="Monde">Monde</button><button class="chip" data-cat="Technologie">Technologie</button><button class="chip" data-cat="Sciences">Sciences</button><button class="chip" data-cat="Économie">Économie</button><button class="chip" data-cat="Environnement">Environnement</button><button class="chip" data-cat="Défense">Défense</button><button class="chip" data-cat="Exploration">Exploration</button><button class="chip" data-cat="Autres">Autres</button>
+</div>
+<input id="search" placeholder="Rechercher un article ou un sujet…" autocomplete="off"><div id="newsArticles"><div class="empty">Chargement…</div></div>
+</section>
+
+<section class="page" id="top"><h1>Top Intelligence.</h1><div class="subtitle">Classement indicatif selon fraîcheur, catégorie et rapprochements trouvés.</div><div class="notice">Le score est un indicateur technique, pas une mesure de vérité ou d'importance objective.</div><div id="topArticles"></div></section>
+<section class="page" id="timeline"><h1>Global Timeline.</h1><div class="subtitle">Chronologie des publications disponibles, classées par date.</div><div id="fullTimeline"></div></section>
+<section class="page" id="sources">
+<h1>Source Monitor.</h1><div class="subtitle">État des flux et comparaison des couvertures similaires.</div>
+<div class="panel"><div class="label">SOURCE MONITOR</div><h3>Surveillance des médias.</h3><p>Les titres proches sont rapprochés automatiquement. Cela ne prouve ni l'indépendance des sources ni l'exactitude des informations.</p></div>
+<div class="info"><div class="label">ÉTAT DES FLUX</div><div id="feedStatus">En attente du premier chargement.</div></div>
+<h2 class="section">SUJETS COUVERTS PAR PLUSIEURS SOURCES</h2><div id="sourceGroups"></div>
+</section>
+<section class="page" id="analyst">
+<h1>NEXUS Analyst.</h1><div class="subtitle">Examiner les informations sans confondre faits, contexte et interprétation.</div>
+<div class="panel"><div class="label">NEXUS ANALYST DESK</div><h3>Examiner une publication.</h3><select id="analystSelect"><option value="">Sélectionner un article…</option></select></div>
+<div class="info"><div class="label">01 / INFORMATIONS DISPONIBLES</div><div id="analystFacts" class="module-sub">Sélectionne un article.</div></div>
+<div class="info"><div class="label">02 / CONTEXTE FOURNI</div><div id="analystContext" class="module-sub">Le résumé du flux RSS apparaîtra ici.</div></div>
+<div class="info"><div class="label">03 / ANALYSE ET LIMITES</div><div id="analystAnalysis" class="module-sub">NEXUS ne vérifie pas automatiquement les faits.</div></div>
+<div class="notice">Cet outil organise les informations disponibles. Il ne remplace pas une enquête journalistique.</div>
+</section>
+<section class="page" id="dossiers">
+<h1>Dossiers thématiques.</h1><div class="subtitle">Créer des dossiers personnels et y conserver des publications.</div>
+<div class="panel"><div class="label">PERSONAL INTELLIGENCE FILES</div><input id="dossierName" placeholder="Nom du nouveau dossier…"><button class="primary" onclick="createDossier()">+ Créer un dossier</button></div><div id="dossierList"></div>
+</section>
+<section class="page" id="science">
+<h1>Science & Space Monitor.</h1><div class="subtitle">Veille des publications scientifiques et spatiales présentes dans les flux.</div>
+<div class="notice">Cette rubrique filtre les articles existants. Elle ne crée pas de nouvelles sources RSS.</div>
+<div class="stats"><div class="stat"><strong id="scienceCount">0</strong><small>Articles scientifiques</small></div><div class="stat"><strong id="spaceCount">0</strong><small>Articles liés à l'espace</small></div></div>
+<h2 class="section">PUBLICATIONS SCIENTIFIQUES</h2><div id="scienceArticles"></div>
+</section>
+<section class="page" id="alerts">
+<h1>Alertes intelligentes.</h1><div class="subtitle">Surveiller des mots-clés et des catégories dans les publications chargées.</div>
+<div class="panel"><div class="label">KEYWORD MONITOR</div><h3>Mots-clés à surveiller</h3><p>Sépare les mots-clés par des virgules.</p><textarea id="alertKeywords" placeholder="Exemple : NASA, climat, technologie"></textarea><button class="primary" onclick="saveAlerts()">Enregistrer les mots-clés</button></div>
+<div class="info"><div class="label">CATÉGORIES SURVEILLÉES</div><div id="alertCategories" class="categories"></div><button class="small-btn" onclick="saveAlerts()">Enregistrer les catégories</button></div>
+<div class="notice">Les correspondances sont affichées ici dans NEXUS. Aucune notification système ou Push n’est envoyée.</div>
+<h2 class="section">DERNIÈRES CORRESPONDANCES</h2><div id="alertMatches"></div>
+</section>
+<section class="page" id="favorites"><h1>Favoris.</h1><div class="subtitle">Votre bibliothèque personnelle enregistrée sur cet appareil.</div><div id="favoriteArticles"></div></section>
+<section class="page" id="archive"><h1>Archives.</h1><div class="subtitle">Historique des articles récupérés par NEXUS.</div><div class="notice">Les archives sont stockées dans le navigateur de ce téléphone.</div><div id="archiveArticles"></div></section>
+
+<section class="page" id="tools">
+<h1>Centre des outils.</h1><div class="subtitle">Tous les modules NEXUS, accessibles directement sans menu imbriqué.</div>
+<div class="tools-grid">
+<button class="tool-card" onclick="showPage('top')"><span>◆</span><strong>Top Intelligence</strong><small>Publications classées</small></button>
+<button class="tool-card" onclick="showPage('timeline')"><span>◷</span><strong>Chronologie</strong><small>Suivre les événements</small></button>
+<button class="tool-card" onclick="showPage('sources')"><span>◉</span><strong>Sources</strong><small>Comparer les médias</small></button>
+<button class="tool-card" onclick="showPage('analyst')"><span>⌕</span><strong>Analyste</strong><small>Examiner un article</small></button>
+<button class="tool-card" onclick="showPage('science')"><span>✧</span><strong>Science & espace</strong><small>Veille scientifique</small></button>
+<button class="tool-card" onclick="showPage('alerts')"><span>⚑</span><strong>Alertes</strong><small>Mots-clés surveillés</small></button>
+<button class="tool-card" onclick="showPage('favorites')"><span>☆</span><strong>Favoris</strong><small>Publications enregistrées</small></button>
+<button class="tool-card" onclick="showPage('archive')"><span>▤</span><strong>Archives</strong><small>Historique local</small></button>
+<button class="tool-card" onclick="showPage('world')"><span>◎</span><strong>World Intel</strong><small>Fiches pays et radar mondial</small></button>
+<button class="tool-card" onclick="showPage('analysis')"><span>⌗</span><strong>Analysis Lab</strong><small>Comparaison et dossiers</small></button>
+<button class="tool-card" onclick="showPage('personal')"><span>▣</span><strong>Personal Desk</strong><small>Notes, tâches et journal</small></button>
+<button class="tool-card" onclick="showPage('settings')"><span>⚙</span><strong>Personnalisation</strong><small>Configurer NEXUS</small></button>
+</div></section>
+
+
+<section class="page" id="world">
+<h1>World Intelligence.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div>
+<div class="panel"><div class="label">GLOBAL RADAR</div><p>Le radar est calculé à partir des publications déjà chargées. Il indique une fréquence de mentions, pas un niveau de menace ou une validation indépendante.</p><div id="worldRadar"></div></div>
+<h2 class="section">FICHES PAYS</h2><input id="countrySearch" placeholder="Rechercher un pays…" autocomplete="off"><div id="countryCards" class="country-grid"></div>
+<div class="notice">Les fiches donnent des repères généraux. Les données politiques et économiques évoluent : vérifie les sources et dates avant de les utiliser dans un travail.</div>
+</section>
+<section class="page" id="analysis">
+<h1>Analysis Lab.</h1><div class="subtitle">Comparer les couvertures, construire des synthèses et organiser des analyses à partir des contenus disponibles.</div>
+<div class="info"><div class="label">COMPARATEUR DE PUBLICATIONS</div><select id="compareOne"><option value="">Choisir une première publication…</option></select><select id="compareTwo"><option value="">Choisir une seconde publication…</option></select><button class="primary" id="compareArticles">Comparer</button><div id="comparisonResult" class="source">Sélectionne deux publications pour examiner leurs différences.</div></div>
+<div class="info"><div class="label">BRIEFING DU JOUR</div><p>Généré localement à partir des titres et résumés RSS présents sur cet appareil. Ce n'est pas un résumé produit par une IA.</p><button class="small-btn" id="generateBriefing">Générer le briefing</button><div id="generatedBriefing"></div></div>
+<div class="info"><div class="label">MODE PRÉSENTATION</div><p>Masque les commandes et agrandit la zone de lecture pour présenter un dossier.</p><button class="small-btn" id="presentationMode">Activer / quitter le mode présentation</button></div>
+</section>
+<section class="page" id="personal">
+<h1>Personal Desk.</h1><div class="subtitle">Espace de travail local : notes, tâches, journal et événements personnels.</div>
+<div class="info"><div class="label">NOTES PERSONNELLES</div><textarea id="personalNote" placeholder="Tes notes, idées et observations…"></textarea><button class="primary" id="savePersonalNote">Enregistrer la note</button><div id="personalNotes"></div></div>
+<div class="info"><div class="label">GESTIONNAIRE DE TÂCHES</div><div class="toolbar"><input id="taskInput" placeholder="Nouvelle tâche…"><button class="primary" id="addTask">Ajouter</button></div><div id="taskList"></div></div>
+<div class="info"><div class="label">AGENDA PERSONNEL</div><div class="toolbar"><input id="eventTitle" placeholder="Événement"><input id="eventDate" type="datetime-local"><button class="small-btn" id="addEvent">Ajouter</button></div><div id="eventList"></div></div>
+<div class="info"><div class="label">JOURNAL DES DÉCOUVERTES</div><textarea id="journalInput" placeholder="Ce que tu as appris ou ce que tu veux retenir…"></textarea><button class="small-btn" id="saveJournal">Ajouter au journal</button><div id="journalList"></div></div>
+</section>
+<section class="page" id="settings">
+<h1>Paramètres.</h1><div class="subtitle">Configuration de votre centre NEXUS.</div>
+
+<div class="info appearance-panel">
+<div class="label">NEXUS / CUSTOMIZATION STUDIO</div>
+<div class="appearance-preview"><span class="preview-dot"></span><div><strong>Aperçu en direct</strong><small>Chaque modification est appliquée immédiatement et sauvegardée sur cet appareil.</small></div></div>
+<div class="studio-heading">PROFILS VISUELS</div>
+<div class="setting-row"><div><strong>Ambiance prédéfinie</strong><p>Appliquer une identité complète en un seul réglage.</p></div><select id="themeProfile"><option value="tactical">Tactical</option><option value="cyber">Cyber</option><option value="stealth">Stealth</option><option value="ghost">Ghost</option><option value="custom">Personnalisé</option></select></div>
+<div class="profile-grid">
+<button type="button" class="profile-card" data-profile="tactical"><i class="profile-dot tactical-dot"></i><b>TACTICAL</b><small>Bleu nuit · technique</small></button>
+<button type="button" class="profile-card" data-profile="cyber"><i class="profile-dot cyber-dot"></i><b>CYBER</b><small>Cyan · lumineux</small></button>
+<button type="button" class="profile-card" data-profile="stealth"><i class="profile-dot stealth-dot"></i><b>STEALTH</b><small>Noir · discret</small></button>
+<button type="button" class="profile-card" data-profile="ghost"><i class="profile-dot ghost-dot"></i><b>GHOST</b><small>Violet · spectral</small></button>
+</div>
+<div class="studio-heading">COULEURS ET AMBIANCE</div>
+<div class="setting-row"><div><strong>Palette de couleurs</strong><p>Couleur principale de l'interface.</p></div><select id="accentColor"><option value="blue">Bleu NEXUS</option><option value="cyan">Cyan électrique</option><option value="green">Vert tactique</option><option value="amber">Ambre radar</option><option value="violet">Violet spectral</option><option value="red">Rouge alerte</option><option value="custom">Personnalisée</option></select></div>
+<div class="setting-row"><div><strong>Couleur personnalisée</strong><p>Choisir librement une couleur d'accentuation.</p></div><input type="color" id="customAccent" value="#43d9ff" aria-label="Couleur personnalisée"></div>
+<div class="setting-row"><div><strong>Fond de l'interface</strong><p>Choisir la profondeur et la texture.</p></div><select id="backgroundStyle"><option value="deep">Bleu profond</option><option value="black">Noir absolu</option><option value="slate">Ardoise</option><option value="midnight">Nuit polaire</option></select></div>
+<div class="setting-row"><div><strong>Texture du fond</strong><p>Grille technique ou ambiance discrète.</p></div><select id="backgroundTexture"><option value="none">Aucune</option><option value="grid">Grille technique</option><option value="stars">Points lumineux</option><option value="scan">Lignes de balayage</option></select></div>
+<div class="studio-heading">MATIÈRE ET ÉCLAIRAGE</div>
+<div class="setting-row"><div><strong>Intensité lumineuse</strong><p>Force des halos et reflets.</p></div><input type="range" id="glowLevel" min="0" max="100" step="5" value="35"></div>
+<div class="setting-row"><div><strong>Transparence des panneaux</strong><p>Régler l'effet verre et la profondeur.</p></div><input type="range" id="panelOpacity" min="55" max="100" step="5" value="92"></div>
+<div class="setting-row"><div><strong>Arrondi des panneaux</strong><p>De très anguleux à très arrondis.</p></div><input type="range" id="cornerRadius" min="4" max="24" step="1" value="14"></div>
+<div class="setting-row"><div><strong>Style des panneaux</strong><p>Choisir le rendu des cartes.</p></div><select id="cardStyle"><option value="standard">Équilibré</option><option value="flat">Minimal</option><option value="round">Arrondi</option></select></div>
+<div class="setting-row"><div><strong>Effet verre dépoli</strong><p>Transparence et flou léger.</p></div><label class="switch"><input type="checkbox" id="glassMode"><span></span></label></div>
+<div class="setting-row"><div><strong>Halo lumineux</strong><p>Reflets autour des éléments actifs.</p></div><label class="switch"><input type="checkbox" id="glowMode"><span></span></label></div>
+<div class="setting-row"><div><strong>Fond atmosphérique</strong><p>Éclairage d'ambiance animé.</p></div><label class="switch"><input type="checkbox" id="ambientMode"><span></span></label></div>
+<div class="studio-heading">CONFORT ET AFFICHAGE</div>
+<div class="setting-row"><div><strong>Densité de l'interface</strong><p>Espacement des éléments.</p></div><select id="densityMode"><option value="normal">Confortable</option><option value="compact">Compact</option><option value="spacious">Aéré</option></select></div>
+<div class="setting-row"><div><strong>Taille du texte</strong><p>Ajuster la lisibilité générale.</p></div><div class="font-scale-control"><input type="range" id="fontScale" min="75" max="180" step="5" value="100"><output id="fontScaleValue">100 %</output></div></div>
+<div class="setting-row"><div><strong>Animations réduites</strong><p>Désactiver les mouvements décoratifs.</p></div><label class="switch"><input type="checkbox" id="reducedMotion"><span></span></label></div>
+<div class="studio-heading">SAUVEGARDE DU THÈME</div>
+<p class="source">Exportation et importation de tes préférences visuelles. Cela ne remplace pas une sauvegarde des articles, dossiers ou favoris.</p>
+<div class="actions"><button class="small-btn" id="exportTheme" type="button">↧ Exporter mon thème</button><button class="small-btn" id="importThemeButton" type="button">↥ Importer un thème</button><input type="file" id="importThemeFile" accept="application/json,.json" hidden></div>
+<button class="small-btn" id="resetAppearance" type="button">Réinitialiser l'apparence</button>
+</div>
+
+
+<div class="info nexus-fx-studio" id="nexusFxStudio">
+ <div class="label">NEXUS / MOBILE FX STUDIO · V14</div>
+ <div class="nexus-fx-overview">
+  <div class="nexus-fx-core" aria-hidden="true"><span></span></div>
+  <div class="nexus-fx-overview-copy"><strong>NEXUS CORE / HYBRID ENGINE</strong><p>Un moteur d'apparence adaptatif : lumière, profondeur, signaux cartographiques et retours tactiles, avec une intensité réglable.</p><small id="fxStatusLabel">HYBRID · INTENSITÉ ÉQUILIBRÉE</small></div>
+ </div>
+ <div class="studio-heading">PROFILS FX</div>
+ <div class="profile-grid fx-profile-grid">
+  <button type="button" class="profile-card" data-fx-profile="hybrid"><i class="profile-dot fx-dot fx-hybrid-dot"></i><b>HYBRID</b><small>Signature NEXUS · équilibrée</small></button>
+  <button type="button" class="profile-card" data-fx-profile="command"><i class="profile-dot fx-dot fx-command-dot"></i><b>COMMAND</b><small>Terminal · précision</small></button>
+  <button type="button" class="profile-card" data-fx-profile="immersive"><i class="profile-dot fx-dot fx-immersive-dot"></i><b>IMMERSIVE</b><small>Ambiance renforcée</small></button>
+  <button type="button" class="profile-card" data-fx-profile="stealth"><i class="profile-dot fx-dot fx-stealth-dot"></i><b>STEALTH</b><small>Discret · basse intensité</small></button>
+  <button type="button" class="profile-card" data-fx-profile="arctic"><i class="profile-dot fx-dot fx-arctic-dot"></i><b>ARCTIC</b><small>Cyan froid · lumineux</small></button>
+  <button type="button" class="profile-card" data-fx-profile="aurora"><i class="profile-dot fx-dot fx-aurora-dot"></i><b>AURORA</b><small>Atmosphère · particules</small></button>
+  <button type="button" class="profile-card" data-fx-profile="obsidian"><i class="profile-dot fx-dot fx-obsidian-dot"></i><b>OBSIDIAN</b><small>Noir · contraste maîtrisé</small></button>
+  <button type="button" class="profile-card" data-fx-profile="focus"><i class="profile-dot fx-dot fx-focus-dot"></i><b>FOCUS</b><small>Lecture · distraction minimale</small></button>
+ </div>
+ <div class="studio-heading">STUDIO MOBILE</div>
+ <div class="setting-row"><div><strong>Moteur FX</strong><p>Activer ou désactiver les effets additionnels.</p></div><label class="switch"><input type="checkbox" id="fxEnabled" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Mode d'affichage FX</strong><p>Standard, hybride ou immersif.</p></div><select id="fxMode"><option value="standard">Standard</option><option value="hybrid" selected>Hybrid</option><option value="immersive">Immersive</option></select></div>
+ <div class="setting-row"><div><strong>Intensité générale</strong><p>Équilibre entre lisibilité et animation.</p></div><div class="fx-range"><input type="range" id="fxIntensity" min="0" max="100" step="5" value="50"><output id="fxIntensityOutput">50 · Équilibrée</output></div></div>
+ <div class="setting-row"><div><strong>Puissance lumineuse</strong><p>Force des halos et des reflets.</p></div><div class="fx-range"><input type="range" id="fxLightIntensity" min="0" max="100" step="5" value="45"><output id="fxLightOutput">45 %</output></div></div>
+ <div class="setting-row"><div><strong>Vitesse des animations</strong><p>Rythme des transitions et balayages.</p></div><select id="fxMotionSpeed"><option value="slow">Lente</option><option value="normal" selected>Normale</option><option value="fast">Rapide</option></select></div>
+ <div class="studio-heading">LUMIÈRE ET MOUVEMENT</div>
+ <div class="setting-row"><div><strong>CORE Pulse</strong><p>Respiration lumineuse du noyau NEXUS.</p></div><label class="switch"><input type="checkbox" id="fxCorePulse" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Flux lumineux</strong><p>Balayage discret de lumière sur l'arrière-plan.</p></div><label class="switch"><input type="checkbox" id="fxLightFlow" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Particules d'ambiance</strong><p>Micro-points animés, limités en intensité sur mobile.</p></div><label class="switch"><input type="checkbox" id="fxParticles" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Atmosphère dynamique</strong><p>Zones lumineuses très discrètes derrière l'interface.</p></div><label class="switch"><input type="checkbox" id="fxAtmosphere" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Profondeur interactive</strong><p>Réactions légères des cartes et panneaux.</p></div><label class="switch"><input type="checkbox" id="fxDepth" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Reflet de chargement</strong><p>Animation douce des zones d'attente.</p></div><label class="switch"><input type="checkbox" id="fxShimmer" checked><span></span></label></div>
+ <div class="studio-heading">RADAR ET SIGNAUX DE POSITION</div>
+ <div class="setting-row"><div><strong>Radar cartographique</strong><p>Balayage visuel léger sur la carte mondiale.</p></div><label class="switch"><input type="checkbox" id="fxRadarSweep" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Animation des lieux</strong><p>Pulsation des marqueurs présents sur la carte.</p></div><label class="switch"><input type="checkbox" id="fxLocationPulse" checked><span></span></label></div>
+ <div class="studio-heading">RETOURS ET CONFORT</div>
+ <div class="setting-row"><div><strong>Retour haptique</strong><p>Petite vibration lors des interactions, uniquement si l'appareil le prend en charge.</p></div><label class="switch"><input type="checkbox" id="fxHaptics" checked><span></span></label></div>
+ <div class="setting-row"><div><strong>Son discret</strong><p>Retour sonore très léger au toucher. Désactivé par défaut.</p></div><label class="switch"><input type="checkbox" id="fxSound"><span></span></label></div>
+ <div class="notice" id="fxSupportStatus">Haptique : vérification de la compatibilité de l'appareil… Les animations respectent le réglage « Animations réduites ».</div>
+ <div class="actions"><button class="primary" id="fxSaveProfile" type="button">Enregistrer mon profil FX</button><button class="small-btn" id="fxReset" type="button">Réinitialiser FX</button></div>
+ <p class="source">Les réglages FX sont conservés localement sur cet appareil. Ils ne modifient ni les données d'actualités, ni les favoris, ni les dossiers.</p>
+</div>
+
+<div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option><option>10</option><option>15</option><option>20</option></select></div>
+<div class="info"><div class="label">SOURCES</div><p>Les articles sont chargés depuis le fichier automatique news.json.</p></div>
+<div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div>
+<div class="info"><div class="label">SAUVEGARDE COMPLÈTE</div><p>Exporter ou restaurer les données personnelles locales de NEXUS (favoris, dossiers, alertes, notes, tâches et préférences).</p><div class="actions"><button class="small-btn" id="exportAllData">Exporter toutes mes données</button><button class="small-btn" id="importAllDataButton">Importer une sauvegarde</button><input type="file" id="importAllDataFile" accept="application/json,.json" hidden></div></div>
+<button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button>
+<div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 14 — Hybrid Intelligence System<br>Interface personnelle non commerciale.</p></div>
+</section>
 </main>
+<footer>NEXUS INTELLIGENCE / PERSONAL SYSTEM / V14 HYBRID</footer>
+<nav id="primaryNav" aria-label="Navigation principale"></nav>
+
 <script>
 "use strict";
 
-/*
- * NEXUS HYBRID V14 — single-file replacement bootstrap.
- * The original v8-development index snapshot is pinned to an immutable commit.
- * After the first successful build, the complete patched HTML is cached locally.
- */
-const SOURCE_URL="https://raw.githubusercontent.com/nexus-journal/NEXUS/1cf939b208dd9e06b92e5a1a182aa7821ef6cb9d/index.html";
-const CACHE_KEY="nexusHybridV14CompleteHtml";
-const BUILD_ID="NEXUS-HYBRID-V14-FX-1";
-const $=id=>document.getElementById(id);
+const NEWS_URL="./news.json";
+const CACHE_KEY="nexusArticlesV3";
+const FAV_KEY="nexusFavoritesV3";
+const DOSSIER_KEY="nexusDossiersV1";
+const ALERT_KEY="nexusAlertsV1";
 
-function progress(n){$("progress").style.width=n+"%"}
-function status(message,error=false){$("status").textContent=message;$("status").classList.toggle("error",error)}
-function replaceOnce(source,needle,replacement,label){
- const p=source.indexOf(needle);
- if(p<0)throw new Error("Repère source introuvable : "+label);
- if(source.indexOf(needle,p+needle.length)>=0)throw new Error("Repère source ambigu : "+label);
- return source.slice(0,p)+replacement+source.slice(p+needle.length);
+function readStorage(key,fallback){
+try{const v=localStorage.getItem(key);return v?JSON.parse(v):fallback}catch(e){return fallback}
 }
-function patchNexusV14(base){
- let html=base;
- const rep=(a,b,label)=>{html=replaceOnce(html,a,b,label)};
- if(!html.includes('<section class="page" id="settings">')||!html.includes('id="news"')||!html.includes('id="situation"'))throw new Error("La source reçue ne correspond pas à l'index NEXUS attendu.");
+let articles=readStorage(CACHE_KEY,[]);
+let archive=readStorage("nexusArchiveV3",[]);
+let favorites=readStorage(FAV_KEY,[]);
+let dossiers=readStorage(DOSSIER_KEY,[]);
+let alertSettings=readStorage(ALERT_KEY,{keywords:[],categories:[]});
+let feedResults=[];
+let activeCategory="Tous";
+let currentPage="home";
+let nexusMap=null,nexusMarkers=[];
+let cachedGroups=null,cachedScores=new Map(),cachedMatches=new Map();
+let leafletPromise=null;
+let newsLoaded=false;
 
- html=html.replace("NEXUS Intelligence V13.1 Premium — centre personnel de veille et d'information.","NEXUS Intelligence V14 Hybrid — centre personnel de veille et d'information.");
- html=html.replace("<title>NEXUS Intelligence V13.1 Premium</title>","<title>NEXUS Intelligence V14 Hybrid</title>");
- html=html.replace("<span>V13 · ULTIMATE SYSTEM</span>","<span>V14 · HYBRID FX SYSTEM</span>");
- html=html.replace("NEXUS INTELLIGENCE / PERSONAL SYSTEM / V13 ULTIMATE","NEXUS INTELLIGENCE / HYBRID FX SYSTEM / V14");
- html=html.replace("Version 13 — Ultimate Intelligence System","Version 14 — Hybrid FX System");
- rep('<div class="logo">NE<span>X</span>US</div>','<div class="logo">NE<span>X</span>US</div><div class="nexus-fx-core" id="nexusFxCore" aria-hidden="true"><i></i><i></i><b></b></div>',"logo CORE");
+function invalidateAnalysisCache(){
+cachedGroups=null;cachedScores.clear();cachedMatches.clear();
+}
+function safeText(v){
+return String(v||"").replace(/<[^>]*>/g," ").replace(/&nbsp;/gi," ").replace(/&amp;/gi,"&").replace(/&quot;/gi,'"').replace(/&#39;/g,"'").replace(/\s+/g," ").trim();
+}
+function escapeHTML(v){
+return String(v||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+function safeURL(v){
+try{const u=new URL(String(v||""));return ["http:","https:"].includes(u.protocol)?u.href:"#"}catch(e){return "#"}
+}
+function normalized(v){
+return safeText(v).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+}
+function guessCategory(title,description,fallback){
+const t=normalized(title+" "+description);
+if(/france|francais|paris|elysee|assemblee nationale|gouvernement|municipal/.test(t))return "France";
+if(/technolog|intelligence artificielle|logiciel|numerique|cyber|robot|smartphone|internet/.test(t))return "Technologie";
+if(/science|scientifi|espace|nasa|recherche|decouverte|astronomie/.test(t))return "Sciences";
+if(/economie|economy|inflation|banque|entreprise|marche|emploi|finance|commerce/.test(t))return "Économie";
+if(/climat|environnement|ecolog|biodiversite|energie|pollution|ocean/.test(t))return "Environnement";
+if(/defense|militaire|armee|forces armees|otan|navire de guerre|missile/.test(t))return "Défense";
+if(/exploration|expedition|fonds marins|antarctique|arctique/.test(t))return "Exploration";
+if(/world|monde|international|europe|afrique|asia|amerique|middle east/.test(t))return "Monde";
+return fallback||"Autres";
+}
+function titleTokens(title){
+const stop=new Set(["avec","dans","pour","contre","apres","avant","entre","depuis","selon","plus","moins","cette","cela","leur","leurs","the","and","from","that","with","this","over","into","after","says","said"]);
+return normalized(title).replace(/[^a-z0-9 ]/g," ").split(/\s+/).filter(w=>w.length>3&&!stop.has(w));
+}
+function similarity(a,b){
+const A=new Set(titleTokens(a)),B=new Set(titleTokens(b));
+if(!A.size||!B.size)return 0;
+let n=0;A.forEach(w=>{if(B.has(w))n++});
+return n/Math.min(A.size,B.size);
+}
+function articleTimestamp(a){
+const t=a.date?Date.parse(a.date):NaN;return Number.isFinite(t)?t:null;
+}
 
- html=html.replace(
-  '<option value="tactical">Tactical</option><option value="cyber">Cyber</option><option value="stealth">Stealth</option><option value="ghost">Ghost</option><option value="custom">Personnalisé</option>',
-  '<option value="hybrid">NEXUS Hybrid</option><option value="tactical">Tactical</option><option value="cyber">Cyber</option><option value="stealth">Stealth</option><option value="ghost">Ghost</option><option value="arctic">Arctic</option><option value="aurora">Aurora</option><option value="obsidian">Obsidian</option><option value="focus">Focus</option><option value="custom">Personnalisé</option>'
- );
- rep('</div>\n<div class="studio-heading">COULEURS ET AMBIANCE</div>',
-  '<button type="button" class="profile-card selected" data-profile="hybrid"><i class="profile-dot cyber-dot"></i><b>HYBRID</b><small>Bleu nuit · cyan · équilibré</small></button>\n'+
-  '<button type="button" class="profile-card" data-profile="arctic"><i class="profile-dot cyber-dot"></i><b>ARCTIC</b><small>Bleu froid · lumière polaire</small></button>\n'+
-  '<button type="button" class="profile-card" data-profile="aurora"><i class="profile-dot stealth-dot"></i><b>AURORA</b><small>Turquoise · atmosphère</small></button>\n'+
-  '<button type="button" class="profile-card" data-profile="obsidian"><i class="profile-dot ghost-dot"></i><b>OBSIDIAN</b><small>Graphite · ambre discret</small></button>\n'+
-  '<button type="button" class="profile-card" data-profile="focus"><i class="profile-dot tactical-dot"></i><b>FOCUS</b><small>Lecture · distraction minimale</small></button>\n'+
-  '</div>\n<div class="studio-heading">COULEURS ET AMBIANCE</div>',
-  "profils supplémentaires"
- );
+/* ANALYSE CALCULEE UNE SEULE FOIS PAR MISE A JOUR */
+function topicGroups(){
+if(cachedGroups)return cachedGroups;
+const sorted=articles.filter(a=>a.title);
+const groups=[];
+sorted.forEach(a=>{
+let best=null,bestScore=0;
+for(const g of groups){
+let score=0;
+for(const item of g.items)score=Math.max(score,similarity(a.title,item.title));
+if(score>=.48&&score>bestScore){best=g;bestScore=score}
+}
+if(best)best.items.push(a);else groups.push({items:[a]});
+});
+cachedGroups=groups.map(g=>{
+const sources=[...new Set(g.items.map(a=>a.source))];
+const dates=g.items.map(articleTimestamp).filter(v=>v!==null);
+return {...g,sources,firstDate:dates.length?Math.min(...dates):null,lastDate:dates.length?Math.max(...dates):null};
+}).sort((a,b)=>b.sources.length-a.sources.length||b.items.length-a.items.length);
+return cachedGroups;
+}
+function matchedSources(a){
+if(cachedMatches.has(a.id))return cachedMatches.get(a.id);
+const sources=new Set([a.source]);
+articles.forEach(b=>{
+if(b.id!==a.id&&b.source!==a.source&&similarity(a.title,b.title)>=.55)sources.add(b.source);
+});
+const result=[...sources];cachedMatches.set(a.id,result);return result;
+}
+function articleScore(a){
+if(cachedScores.has(a.id))return cachedScores.get(a.id);
+const time=articleTimestamp(a),age=time===null?999:(Date.now()-time)/3600000;
+const freshness=time===null?0:Math.max(0,36-Math.max(0,age))/36*45;
+const coverage=Math.min(25,Math.max(0,matchedSources(a).length-1)*12.5);
+const category=["Défense","Sciences","Technologie","Économie","Environnement"].includes(a.category)?15:8;
+const length=Math.min(10,titleTokens(a.title).length/8*10);
+const score=Math.round(freshness+coverage+category+length);
+cachedScores.set(a.id,score);return score;
+}
+function articleCard(a,showScore=false){
+const saved=favorites.includes(a.id),sources=matchedSources(a),count=sources.length;
+const badge=count>=2?'<span class="status good">● '+count+' SOURCES REPÉRÉES</span>':'<span class="status warn">● 1 SOURCE REPÉRÉE</span>';
+const coverage=count>=2?'<div class="source-match">Titres similaires repérés : '+sources.map(escapeHTML).join(" · ")+'</div>':'<div class="source-match">Aucun autre titre suffisamment proche dans les flux chargés.</div>';
+const parsed=a.date?new Date(a.date):null;
+const date=parsed&&!isNaN(parsed.getTime())?parsed.toLocaleString("fr-FR",{dateStyle:"medium",timeStyle:"short"}):"Date non indiquée";
+const score=showScore?'<span class="score">SCORE INDICATIF : '+articleScore(a)+'/100</span>':'';
+const dossierButtons=dossiers.length?'<select data-dossier-select="'+escapeHTML(a.id)+'"><option value="">Ajouter à un dossier…</option>'+dossiers.map(d=>'<option value="'+escapeHTML(d.id)+'">'+escapeHTML(d.name)+'</option>').join("")+'</select>':'';
+return `<article class="article">
+<div class="article-head"><span class="tag">${escapeHTML(a.category.toUpperCase())}</span>${badge}</div>
+<h3>${escapeHTML(a.title)}</h3><p>${escapeHTML(a.description||"Aucun résumé fourni. Consultez l'article original.")}</p>
+${coverage}${score}
+<div class="article-foot"><span class="source">${escapeHTML(a.source)}<br>${escapeHTML(date)}</span>
+<div class="actions"><button class="small-btn" data-favorite="${escapeHTML(a.id)}">${saved?"★ Enregistré":"☆ Favori"}</button><button class="small-btn" data-translate-article="${escapeHTML(a.id)}">Traduire en français</button>${dossierButtons}<a class="small-btn" href="${escapeHTML(safeURL(a.link))}" target="_blank" rel="noopener noreferrer">Article original ↗</a></div><div class="translation-output" hidden></div>
+</div></article>`;
+}
 
- const fxUI=`
-<div class="studio-heading">NEXUS FX ENGINE · LIGHT / MOTION / HAPTICS</div>
-<div class="fx-preview" id="nexusFxPreview"><div class="fx-preview-core"><i></i><i></i><b></b></div><div class="fx-preview-copy"><strong>NEXUS HYBRID EXPERIENCE</strong><small>CORE · SIGNAL · ATMOSPHERE · TOUCH</small></div><span class="fx-preview-status">LIVE</span></div>
-<div class="setting-row"><div><strong>Expérience FX</strong><p>Choisir le niveau global des effets visuels et sensoriels.</p></div><select id="fxPresetSelect"><option value="standard">STANDARD · discret</option><option value="hybrid" selected>HYBRID · équilibré</option><option value="immersive">IMMERSIVE · avancé</option></select></div>
-<div class="fx-preset-actions"><button type="button" class="fx-preset-card" data-fx-preset="standard"><b>STANDARD</b><small>Sobre · lecture prioritaire</small></button><button type="button" class="fx-preset-card selected" data-fx-preset="hybrid"><b>HYBRID</b><small>Signature NEXUS</small></button><button type="button" class="fx-preset-card" data-fx-preset="immersive"><b>IMMERSIVE</b><small>Effets renforcés</small></button></div>
-<div class="studio-heading">LUMIÈRE ET ATMOSPHÈRE</div>
-<div class="setting-row"><div><strong>Intensité FX générale</strong><p>Force visuelle globale des effets.</p></div><div class="fx-range"><input type="range" id="fxIntensity" min="0" max="100" step="1" value="52"><output id="fxIntensityValue">52 %</output></div></div>
-<div class="setting-row"><div><strong>Intensité lumineuse</strong><p>Halos, reflets et contours lumineux.</p></div><div class="fx-range"><input type="range" id="fxLightIntensity" min="0" max="100" step="1" value="48"><output id="fxLightIntensityValue">48 %</output></div></div>
-<div class="setting-row"><div><strong>Vitesse des animations</strong><p>Régler le rythme des mouvements décoratifs.</p></div><select id="fxAnimationSpeed"><option value="slow">Lent</option><option value="normal" selected>Normal</option><option value="fast">Rapide</option></select></div>
-<div class="setting-row"><div><strong>CORE animé</strong><p>Symbole central vivant dans l'en-tête.</p></div><label class="switch"><input type="checkbox" id="fxCoreEnabled" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Light Flow</strong><p>Reflets lumineux qui traversent subtilement les panneaux.</p></div><label class="switch"><input type="checkbox" id="fxLightFlowEnabled" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Particules atmosphériques</strong><p>Points lumineux discrets en arrière-plan.</p></div><label class="switch"><input type="checkbox" id="fxParticlesEnabled"><span></span></label></div>
-<div class="setting-row"><div><strong>Atmosphère dynamique</strong><p>Halos diffus qui évoluent lentement selon l'espace consulté.</p></div><label class="switch"><input type="checkbox" id="fxAtmosphereEnabled" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Radar cartographique</strong><p>Balayage graphique léger sur la carte Global Situation.</p></div><label class="switch"><input type="checkbox" id="fxRadarEnabled" checked><span></span></label></div>
-<div class="studio-heading">RETOUR SENSORIEL</div>
-<div class="setting-row"><div><strong>Retour haptique</strong><p>Impulsions tactiles courtes si le navigateur et le téléphone le permettent.</p></div><label class="switch"><input type="checkbox" id="fxHapticsEnabled" checked><span></span></label></div>
-<div class="setting-row"><div><strong>Micro-son de confirmation</strong><p>Son très discret sur certaines interactions. Désactivé par défaut.</p></div><label class="switch"><input type="checkbox" id="fxSoundEnabled"><span></span></label></div>
-<div class="studio-heading">PROFIL PERSONNALISÉ</div>
-<div class="fx-save-row"><input id="fxCustomName" type="text" maxlength="32" placeholder="Nom de mon préréglage" aria-label="Nom du préréglage personnalisé"><button class="small-btn" id="saveCustomFX" type="button">Enregistrer</button></div>
-<div class="actions"><button class="small-btn" id="loadCustomFX" type="button">Charger mon préréglage</button><button class="small-btn" id="resetFX" type="button">Réinitialiser FX</button></div>
-<p class="source">Les préférences sont sauvegardées localement sur cet appareil. Le système respecte la réduction des animations du téléphone.</p>
-`;
- rep('<div class="studio-heading">SAUVEGARDE DU THÈME</div>',fxUI+'\n<div class="studio-heading">SAUVEGARDE DU THÈME</div>',"FX Studio");
+/* RENDU CIBLE : SEULE LA PAGE OUVERTE EST ACTUALISEE */
+function renderHome(){
+const now=Date.now(),day=86400000;
+const dated=articles.map(a=>({a,time:articleTimestamp(a)})).filter(x=>x.time!==null);
+document.getElementById("total").textContent=articles.length;
+document.getElementById("saved").textContent=favorites.length;
+document.getElementById("recentCount").textContent=dated.filter(x=>now-x.time>=0&&now-x.time<day).length;
+const groups=topicGroups();
+const tracked=groups.filter(g=>g.items.length>=2&&g.firstDate!==null&&g.lastDate-g.firstDate>=day&&now-g.lastDate<7*day);
+document.getElementById("trackedCount").textContent=tracked.length;
+const topics=groups.filter(g=>g.items.length>=2).slice(0,5);
+document.getElementById("topicDashboard").innerHTML=topics.length?topics.map(g=>{
+const when=g.lastDate!==null?new Date(g.lastDate).toLocaleDateString("fr-FR",{day:"numeric",month:"short"}):"Date inconnue";
+return `<div class="topic-row"><div class="topic-title">${escapeHTML(g.items[0].title)}</div><div class="topic-meta">${g.sources.length} source(s) repérée(s) · ${g.items.length} article(s)<br>${escapeHTML(g.sources.join(" / "))}<br>Dernière publication : ${when}</div></div>`;
+}).join(""):'<div class="empty">Pas encore de sujet rapproché entre plusieurs titres.</div>';
+const timeline=dated.sort((a,b)=>b.time-a.time).slice(0,8);
+document.getElementById("timelineDashboard").innerHTML=timeline.length?timeline.map(({a,time})=>`<div class="timeline-row"><div class="timeline-meta">${new Date(time).toLocaleString("fr-FR",{weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}</div><div class="timeline-title">${escapeHTML(a.title)}</div><div class="timeline-meta">${escapeHTML(a.source)} · ${escapeHTML(a.category)}</div></div>`).join(""):'<div class="empty">Aucune date exploitable dans les flux.</div>';
+document.getElementById("briefingArticles").innerHTML=[...articles].sort((a,b)=>articleScore(b)-articleScore(a)).slice(0,3).map(a=>articleCard(a,true)).join("")||'<div class="empty">Aucun article disponible.</div>';
+}
+function renderRegions(){
+const regions=[
+{name:"Europe",terms:/europe|france|allemagne|ukraine|russie|royaume.uni|bruxelles|otan/},
+{name:"Amérique du Nord",terms:/etats.unis|united states|america|canada|washington/},
+{name:"Asie",terms:/chine|japon|inde|coree|taiwan|asia|beijing|pekin/},
+{name:"Moyen-Orient",terms:/iran|israel|gaza|palestine|syrie|irak|middle east/},
+{name:"Afrique",terms:/afrique|africa|sahel|niger|mali|soudan|congo/},
+{name:"Océans et pôles",terms:/ocean|arctique|antarctique|pacifique|atlantique/}
+];
+const results=regions.map(r=>({...r,count:articles.filter(a=>r.terms.test(normalized(a.title+" "+a.description))).length}));
+const max=Math.max(1,...results.map(r=>r.count));
+document.getElementById("regionDashboard").innerHTML=results.map(r=>`<div class="region"><strong>${r.name}</strong><span>${r.count} article(s) correspondant(s)</span><div class="bar"><span style="width:${r.count/max*100}%"></span></div></div>`).join("");
+}
+function renderNews(){
+const q=normalized(document.getElementById("search").value||"");
+const count=Number(localStorage.getItem("nexusCount")||"8");
+const filtered=articles.filter(a=>(activeCategory==="Tous"||a.category===activeCategory)&&normalized(a.title+" "+a.description+" "+a.source).includes(q));
+document.getElementById("newsArticles").innerHTML=filtered.length?filtered.slice(0,count).map(articleCard).join(""):'<div class="empty">Aucun article ne correspond à cette recherche.</div>';
+}
+function renderTop(){
+const sorted=[...articles].sort((a,b)=>articleScore(b)-articleScore(a));
+document.getElementById("topArticles").innerHTML=sorted.slice(0,30).map(a=>articleCard(a,true)).join("")||'<div class="empty">Aucun article disponible.</div>';
+}
+function renderTimeline(){
+const dated=articles.filter(a=>articleTimestamp(a)!==null).sort((a,b)=>articleTimestamp(b)-articleTimestamp(a));
+document.getElementById("fullTimeline").innerHTML=dated.slice(0,150).map(a=>`<div class="timeline-row"><div class="timeline-meta">${new Date(articleTimestamp(a)).toLocaleString("fr-FR",{dateStyle:"full",timeStyle:"short"})}</div><div class="timeline-title">${escapeHTML(a.title)}</div><div class="timeline-meta">${escapeHTML(a.source)} · ${escapeHTML(a.category)}</div></div>`).join("")||'<div class="empty">Aucune date exploitable.</div>';
+}
+function renderSourceGroups(){
+const groups=topicGroups().filter(g=>g.sources.length>=2).slice(0,30);
+document.getElementById("sourceGroups").innerHTML=groups.map(g=>`<div class="info"><div class="label">${g.sources.length} SOURCES / ${g.items.length} ARTICLES</div><p>${escapeHTML(g.items[0].title)}</p><div class="source">${escapeHTML(g.sources.join(" · "))}</div></div>`).join("")||'<div class="empty">Aucun rapprochement de titres détecté.</div>';
+}
+function renderAnalyst(){
+const select=document.getElementById("analystSelect"),previous=select.value;
+select.innerHTML='<option value="">Sélectionner un article…</option>'+articles.slice(0,100).map((a,i)=>`<option value="${i}">${escapeHTML(a.title.slice(0,100))}</option>`).join("");
+if(previous&&Number(previous)<Math.min(100,articles.length))select.value=previous;
+showAnalyst();
+}
+function showAnalyst(){
+const value=document.getElementById("analystSelect").value;
+const a=articles[Number(value)];
+const facts=document.getElementById("analystFacts"),context=document.getElementById("analystContext"),analysis=document.getElementById("analystAnalysis");
+if(!value||!a){facts.textContent="Sélectionne un article pour afficher ses informations.";context.textContent="Le résumé fourni par le flux RSS apparaîtra ici.";analysis.textContent="NEXUS ne vérifie pas automatiquement les faits.";return}
+facts.innerHTML="<strong>"+escapeHTML(a.title)+"</strong><br><br>Média : "+escapeHTML(a.source)+"<br>Catégorie : "+escapeHTML(a.category)+"<br>Date : "+escapeHTML(a.date||"Non indiquée");
+context.textContent=a.description||"Aucun résumé fourni. Consulte l'article original.";
+analysis.textContent="Cette publication est présente dans les données chargées par NEXUS. Cela ne confirme pas l'exactitude de ses affirmations. Compare les détails avec d'autres rédactions et des documents primaires.";
+}
+function renderScience(){
+const science=articles.filter(a=>["Sciences","Exploration"].includes(a.category)||/science|scientifi|nasa|espace|astronomie|satellite|spatial|recherche|decouverte/.test(normalized(a.title+" "+a.description)));
+const space=science.filter(a=>/espace|nasa|astronomie|satellite|spatial|lune|mars|orbite|fus.ee/.test(normalized(a.title+" "+a.description)));
+document.getElementById("scienceCount").textContent=science.length;
+document.getElementById("spaceCount").textContent=space.length;
+document.getElementById("scienceArticles").innerHTML=science.slice(0,40).map(articleCard).join("")||'<div class="empty">Aucune publication scientifique détectée dans les flux actuels.</div>';
+}
+function renderDossiers(){
+const el=document.getElementById("dossierList");
+if(!dossiers.length){el.innerHTML='<div class="empty">Aucun dossier créé.</div>';return}
+el.innerHTML=dossiers.map(d=>{
+const items=(d.articleIds||[]).map(id=>articles.find(a=>a.id===id)||archive.find(a=>a.id===id)).filter(Boolean);
+return `<div class="dossier"><h3>${escapeHTML(d.name)}</h3><div class="source">${items.length} article(s) enregistré(s)</div><div class="actions"><button class="small-btn" data-dossier-view="${escapeHTML(d.id)}">Afficher les articles</button><button class="small-btn" data-dossier-delete="${escapeHTML(d.id)}">Supprimer le dossier</button></div><div id="dossier-items-${escapeHTML(d.id)}"></div></div>`;
+}).join("");
+}
+function createDossier(){
+const input=document.getElementById("dossierName"),name=safeText(input.value);
+if(!name)return alert("Entre un nom de dossier.");
+if(dossiers.some(d=>d.name.toLowerCase()===name.toLowerCase()))return alert("Ce dossier existe déjà.");
+dossiers.push({id:"dossier-"+Date.now(),name,articleIds:[]});
+localStorage.setItem(DOSSIER_KEY,JSON.stringify(dossiers));input.value="";renderDossiers();
+}
+function addToDossier(articleId,dossierId){
+const d=dossiers.find(x=>x.id===dossierId);if(!d)return;
+if(!d.articleIds.includes(articleId))d.articleIds.push(articleId);
+localStorage.setItem(DOSSIER_KEY,JSON.stringify(dossiers));renderDossiers();alert("Article ajouté au dossier.");
+}
+function renderAlerts(){
+document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", ");
+const cats=["France","Monde","Technologie","Sciences","Économie","Environnement","Défense","Exploration"];
+document.getElementById("alertCategories").innerHTML=cats.map(c=>`<label class="pill"><input type="checkbox" data-alert-cat="${c}" ${(alertSettings.categories||[]).includes(c)?"checked":""} style="width:auto;margin:0 4px"> ${c}</label>`).join("");
+const matches=getAlertMatches();
+document.getElementById("alertMatches").innerHTML=matches.slice(0,20).map(articleCard).join("")||'<div class="empty">Aucune correspondance pour le moment.</div>';
+}
+function getAlertMatches(){
+const words=(alertSettings.keywords||[]).map(normalized).filter(Boolean),cats=alertSettings.categories||[];
+return articles.filter(a=>{const t=normalized(a.title+" "+a.description);return words.some(w=>t.includes(w))||cats.includes(a.category)});
+}
+function saveAlerts(){
+alertSettings.keywords=document.getElementById("alertKeywords").value.split(",").map(s=>safeText(s)).filter(Boolean);
+alertSettings.categories=[...document.querySelectorAll("[data-alert-cat]:checked")].map(el=>el.dataset.alertCat);
+localStorage.setItem(ALERT_KEY,JSON.stringify(alertSettings));renderAlerts();updateAlertIndicator();alert("Préférences d'alerte enregistrées.");
+}
+function renderFavorites(){
+const library=new Map([...articles,...archive].map(a=>[a.id,a]));
+const favs=favorites.map(id=>library.get(id)).filter(Boolean);
+document.getElementById("favoriteArticles").innerHTML=favs.map(articleCard).join("")||'<div class="empty">Aucun favori pour le moment.</div>';
+}
+function renderArchive(){
+document.getElementById("archiveArticles").innerHTML=archive.slice(0,150).map(articleCard).join("")||'<div class="empty">Aucun article archivé pour le moment.</div>';
+}
+function renderPage(page){
+if(page==="home")renderHome();
+if(page==="situation"){renderRegions();initNexusMap();}
+if(page==="news")renderNews();
+if(page==="top")renderTop();
+if(page==="timeline")renderTimeline();
+if(page==="sources"){renderSourceGroups();renderFeedStatus();}
+if(page==="analyst")renderAnalyst();
+if(page==="dossiers")renderDossiers();
+if(page==="science")renderScience();
+if(page==="alerts")renderAlerts();
+if(page==="favorites")renderFavorites();
+if(page==="archive")renderArchive();
+if(page==="world")renderWorldIntel();
+if(page==="analysis")populateComparators();
+if(page==="personal")renderPersonalDesk();
+}
+function render(){
+document.getElementById("total").textContent=articles.length;
+document.getElementById("saved").textContent=favorites.length;
+renderPage(currentPage);
+}
+function toggleFavorite(id){
+favorites=favorites.includes(id)?favorites.filter(x=>x!==id):[...favorites,id];
+localStorage.setItem(FAV_KEY,JSON.stringify(favorites));render();
+}
+function resetFavorites(){
+if(confirm("Effacer tous les favoris enregistrés sur cet appareil ?")){
+favorites=[];localStorage.setItem(FAV_KEY,"[]");render();
+}
+}
+document.addEventListener("click",event=>{
+const fav=event.target.closest("[data-favorite]");
+if(fav){toggleFavorite(fav.dataset.favorite);return}
+const ds=event.target.closest("[data-dossier-select]");
+if(ds&&ds.value){addToDossier(ds.dataset.dossierSelect,ds.value);return}
+const view=event.target.closest("[data-dossier-view]");
+if(view){
+const d=dossiers.find(x=>x.id===view.dataset.dossierView),target=document.getElementById("dossier-items-"+view.dataset.dossierView);
+if(d&&target){const items=(d.articleIds||[]).map(id=>articles.find(a=>a.id===id)||archive.find(a=>a.id===id)).filter(Boolean);target.innerHTML=items.map(articleCard).join("")||'<div class="empty">Aucun article dans ce dossier.</div>'}
+}
+const del=event.target.closest("[data-dossier-delete]");
+if(del&&confirm("Supprimer ce dossier ?")){dossiers=dossiers.filter(d=>d.id!==del.dataset.dossierDelete);localStorage.setItem(DOSSIER_KEY,JSON.stringify(dossiers));renderDossiers()}
+});
 
- rep(
-  'const DEFAULT_NEXUS_PREFS={profile:"tactical",accent:"blue",customAccent:"#43d9ff",glow:35,background:"deep",backgroundTexture:"none",cardStyle:"standard",glass:false,glowMode:true,ambient:false,compact:false,density:"normal",reducedMotion:false,panelOpacity:92,cornerRadius:14,fontScale:100};',
-  'const DEFAULT_NEXUS_PREFS={profile:"hybrid",accent:"blue",customAccent:"#21c7d9",glow:46,background:"deep",backgroundTexture:"none",cardStyle:"standard",glass:false,glowMode:true,ambient:true,compact:false,density:"normal",reducedMotion:false,panelOpacity:92,cornerRadius:14,fontScale:100,fxPreset:"hybrid",fxIntensity:52,fxLightIntensity:48,fxAnimationSpeed:"normal",fxCoreEnabled:true,fxLightFlowEnabled:true,fxParticlesEnabled:false,fxAtmosphereEnabled:true,fxRadarEnabled:true,fxHapticsEnabled:true,fxSoundEnabled:false};',
-  "préférences par défaut"
- );
- rep(' const presets={\n tactical:{',' const presets={\n hybrid:{profile:"hybrid",accent:"blue",customAccent:"#21c7d9",background:"deep",backgroundTexture:"none",glow:46,glass:false,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:92,cornerRadius:16,density:"normal",fxPreset:"hybrid",fxIntensity:52,fxLightIntensity:48,fxAnimationSpeed:"normal",fxCoreEnabled:true,fxLightFlowEnabled:true,fxParticlesEnabled:false,fxAtmosphereEnabled:true,fxRadarEnabled:true,fxHapticsEnabled:true,fxSoundEnabled:false},\n tactical:{',"profil HYBRID");
- rep(
-  ' ghost:{profile:"ghost",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:48,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:86,cornerRadius:20,density:"spacious"}\n };',
-  ' ghost:{profile:"ghost",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:48,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:86,cornerRadius:20,density:"spacious"},\n arctic:{profile:"arctic",accent:"cyan",background:"midnight",backgroundTexture:"grid",glow:48,glass:true,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:88,cornerRadius:16,density:"normal",fxPreset:"hybrid",fxIntensity:55,fxLightIntensity:58,fxAnimationSpeed:"slow"},\n aurora:{profile:"aurora",accent:"green",background:"deep",backgroundTexture:"stars",glow:60,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:86,cornerRadius:18,density:"normal",fxPreset:"immersive",fxIntensity:68,fxLightIntensity:66,fxAnimationSpeed:"slow"},\n obsidian:{profile:"obsidian",accent:"amber",background:"black",backgroundTexture:"none",glow:32,glass:true,glowMode:true,ambient:false,cardStyle:"flat",panelOpacity:90,cornerRadius:12,density:"normal",fxPreset:"standard",fxIntensity:25,fxLightIntensity:22,fxAnimationSpeed:"slow"},\n focus:{profile:"focus",accent:"blue",background:"black",backgroundTexture:"none",glow:5,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:100,cornerRadius:8,density:"compact",reducedMotion:true,fxPreset:"standard",fxIntensity:5,fxLightIntensity:0,fxAnimationSpeed:"slow",fxCoreEnabled:false,fxLightFlowEnabled:false,fxParticlesEnabled:false,fxAtmosphereEnabled:false,fxRadarEnabled:false,fxHapticsEnabled:false,fxSoundEnabled:false}\n };',
-  "profils supplémentaires"
- );
- rep(' document.body.dataset.texture=nexusPrefs.backgroundTexture||"none";',' document.body.dataset.texture=nexusPrefs.backgroundTexture||"none";\n applyNexusFXVisuals();',"liaison des préférences FX");
+/* CARTE : CHARGEMENT DIFFERE */
+const mapLocations=[
+{name:"Paris",lat:48.8566,lng:2.3522,terms:[/\bparis\b/i]},
+{name:"Bruxelles",lat:50.8503,lng:4.3517,terms:[/\bbruxelles\b/i,/\bbrussels\b/i]},
+{name:"Londres",lat:51.5072,lng:-.1276,terms:[/\blondres\b/i,/\blondon\b/i]},
+{name:"Berlin",lat:52.52,lng:13.405,terms:[/\bberlin\b/i]},
+{name:"Kyiv",lat:50.4501,lng:30.5234,terms:[/\bkyiv\b/i,/\bkiev\b/i]},
+{name:"Moscou",lat:55.7558,lng:37.6173,terms:[/\bmoscou\b/i,/\bmoscow\b/i]},
+{name:"Washington",lat:38.9072,lng:-77.0369,terms:[/\bwashington\b/i]},
+{name:"New York",lat:40.7128,lng:-74.006,terms:[/\bnew york\b/i]},
+{name:"Beijing",lat:39.9042,lng:116.4074,terms:[/\bbeijing\b/i,/\bpékin\b/i]},
+{name:"Tokyo",lat:35.6762,lng:139.6503,terms:[/\btokyo\b/i]},
+{name:"Taipei",lat:25.033,lng:121.5654,terms:[/\btaipei\b/i]},
+{name:"Téhéran",lat:35.6892,lng:51.389,terms:[/\btéhéran\b/i,/\btehran\b/i]},
+{name:"Jérusalem",lat:31.7683,lng:35.2137,terms:[/\bjerusalem\b/i,/\bjérusalem\b/i]},
+{name:"Gaza",lat:31.5017,lng:34.4668,terms:[/\bgaza\b/i]},
+{name:"Le Caire",lat:30.0444,lng:31.2357,terms:[/\ble caire\b/i,/\bcairo\b/i]},
+{name:"Nairobi",lat:-1.2921,lng:36.8219,terms:[/\bnairobi\b/i]},
+{name:"Dakar",lat:14.7167,lng:-17.4677,terms:[/\bdakar\b/i]},
+{name:"Sydney",lat:-33.8688,lng:151.2093,terms:[/\bsydney\b/i]}
+];
+function loadLeaflet(){
+if(leafletPromise)return leafletPromise;
+leafletPromise=new Promise((resolve,reject)=>{
+if(window.L){resolve();return}
+const css=document.createElement("link");css.rel="stylesheet";css.href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";document.head.appendChild(css);
+const script=document.createElement("script");script.src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";script.onload=resolve;script.onerror=()=>reject(new Error("Leaflet indisponible"));document.head.appendChild(script);
+});
+return leafletPromise;
+}
+async function initNexusMap(){
+const status=document.getElementById("mapStatus");
+if(nexusMap){setTimeout(()=>nexusMap.invalidateSize(),150);renderMapMarkers();return}
+status.textContent="Chargement de la cartographie…";
+try{
+await loadLeaflet();
+const container=document.getElementById("nexus-map");
+nexusMap=L.map(container,{center:[25,10],zoom:2,minZoom:2,maxZoom:8,zoomControl:true,scrollWheelZoom:false,worldCopyJump:true});
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{
+attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+subdomains:["a","b","c"],maxZoom:19
+}).addTo(nexusMap);
+setTimeout(()=>{nexusMap.invalidateSize();renderMapMarkers()},150);
+}catch(e){status.textContent="Impossible de charger Leaflet. Vérifie ta connexion."}
+}
+function resetMapView(){if(nexusMap)nexusMap.setView([25,10],2)}
+function renderMapMarkers(){
+if(!nexusMap||!window.L)return;
+nexusMarkers.forEach(m=>nexusMap.removeLayer(m));nexusMarkers=[];
+let total=0;
+mapLocations.forEach(loc=>{
+const matching=articles.filter(a=>loc.terms.some(term=>term.test(a.title+" "+a.description)));
+if(!matching.length)return;
+total+=matching.length;
+const marker=L.circleMarker([loc.lat,loc.lng],{radius:Math.min(13,7+matching.length),color:"#b9f4ff",weight:2,opacity:1,fillColor:"#16c9f4",fillOpacity:.85,className:"nexus-marker-glow"}).addTo(nexusMap);
+const content=`<div class="nexus-popup"><strong>${escapeHTML(loc.name)}</strong><small>${matching.length} publication(s) mentionnent ce lieu.</small><small>Position indicative. Le lieu de l'événement n'est pas confirmé.</small><hr>${matching.slice(0,5).map(a=>`<small><b>${escapeHTML(a.title)}</b><br>${escapeHTML(a.source)}<br><a href="${escapeHTML(safeURL(a.link))}" target="_blank" rel="noopener noreferrer">Lire l'article ↗</a></small>`).join("")}</div>`;
+marker.bindPopup(content);marker.bindTooltip(loc.name,{direction:"top",offset:[0,-8]});nexusMarkers.push(marker);
+});
+const status=document.getElementById("mapStatus");
+if(status)status.textContent=total?nexusMarkers.length+" lieu(x) repéré(s) · "+total+" mention(s) dans les articles chargés.":"Aucun lieu reconnu dans les articles actuellement chargés.";
+}
 
- const fxCSS=`
-/* NEXUS V14 HYBRID FX ENGINE */
-:root{--fx-intensity:.52;--fx-light:.48;--fx-speed:1}
-.nexus-fx-core{position:relative;display:block;flex:0 0 29px;width:29px;height:29px;margin:auto 0 auto auto;opacity:var(--fx-intensity);filter:drop-shadow(0 0 calc(12px * var(--fx-light)) rgba(33,199,217,.7))}
-.nexus-fx-core:before,.nexus-fx-core:after{content:"";position:absolute;inset:3px;border:1px solid rgba(33,199,217,.55);border-radius:50%;transform:rotate(-28deg) scaleX(.54);animation:fxOrbit calc(8s / var(--fx-speed)) linear infinite}
-.nexus-fx-core:after{inset:0;border-color:rgba(112,229,209,.35);transform:rotate(55deg) scaleX(.72);animation-direction:reverse}
-.nexus-fx-core i{position:absolute;inset:8px;border:1px solid rgba(33,199,217,.55);border-radius:50%;animation:fxCorePulse calc(3.4s / var(--fx-speed)) ease-in-out infinite}
-.nexus-fx-core b{position:absolute;inset:11px;border-radius:50%;background:#21c7d9;box-shadow:0 0 8px #21c7d9,0 0 17px rgba(33,199,217,.7)}
-body:not(.fx-core-on) .nexus-fx-core i,body:not(.fx-core-on) .nexus-fx-core:before,body:not(.fx-core-on) .nexus-fx-core:after{animation:none;opacity:.3}
-#nexusFxAtmosphere{position:fixed;inset:0;z-index:0;overflow:hidden;pointer-events:none;opacity:0;transition:opacity .5s ease}
-#nexusFxAtmosphere:before,#nexusFxAtmosphere:after{content:"";position:absolute;inset:-15%;pointer-events:none}
-#nexusFxAtmosphere:before{background:radial-gradient(ellipse at 13% 24%,rgba(33,199,217,.16),transparent 29%),radial-gradient(ellipse at 88% 74%,rgba(35,106,173,.13),transparent 31%);filter:blur(28px);animation:fxAtmosphere calc(22s / var(--fx-speed)) ease-in-out infinite alternate}
-#nexusFxAtmosphere:after{opacity:calc(var(--fx-intensity) * .20);background-image:radial-gradient(circle,rgba(170,230,255,.52) .7px,transparent 1.4px),radial-gradient(circle,rgba(33,199,217,.38) .8px,transparent 1.5px);background-size:53px 53px,79px 79px;background-position:0 0,23px 31px;animation:fxParticles calc(55s / var(--fx-speed)) linear infinite}
-body.fx-atmosphere-on #nexusFxAtmosphere{opacity:calc(.30 + var(--fx-light) * .55)}
-body.fx-particles-on #nexusFxAtmosphere:after{opacity:calc(.08 + var(--fx-intensity) * .30)}
-body.fx-light-flow .panel,body.fx-light-flow .module,body.fx-light-flow .article,body.fx-light-flow .info,body.fx-light-flow .stat,body.fx-light-flow .watch-dashboard{background-image:linear-gradient(115deg,transparent 0%,rgba(33,199,217,0) 36%,rgba(33,199,217,.055) 50%,transparent 65%);background-size:220% 100%;animation:fxShimmer calc(15s / var(--fx-speed)) ease-in-out infinite}
-body.fx-light-flow .panel,body.fx-light-flow .module{box-shadow:0 7px 26px rgba(0,0,0,.22),0 0 calc(18px * var(--fx-light)) rgba(33,199,217,.08)}
-body.fx-glow-on .header-action,body.fx-glow-on nav button.active,body.fx-glow-on .primary{box-shadow:0 0 15px rgba(33,199,217,.14)}
-body.fx-radar-on #nexus-map{position:relative}
-body.fx-radar-on #nexus-map:after{content:"";position:absolute;inset:0;z-index:450;pointer-events:none;border-radius:inherit;opacity:calc(.12 + var(--fx-intensity) * .22);background:conic-gradient(from 0deg,transparent 0 78%,rgba(33,199,217,.23) 83%,transparent 89% 100%);mask-image:radial-gradient(ellipse at center,black 20%,transparent 78%);animation:fxRadarSweep calc(12s / var(--fx-speed)) linear infinite}
-.fx-preview{position:relative;display:flex;align-items:center;gap:12px;min-height:75px;padding:13px;margin:12px 0;border:1px solid color-mix(in srgb,var(--blue) 45%,var(--line));border-radius:14px;overflow:hidden;background:linear-gradient(120deg,#0c1d2d,#102a40 56%,#0a1725);box-shadow:0 0 18px rgba(33,199,217,.20)}
-.fx-preview:after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent,rgba(33,199,217,.13),transparent);background-size:200% 100%;animation:fxShimmer 7s ease-in-out infinite}
-.fx-preview-core{position:relative;flex:0 0 38px;width:38px;height:38px;border-radius:50%;border:1px solid rgba(33,199,217,.6);box-shadow:0 0 16px rgba(33,199,217,.22);z-index:1}
-.fx-preview-core:before,.fx-preview-core:after{content:"";position:absolute;inset:4px;border:1px solid #21c7d977;border-radius:50%;transform:scaleX(.48);animation:fxOrbit 7s linear infinite}
-.fx-preview-core:after{transform:rotate(65deg) scaleX(.7);animation-direction:reverse}
-.fx-preview-core i{position:absolute;inset:12px;border-radius:50%;background:#21c7d9;box-shadow:0 0 12px #21c7d9}
-.fx-preview-copy{z-index:1;min-width:0;flex:1}.fx-preview-copy strong{display:block;font-size:11px;letter-spacing:1px}.fx-preview-copy small{display:block;color:var(--muted);font-size:8px;letter-spacing:1px;margin-top:5px}
-.fx-preview-status{z-index:1;color:#70e5d1;font-size:8px;letter-spacing:1px}
-.fx-preset-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:10px 0 16px}
-.fx-preset-card{min-width:0;text-align:left;padding:10px 8px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--text)}
-.fx-preset-card b{display:block;font-size:9px;letter-spacing:1px}.fx-preset-card small{display:block;margin-top:5px;color:var(--muted);font-size:8px;line-height:1.4}
-.fx-preset-card.selected{border-color:var(--blue);background:color-mix(in srgb,var(--blue) 10%,var(--panel));box-shadow:0 0 14px rgba(33,199,217,.10)}
-.fx-range{display:flex;align-items:center;gap:8px;width:min(180px,48%)}
-.fx-range input{width:100%;accent-color:var(--blue);margin:0}.fx-range output{min-width:38px;text-align:right;color:var(--blue);font-size:10px}
-.fx-save-row{display:flex;align-items:center;gap:8px}.fx-save-row input{flex:1;min-width:0;margin:7px 0}
-@keyframes fxCorePulse{0%,100%{transform:scale(.9);opacity:.65}50%{transform:scale(1.13);opacity:1}}
-@keyframes fxOrbit{to{transform:rotate(332deg) scaleX(.54)}}
-@keyframes fxAtmosphere{from{transform:translate3d(-1.5%,-.6%,0) scale(1)}to{transform:translate3d(1.5%,1%,0) scale(1.06)}}
-@keyframes fxParticles{to{background-position:250px 170px,-190px 230px}}
-@keyframes fxShimmer{0%,55%{background-position:120% 0}100%{background-position:-120% 0}}
-@keyframes fxRadarSweep{to{transform:rotate(360deg)}}
-@media(max-width:420px){.nexus-fx-core{width:23px;height:23px;flex-basis:23px}.fx-range{width:47%}.fx-preview{padding:11px}.fx-preset-card{padding:9px 6px}}
-@media(prefers-reduced-motion:reduce){#nexusFxAtmosphere:before,#nexusFxAtmosphere:after,.nexus-fx-core:before,.nexus-fx-core:after,.nexus-fx-core i,.fx-preview:after,.fx-preview-core:before,.fx-preview-core:after{animation:none!important}}
-body.reduce-motion #nexusFxAtmosphere:before,body.reduce-motion #nexusFxAtmosphere:after,body.reduce-motion .nexus-fx-core:before,body.reduce-motion .nexus-fx-core:after,body.reduce-motion .nexus-fx-core i,body.reduce-motion .fx-preview:after,body.reduce-motion .fx-preview-core:before,body.reduce-motion .fx-preview-core:after{animation:none!important}
-`;
- rep("</style>",fxCSS+"\n</style>","CSS FX");
- rep('<div id="readingProgress" aria-hidden="true"></div>','<div id="nexusFxAtmosphere" aria-hidden="true"></div>\n<div id="readingProgress" aria-hidden="true"></div>',"fond atmosphérique");
+/* ACTUALISATION RSS */
+async function refreshNews(){
+const state=document.getElementById("systemState"),last=document.getElementById("lastUpdate");
+state.textContent="● SYNCHRONISATION";state.style.color="var(--amber)";
+last.textContent="Chargement du fichier automatique news.json…";
+try{
+const response=await fetch(NEWS_URL+"?t="+Date.now(),{cache:"no-store"});
+if(!response.ok)throw new Error("HTTP "+response.status);
+const data=await response.json();
+if(!Array.isArray(data.articles))throw new Error("Le fichier ne contient pas de liste d'articles.");
+const unique=new Map();
+data.articles.forEach(item=>{
+const link=safeURL(item.link),title=safeText(item.title);
+if(!title||link==="#")return;
+const source=safeText(item.source||"Source RSS"),description=safeText(item.description||"");
+const category=safeText(item.category||guessCategory(title,description,"Autres"));
+const a={id:link,title,description:description.slice(0,420),link,date:item.date||"",source,category};
+if(!unique.has(a.id))unique.set(a.id,a);
+});
+articles=[...unique.values()].sort((a,b)=>(articleTimestamp(b)||0)-(articleTimestamp(a)||0)).slice(0,300);
+invalidateAnalysisCache();
+localStorage.setItem(CACHE_KEY,JSON.stringify(articles));
+archive=[...new Map([...articles,...archive].map(a=>[a.id,a])).values()].sort((a,b)=>(articleTimestamp(b)||0)-(articleTimestamp(a)||0)).slice(0,300);
+localStorage.setItem("nexusArchiveV3",JSON.stringify(archive));
+localStorage.setItem("nexusLastUpdate",new Date().toISOString());
+last.textContent="Dernière synchronisation : "+new Date().toLocaleString("fr-FR")+" — "+articles.length+" articles.";
+state.textContent="● SYSTEM ONLINE";state.style.color="var(--green)";
+const names=[...new Set(data.articles.map(x=>safeText(x.source||"Source RSS")))];
+feedResults=names.map(name=>({name,ok:articles.some(a=>a.source===name),count:articles.filter(a=>a.source===name).length}));
+}catch(error){
+const cached=readStorage(CACHE_KEY,[]);
+if(cached.length){articles=cached;invalidateAnalysisCache()}
+last.textContent="Échec de chargement : "+error.message+(articles.length?" — affichage du cache local.":"");
+state.textContent="● ERREUR DE SYNCHRONISATION";state.style.color="var(--red)";
+feedResults=[{name:"news.json",ok:false,count:0,error:error.message}];
+}
+render();
+updateAlertIndicator();
+if(currentPage==="situation"&&nexusMap)renderMapMarkers();
+}
+function renderFeedStatus(){
+const el=document.getElementById("feedStatus");
+el.innerHTML=feedResults.length?feedResults.map(f=>`<p><span class="${f.ok?"good":"bad"}">${f.ok?"● DISPONIBLE":"● INDISPONIBLE"}</span> — ${escapeHTML(f.name)} (${f.ok?f.count+" articles":escapeHTML(f.error||"aucun article")})</p>`).join(""):"En attente du premier chargement.";
+}
 
- const fxJS=`
-/* NEXUS V14 — HYBRID FX ENGINE */
-const NEXUS_FX_CUSTOM_KEY="nexusCustomFXPresetV1";
-const NEXUS_FX_FIELDS=["fxPreset","fxIntensity","fxLightIntensity","fxAnimationSpeed","fxCoreEnabled","fxLightFlowEnabled","fxParticlesEnabled","fxAtmosphereEnabled","fxRadarEnabled","fxHapticsEnabled","fxSoundEnabled"];
-const NEXUS_FX_PRESETS={
- standard:{fxPreset:"standard",fxIntensity:16,fxLightIntensity:14,fxAnimationSpeed:"slow",fxCoreEnabled:false,fxLightFlowEnabled:false,fxParticlesEnabled:false,fxAtmosphereEnabled:false,fxRadarEnabled:false,fxHapticsEnabled:false,fxSoundEnabled:false},
- hybrid:{fxPreset:"hybrid",fxIntensity:52,fxLightIntensity:48,fxAnimationSpeed:"normal",fxCoreEnabled:true,fxLightFlowEnabled:true,fxParticlesEnabled:false,fxAtmosphereEnabled:true,fxRadarEnabled:true,fxHapticsEnabled:true,fxSoundEnabled:false},
- immersive:{fxPreset:"immersive",fxIntensity:88,fxLightIntensity:82,fxAnimationSpeed:"normal",fxCoreEnabled:true,fxLightFlowEnabled:true,fxParticlesEnabled:true,fxAtmosphereEnabled:true,fxRadarEnabled:true,fxHapticsEnabled:true,fxSoundEnabled:false}
-};
-function applyNexusFXVisuals(){
- if(window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches)nexusPrefs.reducedMotion=true;
- const p=nexusPrefs||{},intensity=Math.max(0,Math.min(100,Number(p.fxIntensity??52)))/100,light=Math.max(0,Math.min(100,Number(p.fxLightIntensity??48)))/100;
- const speedMap={slow:.72,normal:1,fast:1.32},speed=speedMap[p.fxAnimationSpeed]||1,reduced=!!p.reducedMotion,body=document.body,root=document.documentElement;
- root.style.setProperty("--fx-intensity",String(intensity));root.style.setProperty("--fx-light",String(light));root.style.setProperty("--fx-speed",String(speed));
- body.classList.toggle("fx-core-on",!!p.fxCoreEnabled&&!reduced);body.classList.toggle("fx-light-flow",!!p.fxLightFlowEnabled&&!reduced&&intensity>.03);
- body.classList.toggle("fx-particles-on",!!p.fxParticlesEnabled&&!reduced&&intensity>.03);body.classList.toggle("fx-atmosphere-on",!!p.fxAtmosphereEnabled&&!reduced&&light>.02);
- body.classList.toggle("fx-radar-on",!!p.fxRadarEnabled&&!reduced);body.classList.toggle("fx-glow-on",light>.02);
- const atmosphere=document.getElementById("nexusFxAtmosphere");if(atmosphere)atmosphere.style.display=(p.fxAtmosphereEnabled||p.fxParticlesEnabled)?"block":"none";
+/* NEXUS HYBRID NAVIGATION / GLOBAL SEARCH */
+const NEXUS_PAGES=[
+ {id:"home",label:"Accueil",icon:"⌂",desc:"Vue générale et briefing"},
+ {id:"situation",label:"Carte",icon:"◎",desc:"Cartographie mondiale"},
+ {id:"news",label:"Actualités",icon:"◫",desc:"Flux et catégories"},
+ {id:"top",label:"Top Intelligence",icon:"◆",desc:"Publications classées"},
+ {id:"timeline",label:"Timeline",icon:"◷",desc:"Chronologie des publications"},
+ {id:"sources",label:"Sources",icon:"◉",desc:"Suivi des médias"},
+ {id:"analyst",label:"Analyste",icon:"⌕",desc:"Examiner une publication"},
+ {id:"dossiers",label:"Dossiers",icon:"▣",desc:"Bibliothèque thématique"},
+ {id:"science",label:"Science & Space",icon:"✧",desc:"Veille scientifique et spatiale"},
+ {id:"alerts",label:"Alertes",icon:"⚑",desc:"Mots-clés et catégories suivis"},
+ {id:"favorites",label:"Favoris",icon:"☆",desc:"Publications enregistrées"},
+ {id:"archive",label:"Archives",icon:"▤",desc:"Historique local"},
+ {id:"world",label:"World Intel",icon:"◎",desc:"Radar mondial et fiches pays"},
+ {id:"analysis",label:"Analysis Lab",icon:"⌗",desc:"Comparaison, briefing et présentation"},
+ {id:"personal",label:"Personal Desk",icon:"▣",desc:"Notes, tâches, agenda et journal"},
+ {id:"settings",label:"Réglages",icon:"⚙",desc:"Configuration et sauvegarde NEXUS"},
+ {id:"tools",label:"Outils",icon:"⌘",desc:"Tous les modules NEXUS"}
+];
+const PINNED_KEY="nexusPinnedPagesV1";
+const DEFAULT_PINNED=["home","news","situation","favorites"];
+let pinnedPages=readStorage(PINNED_KEY,DEFAULT_PINNED);
+if(!Array.isArray(pinnedPages))pinnedPages=DEFAULT_PINNED.slice();
+pinnedPages=pinnedPages.filter((id,i,a)=>NEXUS_PAGES.some(p=>p.id===id)&&a.indexOf(id)===i).slice(0,4);
+if(!pinnedPages.length)pinnedPages=DEFAULT_PINNED.slice();
+function savePinnedPages(){
+ localStorage.setItem(PINNED_KEY,JSON.stringify(pinnedPages));
+ renderPrimaryNav();
+ renderCommandMenu();
 }
-function syncNexusFXControls(){
- const ids={fxIntensity:"fxIntensity",fxLightIntensity:"fxLightIntensity",fxAnimationSpeed:"fxAnimationSpeed",fxCoreEnabled:"fxCoreEnabled",fxLightFlowEnabled:"fxLightFlowEnabled",fxParticlesEnabled:"fxParticlesEnabled",fxAtmosphereEnabled:"fxAtmosphereEnabled",fxRadarEnabled:"fxRadarEnabled",fxHapticsEnabled:"fxHapticsEnabled",fxSoundEnabled:"fxSoundEnabled"};
- Object.entries(ids).forEach(([id,key])=>{const el=document.getElementById(id);if(el){if(el.type==="checkbox")el.checked=!!nexusPrefs[key];else el.value=nexusPrefs[key]??""}});
- const selector=document.getElementById("fxPresetSelect");if(selector)selector.value=nexusPrefs.fxPreset||"hybrid";
- ["fxIntensity","fxLightIntensity"].forEach(id=>{const input=document.getElementById(id),out=document.getElementById(id+"Value");if(input&&out)out.textContent=input.value+" %"});
- document.querySelectorAll("[data-fx-preset]").forEach(b=>b.classList.toggle("selected",b.dataset.fxPreset===(nexusPrefs.fxPreset||"hybrid")));
+const PRIMARY_TABS=[
+ {id:"home",label:"Accueil",icon:"⌂"},
+ {id:"news",label:"Actualités",icon:"▤"},
+ {id:"situation",label:"Carte",icon:"◎"},
+ {id:"dossiers",label:"Dossiers",icon:"▣"},
+ {id:"tools",label:"Outils",icon:"⌘"}
+];
+function renderPrimaryNav(){
+ const nav=document.getElementById("primaryNav");
+ if(!nav)return;
+ nav.innerHTML=PRIMARY_TABS.map(p=>{
+  const active=currentPage===p.id||(p.id==="tools"&&!PRIMARY_TABS.some(tab=>tab.id===currentPage));
+  return `<button type="button" data-page="${p.id}" class="${active?"active":""}" aria-label="${p.label}" ${active?'aria-current="page"':""}><b aria-hidden="true">${p.icon}</b><span class="nav-label">${p.label}</span></button>`;
+ }).join("");
+ nav.querySelectorAll("button[data-page]").forEach(b=>b.addEventListener("click",()=>showPage(b.dataset.page)));
 }
-function saveFXChange(key,value){nexusPrefs[key]=value;nexusPrefs.fxPreset="custom";nexusPrefs.profile="custom";saveNexusPreferences();syncNexusFXControls()}
-function applyNexusFXPreset(name){const preset=NEXUS_FX_PRESETS[name];if(!preset)return;nexusPrefs={...nexusPrefs,...preset};saveNexusPreferences();syncNexusFXControls();showNexusToast("Profil FX "+name.toUpperCase()+" appliqué.")}
-function saveCustomNexusFX(){
- const name=(document.getElementById("fxCustomName")?.value||"").trim()||"Mon profil";
- const data={name,preferences:Object.fromEntries(NEXUS_FX_FIELDS.map(k=>[k,nexusPrefs[k]]))};
- try{localStorage.setItem(NEXUS_FX_CUSTOM_KEY,JSON.stringify(data));showNexusToast("Préréglage personnalisé enregistré.")}catch(e){showNexusToast("Impossible de sauvegarder le préréglage.")}
-}
-function loadCustomNexusFX(){
- try{const data=JSON.parse(localStorage.getItem(NEXUS_FX_CUSTOM_KEY)||"null");if(!data||!data.preferences)throw new Error("Aucun profil");
- nexusPrefs={...nexusPrefs,...data.preferences,fxPreset:"custom"};saveNexusPreferences();syncNexusFXControls();
- const name=document.getElementById("fxCustomName");if(name)name.value=data.name||"Mon profil";showNexusToast("Préréglage personnalisé chargé.")
- }catch(e){showNexusToast("Aucun préréglage personnalisé enregistré.")}
-}
-function playNexusFXSound(){
- if(!nexusPrefs.fxSoundEnabled)return;
- try{const AudioCtx=window.AudioContext||window.webkitAudioContext;if(!AudioCtx)return;const ctx=new AudioCtx(),osc=ctx.createOscillator(),gain=ctx.createGain();osc.type="sine";osc.frequency.value=720;
- gain.gain.setValueAtTime(.0001,ctx.currentTime);gain.gain.exponentialRampToValueAtTime(.018,ctx.currentTime+.012);gain.gain.exponentialRampToValueAtTime(.0001,ctx.currentTime+.075);
- osc.connect(gain);gain.connect(ctx.destination);osc.start();osc.stop(ctx.currentTime+.08);osc.onended=()=>ctx.close()}catch(e){}
-}
-function triggerNexusHaptic(){if(!nexusPrefs.fxHapticsEnabled||!navigator.vibrate)return;try{navigator.vibrate(10)}catch(e){}}
-function initNexusFX(){
- applyNexusFXVisuals();syncNexusFXControls();
- const keys={fxIntensity:"fxIntensity",fxLightIntensity:"fxLightIntensity",fxAnimationSpeed:"fxAnimationSpeed",fxCoreEnabled:"fxCoreEnabled",fxLightFlowEnabled:"fxLightFlowEnabled",fxParticlesEnabled:"fxParticlesEnabled",fxAtmosphereEnabled:"fxAtmosphereEnabled",fxRadarEnabled:"fxRadarEnabled",fxHapticsEnabled:"fxHapticsEnabled",fxSoundEnabled:"fxSoundEnabled"};
- Object.entries(keys).forEach(([id,key])=>{const el=document.getElementById(id);if(!el)return;const update=()=>saveFXChange(key,el.type==="checkbox"?el.checked:el.type==="range"?Number(el.value):el.value);el.addEventListener("input",update);el.addEventListener("change",update)});
- document.getElementById("fxPresetSelect")?.addEventListener("change",e=>applyNexusFXPreset(e.target.value));
- document.querySelectorAll("[data-fx-preset]").forEach(b=>b.addEventListener("click",()=>applyNexusFXPreset(b.dataset.fxPreset)));
- document.getElementById("saveCustomFX")?.addEventListener("click",saveCustomNexusFX);document.getElementById("loadCustomFX")?.addEventListener("click",loadCustomNexusFX);
- document.getElementById("resetFX")?.addEventListener("click",()=>applyNexusFXPreset("hybrid"));
- document.addEventListener("click",e=>{const target=e.target.closest("button,.small-btn,.primary,[role=button]");if(!target)return;if(nexusPrefs.fxHapticsEnabled)triggerNexusHaptic();playNexusFXSound()});
-}
-`;
- rep("/* INITIALISATION */",fxJS+"\n/* INITIALISATION */","JavaScript FX");
- rep("initNexusUltimate();","initNexusUltimate();\ninitNexusFX();","init FX");
- rep(
-  'function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();}',
-  'function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();if(typeof syncNexusFXControls==="function")syncNexusFXControls();}',
-  "persistance FX"
- );
- html=html.replaceAll("version:13","version:14");
 
- const required=['id="fxPresetSelect"','id="fxHapticsEnabled"','NEXUS V14 — HYBRID FX ENGINE','id="news"','id="situation"'];
- for(const marker of required)if(!html.includes(marker))throw new Error("Validation échouée : "+marker);
- if(!html.endsWith("</html>"))throw new Error("Document HTML incomplet.");
- if(/Market Studio|Market Overview|id="market"/i.test(html))throw new Error("Un module Market non souhaité a été détecté.");
- return html;
+function renderCommandMenu(){
+ const grid=document.getElementById("commandMenuGrid");
+ if(!grid)return;
+ grid.innerHTML=NEXUS_PAGES.map(p=>{
+  const pinned=pinnedPages.includes(p.id);
+  return `<div class="menu-entry ${pinned?"pinned":""}">
+   <button class="menu-entry-main" data-menu-page="${p.id}" style="display:flex;align-items:center;gap:9px;flex:1;min-width:0;background:none;border:0;color:inherit;text-align:left;padding:0">
+    <span class="menu-symbol">${p.icon}</span><span class="menu-name">${p.label}<small style="display:block;color:var(--muted);font-size:9px;font-weight:normal;margin-top:3px">${p.desc}</small></span>
+   </button>
+   <button class="pin-toggle" data-pin-page="${p.id}" aria-label="${pinned?"Désépingler":"Épingler"} ${p.label}" title="${pinned?"Retirer de la barre":"Ajouter à la barre"}">${pinned?"★":"☆"}</button>
+  </div>`;
+ }).join("");
+ grid.querySelectorAll("[data-menu-page]").forEach(b=>b.addEventListener("click",()=>{closeCommandMenu();showPage(b.dataset.menuPage)}));
+ grid.querySelectorAll("[data-pin-page]").forEach(b=>b.addEventListener("click",()=>togglePinnedPage(b.dataset.pinPage)));
+ filterCommandModules();
 }
-async function start(){
- try{
-  progress(12);
-  let built=localStorage.getItem(CACHE_KEY);
-  if(!built||!built.includes(BUILD_ID)){
-   status("Récupération de la base NEXUS depuis le commit source…");
-   const response=await fetch(SOURCE_URL,{cache:"force-cache"});
-   if(!response.ok)throw new Error("Source GitHub inaccessible (HTTP "+response.status+"). Vérifie la connexion.");
-   progress(48);
-   const base=await response.text();
-   if(base.length<80000)throw new Error("Le fichier source reçu semble incomplet.");
-   status("Intégration des effets visuels, animations, préréglages et réglages haptiques…");
-   built=patchNexusV14(base);
-   built=built.replace("</head>",'<meta name="nexus-build" content="'+BUILD_ID+'">\n</head>');
-   try{localStorage.setItem(CACHE_KEY,built)}catch(e){console.warn("Cache local non disponible",e)}
-  }
-  progress(92);
-  if(!built.includes(BUILD_ID)||!built.endsWith("</html>"))throw new Error("La version locale en cache n'est pas valide.");
-  progress(100);
-  document.open();document.write(built);document.close();
- }catch(error){
-  status("Initialisation impossible : "+error.message+"\n\nRecharge la page lorsque la connexion est disponible.",true);
-  progress(0);
+function togglePinnedPage(id){
+ if(pinnedPages.includes(id)){
+  if(pinnedPages.length===1){alert("Garde au moins un raccourci dans la barre.");return}
+  pinnedPages=pinnedPages.filter(x=>x!==id);
+ }else{
+  if(pinnedPages.length>=4){alert("La barre peut contenir quatre raccourcis. Retire-en un avant d'en ajouter un autre.");return}
+  pinnedPages.push(id);
  }
+ savePinnedPages();
 }
-start();
+function openCommandMenu(){
+ renderCommandMenu();
+ document.getElementById("commandMenu").hidden=false;
+ document.body.style.overflow="hidden";
+}
+function closeCommandMenu(){
+ document.getElementById("commandMenu").hidden=true;
+ document.body.style.overflow="";
+}
+function openGlobalSearch(){
+ document.getElementById("globalSearchPanel").hidden=false;
+ document.body.style.overflow="hidden";
+ setTimeout(()=>document.getElementById("globalSearchInput").focus(),60);
+}
+function closeGlobalSearch(){
+ document.getElementById("globalSearchPanel").hidden=true;
+ document.body.style.overflow="";
+}
+function renderGlobalSearch(){
+ const input=document.getElementById("globalSearchInput");
+ const target=document.getElementById("globalSearchResults");
+ const q=normalized(input.value);
+ if(!q){target.innerHTML='<div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div>';return}
+ const matches=articles.map(a=>({a,score:(normalized(a.title).includes(q)?4:0)+(normalized(a.description).includes(q)?2:0)+(normalized(a.source).includes(q)?1:0)})).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,12);
+ const pageMatches=NEXUS_PAGES.filter(p=>normalized(p.label+" "+p.desc).includes(q));
+ target.innerHTML=(pageMatches.length?'<div class="menu-section-label">MODULES</div>'+pageMatches.map(p=>`<button class="search-result" data-search-page="${p.id}"><strong>${p.icon} ${p.label}</strong><small>${p.desc}</small></button>`).join(""):"")+
+  (matches.length?'<div class="menu-section-label">PUBLICATIONS</div>'+matches.map(({a})=>`<button class="search-result" data-search-article="${escapeHTML(a.id)}"><strong>${escapeHTML(a.title)}</strong><small>${escapeHTML(a.source)} · ${escapeHTML(a.category)}</small></button>`).join(""):"")+
+  (!matches.length&&!pageMatches.length?'<div class="empty">Aucun résultat dans les données actuellement chargées.</div>':"");
+ target.querySelectorAll("[data-search-page]").forEach(b=>b.addEventListener("click",()=>{closeGlobalSearch();showPage(b.dataset.searchPage)}));
+ target.querySelectorAll("[data-search-article]").forEach(b=>b.addEventListener("click",()=>{
+  const a=articles.find(x=>x.id===b.dataset.searchArticle);
+  closeGlobalSearch();
+  showPage("news");
+  document.getElementById("search").value=a?a.title:"";
+  activeCategory="Tous";
+  document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.toggle("active",x.dataset.cat==="Tous"));
+  renderNews();
+ }));
+}
+function updateAlertIndicator(){
+ const dot=document.getElementById("alertDot");
+ if(!dot)return;
+ dot.hidden=getAlertMatches().length===0;
+}
+document.getElementById("openGlobalSearch").addEventListener("click",openGlobalSearch);
+document.getElementById("closeGlobalSearch").addEventListener("click",closeGlobalSearch);
+document.getElementById("openFavorites").addEventListener("click",()=>showPage("favorites"));
+document.getElementById("openAlerts").addEventListener("click",()=>showPage("alerts"));
+document.getElementById("closeCommandMenu").addEventListener("click",closeCommandMenu);
+document.getElementById("globalSearchInput").addEventListener("input",renderGlobalSearch);
+document.querySelectorAll("[data-quick-page]").forEach(b=>b.addEventListener("click",()=>{closeCommandMenu();showPage(b.dataset.quickPage)}));
+document.getElementById("globalSearchPanel").addEventListener("click",e=>{if(e.target.id==="globalSearchPanel")closeGlobalSearch()});
+document.getElementById("commandMenu").addEventListener("click",e=>{if(e.target.id==="commandMenu")closeCommandMenu()});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeGlobalSearch();closeCommandMenu();document.body.classList.remove("presentation-mode")}});
+renderPrimaryNav();
+renderCommandMenu();
+
+/* NAVIGATION */
+function showPage(page){
+if(!NEXUS_PAGES.some(p=>p.id===page))return;
+currentPage=page;
+renderPrimaryNav();
+document.querySelectorAll(".page").forEach(p=>{const active=p.id===page;p.classList.toggle("active",active);p.setAttribute("aria-hidden",String(!active))});
+window.scrollTo({top:0,behavior:nexusPrefs?.reducedMotion?"auto":"smooth"});
+renderPage(page);
+if(page==="situation")setTimeout(()=>{if(nexusMap)nexusMap.invalidateSize()},200);
+updateReadingProgress();
+}
+/* Les boutons de navigation sont gérés par renderPrimaryNav(). */
+document.querySelectorAll(".chip[data-cat]").forEach(b=>b.addEventListener("click",()=>{
+document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.remove("active"));
+b.classList.add("active");activeCategory=b.dataset.cat;renderNews();
+}));
+let searchTimer;
+document.getElementById("search").addEventListener("input",()=>{
+clearTimeout(searchTimer);searchTimer=setTimeout(renderNews,120);
+});
+document.getElementById("analystSelect").addEventListener("change",showAnalyst);
+document.getElementById("date").textContent=new Intl.DateTimeFormat("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"}).format(new Date()).toUpperCase();
+document.getElementById("articleCount").value=localStorage.getItem("nexusCount")||"8";
+document.getElementById("articleCount").addEventListener("change",e=>{localStorage.setItem("nexusCount",e.target.value);if(currentPage==="news")renderNews()});
+
+/* SERVICE WORKER — CONSERVÉ POUR LA COMPATIBILITÉ PWA */
+if("serviceWorker" in navigator){
+window.addEventListener("load",()=>{
+navigator.serviceWorker.register("./sw.js").then(async registration=>{
+console.log("NEXUS : service worker actif");
+try{
+const subscription=await registration.pushManager?.getSubscription();
+if(subscription)await subscription.unsubscribe();
+}catch(error){console.info("NEXUS : aucun ancien abonnement Push à désactiver.")}
+}).catch(e=>console.error("NEXUS :",e));
+});
+}
+
+/* NEXUS V10 — OUTILS TRANSVERSAUX */
+const NEXUS_PREFS_KEY="nexusInterfacePrefsV1";
+const DEFAULT_NEXUS_PREFS={profile:"tactical",accent:"blue",customAccent:"#43d9ff",glow:35,background:"deep",backgroundTexture:"none",cardStyle:"standard",glass:false,glowMode:true,ambient:false,compact:false,density:"normal",reducedMotion:false,panelOpacity:92,cornerRadius:14,fontScale:100};
+let nexusPrefs={...DEFAULT_NEXUS_PREFS,...readStorage(NEXUS_PREFS_KEY,{})};
+const ACCENTS={
+ blue:{blue:"#43d9ff",soft:"#12334b"},cyan:{blue:"#64f0e5",soft:"#103b3a"},green:{blue:"#62e6a5",soft:"#123a2b"},amber:{blue:"#f2bd62",soft:"#3b2c16"},violet:{blue:"#b69aff",soft:"#2b2146"},red:{blue:"#ff7777",soft:"#421f29"}
+};
+function applyNexusPreferences(){
+ const chosen=ACCENTS[nexusPrefs.accent]?nexusPrefs.accent:"blue";
+ const color=nexusPrefs.accent==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customAccent)?nexusPrefs.customAccent:ACCENTS[chosen].blue;
+ const backgrounds={deep:{top:"#142b43",base:"#080e18"},black:{top:"#101722",base:"#030609"},slate:{top:"#263447",base:"#101722"},midnight:{top:"#101c35",base:"#050914"}};
+ const bg=backgrounds[nexusPrefs.background]||backgrounds.deep;
+ document.documentElement.style.setProperty("--blue",color);document.documentElement.style.setProperty("--accent",color);document.documentElement.style.setProperty("--accent-soft",ACCENTS[chosen]?.soft||"#12334b");
+ document.documentElement.style.setProperty("--glow-strength",String(Math.max(0,Math.min(100,Number(nexusPrefs.glow)||0))/100));
+ document.documentElement.style.setProperty("--bg-top",bg.top);document.documentElement.style.setProperty("--bg-base",bg.base);
+ document.documentElement.style.setProperty("--panel-alpha",String(Math.max(55,Math.min(100,Number(nexusPrefs.panelOpacity)||92))+"%"));
+ document.documentElement.style.setProperty("--card-radius",Math.max(4,Math.min(24,Number(nexusPrefs.cornerRadius)||14))+"px");
+ document.documentElement.style.setProperty("--font-scale",String(Math.max(75,Math.min(180,Number(nexusPrefs.fontScale)||100))/100));
+ const fontOut=document.getElementById("fontScaleValue");if(fontOut)fontOut.textContent=(nexusPrefs.fontScale||100)+" %";
+ document.body.classList.toggle("compact",nexusPrefs.density==="compact"||!!nexusPrefs.compact);
+ document.body.classList.toggle("spacious",nexusPrefs.density==="spacious");
+ document.body.classList.toggle("reduce-motion",!!nexusPrefs.reducedMotion);
+ document.body.classList.toggle("glass-ui",!!nexusPrefs.glass);document.body.classList.toggle("soft-glow",!!nexusPrefs.glowMode&&Number(nexusPrefs.glow)>0);document.body.classList.toggle("ambient-ui",!!nexusPrefs.ambient&&!nexusPrefs.reducedMotion);
+ document.body.classList.toggle("flat-cards",nexusPrefs.cardStyle==="flat");document.body.classList.toggle("round-cards",nexusPrefs.cardStyle==="round");
+ document.body.dataset.texture=nexusPrefs.backgroundTexture||"none";
+ const ids={themeProfile:nexusPrefs.profile||"tactical",accentColor:chosen,customAccent:nexusPrefs.customAccent,glowLevel:nexusPrefs.glow,backgroundStyle:nexusPrefs.background,backgroundTexture:nexusPrefs.backgroundTexture||"none",cardStyle:nexusPrefs.cardStyle,compactMode:nexusPrefs.density==="compact",reducedMotion:nexusPrefs.reducedMotion,glassMode:nexusPrefs.glass,glowMode:nexusPrefs.glowMode,ambientMode:nexusPrefs.ambient,panelOpacity:nexusPrefs.panelOpacity,cornerRadius:nexusPrefs.cornerRadius,fontScale:nexusPrefs.fontScale,densityMode:nexusPrefs.density||"normal"};
+ Object.entries(ids).forEach(([id,value])=>{const el=document.getElementById(id);if(el)el.type==="checkbox"?el.checked=!!value:el.value=value});
+ document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical")));
+}
+function applyThemeProfile(profile){
+ const presets={
+ tactical:{profile:"tactical",accent:"blue",background:"deep",backgroundTexture:"grid",glow:32,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:94,cornerRadius:14,density:"normal"},
+ cyber:{profile:"cyber",accent:"cyan",background:"black",backgroundTexture:"scan",glow:72,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:82,cornerRadius:18,density:"normal"},
+ stealth:{profile:"stealth",accent:"green",background:"black",backgroundTexture:"none",glow:8,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:100,cornerRadius:7,density:"compact"},
+ ghost:{profile:"ghost",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:48,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:86,cornerRadius:20,density:"spacious"}
+ };
+ if(presets[profile])nexusPrefs={...nexusPrefs,...presets[profile]};else nexusPrefs.profile="custom";
+ saveNexusPreferences();
+}
+
+function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();}
+function showNexusToast(message){
+ const toast=document.getElementById("nexusToast");if(!toast)return;
+ toast.textContent=message;toast.classList.add("visible");
+ clearTimeout(showNexusToast.timer);showNexusToast.timer=setTimeout(()=>toast.classList.remove("visible"),2400);
+}
+function updateConnectionState(){
+ const el=document.getElementById("connectionState");if(!el)return;
+ const online=navigator.onLine;el.textContent=online?"EN LIGNE":"HORS LIGNE";el.classList.toggle("offline",!online);
+ el.title=online?"Connexion réseau disponible":"Pas de connexion réseau — le cache local reste consultable";
+}
+function updateReadingProgress(){
+ const el=document.getElementById("readingProgress");if(!el)return;
+ const max=document.documentElement.scrollHeight-window.innerHeight;
+ const ratio=max>0?Math.min(100,Math.max(0,window.scrollY/max*100)):0;
+ el.style.width=ratio+"%";
+ const top=document.getElementById("scrollTopButton");if(top)top.classList.toggle("visible",window.scrollY>420);
+}
+function filterCommandModules(){
+ const input=document.getElementById("moduleSearch"),q=normalized(input?.value||"");
+ document.querySelectorAll("#commandMenuGrid .menu-entry").forEach(entry=>{
+  entry.hidden=!!q&&!normalized(entry.textContent).includes(q);
+ });
+}
+function initNexusV10(){
+ applyNexusPreferences();updateConnectionState();updateReadingProgress();
+ window.addEventListener("online",updateConnectionState);window.addEventListener("offline",updateConnectionState);
+ window.addEventListener("scroll",updateReadingProgress,{passive:true});window.addEventListener("resize",updateReadingProgress);
+ document.getElementById("scrollTopButton").addEventListener("click",()=>window.scrollTo({top:0,behavior:nexusPrefs.reducedMotion?"auto":"smooth"}));
+ document.getElementById("moduleSearch").addEventListener("input",filterCommandModules);
+ const bind=(id,key,after)=>{const el=document.getElementById(id);if(!el)return;el.addEventListener("input",e=>{nexusPrefs[key]=el.type==="checkbox"?e.target.checked:e.target.value;nexusPrefs.profile="custom";saveNexusPreferences();if(after)after(e)});el.addEventListener("change",e=>{nexusPrefs[key]=el.type==="checkbox"?e.target.checked:e.target.value;nexusPrefs.profile="custom";saveNexusPreferences();if(after)after(e)})};
+ bind("accentColor","accent",()=>{nexusPrefs.profile="custom";saveNexusPreferences();showNexusToast("Palette mise à jour.")});
+ bind("customAccent","customAccent",()=>{nexusPrefs.accent="custom";nexusPrefs.profile="custom";saveNexusPreferences();showNexusToast("Couleur personnalisée appliquée.")});
+ bind("glowLevel","glow",()=>{});bind("backgroundStyle","background",()=>{});bind("backgroundTexture","backgroundTexture",()=>{});bind("cardStyle","cardStyle",()=>{});
+ bind("glassMode","glass",()=>{});bind("glowMode","glowMode",()=>{});bind("ambientMode","ambient",()=>{});
+ bind("panelOpacity","panelOpacity",()=>{});bind("cornerRadius","cornerRadius",()=>{});bind("fontScale","fontScale",()=>{const o=document.getElementById("fontScaleValue");if(o)o.textContent=nexusPrefs.fontScale+" %"});bind("densityMode","density",()=>{});
+ bind("compactMode","compact",e=>{nexusPrefs.density=e.target.checked?"compact":"normal";saveNexusPreferences()});
+ bind("reducedMotion","reducedMotion",()=>{});
+ document.getElementById("themeProfile").addEventListener("change",e=>applyThemeProfile(e.target.value));
+ document.querySelectorAll("[data-profile]").forEach(b=>b.addEventListener("click",()=>applyThemeProfile(b.dataset.profile)));
+ document.getElementById("resetAppearance").addEventListener("click",()=>{nexusPrefs={...DEFAULT_NEXUS_PREFS};saveNexusPreferences();showNexusToast("Apparence réinitialisée.")});
+ document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs,fx:nexusFXPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download="nexus-theme.json";a.click();URL.revokeObjectURL(url);showNexusToast("Thème exporté.")});
+ document.getElementById("importThemeButton").addEventListener("click",()=>document.getElementById("importThemeFile").click());
+ document.getElementById("importThemeFile").addEventListener("change",async e=>{const file=e.target.files&&e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text());if(!data.preferences||typeof data.preferences!=="object")throw new Error("Format invalide");nexusPrefs={...DEFAULT_NEXUS_PREFS,...data.preferences};if(data.fx&&typeof data.fx==="object")nexusFXPrefs={...DEFAULT_NEXUS_FX,...data.fx};saveNexusPreferences();saveNexusFXSettings(false);showNexusToast("Thème importé.")}catch(err){showNexusToast("Fichier de thème invalide.")}e.target.value=""});
+ document.addEventListener("keydown",e=>{const target=e.target;const typing=target&&(target.matches("input,textarea,select")||target.isContentEditable);if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==="k"){e.preventDefault();openGlobalSearch();return}if(e.key==="/"&&!typing){e.preventDefault();openGlobalSearch();return}});
+}
+
+
+/* NEXUS V13 ULTIMATE — nouveaux modules autonomes dans index.html */
+const NEXUS_COUNTRIES=[
+ {name:"France",region:"Europe",capital:"Paris",system:"République semi-présidentielle",focus:"Union européenne, diplomatie, industrie, énergie et défense."},
+ {name:"États-Unis",region:"Amérique du Nord",capital:"Washington D.C.",system:"République fédérale présidentielle",focus:"Puissance économique et technologique, alliances, politique commerciale et sécurité internationale."},
+ {name:"Chine",region:"Asie",capital:"Pékin",system:"République populaire à parti unique",focus:"Industrie, commerce mondial, technologies, démographie et relations en Indo-Pacifique."},
+ {name:"Allemagne",region:"Europe",capital:"Berlin",system:"République fédérale parlementaire",focus:"Industrie, exportations, énergie et rôle central dans l'Union européenne."},
+ {name:"Royaume-Uni",region:"Europe",capital:"Londres",system:"Monarchie constitutionnelle parlementaire",focus:"Finance, défense, diplomatie, commerce et relations transatlantiques."},
+ {name:"Inde",region:"Asie",capital:"New Delhi",system:"République fédérale parlementaire",focus:"Démographie, numérique, industrie, énergie et rôle croissant dans les relations internationales."},
+ {name:"Japon",region:"Asie",capital:"Tokyo",system:"Monarchie constitutionnelle parlementaire",focus:"Technologies, industrie, sécurité maritime et relations en Asie orientale."},
+ {name:"Brésil",region:"Amérique du Sud",capital:"Brasília",system:"République fédérale présidentielle",focus:"Agriculture, matières premières, biodiversité, énergie et diplomatie régionale."},
+ {name:"Russie",region:"Europe / Asie",capital:"Moscou",system:"République fédérale",focus:"Énergie, sécurité européenne, ressources naturelles et relations internationales."},
+ {name:"Afrique du Sud",region:"Afrique",capital:"Pretoria (exécutif)",system:"République parlementaire",focus:"Économie régionale, minerais, énergie et diplomatie africaine."}
+];
+const NEXUS_STORE={notes:"nexusV13Notes",tasks:"nexusV13Tasks",events:"nexusV13Events",journal:"nexusV13Journal"};
+function v13Read(key,fallback){try{const x=localStorage.getItem(key);return x?JSON.parse(x):fallback}catch(e){return fallback}}
+function v13Save(key,value){localStorage.setItem(key,JSON.stringify(value))}
+function v13Esc(s){return escapeHTML(s)}
+function v13Date(s){const d=new Date(s);return Number.isNaN(d.getTime())?"Date inconnue":d.toLocaleString("fr-FR")}
+function renderWorldIntel(){
+ const radar=document.getElementById("worldRadar");if(radar){const counts={};articles.forEach(a=>{const c=a.category||"Autres";counts[c]=(counts[c]||0)+1});const rows=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);radar.innerHTML=rows.length?rows.map(([k,v])=>`<div class="radar-row"><span>${v13Esc(k)}</span><div class="bar"><span style="width:${Math.max(4,100*v/Math.max(...rows.map(x=>x[1])))}%"></span></div><small>${v} publication(s)</small></div>`).join(""):'<div class="empty">Aucune publication disponible pour alimenter le radar.</div>'}
+ const input=document.getElementById("countrySearch"),q=normalized(input?.value||"");const target=document.getElementById("countryCards");if(target)target.innerHTML=NEXUS_COUNTRIES.filter(c=>normalized([c.name,c.region,c.capital,c.focus].join(" ")).includes(q)).map(c=>`<article class="country-card"><div class="label">${v13Esc(c.region)}</div><h3>${v13Esc(c.name)}</h3><p><b>Capitale :</b> ${v13Esc(c.capital)}</p><p><b>Institutions :</b> ${v13Esc(c.system)}</p><p>${v13Esc(c.focus)}</p></article>`).join("")||'<div class="empty">Aucun pays correspondant.</div>';
+}
+async function fetchJSON(url){const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),9000);try{const r=await fetch(url,{signal:controller.signal,cache:"no-store"});if(!r.ok)throw Error("HTTP "+r.status);return await r.json()}finally{clearTimeout(timer)}}
+function populateComparators(){const opts=articles.map(a=>`<option value="${v13Esc(a.id)}">${v13Esc(a.title.slice(0,110))}</option>`).join("");["compareOne","compareTwo"].forEach(id=>{const el=document.getElementById(id);if(el&&el.options.length<=1)el.innerHTML='<option value="">Choisir une publication…</option>'+opts})}
+function renderPersonalDesk(){const notes=v13Read(NEXUS_STORE.notes,[]),tasks=v13Read(NEXUS_STORE.tasks,[]),events=v13Read(NEXUS_STORE.events,[]),journal=v13Read(NEXUS_STORE.journal,[]);const n=document.getElementById("personalNotes"),t=document.getElementById("taskList"),e=document.getElementById("eventList"),j=document.getElementById("journalList");if(n)n.innerHTML=notes.map((x,i)=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${v13Esc(x.text)}</p><button class="small-btn" data-delete-note="${i}">Supprimer</button></div>`).join("")||'<div class="empty">Aucune note enregistrée.</div>';if(t)t.innerHTML=tasks.map((x,i)=>`<div class="personal-entry task-entry"><label><input type="checkbox" data-task-check="${i}" ${x.done?"checked":""}> ${v13Esc(x.text)}</label><button class="small-btn" data-delete-task="${i}">×</button></div>`).join("")||'<div class="empty">Aucune tâche.</div>';if(e)e.innerHTML=events.sort((a,b)=>a.date.localeCompare(b.date)).map((x,i)=>`<div class="personal-entry"><b>${v13Esc(x.title)}</b><small>${v13Date(x.date)}</small><button class="small-btn" data-delete-event="${i}">Supprimer</button></div>`).join("")||'<div class="empty">Aucun événement personnel.</div>';if(j)j.innerHTML=journal.map(x=>`<div class="personal-entry"><small>${v13Date(x.date)}</small><p>${v13Esc(x.text)}</p></div>`).join("")||'<div class="empty">Ton journal est vide.</div>'}
+async function translateNexusArticle(button){const id=button.dataset.translateArticle,article=articles.find(a=>a.id===id)||archive.find(a=>a.id===id);const card=button.closest(".article"),out=card?.querySelector(".translation-output");if(!article||!out)return;if(!out.hidden){out.hidden=true;button.textContent="Afficher la traduction";return}button.disabled=true;button.textContent="Traduction…";out.hidden=false;out.textContent="Traduction en cours…";try{const text=(article.title+"\n\n"+(article.description||"")).slice(0,3800);const url="https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q="+encodeURIComponent(text);const data=await fetchJSON(url);const translated=(data?.[0]||[]).map(x=>x?.[0]||"").join("").trim();if(!translated)throw Error("Réponse vide");out.textContent=translated;out.hidden=false;button.textContent="Masquer la traduction"}catch(e){out.textContent="Traduction indisponible. Consulte l'article original : le service peut être inaccessible ou limiter les requêtes.";out.hidden=false;button.textContent="Réessayer la traduction"}finally{button.disabled=false}}
+function initNexusUltimate(){
+ document.addEventListener("click",e=>{const b=e.target.closest("[data-translate-article]");if(b)translateNexusArticle(b)});
+ document.getElementById("countrySearch")?.addEventListener("input",renderWorldIntel);
+ document.getElementById("compareArticles")?.addEventListener("click",()=>{const a=articles.find(x=>x.id===document.getElementById("compareOne").value),b=articles.find(x=>x.id===document.getElementById("compareTwo").value),out=document.getElementById("comparisonResult");if(!a||!b||a.id===b.id){out.textContent="Choisis deux publications différentes.";return}const overlap=[...new Set(titleTokens(a.title).filter(t=>titleTokens(b.title).includes(t)))];out.innerHTML=`<div class="compare-columns"><div><b>${v13Esc(a.source)}</b><h3>${v13Esc(a.title)}</h3><p>${v13Esc(a.description||"Résumé absent.")}</p><small>${v13Esc(a.date||"Date inconnue")}</small></div><div><b>${v13Esc(b.source)}</b><h3>${v13Esc(b.title)}</h3><p>${v13Esc(b.description||"Résumé absent.")}</p><small>${v13Esc(b.date||"Date inconnue")}</small></div></div><p><b>Termes communs :</b> ${v13Esc(overlap.join(", ")||"Aucun terme significatif commun")}</p><p class="source">Comparaison textuelle automatique ; ne démontre pas que les sources sont indépendantes ni que les informations sont exactes.</p>`});
+ document.getElementById("generateBriefing")?.addEventListener("click",()=>{const target=document.getElementById("generatedBriefing"),top=articles.slice().sort((a,b)=>articleScore(b)-articleScore(a)).slice(0,7);target.innerHTML=top.length?'<ol>'+top.map(a=>`<li class="brief-item"><b>${v13Esc(a.title)}</b><p>${v13Esc(a.description||"Résumé non fourni.")}</p><small>${v13Esc(a.source)} · ${v13Esc(a.category)} · ${v13Esc(a.date||"Date inconnue")}</small></li>`).join("")+'</ol><p class="source">Sélection calculée à partir des publications chargées dans NEXUS. Vérifie les articles originaux.</p>':'<div class="empty">Aucune actualité disponible.</div>'});
+ document.getElementById("presentationMode")?.addEventListener("click",()=>{document.body.classList.toggle("presentation-mode");showNexusToast(document.body.classList.contains("presentation-mode")?"Mode présentation activé":"Mode présentation désactivé")});
+ document.getElementById("savePersonalNote")?.addEventListener("click",()=>{const el=document.getElementById("personalNote"),text=el.value.trim();if(!text)return;const a=v13Read(NEXUS_STORE.notes,[]);a.unshift({text,date:new Date().toISOString()});v13Save(NEXUS_STORE.notes,a.slice(0,100));el.value="";renderPersonalDesk()});
+ document.getElementById("addTask")?.addEventListener("click",()=>{const el=document.getElementById("taskInput"),text=el.value.trim();if(!text)return;const a=v13Read(NEXUS_STORE.tasks,[]);a.push({text,done:false});v13Save(NEXUS_STORE.tasks,a);el.value="";renderPersonalDesk()});
+ document.getElementById("addEvent")?.addEventListener("click",()=>{const title=document.getElementById("eventTitle").value.trim(),date=document.getElementById("eventDate").value;if(!title||!date)return;const a=v13Read(NEXUS_STORE.events,[]);a.push({title,date});v13Save(NEXUS_STORE.events,a);document.getElementById("eventTitle").value="";renderPersonalDesk()});
+ document.getElementById("saveJournal")?.addEventListener("click",()=>{const el=document.getElementById("journalInput"),text=el.value.trim();if(!text)return;const a=v13Read(NEXUS_STORE.journal,[]);a.unshift({text,date:new Date().toISOString()});v13Save(NEXUS_STORE.journal,a.slice(0,200));el.value="";renderPersonalDesk()});
+ document.addEventListener("click",e=>{const del=(attr,key)=>{const b=e.target.closest("["+attr+"]");if(b){const a=v13Read(key,[]);a.splice(Number(b.getAttribute(attr)),1);v13Save(key,a);renderPersonalDesk()}};del("data-delete-note",NEXUS_STORE.notes);del("data-delete-task",NEXUS_STORE.tasks);del("data-delete-event",NEXUS_STORE.events);const check=e.target.closest("[data-task-check]");if(check){const a=v13Read(NEXUS_STORE.tasks,[]);a[Number(check.dataset.taskCheck)].done=check.checked;v13Save(NEXUS_STORE.tasks,a)}});
+ document.getElementById("exportAllData")?.addEventListener("click",()=>{const keys=[...Object.values(NEXUS_STORE),NEXUS_PREFS_KEY,NEXUS_FX_KEY,FAV_KEY,DOSSIER_KEY,ALERT_KEY,"nexusArchiveV3",PINNED_KEY];const data={app:"NEXUS Intelligence",version:14,exportedAt:new Date().toISOString(),data:Object.fromEntries(keys.map(k=>[k,localStorage.getItem(k)]))};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="nexus-ultimate-backup.json";a.click();URL.revokeObjectURL(url)});
+ document.getElementById("importAllDataButton")?.addEventListener("click",()=>document.getElementById("importAllDataFile").click());document.getElementById("importAllDataFile")?.addEventListener("change",async e=>{const f=e.target.files?.[0];if(!f)return;try{const d=JSON.parse(await f.text());if(d.app!=="NEXUS Intelligence"||!d.data)throw Error("Format invalide");Object.entries(d.data).forEach(([k,v])=>{if(k.startsWith("nexus")||k===FAV_KEY||k===DOSSIER_KEY||k===ALERT_KEY)localStorage.setItem(k,v)});location.reload()}catch(err){showNexusToast("Sauvegarde invalide ou incompatible.")}e.target.value=""});
+}
+
+
+/* NEXUS V14 — FX STUDIO / PREFS LOCALES */
+const NEXUS_FX_KEY="nexusFXStudioV14";
+const DEFAULT_NEXUS_FX={enabled:true,profile:"hybrid",mode:"hybrid",intensity:50,lightIntensity:45,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false};
+let nexusFXPrefs={...DEFAULT_NEXUS_FX,...readStorage(NEXUS_FX_KEY,{})};
+const NEXUS_FX_PRESETS={
+ hybrid:{profile:"hybrid",mode:"hybrid",enabled:true,intensity:50,lightIntensity:45,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
+ command:{profile:"command",mode:"hybrid",enabled:true,intensity:42,lightIntensity:38,speed:"slow",corePulse:true,lightFlow:false,particles:false,atmosphere:true,depth:true,shimmer:false,radarSweep:true,locationPulse:true,haptics:true,sound:false},
+ immersive:{profile:"immersive",mode:"immersive",enabled:true,intensity:82,lightIntensity:78,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
+ stealth:{profile:"stealth",mode:"standard",enabled:true,intensity:16,lightIntensity:12,speed:"slow",corePulse:false,lightFlow:false,particles:false,atmosphere:false,depth:false,shimmer:false,radarSweep:false,locationPulse:true,haptics:true,sound:false},
+ arctic:{profile:"arctic",mode:"hybrid",enabled:true,intensity:48,lightIntensity:64,speed:"slow",corePulse:true,lightFlow:true,particles:false,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
+ aurora:{profile:"aurora",mode:"immersive",enabled:true,intensity:68,lightIntensity:66,speed:"normal",corePulse:true,lightFlow:true,particles:true,atmosphere:true,depth:true,shimmer:true,radarSweep:true,locationPulse:true,haptics:true,sound:false},
+ obsidian:{profile:"obsidian",mode:"standard",enabled:true,intensity:28,lightIntensity:20,speed:"slow",corePulse:false,lightFlow:false,particles:false,atmosphere:false,depth:true,shimmer:false,radarSweep:false,locationPulse:true,haptics:true,sound:false},
+ focus:{profile:"focus",mode:"standard",enabled:true,intensity:8,lightIntensity:8,speed:"slow",corePulse:false,lightFlow:false,particles:false,atmosphere:false,depth:false,shimmer:false,radarSweep:false,locationPulse:false,haptics:false,sound:false}
+};
+function nexusFXReducedMotion(){return !!nexusPrefs.reducedMotion||(window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches)}
+function nexusFXIntensityName(value){const n=Number(value)||0;return n<30?"DISCRÈTE":n<68?"ÉQUILIBRÉE":"IMMERSIVE"}
+function applyNexusFXSettings(){
+ const p=nexusFXPrefs,enabled=p.enabled!==false,reduced=nexusFXReducedMotion();
+ const cls={"nexus-fx-enabled":enabled,"nexus-fx-core-pulse":enabled&&p.corePulse,"nexus-fx-light-flow":enabled&&p.lightFlow&&!reduced,"nexus-fx-particles":enabled&&p.particles&&!reduced,"nexus-fx-atmosphere":enabled&&p.atmosphere&&!reduced,"nexus-fx-depth":enabled&&p.depth,"nexus-fx-shimmer":enabled&&p.shimmer&&!reduced,"nexus-fx-radar":enabled&&p.radarSweep&&!reduced,"nexus-fx-locations":enabled&&p.locationPulse&&!reduced};
+ Object.entries(cls).forEach(([name,on])=>document.body.classList.toggle(name,!!on));
+ document.documentElement.style.setProperty("--nexus-fx-intensity",String(Math.max(0,Math.min(100,Number(p.intensity)||0))/100));
+ document.documentElement.style.setProperty("--nexus-fx-light",String(Math.max(0,Math.min(100,Number(p.lightIntensity)||0))/100));
+ document.documentElement.style.setProperty("--nexus-fx-speed",({slow:"34s",normal:"22s",fast:"13s"})[p.speed]||"22s");
+ document.body.dataset.fxMode=p.mode||"hybrid";
+ const set=(id,value)=>{const el=document.getElementById(id);if(!el)return;if(el.type==="checkbox")el.checked=!!value;else el.value=value};
+ set("fxEnabled",enabled);set("fxMode",p.mode||"hybrid");set("fxIntensity",p.intensity);set("fxLightIntensity",p.lightIntensity);set("fxMotionSpeed",p.speed||"normal");
+ set("fxCorePulse",p.corePulse);set("fxLightFlow",p.lightFlow);set("fxParticles",p.particles);set("fxAtmosphere",p.atmosphere);set("fxDepth",p.depth);set("fxShimmer",p.shimmer);set("fxRadarSweep",p.radarSweep);set("fxLocationPulse",p.locationPulse);set("fxHaptics",p.haptics);set("fxSound",p.sound);
+ const intensity=document.getElementById("fxIntensityOutput"),light=document.getElementById("fxLightOutput"),status=document.getElementById("fxStatusLabel"),support=document.getElementById("fxSupportStatus");
+ if(intensity)intensity.textContent=Number(p.intensity)+" · "+nexusFXIntensityName(p.intensity).toLowerCase();
+ if(light)light.textContent=Number(p.lightIntensity)+" %";
+ if(status)status.textContent=(p.profile||"custom").toUpperCase()+" · "+nexusFXIntensityName(p.intensity);
+ if(support){const haptic="vibrate" in navigator?"Haptique : disponible sur cet appareil.":"Haptique : non pris en charge par ce navigateur ; le réglage sera conservé.";support.textContent=haptic+(reduced?" Animations réduites détectées : les effets animés sont suspendus.":" Les préférences respectent le réglage « Animations réduites ».")}
+ document.querySelectorAll("[data-fx-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.fxProfile===p.profile));
+}
+function saveNexusFXSettings(showMessage=true){localStorage.setItem(NEXUS_FX_KEY,JSON.stringify(nexusFXPrefs));applyNexusFXSettings();if(showMessage)showNexusToast("Réglages FX enregistrés sur cet appareil.")}
+function applyNexusFXProfile(name){const preset=NEXUS_FX_PRESETS[name];if(!preset)return;nexusFXPrefs={...DEFAULT_NEXUS_FX,...preset};saveNexusFXSettings(true)}
+let nexusFXAudioContext=null;
+function playNexusFXTick(){
+ try{
+  const AudioCtx=window.AudioContext||window.webkitAudioContext;if(!AudioCtx)return;
+  if(!nexusFXAudioContext)nexusFXAudioContext=new AudioCtx();
+  if(nexusFXAudioContext.state==="suspended")nexusFXAudioContext.resume();
+  const osc=nexusFXAudioContext.createOscillator(),gain=nexusFXAudioContext.createGain();
+  osc.type="sine";osc.frequency.value=720;gain.gain.setValueAtTime(.012,nexusFXAudioContext.currentTime);gain.gain.exponentialRampToValueAtTime(.0001,nexusFXAudioContext.currentTime+.045);
+  osc.connect(gain);gain.connect(nexusFXAudioContext.destination);osc.start();osc.stop(nexusFXAudioContext.currentTime+.05);
+ }catch(e){/* Son facultatif : aucune action si le navigateur le bloque. */}
+}
+function initNexusFXV14(){
+ applyNexusFXSettings();
+ document.querySelectorAll("[data-fx-profile]").forEach(b=>b.addEventListener("click",()=>applyNexusFXProfile(b.dataset.fxProfile)));
+ const fields={fxEnabled:"enabled",fxIntensity:"intensity",fxLightIntensity:"lightIntensity",fxMotionSpeed:"speed",fxCorePulse:"corePulse",fxLightFlow:"lightFlow",fxParticles:"particles",fxAtmosphere:"atmosphere",fxDepth:"depth",fxShimmer:"shimmer",fxRadarSweep:"radarSweep",fxLocationPulse:"locationPulse",fxHaptics:"haptics",fxSound:"sound"};
+ Object.entries(fields).forEach(([id,key])=>{const el=document.getElementById(id);if(!el)return;const update=()=>{nexusFXPrefs[key]=el.type==="checkbox"?el.checked:(el.type==="range"?Number(el.value):el.value);nexusFXPrefs.profile="custom";saveNexusFXSettings(false)};el.addEventListener("input",update);el.addEventListener("change",update)});
+ document.getElementById("fxSaveProfile")?.addEventListener("click",()=>{nexusFXPrefs.profile="custom";saveNexusFXSettings(false);showNexusToast("Profil FX personnel enregistré.")});
+ document.getElementById("fxReset")?.addEventListener("click",()=>{nexusFXPrefs={...DEFAULT_NEXUS_FX};saveNexusFXSettings(false);showNexusToast("Configuration FX Hybrid réinitialisée.")});
+ document.addEventListener("click",event=>{
+  const control=event.target.closest("button,[role=button],a");if(!control||!nexusFXPrefs.enabled)return;
+  if(nexusFXPrefs.haptics&&typeof navigator.vibrate==="function")navigator.vibrate(10);
+  if(nexusFXPrefs.sound)playNexusFXTick();
+ },{passive:true});
+ if(window.matchMedia){const media=window.matchMedia("(prefers-reduced-motion: reduce)");media.addEventListener?.("change",applyNexusFXSettings)}
+}
+
+/* INITIALISATION */
+const stamp=localStorage.getItem("nexusLastUpdate");
+if(articles.length){
+if(!archive.length){archive=articles;localStorage.setItem("nexusArchiveV3",JSON.stringify(archive))}
+document.getElementById("lastUpdate").textContent=stamp?"Dernière mise à jour : "+new Date(stamp).toLocaleString("fr-FR")+" (cache)":"Articles précédemment chargés.";
+document.getElementById("systemState").textContent="● CACHE LOCAL";
+}
+document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", ");
+render();
+renderPrimaryNav();
+renderCommandMenu();
+initNexusV10();
+initNexusUltimate();
+initNexusFXV14();
+document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",String(!p.classList.contains("active"))));
+updateAlertIndicator();
+refreshNews();
 </script>
 </body>
 </html>
