@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:00:19.305755+00:00",
+  "updated_at": "2026-11-22T19:45:22.131538+00:00",
   "count": 282,
   "articles": [
     {
@@ -371,11 +371,35 @@
       "category": "Exploration"
     },
     {
+      "title": "« Tout le monde chez nous n’est pas de gauche » : quand le vote RN progresse chez les personnes LGBT",
+      "link": "https://www.lefigaro.fr/actualite-france/tout-le-monde-chez-nous-n-est-pas-de-gauche-quand-le-vote-rn-progresse-chez-les-personnes-lgbt-20261122",
+      "date": "Sun, 22 Nov 2026 20:18:33 +0100",
+      "description": "ENQUÊTE - En se présentant comme le protecteur des minorités sexuelles face aux agressions homophobes, le parti de Marine Le Pen dépasse LFI dans les intentions de vote chez les LGBT.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "A la COP31, la communauté internationale se déchire sur la sortie des énergies fossiles et le financement de l’adaptation",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
+      "date": "Sun, 22 Nov 2026 20:08:00 +0100",
+      "description": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffement sont en cause.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
       "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122",
       "date": "Sun, 22 Nov 2026 19:53:56 +0100",
       "description": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le candidat Nouvelle Énergie à l’Élysée, porté par sa percée dans les sondages, pose ses conditions à une primaire.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
+      "date": "Sun, 22 Nov 2026 19:53:29 +0100",
+      "description": "Devant le dérapage des finances publiques et de l’endettement, le chef de l’Etat évoque l’idée d’une mesure contraignante dans la Constitution. Le Rassemblement national, favorable au principe, devrait jouer les arbitres sur les modalités.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -387,12 +411,36 @@
       "category": "France"
     },
     {
+      "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
+      "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
+      "date": "Sun, 22 Nov 2026 19:43:43 +0100",
+      "description": "Dans un communiqué, le gouvernement basé à Benghazi a annoncé « qu’il est probable qu’il ait été visé par une attaque de drones », et que « le navire était en route pour la Russie et que son escale avait pour but de se ravitailler en carburant et en vivres ».",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»",
       "link": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122",
       "date": "Sun, 22 Nov 2026 19:33:03 +0100",
       "description": "Le maire de Cannes dit combattre «depuis toujours le social-étatisme», dont Marine Le Pen serait, selon lui, «une version».",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Combien de temps un nouveau Fitbit est censé durer ?",
+      "link": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support/",
+      "date": "Sun, 22 Nov 2026 19:30:00 +0000",
+      "description": "La longévité Fitbit est triple. Vous aurez besoin de considérer la durabilité du traqueur de fitness, la durée de vie de la batterie, et combien de temps il recevra le soutien logiciel.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Explosion à bord d'un navire russe au port de Libye causée par une attaque présumée de drone, disent les responsables",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 19:26:54 GMT",
+      "description": "Le gouvernement de l'est de la Libye dit que le navire s'était arrêté pour du carburant et des fournitures sur son chemin de retour en Russie.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "\"Toutes les solutions méritent d’être explorées\" : l'Elysée ne confirme pas la possible inscription de la \"règle d'or\" budgétaire dans la Constitution début 2027",
@@ -411,11 +459,59 @@
       "category": "France"
     },
     {
+      "title": "«Une COP de l’abandon» : en Turquie, les Etats échouent à s’entendre sur un accord et à sortir des énergies fossiles",
+      "link": "https://www.liberation.fr/environnement/climat/cop31-la-france-denonce-un-projet-de-texte-qui-nous-ramenerait-en-arriere-sans-sortie-des-energies-fossiles-20261122_OLT6XUDZDFFKNBW754OHFUAAOU/",
+      "date": "Sun, 22 Nov 2026 19:25:03 +0000",
+      "description": "Après deux semaines de négociations, la conférence de l’ONU sur le climat s’est officiellement terminée ce dimanche, à Antalya, sans adopter un projet de décision finale qui omettait le pétrole, le gaz et le charbon. L’obstruction de l’Arabie saoudite et de la Russie sur le sujet a conduit les Européens à mettre un veto.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Soudan: les drones ont frappé le bâtiment de l'ONU, zone résidentielle à Khartoum",
+      "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 22 Nov 2026 19:25:00 GMT",
+      "description": "Les drones ont ciblé Khartoum, endommageant un bâtiment de l'ONU dans la zone résidentielle. L'agence des Nations unies juge inacceptable que les travailleurs humanitaires soient exposés à ce danger.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "CHK Aber Kawas devient le premier Palestinien dans l'histoire du Sénat de l'État de New York",
+      "link": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 19:18:29 +0000",
+      "description": "Kawas, un socialiste démocratique, a remporté avec 74,5 pour cent des voix, défendant la politique progressiste.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Les surprenants français Albano Olivetti et Théo Arribagé s’offrent un premier sacre au Masters de Turin, dès leur première participation",
       "link": "https://www.franceinfo.fr/sports/tennis/masters/les-surprenants-francais-albano-olivetti-et-theo-arribage-s-offrent-un-premier-sacre-au-masters-de-turin-des-leur-premiere-participation_8294963.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 22 Nov 2026 19:17:32 +0100",
       "description": "Le duo tricolore, inconnu du grand public avant cette semaine, a réalisé un tournoi incroyable à Turin, et est devenu la troisième paire française à être sacrée au tournoi des maîtres, dimanche.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "C'est là qu'un Raspberry Pi 5 pourrait être considéré comme un surpeuplement",
+      "link": "https://www.engadget.com/2319480/when-raspberry-pi-5-considered-overkill/",
+      "date": "Sun, 22 Nov 2026 19:15:00 +0000",
+      "description": "Des serveurs domestiques aux gadgets DIY, les cartes Raspberry Pi peuvent gérer d'innombrables tâches, bien que la puissance du nouveau Pi 5 ne soit pas toujours la seule option.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "65 ans de vol spatial humain à la NASA Johnson",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "date": "Sun, 22 Nov 2026 19:13:25 +0000",
+      "description": "Depuis 65 ans, le Centre spatial Johnson de la NASA à Houston a contribué à façonner le vol spatial humain, des missions Gemini qui ont démontré les techniques de rendez-vous et d'amarrage nécessaires pour Apollo aux recherches menées à bord de la Station spatiale internationale, qui soutient une présence humaine continue depuis plus de 26 ans. Aujourd'hui, les équipes de [...]",
+      "source": "NASA",
+      "category": "Environnement"
+    },
+    {
+      "title": "Ukraine: six morts lors de frappes russes dans la région de Kiev",
+      "link": "https://www.rfi.fr/fr/europe/20261122-ukraine-six-morts-lors-de-frappes-russes-dans-la-r%C3%A9gion-de-kiev",
+      "date": "Sun, 22 Nov 2026 19:13:08 GMT",
+      "description": "La région de Kiev en Ukraine a été harcelée par les drones ce dimanche 22 novembre. Plusieurs dizaines de drones suicide ont attaqué la capitale du pays. Au moins six personnes sont mortes, des dizaines sont blessées ou portées disparues. La journée a commencé par la destruction d’un immeuble de 5 étages où au moins trois personnes sont mortes.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -427,6 +523,22 @@
       "category": "France"
     },
     {
+      "title": "«Horrifice et refroidissement»: Les responsables condamnent les arrestations d'ICE à l'aéroport de Seattle",
+      "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 19:10:00 +0000",
+      "description": "La vidéo montre des agents d'immigration masqués qui détiennent de force deux personnes à l'aéroport de Seattle, ce qui soulève des inquiétudes au sujet des tactiques.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Bessent refuse d'exclure Huangs retour à Nvidia",
+      "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+      "date": "Sun, 22 Nov 2026 19:08:31 GMT",
+      "description": "Le secrétaire au Trésor dit que cela dépend « où le dollar s'arrête » comme le président américain appelle à la réintégration d'un ancien chef »",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
       "title": "L’éditorial de Vincent Trémolet de Villers : « La dynamique David Lisnard, bulle ou réalité ? »",
       "link": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-la-dynamique-david-lisnard-bulle-ou-realite-20261122",
       "date": "Sun, 22 Nov 2026 19:00:58 +0100",
@@ -435,12 +547,20 @@
       "category": "France"
     },
     {
-      "title": "Énergie, data centers, cosmétique… Plus de 42 milliards d’euros d’investissements français en 2026 pour le «Choose France»",
-      "link": "https://www.lefigaro.fr/societes/energie-data-centers-cosmetique-plus-de-42-milliards-d-euros-d-investissements-francais-en-2026-pour-le-choose-france-20261122",
-      "date": "Sun, 22 Nov 2026 19:00:00 +0100",
-      "description": "DÉCRYPTAGE - À l’occasion de la déclinaison tricolore du sommet Choose France, 81 nouveaux projets d’investissements en France sont dévoilés. En incluant les projets déjà lancés depuis janvier, l’enveloppe dépasse celle de 2025 dans une industrie hexagonale pourtant en berne.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "5 paramètres Apple Watch qui peuvent vous aider à sauver sa vie de batterie",
+      "link": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
+      "date": "Sun, 22 Nov 2026 19:00:00 +0000",
+      "description": "En abandonnant certaines fonctionnalités de l'Apple Watch, vous pouvez utiliser ses fonctions de base beaucoup plus longtemps avant d'avoir besoin d'une charge.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Quelle est la suite après aucun accord lors des discussions sur le climat COP31?",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 18:57:24 GMT",
+      "description": "Le sommet sur le climat de la COP31 en Turquie a officiellement pris fin après que les pays n'ont pas conclu un accord.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "Des propos sexistes, racistes et des saluts nazis tenus dans une école de police, la justice saisie",
@@ -473,6 +593,14 @@
       "description": "Une horloge mystérieuse dans votre barre d'état Galaxy peut être déroutant. Découvrez ce que le symbole peut signifier et les étapes simples pour le faire disparaître pour de bon.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "Liverpool thrash 10-man Man United en cauchemar commence pour Pochettino",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 18:44:24 +0000",
+      "description": "La carte rouge de Leny Yoro pour Manchester United après seulement huit minutes a ouvert la voie à une défaite de 4-0 football à Anfield.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Un mois après l’attentat de Trappes, l’Etat doit répondre à la terreur des Français",
@@ -518,7 +646,7 @@
       "title": "La COP31 ne parvient pas à un accord important sur le climat, car les discussions font apparaître de profondes divisions",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 22 Nov 2026 18:17:59 GMT",
-      "description": "Les discussions de la COP31 sur le climat n'ont pas permis de faire des progrès dans la lutte contre le changement climatique après une série de discussions sur la question des combustibles fossiles.",
+      "description": "Les discussions n'ont pas permis de faire une percée dans la lutte contre le changement climatique après une série de discussions sur la question des combustibles fossiles.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -547,36 +675,12 @@
       "category": "Monde"
     },
     {
-      "title": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
-      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
-      "date": "Sun, 22 Nov 2026 18:11:49 +0100",
-      "description": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellement la présidence du Conseil de l’Union européenne.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "L'attaque présumée de drone provoque une explosion sur le navire russe en Libye",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
       "date": "Sun, 22 Nov 2026 18:11:30 +0000",
       "description": "Un navire russe a été frappé lors d'une attaque présumée de drones alors qu'il était accosté à la base navale de Benghazi.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Bessent refuse d'exclure Huangs retour à Nvidia",
-      "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-      "date": "Sun, 22 Nov 2026 18:11:01 GMT",
-      "description": "Le secrétaire au Trésor dit que cela dépend « où le dollar s'arrête » alors que le président américain et les dirigeants des technologies clés appellent à la réintégration d'un ancien chef »",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "L’ascension éclair de la paire française Arribagé-Olivetti, sacrés « maîtres » des finales ATP à peine un an après leurs débuts",
-      "link": "https://www.lemonde.fr/sport/article/2026/11/22/l-ascension-eclair-de-la-paire-francaise-arribage-olivetti-sacres-maitres-des-finales-atp-a-peine-un-an-apres-leurs-debuts_6814235_3242.html",
-      "date": "Sun, 22 Nov 2026 18:09:44 +0100",
-      "description": "Les Français l’ont emporté, dimanche à Turin, en finale du tournoi des maîtres face à la paire Arévalo-Pavic (3-6, 7-6, 10-6). Une victoire qui vient couronner une première saison presque parfaite.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Pourquoi les centres de données sont au centre de la réaction de Big Tech",
@@ -595,36 +699,12 @@
       "category": "Monde"
     },
     {
-      "title": "Bazar: La vie des Rohingyas en exil",
-      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 18:02:06 +0000",
-      "description": "Les familles Rohingyas font face à la faim, à la perte et à un avenir incertain pendant le Ramadan.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Mathématiques et IA : prenons le temps de comprendre",
       "link": "https://www.lemonde.fr/sciences/article/2026/11/22/mathematiques-et-ia-prenons-le-temps-de-comprendre_6814234_1650684.html",
       "date": "Sun, 22 Nov 2026 18:00:10 +0100",
       "description": "Dans sa carte blanche au « Monde », le mathématicien et académicien Etienne Ghys prend acte de l’accélération que l’intelligence artificielle apporte à sa discipline. Mais il rappelle que les maths ne se réduisent pas à des résultats.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Virginia signale le premier décès lié à la rougeole de 2026 enfants de moins de 5 ans",
-      "link": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 18:00:00 +0000",
-      "description": "Le décès survient quelques jours après que des experts de la santé ont enlevé aux États-Unis leur statut d'élimination de la rougeole, au milieu d'un pic dans les cas.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Ne jetez pas votre ancienne Xbox... Faites ça à la place.",
-      "link": "https://www.engadget.com/2319409/dont-throw-away-old-xbox-do-this-instead-sell-donate/",
-      "date": "Sun, 22 Nov 2026 18:00:00 +0000",
-      "description": "Votre vieille Xbox ne mérite pas d'être jetée dans une poubelle. De gagner un dollar à faire la journée d'un enfant, il y a des façons de donner à votre console un nouveau bail sur la vie.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Choose France : une deuxième «édition française» aux allures de bilan pour Emmanuel Macron, dans une économie plombée",
@@ -651,30 +731,6 @@
       "category": "Technologie"
     },
     {
-      "title": "La rivalité entre l'Inde et le Pakistan apporte une ambiance de Coupe du monde au Qatar",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 17:46:32 +0000",
-      "description": "L'Inde et le Pakistan se rencontrent à la Coupe d'Asie Rising Stars. Les stands emballés montrent que la rivalité reste aussi intense.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Alain Cavalier, un dernier remerciement",
-      "link": "https://www.liberation.fr/culture/cinema/alain-cavalier-un-dernier-remerciement-20261122_OEFVDBRVJVDW7B34LIPXVHB7JM/",
-      "date": "Sun, 22 Nov 2026 17:45:23 +0000",
-      "description": "Dans «Merci d’être venu», le cinéaste de 95 ans rassemble quinze années d’images intimes, de rencontres et de disparitions. Un journal filmé bouleversant, où l’inlassable filmeur approche ses propres adieux.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Vous pouvez supprimer tous vos courriels sur Gmail en quelques clics seulement",
-      "link": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
-      "date": "Sun, 22 Nov 2026 17:45:00 +0000",
-      "description": "Si vous avez des milliers d'emails empilant dans Gmail, vous pouvez les supprimer en vrac sans perdre les importants.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Présidentielle 2027 : la dynamique David Lisnard s’installe tandis que la primaire de la droite et du centre est dans l’impasse",
       "link": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122",
       "date": "Sun, 22 Nov 2026 17:35:27 +0100",
@@ -683,26 +739,10 @@
       "category": "France"
     },
     {
-      "title": "Comment annuler votre abonnement Nintendo Switch Online",
-      "link": "https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription/",
-      "date": "Sun, 22 Nov 2026 17:30:00 +0000",
-      "description": "Vous devrez désactiver le renouvellement automatique de Nintendo Switch Online pour l'annuler. Voilà comment.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Un navire en Russie a été remorqué après avoir été attaqué dans le golfe de Finlande.",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 22 Nov 2026 17:18:26 GMT",
       "description": "Les forces de défense finlandaises disent que l'Ukraine était probablement derrière la frappe de drone samedi. Kyiv n'a pas encore commenté.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Explosion à bord d'un navire russe au port de Libye causée par une attaque présumée de drone, disent les responsables",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 17:16:47 GMT",
-      "description": "Le gouvernement de l'est de la Libye dit que le navire s'était arrêté pour du carburant et des fournitures sur son chemin de retour en Russie.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -779,14 +819,6 @@
       "category": "Monde"
     },
     {
-      "title": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
-      "date": "Sun, 22 Nov 2026 15:01:15 +0100",
-      "description": "La candidate du RN à l’élection présidentielle 2027 a également assuré ne pas connaître personnellement le haut fonctionnaire, qui a annoncé, samedi, avoir demandé à être relevé de ses fonctions.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Une télé peut-elle être trop grande ? Une enquête",
       "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
       "date": "Sun, 22 Nov 2026 15:00:00 +0000",
@@ -841,14 +873,6 @@
       "description": "Finlande Premier ministre dit \"la guerre se déverse dans notre voisinage immédiat",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Trois morts et des dizaines de disparus après le feu à l'usine indonésienne",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 14:05:20 GMT",
-      "description": "Au moins trois personnes ont été tuées et beaucoup d'autres craignent d'être mortes après un incendie dans une usine de confiseries.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Présidentielle 2027 : découvrez les grandes tendances des sondages avec notre agrégateur",
@@ -1043,6 +1067,14 @@
       "category": "Économie"
     },
     {
+      "title": "Le rêve américain de la propriété de la maison recule comme les taux hypothécaires bond",
+      "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+      "date": "Sun, 22 Nov 2026 11:00:06 GMT",
+      "description": "Donald Trump s'est engagé à réduire les coûts d'emprunt des propriétaires à 3 %, mais le taux de référence est passé à plus de 7 %",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
       "title": "Anthropic et ses banquiers se sont-ils trompés après l'introduction en bourse ?",
       "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
       "date": "Sun, 22 Nov 2026 11:00:05 GMT",
@@ -1131,14 +1163,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Chine, les pays de l'ANASE luttent pour le code de conduite de la mer de Chine méridionale",
-      "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 22 Nov 2026 08:45:00 GMT",
-      "description": "Les Philippines voulaient un code de conduite pour la mer de Chine méridionale en 2026. Mais les désaccords persistants entre la Chine et les pays de l'ANASE ralentissent les progrès vers un accord.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Corée du Sud Ministre de l'Éducation Démission sur anti-A.I. Règles de tricherie",
       "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
       "date": "Sun, 22 Nov 2026 08:35:05 +0000",
@@ -1153,14 +1177,6 @@
       "description": "Inscription ouverte pour Medicare passe par le 7 décembre et il y a quelques pièges différents que les gens devraient surveiller cette année. Votre régime de médicaments ou votre régime Medicare Advantage pourrait changer beaucoup.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Symposium des marines du Pacifique: «La France cherche à pratiquer une puissance d'équilibre»",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261122-symposium-des-marines-du-pacifique-la-france-cherche-%C3%A0-pratiquer-une-puissance-d-%C3%A9quilibre",
-      "date": "Sun, 22 Nov 2026 08:01:04 GMT",
-      "description": "La France prend la présidence du 20e Symposium des marines du Pacifique. Du 23 au 26 novembre, 30 chefs d’états-majors de marines du Pacifique vont se rencontrer à Tahiti en Polynésie française. RFI a rencontré le capitaine de vaisseau Geoffroy en charge des relations internationales au sein de l’état-major de la Marine nationale pour comprendre les enjeux de ce rendez-vous diplomatique et militaire.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Les administrateurs de la Banque d'Angleterre ont illégalement profité de l'esclavage postérieur à l'abolition à Cuba",
@@ -1230,17 +1246,9 @@
       "title": "APOD: 2026 Novembre 22 – Plongées et couleurs sur Jupiter de Juno",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
       "date": "Sun, 22 Nov 2026 05:05:00 +0000",
-      "description": "APOD Science APOD APOD: 2026 November 22 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discutez APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Plongées et couleurs [...]",
+      "description": "APODScienceAPODAPODODOD: 2026 November 22 –...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Plongées et couleurs sur Jupiter de Juno Explication : Qu'est-ce qui crée les couleurs dans les nuages de Jupiter ? Personne [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "Une route rocheuse vers l'unité irlandaise",
-      "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
-      "date": "Sun, 22 Nov 2026 05:00:14 GMT",
-      "description": "L'initiative de Dublin éclaire les obstacles à une Irlande unie et les arguments en faveur d'une Irlande unie",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "Défi du podcast senior du NPR : les premières entrées que nous aimons",
@@ -1526,23 +1534,23 @@
       "title": "APOD: 2026 le 21 novembre – Voyager",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
       "date": "Sat, 21 Nov 2026 05:05:00 +0000",
-      "description": "APOD Science APOD APOD: 2026 November 21 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Voyager-S Neptune Explication: [...]",
+      "description": "APODScienceAPODAPODODOD: 2026 November 21 –...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Neptune de Voyager Explication: Croisant à travers le système solaire extérieur, le vaisseau spatial Voyager 2 a fait sa plus proche approche [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "description": "Les stocks d'IA — et les marchés plus larges — ont été entassés cette semaine, ce qui a suscité de vives inquiétudes au sujet du système financier et de l'économie en général. Voici quoi savoir.",
-      "source": "NPR",
-      "category": "Économie"
     },
     {
       "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "date": "Sat, 21 Nov 2026 05:00:00 -0500",
       "description": "Les critiques disent maintenant que le géant de l'IA est une entreprise publique, son engagement à mettre la sécurité avant le succès commercial sera testé.",
+      "source": "NPR",
+      "category": "Économie"
+    },
+    {
+      "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "description": "Les stocks d'IA — et les marchés plus larges — ont été entassés cette semaine, ce qui a suscité de vives inquiétudes au sujet du système financier et de l'économie en général. Voici quoi savoir.",
       "source": "NPR",
       "category": "Économie"
     },
@@ -1969,14 +1977,6 @@
       "description": "En jumelant un canon de 120 mm à un châssis de 35 tonnes, le véhicule arrive alors que les drones compliquent de plus en plus le cas des véhicules blindés de tout poids. The post Oddball CFL-120 Karpat Medium Tank with A Big Gun Faces A Battlefield De plus en plus hostile à l'armure est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "La curiosité Mars Rover recueille des échantillons",
-      "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-      "date": "Fri, 20 Nov 2026 15:53:24 +0000",
-      "description": "Ce collage du 16 novembre montre 49 trous de forage capturés par le rover Curiosity Mars de la NASA en novembre 2026. Chaque trou représente un échantillon prélevé à partir de roches sur la surface martienne ; Curiosity, situé au bout de son bras robotique, dépose des échantillons de roches pulvérisées dans son ventre qui analyse leur composition. En savoir plus [...]",
-      "source": "NASA",
-      "category": "Environnement"
     },
     {
       "title": "L'armée américaine reporte le plan pour faire exploser la fabrication de bombes chimiques au milieu d'un tollé",
