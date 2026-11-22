@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:31:38.203520+00:00",
+  "updated_at": "2026-11-22T10:18:31.792371+00:00",
   "count": 287,
   "articles": [
     {
@@ -219,14 +219,6 @@
       "category": "Défense"
     },
     {
-      "title": "Le Royaume-Uni mène des cyberopérations offensives contre la Russie, la Chine, l'Iran et la Corée du Nord, dit commandant supérieur",
-      "link": "https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163",
-      "date": "Thu, 19 Nov 2026 20:35:00 +0000",
-      "description": "Le Royaume-Uni mène des cyberopérations offensives contre la Russie, la Chine, l'Iran et la Corée du Nord.",
-      "source": "Sky News",
-      "category": "Monde"
-    },
-    {
       "title": "De nouveaux outils pour les troupes pour abattre des drones.",
       "link": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
       "date": "Thu, 19 Nov 2026 19:57:54 +0000",
@@ -371,14 +363,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Le report du rapport du GIEC menacera l'effort mondial pour faire face à la crise climatique, affirme le grand scientifique",
-      "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
-      "date": "Thu, 19 Nov 2026 07:16:45 GMT",
-      "description": "Johan Rockström, l'un des plus grands experts mondiaux en matière de climat, affirme que ralentir les travaux scientifiques met la coopération en danger La science du climat est fondamentalement liée à l'accord de Paris et aux progrès mondiaux dans la lutte contre le chauffage mondial. Johan Rockström, directeur de l'Institut Potsdam pour le climat",
-      "source": "The Guardian",
-      "category": "Sciences"
-    },
-    {
       "title": "Les scientifiques ont testé 212 aliments à base de plantes. Chacun contenait des toxines fongiques",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
       "date": "Thu, 19 Nov 2026 06:13:29 EST",
@@ -427,6 +411,62 @@
       "category": "Exploration"
     },
     {
+      "title": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:57:56 +0100",
+      "description": "Alors que la Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien, les incidents se multiplient sur tout l'arc est-européen, de la mer Baltique à la mer Noire.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "On vous résume les points de discorde à la COP31 alors que les discussions sur un accord s'enlisent en Turquie",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/on-vous-resume-les-points-de-discorde-a-la-cop31-alors-que-les-discussions-sur-un-accord-s-enlisent_8294597.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:57:33 +0100",
+      "description": "Une nouvelle proposition de compromis diffusée durant la nuit de samedi à dimanche à Antalya est jugée insuffisante par de nombreux gouvernement et ONG de défense de l'environnement.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France",
+      "link": "https://www.lefigaro.fr/conjoncture/budget-pourquoi-la-regle-d-or-n-est-pas-la-solution-miracle-aux-deficits-chroniques-de-la-france-20260804",
+      "date": "Sun, 22 Nov 2026 10:42:29 +0100",
+      "description": "DÉCRYPTAGE - Envisagée par Emmanuel Macron qui voudrait convoquer le Congrès, cette contrainte budgétaire peut être efficace, mais seulement à certaines conditions.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Pensez-vous que la primaire de la droite et du centre aura lieu ?",
+      "link": "https://www.lefigaro.fr/politique/pensez-vous-que-la-primaire-de-la-droite-et-du-centre-aura-lieu-20261122",
+      "date": "Sun, 22 Nov 2026 10:28:33 +0100",
+      "description": "",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "La mission spatiale BepiColombo est entrée dans l'orbite de Mercure après huit ans de voyage",
+      "link": "https://www.franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:23:00 +0100",
+      "description": "Lancé en octobre 2018, l'engin de quatre tonnes a effectué un parcours de plus de 10 milliards de kilomètres pour ajuster sa vitesse et sa trajectoire en direction de la planète la plus proche du Soleil.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "COP31 : la France dénonce un projet de texte qui «nous ramènerait en arrière», sans sortie des énergies fossiles",
+      "link": "https://www.liberation.fr/environnement/climat/cop31-la-france-denonce-un-projet-de-texte-qui-nous-ramenerait-en-arriere-sans-sortie-des-energies-fossiles-20261122_OLT6XUDZDFFKNBW754OHFUAAOU/",
+      "date": "Sun, 22 Nov 2026 10:13:38 +0000",
+      "description": "La conférence des nations sur le climat, qui se tient en Turquie, était censée s’achever vendredi. Mais les participants ne parviennent toujours pas à se mettre d’accord et l’Union européenne pense qu’un non-accord est possible.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "\"Il était temps\" : le hip-hop en passe d'être inscrit au patrimoine immatériel de l'Unesco",
+      "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-etait-temps-le-hip-hop-en-passe-d-etre-inscrit-au-patrimoine-immateriel-de-l-unesco_8262596.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:10:48 +0100",
+      "description": "Né dans le Bronx il y a plus de cinquante ans, le hip-hop s'est imposé comme une culture dominante et mondiale, avec la France comme deuxième foyer important de son émergence.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "Campagne présidentielle : un second tour le 2 mai \"n'est pas forcément judicieux\", estime le député RN Thomas Ménagé",
       "link": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 22 Nov 2026 10:07:25 +0100",
@@ -451,60 +491,52 @@
       "category": "France"
     },
     {
-      "title": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
-      "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/les-offres-d-emploi-decrochent-dans-les-metiers-les-plus-exposes-a-l-ia_8250511.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 10:00:03 +0100",
-      "description": "Les entreprises ont-elles tendance à geler ou à renoncer à des embauches dans les métiers les plus exposés à l'Intelligence artificielle ? Sans apporter une preuve irréfutable de cause à effet, une nouvelle étude observe une chute inquiétante des offres d'emploi dans les métiers les plus automatisables.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "Comment cette année Super El Niño va semer la faim mondiale",
+      "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "date": "Sun, 22 Nov 2026 10:00:00 +0000",
+      "description": "Alors que certaines régions sont plus humides, d'autres sont confrontées à une sécheresse massive. En plus des guerres et des coupures de l'aide étrangère, le phénomène météorologique pourrait laisser des millions de personnes dans les pays vulnérables sans suffisamment manger.",
+      "source": "WIRED",
+      "category": "Technologie"
     },
     {
-      "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète.",
-      "link": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 10:00:02 +0100",
-      "description": "Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique",
-      "link": "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 09:59:23 +0100",
-      "description": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\", indique ce dimanche sur France Inter la Dr Catherine Oliveres Ghouti, membre de ce syndicat qui s'oppose au nouveau décret sur la médecine esthétique.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Accès à des unités, briefings sur la dissuasion : le ministère des Armées propose une «méthode» aux candidats à la présidentielle",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/acces-a-des-unites-briefings-sur-la-dissuasion-le-ministere-des-armees-propose-une-methode-aux-candidats-a-la-presidentielle-20261122",
-      "date": "Sun, 22 Nov 2026 09:57:35 +0100",
-      "description": "Pour Catherine Vautrin, les enjeux de défense et de sécurité méritent d’être placés au premier plan de la campagne présidentielle pour permettre de départager les candidats",
-      "source": "Le Figaro",
+      "title": "Pourquoi «tout le monde» porte les faux cils ?",
+      "link": "https://www.liberation.fr/lifestyle/mode/pourquoi-tout-le-monde-porte-les-faux-cils-20261122_G3M2RBQ36NHGVEEV775GTLBWA4/",
+      "date": "Sun, 22 Nov 2026 09:53:00 +0000",
+      "description": "Chaque dimanche, «Libé» scrute les looks de la rue pour comprendre d’où viennent les tendances du moment. Aujourd’hui, les cils artificiels pullulent à toutes les sauces, surtout chez les moins de 30 ans.",
+      "source": "Libération",
       "category": "France"
     },
     {
       "title": "Climat : la COP31 au bord de l’impasse ; le dernier texte proposé « nous ramène en arrière », dénonce la France",
       "link": "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
-      "date": "Sun, 22 Nov 2026 09:48:06 +0100",
-      "description": "Face à des négociations qui s’enlisent à Antalya, la COP31 est divisée sur la captation du carbone et l’absence d’engagements clairs sur les énergies fossiles, laissant planer l’incertitude d’un accord jusqu’au bout.",
+      "date": "Sun, 22 Nov 2026 09:48:05 +0100",
+      "description": "Face à des négociations qui s’enlisent à Antalya, la COP31 est divisée sur la captation du carbone et l’absence d’engagements clairs sur les énergies fossiles, laissant planer l’incertitude d’un accord.",
       "source": "Le Monde",
       "category": "France"
     },
     {
-      "title": "La présidence de la COP31 fait une nouvelle proposition de compromis, la France dénonce un texte qui \"nous ramène en arrière\"",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-presidence-de-la-cop31-fait-une-nouvelle-proposition-de-compromis-la-france-denonce-un-texte-qui-nous-ramene-en-arriere_8294591.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 09:27:45 +0100",
-      "description": "Le texte ne contient toujours pas d'appel explicite à sortir du charbon, du pétrole ou du gaz fossile, dont l'utilisation est la principale cause du changement climatique.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "Le champion irakien Sajad Jawad meurt quelques jours après avoir remporté la couronne asiatique",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 09:45:48 +0000",
+      "description": "Sajad Jawad est mort trois jours après avoir remporté la médaille d'or dans la catégorie 90kg aux Championnats d'Asie en Thaïlande.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
-      "title": "Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France",
-      "link": "https://www.lefigaro.fr/conjoncture/budget-pourquoi-la-regle-d-or-n-est-pas-la-solution-miracle-aux-deficits-chroniques-de-la-france-20260804",
-      "date": "Sun, 22 Nov 2026 09:22:51 +0100",
-      "description": "DÉCRYPTAGE - Remise sur la table par le candidat à la présidentielle Édouard Philippe, cette contrainte budgétaire peut être efficace, mais seulement à certaines conditions.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Des puits restaurés ramènent la vie à Hébron, ancienne ville occupée",
+      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 09:33:16 +0000",
+      "description": "La vieille ville d'Hébron est constamment assiégée par les colons israéliens et les militaires.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Photos: Les gens se rassemblent à travers la France sur les coûts de la vie, les services publics",
+      "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 09:27:48 +0000",
+      "description": "Les manifestations se sont déroulées le sixième week-end alors que des dizaines de milliers marchent sur les inégalités et les organisateurs planifient d'autres rassemblements.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Le ministre de l'éducation de Corée du Sud démissionne pour un scandale de tricherie",
@@ -512,6 +544,14 @@
       "date": "Sun, 22 Nov 2026 09:20:45 GMT",
       "description": "Choi Kyo-jin admet des mesures de dernière minute pour arrêter la tricherie assistée par l'IA pendant l'examen d'entrée à l'université a causé le chaos.",
       "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Rencontrer les travailleurs ukrainiens de l'énergie qui évitent les drones pour ramener l'électricité des gens",
+      "link": "https://news.sky.com/story/meet-the-ukrainian-energy-workers-who-dodge-drones-to-bring-peoples-electricity-back-13615168",
+      "date": "Sun, 22 Nov 2026 09:16:00 +0000",
+      "description": "\"La première chose que les gars et moi faisons est de regarder où nous pouvons nous cacher.\"",
+      "source": "Sky News",
       "category": "Monde"
     },
     {
@@ -529,6 +569,14 @@
       "description": "Le président américain Donald Trump devra alléger le blocus naval sur l'Iran s'il veut que la guerre s'effondre, explique l'analyste.",
       "source": "Al Jazeera",
       "category": "Monde"
+    },
+    {
+      "title": "Il sera bientôt trop tard pour réglementer l'utilisation d'armes autonomes, prévient la Croix-Rouge",
+      "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+      "date": "Sun, 22 Nov 2026 09:00:22 GMT",
+      "description": "Mise en garde contre le retour du génie dans la bouteille : la conférence des Nations unies n'arrive pas à s'entendre sur l'instrument de réglementation Le Comité international de la Croix-Rouge et les groupes de défense des droits ont averti qu'il sera bientôt trop tard pour remettre le génie dans la bouteille, car le développement d'armes autonomes semble dépasser les efforts de réglementation. Plus de 120 Etats membres de la Convention des Nations Unies sur certaines armes classiques ont été mis en garde.",
+      "source": "The Guardian",
+      "category": "Sciences"
     },
     {
       "title": "Chine, les pays de l'ANASE luttent pour le code de conduite de la mer de Chine méridionale",
@@ -627,30 +675,6 @@
       "category": "France"
     },
     {
-      "title": "Max Verstappen remporte le Grand Prix F1 de Las Vegas pour la troisième fois en quatre ans",
-      "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 07:48:28 +0000",
-      "description": "Le Verstappen de Red Bull a creusé profondément pour déjouer Antonelli et Russell dans une course qui a vu 35 changements de tête qui ont perdu la mâchoire.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Indonésie usine incendie tue trois, 36 disparus",
-      "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 07:46:35 +0000",
-      "description": "Au moins 15 personnes secourues, dont quatre emmenées à l'hôpital, comme les autorités disent qu'il n'est pas clair ce qui a causé l'incendie.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Wembanyama marque 50 points, sacs 19 rebonds en Spurs",
-      "link": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 07:44:37 +0000",
-      "description": "Wembanyama était tout simplement timide de son score de 52 points en carrière, dans une victoire sur Dallas le 4 novembre.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Pour David Lisnard, la primaire de la droite et du centre est un «moyen d’éliminer les macronistes»",
       "link": "https://www.liberation.fr/politique/pour-david-lisnard-la-primaire-de-la-droite-et-du-centre-est-un-moyen-deliminer-les-macronistes-20261122_WJGV3ANEVZECXAV225UMW4JK4Q/",
       "date": "Sun, 22 Nov 2026 07:29:05 +0000",
@@ -665,14 +689,6 @@
       "description": "Le gouverneur de Washington a dénoncé les arrestations faites par des officiers de l'ICE à l'aéroport de Seattle, appelant l'incident \"horrible\".",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Sans trembler face aux Pumas, le XV de France en finale d’un premier Championnat des nations qui lui sourit",
-      "link": "https://www.liberation.fr/sports/rugby/sans-trembler-face-aux-pumas-le-xv-de-france-en-finale-dun-premier-championnat-des-nations-qui-lui-sourit-20261122_4FCGKMMBZZFDXLW3UMN5NYZSOQ/",
-      "date": "Sun, 22 Nov 2026 07:21:08 +0000",
-      "description": "Laborieuse mais large vainqueure de l’Argentine, 45-17, samedi 21 novembre au Stade de France, l’équipe de Fabien Galthié s’invite dans le duel décisif d’une première compétition transcontinentale enthousiasmante, contre l’Afrique du Sud, le 29 novembre à Twickenham.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Inde: Népal PM Balendra Shah se rend à Delhi pour la première visite bilatérale",
@@ -720,15 +736,7 @@
       "date": "Sun, 22 Nov 2026 06:54:06 GMT",
       "description": "La réunion de la COP31 des Nations unies en Turquie entre dans une deuxième journée d'heures supplémentaires alors que les pays luttent pour parvenir à un accord.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "JO 2030 dans les Alpes : tout schuss dans le mur !",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/jo-2030-dans-les-alpes-tout-schuss-dans-le-mur-20261122_N2L52DQYEVEJTI6SBGRMZPSKRU/",
-      "date": "Sun, 22 Nov 2026 06:54:00 +0000",
-      "description": "Les milliards mobilisés pour les JO doivent être redéployés vers un véritable plan de bifurcation écologique des Alpes, avec des vallées vivantes, accessibles en train, et une ressource en eau protégée, prône un collectif d’associations et de personnalités civiles. Qui ne veut pas d’une montagne réduite à un parc d’attractions pour touristes fortunés.",
-      "source": "Libération",
-      "category": "France"
+      "category": "Sciences"
     },
     {
       "title": "« Très souvent, les personnes vulnérables et vieillissantes ne peuvent pas accéder aux Ehpad ni aux hébergements d’urgence » : à Nîmes, une maison pour ne plus vieillir dans la rue",
@@ -769,6 +777,14 @@
       "description": "Au moins trois personnes ont été tuées et 36 sont toujours portées disparues après un incendie dans une usine de confiserie.",
       "source": "BBC News",
       "category": "Monde"
+    },
+    {
+      "title": "Hacks, AI et théories de conspiration : pourquoi avons-nous autant de pannes ?",
+      "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+      "date": "Sun, 22 Nov 2026 06:00:19 GMT",
+      "description": "Après le chaos des compagnies aériennes, des banques et des compagnies de Microsoft à Apple, les gens sont devenus convaincus que les systèmes du monde sont attaqués Nicole Reindorf.Le vol American Airlines était prêt pour le décollage à Phoenix lorsque le pilote est venu sur l'interphone et a annoncé ce qui devait devenir le plus long arrêt d'aviation national depuis le 11 septembre . Reindorf, 70 ans, avait déjà vu les gros titres d'une panne mondiale de Microsoft. Elle soupçonnait immédiatement",
+      "source": "The Guardian",
+      "category": "Technologie"
     },
     {
       "title": "L'informatique quantique est le premier bénéfice réel peut venir dans l'énergie, pas la découverte de drogue",
@@ -819,18 +835,18 @@
       "category": "Économie"
     },
     {
-      "title": "Napoléon avertit Nvidia de Jensen Huang",
-      "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
-      "date": "Sun, 22 Nov 2026 05:00:06 GMT",
-      "description": "Une hiérarchie plate et une microgestion peuvent concentrer dangereusement le pouvoir au sommet",
+      "title": "L'Argentine les coûts d'emprunt sautent comme Milei la chute de la popularité des investisseurs",
+      "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+      "date": "Sun, 22 Nov 2026 05:00:14 GMT",
+      "description": "Les plans de financement de Libertarian et la baisse des cotes d'approbation s'amenuisent avant la réélection",
       "source": "Financial Times",
       "category": "Économie"
     },
     {
-      "title": "Le «austère» conservateur était prêt à diriger l'Espagne avec l'extrême droite",
-      "link": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+      "title": "Napoléon avertit Nvidia de Jensen Huang",
+      "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
       "date": "Sun, 22 Nov 2026 05:00:06 GMT",
-      "description": "Alberto Núñez Feijóo va devenir le prochain Premier ministre du pays — mais seulement avec le soutien du parti Vox",
+      "description": "Une hiérarchie plate et une microgestion peuvent concentrer dangereusement le pouvoir au sommet",
       "source": "Financial Times",
       "category": "Économie"
     },
@@ -849,6 +865,22 @@
       "description": "L'entreprise technique prévoit une expansion rapide face à l'opposition du public et de ses propres employés",
       "source": "Financial Times",
       "category": "Économie"
+    },
+    {
+      "title": "Il s'attendait à un prêt de petite entreprise. C'était un piège.",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+      "date": "Sun, 22 Nov 2026 05:00:00 -0500",
+      "description": "La source de financement des petites entreprises qui connaît la croissance la plus rapide en Amérique est également l'une des moins réglementées. Un homme a mené une longue et solitaire lutte pour récupérer son coût de punition.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Défi du podcast senior du NPR : les premières entrées que nous aimons",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+      "date": "Sun, 22 Nov 2026 05:00:00 -0500",
+      "description": "Les personnes de 65 ans et plus ont présenté des histoires pour une chance de gagner notre grand prix — une visite au NPR regarder votre podcast air en direct sur Weekend Edition . Il est encore temps d'entrer !",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Chine Spies set vues sur A.I. Chips ans avant Nvidia Scandal",
@@ -1120,7 +1152,7 @@
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
       "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
       "source": "The Guardian",
-      "category": "Sciences"
+      "category": "Technologie"
     },
     {
       "title": "En ce jour dans l'espace ! 21 nov. 1676: L'astronome danois découvre la vitesse de la lumière — par accident — tout en observant la lune de Jupiter Io",
@@ -1219,11 +1251,11 @@
       "category": "Monde"
     },
     {
-      "title": "Les tempêtes attendues sur les deux côtes menacent les voyages de Thanksgiving",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-      "date": "Sat, 21 Nov 2026 13:22:46 -0500",
-      "description": "Le maire de San Francisco demande aux habitants de la ville de ne pas voyager à moins d'être « absolument essentiels ». Pendant ce temps, une tempête qui remonte la côte est pourrait aussi retarder les déplacements avant Thanksgiving.",
-      "source": "NPR",
+      "title": "Zelensky dit que le pont de Crimée frappe \"juste réponse\" alors qu'il rencontre le streeting britannique",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 13:17:38 GMT",
+      "description": "Le président ukrainien dit que Kiev a agi après 109 attaques aériennes russes sur des ponts en Ukraine.",
+      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -1241,14 +1273,6 @@
       "description": "Lorsque les transporteurs d'aéronefs sont au 21 novembre 2026. The post USS Theodore Roosevelt Arrives in the Middle East, Soulagement USS George Washington est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "Le chef du cartel capturé dans le nord du Mexique dans une fusillade sanglante qui a fait 11 morts",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-      "date": "Sat, 21 Nov 2026 13:08:55 -0500",
-      "description": "Fausto Isidro Meza Flores, plus connu sous le nom de \"El Chapo Isidro\", était l'un des fugitifs les plus recherchés du FBI. Son arrestation dans le nord-ouest du Mexique samedi a déclenché la violence dans la région.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "«Petite marge d'erreur: ce qu'une société de calcul en nuage chargée de dettes dit sur le boom de l'IA",
@@ -1327,14 +1351,6 @@
       "link": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
       "date": "Sat, 21 Nov 2026 11:30:00 +0000",
       "description": "Obtenez des aspirateurs, des nettoyeurs de tapis et des dépanneurs de vapeur testés par WIRED pour une réduction de 60 %.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Meilleurs ordinateurs portables pour le voyage (2026): Qui prendre sur la route",
-      "link": "https://www.wired.com/story/best-laptops-for-travel/",
-      "date": "Sat, 21 Nov 2026 11:00:00 +0000",
-      "description": "Ayant apporté de nombreux ordinateurs portables différents lors de voyages de travail, je peux dire que ce sont les meilleurs ordinateurs portables pour voyager, basé sur mes tests personnels.",
       "source": "WIRED",
       "category": "Technologie"
     },
@@ -1467,18 +1483,18 @@
       "category": "Environnement"
     },
     {
-      "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "description": "Les stocks d'IA — et les marchés plus larges — ont été entassés cette semaine, ce qui a suscité de vives inquiétudes au sujet du système financier et de l'économie en général. Voici quoi savoir.",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
       "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "date": "Sat, 21 Nov 2026 05:00:00 -0500",
       "description": "Les critiques disent maintenant que le géant de l'IA est une entreprise publique, son engagement à mettre la sécurité avant le succès commercial sera testé.",
+      "source": "NPR",
+      "category": "Économie"
+    },
+    {
+      "title": "Le boom de l'IA a eu une très mauvaise semaine — et il soulève de fortes alarmes",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "date": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "description": "Les stocks d'IA — et les marchés plus larges — ont été entassés cette semaine, ce qui a suscité de vives inquiétudes au sujet du système financier et de l'économie en général. Voici quoi savoir.",
       "source": "NPR",
       "category": "Économie"
     },
@@ -1846,7 +1862,7 @@
       "title": "Quel est exactement l'accord entre le Royaume-Uni et l'UE?",
       "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
       "date": "Fri, 20 Nov 2026 18:19:53 GMT",
-      "description": "Les deux parties sont parvenues à des accords sur les denrées alimentaires et les boissons, l'échange de droits d'émission et le programme d'échange de jeunes Burnham a convenu que l'UE réinitialiserait la question des frais de scolarité non résolue, dit le n° 10 Après des mois de négociations, de fuites et de soirées tardives, l'UE et le Royaume-Uni ont convenu d'une déclaration de 12 pages exposant les prochaines étapes de leurs relations. Qu'ont-ils convenu exactement ? Continuez à lire...",
+      "description": "Les deux parties sont parvenues à des accords sur les denrées alimentaires et les boissons, l'échange de droits d'émission et le programme d'échange de jeunes Burnham a convenu que l'UE s'occuperait à nouveau de la question des frais de scolarité non résolue, dit le n° 10 Après des mois de négociations, de fuites et de soirées tardives, l'UE et le Royaume-Uni ont convenu d'une déclaration de 12 pages exposant les prochaines étapes de leurs relations. Que sont-ils exactement d'accord? • Cet article a été modifié le 22 novembre 2026. Une version antérieure",
       "source": "The Guardian",
       "category": "Économie"
     },
@@ -2107,14 +2123,6 @@
       "category": "Environnement"
     },
     {
-      "title": "La Californie enquête sur Nvidia pour savoir si les exportations de puces ont abouti en Chine",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "date": "Fri, 20 Nov 2026 09:18:30 GMT",
-      "description": "Selon le procureur de l'État, le scandale « soulève des drapeaux rouges vifs et vise à savoir si l'entreprise a induit des investisseurs en erreur La Californie a servi une assignation à comparaître sur Nvidia après un scandale qui a provoqué le départ de son co-fondateur et directeur de longue date Jensen Huang. Rob Bonta, le procureur général de l'État américain, a émis l'assignation à comparaître dans le cadre d'une enquête sur la question de savoir si les exportations de puces à semi-conducteurs avancées de la société californienne",
-      "source": "The Guardian",
-      "category": "Technologie"
-    },
-    {
       "title": "California communautés côtières en alerte comme les plus grandes vagues dans les années frappé l'état",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "date": "Fri, 20 Nov 2026 09:03:20 GMT",
@@ -2159,14 +2167,6 @@
       "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
       "date": "Fri, 20 Nov 2026 07:00:00 -0500",
       "description": "En une semaine de pannes, nous pensons à la menace croissante de cyberattaques à l'IA. Mais parfois, ce n'est pas l'attaque la plus sophistiquée qui concerne, mais les cibles faciles enfouies dans un vieux logiciel.",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
-      "title": "Les critiques s'inquiètent de l'influence d'Anthropic après le premier jour du commerce public",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6047539/critics-are-worried-about-anthropics-influence-after-first-day-of-public-trading",
-      "date": "Fri, 20 Nov 2026 06:37:31 -0500",
-      "description": "L'offre publique initiale d'Anthropic a été un succès pour les actionnaires, y compris ses fondateurs. Mais il y a aussi eu des protestations sur la question de savoir si l'entreprise peut être responsable de la technologie de l'IA.",
       "source": "NPR",
       "category": "Économie"
     },
