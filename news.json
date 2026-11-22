@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T08:45:11.291021+00:00",
-  "count": 288,
+  "updated_at": "2026-11-22T09:31:38.203520+00:00",
+  "count": 287,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -427,11 +427,67 @@
       "category": "Exploration"
     },
     {
+      "title": "Campagne présidentielle : un second tour le 2 mai \"n'est pas forcément judicieux\", estime le député RN Thomas Ménagé",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:07:25 +0100",
+      "description": "La CFDT et le président du Sénat, Gérard Larcher, ont appelé plus tôt dans la semaine à déplacer la date du scrutin.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "EN DIRECT - Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d’exclure les macronistes»",
       "link": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122",
-      "date": "Sun, 22 Nov 2026 09:28:02 +0100",
+      "date": "Sun, 22 Nov 2026 10:01:03 +0100",
       "description": "Le candidat de droite libérale voit dans une primaire de la droite et du centre «un moyen d’éliminer les macronistes» avant le premier tour de la présidentielle, une déclaration qui ne devrait pas faciliter la tenue de ce scrutin déjà très hypothétique.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Après l’attaque contre un porte-conteneurs russe, la Finlande craint une extension de la guerre en mer Baltique",
+      "link": "https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122",
+      "date": "Sun, 22 Nov 2026 10:00:54 +0100",
+      "description": "DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
+      "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/les-offres-d-emploi-decrochent-dans-les-metiers-les-plus-exposes-a-l-ia_8250511.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:00:03 +0100",
+      "description": "Les entreprises ont-elles tendance à geler ou à renoncer à des embauches dans les métiers les plus exposés à l'Intelligence artificielle ? Sans apporter une preuve irréfutable de cause à effet, une nouvelle étude observe une chute inquiétante des offres d'emploi dans les métiers les plus automatisables.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète.",
+      "link": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 10:00:02 +0100",
+      "description": "Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique",
+      "link": "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 09:59:23 +0100",
+      "description": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\", indique ce dimanche sur France Inter la Dr Catherine Oliveres Ghouti, membre de ce syndicat qui s'oppose au nouveau décret sur la médecine esthétique.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Accès à des unités, briefings sur la dissuasion : le ministère des Armées propose une «méthode» aux candidats à la présidentielle",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/acces-a-des-unites-briefings-sur-la-dissuasion-le-ministere-des-armees-propose-une-methode-aux-candidats-a-la-presidentielle-20261122",
+      "date": "Sun, 22 Nov 2026 09:57:35 +0100",
+      "description": "Pour Catherine Vautrin, les enjeux de défense et de sécurité méritent d’être placés au premier plan de la campagne présidentielle pour permettre de départager les candidats",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Climat : la COP31 au bord de l’impasse ; le dernier texte proposé « nous ramène en arrière », dénonce la France",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
+      "date": "Sun, 22 Nov 2026 09:48:06 +0100",
+      "description": "Face à des négociations qui s’enlisent à Antalya, la COP31 est divisée sur la captation du carbone et l’absence d’engagements clairs sur les énergies fossiles, laissant planer l’incertitude d’un accord jusqu’au bout.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -439,14 +495,6 @@
       "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-presidence-de-la-cop31-fait-une-nouvelle-proposition-de-compromis-la-france-denonce-un-texte-qui-nous-ramene-en-arriere_8294591.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 22 Nov 2026 09:27:45 +0100",
       "description": "Le texte ne contient toujours pas d'appel explicite à sortir du charbon, du pétrole ou du gaz fossile, dont l'utilisation est la principale cause du changement climatique.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Magistral, Victor Wembanyama inscrit 50 points dans le succès des Spurs et marque encore une fois l'histoire de la NBA",
-      "link": "https://www.franceinfo.fr/sports/basket/nba/magistral-victor-wembanyama-inscrit-50-points-dans-le-succes-des-spurs-et-marque-encore-une-fois-l-histoire-de-la-nba_8294594.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 09:25:38 +0100",
-      "description": "Le Français a frôlé, samedi, son record de points en carrière, établi à 52 points le 4 novembre dernier.",
       "source": "franceinfo",
       "category": "France"
     },
@@ -459,12 +507,12 @@
       "category": "France"
     },
     {
-      "title": "Présidentielle 2027 : en meeting à Toulon, Éric Zemmour cherche un élan en «candidat de la liberté»",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-meeting-a-toulon-eric-zemmour-cherche-un-elan-en-candidat-de-la-liberte-20261121",
-      "date": "Sun, 22 Nov 2026 09:17:26 +0100",
-      "description": "REPORTAGE - Loin des liesses de 2022, Éric Zemmour, de nouveau en course pour l’Élysée, a posé des bases programmatiques plus larges que le seul thème de l’immigration, tout en défendant une primaire «de droite».",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Le ministre de l'éducation de Corée du Sud démissionne pour un scandale de tricherie",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 09:20:45 GMT",
+      "description": "Choi Kyo-jin admet des mesures de dernière minute pour arrêter la tricherie assistée par l'IA pendant l'examen d'entrée à l'université a causé le chaos.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
@@ -473,6 +521,22 @@
       "description": "Selon la Tribune Dimanche, le président de la République envisagerait de s’appuyer sur un projet de loi constitutionnelle voté dans les mêmes termes en 2011 par les deux chambres, à l’initiative du gouvernement de François Fillon",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "«La stratégie de sortie peut dépendre de la levée silencieuse du blocus iranien»",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 09:06:27 +0000",
+      "description": "Le président américain Donald Trump devra alléger le blocus naval sur l'Iran s'il veut que la guerre s'effondre, explique l'analyste.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Chine, les pays de l'ANASE luttent pour le code de conduite de la mer de Chine méridionale",
+      "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 22 Nov 2026 08:45:00 GMT",
+      "description": "Les Philippines voulaient un code de conduite pour la mer de Chine méridionale en 2026. Mais les désaccords persistants entre la Chine et les pays de l'ANASE ralentissent les progrès vers un accord.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Inspiré par Bernie Sanders: Une agence allemande utilise la campagne US-Style pour booster la gauche en 2029",
@@ -505,14 +569,6 @@
       "description": "L'Indien Gukesh défend son titre contre l'Ouzbékistan Sindarov en 14 matchs à Genève le 22 novembre.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Campagne présidentielle : la secrétaire générale de la CFDT, Marylise Léon, appelle à changer la date pour éviter un second tour le 2 mai",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 08:10:51 +0100",
-      "description": "\"Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la fête des Travailleurs\", plaide la responsable.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Allemagne: le syndicat IG Metall appelle à une nouvelle grève de 24 heures",
@@ -555,7 +611,7 @@
       "category": "Monde"
     },
     {
-      "title": "L’Ain et le Jura en vigilance orange pluies-inondations ce dimanche, le Pas-de-Calais toujours en alerte aux crues",
+      "title": "L’Ain et le Jura en vigilance orange pluies-inondations ce dimanche, timide décrue dans le Pas-de-Calais",
       "link": "https://www.liberation.fr/societe/lain-et-le-jura-en-vigilance-orange-pluies-inondations-ce-dimanche-le-pas-de-calais-toujours-en-alerte-aux-crues-20261122_6QGNPQ7OBNDKVJ2IXG4JKZR5BA/",
       "date": "Sun, 22 Nov 2026 07:54:12 +0000",
       "description": "Jusqu’à 100 mm de pluies devraient tomber par endroits à partir de l’après-midi et dans la soirée. Dans les Hauts-de-France, les niveaux de la Canche se stabilisent».",
@@ -603,14 +659,6 @@
       "category": "France"
     },
     {
-      "title": "Après le Jura, le département de l'Ain à son tour placé en vigilance orange pluie-inondations, le Pas-de-Calais maintenu en alerte orange aux crues",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 07:28:43 +0100",
-      "description": "\"Une nouvelle perturbation traverse le pays avec un blocage des pluies sur les massifs de l'Est\", précise Météo-France dimanche.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "États-Unis: L'ICE arrête 2 à l'aéroport de Seattle dans des scènes «chérissantes» — gouverneur",
       "link": "https://www.dw.com/en/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-governor/a-80012480?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 22 Nov 2026 07:27:00 GMT",
@@ -643,20 +691,12 @@
       "category": "France"
     },
     {
-      "title": "\"Au début, on ne sait pas ce qu'est ce virus\" : l'affaire du sang contaminé ou la lente prise de conscience de la dangerosité du sida",
-      "link": "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 07:15:27 +0100",
-      "description": "\"La Tragédie du sang contaminé\", série documentaire en trois volets, diffusée dimanche soir sur France 5, nous replonge dans la douloureuse affaire du sang contaminé. Des milliers de personnes ont été infectées par le VIH dans les années 1980.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Le bijoutier et homme d'affaires italien Paolo Bulgari décède à 89 ans",
       "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 22 Nov 2026 07:12:41 GMT",
       "description": "Dans une déclaration aux médias italiens, sa famille se souvient de lui comme « le plus grand bijoutier de notre temps ».",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Monde"
     },
     {
       "title": "Au Liban du Sud, la guerre n'a jamais cessé à Tyr, une ville qui survit plus qu'elle ne vit",
@@ -665,14 +705,6 @@
       "description": "Sous le vrombissement des drones israéliens, la ville de Tyr tente de renouer avec une vie normale, entre commerces désertés, port au ralenti et patrimoine privé de touristes. Malgré le retour d’une partie de ses habitants et les efforts des autorités locales, la reconstruction tarde et la menace des frappes reste omniprésente. Dans l’antique cité phénicienne, le fracas de la guerre reste omniprésent.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Pourquoi le président somalien s'est retourné contre son ancien allié, les EAU",
-      "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 06:59:59 +0000",
-      "description": "Derrière la rupture de la Somalie avec les Émirats arabes unis se trouve une lutte de pouvoir interne avec les dirigeants régionaux proches d'Abou Dhabi.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Comédien taïwanais ciblé pour Mocking Xi Jinping est le dessin des foules de vendeurs",
@@ -699,11 +731,43 @@
       "category": "France"
     },
     {
+      "title": "« Très souvent, les personnes vulnérables et vieillissantes ne peuvent pas accéder aux Ehpad ni aux hébergements d’urgence » : à Nîmes, une maison pour ne plus vieillir dans la rue",
+      "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/22/tres-souvent-les-personnes-vulnerables-et-vieillissantes-ne-peuvent-pas-acceder-aux-ehpad-ni-aux-hebergements-d-urgence-a-nimes-une-maison-pour-ne-plus-vieillir-dans-la-rue_6814188_4500055.html",
+      "date": "Sun, 22 Nov 2026 06:30:24 +0100",
+      "description": "Il y a un an, la première demeure destinée à accueillir les sans-abri âgés de plus de 50 ans ouvrait au cœur de la ville du Gard. Sa mission : offrir un toit et un accompagnement adapté à une population souvent exclue des autres dispositifs d’hébergement.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Le « racisme anti-Blancs », matrice à fantasmes utilisée par l’extrême droite",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html",
+      "date": "Sun, 22 Nov 2026 06:30:18 +0100",
+      "description": "Dans une tentative d’inverser les rapports de domination, une partie de l’extrême droite française veut populariser ce concept né chez les identitaires dans les années 1970.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Comme aux Etats-Unis, les victimes françaises d’accidents de la route sont de plus en plus courtisées par les avocats",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/22/comme-aux-etats-unis-les-victimes-francaises-d-accidents-de-la-route-sont-de-plus-en-plus-courtisees-par-les-avocats_6814181_3234.html",
+      "date": "Sun, 22 Nov 2026 06:20:07 +0100",
+      "description": "En France, l’indemnisation des accidentés de la route coûte trois fois plus cher qu’il y a vingt ans. Les victimes y gagnent, mais les assureurs dénoncent une judiciarisation malsaine.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Des dizaines de personnes disparues comme un incendie mortel frappent l'usine indonésienne de bonbons",
       "link": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 22 Nov 2026 06:14:00 GMT",
       "description": "Un incendie dans une usine de confiserie de la province indonésienne de Banten a tué au moins trois personnes. Des dizaines de personnes sont également portées disparues après le feu, qui a détruit de grandes parties de l'installation.",
       "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Trois morts et des dizaines de disparus après le feu à l'usine indonésienne",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 06:05:00 GMT",
+      "description": "Au moins trois personnes ont été tuées et 36 sont toujours portées disparues après un incendie dans une usine de confiserie.",
+      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -729,22 +793,6 @@
       "description": "« Le Monde » a recueilli les témoignages de dizaines de parents d’élèves de lycées mobilisés depuis deux mois. Pro ou antiblocage racontent leurs inquiétudes pour la scolarité de leurs enfants ou face aux risques de violences, mais aussi leur fierté de voir une génération se mobiliser pour son avenir.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
-      "link": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
-      "date": "Sun, 22 Nov 2026 05:50:09 +0100",
-      "description": "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le fardeau des dégâts sanitaires se monte à 1 000 milliards d’euros par an, relève, dans sa chronique, Stéphane Foucart, journaliste au « Monde ».",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "COP31: Les combustibles fossiles manquent encore dans le projet d'accord lors du sommet des Nations unies sur le climat",
-      "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 22 Nov 2026 05:50:00 GMT",
-      "description": "Le sommet sur le climat en est à sa deuxième journée d'heures supplémentaires, malgré des semaines de négociations. Les nations se penchent maintenant sur un nouveau projet de texte qui ne mentionne toujours pas les combustibles fossiles, la principale cause du réchauffement climatique. DW en a plus.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "COP31: une nuit de négociations, un nouveau texte, mais toujours pas de mention des énergies fossiles",
@@ -819,14 +867,6 @@
       "category": "Monde"
     },
     {
-      "title": "Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale",
-      "link": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
-      "date": "Sun, 22 Nov 2026 02:42:54 +0100",
-      "description": "Les joueurs de Fabien Galthié ont souffert avant de surclasser (45-17) les Pumas, samedi, au Stade de France. Deux semaines après les avoir battus, les Bleus affronteront les Sud-Africains en finale de la compétition, dimanche 29 novembre, à Londres.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Drones, textes et détournements : comment le Mexique a capturé un homme le plus recherché",
       "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
       "date": "Sun, 22 Nov 2026 01:56:16 +0000",
@@ -881,14 +921,6 @@
       "description": "Chaque utilisateur d'Android devrait savoir quoi éviter afin qu'ils ne font pas d'erreurs qui raccourcissent la vie utile de leur téléphone.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Le FBI aurait enquêté sur un hack apparent de sa base de données criminelle",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 00:10:44 GMT",
-      "description": "La base de données du Centre national d'information sur la criminalité est utilisée par les services de détection et de répression fédéraux et locaux pour échanger des informations.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "On demande aux employeurs de donner leur avis sur les entrevues - voici ce que les candidats veulent",
@@ -1011,36 +1043,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Primaire : la date du prochain rendez-vous entre les camps Attal, Retailleau et Lisnard a été fixée",
-      "link": "https://www.lefigaro.fr/politique/primaire-la-date-du-prochain-rendez-vous-entre-les-camps-attal-retailleau-et-lisnard-a-ete-fixee-20261121",
-      "date": "Sat, 21 Nov 2026 18:25:09 +0100",
-      "description": "INFO LE FIGARO - Après un premier rendez-vous, et l’esquisse de convergences, les représentants des candidats à l’élection présidentielle poursuivent leurs discussions.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
-      "date": "Sat, 21 Nov 2026 18:13:30 +0100",
-      "description": "Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » face à un Rassemblement national « aux portes du pouvoir ».",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Malgré la note de Hegseth, le Canada n'a pas vu de changements dans les relations de défense avec les États-Unis, dit DefMin",
       "link": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
       "date": "Sat, 21 Nov 2026 18:06:38 +0000",
       "description": "Le porte-parole en chef du Pentagone, Sean Parnell, a déclaré à Breaking Defense que le Ministère prenait des mesures pour s'assurer que ses engagements avec le Canada font progresser des objectifs de défense américains tangibles et, en fin de compte, soutiennent une relation de défense revigorée.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït",
-      "link": "https://www.lemonde.fr/intimites/article/2026/11/21/faire-l-amour-en-se-faisant-la-guerre-comment-les-adeptes-du-hate-sex-lient-colere-et-coit_6814049_6190330.html",
-      "date": "Sat, 21 Nov 2026 18:00:07 +0100",
-      "description": "« Nos émotions : la colère ». Une sexualité épanouie, synonyme de complicité avec son ou sa partenaire, semble a priori incompatible avec la colère, qui rend agressif et égoïste. Et pourtant… livres et films témoignent qu’il existe bel et bien des amateurs de « sexe enragé ».",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Trump ordonne aux entrepreneurs fédéraux de vérifier auprès de la Maison Blanche avant de répondre au Congrès",
@@ -1112,7 +1120,7 @@
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
       "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
       "source": "The Guardian",
-      "category": "Technologie"
+      "category": "Sciences"
     },
     {
       "title": "En ce jour dans l'espace ! 21 nov. 1676: L'astronome danois découvre la vitesse de la lumière — par accident — tout en observant la lune de Jupiter Io",
@@ -1216,14 +1224,6 @@
       "date": "Sat, 21 Nov 2026 13:22:46 -0500",
       "description": "Le maire de San Francisco demande aux habitants de la ville de ne pas voyager à moins d'être « absolument essentiels ». Pendant ce temps, une tempête qui remonte la côte est pourrait aussi retarder les déplacements avant Thanksgiving.",
       "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Zelensky dit que le pont de Crimée frappe \"juste réponse\" alors qu'il rencontre le streeting britannique",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 13:17:38 GMT",
-      "description": "Le président ukrainien dit que Kiev a agi après 109 attaques aériennes russes sur des ponts en Ukraine.",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -1353,14 +1353,6 @@
       "description": "À court terme, l'exploration humaine de la Lune et de Mars semble pratique, mais pour les 50 prochaines années au moins, l'exploration robotique peut être la plus rentable et la plus efficace. L'exploration humaine exige un rendement impératif du capital.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Le Danemark accuse la Russie de complot pour assassiner le rappeur Ukrainien",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 10:26:36 GMT",
-      "description": "L'ambassade de Russie au Danemark a nié cette allégation, ce qui a conduit à l'expulsion de l'attaché de défense russe.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "L'IA peut ne pas fonctionner comme le cerveau humain après tout, les scientifiques découvrent",
