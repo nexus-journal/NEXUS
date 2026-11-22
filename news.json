@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:29:45.289346+00:00",
+  "updated_at": "2026-11-22T21:16:41.575207+00:00",
   "count": 282,
   "articles": [
     {
@@ -89,14 +89,6 @@
       "description": "Le 30 septembre, la planète rouge commence officiellement l'année 39 de Mars. Ce qui est une réussite pour un monde qui a en fait plus de 4,5 milliards d'années.",
       "source": "Astronomy Now",
       "category": "Exploration"
-    },
-    {
-      "title": "Pourquoi les startups deviennent-elles toujours publiques,",
-      "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
-      "date": "Tue, 17 Nov 2026 18:38:26 +0000",
-      "description": "La réglementation des coûts n'est pas très dissuasive pour les offices de propriété intellectuelle",
-      "source": "The Economist",
-      "category": "Économie"
     },
     {
       "title": "Comment l'IA pousse les satellites à évoluer",
@@ -373,7 +365,7 @@
     {
       "title": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
       "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122",
-      "date": "Sun, 22 Nov 2026 21:26:52 +0100",
+      "date": "Sun, 22 Nov 2026 21:34:01 +0100",
       "description": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le candidat Nouvelle Énergie à l’Élysée, porté par sa percée dans les sondages, pose ses conditions à une primaire.",
       "source": "Le Figaro",
       "category": "France"
@@ -385,6 +377,30 @@
       "description": "De nouvelles alertes inondations ont été émises pour l'Ain et le Jura, tandis que la Corse est également sur ses gardes en raison de vents violents accompagnés de fortes précipitations. Du côté du Pas-de-Calais, la situation n'est toujours pas stabilisée, dimanche 22 novembre, alors que 850 logements ont été inondés. La répétition de ces épisodes pousse les habitants à s'interroger : seront-ils un jour forcés de quitter leurs habitations ?",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Le chef scientifique d'OpenAI-S a des réflexions sur la façon de limiter le développement de l'IA",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "date": "Sun, 22 Nov 2026 21:14:07 +0000",
+      "description": "Pour établir une limite de vitesse sur le développement de l'IA, vous devez vous entendre sur la façon de mesurer la vitesse.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les meilleures applications pour se faire de nouveaux amis en ce moment",
+      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "date": "Sun, 22 Nov 2026 21:00:00 +0000",
+      "description": "Nous avons compilé une liste d'applications d'amitié, des plates-formes de découverte amis comme BFF à celles axées sur les événements comme Timeleft.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Votre mot de passe est-il sécurisé? Voici comment le tester",
+      "link": "https://www.engadget.com/2319522/how-secure-is-password/",
+      "date": "Sun, 22 Nov 2026 21:00:00 +0000",
+      "description": "Découvrez quelles habitudes communes de mot de passe laissent vos comptes exposés, des modèles de clavier aux connexions réutilisées, et ce qu'un mot de passe vraiment sécurisé doit inclure.",
+      "source": "Engadget",
+      "category": "Technologie"
     },
     {
       "title": "Tenir le deuxième tour de la présidentielle \"au lendemain d'un 1er mai est une erreur\", estime Raphaël Glucksmann, qui demande d'avancer le scrutin",
@@ -403,12 +419,68 @@
       "category": "France"
     },
     {
+      "title": "Ces paramètres iOS vous aideront à contrôler votre utilisation de données mobiles",
+      "link": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+      "date": "Sun, 22 Nov 2026 20:45:00 +0000",
+      "description": "Garder votre utilisation des données mobiles sous contrôle est généralement une bonne idée, doublement donc si vous êtes sur un plan restrictif, et iOS offre quelques façons de le faire.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
       "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 22 Nov 2026 20:43:53 +0100",
       "description": "La Finlande a dû alerter l'Otan après deux incidents qualifiés de graves, samedi 21 novembre. Il faut ajouter à cela une alerte aérienne sur la principale base navale russe dans l'enclave de Kaliningrad. La Finlande, qui partage 1 340 kilomètres de frontières avec la Russie, est la cible récurrente d'opérations hybrides de Moscou.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Diffusion de caricatures, propos racistes et salut nazi : le patron de la police saisit la justice dans une école de police",
+      "link": "https://www.lefigaro.fr/actualite-france/diffusion-de-caricatures-propos-racistes-et-salut-nazi-le-patron-de-la-police-saisit-la-justice-dans-une-ecole-de-police-20261122",
+      "date": "Sun, 22 Nov 2026 20:42:38 +0100",
+      "description": "Des échanges inappropriés dans des boucles privées entre des élèves de la 31e promotion de l’ENSP de Cannes-Écluse, dont la plupart seront diplômés début 2027, sont désormais entre les mains de la justice. À ce stade, un élève a été suspendu.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261122-isra%C3%ABl-pas-d-avanc%C3%A9e-entre-les-partis-d-eisenkot-et-de-netanyahu-pour-la-formation-d-un-gouvernement",
+      "date": "Sun, 22 Nov 2026 20:34:07 GMT",
+      "description": "En Israël, c’est toujours l’impasse politique. Plus de quatre heures de négociations aujourd’hui à Herzliya entre le Likoud de Benyamin Netanyahu et le parti Yashar de Gadi Eisenkot et toujours aucun accord sur la formation d’un gouvernement d’unité. Les lignes rouges restent infranchissables, sur fond d’invectives entre les deux camps.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Caroline Toby : \"sans vidéosurveillance, Michel Zecler aurait été victime d'une erreur judiciaire\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261122-caroline-toby-sans-vid%C3%A9osurveillance-michel-zecler-aurait-%C3%A9t%C3%A9-victime-d-une-erreur-judiciaire",
+      "date": "Sun, 22 Nov 2026 20:30:18 GMT",
+      "description": "Le producteur Michel Zecler avait été passé à tabac en 2020 par trois policiers dans l'entrée de son studio d'enregistrement à Paris. Les policiers avaient établi un faux procès-verbal l'accusant de violences; or les images de vidéosurveillance avaient invalidé leur version. Les policiers viennent d'être condamnés à de la prison ferme, avec interdiction d'exercer leur métier. Le caractère raciste de ces violences a aussi été reconnu. Interview de Caroline Toby, avocate de Michel Zecler.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Ce que signifie l'icône de clé minuscule sur votre appareil Android",
+      "link": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+      "date": "Sun, 22 Nov 2026 20:30:00 +0000",
+      "description": "Certaines icônes de barre d'état Android sont assez explicites, mais d'autres ne sont pas tout à fait aussi clair-coup. Cette petite icône clé en est un parfait exemple.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Jean-Pierre Robin : «Les Français n’ont toujours pas compris le fonctionnement de la retraite par répartition»",
+      "link": "https://www.lefigaro.fr/social/jean-pierre-robin-les-francais-n-ont-toujours-pas-compris-le-fonctionnement-de-la-retraite-par-repartition-20261122",
+      "date": "Sun, 22 Nov 2026 20:29:08 +0100",
+      "description": "CHRONIQUE - La première erreur est d’imaginer qu’il y aurait 6,4 salariés cotisants pour 1 retraité, alors qu’en réalité le ratio est de 1,8 cotisant pour 1 pensionné.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "L'incendie éclate dans les hotspots touristiques populaires à Zanzibar",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 20:29:01 +0000",
+      "description": "Un incendie a déchiré six hôtels et des dizaines de boutiques à Nungwi, un hotspot touristique populaire à Zanzibar.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Explosion à bord d'un navire russe au port de Libye causée par une attaque présumée de drone, disent les responsables",
@@ -427,14 +499,6 @@
       "category": "Sciences"
     },
     {
-      "title": "« Tout le monde chez nous n’est pas de gauche » : quand le vote RN progresse chez les personnes LGBT",
-      "link": "https://www.lefigaro.fr/actualite-france/tout-le-monde-chez-nous-n-est-pas-de-gauche-quand-le-vote-rn-progresse-chez-les-personnes-lgbt-20261122",
-      "date": "Sun, 22 Nov 2026 20:18:33 +0100",
-      "description": "ENQUÊTE - En se présentant comme le protecteur des minorités sexuelles face aux agressions homophobes, le parti de Marine Le Pen dépasse LFI dans les intentions de vote chez les LGBT.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Vous n'avez pas besoin d'un téléphone pliable pour utiliser l'écran partagé sur Android",
       "link": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
       "date": "Sun, 22 Nov 2026 20:15:00 +0000",
@@ -449,6 +513,14 @@
       "description": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffement sont en cause.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Liverpool 4-0 Manchester United: Cinq clés à emporter pour Pochettino",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 20:04:12 +0000",
+      "description": "United subit leur pire résultat sous un nouveau manager en 100 ans comme croisière de Liverpool devant le côté de Mauricio Pochettino.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Tennis: Carlos Alcaraz domine Alexander Zverev et remporte son premier Masters ATP",
@@ -507,11 +579,27 @@
       "category": "Technologie"
     },
     {
+      "title": "Combien d'air peut-il en sortir ?",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+      "date": "Sun, 22 Nov 2026 19:44:21 +0000",
+      "description": "Les marchés sont troublés — pour de bonnes raisons",
+      "source": "The Economist",
+      "category": "Économie"
+    },
+    {
       "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
       "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
       "date": "Sun, 22 Nov 2026 19:43:43 +0100",
       "description": "Dans un communiqué, le gouvernement basé à Benghazi a annoncé « qu’il est probable qu’il ait été visé par une attaque de drones », et que « le navire était en route pour la Russie et que son escale avait pour but de se ravitailler en carburant et en vivres ».",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "La règle d’or peut-elle vraiment contraindre la France à sortir de la spirale infernale de la dette ?",
+      "link": "https://www.lefigaro.fr/conjoncture/la-regle-d-or-peut-elle-vraiment-contraindre-la-france-a-sortir-de-la-spirale-infernale-de-la-dette-20261122",
+      "date": "Sun, 22 Nov 2026 19:40:24 +0100",
+      "description": "DÉCRYPTAGE - Ce mécanisme, plébiscité par plusieurs candidats à l’élection présidentielle, interdirait aux parlementaires de voter une loi de finances dépassant un certain niveau de déficit public.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -523,28 +611,12 @@
       "category": "Monde"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»",
-      "link": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122",
-      "date": "Sun, 22 Nov 2026 19:33:03 +0100",
-      "description": "Le maire de Cannes dit combattre «depuis toujours le social-étatisme», dont Marine Le Pen serait, selon lui, «une version».",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Sur la Chine, Trump est-il en faveur de la sécurité nationale américaine ?",
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
       "date": "Sun, 22 Nov 2026 19:30:00 +0000",
       "description": "En Chine, les États-Unis sont déchirés entre les craintes de l'établissement de la sécurité nationale et la perspective d'un commerce élargi.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Combien de temps un nouveau Fitbit est censé durer ?",
-      "link": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support/",
-      "date": "Sun, 22 Nov 2026 19:30:00 +0000",
-      "description": "La longévité Fitbit est triple. Vous aurez besoin de considérer la durabilité du traqueur de fitness, la durée de vie de la batterie, et combien de temps il recevra le soutien logiciel.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Les retards dans les vols Delta ajoutent aux préoccupations concernant les systèmes de transport aérien américains",
@@ -579,14 +651,6 @@
       "category": "Monde"
     },
     {
-      "title": "C'est là qu'un Raspberry Pi 5 pourrait être considéré comme un surpeuplement",
-      "link": "https://www.engadget.com/2319480/when-raspberry-pi-5-considered-overkill/",
-      "date": "Sun, 22 Nov 2026 19:15:00 +0000",
-      "description": "Des serveurs domestiques aux gadgets DIY, les cartes Raspberry Pi peuvent gérer d'innombrables tâches, bien que la puissance du nouveau Pi 5 ne soit pas toujours la seule option.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "65 ans de vol spatial humain à la NASA Johnson",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
       "date": "Sun, 22 Nov 2026 19:13:25 +0000",
@@ -603,14 +667,6 @@
       "category": "France"
     },
     {
-      "title": "«Horrifice et refroidissement»: Les responsables condamnent les arrestations d'ICE à l'aéroport de Seattle",
-      "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 19:10:00 +0000",
-      "description": "La vidéo montre des agents d'immigration masqués qui détiennent de force deux personnes à l'aéroport de Seattle, ce qui soulève des inquiétudes au sujet des tactiques.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Bessent refuse d'exclure Huangs retour à Nvidia",
       "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
       "date": "Sun, 22 Nov 2026 19:08:31 GMT",
@@ -619,26 +675,10 @@
       "category": "Économie"
     },
     {
-      "title": "L’éditorial de Vincent Trémolet de Villers : « La dynamique David Lisnard, bulle ou réalité ? »",
-      "link": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-la-dynamique-david-lisnard-bulle-ou-realite-20261122",
-      "date": "Sun, 22 Nov 2026 19:00:58 +0100",
-      "description": "Tout est possible dans cette campagne chamboule-tout, mais, aujourd’hui, le « moment Lisnard » est tout sauf un artifice médiatique ou numérique.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "5 paramètres Apple Watch qui peuvent vous aider à sauver sa vie de batterie",
-      "link": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
-      "date": "Sun, 22 Nov 2026 19:00:00 +0000",
-      "description": "En abandonnant certaines fonctionnalités de l'Apple Watch, vous pouvez utiliser ses fonctions de base beaucoup plus longtemps avant d'avoir besoin d'une charge.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Quelle est la suite après aucun accord lors des discussions sur le climat COP31?",
       "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 22 Nov 2026 18:57:24 GMT",
-      "description": "Le sommet sur le climat de la COP31 en Turquie a officiellement pris fin après que les pays n'ont pas conclu un accord.",
+      "description": "Les négociations ont été les plus longues de l'histoire du sommet, et les négociations se sont effondrées deux jours après leur fin.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -664,14 +704,6 @@
       "date": "Sun, 22 Nov 2026 18:50:56 GMT",
       "description": "Personne n'a revendiqué la responsabilité de la frappe sur le navire, qui avait accosté sur son chemin vers la Russie Un drone ukrainien présumé attaque a causé une explosion sur un navire de guerre russe accosté à la base navale de la ville portuaire libyenne de Benghazi, des responsables libyens ont déclaré. La frappe a gravement endommagé le Merkury, un navire de guerre de la marine russe, et a allumé un incendie à la base navale, ont-ils dit. Plusieurs drones de mer ukrainiens ont été lancés sur le navire à partir d'un",
       "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
-      "title": "Liverpool thrash 10-man Man United en cauchemar commence pour Pochettino",
-      "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 18:44:24 +0000",
-      "description": "La carte rouge de Leny Yoro pour Manchester United après seulement huit minutes a ouvert la voie à une défaite de 4-0 football à Anfield.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -712,6 +744,14 @@
       "date": "Sun, 22 Nov 2026 18:17:00 +0000",
       "description": "Le 23 octobre, à Trappes, l’homme de 26 ans était tué dans un attentat raciste. Ritsia et Tiffany Brou, qui racontent n’avoir pas vécu de discriminations par le passé, partagent leur sidération et leur volonté d’entretenir la mémoire de leur frère.",
       "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Budget : Emmanuel Macron envisagerait un Congrès sur la règle d’or, droite et RN sont favorables mais critiques",
+      "link": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122",
+      "date": "Sun, 22 Nov 2026 18:12:47 +0100",
+      "description": "Le président songerait à réunir députés et sénateurs en janvier, en s’appuyant sur un projet de loi constitutionnelle adopté par l’Assemblée et le Sénat en 2011, mais jamais soumis au vote final.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -995,14 +1035,6 @@
       "category": "Monde"
     },
     {
-      "title": "Climat: la COP31 s'achève officiellement sans être parvenue à un accord",
-      "link": "https://www.rfi.fr/fr/environnement/20261122-cop31-faute-de-consensus-la-pr%C3%A9sidence-turque-annonce-le-rejet-de-la-proposition-d-accord-final",
-      "date": "Sun, 22 Nov 2026 12:10:22 GMT",
-      "description": "La COP31, la plus longue conférence de l'ONU sur le climat de l'histoire après deux semaines de négociations et plus de 49 heures de prolongation, s'est terminée officiellement dimanche 22 novembre sans que les pays ne parviennent à se mettre d'accord sur une décision finale.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Les médicaments GLP-1 pourraient avoir un bénéfice environnemental étonnamment important",
       "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
       "date": "Sun, 22 Nov 2026 12:07:41 +0000",
@@ -1129,14 +1161,6 @@
       "description": "Des réactions chimiques importantes sur le plan biologique ont persisté dans le sol stérilisé pendant six ans, donnant ainsi des indices sur la façon dont la vie sur Terre a pu commencer.",
       "source": "WIRED",
       "category": "Technologie"
-    },
-    {
-      "title": "Pensez-vous que la primaire de la droite et du centre aura lieu ?",
-      "link": "https://www.lefigaro.fr/politique/pensez-vous-que-la-primaire-de-la-droite-et-du-centre-aura-lieu-20261122",
-      "date": "Sun, 22 Nov 2026 10:28:33 +0100",
-      "description": "",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Comment cette année Super El Niño va semer la faim mondiale",
@@ -1337,22 +1361,6 @@
       "description": "D'après les services d'urgence, au moins 24 personnes sont mortes après qu'un bateau a chaviré en transportant des personnes à des funérailles au Nigéria.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "Une histoire de deux Nvidias",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "date": "Sat, 21 Nov 2026 21:07:42 +0000",
-      "description": "Nous avons deux photos très différentes de Nvidia — le dernier rapport sur les gains de l'entreprise contre les dirigeants de la technologie appelant fort pour le retour Jensen Huang.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Trump dit que la base de données du FBI hack est \"pas bon\"",
-      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "date": "Sat, 21 Nov 2026 18:44:53 +0000",
-      "description": "Le FBI enquête sur un piratage du Centre national d'information sur la criminalité.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Malgré la note de Hegseth, le Canada n'a pas vu de changements dans les relations de défense avec les États-Unis, dit DefMin",
@@ -1761,14 +1769,6 @@
       "description": "La recherche Google facilite encore l'accès aux outils d'IA sur la page de recherche.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
-      "link": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
-      "date": "Fri, 20 Nov 2026 21:54:13 GMT",
-      "description": "Les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020 ont été condamnés à des peines de un à deux ans de prison ferme. L'accusation avait de son côté requis, jeudi, entre quatre et six ans de prison ferme.",
-      "source": "France 24",
-      "category": "France"
     },
     {
       "title": "Nasdaq efface tous les gains de 2026 comme AI vend-off amortit Anthropics deuxième jour de trading",
