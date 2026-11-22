@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#080e18">
-<meta name="description" content="NEXUS Intelligence V14 FX Studio — centre personnel de veille et d'information.">
+<meta name="description" content="NEXUS V15 — World Intelligence Engine, centre personnel de veille et d'analyse.">
 <link rel="manifest" href="./manifest.json">
-<title>NEXUS Intelligence V14 FX Studio</title>
+<title>NEXUS V15 — World Intelligence Engine</title>
 <style>:root{--bg:#080e18;--panel:#101b2b;--panel2:#16263a;--line:#263c55;--text:#edf5ff;--muted:#8fa4bb;--blue:#43d9ff;--green:#48dfb0;--amber:#f2bd62;--red:#ff7777}
 *{box-sizing:border-box}
-body{margin:0;background:radial-gradient(ellipse at top,#142b43 0%,#080e18 60%);color:var(--text);font-family:Arial,sans-serif}
-header{padding:17px;background:#080e18;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1000}
+body{margin:0;color:var(--text);font-family:Arial,sans-serif}
+header{padding:17px;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1000}
 .top{display:flex;justify-content:space-between;align-items:center;gap:10px}
 .logo{font-size:calc(29px * var(--font-scale,1));font-weight:900;letter-spacing:6px}
 .logo span{color:var(--blue)}
@@ -25,7 +25,7 @@ h3{line-height:1.4}
 .subtitle{color:var(--muted);font-size:calc(13px * var(--font-scale,1));line-height:1.7}
 .date,.label,.tag{color:var(--blue);font-size:calc(10px * var(--font-scale,1));letter-spacing:1.5px}
 .label,.tag{font-weight:bold}
-.panel{background:linear-gradient(135deg,#183653,#101b2b 75%);border:1px solid #315778;border-radius:16px;padding:18px;margin-top:18px}
+.panel{background:linear-gradient(135deg,#183653,#101b2b 75%);border:1px solid #315778;padding:18px;margin-top:18px}
 .panel p,.info p{color:#bdcddd;font-size:calc(12px * var(--font-scale,1));line-height:1.7}
 .stats,.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:14px}
 .stat,.info,.article,.watch-dashboard{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:15px;margin:12px 0}
@@ -141,10 +141,8 @@ a{color:var(--blue);text-decoration:none}
 nav{left:0;right:0;transform:none;width:100%;border-left:0;border-right:0;border-bottom:0;border-radius:0}
 }
 @media (max-width:360px){.logo{font-size:calc(24px * var(--font-scale,1));letter-spacing:4px}
-.header-action{width:34px;height:34px}
 nav button{font-size:calc(8px * var(--font-scale,1));padding-left:1px;padding-right:1px}
 nav button b{font-size:calc(17px * var(--font-scale,1))}
-.nav-label{font-size:calc(8px * var(--font-scale,1))}
 }
 @media (min-width:650px){main{padding-left:24px;padding-right:24px}
 .grid.regions{grid-template-columns:repeat(3,minmax(0,1fr))}
@@ -182,11 +180,9 @@ to{opacity:1;transform:translateY(0)}
 .header-actions{gap:5px}
 .header-action{width:34px;height:34px}
 }
-@media (prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}
-}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
-:root{--glow-strength:.34;--panel-alpha:1;--ambient-opacity:.16;--card-radius:14px;--bg-top:#142b43;--bg-base:#080e18}
+:root{--glow-strength:.34;--ambient-opacity:.16;--card-radius:14px;--bg-top:#142b43;--bg-base:#080e18}
 body{background:radial-gradient(ellipse at 50% -12%,var(--bg-top) 0%,var(--bg-base) 64%);background-attachment:fixed}
 .panel,.stat,.info,.article,.watch-dashboard,.dossier,.region,.map-panel{border-radius:var(--card-radius);box-shadow:0 5px 20px #00000012}
 .panel{box-shadow:0 8px 26px #0002,0 0 18px #43d9ff10}
@@ -281,7 +277,8 @@ footer{position:relative;z-index:2}
 radial-gradient(ellipse at 52% 88%,color-mix(in srgb,var(--fx-c3) 28%,transparent) 0%,transparent 43%);animation:nexusAuroraDrift var(--fx-aurora-duration) ease-in-out infinite alternate}
 .fx-nebula{opacity:calc(var(--fx-atmosphere)*.72);background:radial-gradient(ellipse at 72% 12%,color-mix(in srgb,var(--fx-c1) 36%,transparent),transparent 33%),radial-gradient(ellipse at 22% 76%,color-mix(in srgb,var(--fx-c2) 35%,transparent),transparent 36%);transform:scale(1.12);animation:nexusNebulaDrift var(--fx-nebula-duration) ease-in-out infinite alternate-reverse}
 .fx-orbit{opacity:calc(var(--fx-atmosphere)*.28);background:radial-gradient(ellipse at 50% 48%,transparent 26%,color-mix(in srgb,var(--fx-c1) 17%,transparent) 27%,transparent 28%,transparent 43%,color-mix(in srgb,var(--fx-c2) 12%,transparent) 44%,transparent 45%);transform:rotate(-18deg) scale(1.35);animation:nexusOrbitPulse var(--fx-orbit-duration) ease-in-out infinite alternate}
-.fx-grid{opacity:var(--fx-grid-opacity);inset:12% -12% -22%!important;background-image:linear-gradient(color-mix(in srgb,var(--fx-c1) 18%,transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb,var(--fx-c1) 18%,transparent) 1px,transparent 1px);background-size:46px 46px;background-position:center top;transform:perspective(520px) rotateX(58deg) scale(1.7);transform-origin:center bottom;mask-image:linear-gradient(to bottom,transparent 0%,black 28%,black 78%,transparent 100%)}
+.fx-grid{opacity:var(--fx-grid-opacity);inset:12% -12% -22%!important;background-image:linear-gradient(color-mix(in srgb,var(--fx-c1) 18%,transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb,var(--fx-c1) 18%,transparent) 1px,transparent 1px);background-size:46px 46px;background-position:center top;
+  transform:perspective(520px) rotateX(58deg) scale(1.7);transform-origin:center bottom;mask-image:linear-gradient(to bottom,transparent 0%,black 28%,black 78%,transparent 100%)}
 .fx-scan{opacity:var(--fx-scan-opacity);background:repeating-linear-gradient(180deg,transparent 0 5px,color-mix(in srgb,var(--fx-c1) 4%,transparent) 6px 7px);mask-image:linear-gradient(to bottom,transparent,black 22%,black 82%,transparent)}
 .fx-scan:after{content:"";position:absolute;left:0;right:0;top:-12%;height:18%;background:linear-gradient(180deg,transparent,color-mix(in srgb,var(--fx-c1) 17%,transparent),transparent);filter:blur(9px);animation:nexusScanSweep var(--fx-scan-duration) linear infinite}
 .fx-vignette{background:radial-gradient(ellipse at center,transparent 33%,rgba(1,5,12,.24) 100%);opacity:.72}
@@ -365,7 +362,7 @@ body[data-reveal="on"] .article:nth-child(2n),body[data-reveal="on"] .stat:nth-c
 to{opacity:1;transform:translateY(0)}
 }
 body.reduce-motion *,body[data-motion-preset="off"] *,body[data-motion-intensity="0"] *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
-@media (max-width:520px){}
+
 @media (prefers-reduced-motion:reduce){body[data-data-flow="on"] .article:after{animation:none!important}
 body[data-reveal="on"] :is(.article,.stat){animation:none!important}
 }
@@ -374,8 +371,7 @@ body[data-hud-corners="on"] .profile-card{clip-path:polygon(0 0,calc(100% - 9px)
 body[data-micro="on"] button,body[data-micro="on"] .article,body[data-micro="on"] .info{transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
 body[data-micro="on"] button:active{transform:scale(.975)}
 body .article,body .info,body .stat,body .panel{box-shadow:0 5px calc(8px + var(--card-depth, .55)*18px) #0005,0 0 calc(var(--edge-intensity, .45)*15px) color-mix(in srgb,var(--blue) calc(var(--edge-intensity, .45)*18%),transparent)}
-@media (min-width:650px){}
-@media (max-width:360px){}
+
 .compact-studio{padding:0!important;overflow:hidden;background:transparent!important;border:0!important;box-shadow:none!important}
 .studio-hero{display:grid;grid-template-columns:1.1fr .9fr;gap:14px;align-items:center;padding:19px;border:1px solid #315778;border-radius:17px;background:radial-gradient(ellipse at 82% 42%,#16415a88,transparent 42%),linear-gradient(135deg,#132b43,#08121e 72%);box-shadow:inset 0 1px #ffffff0b,0 14px 32px #0004;position:relative;overflow:hidden}
 .studio-hero:after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(112deg,transparent 0 23px,#66dfff08 24px 25px);mask-image:linear-gradient(90deg,transparent,#000)}
@@ -544,13 +540,244 @@ to{opacity:1;transform:translateY(0)}
 .market-subtitle{font-size:12px;margin:18px 0 8px}
 .market-status,.market-disclaimer,.market-credit{font-size:10px;color:var(--muted);line-height:1.6;margin:9px 0}
 .market-disclaimer{border-top:1px solid var(--line);padding-top:10px}
-@media(max-width:480px){.theme-briefing,.trend-panel,.market-panel{padding:11px}.market-overview,.market-heatmap{min-height:340px}.market-widget tv-market-overview{min-height:340px}.market-widget tv-heatmap{height:340px}}
+@media(max-width:480px){
+.theme-briefing,.trend-panel,.market-panel{padding:11px}
+.market-overview,.market-heatmap{min-height:340px}
+.market-widget tv-market-overview{min-height:340px}
+.market-widget tv-heatmap{height:340px}
+}
+
+/* NEXUS V15 — WORLD INTELLIGENCE VISUAL SYSTEM */
+:root{
+  --v15-ice:#8beaff;
+  --v15-cyan:#31d8ff;
+  --v15-blue:#2689c9;
+  --v15-deep:#050b14;
+  --v15-glass:rgba(9,22,37,.82);
+  --v15-edge:rgba(83,190,231,.27);
+}
+html{scroll-behavior:smooth;background:var(--v15-deep)}
+body{
+  background:
+    radial-gradient(ellipse at 12% 8%,rgba(24,110,157,.20),transparent 34%),
+    radial-gradient(ellipse at 92% 34%,rgba(15,71,119,.13),transparent 38%),
+    linear-gradient(160deg,#050b14 0%,#081321 48%,#050b14 100%);
+}
+#nexusFxBackground{opacity:.78}
+.fx-grid{
+  opacity:.22;
+  background-image:
+    linear-gradient(rgba(65,177,218,.10) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(65,177,218,.10) 1px,transparent 1px);
+  background-size:42px 42px;
+  mask-image:linear-gradient(to bottom,black,transparent 88%);
+}
+.fx-scan{opacity:.15}
+header{
+  background:linear-gradient(110deg,rgba(5,12,22,.96),rgba(8,24,40,.88));
+  border-bottom:1px solid rgba(82,186,225,.26);
+  box-shadow:0 8px 30px rgba(0,0,0,.24);
+  backdrop-filter:blur(18px);
+}
+.logo{text-shadow:0 0 20px rgba(49,216,255,.22)}
+.logo span{text-shadow:0 0 16px rgba(49,216,255,.55)}
+.edition{font-family:monospace;letter-spacing:1.45px}
+.edition span:last-child{color:var(--v15-ice)}
+main{max-width:1180px;padding:24px 16px 120px}
+.page{position:relative;isolation:isolate}
+.page h1{
+  font-size:clamp(29px,5vw,42px);
+  letter-spacing:-1.25px;
+  line-height:1.12;
+  color:#eaf8ff;
+  text-shadow:0 0 28px rgba(49,216,255,.10);
+  margin:18px 0 9px;
+}
+.page>.subtitle{max-width:760px;color:#9db5ca}
+.date{font-family:monospace;letter-spacing:2px}
+h2.section{
+  color:#a9dff1;
+  font-family:monospace;
+  font-size:11px;
+  letter-spacing:2px;
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+h2.section:after{
+  content:"";
+  height:1px;
+  flex:1;
+  background:linear-gradient(90deg,rgba(67,217,255,.35),transparent);
+}
+.panel,.info,.stat,.article,.watch-dashboard,.map-panel,.market-panel,
+.pulse-panel,.trend-panel,.theme-briefing,.weather-module{
+  background:linear-gradient(145deg,rgba(15,34,53,.91),rgba(7,17,29,.91));
+  border:1px solid var(--v15-edge);
+  box-shadow:0 12px 34px rgba(0,0,0,.19),inset 0 1px rgba(190,239,255,.035);
+  backdrop-filter:blur(12px);
+}
+.panel,.map-panel,.market-panel,.pulse-panel,.trend-panel,.theme-briefing{
+  position:relative;overflow:hidden;border-radius:17px;
+}
+.panel:before,.map-panel:before,.market-panel:before,.pulse-panel:before,
+.trend-panel:before,.theme-briefing:before{
+  content:"";position:absolute;left:16px;right:16px;top:0;height:1px;
+  background:linear-gradient(90deg,transparent,rgba(107,226,255,.52),transparent);
+  pointer-events:none;
+}
+.stat{border-radius:14px;position:relative;overflow:hidden}
+.stat:after{
+  content:"";position:absolute;right:-22px;top:-30px;width:90px;height:90px;
+  border-radius:50%;border:1px solid rgba(49,216,255,.12);
+  box-shadow:0 0 24px rgba(49,216,255,.05);
+}
+.stat strong{font-family:monospace;text-shadow:0 0 16px rgba(49,216,255,.18)}
+.article{border-radius:14px;position:relative;overflow:hidden;transition:border-color .2s,transform .2s,box-shadow .2s}
+.article:before{
+  content:"";position:absolute;left:0;top:14px;bottom:14px;width:2px;
+  background:linear-gradient(180deg,var(--v15-cyan),transparent);opacity:.62;
+}
+.article:hover{border-color:rgba(83,209,246,.55);box-shadow:0 14px 32px rgba(0,0,0,.25),0 0 24px rgba(49,216,255,.07)}
+.article h3{color:#e9f7ff}
+.tag,.status,.score{font-family:monospace;letter-spacing:.5px}
+.tag{background:rgba(37,148,191,.10);border:1px solid rgba(83,190,231,.22);padding:4px 7px;border-radius:5px}
+.chip{background:rgba(11,26,42,.85);border-color:rgba(83,190,231,.19)}
+.chip.active{background:linear-gradient(120deg,#155276,#0e3959);box-shadow:0 0 18px rgba(49,216,255,.13)}
+input,select,textarea{background:rgba(7,18,31,.92);border-color:rgba(83,190,231,.24)}
+input:focus,select:focus,textarea:focus{outline:1px solid rgba(49,216,255,.55);box-shadow:0 0 0 3px rgba(49,216,255,.08)}
+.small-btn,.primary,.map-controls button,.quick-grid button{
+  transition:transform .16s,border-color .16s,box-shadow .16s,background .16s;
+}
+.small-btn{background:linear-gradient(145deg,rgba(18,49,72,.96),rgba(10,28,45,.96));border-color:rgba(83,190,231,.28)}
+.primary{background:linear-gradient(115deg,#14719b,#14517d);border-color:rgba(91,221,255,.68);box-shadow:0 5px 18px rgba(15,115,159,.18)}
+.small-btn:hover,.primary:hover,.map-controls button:hover,.quick-grid button:hover{
+  border-color:var(--v15-cyan);box-shadow:0 0 18px rgba(49,216,255,.12);transform:translateY(-1px)
+}
+#primaryNav{
+  background:rgba(4,11,19,.94);border-top:1px solid rgba(83,190,231,.28);
+  box-shadow:0 -10px 34px rgba(0,0,0,.36),0 -1px 14px rgba(49,216,255,.045);
+  backdrop-filter:blur(22px);
+}
+#primaryNav button.active{color:var(--v15-ice);text-shadow:0 0 14px rgba(49,216,255,.28)}
+#primaryNav button.active:before{box-shadow:0 0 14px var(--v15-cyan)}
+#worldRadar:after{width:126px;height:126px;border-color:rgba(96,221,255,.25)}
+.pulse-track{background:rgba(40,83,112,.30)}
+.pulse-track span,.bar span,.trend-track i{
+  background:linear-gradient(180deg,#8beaff,#1ca9df 70%,#12628c);
+  box-shadow:0 0 12px rgba(49,216,255,.24);
+}
+#nexus-map{background:#06101b;border-color:rgba(83,190,231,.28)}
+.map-panel{background:linear-gradient(145deg,rgba(10,29,48,.97),rgba(4,13,24,.95))}
+.menu-entry,.overlay-shell,.search-result{background:linear-gradient(145deg,#10253a,#091624);border-color:rgba(83,190,231,.24)}
+#globalSearchPanel,#commandMenu{background:rgba(2,8,15,.91);backdrop-filter:blur(20px)}
+footer{color:#718da6;font-family:monospace;letter-spacing:1.5px}
+
+/* V15 intelligence cockpit */
+.v15-hero{
+  position:relative;overflow:hidden;margin:20px 0 18px;padding:18px;
+  border:1px solid rgba(81,203,239,.38);border-radius:20px;
+  background:
+    radial-gradient(circle at 82% 46%,rgba(27,139,184,.22),transparent 35%),
+    linear-gradient(115deg,rgba(12,36,56,.98),rgba(5,15,27,.97) 68%);
+  box-shadow:0 18px 46px rgba(0,0,0,.28),inset 0 1px rgba(210,248,255,.06);
+}
+.v15-hero:after{
+  content:"";position:absolute;inset:0;pointer-events:none;opacity:.22;
+  background:linear-gradient(110deg,transparent 0 55%,rgba(78,205,242,.09) 55.2%,transparent 55.5%);
+}
+.v15-hero-head,.v15-hero-layout,.v15-hero-copy,.v15-orbit-stage{position:relative;z-index:1}
+.v15-hero-head{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:#8eb4cb;font:10px monospace;letter-spacing:1.5px}
+.v15-live{color:#67e9c4}
+.v15-live i{display:inline-block;width:7px;height:7px;border-radius:50%;background:#55e5b6;margin-right:6px;box-shadow:0 0 10px #55e5b6}
+.v15-hero-layout{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(220px,.75fr);gap:18px;align-items:center;padding-top:15px}
+.v15-kicker{color:var(--v15-ice);font:10px monospace;letter-spacing:2.3px;margin:0 0 10px}
+.v15-hero-copy h2{font-size:clamp(25px,5vw,38px);line-height:1.12;letter-spacing:-1px;margin:0 0 12px;max-width:600px;color:#e9f8ff}
+.v15-hero-copy>p:not(.v15-kicker){max-width:610px;color:#a6bfd2;font-size:12px;line-height:1.75}
+.v15-hero-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.v15-hero-actions button{border:1px solid rgba(93,205,239,.32);border-radius:7px;padding:9px 11px;background:rgba(9,30,48,.88);color:#c4efff;font-size:10px}
+.v15-hero-actions button:first-child{background:linear-gradient(110deg,#145c81,#103a58);border-color:rgba(91,221,255,.66)}
+.v15-orbit-stage{height:218px;display:grid;place-items:center;isolation:isolate}
+.v15-orbit-ring,.v15-orbit-ring:before,.v15-orbit-ring:after{position:absolute;border:1px solid rgba(88,209,245,.28);border-radius:50%;content:""}
+.v15-orbit-ring{width:180px;height:180px;box-shadow:0 0 36px rgba(27,151,197,.10),inset 0 0 28px rgba(27,151,197,.08)}
+.v15-orbit-ring:before{inset:17px;border-style:dashed;opacity:.7}
+.v15-orbit-ring:after{inset:39px;border-color:rgba(88,209,245,.17)}
+.v15-orbit-core{width:76px;height:76px;border-radius:50%;display:grid;place-items:center;
+  background:radial-gradient(circle at 32% 28%,#245e7a,#0a1d30 67%);
+  border:1px solid rgba(121,229,255,.7);box-shadow:0 0 24px rgba(49,216,255,.25),inset 0 0 20px rgba(49,216,255,.20);
+  color:#dff9ff;font:900 25px monospace;z-index:2}
+.v15-orbit-node{position:absolute;z-index:3;width:29px;height:29px;display:grid;place-items:center;
+  border-radius:50%;background:#0b263a;border:1px solid rgba(99,221,255,.62);
+  color:#9beaff;font-size:11px;box-shadow:0 0 16px rgba(49,216,255,.15)}
+.v15-orbit-node.n1{top:21px;left:calc(50% - 15px)}
+.v15-orbit-node.n2{right:calc(50% - 103px);top:calc(50% - 14px)}
+.v15-orbit-node.n3{bottom:22px;left:calc(50% - 15px)}
+.v15-orbit-node.n4{left:calc(50% - 103px);top:calc(50% - 14px)}
+.v15-orbit-foot{position:absolute;bottom:0;left:0;right:0;text-align:center;color:#6f9bb6;font:8px monospace;letter-spacing:1.2px}
+.v15-storyline-board{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:12px 0 22px}
+.v15-story-card{
+  min-width:0;text-align:left;padding:14px;border:1px solid rgba(83,190,231,.24);
+  border-radius:12px;color:var(--text);background:linear-gradient(145deg,rgba(14,34,53,.95),rgba(7,17,29,.94));
+  position:relative;overflow:hidden;transition:border-color .18s,transform .18s;
+}
+.v15-story-card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:2px;background:linear-gradient(#54dcff,transparent)}
+.v15-story-card:hover{border-color:rgba(89,217,255,.64);transform:translateY(-2px)}
+.v15-story-card strong{display:block;font-size:12px;line-height:1.5;margin:8px 0;color:#e7f8ff}
+.v15-story-meta{font-size:10px;color:#8ca9be;line-height:1.65}
+.v15-story-tag{font:9px monospace;letter-spacing:1px;color:#83dfff}
+.v15-graph-shell{margin:16px 0 24px;padding:15px;border:1px solid rgba(83,190,231,.28);border-radius:17px;
+  background:linear-gradient(145deg,rgba(12,32,51,.95),rgba(5,15,26,.97));overflow:hidden}
+.v15-graph-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;flex-wrap:wrap}
+.v15-graph-head h2{font-size:17px;margin:3px 0 6px;color:#e5f8ff}
+.v15-graph-head p{font-size:10px;color:#91adc2;line-height:1.6;margin:0;max-width:520px}
+#v15KnowledgeGraph{width:100%;min-height:220px;margin:8px 0 0}
+#v15KnowledgeGraph svg{display:block;width:100%;height:auto;max-height:360px;overflow:visible}
+.v15-edge{stroke:rgba(74,191,230,.25);stroke-width:1.2}
+.v15-edge.strong{stroke:rgba(91,220,255,.55);stroke-width:1.8}
+.v15-graph-category{fill:#0d344e;stroke:#4edcff;stroke-width:1.4}
+.v15-graph-source{fill:#10263b;stroke:#6bb9dd;stroke-width:1.1}
+.v15-graph-core{fill:#143d59;stroke:#8beaff;stroke-width:2}
+.v15-graph-label{fill:#d7f4ff;font:10px Arial,sans-serif}
+.v15-graph-small{fill:#8cafc5;font:8px Arial,sans-serif}
+.v15-graph-note{font-size:10px;line-height:1.6;color:#7899b0;border-top:1px solid rgba(83,190,231,.16);padding-top:10px;margin:5px 0 0}
+.v15-read-action{border-color:rgba(92,211,246,.42)!important;color:#b8efff!important}
+.v15-reader-overlay{position:fixed;inset:0;z-index:4500;padding:calc(18px + env(safe-area-inset-top)) 14px calc(18px + env(safe-area-inset-bottom));
+  display:grid;place-items:center;background:rgba(1,7,13,.90);backdrop-filter:blur(18px);overflow:auto}
+.v15-reader-overlay[hidden]{display:none}
+.v15-reader-card{width:min(100%,760px);max-height:100%;overflow:auto;padding:clamp(18px,4vw,32px);
+  border:1px solid rgba(88,207,240,.42);border-radius:18px;background:linear-gradient(145deg,#11283e,#071522);
+  box-shadow:0 25px 80px rgba(0,0,0,.52),0 0 35px rgba(49,216,255,.08)}
+.v15-reader-top{display:flex;justify-content:space-between;gap:12px;align-items:center;color:#85cfe8;font:10px monospace;letter-spacing:1.4px}
+.v15-reader-card h2{font-size:clamp(22px,4vw,32px);line-height:1.25;margin:24px 0 10px;color:#ecfaff}
+.v15-reader-meta{font:10px monospace;line-height:1.7;color:#86a9bf}
+.v15-reader-copy{font-size:15px;line-height:1.9;color:#c5d8e5;margin:23px 0}
+.v15-reader-note{font-size:10px;line-height:1.6;color:#7896ac;border-top:1px solid rgba(83,190,231,.18);padding-top:13px}
+.v15-reader-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:19px}
+@keyframes v15OrbitSpin{to{transform:rotate(360deg)}}
+@media(max-width:650px){
+  main{padding:17px 12px 112px}
+  .v15-hero{padding:14px;border-radius:16px}
+  .v15-hero-layout{grid-template-columns:1fr;gap:0}
+  .v15-orbit-stage{height:180px;margin-top:6px}
+  .v15-orbit-ring{width:148px;height:148px}
+  .v15-orbit-node.n2{right:calc(50% - 85px)}
+  .v15-orbit-node.n4{left:calc(50% - 85px)}
+  .v15-storyline-board{grid-template-columns:1fr}
+  #v15KnowledgeGraph{min-height:170px}
+  .v15-graph-label{font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .v15-story-card,.small-btn,.primary{transition:none}
+  .nexus-marker-glow,.live-indicator,#worldRadar:after{animation:none!important}
+}
+
 </style></head> <body class="fx-active"> <div id="nexusFxBackground" aria-hidden="true"> <div class="fx-atmosphere fx-aurora"></div> <div class="fx-atmosphere fx-nebula"></div> <div class="fx-atmosphere fx-orbit"></div> <div class="fx-structure fx-grid"></div>
 <div class="fx-structure fx-scan"></div> <canvas id="nexusFxParticles"></canvas> <div class="fx-vignette"></div> </div> <div id="readingProgress" aria-hidden="true"></div> <div id="nexusToast" role="status" aria-live="polite"></div>
 <button id="scrollTopButton" type="button" aria-label="Retour en haut" title="Retour en haut">↑</button> <header> <div class="top"> <div class="logo">NE<span>X</span>US</div> <div class="header-actions"> <div class="system" id="systemState">● INITIALISATION</div>
 <span class="connection-chip" id="connectionState" title="État de la connexion">EN LIGNE</span> <button class="header-action" id="openGlobalSearch" aria-label="Recherche globale" title="Recherche globale">⌕</button>
 <button class="header-action" id="openFavorites" aria-label="Ouvrir les favoris" title="Favoris">☆</button> <button class="header-action" id="openAlerts" aria-label="Ouvrir les alertes" title="Alertes">⚑<span class="action-dot" id="alertDot" hidden></span></button> </div> </div>
-<div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V14 · AMBIENT FX SYSTEM</span></div> </header> <div id="globalSearchPanel" hidden> <div class="overlay-shell">
+<div class="edition"><span>INTELLIGENCE CENTER / PERSONAL EDITION</span><span>V15 · WORLD INTELLIGENCE ENGINE</span></div> </header> <div id="globalSearchPanel" hidden> <div class="overlay-shell">
 <div class="overlay-head"><div class="overlay-title">NEXUS / GLOBAL SEARCH</div><button class="overlay-close" id="closeGlobalSearch" aria-label="Fermer">×</button></div>
 <input class="global-search-input" id="globalSearchInput" type="search" placeholder="Rechercher dans toutes les publications… ( / )" autocomplete="off"> <div class="source">Recherche transversale dans les titres, résumés et sources chargés localement.</div>
 <div id="globalSearchResults"><div class="empty">Saisis un sujet, un lieu, une technologie ou un média.</div></div> </div> </div> <div id="commandMenu" hidden> <div class="overlay-shell">
@@ -558,7 +785,32 @@ to{opacity:1;transform:translateY(0)}
 <p class="menu-intro">Accès centralisé aux modules. Épingle tes quatre raccourcis préférés dans la barre inférieure.</p> <input id="moduleSearch" class="module-search" type="search" placeholder="Filtrer les modules…" autocomplete="off" aria-label="Filtrer les modules">
 <div class="menu-section-label">ACCÈS RAPIDES</div> <div class="quick-grid"> <button data-quick-page="home">⌂ Overview</button> <button data-quick-page="news">◫ Actualités</button> <button data-quick-page="favorites">☆ Favoris</button> </div>
 <div class="menu-section-label">TOUS LES MODULES · ★ POUR ÉPINGLER</div> <div class="menu-grid" id="commandMenuGrid"></div> </div> </div> <main> <section class="page active" id="home"> <div class="date" id="date"></div><h1>NEXUS Overview.</h1>
-<div class="subtitle">Vue générale de votre centre personnel de veille et d'information.</div> <div class="panel"> <div class="label">NEXUS OVERVIEW</div><h3>Centre de situation.</h3>
+<div class="subtitle">Vue générale de votre centre personnel de veille et d'information.</div>
+<div class="v15-hero" aria-label="NEXUS World Intelligence Engine">
+  <div class="v15-hero-head">
+    <span><i class="v15-live-dot"></i> NEXUS / WORLD INTELLIGENCE ENGINE</span>
+    <span class="v15-live"><i></i> CORE LOCAL ACTIF</span>
+  </div>
+  <div class="v15-hero-layout">
+    <div class="v15-hero-copy">
+      <p class="v15-kicker">INTELLIGENCE, CONNECTED · V15</p>
+      <h2>Voir les signaux.<br>Comprendre les événements.</h2>
+      <p>Une vue connectée de l’actualité : suivre les événements, comparer les couvertures,
+      relier les sujets et repérer les évolutions à partir des publications disponibles.</p>
+      <div class="v15-hero-actions">
+        <button type="button" data-v15-action="storyline">◷ Storyline</button>
+        <button type="button" data-v15-action="angles">⌗ Angle Matrix</button>
+        <button type="button" data-v15-action="graph">✧ Knowledge Graph</button>
+      </div>
+    </div>
+    <div class="v15-orbit-stage" aria-hidden="true">
+      <div class="v15-orbit-ring"></div><div class="v15-orbit-core">NX</div>
+      <span class="v15-orbit-node n1">◉</span><span class="v15-orbit-node n2">⌗</span>
+      <span class="v15-orbit-node n3">◷</span><span class="v15-orbit-node n4">⌕</span>
+      <div class="v15-orbit-foot">SIGNALS · CONTEXT · SOURCES · EVENTS</div>
+    </div>
+  </div>
+</div> <div class="panel"> <div class="label">NEXUS OVERVIEW</div><h3>Centre de situation.</h3>
 <p>Suivi des publications, tendances thématiques et sujets à surveiller. Les indicateurs sont calculés à partir des flux RSS disponibles.</p>
 <div class="toolbar"><button class="primary" onclick="refreshNews()">↻ Actualiser les données</button><button class="small-btn" onclick="showPage('top')">Voir le Top Intelligence →</button></div> <div id="lastUpdate" class="source">Initialisation des actualités…</div> </div>
 <div class="stats"> <div class="stat"><strong id="total">0</strong><small>Articles chargés</small></div> <div class="stat"><strong id="saved">0</strong><small>Favoris enregistrés</small></div>
@@ -572,11 +824,24 @@ to{opacity:1;transform:translateY(0)}
 <h2 class="section">DAILY INTELLIGENCE BRIEFING</h2><div id="briefingArticles"><div class="empty">En attente des actualités…</div></div>
 <h2 class="section">BRIEFING THÉMATIQUE</h2>
 <div class="theme-briefing">
-  <div class="theme-briefing-head"><label for="themeBriefingSelect">Domaine suivi</label><select id="themeBriefingSelect" aria-label="Choisir le thème du briefing"><option>Tous</option><option>France</option><option>Monde</option><option>Technologie</option><option>Sciences</option><option>Économie</option><option>Environnement</option><option>Défense</option><option>Exploration</option></select><span id="themeBriefingCount" class="source">Chargement…</span></div>
+  <div class="theme-briefing-head"><label for="themeBriefingSelect">Domaine suivi</label>
+  <select id="themeBriefingSelect" aria-label="Choisir le thème du briefing"><option>Tous</option>
+<option>France</option>
+<option>Monde</option>
+<option>Technologie</option>
+<option>Sciences</option>
+<option>Économie</option>
+<option>Environnement</option>
+<option>Défense</option>
+<option>Exploration</option></select><span id="themeBriefingCount" class="source">Chargement…</span></div>
   <div id="themeBriefingList"><div class="empty">Sélectionne un thème pour afficher les dernières publications.</div></div>
 </div>
 <h2 class="section">TENDANCES DES SUJETS</h2>
 <div class="trend-panel"><div class="label">SIGNAL DE COUVERTURE · 48 H</div><div id="trendingDashboard"><div class="empty">Analyse des tendances…</div></div><div class="notice">Indicateur calculé à partir du volume de publications rapprochées. Ce n'est ni une mesure de gravité ni une prédiction.</div></div>
+<h2 class="section">EVENT INTELLIGENCE / STORYLINES</h2>
+<div class="v15-storyline-board" id="v15Storylines">
+  <div class="empty">Les rapprochements d’articles seront affichés ici.</div>
+</div>
 <h2 class="section">GLOBAL SITUATION</h2>
 <div class="watch-dashboard"><div class="label">INDICATEURS DES FLUX RSS</div><div id="topicDashboard"><div class="empty">Analyse des publications…</div></div><div class="notice">Indicateurs textuels, pas une mesure de gravité réelle.</div></div>
 <h2 class="section">GLOBAL TIMELINE</h2><div class="info" id="timelineDashboard"><div class="empty">Chronologie en cours…</div></div> </section> <section class="page" id="situation">
@@ -639,6 +904,19 @@ to{opacity:1;transform:translateY(0)}
 </div>
 </section> <section class="page" id="world">
 <h1>World Intelligence.</h1><div class="subtitle">Radar des sujets présents dans les flux NEXUS et fiches de repères pays.</div>
+<div class="v15-graph-shell" id="v15GraphPanel">
+  <div class="v15-graph-head">
+    <div><div class="label">NEXUS / KNOWLEDGE GRAPH</div>
+      <h2>Réseau des sources et des sujets</h2>
+      <p>Visualisation des catégories et médias présents dans les articles chargés.
+      Les liens représentent une co-présence dans le flux, pas une relation causale.</p>
+    </div>
+    <span class="status good">● DONNÉES LOCALES</span>
+  </div>
+  <div id="v15KnowledgeGraph"><div class="empty">Le réseau se construit à partir des articles disponibles.</div></div>
+  <p class="v15-graph-note">Lecture : les médias sont reliés aux catégories qu’ils couvrent dans les articles chargés.
+  Cette visualisation ne certifie ni l’indépendance des sources ni l’exactitude des informations.</p>
+</div>
 <div class="panel"><div class="label">GLOBAL RADAR</div><p>Le radar est calculé à partir des publications déjà chargées. Il indique une fréquence de mentions, pas un niveau de menace ou une validation indépendante.</p><div id="worldRadar"></div></div>
 <h2 class="section">MARKET MONITOR</h2>
 <div class="market-panel">
@@ -717,7 +995,8 @@ to{opacity:1;transform:translateY(0)}
     <label class="studio-slider"><span><b>Vitesse des effets</b><output id="fxSpeedValue">42%</output></span><small>Rythme des animations de fond</small><input type="range" id="fxSpeed" min="0" max="100" step="5" value="42"></label>
     <label class="studio-slider"><span><b>Profondeur visuelle</b><output id="fxDepthValue">68%</output></span><small>Force des couches, flous et textures</small><input type="range" id="fxDepth" min="0" max="100" step="5" value="68"></label>
     <label class="studio-slider"><span><b>Éclairage néon</b><output id="glowLevelValue">35%</output></span><small>Intensité des halos et reflets lumineux</small><input type="range" id="glowLevel" min="0" max="100" step="5" value="35"></label>
-    <label class="studio-select"><span><b>Palette des effets</b><small>Teinte des particules et de l’atmosphère</small></span><select id="fxPalette"><option value="nexus" selected>NEXUS cyan</option><option value="amber">Ambre</option><option value="aurora">Aurore</option><option value="violet">Violet</option><option value="ice">Glace</option><option value="custom">Personnalisée</option></select></label><label class="studio-select"><span><b>Couleur libre des effets</b><small>Choisis exactement la teinte des effets lumineux</small></span><input type="color" id="customFxColor" value="#43d9ff" style="height:54px;padding:6px;max-width:100%;"></label>
+    <label class="studio-select"><span><b>Palette des effets</b><small>Teinte des particules et de l’atmosphère</small></span><select id="fxPalette"><option value="nexus" selected>NEXUS cyan</option><option value="amber">Ambre</option><option value="aurora">Aurore</option><option value="violet">Violet</option><option value="ice">Glace</option><option value="custom">Personnalisée</option></select></label>
+    <label class="studio-select"><span><b>Couleur libre des effets</b><small>Choisis exactement la teinte des effets lumineux</small></span><input type="color" id="customFxColor" value="#43d9ff" style="height:54px;padding:6px;max-width:100%;"></label>
     <div class="studio-toggle"><div><b>Grille holographique</b><small>Afficher la trame technique</small></div><label class="switch"><input type="checkbox" id="fxGrid" checked><span></span></label></div>
     <div class="studio-toggle"><div><b>Lignes de balayage</b><small>Ajouter un balayage discret</small></div><label class="switch"><input type="checkbox" id="fxScan" checked><span></span></label></div>
     <div class="studio-toggle"><div><b>Voile lumineux</b><small>Activer les nappes lumineuses animées</small></div><label class="switch"><input type="checkbox" id="fxAurora" checked><span></span></label></div>
@@ -759,13 +1038,32 @@ to{opacity:1;transform:translateY(0)}
   <button type="button" id="exportTheme">Exporter</button><button type="button" id="importThemeButton">Importer</button><input type="file" id="importThemeFile" accept="application/json,.json">
 </div>
 </div>
-<div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option><option>10</option><option>15</option><option>20</option></select></div>
+<div class="info"><div class="label">ARTICLES AFFICHÉS</div><select id="articleCount"><option>5</option><option selected>8</option>
+<option>10</option>
+<option>15</option>
+<option>20</option></select></div>
 <div class="info"><div class="label">SOURCES</div><p>Les articles sont chargés depuis le fichier automatique news.json.</p></div>
 <div class="info"><div class="label">DONNÉES ET CONFIDENTIALITÉ</div><p>Favoris, archives, dossiers et alertes sont conservés localement sur cet appareil.</p></div>
 <div class="info"><div class="label">SAUVEGARDE COMPLÈTE</div><p>Exporter ou restaurer les données personnelles locales de NEXUS (favoris, dossiers, alertes, notes, tâches et préférences).</p>
 <div class="actions"><button class="small-btn" id="exportAllData">Exporter toutes mes données</button><button class="small-btn" id="importAllDataButton">Importer une sauvegarde</button><input type="file" id="importAllDataFile" accept="application/json,.json" hidden></div></div>
-<button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button> <div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 14 — FX Studio<br>Interface personnelle non commerciale.</p></div> </section> </main>
-<footer>NEXUS INTELLIGENCE / PERSONAL SYSTEM / V14 FX STUDIO</footer> <nav id="primaryNav" aria-label="Navigation principale"></nav>
+<button class="small-btn" onclick="resetFavorites()">Réinitialiser les favoris</button> <div class="info"><div class="label">À PROPOS</div><p>NEXUS Intelligence<br>Version 15 — World Intelligence Engine<br>Interface personnelle non commerciale.</p></div> </section> </main>
+<div class="v15-reader-overlay" id="v15ReaderOverlay" hidden aria-hidden="true">
+  <section class="v15-reader-card" role="dialog" aria-modal="true" aria-labelledby="v15ReaderTitle">
+    <div class="v15-reader-top"><span>NEXUS / FOCUS READER</span>
+      <button type="button" class="overlay-close" id="v15ReaderClose" aria-label="Fermer la lecture">×</button>
+    </div>
+    <h2 id="v15ReaderTitle">Lecture concentrée</h2>
+    <div class="v15-reader-meta" id="v15ReaderMeta"></div>
+    <div class="v15-reader-copy" id="v15ReaderCopy"></div>
+    <p class="v15-reader-note">Cette vue utilise le résumé transmis par le flux RSS. Pour consulter le texte intégral,
+    ouvre l’article original auprès du média.</p>
+    <div class="v15-reader-actions">
+      <a class="primary" id="v15ReaderLink" href="#" target="_blank" rel="noopener noreferrer">Lire l’article original ↗</a>
+      <button type="button" class="small-btn" id="v15ReaderCloseBottom">Fermer</button>
+    </div>
+  </section>
+</div>
+<footer>NEXUS INTELLIGENCE / WORLD INTELLIGENCE ENGINE / V15</footer> <nav id="primaryNav" aria-label="Navigation principale"></nav>
 <script>
 "use strict"; const NEWS_URL="./news.json"; const CACHE_KEY="nexusArticlesV3"; const FAV_KEY="nexusFavoritesV3"; const DOSSIER_KEY="nexusDossiersV1"; const ALERT_KEY="nexusAlertsV1"; function readStorage(key,fallback){
 try{const v=localStorage.getItem(key);return v?JSON.parse(v):fallback}catch(e){return fallback} } let articles=readStorage(CACHE_KEY,[]); let archive=readStorage("nexusArchiveV3",[]); let favorites=readStorage(FAV_KEY,[]); let dossiers=readStorage(DOSSIER_KEY,[]);
@@ -819,7 +1117,7 @@ return `<article class="article">
 <div class="article-head"><span class="tag">${escapeHTML(a.category.toUpperCase())}</span>${badge}</div>
 <h3>${escapeHTML(a.title)}</h3><p>${escapeHTML(a.description||"Aucun résumé fourni. Consultez l'article original.")}</p>
 ${coverage}${score} <div class="article-foot"><span class="source">${escapeHTML(a.source)}<br>${escapeHTML(date)}</span>
-<div class="actions"><button class="small-btn" data-favorite="${escapeHTML(a.id)}">${saved?"★ Enregistré":"☆ Favori"}</button><button class="small-btn" data-translate-article="${escapeHTML(a.id)}">Traduire en français</button>${dossierButtons}<a class="small-btn"
+<div class="actions"><button class="small-btn v15-read-action" data-v15-reader="${escapeHTML(a.id)}">◉ Lecture Focus</button><button class="small-btn" data-favorite="${escapeHTML(a.id)}">${saved?"★ Enregistré":"☆ Favori"}</button><button class="small-btn" data-translate-article="${escapeHTML(a.id)}">Traduire en français</button>${dossierButtons}<a class="small-btn"
 href="${escapeHTML(safeURL(a.link))}" target="_blank" rel="noopener noreferrer">Article original ↗</a></div><div class="translation-output" hidden></div>
 </div></article>`; } /* RENDU CIBLE : SEULE LA PAGE OUVERTE EST ACTUALISEE */
 function renderSignalPulse(){
@@ -1076,7 +1374,10 @@ const depth=Math.max(0,Math.min(100,Number(nexusPrefs.fxDepth)||0))/100; documen
 document.documentElement.style.setProperty("--fx-scan-opacity",String(depth*.38)); document.documentElement.style.setProperty("--fx-blur",(3+depth*11)+"px"); document.documentElement.style.setProperty("--fx-glow",(Math.max(0,Math.min(100,Number(nexusPrefs.glow)||0))*.18)+"%");
 const speed=Math.max(0,Math.min(100,Number(nexusPrefs.fxSpeed)||0)); const duration=40-speed*.28; document.documentElement.style.setProperty("--fx-aurora-duration",duration+"s"); document.documentElement.style.setProperty("--fx-nebula-duration",(duration*1.3)+"s");
 document.documentElement.style.setProperty("--fx-orbit-duration",(duration*.7)+"s"); document.documentElement.style.setProperty("--fx-scan-duration",(duration*.46)+"s"); document.body.dataset.fxPalette=nexusPrefs.fxPalette||"nexus";
-if(nexusPrefs.fxPalette==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customFxColor||"")){document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c1",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c2",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c3",nexusPrefs.customFxColor);document.documentElement.style.setProperty("--blue",nexusPrefs.customFxColor);document.documentElement.style.setProperty("--accent",nexusPrefs.customFxColor)}else{document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c1");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c2");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c3")}
+if(nexusPrefs.fxPalette==="custom"&&/^#[0-9a-f]{6}$/i.test(nexusPrefs.customFxColor||"")){document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c1",nexusPrefs.customFxColor);
+document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c2",nexusPrefs.customFxColor);document.getElementById("nexusFxBackground")?.style.setProperty("--fx-c3",nexusPrefs.customFxColor);
+document.documentElement.style.setProperty("--blue",nexusPrefs.customFxColor);document.documentElement.style.setProperty("--accent",nexusPrefs.customFxColor)}else{document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c1");
+  document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c2");document.getElementById("nexusFxBackground")?.style.removeProperty("--fx-c3")}
 document.body.dataset.fxGrid=nexusPrefs.fxGrid===false?"off":"on"; document.body.dataset.fxScan=nexusPrefs.fxScan===false?"off":"on"; document.body.dataset.fxAurora=nexusPrefs.fxAurora===false?"off":"on";
 document.body.dataset.fxParticles=Number(nexusPrefs.fxParticles)>0?"on":"off"; document.body.dataset.fxMotion=nexusPrefs.fxMotion===false||nexusPrefs.reducedMotion?"off":"on";
 document.body.dataset.hudCorners=nexusPrefs.hudCorners===false?"off":"on";
@@ -1128,25 +1429,44 @@ focusGlow:nexusPrefs.focusGlow,
 dataFlow:nexusPrefs.dataFlow,
 revealMotion:nexusPrefs.revealMotion,edgeIntensity:nexusPrefs.edgeIntensity,radarSpeed:nexusPrefs.radarSpeed,uiScale:nexusPrefs.uiScale,cardDepth:nexusPrefs.cardDepth,hudCorners:nexusPrefs.hudCorners,microInteractions:nexusPrefs.microInteractions};
 Object.entries(ids).forEach(([id,value])=>{const el=document.getElementById(id);if(el)el.type==="checkbox"?el.checked=!!value:el.value=value});
-document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical"))); document.querySelectorAll('#personalizationStudio input[type="range"]').forEach(el=>{const out=document.getElementById(el.id+"Value");if(out)out.textContent=el.value+(el.id==="cornerRadius"?" px":" %")}); if(typeof refreshNexusFX==="function")refreshNexusFX(); } function applyThemeProfile(profile){ const presets={
-tactical:{profile:"tactical",accent:"blue",background:"deep",backgroundTexture:"grid",glow:32,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:80,cornerRadius:10,density:"normal",fxIntensity:78,fxAtmosphere:62,fxParticles:28,fxSpeed:30,fxDepth:58,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:false,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:48,edgeIntensity:52,radarSpeed:42,cardDepth:65,hudCorners:true,microInteractions:true},
-cyber:{profile:"cyber",accent:"cyan",background:"black",backgroundTexture:"scan",glow:86,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:78,fxSpeed:38,fxDepth:90,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"holographic",chartStyle:"neon",motionPreset:"cinematic",motionIntensity:82,edgeIntensity:95,radarSpeed:70,cardDepth:80,hudCorners:true,microInteractions:true},
-stealth:{profile:"stealth",accent:"green",background:"black",backgroundTexture:"none",glow:8,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:94,cornerRadius:6,density:"compact",fxIntensity:20,fxAtmosphere:12,fxParticles:0,fxSpeed:15,fxDepth:18,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"obsidian",borderStyle:"hairline",newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"snappy",motionIntensity:12,edgeIntensity:5,radarSpeed:20,cardDepth:18,hudCorners:false,microInteractions:false},
-ghost:{profile:"ghost",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:58,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:72,cornerRadius:20,density:"spacious",fxIntensity:90,fxAtmosphere:88,fxParticles:52,fxSpeed:30,fxDepth:78,fxPalette:"violet",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:68,edgeIntensity:72,radarSpeed:35,cardDepth:76,hudCorners:false,microInteractions:true},
-aurora:{profile:"aurora",accent:"cyan",background:"midnight",backgroundTexture:"stars",glow:62,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:70,cornerRadius:19,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:62,fxSpeed:28,fxDepth:82,fxPalette:"aurora",fxGrid:true,fxScan:false,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:62,edgeIntensity:65,radarSpeed:30,cardDepth:75,hudCorners:false,microInteractions:true},
-reactor:{profile:"reactor",accent:"blue",background:"deep",backgroundTexture:"grid",glow:92,glass:true,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:66,cornerRadius:12,density:"normal",fxIntensity:100,fxAtmosphere:90,fxParticles:88,fxSpeed:82,fxDepth:92,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"snappy",motionIntensity:92,edgeIntensity:100,radarSpeed:88,cardDepth:92,hudCorners:true,microInteractions:true},
-"deep-space":{profile:"deep-space",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:52,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:70,cornerRadius:17,density:"spacious",fxIntensity:94,fxAtmosphere:100,fxParticles:80,fxSpeed:25,fxDepth:86,fxPalette:"violet",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:60,edgeIntensity:62,radarSpeed:32,cardDepth:82,hudCorners:false,microInteractions:true},
-obsidian:{profile:"obsidian",accent:"blue",background:"black",backgroundTexture:"none",glow:18,glass:true,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:88,cornerRadius:12,density:"normal",fxIntensity:32,fxAtmosphere:22,fxParticles:8,fxSpeed:18,fxDepth:34,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"obsidian",borderStyle:"hairline",newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"balanced",motionIntensity:22,edgeIntensity:12,radarSpeed:20,cardDepth:38,hudCorners:false,microInteractions:true},
-redline:{profile:"redline",accent:"red",background:"black",backgroundTexture:"scan",glow:82,glass:false,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:72,cornerRadius:9,density:"compact",fxIntensity:96,fxAtmosphere:82,fxParticles:48,fxSpeed:76,fxDepth:88,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"snappy",motionIntensity:84,edgeIntensity:94,radarSpeed:82,cardDepth:82,hudCorners:true,microInteractions:true},
-matrix:{profile:"matrix",accent:"green",background:"black",backgroundTexture:"scan",glow:74,glass:false,glowMode:true,ambient:false,cardStyle:"flat",panelOpacity:82,cornerRadius:5,density:"compact",fxIntensity:88,fxAtmosphere:64,fxParticles:58,fxSpeed:68,fxDepth:90,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"snappy",motionIntensity:72,edgeIntensity:78,radarSpeed:78,cardDepth:62,hudCorners:true,microInteractions:true},
-aurum:{profile:"aurum",accent:"amber",background:"black",backgroundTexture:"none",glow:58,glass:true,glowMode:true,ambient:false,cardStyle:"round",panelOpacity:78,cornerRadius:15,density:"spacious",fxIntensity:72,fxAtmosphere:65,fxParticles:18,fxSpeed:22,fxDepth:62,fxPalette:"amber",fxGrid:false,fxScan:false,fxAurora:true,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hairline",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:42,edgeIntensity:52,radarSpeed:28,cardDepth:66,hudCorners:false,microInteractions:true},
-synthwave:{profile:"synthwave",accent:"violet",background:"black",backgroundTexture:"grid",glow:90,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:66,cornerRadius:18,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:76,fxSpeed:70,fxDepth:82,fxPalette:"violet",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:86,edgeIntensity:92,radarSpeed:75,cardDepth:80,hudCorners:false,microInteractions:true},
-sonar:{profile:"sonar",accent:"blue",background:"deep",backgroundTexture:"grid",glow:70,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:82,cornerRadius:10,density:"compact",fxIntensity:90,fxAtmosphere:70,fxParticles:28,fxSpeed:88,fxDepth:92,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"snappy",motionIntensity:78,edgeIntensity:82,radarSpeed:96,cardDepth:68,hudCorners:true,microInteractions:true},
-overdrive:{profile:"overdrive",accent:"amber",background:"black",backgroundTexture:"scan",glow:88,glass:false,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:70,cornerRadius:8,density:"compact",fxIntensity:100,fxAtmosphere:86,fxParticles:62,fxSpeed:92,fxDepth:90,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"snappy",motionIntensity:90,edgeIntensity:96,radarSpeed:90,cardDepth:86,hudCorners:true,microInteractions:true},
-hologram:{profile:"hologram",accent:"cyan",background:"midnight",backgroundTexture:"grid",glow:96,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:58,cornerRadius:20,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:68,fxSpeed:48,fxDepth:94,fxPalette:"aurora",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:78,edgeIntensity:100,radarSpeed:52,cardDepth:90,hudCorners:false,microInteractions:true},
-monolith:{profile:"monolith",accent:"blue",background:"black",backgroundTexture:"none",glow:0,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:100,cornerRadius:4,density:"compact",fxIntensity:8,fxAtmosphere:0,fxParticles:0,fxSpeed:0,fxDepth:10,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"titanium",borderStyle:"hairline",newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"off",motionIntensity:0,edgeIntensity:0,radarSpeed:0,cardDepth:8,hudCorners:false,microInteractions:false},
-solaris:{profile:"solaris",accent:"amber",background:"slate",backgroundTexture:"stars",glow:74,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"spacious",fxIntensity:96,fxAtmosphere:100,fxParticles:42,fxSpeed:32,fxDepth:78,fxPalette:"amber",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:64,edgeIntensity:78,radarSpeed:38,cardDepth:78,hudCorners:false,microInteractions:true},
-"global-intel":{profile:"global-intel",accent:"cyan",background:"deep",backgroundTexture:"grid",glow:48,glass:true,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:78,cornerRadius:11,density:"normal",fxIntensity:88,fxAtmosphere:70,fxParticles:36,fxSpeed:38,fxDepth:84,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:58,edgeIntensity:72,radarSpeed:54,cardDepth:72,hudCorners:true,microInteractions:true}
+document.querySelectorAll("[data-profile]").forEach(b=>b.classList.toggle("selected",b.dataset.profile===(nexusPrefs.profile||"tactical"))); document.querySelectorAll('#personalizationStudio input[type="range"]').forEach(el=>{const out=document.getElementById(el.id+"Value");
+  if(out)out.textContent=el.value+(el.id==="cornerRadius"?" px":" %")}); if(typeof refreshNexusFX==="function")refreshNexusFX(); } function applyThemeProfile(profile){ const presets={
+tactical:{profile:"tactical",accent:"blue",background:"deep",backgroundTexture:"grid",glow:32,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:80,cornerRadius:10,density:"normal",fxIntensity:78,fxAtmosphere:62,fxParticles:28,fxSpeed:30,fxDepth:58,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:false,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",
+      borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:48,edgeIntensity:52,radarSpeed:42,cardDepth:65,hudCorners:true,microInteractions:true},
+cyber:{profile:"cyber",accent:"cyan",background:"black",backgroundTexture:"scan",glow:86,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:78,fxSpeed:38,fxDepth:90,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",
+      newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"holographic",chartStyle:"neon",motionPreset:"cinematic",motionIntensity:82,edgeIntensity:95,radarSpeed:70,cardDepth:80,hudCorners:true,microInteractions:true},
+stealth:{profile:"stealth",accent:"green",background:"black",backgroundTexture:"none",glow:8,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:94,cornerRadius:6,density:"compact",fxIntensity:20,fxAtmosphere:12,fxParticles:0,fxSpeed:15,fxDepth:18,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"obsidian",borderStyle:"hairline",
+      newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"snappy",motionIntensity:12,edgeIntensity:5,radarSpeed:20,cardDepth:18,hudCorners:false,microInteractions:false},
+ghost:{profile:"ghost",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:58,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:72,cornerRadius:20,density:"spacious",fxIntensity:90,fxAtmosphere:88,fxParticles:52,fxSpeed:30,fxDepth:78,fxPalette:"violet",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:68,edgeIntensity:72,radarSpeed:35,cardDepth:76,hudCorners:false,microInteractions:true},
+aurora:{profile:"aurora",accent:"cyan",background:"midnight",backgroundTexture:"stars",glow:62,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:70,cornerRadius:19,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:62,fxSpeed:28,fxDepth:82,fxPalette:"aurora",fxGrid:true,fxScan:false,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"glow",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:62,edgeIntensity:65,radarSpeed:30,cardDepth:75,hudCorners:false,microInteractions:true},
+reactor:{profile:"reactor",accent:"blue",background:"deep",backgroundTexture:"grid",glow:92,glass:true,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:66,cornerRadius:12,density:"normal",fxIntensity:100,fxAtmosphere:90,fxParticles:88,fxSpeed:82,fxDepth:92,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"neon-edge",
+      borderStyle:"glow",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"snappy",motionIntensity:92,edgeIntensity:100,radarSpeed:88,cardDepth:92,hudCorners:true,microInteractions:true},
+"deep-space":{profile:"deep-space",accent:"violet",background:"midnight",backgroundTexture:"stars",glow:52,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:70,cornerRadius:17,density:"spacious",fxIntensity:94,fxAtmosphere:100,fxParticles:80,fxSpeed:25,fxDepth:86,fxPalette:"violet",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:60,edgeIntensity:62,radarSpeed:32,cardDepth:82,hudCorners:false,microInteractions:true},
+obsidian:{profile:"obsidian",accent:"blue",background:"black",backgroundTexture:"none",glow:18,glass:true,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:88,cornerRadius:12,density:"normal",fxIntensity:32,fxAtmosphere:22,fxParticles:8,fxSpeed:18,fxDepth:34,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"obsidian",borderStyle:"hairline",
+      newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"balanced",motionIntensity:22,edgeIntensity:12,radarSpeed:20,cardDepth:38,hudCorners:false,microInteractions:true},
+redline:{profile:"redline",accent:"red",background:"black",backgroundTexture:"scan",glow:82,glass:false,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:72,cornerRadius:9,density:"compact",fxIntensity:96,fxAtmosphere:82,fxParticles:48,fxSpeed:76,fxDepth:88,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",
+      newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"snappy",motionIntensity:84,edgeIntensity:94,radarSpeed:82,cardDepth:82,hudCorners:true,microInteractions:true},
+matrix:{profile:"matrix",accent:"green",background:"black",backgroundTexture:"scan",glow:74,glass:false,glowMode:true,ambient:false,cardStyle:"flat",panelOpacity:82,cornerRadius:5,density:"compact",fxIntensity:88,fxAtmosphere:64,fxParticles:58,fxSpeed:68,fxDepth:90,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",
+      borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"snappy",motionIntensity:72,edgeIntensity:78,radarSpeed:78,cardDepth:62,hudCorners:true,microInteractions:true},
+aurum:{profile:"aurum",accent:"amber",background:"black",backgroundTexture:"none",glow:58,glass:true,glowMode:true,ambient:false,cardStyle:"round",panelOpacity:78,cornerRadius:15,density:"spacious",fxIntensity:72,fxAtmosphere:65,fxParticles:18,fxSpeed:22,fxDepth:62,fxPalette:"amber",fxGrid:false,fxScan:false,fxAurora:true,fxMotion:true,surfaceMaterial:"titanium",borderStyle:"hairline",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:42,edgeIntensity:52,radarSpeed:28,cardDepth:66,hudCorners:false,microInteractions:true},
+synthwave:{profile:"synthwave",accent:"violet",background:"black",backgroundTexture:"grid",glow:90,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:66,cornerRadius:18,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:76,fxSpeed:70,fxDepth:82,fxPalette:"violet",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:86,edgeIntensity:92,radarSpeed:75,cardDepth:80,hudCorners:false,microInteractions:true},
+sonar:{profile:"sonar",accent:"blue",background:"deep",backgroundTexture:"grid",glow:70,glass:false,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:82,cornerRadius:10,density:"compact",fxIntensity:90,fxAtmosphere:70,fxParticles:28,fxSpeed:88,fxDepth:92,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",
+      borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"snappy",motionIntensity:78,edgeIntensity:82,radarSpeed:96,cardDepth:68,hudCorners:true,microInteractions:true},
+overdrive:{profile:"overdrive",accent:"amber",background:"black",backgroundTexture:"scan",glow:88,glass:false,glowMode:true,ambient:true,cardStyle:"standard",panelOpacity:70,cornerRadius:8,density:"compact",fxIntensity:100,fxAtmosphere:86,fxParticles:62,fxSpeed:92,fxDepth:90,fxPalette:"amber",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"neon-edge",borderStyle:"glow",
+      newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"neon",motionPreset:"snappy",motionIntensity:90,edgeIntensity:96,radarSpeed:90,cardDepth:86,hudCorners:true,microInteractions:true},
+hologram:{profile:"hologram",accent:"cyan",background:"midnight",backgroundTexture:"grid",glow:96,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:58,cornerRadius:20,density:"normal",fxIntensity:100,fxAtmosphere:100,fxParticles:68,fxSpeed:48,fxDepth:94,fxPalette:"aurora",fxGrid:true,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"holographic",borderStyle:"glow",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:78,edgeIntensity:100,radarSpeed:52,cardDepth:90,hudCorners:false,microInteractions:true},
+monolith:{profile:"monolith",accent:"blue",background:"black",backgroundTexture:"none",glow:0,glass:false,glowMode:false,ambient:false,cardStyle:"flat",panelOpacity:100,cornerRadius:4,density:"compact",fxIntensity:8,fxAtmosphere:0,fxParticles:0,fxSpeed:0,fxDepth:10,fxPalette:"nexus",fxGrid:false,fxScan:false,fxAurora:false,fxMotion:false,surfaceMaterial:"titanium",borderStyle:"hairline",
+      newsCardLayout:"minimal",controlStyle:"minimal",iconStyle:"minimal",navStyle:"minimal",chartStyle:"precision",motionPreset:"off",motionIntensity:0,edgeIntensity:0,radarSpeed:0,cardDepth:8,hudCorners:false,microInteractions:false},
+solaris:{profile:"solaris",accent:"amber",background:"slate",backgroundTexture:"stars",glow:74,glass:true,glowMode:true,ambient:true,cardStyle:"round",panelOpacity:68,cornerRadius:18,density:"spacious",fxIntensity:96,fxAtmosphere:100,fxParticles:42,fxSpeed:32,fxDepth:78,fxPalette:"amber",fxGrid:false,fxScan:true,fxAurora:true,fxMotion:true,surfaceMaterial:"prism",borderStyle:"glow",
+      newsCardLayout:"editorial",controlStyle:"soft",iconStyle:"outlined",navStyle:"holographic",chartStyle:"gradient",motionPreset:"cinematic",motionIntensity:64,edgeIntensity:78,radarSpeed:38,cardDepth:78,hudCorners:false,microInteractions:true},
+"global-intel":{profile:"global-intel",accent:"cyan",background:"deep",backgroundTexture:"grid",glow:48,glass:true,glowMode:true,ambient:false,cardStyle:"standard",panelOpacity:78,cornerRadius:11,density:"normal",fxIntensity:88,fxAtmosphere:70,fxParticles:36,fxSpeed:38,fxDepth:84,fxPalette:"nexus",customFxColor:"#43d9ff",fxGrid:true,fxScan:true,fxAurora:false,fxMotion:true,surfaceMaterial:"titanium",
+      borderStyle:"hud",newsCardLayout:"intelligence",controlStyle:"technical",iconStyle:"geometric",navStyle:"command",chartStyle:"precision",motionPreset:"balanced",motionIntensity:58,edgeIntensity:72,radarSpeed:54,cardDepth:72,hudCorners:true,microInteractions:true}
 }; if(presets[profile])nexusPrefs={...nexusPrefs,...presets[profile]};else nexusPrefs.profile="custom"; saveNexusPreferences(); } function saveNexusPreferences(){localStorage.setItem(NEXUS_PREFS_KEY,JSON.stringify(nexusPrefs));applyNexusPreferences();}
 function showNexusToast(message){ const toast=document.getElementById("nexusToast");if(!toast)return; toast.textContent=message;toast.classList.add("visible"); clearTimeout(showNexusToast.timer);showNexusToast.timer=setTimeout(()=>toast.classList.remove("visible"),2400); }
 function updateConnectionState(){ const el=document.getElementById("connectionState");if(!el)return; const online=navigator.onLine;el.textContent=online?"EN LIGNE":"HORS LIGNE";el.classList.toggle("offline",!online);
@@ -1163,7 +1483,10 @@ bind("glowLevel","glow",()=>{});bind("backgroundStyle","background",()=>{});bind
 bind("panelOpacity","panelOpacity",()=>{});bind("cornerRadius","cornerRadius",()=>{});bind("fontScale","fontScale");bind("densityMode","density",()=>{});
 bind("compactMode","compact",e=>{nexusPrefs.density=e.target.checked?"compact":"normal"}); bind("reducedMotion","reducedMotion",()=>{});
 bind("fxIntensity","fxIntensity",()=>{});bind("fxAtmosphere","fxAtmosphere",()=>{});bind("fxParticles","fxParticles",()=>{});bind("fxSpeed","fxSpeed",()=>{});bind("fxDepth","fxDepth",()=>{});
-bind("fxPalette","fxPalette");bind("customFxColor","customFxColor",()=>{nexusPrefs.fxPalette="custom";const sel=document.getElementById("fxPalette");if(sel)sel.value="custom";showNexusToast("Couleur libre des effets appliquée.")});bind("edgeIntensity","edgeIntensity",()=>{});bind("radarSpeed","radarSpeed",()=>{});bind("uiScale","uiScale",()=>{});bind("cardDepth","cardDepth",()=>{});bind("hudCorners","hudCorners",()=>{});bind("microInteractions","microInteractions",()=>{});bind("fxGrid","fxGrid",()=>{});bind("fxScan","fxScan",()=>{});bind("fxAurora","fxAurora",()=>{});bind("fxMotion","fxMotion",()=>{});bind("haptics","haptics",()=>{});
+bind("fxPalette","fxPalette");bind("customFxColor","customFxColor",()=>{nexusPrefs.fxPalette="custom";const sel=document.getElementById("fxPalette");if(sel)sel.value="custom";
+showNexusToast("Couleur libre des effets appliquée.")});bind("edgeIntensity","edgeIntensity",()=>{});bind("radarSpeed","radarSpeed",()=>{});bind("uiScale","uiScale",()=>{});
+bind("cardDepth","cardDepth",()=>{});bind("hudCorners","hudCorners",()=>{});bind("microInteractions","microInteractions",()=>{});bind("fxGrid","fxGrid",()=>{});
+  bind("fxScan","fxScan",()=>{});bind("fxAurora","fxAurora",()=>{});bind("fxMotion","fxMotion",()=>{});bind("haptics","haptics",()=>{});
 document.getElementById("themeProfile").addEventListener("change",e=>applyThemeProfile(e.target.value)); document.querySelectorAll("[data-profile]").forEach(b=>b.addEventListener("click",()=>applyThemeProfile(b.dataset.profile)));
 document.getElementById("resetAppearance").addEventListener("click",()=>{nexusPrefs={...DEFAULT_NEXUS_PREFS};saveNexusPreferences();showNexusToast("Apparence réinitialisée.")});
 document.getElementById("exportTheme").addEventListener("click",()=>{const data={app:"NEXUS Intelligence",version:14,preferences:nexusPrefs};const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});const url=URL.createObjectURL(blob);const
@@ -1185,8 +1508,9 @@ const NEXUS_COUNTRIES=[
 {name:"Brésil",region:"Amérique du Sud",capital:"Brasília",system:"République fédérale présidentielle",focus:"Agriculture, matières premières, biodiversité, énergie et diplomatie régionale."},
 {name:"Russie",region:"Europe / Asie",capital:"Moscou",system:"République fédérale",focus:"Énergie, sécurité européenne, ressources naturelles et relations internationales."},
 {name:"Afrique du Sud",region:"Afrique",capital:"Pretoria (exécutif)",system:"République parlementaire",focus:"Économie régionale, minerais, énergie et diplomatie africaine."} ];
-const NEXUS_STORE={notes:"nexusV13Notes",tasks:"nexusV13Tasks",events:"nexusV13Events",journal:"nexusV13Journal"}; function v13Read(key,fallback){try{const x=localStorage.getItem(key);return x?JSON.parse(x):fallback}catch(e){return fallback}}
-function v13Save(key,value){localStorage.setItem(key,JSON.stringify(value))} function v13Esc(s){return escapeHTML(s)} function v13Date(s){const d=new Date(s);return Number.isNaN(d.getTime())?"Date inconnue":d.toLocaleString("fr-FR")} let nexusMarketLoading=false,nexusMarketReady=false;
+const v13Read=readStorage,v13Esc=escapeHTML;
+const NEXUS_STORE={notes:"nexusV13Notes",tasks:"nexusV13Tasks",events:"nexusV13Events",journal:"nexusV13Journal"};
+function v13Save(key,value){localStorage.setItem(key,JSON.stringify(value))} function v13Date(s){const d=new Date(s);return Number.isNaN(d.getTime())?"Date inconnue":d.toLocaleString("fr-FR")} let nexusMarketLoading=false,nexusMarketReady=false;
 function loadNexusTradingViewComponent(file,tag){
 if(customElements.get(tag))return Promise.resolve();
 const url="https://widgets.tradingview-widget.com/w/en/"+file;
@@ -1266,7 +1590,9 @@ if(!out.hidden){out.hidden=true;button.textContent="Afficher la traduction";retu
 url="https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q="+encodeURIComponent(text);const data=await fetchJSON(url);const translated=(data?.[0]||[]).map(x=>x?.[0]||"").join("").trim();if(!translated)throw Error("Réponse vide");
 out.textContent=translated;out.hidden=false;button.textContent="Masquer la traduction"}catch(e){out.textContent="Traduction indisponible. Consulte l'article original : le service peut être inaccessible ou limiter les requêtes.";out.hidden=false;
 button.textContent="Réessayer la traduction"}finally{button.disabled=false}}
-function initNexusUltimate(){ document.addEventListener("click",e=>{const b=e.target.closest("[data-translate-article]");if(b)translateNexusArticle(b)}); document.getElementById("countrySearch")?.addEventListener("input",renderWorldIntel); document.getElementById("themeBriefingSelect")?.addEventListener("change",e=>{localStorage.setItem("nexusThemeBriefingV1",e.target.value);renderThemeBriefing()}); document.getElementById("marketRetry")?.addEventListener("click",()=>initNexusMarketWidgets(true));
+function initNexusUltimate(){ document.addEventListener("click",e=>{const b=e.target.closest("[data-translate-article]");if(b)translateNexusArticle(b)});
+ document.getElementById("countrySearch")?.addEventListener("input",renderWorldIntel); document.getElementById("themeBriefingSelect")?.addEventListener("change",e=>{localStorage.setItem("nexusThemeBriefingV1",e.target.value);
+  renderThemeBriefing()}); document.getElementById("marketRetry")?.addEventListener("click",()=>initNexusMarketWidgets(true));
 document.getElementById("compareArticles")?.addEventListener("click",()=>{const a=articles.find(x=>x.id===document.getElementById("compareOne").value),b=articles.find(x=>x.id===document.getElementById("compareTwo").value),out=document.getElementById("comparisonResult");
 if(!a||!b||a.id===b.id){out.textContent="Choisis deux publications différentes.";return}const overlap=[...new Set(titleTokens(a.title).filter(t=>titleTokens(b.title).includes(t)))];
 out.innerHTML=`<div class="compare-columns">\
@@ -1323,7 +1649,7 @@ if(i%2===0&&particles.length<65){const q=particles[(i+7)%particles.length],dx=q.
 ctx.globalAlpha=1;frame=requestAnimationFrame(animate); } function refresh(){ const motion=nexusPrefs.fxMotion!==false&&!nexusPrefs.reducedMotion&&!window.matchMedia("(prefers-reduced-motion: reduce)").matches; canvas.style.display=Number(nexusPrefs.fxParticles)>0?"block":"none";
 resize();stop();if(motion&&!document.hidden&&particles.length)frame=requestAnimationFrame(animate); } window.addEventListener("resize",resize,{passive:true}); document.addEventListener("visibilitychange",()=>{if(document.hidden)stop();else refresh()});
 window.refreshNexusFX=refresh;refresh();
-if("vibrate" in navigator){document.addEventListener("click",event=>{const button=event.target.closest("button");if(button&&!button.disabled&&nexusPrefs.haptics&&!nexusPrefs.reducedMotion){try{navigator.vibrate(8)}catch(error){}}},{passive:true})} } 
+if("vibrate" in navigator){document.addEventListener("click",event=>{const button=event.target.closest("button");if(button&&!button.disabled&&nexusPrefs.haptics&&!nexusPrefs.reducedMotion){try{navigator.vibrate(8)}catch(error){}}},{passive:true})} }
 /* NEXUS V14 — IDENTITY STUDIO ENGINE */
 const NEXUS_IDENTITY_PRESETS_KEY="nexusIdentityPresetsV1";
 
@@ -1450,7 +1776,32 @@ try{
     const probability=(daily.precipitation_probability_max||[])[index];
     return `<div class="weather-day"><b>${escapeHTML(label)}</b><span aria-hidden="true">${info.icon}</span><strong>${weatherNumber((daily.temperature_2m_max||[])[index],"°")} / ${weatherNumber((daily.temperature_2m_min||[])[index],"°")}</strong><small>${escapeHTML(info.label)}<br>Pluie : ${weatherNumber(probability," %")}</small></div>`;
   }).join("");
-  result.innerHTML=`<div class="weather-current"><div><div class="weather-place">${escapeHTML(placeLabel)}</div><div class="weather-temperature">${weatherNumber(current.temperature_2m,"°")}</div><div class="weather-condition">${condition.icon} ${escapeHTML(condition.label)}</div></div><div class="weather-details"><div class="weather-detail"><b>${weatherNumber(current.apparent_temperature,"°")}</b><small>RESSENTI</small></div><div class="weather-detail"><b>${weatherNumber(current.wind_speed_10m," km/h")}</b><small>VENT</small></div><div class="weather-detail"><b>${weatherNumber(current.relative_humidity_2m," %")}</b><small>HUMIDITÉ</small></div><div class="weather-detail"><b>${weatherNumber(current.precipitation," mm")}</b><small>PRÉCIPITATIONS</small></div></div></div><div class="weather-forecast">${days||'<div class="empty">Prévisions indisponibles pour cette ville.</div>'}</div>`;
+  result.innerHTML=`<div class="weather-current">` +
+  `<div>` +
+  `<div class="weather-place">${escapeHTML(placeLabel)}</div>` +
+  `<div class="weather-temperature">${weatherNumber(current.temperature_2m,"°")}</div>` +
+  `<div class="weather-condition">${condition.icon} ${escapeHTML(condition.label)}</div>` +
+  `</div>` +
+  `<div class="weather-details">` +
+  `<div class="weather-detail">` +
+  `<b>${weatherNumber(current.apparent_temperature,"°")}</b>` +
+  `<small>RESSENTI</small>` +
+  `</div>` +
+  `<div class="weather-detail">` +
+  `<b>${weatherNumber(current.wind_speed_10m," km/h")}</b>` +
+  `<small>VENT</small>` +
+  `</div>` +
+  `<div class="weather-detail">` +
+  `<b>${weatherNumber(current.relative_humidity_2m," %")}</b>` +
+  `<small>HUMIDITÉ</small>` +
+  `</div>` +
+  `<div class="weather-detail">` +
+  `<b>${weatherNumber(current.precipitation," mm")}</b>` +
+  `<small>PRÉCIPITATIONS</small>` +
+  `</div>` +
+  `</div>` +
+  `</div>` +
+  `<div class="weather-forecast">${days||'<div class="empty">Prévisions indisponibles pour cette ville.</div>'}</div>`;
   result.hidden=false;status.textContent="Conditions reçues · données actualisées par Open-Meteo.";
 }catch(error){status.textContent=error.message?.includes("Ville introuvable")?error.message:"Service météo indisponible. Vérifie ta connexion puis réessaie.";}
 finally{button.disabled=false;button.textContent="Consulter";}
@@ -1464,8 +1815,7 @@ form.addEventListener("submit",event=>{event.preventDefault();loadNexusWeather(d
 const stamp=localStorage.getItem("nexusLastUpdate"); if(articles.length){ if(!archive.length){archive=articles;localStorage.setItem("nexusArchiveV3",JSON.stringify(archive))}
 document.getElementById("lastUpdate").textContent=stamp?"Dernière mise à jour : "+new Date(stamp).toLocaleString("fr-FR")+" (cache)":"Articles précédemment chargés."; document.getElementById("systemState").textContent="● CACHE LOCAL"; }
 document.getElementById("alertKeywords").value=(alertSettings.keywords||[]).join(", "); render(); renderPrimaryNav(); renderCommandMenu(); initNexusV10(); initNexusIdentityStudio(); initNexusFX(); initNexusUltimate(); initNexusWeather();
-document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",String(!p.classList.contains("active")))); updateAlertIndicator(); refreshNews();
-</script>
+document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",String(!p.classList.contains("active")))); updateAlertIndicator(); refreshNews();</script>
 
 <script>
 (()=>{
@@ -1476,6 +1826,144 @@ document.querySelectorAll(".page").forEach(p=>p.setAttribute("aria-hidden",Strin
     tabs.forEach(item=>{const active=item===tab;item.classList.toggle('active',active);item.setAttribute('aria-selected',String(active))});
     panels.forEach(panel=>{const active=panel.dataset.studioPanel===key;panel.classList.toggle('active',active);panel.hidden=!active});
   }));
+})();</script>
+
+
+<script>
+/* NEXUS V15 — données locales, visualisations et lecture concentrée */
+(()=>{
+  const originalHome=renderHome;
+  renderHome=function(){originalHome();renderV15Storylines()};
+  const originalWorld=renderWorldIntel;
+  renderWorldIntel=function(){originalWorld();renderV15KnowledgeGraph()};
+
+  function renderV15Storylines(){
+    const target=document.getElementById("v15Storylines");
+    if(!target)return;
+    const groups=topicGroups().filter(group=>group.items.length>1).slice(0,6);
+    target.innerHTML=groups.length?groups.map(group=>{
+      const lead=group.items[0],last=group.lastDate?new Date(group.lastDate):null;
+      const latest=last&&!isNaN(last.getTime())?last.toLocaleString("fr-FR",{
+        day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"Date non disponible";
+      const sources=group.sources.slice(0,4).map(escapeHTML).join(" · ");
+      return `<button class="v15-story-card" type="button" data-v15-topic="${escapeHTML(lead.title)}">
+        <span class="v15-story-tag">${group.items.length} ARTICLES · ${group.sources.length} SOURCES</span>
+        <strong>${escapeHTML(lead.title)}</strong>
+        <span class="v15-story-meta">Dernière publication : ${escapeHTML(latest)}<br>
+        ${sources}</span></button>`;
+    }).join(""):'<div class="empty">Pas encore assez de titres rapprochés pour créer une storyline.</div>';
+  }
+
+  function renderV15KnowledgeGraph(){
+    const target=document.getElementById("v15KnowledgeGraph");
+    if(!target)return;
+    if(!articles.length){target.innerHTML='<div class="empty">Aucun article disponible pour construire le réseau.</div>';return}
+    const byCategory=new Map(),bySource=new Map();
+    articles.forEach(article=>{
+      const category=safeText(article.category)||"Autres";
+      const source=safeText(article.source)||"Source RSS";
+      byCategory.set(category,(byCategory.get(category)||0)+1);
+      if(!bySource.has(source))bySource.set(source,new Map());
+      const map=bySource.get(source);map.set(category,(map.get(category)||0)+1);
+    });
+    const categories=[...byCategory.entries()].sort((a,b)=>b[1]-a[1]).slice(0,6);
+    const sources=[...bySource.entries()].sort((a,b)=>{
+      const total=map=>[...map.values()].reduce((sum,value)=>sum+value,0);
+      return total(b[1])-total(a[1]);
+    }).slice(0,8);
+    const width=720,height=330,cx=360,cy=164;
+    const categoryNodes=categories.map(([name,count],index)=>{
+      const angle=-Math.PI/2+(Math.PI*2*index/categories.length);
+      return {name,count,x:cx+Math.cos(angle)*108,y:cy+Math.sin(angle)*108};
+    });
+    const sourceNodes=sources.map(([name,counts],index)=>{
+      const angle=-Math.PI/2+(Math.PI*2*index/sources.length);
+      return {name,counts,x:cx+Math.cos(angle)*265,y:cy+Math.sin(angle)*145};
+    });
+    const edges=[];
+    sourceNodes.forEach(source=>categoryNodes.forEach(category=>{
+      if(source.counts.has(category.name))edges.push(
+        `<line class="v15-edge ${source.counts.get(category.name)>2?"strong":""}" `+
+        `x1="${source.x.toFixed(1)}" y1="${source.y.toFixed(1)}" `+
+        `x2="${category.x.toFixed(1)}" y2="${category.y.toFixed(1)}"/>`);
+    }));
+    const categoryMarkup=categoryNodes.map(node=>
+      `<g><circle class="v15-graph-category" cx="${node.x}" cy="${node.y}" r="23"/>`+
+      `<text class="v15-graph-label" x="${node.x}" y="${node.y+3}" text-anchor="middle">`+
+      `${escapeHTML(node.name.slice(0,10))}</text></g>`).join("");
+    const sourceMarkup=sourceNodes.map(node=>{
+      const short=node.name.length>17?node.name.slice(0,16)+"…":node.name;
+      const anchor=node.x<cx-15?"end":node.x>cx+15?"start":"middle";
+      const labelX=node.x+(anchor==="end"?-12:anchor==="start"?12:0);
+      return `<g><circle class="v15-graph-source" cx="${node.x}" cy="${node.y}" r="7"/>`+
+        `<text class="v15-graph-small" x="${labelX}" y="${node.y+3}" text-anchor="${anchor}">`+
+        `${escapeHTML(short)}</text></g>`;
+    }).join("");
+    target.innerHTML=`<svg viewBox="0 0 ${width} ${height}" role="img" `+
+      `aria-label="Réseau des sources et catégories des articles chargés">`+
+      `<defs><radialGradient id="v15CoreGlow"><stop stop-color="#38c9f4" stop-opacity=".28"/>`+
+      `<stop offset="1" stop-color="#071522" stop-opacity="0"/></radialGradient></defs>`+
+      `<circle cx="${cx}" cy="${cy}" r="151" fill="url(#v15CoreGlow)"/>`+
+      `${edges.join("")}${categoryMarkup}${sourceMarkup}`+
+      `<circle class="v15-graph-core" cx="${cx}" cy="${cy}" r="31"/>`+
+      `<text class="v15-graph-label" x="${cx}" y="${cy+4}" text-anchor="middle">NEXUS</text>`+
+      `</svg>`;
+  }
+
+  function openReader(id){
+    const article=articles.find(item=>item.id===id)||archive.find(item=>item.id===id);
+    if(!article)return;
+    const overlay=document.getElementById("v15ReaderOverlay");
+    document.getElementById("v15ReaderTitle").textContent=safeText(article.title)||"Lecture concentrée";
+    document.getElementById("v15ReaderMeta").textContent=[
+      safeText(article.source),safeText(article.category),safeText(article.date)
+    ].filter(Boolean).join(" · ");
+    document.getElementById("v15ReaderCopy").textContent=
+      safeText(article.description)||"Le flux RSS ne fournit pas de résumé pour cet article.";
+    document.getElementById("v15ReaderLink").href=safeURL(article.link);
+    overlay.hidden=false;overlay.setAttribute("aria-hidden","false");
+    document.body.style.overflow="hidden";
+    document.getElementById("v15ReaderClose").focus();
+  }
+  function closeReader(){
+    const overlay=document.getElementById("v15ReaderOverlay");
+    if(!overlay)return;
+    overlay.hidden=true;overlay.setAttribute("aria-hidden","true");
+    document.body.style.overflow="";
+  }
+  document.addEventListener("click",event=>{
+    const reader=event.target.closest("[data-v15-reader]");
+    if(reader){openReader(reader.dataset.v15Reader);return}
+    const topic=event.target.closest("[data-v15-topic]");
+    if(topic){
+      showPage("news");
+      const search=document.getElementById("search");
+      search.value=topic.dataset.v15Topic;
+      activeCategory="Tous";
+      document.querySelectorAll(".chip[data-cat]").forEach(chip=>
+        chip.classList.toggle("active",chip.dataset.cat==="Tous"));
+      renderNews();return;
+    }
+    const action=event.target.closest("[data-v15-action]");
+    if(action){
+      const kind=action.dataset.v15Action;
+      if(kind==="storyline"){
+        document.getElementById("v15Storylines")?.scrollIntoView({behavior:"smooth",block:"start"});
+      }else if(kind==="angles")showPage("analysis");
+      else if(kind==="graph"){
+        showPage("world");
+        setTimeout(()=>document.getElementById("v15GraphPanel")?.scrollIntoView({
+          behavior:"smooth",block:"start"}),140);
+      }
+    }
+    if(event.target.id==="v15ReaderOverlay")closeReader();
+  });
+  document.getElementById("v15ReaderClose")?.addEventListener("click",closeReader);
+  document.getElementById("v15ReaderCloseBottom")?.addEventListener("click",closeReader);
+  document.addEventListener("keydown",event=>{if(event.key==="Escape")closeReader()});
+
+  renderV15Storylines();
+  renderV15KnowledgeGraph();
 })();
 </script>
 
