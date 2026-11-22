@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T16:40:17.116910+00:00",
-  "count": 281,
+  "updated_at": "2026-11-22T17:28:15.277353+00:00",
+  "count": 282,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -71,14 +71,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
       "date": "Wed, 18 Nov 2026 09:58:28 GMT",
       "description": "Une décision contre le Myanmar pourrait créer un précédent pour le jugement de la cour sur les actions d'Israël à Gaza Les craintes se multiplient que les États-Unis puissent imposer des sanctions aux juges à la cour internationale de justice, y compris cette année le prix Nobel de la paix, Navi Pillay , si la cour décide jeudi que le gouvernement du Myanmar a commis un génocide contre les Rohingyas. La CIJ n'a jamais trouvé d'État responsable d'un génocide, et un",
-      "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
-      "title": "La Commission européenne accusée d'avoir versé des fonds à l'Égypte",
-      "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "date": "Wed, 18 Nov 2026 05:00:32 GMT",
-      "description": "La Commission européenne a été accusée d'avoir versé des montants pour le sucre afin de lui permettre de libérer des fonds en Égypte dans le cadre d'un pacte historique avec le gouvernement autoritaire d'Abdel Fatah al-Sisi. L'accusation porte sur un accord de 7,4 milliards d'euros promis par Ursula von der Leyen, président de la Commission européenne, à Al-Sisi lors d'une visite très médiatisée au Caire en 2024. Les",
       "source": "The Guardian",
       "category": "Monde"
     },
@@ -379,6 +371,46 @@
       "category": "Exploration"
     },
     {
+      "title": "«Il n’y aura pas d’accord» : à Antalya, l’impasse sur les énergies fossiles fait échouer la COP31",
+      "link": "https://www.lefigaro.fr/sciences/cop31-l-union-europeenne-s-oppose-frontalement-au-dernier-projet-de-declaration-finale-20261122",
+      "date": "Sun, 22 Nov 2026 18:27:33 +0100",
+      "description": "DÉCRYPTAGE - Le président turc de la COP31 a acté dimanche l’absence d’accord des pays sur le projet de décision finale de la conférence sur le climat. L’Union européenne et certains pays vulnérables ont refusé de signer un texte «pas à la hauteur» des enjeux.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "\"Je ne gouvernerai pas avec le RN\", déclare David Lisnard, candidat du parti Nouvelle Energie à la présidentielle",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 18:16:54 +0100",
+      "description": "Dans un message publié sur le réseau social X, le maire de Cannes a déclaré a mis en avant des divergences sur les questions économiques.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
+      "date": "Sun, 22 Nov 2026 18:11:49 +0100",
+      "description": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellement la présidence du Conseil de l’Union européenne.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Réchauffement climatique : une fois dépassé l’objectif de + 1,5 °C, pourra-t-on faire redescendre les températures ?",
+      "link": "https://www.lefigaro.fr/sciences/rechauffement-climatique-une-fois-depasse-l-objectif-de-1-5-0c-pourra-t-on-faire-redescendre-les-temperatures-20261122",
+      "date": "Sun, 22 Nov 2026 18:11:20 +0100",
+      "description": "DÉCRYPTAGE - Le franchissement prochain du seuil fixé par l’accord de Paris devrait durer au moins un siècle, mais des solutions technologiques tentent de limiter l’ampleur des catastrophes climatiques.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "La COP31 s'achève à Antalya sans que les pays ne s'accordent sur une déclaration finale, divisés sur la question des énergies fossiles",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 17:56:16 +0100",
+      "description": "Après quasiment deux jours de prolongations, la conférence de l'ONU s'est achevée dimanche en Turquie, sans accord global des pays participants, après le rejet de l'Union européenne de signer un texte dépourvu de mention aux énergies fossiles.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "Présidentielle 2027 : la dynamique David Lisnard s’installe tandis que la primaire de la droite et du centre est dans l’impasse",
       "link": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122",
       "date": "Sun, 22 Nov 2026 17:35:27 +0100",
@@ -387,20 +419,68 @@
       "category": "France"
     },
     {
-      "title": "Réchauffement climatique : une fois dépassé l’objectif de + 1,5 °C, pourra-t-on faire redescendre les températures ?",
-      "link": "https://www.lefigaro.fr/sciences/rechauffement-climatique-une-fois-depasse-l-objectif-de-1-5-0c-pourra-t-on-faire-redescendre-les-temperatures-20261122",
-      "date": "Sun, 22 Nov 2026 17:35:26 +0100",
-      "description": "DÉCRYPTAGE - Le franchissement prochain du seuil fixé par l’accord de Paris devrait durer au moins un siècle, mais des solutions technologiques tentent de limiter l’ampleur des catastrophes climatiques.",
-      "source": "Le Figaro",
+      "title": "Un navire en Russie a été remorqué après avoir été attaqué dans le golfe de Finlande.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 17:18:26 GMT",
+      "description": "Les forces de défense finlandaises disent que l'Ukraine était probablement derrière la frappe de drone samedi. Kyiv n'a pas encore commenté.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Explosion à bord d'un navire russe au port de Libye causée par une attaque présumée de drone, disent les responsables",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 17:16:47 GMT",
+      "description": "Le gouvernement de l'est de la Libye dit que le navire s'était arrêté pour du carburant et des fournitures sur son chemin de retour en Russie.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "En Turquie, le pouvoir s’attaque aux derniers médias d’opposition",
+      "link": "https://www.liberation.fr/international/en-turquie-le-pouvoir-sattaque-aux-derniers-medias-dopposition-20261122_M5FWN344FNBOHJBS25MN6QO7NA/",
+      "date": "Sun, 22 Nov 2026 17:16:04 +0000",
+      "description": "Ce dimanche 22 novembre, une manifestation de soutien à la presse était organisée à Istanbul, après la mise sous tutelle par les autorités de Sozcu TV, la première chaîne d’information du pays. Une décision qui survient après la fermeture d’autres médias ces derniers mois.",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "«Il n’y aura pas d’accord» : à Antalya, l’impasse sur les énergies fossiles fait échouer la COP31",
-      "link": "https://www.lefigaro.fr/sciences/cop31-l-union-europeenne-s-oppose-frontalement-au-dernier-projet-de-declaration-finale-20261122",
-      "date": "Sun, 22 Nov 2026 17:20:48 +0100",
-      "description": "Le président turc de la COP31 a acté dimanche l’absence d’accord des pays sur le projet de décision finale de la conférence sur le climat. L’Union européenne et certains pays vulnérables ont refusé de signer un texte «pas à la hauteur» des enjeux.",
-      "source": "Le Figaro",
+      "title": "5 iOS 27,3 modifications arrivant sur vos appareils Apple d'ici 2027",
+      "link": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
+      "date": "Sun, 22 Nov 2026 17:15:00 +0000",
+      "description": "Le premier beta développeur d'iOS 27.3 est sorti avant un lancement possible en décembre 2026, et il apporte avec lui une poignée de changements notables et de nouvelles fonctionnalités.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le directeur du renseignement national Jay Clayton met les Américains en garde contre les pannes de technologie",
+      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "date": "Sun, 22 Nov 2026 17:14:03 GMT",
+      "description": "L'avertissement de Clayton s'avance sur le voyage de Thanksgiving, après des pannes séparées perturbées voyage aérien, Microsoft 365 et certaines transactions bancaires.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Bateau russe touché par un drone de mer présumé à la base navale de la Libye",
+      "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 17:12:48 +0000",
+      "description": "La Russie n'a pas réagi immédiatement, et personne n'a revendiqué la responsabilité de l'attaque présumée.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Raquel Garrido : «Notre sujet, c’est comment élargir et je ne suis pas certaine que Jean-Luc Mélenchon soit une solution gagnante»",
+      "link": "https://www.liberation.fr/politique/elections/raquel-garrido-notre-sujet-cest-comment-elargir-et-je-ne-suis-pas-certaine-que-jean-luc-melenchon-soit-une-solution-gagnante-20261123_5H4XIPXKZNHYZDL7CV2NPPZMCI/",
+      "date": "Sun, 22 Nov 2026 17:09:00 +0000",
+      "description": "L’ancienne insoumise et cofondatrice de L’Après s’oppose à ce que son mouvement appelle à voter pour le candidat insoumis, comme certains l’envisagent désormais.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Mobilité TechCrunch : robots de test A/B versus humains",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "date": "Sun, 22 Nov 2026 17:06:00 +0000",
+      "description": "Bienvenue à TechCrunch Mobility, votre plaque tournante pour l'avenir du transport et, plus que jamais, le rôle de l'IA y joue.",
+      "source": "TechCrunch",
+      "category": "Technologie"
     },
     {
       "title": "Les surprenants français Albano Olivetti et Théo Arribagé s’offrent un premier sacre au Masters de Turin, dès leur première participation",
@@ -409,6 +489,86 @@
       "description": "Le duo tricolore, inconnu du grand public avant cette semaine, a réalisé un tournoi incroyable à Turin, et est devenu la troisième paire française à être sacrée au tournoi des maîtres, dimanche.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "Vous pouvez réutiliser votre ancien GoPro de différentes façons",
+      "link": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
+      "date": "Sun, 22 Nov 2026 17:00:00 +0000",
+      "description": "Un vieux GoPro peut ne pas être très utile comme caméra d'action, mais cela ne signifie pas qu'il est destiné aux déchets électroniques. Voici deux façons de le réutiliser.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "François Ruffin, préfet Hugues Moutouh, sommet contre l’oligarchie… L’actu de ce week-end des 21 et 22 novembre",
+      "link": "https://www.liberation.fr/international/europe/francois-ruffin-prefet-hugues-moutouh-sommet-contre-loligarchie-lactu-de-ce-week-end-des-21-et-22-novembre-20261122_NIMEBWOL5RE4TM7XNTUY7CND4E/",
+      "date": "Sun, 22 Nov 2026 16:57:38 +0000",
+      "description": "La rédaction de «Libération» récapitule les principales actualités des samedi 21 et dimanche 22 novembre.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Blast sur le navire russe à Benghazi une attaque présumée de drone, disent les autorités libyennes",
+      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "date": "Sun, 22 Nov 2026 16:55:49 GMT",
+      "description": "Personne n'a revendiqué la responsabilité de la grève sur le navire, qui avait accosté sur son chemin de retour vers la Russie Une explosion sur un navire russe a accosté à la base navale de la ville portuaire libyenne de Benghazi a été causée par une attaque présumée de drone, a déclaré le gouvernement de l'est de la Libye. Il n'y avait aucune revendication immédiate de responsabilité pour la grève présumée, mais il vient que les forces ukrainiennes ont intensifié leurs barrages à longue portée contre la Russie loin",
+      "source": "The Guardian",
+      "category": "Monde"
+    },
+    {
+      "title": "Des colons israéliens attaquent plusieurs villages palestiniens alors que les pogroms montent",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 16:50:48 +0000",
+      "description": "Des colons israéliens ont attaqué dimanche plusieurs villes et villages palestiniens en Cisjordanie occupée.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Libye: Une attaque présumée de drone frappe le navire russe à Benghazi",
+      "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sun, 22 Nov 2026 16:50:00 GMT",
+      "description": "Un navire russe à une base navale de Libye orientale a été touché par ce qui est soupçonné d'être une frappe de drone.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "«Règle d’or» budgétaire : Emmanuel Macron réfléchit à s’en emparer, la droite et l’extrême droite s’en réjouissent",
+      "link": "https://www.liberation.fr/economie/regle-dor-budgetaire-emmanuel-macron-reflechit-a-sen-emparer-la-droite-et-lextreme-droite-sen-rejouissent-20261122_BPFY5UQC7VGJNMGJO35GLLOZJQ/",
+      "date": "Sun, 22 Nov 2026 16:48:00 +0000",
+      "description": "D’après «la Tribune dimanche», le chef de l’Etat envisage de convoquer un Congrès pour introduire dans la Constitution une contrainte budgétaire visant à réduire le déficit public. L’idée rejoint les programmes de plusieurs candidats, de Gabriel Attal à Marine Le Pen.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Voici comment tester correctement votre vitesse USB",
+      "link": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
+      "date": "Sun, 22 Nov 2026 16:45:00 +0000",
+      "description": "Vos ports et périphériques USB sont tous notés pour certaines vitesses, mais comment savez-vous que tout fonctionne comme il devrait? Ce n'est pas si dur.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "FTSE 100 traiteur géant Compass prévoit de déplacer la liste principale à New York",
+      "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
+      "date": "Sun, 22 Nov 2026 16:43:09 GMT",
+      "description": "Le groupe £43 milliards annonce son intention de déménager dès mardi",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "«Horrible et glaçant» : l’ICE suscite à nouveau l’indignation avec des arrestations à l’aéroport de Seattle",
+      "link": "https://www.liberation.fr/international/amerique/horrible-et-glacant-lice-suscite-a-nouveau-lindignation-avec-des-arrestations-a-laeroport-de-seattle-20261122_XX3C7Y6D4NADTGE2TLJEVNETRU/",
+      "date": "Sun, 22 Nov 2026 16:42:42 +0000",
+      "description": "Une vidéo de l’interpellation chaotique d’un homme et une femme sur la passerelle d’embarquement d’un avion, par des agents en civil et masqués, relance le débat sur les méthodes brutales de la police de l’immigration américaine.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "«Désignement»: les délégués réagissent après la fin des discussions sur le climat de la COP31",
+      "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 16:33:26 +0000",
+      "description": "Projet de texte jugé trop faible pour faire face au changement climatique après que les pays producteurs de pétrole se sont opposés à l'expression « combustibles fossiles ».",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Correction de cette fonctionnalité d'interface utilisateur agaçante est facile, mais il y a une prise",
@@ -435,22 +595,6 @@
       "category": "France"
     },
     {
-      "title": "Guerre Russie-Ukraine : la «zone grise» rétrécit pour les pays de l’Otan",
-      "link": "https://www.liberation.fr/international/europe/guerre-russie-ukraine-la-zone-grise-retrecit-pour-les-pays-de-lotan-20261122_DHP2YVAFPJDIXEAGXYF4X5SUFE/",
-      "date": "Sun, 22 Nov 2026 16:22:03 +0000",
-      "description": "Des drones ukrainiens dans le golfe de Finlande samedi 21 novembre aux missiles russes en Pologne vendredi, la guerre déborde sur le territoire et dans les eaux de l’Otan. Moscou crie à la cobelligérance.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Le directeur du renseignement national Jay Clayton met les Américains en garde contre les pannes de technologie",
-      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "date": "Sun, 22 Nov 2026 16:18:09 GMT",
-      "description": "L'avertissement de Clayton s'avance sur le voyage de Thanksgiving, après des pannes séparées perturbées voyage aérien, Microsoft 365 et certaines transactions bancaires.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "4 applications aléatoires que vous pourriez ne pas réaliser travailler avec Android Auto",
       "link": "https://www.engadget.com/2319383/random-apps-that-work-with-android-auto/",
       "date": "Sun, 22 Nov 2026 16:15:00 +0000",
@@ -459,20 +603,12 @@
       "category": "Technologie"
     },
     {
-      "title": "\"Nous n'avons pas pu parvenir à un accord\" : le coprésident de la COP31 entérine l'échec final des négociations pour le climat à Antalya",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 16:10:23 +0100",
-      "description": "Après quasiment deux jours de prolongations, la conférence de l'ONU s'est achevée dimanche en Turquie, sans accord global des pays participants, après le rejet de l'Union européenne de signer un texte dépourvu de mention aux énergies fossiles.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Tennis : les Français Théo Arribagé et Albano Olivetti remportent le Masters ATP en double",
-      "link": "https://www.liberation.fr/sports/tennis/tennis-les-francais-theo-arribage-et-albano-olivetti-remportent-le-masters-atp-en-double-20261122_C3HTEJG3IBEPRDOGAN6ESMNUCE/",
-      "date": "Sun, 22 Nov 2026 16:06:14 +0000",
-      "description": "Les tennismen de 26 et 34 ans se sont révélés cette année sur le circuit de double du tennis mondial. A Turin, ils accrochent leur plus beau titre.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Le Premier ministre du Canada apparaît à côté de Trump imitateur au dîner de presse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 16:06:46 +0000",
+      "description": "Un imitateur Donald Trump a pris la scène aux côtés de Mark Carney à la Galerie de presse parlementaire annuelle du Canada.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "SpaceX envoie des satellites espions américains classifiés sur orbite lors d'un lancement matinal depuis la côte californienne (vidéo)",
@@ -481,14 +617,6 @@
       "description": "SpaceX a lancé un lot de satellites espions classifiés pour le National Reconnaissance Office du gouvernement américain tôt le dimanche matin (nov. 22).",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Explosion à bord d'un navire russe au port de Libye causée par une attaque présumée de drone, disent les responsables",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 16:05:25 GMT",
-      "description": "Le gouvernement de l'est de la Libye dit qu'il travaille avec la Russie pour enquêter sur cet incident.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "6 façons pratiques d'utiliser votre ancien mini PC",
@@ -507,27 +635,11 @@
       "category": "France"
     },
     {
-      "title": "Quelle quantité de stockage Apple Intelligence utilise-t-elle sur votre iPhone ?",
-      "link": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
-      "date": "Sun, 22 Nov 2026 15:45:00 +0000",
-      "description": "Apple Intelligence a beaucoup de trucs soignés, mais vous pourriez préférer les désactiver si vous avez besoin de chaque peu d'espace libre possible.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Benjamin Millepied fait danser la pop intime de la chanteuse November Ultra sur la scène des Folies Bergère à Paris",
       "link": "https://www.franceinfo.fr/culture/spectacles/danse/benjamin-millepied-fait-danser-la-pop-intime-de-la-chanteuse-november-ultra-sur-la-scene-des-folies-bergere-a-paris_8289656.html#xtor=RSS-3-[lestitres]",
       "date": "Sun, 22 Nov 2026 15:39:20 +0100",
       "description": "À 49 ans, le prolifique chorégraphe propose trois nouvelles créations dans cette salle mythique, mariant différents univers artistiques. La voix caressante de November Ultra lui a inspiré un concert dansé d'une grande douceur.",
       "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Abigail Disney, l’héritière qui veut taxer les grandes fortunes : «Les ultrariches sont convaincus que seuls les imbéciles paient des impôts»",
-      "link": "https://www.liberation.fr/economie/abigail-disney-heritiere-les-ultrariches-sont-convaincus-que-seuls-les-imbeciles-paient-des-impots-20261122_X7TXCNR3PNG4DPZVOVM4GDA6KQ/",
-      "date": "Sun, 22 Nov 2026 15:34:58 +0000",
-      "description": "Elle est l’héritière d’un empire hollywoodien et veut payer plus d’impôts. La petite-nièce de Walt Disney explique à «Libé» son engagement pour dépasser la philanthropie.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -547,14 +659,6 @@
       "category": "France"
     },
     {
-      "title": "Le type de spam le plus reconnaissable est beaucoup plus ancien qu'Internet",
-      "link": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
-      "date": "Sun, 22 Nov 2026 15:30:00 +0000",
-      "description": "C'est un conte aussi vieux que le temps, littéralement. Les artistes con ont été des fortunes prometteuses (après une petite avance, bien sûr) à travers toutes sortes de correspondances.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Des douzaines se noient alors que le bateau chavire au Nigeria en route pour les funérailles",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
       "date": "Sun, 22 Nov 2026 15:24:20 +0000",
@@ -563,28 +667,12 @@
       "category": "Monde"
     },
     {
-      "title": "4 iPad Pro alternatives pour ceux qui cherchent à abandonner Apple",
-      "link": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple/",
-      "date": "Sun, 22 Nov 2026 15:15:00 +0000",
-      "description": "Il n'y a vraiment rien de tout à fait comme l'iPad Pro là-bas, mais ces alternatives montrent que vous pouvez toujours obtenir de grandes tablettes de sociétés autres que Apple.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Couper les subventions aux associations \"politisées\" ce \"n'est pas du chantage\", assure Marine Le Pen",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 22 Nov 2026 15:13:32 +0100",
-      "description": "La candidate à la présidentielle avait annoncé lundi qu'elle cessera de financer certaines associations qu'elle juge trop politiques si elle remporte l'élection de 2027.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Tété, artiste : quinqua requinqué",
-      "link": "https://www.liberation.fr/portraits/tete-artiste-quinqua-requinque-20261122_LRI23JXAPZDLVMECLNUQUYTHNU/",
-      "date": "Sun, 22 Nov 2026 15:12:51 +0000",
-      "description": "Ex-coqueluche folk, le chanteur montreuillois a puisé dans les épreuves de la vie un nouvel élan créatif.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Homme qui a été attiré à la villa éloignée et retenu pendant 15 heures sauvé après avoir été attaché et battu",
+      "link": "https://news.sky.com/story/man-rescued-after-being-lured-to-remote-villa-in-spain-where-he-was-held-for-15-hours-tied-up-and-beaten-13615282",
+      "date": "Sun, 22 Nov 2026 15:13:00 +0000",
+      "description": "Un homme a été sauvé après avoir été attiré à une villa isolée, détenu pendant 15 heures, attaché à une chaise, battu, et menacé de mort, selon la police en Espagne.",
+      "source": "Sky News",
+      "category": "Monde"
     },
     {
       "title": "Eisenkot d'Israël condamne le « terrorisme juif » en Cisjordanie",
@@ -592,14 +680,6 @@
       "date": "Sun, 22 Nov 2026 15:09:00 GMT",
       "description": "Le chef de l'opposition israélienne Gadi Eisenkot a condamné une récente série d'incendies criminels en Cisjordanie occupée comme « terrorisme juif ». Les autorités israéliennes ont ouvert une enquête sur ces incidents.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Les attaques de drones tuent quatre personnes près de la capitale du Soudan, endommagent le bâtiment de l'ONU",
-      "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 15:03:38 +0000",
-      "description": "Les Forces de soutien rapide sont accusées d'avoir frappé des bâtiments de l'ONU et du gouvernement, ainsi que l'aéroport de Khartoum.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -625,38 +705,6 @@
       "description": "Les publicités AI pour le Zanbix 2 en 1 Galaxy Projector Night Light sont tout à fait bizarres — nous avons coupé à travers le hype pour vous apporter une version qui livre réellement",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Les drogues ne fonctionnent pas",
-      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 14:51:39 +0000",
-      "description": "Un regard sur la façon dont l'utilisation excessive d'antibiotiques pourrait alimenter les superbesugs, tuant huit millions de personnes chaque année d'ici 2050.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Zelenskyy exhorte les États-Unis à libérer des missiles patriotes alors que la Russie tue 3 en Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 14:48:50 +0000",
-      "description": "Une attaque de drone russe tue au moins deux personnes près de Kiev alors que le bombardement russe tue une personne à Zaporizhzhia.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Affaire Hugues Moutouh : comment un préfet à ce point politisé a-t-il pu rester si longtemps en poste ?",
-      "link": "https://www.liberation.fr/politique/affaire-hugues-moutouh-comment-un-prefet-a-ce-point-politise-a-t-il-pu-rester-si-longtemps-en-poste-20261122_6KDHMC2N45H4NOR4LMXSFPFTHQ/",
-      "date": "Sun, 22 Nov 2026 14:38:17 +0000",
-      "description": "Soupçonné d’avoir transmis des informations confidentielles au RN, l’ancien conseiller de Nicolas Sarkozy et de Bruno Retailleau a choisi le «JDD» pour se défendre, mais utilise aussi les voies de communication officielles de la préfecture.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Pourquoi le Bangladesh est descendu dans la violence avant le retour prévu de Hasina",
-      "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 14:35:55 +0000",
-      "description": "Les partisans du PM évincé, qui vit en exil en Inde, ont protesté contre le refus de son retour.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Des manifestations mortelles éclatent au Bangladesh sur l'ancien leader exilé. Que savoir.",
@@ -707,9 +755,9 @@
       "category": "Monde"
     },
     {
-      "title": "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur",
+      "title": "Présidentielle 2027 : découvrez les grandes tendances des sondages avec notre agrégateur",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html",
-      "date": "Sun, 22 Nov 2026 14:00:11 +0100",
+      "date": "Sun, 22 Nov 2026 14:00:03 +0100",
       "description": "Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle.",
       "source": "Le Monde",
       "category": "France"
@@ -795,14 +843,6 @@
       "category": "Monde"
     },
     {
-      "title": "COP31 : la présidence turque ​annonce le rejet de sa proposition de décision finale, qui ne mentionnait pas la sortie des énergies fossiles",
-      "link": "https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html",
-      "date": "Sun, 22 Nov 2026 12:32:50 +0100",
-      "description": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a notamment déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellement la présidence du Conseil de l’Union européenne.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Canada La forêt boréale est remodelée par l'exploitation forestière et le changement climatique",
       "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
       "date": "Sun, 22 Nov 2026 12:29:33 +0000",
@@ -819,10 +859,10 @@
       "category": "France"
     },
     {
-      "title": "COP31: faute de consensus, la présidence turque annonce le rejet de la proposition d'accord final",
+      "title": "Climat: la COP31 s'achève officiellement sans être parvenue à un accord",
       "link": "https://www.rfi.fr/fr/environnement/20261122-cop31-faute-de-consensus-la-pr%C3%A9sidence-turque-annonce-le-rejet-de-la-proposition-d-accord-final",
       "date": "Sun, 22 Nov 2026 12:10:22 GMT",
-      "description": "La ​présidence turque de la ​COP31 a annoncé ce dimanche le rejet de la ​proposition de ‌compromis ⁠qu'elle avait présentée pour ‌clore la 31e conférence des Nations ⁠unies sur les changements climatiques à Antalya.",
+      "description": "La COP31, la plus longue conférence de l'ONU sur le climat de l'histoire après deux semaines de négociations et plus de 49 heures de prolongation, s'est terminée officiellement dimanche 22 novembre sans que les pays ne parviennent à se mettre d'accord sur une décision finale.",
       "source": "RFI",
       "category": "France"
     },
@@ -851,6 +891,14 @@
       "category": "Sciences"
     },
     {
+      "title": "Les pourparlers internationaux sur le climat se terminent par une déception",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "date": "Sun, 22 Nov 2026 11:33:22 -0500",
+      "description": "Quelque 200 pays se sont réunis à Antalya, en Turquie, pour la COP31, les négociations annuelles sur le climat. Les pays ne sont pas parvenus à un accord après le conflit sur les combustibles fossiles - le principal moteur des combustibles fossiles.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Bayern Munich boss sous le feu sur Jamal Musiala commentaires",
       "link": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 22 Nov 2026 11:30:00 GMT",
@@ -865,14 +913,6 @@
       "description": "Obtenez votre jeu pour moins avec ces offres Black Friday sur Nintendo Switch 2 packs et jeux officiels.",
       "source": "WIRED",
       "category": "Technologie"
-    },
-    {
-      "title": "Bateau en Russie toujours en feu après une attaque dans le golfe de Finlande",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 11:25:14 GMT",
-      "description": "Les forces de défense finlandaises disent que l'Ukraine était probablement derrière l'attaque du drone sur le navire.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Arabie Saoudite $1trn pot de richesse souffre d'une crise d'identité",
@@ -1007,14 +1047,6 @@
       "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sun, 22 Nov 2026 08:45:00 GMT",
       "description": "Les Philippines voulaient un code de conduite pour la mer de Chine méridionale en 2026. Mais les désaccords persistants entre la Chine et les pays de l'ANASE ralentissent les progrès vers un accord.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Inspiré par Bernie Sanders: Une agence allemande utilise la campagne US-Style pour booster la gauche en 2029",
-      "link": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 22 Nov 2026 08:39:00 GMT",
-      "description": "\"Les Goodforces\" veut voir une balançoire à gauche aux élections allemandes de 2029. L'agence compte parmi ses inspirations le maire de New York Zohran Mamdani et Bernie Sanders. Pourrait-elle transformer le paysage politique ?",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
@@ -1275,22 +1307,6 @@
       "category": "Monde"
     },
     {
-      "title": "Faits saillants et défis liés à un mois historique en Amérique du Sud",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-      "date": "Sat, 21 Nov 2026 17:01:35 -0500",
-      "description": "Le correspondant du NPR en Amérique du Sud discute de son travail sur une élection historique bouleversée et une visite papale.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Alice Huangs liens vers la puce en dessous du monde",
-      "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
-      "date": "Sat, 21 Nov 2026 17:00:10 GMT",
-      "description": "L'exécutif chinois en relation romantique avec l'ancien PDG de Nvidia Jensen Huang avait des liens avec le commerce lucratif des puces en Chine",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Voici les meilleurs agents d'IA qui peuvent vivre dans vos messages texte",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "date": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -1320,7 +1336,7 @@
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
       "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
       "source": "The Guardian",
-      "category": "Sciences"
+      "category": "Technologie"
     },
     {
       "title": "En ce jour dans l'espace ! 21 nov. 1676: L'astronome danois découvre la vitesse de la lumière — par accident — tout en observant la lune de Jupiter Io",
@@ -1329,14 +1345,6 @@
       "description": "Le 21 novembre 1676, l'astronome danois Ole Rømer découvrit la vitesse de la lumière tout en observant Jupiter et sa lune volcanique Io. Voilà pourquoi ça comptait.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Est-ce que la vente d'une version AI de votre visage à cette startup microdrama l'avenir d'Hollywood?",
-      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "date": "Sat, 21 Nov 2026 16:00:00 +0000",
-      "description": "Un acteur a licencié son visage à une start-up microdrama, dans une tendance déjà populaire en Chine. Les experts s'interrogent sur les conséquences à long terme si cela devient aussi une tendance à Hollywood.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Le Sénat se prépare à enquêter sur l'accès de l'Ukraine à Starshield",
@@ -2171,7 +2179,23 @@
       "category": "Environnement"
     },
     {
-      "title": "Sheherazaad-S Khudgarzi est un peuple gothique sud-asiatique magnifique, qui défie le genre",
+      "title": "Reliure du développeur Isaac supprime la musique AI de Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "date": "2026-11-22T12:25:20-05:00",
+      "description": "Le reliure d'Isaac: Repentance Plus a passé les derniers jours à se faire examiner-bombé sur Steam après qu'il ait été découvert qu'un segment particulier du jeu utilisait de la musique AI. L'utilisateur de Reddit ShweetsStuff a découvert les chansons utilisées lors d'une section à thème automatique Grand Theft. Ils ont trouvé plusieurs fichiers audio avec des métadonnées Suno qui [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Certains de nos jeux préférés Switch 2 sont moins chers à travers Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "date": "2026-11-22T12:00:00-05:00",
+      "description": "Black Friday est un grand moment pour élargir votre bibliothèque de jeu parce qu'il est une chance d'attraper des offres qui ne se produisent normalement pas tout au long de l'année. C'est vrai aussi pour les jeux Nintendo Switch 2. En plus d'une vente de 50 $ sur l'un de ses faisceaux de consoles, Nintendo frappe également 20 $ [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Khudgarzi est magnifique, \"genre-chaotique\"",
       "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
       "date": "2026-11-22T11:33:29-05:00",
       "description": "Sheherazaad a commencé à faire des ondulations dans le monde de la musique il y a quelques années avec son EP Qasr, qui a été produit par la lauréate du Grammy Award Arooj Aftab. Maintenant, elle est de retour avec Khudgarzi, son premier LP folk-noir reverb-dente qui est principalement chanté à Urdu. L'instrumentation sur Khudgarzi s'inspire de la musique traditionnelle d'Asie du Sud, y compris les styles Carnatic et Hindustani, [...]",
@@ -2199,22 +2223,6 @@
       "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
       "date": "2026-11-22T09:00:00-05:00",
       "description": "En haut de quelques marches en béton et par la porte d'entrée d'une maison de chemin de fer de 200 ans à New York, je suis une foule de gens dans le SoHo Playhouse 178 places. Tandis que nous filtrant à nos sièges, les huissiers main chaque personne un sac à cordon noir avec une paire de casques filaires reliés à une petite Auracast [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Comment Tamagotchis nous a accrochés aux animaux de compagnie numériques",
-      "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-      "date": "2026-11-22T08:15:27-05:00",
-      "description": "Si vous étiez enfant à la fin des années 1990, il y a près de 100 % de chances que vous ayez un Tamagotchi ou que vous connaissiez quelqu'un qui l'ait fait. Les petits animaux de compagnie numériques sont sortis de nulle part et sont devenus une sensation de la nuit, alors que des millions d'enfants ont signé à parent une créature pleurante, affamée, constamment sale. Jusqu'à ce qu'ils aillent [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Vos questions sur l'audio d'Apple HomeView, répondu",
-      "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "date": "2026-11-22T08:00:00-05:00",
-      "description": "Après avoir publié ma revue de HomeView, le premier écran intelligent d'Apple, vous avez toujours eu une tonne de questions sur la façon dont il fonctionne en tant que haut-parleur intelligent. Donc, j'ai passé beaucoup plus de temps à tester ses capacités audio et son support pour des applications musicales tierces - et j'ai trouvé quelques autres frustrations en cours de route. Ici [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
