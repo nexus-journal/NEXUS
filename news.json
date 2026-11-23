@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T05:48:32.151035+00:00",
+  "updated_at": "2026-11-23T06:54:06.543865+00:00",
   "count": 279,
   "articles": [
     {
@@ -443,14 +443,6 @@
       "category": "Monde"
     },
     {
-      "title": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261122-isra%C3%ABl-pas-d-avanc%C3%A9e-entre-les-partis-d-eisenkot-et-de-netanyahu-pour-la-formation-d-un-gouvernement",
-      "date": "Sun, 22 Nov 2026 20:34:07 GMT",
-      "description": "En Israël, c’est toujours l’impasse politique. Plus de quatre heures de négociations aujourd’hui à Herzliya entre le Likoud de Benyamin Netanyahu et le parti Yashar de Gadi Eisenkot et toujours aucun accord sur la formation d’un gouvernement d’unité. Les lignes rouges restent infranchissables, sur fond d’invectives entre les deux camps.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Caroline Toby : \"sans vidéosurveillance, Michel Zecler aurait été victime d'une erreur judiciaire\"",
       "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261122-caroline-toby-sans-vid%C3%A9osurveillance-michel-zecler-aurait-%C3%A9t%C3%A9-victime-d-une-erreur-judiciaire",
       "date": "Sun, 22 Nov 2026 20:30:18 GMT",
@@ -755,14 +747,6 @@
       "category": "Monde"
     },
     {
-      "title": "COP31: Accord sur le climat «non adopté», dit le président du sommet",
-      "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 22 Nov 2026 12:39:00 GMT",
-      "description": "Le sommet a été prolongé lorsque les nations ont travaillé pour parvenir à un accord, mais elles ne pouvaient pas s'entendre sur l'inclusion des combustibles fossiles. Les nations européennes, les petits États insulaires et les militants ont critiqué les pays producteurs de pétrole pour cette impasse.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Rencontrez les jeunes auteurs ! Un programme d'alphabétisation inspire les enfants en Afrique du Sud",
       "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
       "date": "Sun, 22 Nov 2026 12:34:20 -0500",
@@ -1024,14 +1008,6 @@
       "date": "Sat, 21 Nov 2026 22:43:18 EST",
       "description": "Les scientifiques ont mis au point un outil d'IA qui permet de découvrir des signes d'avertissement cachés du cancer de la vessie jusqu'à cinq ans avant le diagnostic, identifiant 85 % des cas dans une étude majeure impliquant près de 70 000 patients. En révélant des modèles subtils que le dépistage classique manque, la technologie pourrait aider les médecins à détecter le cancer plus tôt et épargner aux patients des procédures invasives inutiles.",
       "source": "ScienceDaily",
-      "category": "Sciences"
-    },
-    {
-      "title": "La lutte contre les combustibles fossiles laisse la COP31 dans l'impasse",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 22:19:43 GMT",
-      "description": "Les pays de près de 200 pays sont dans l'impasse pour essayer d'obtenir un nouvel accord climatique mondial.",
-      "source": "BBC News",
       "category": "Sciences"
     },
     {
@@ -1323,11 +1299,43 @@
       "category": "Exploration"
     },
     {
+      "title": "Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire",
+      "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/emmanuel-macron-reflechit-a-instaurer-une-regle-d-or-budgetaire_8273864.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 07:47:45 +0100",
+      "description": "Selon les informations de franceinfo, Emmanuel Macron envisage d'adopter ce système pour repousser le risque d'une crise financière alors que la France a atteint 3 600 milliards d'euros de dette et que les taux d'intérêt augmentent.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "La Corse reste en vigilance orange au vent et le Pas-de-Calais aux crues, fin de l'alerte \"pluie-inondations\" pour l'Ain et le Jura",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/la-corse-reste-en-vigilance-orange-au-vent-et-le-pas-de-calais-aux-crues-fin-de-l-alerte-pluie-inondations-pour-l-ain-et-le-jura_8295437.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 06:40:50 +0100",
+      "date": "Mon, 23 Nov 2026 07:20:34 +0100",
       "description": "Dans le Pas-de-Calais, touché ces derniers jours par des inondations, la Canche a amorcé sa décrue, mais le fleuve côtier reste en alerte orange.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 07:18:38 +0100",
+      "description": "Les bombardements ont touché un immeuble résidentiel, un supermarché et une habitation. La Russie a intensifié ses frappes contre la capitale ukrainienne ces six derniers mois et beaucoup redoutent que l'hiver soit le plus difficile depuis le début de la guerre.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Comment les pays asiatiques cherchent à soutenir les marchés au fur et à mesure que le ralentissement de l'IA diminue les stocks",
+      "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+      "date": "Mon, 23 Nov 2026 06:50:48 GMT",
+      "description": "Les autorités de régulation du marché en Corée du Sud, en Chine et à Taiwan ont adopté de nouvelles mesures pour soutenir les marchés.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Ukraine : au moins 15 morts lors de frappes russes dans la région de Kyiv, le conseil de sécurité de l’ONU se réunit",
+      "link": "https://www.liberation.fr/international/europe/ukraine-au-moins-15-morts-lors-de-frappes-russes-dans-la-region-de-kyiv-le-conseil-de-securite-de-lonu-se-reunit-20261123_S7QSYHJ5HZFVJFMWFJMBDMWXGM/",
+      "date": "Mon, 23 Nov 2026 06:44:32 +0000",
+      "description": "Une réunion de l’Otan est également prévue dans la journée au sujet du conflit et ses répercussions en Europe, après la chute de missiles et drones russes en Pologne vendredi.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -1339,11 +1347,35 @@
       "category": "France"
     },
     {
-      "title": "Guerre en Ukraine : des frappes russes font au moins 14 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 06:21:51 +0100",
-      "description": "Dix personnes ont été tuées dans l'effondrement partiel d'un immeuble résidentiel.",
-      "source": "franceinfo",
+      "title": "Cinq reprises des négociations sur le climat ratées COP31",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 06:33:50 GMT",
+      "description": "Le sommet COP31 à Antalya a été la plus longue conférence sur le climat de l'histoire de l'ONU.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Est-ce que la rupture de la règle est contagieuse ? Le mauvais effet pomme expliqué",
+      "link": "https://www.dw.com/en/is-rule-breaking-contagious-the-bad-apple-effect-explained/a-79980025?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 23 Nov 2026 06:33:00 GMT",
+      "description": "En voyant quelqu'un enfreindre une règle, les gens sont plus susceptibles de la briser aussi, une nouvelle étude trouve, surtout lorsque l'enfreindre est de leur côté politiquement. Regarder les autres se comporter bien fait à peine une différence.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Alcaraz s'empare de Zverev, numéro un du monde, pour remporter le titre de jeune Finale ATP",
+      "link": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 06:15:40 +0000",
+      "description": "Alcaraz rejoint une liste exclusive, devenant l'un des quatre seuls hommes à avoir remporté les quatre Majors et les Finales ATP.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "«On revient au papier et au crayon» : le CHU de Guadeloupe victime d’une cyberattaque, le plan blanc déclenché",
+      "link": "https://www.liberation.fr/societe/on-revient-au-papier-et-au-crayon-le-chu-de-guadeloupe-victime-dune-cyberattaque-le-plan-blanc-declenche-20261123_CY3JELIW6BDVFPOYD5JMKWEAMY/",
+      "date": "Mon, 23 Nov 2026 06:15:02 +0000",
+      "description": "Hormis les urgences vitales, l’activité hospitalière a été déprogrammée pour le reste de la semaine dans l’hôpital de Pointe-à-Pitre.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -1355,11 +1387,35 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : des frappes russes dans la région de Kiev font au moins 14 morts ; deux navires, dont au moins un russe, attaqués en Libye",
-      "link": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-des-frappes-russes-dans-la-region-de-kiev-font-au-moins-14-morts-deux-navires-dont-au-moins-un-russe-attaques-en-lybie_6814183_3210.html",
-      "date": "Mon, 23 Nov 2026 06:07:31 +0100",
-      "description": "Selon un bilan encore provisoire, dix personnes ont été tuées dans une frappe russe ayant touché un immeuble résidentiel à Dymer, à une quarantaine de kilomètres au nord de la capitale ukrainienne. Les secours sont parvenus à extraire vivants des décombres un enfant et une femme de 79 ans, ont annoncé les autorités locales.",
-      "source": "Le Monde",
+      "title": "«Ils veulent enfermer la mobilisation lycéenne dans les bureaux» : après avoir lâché peu, le gouvernement joue le pourrissement",
+      "link": "https://www.liberation.fr/societe/education/ils-veulent-enfermer-la-mobilisation-lyceenne-dans-les-bureaux-apres-avoir-lache-peu-le-gouvernement-joue-le-pourrissement-20261123_G7L3MHNDKBHRVILQZQ7XDYEBY4/",
+      "date": "Mon, 23 Nov 2026 06:09:00 +0000",
+      "description": "Les lycéens et étudiants ont arraché plusieurs mesures, qui restent bien en deçà de leurs revendications. Entre promesses difficiles à tenir, répression et dialogue enlisé, l’exécutif semble miser sur l’essoufflement du mouvement.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Alors que les pourparlers entre la Syrie et l'UE progressent, les diplomates craignent de se concentrer sur le rapatriement",
+      "link": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 06:08:13 +0000",
+      "description": "La Syrie et l'UE sont en pourparlers sur le commerce et les liens politiques, mais les migrations seront probablement la question clé à débattre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les régulateurs asiatiques se précipitent pour soutenir les marchés de l'éviction en tant que faussaires du commerce de l'IA",
+      "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+      "date": "Mon, 23 Nov 2026 06:07:01 GMT",
+      "description": "Parts des chipmakers et des fournisseurs de matériel de la région particulièrement vulnérables au retour dans le sentiment",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Climat: le captage du CO2, une technologie onéreuse qui peine à se déployer",
+      "link": "https://www.rfi.fr/fr/environnement/20261123-climat-le-captage-du-co2-une-technologie-on%C3%A9reuse-qui-peine-%C3%A0-se-d%C3%A9ployer",
+      "date": "Mon, 23 Nov 2026 06:04:19 GMT",
+      "description": "L’un des sujets de crispation de la COP31, c’est le captage et le stockage du CO2. Cette technologie consiste à récupérer le dioxyde de carbone avant qu’il ne soit rejeté dans l’atmosphère, puis à le transporter et à le stocker sous terre. Défendue par les pays producteurs de pétrole, elle suscite le rejet de plusieurs États, qui y voient un moyen de prolonger l’utilisation des énergies fossiles. Surtout, son modèle économique pose question.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -1371,20 +1427,44 @@
       "category": "France"
     },
     {
+      "title": "Des criminels et des Russes sous sanction ont pu agir en Europe, grâce à des papiers d’identité roumains frauduleux",
+      "link": "https://www.lemonde.fr/international/article/2026/11/23/des-criminels-et-des-russes-sous-sanction-ont-pu-agir-en-europe-grace-a-des-papiers-d-identite-roumains-frauduleux_6814344_3210.html",
+      "date": "Mon, 23 Nov 2026 06:00:19 +0100",
+      "description": "La justice roumaine enquête sur plusieurs centaines de cas d’individus qui ont obtenu, de manière frauduleuse, la citoyenneté roumaine. « Le Monde » et cinq médias ont identifié, à partir des dossiers judiciaires, une cinquantaine de Russes, mais aussi des Ukrainiens accusés de trahison par Kiev, dont certains, munis de ces faux papiers, ont pu se livrer à des activités illégales.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Pour Emmanuel Macron, un Choose France 100 % tricolore sur fond de morosité des entreprises françaises",
       "link": "https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html",
-      "date": "Mon, 23 Nov 2026 06:00:02 +0100",
+      "date": "Mon, 23 Nov 2026 06:00:00 +0100",
       "description": "Le chef de l’Etat tient, lundi 23 novembre, un sommet destiné à mettre en avant 42,5 milliards d’euros d’investissements en France émanant des entreprises hexagonales. Derrière les montants affichés se cache une dynamique inquiétante.",
       "source": "Le Monde",
       "category": "France"
     },
     {
-      "title": "On vous explique les débats autour de la retraite par capitalisation, que plusieurs candidats à la présidentielle proposent d'introduire pour financer les pensions",
-      "link": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/on-vous-explique-les-debats-autour-de-la-retraite-par-capitalisation-que-plusieurs-candidats-a-la-presidentielle-proposent-d-introduire-pour-financer-les-pensions_8288555.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 05:59:45 +0100",
-      "description": "Certains prétendants à l'Elysée souhaitent que les actifs financent une partie de leur retraite avec des cotisations placées durant leur carrière, alors que le système actuel repose sur la solidarité intergénérationnelle.",
-      "source": "franceinfo",
+      "title": "Nouvelle-Zélande Mitchell, Phillips frustrer l'Inde comme premier test se termine en tirage",
+      "link": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 05:58:36 +0000",
+      "description": "La Nouvelle-Zélande a sauvé un tirage au sort le dernier jour, survivant à 120 reprises dans une exposition de combat pour terminer sur 239-5 à la fin.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "«Dans la maison de l’ogre» de Carole Thibaut : un conte contemporain sur l’emprise à l’ombre de Barbe Bleue",
+      "link": "https://www.liberation.fr/culture/scenes/dans-la-maison-de-logre-de-carole-thibaut-un-conte-contemporain-sur-lemprise-a-lombre-de-barbe-bleue-20261123_7SUT647BCNBJFGDPIWIQ3PTOJ4/",
+      "date": "Mon, 23 Nov 2026 05:57:00 +0000",
+      "description": "La metteuse en scène décortique avec justesse les mécanismes de l’emprise en convoquant la culture populaire pour dépeindre l’arrivée d’une figure masculine toxique dans la vie d’une mère et ses deux enfants.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Qui est Alberto Feijoo, le conservateur cherchant à devenir le nouveau Premier ministre espagnol ?",
+      "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 05:51:00 +0000",
+      "description": "L'ancien fonctionnaire espère mener son Parti populaire à la victoire lors des élections du 29 novembre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "«Plus je suis redouté, plus je suis fier» : Clément Garin, trouble fondateur du média CGTV financé par les milliardaires, veut semer le chaos dans le PAF",
@@ -1393,6 +1473,14 @@
       "description": "Entre exclusivités, «scoops» frelatés et recherche permanente du buzz, l’influenceur qui se rêve journaliste, s’est fait un nom sur les réseaux sociaux. Mais celui qui vient de créer son propre média, CGTV, financé par trois mastodontes de l’audiovisuel, est aussi un adepte de méthodes risquées qui pourraient le conduire devant la justice.",
       "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Attaques israéliennes contre des médecins en Cisjordanie occupée, poussée de 350%: Groupe des droits",
+      "link": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 05:38:01 +0000",
+      "description": "Médecins pour les droits humains Israël dit que les médecins sont confrontés à une « escalade dangereuse » de la violence de la part des soldats et des colons.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Quelle est la suite après aucun accord lors des discussions sur le climat COP31?",
@@ -1413,8 +1501,8 @@
     {
       "title": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
       "link": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
-      "date": "Mon, 23 Nov 2026 05:30:10 +0100",
-      "description": "La candidate du Rassemblement national à l’Elysée, déclarée le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti, misant sur l’indifférence présumée des électeurs pour les dossiers judiciaires.",
+      "date": "Mon, 23 Nov 2026 05:30:07 +0100",
+      "description": "La candidate du Rassemblement national à l’Elysée, officiellement en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti, misant sur l’indifférence présumée des électeurs pour les dossiers judiciaires.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1467,14 +1555,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Des nids-de-poule aux toitures trouées, la «dette grise» met les communes au défi",
-      "link": "https://www.liberation.fr/politique/des-nids-de-poule-aux-toitures-trouees-la-dette-grise-met-les-communes-au-defi-20261123_XEE2AOELQZHDHHQ54IGKNJRYGU/",
-      "date": "Mon, 23 Nov 2026 05:02:00 +0000",
-      "description": "Après des années de sous-investissement pour entretenir les infrastructures et bâtiments publics communaux, faute de budget, les maires, qui organisent leur congrès cette semaine à Paris, alertent sur cette ardoise invisible qui pèse sur leurs finances.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Focus laser au sommet du monde",
       "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
       "date": "Mon, 23 Nov 2026 05:01:00 +0000",
@@ -1515,34 +1595,10 @@
       "category": "Économie"
     },
     {
-      "title": "Au Bangladesh, les grèves dans le secteur du textile plongent le pays dans la violence",
-      "link": "https://www.liberation.fr/international/asie-pacifique/au-bangladesh-les-greves-dans-le-secteur-du-textile-plongent-le-pays-dans-la-violence-20261123_HF4OXKOXLRBSFLU5C36ODLYEUI/",
-      "date": "Mon, 23 Nov 2026 04:59:00 +0000",
-      "description": "Le mouvement des ouvriers, mobilisés pour une augmentation du salaire minimum dans la confection, a été violemment réprimé par les forces de l’ordre. Le gouvernement accuse les partisans de Sheikh Hasina, l’ancienne Première ministre en exil, d’attiser les tensions.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Wall Street va rebondir après la vente des actions AI",
       "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
       "date": "Mon, 23 Nov 2026 04:58:47 GMT",
       "description": "Les marchés asiatiques diminuent à mesure que les chipmakers sud-coréens perdent environ 3%",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "A Orléans, le pas de deux du maire de droite avec le Rassemblement national",
-      "link": "https://www.liberation.fr/politique/elections/a-orleans-le-pas-de-deux-du-maire-de-droite-avec-le-rassemblement-national-20261123_UN3AQEGY6VH6HM6FKR3BB6KN6M/",
-      "date": "Mon, 23 Nov 2026 04:55:00 +0000",
-      "description": "Ancien membre des Républicains, Serge Grouard s’est récemment fait remarquer par des signes de convergence avec le parti d’extrême droite, qui organisait son congrès dans la capitale du Centre-Val de Loire en octobre.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Les régulateurs asiatiques se précipitent pour soutenir les marchés de l'éviction en tant que faussaires du commerce de l'IA",
-      "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
-      "date": "Mon, 23 Nov 2026 04:54:47 GMT",
-      "description": "Parts des chipmakers et des fournisseurs de matériel de la région particulièrement vulnérables au retour dans le sentiment",
       "source": "Financial Times",
       "category": "Économie"
     },
@@ -1555,22 +1611,6 @@
       "category": "Monde"
     },
     {
-      "title": "Féminicide de Chahinez Daoud : son ex-mari Mounir Boutaa jugé en appel pour l’avoir brûlée vive",
-      "link": "https://www.liberation.fr/societe/police-justice/feminicide-de-chahinez-daoud-son-ex-mari-mounir-boutaa-juge-en-appel-pour-lavoir-brulee-vive-20261123_YIPMATLKLJCJFI4R2WSCSPK27U/",
-      "date": "Mon, 23 Nov 2026 04:32:00 +0000",
-      "description": "Le crime commis en 2021 à Mérignac, en Gironde, pour lequel l’accusé a été condamné à la perpétuité, avait aussi mis en lumière les défaillances de la police dans la prise en charge des femmes victimes de violences.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Tata Steel achète 1,67 milliard de dollars de participation dans le plus grand fabricant de tuyaux en acier de l'Inde ; les actions plongent près de 5%",
-      "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
-      "date": "Mon, 23 Nov 2026 04:26:49 GMT",
-      "description": "Tata Steel achètera une participation de 26,4 % dans le premier fabricant indien de tubes et tuyaux en acier de construction pour augmenter la capacité en aval.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Les évaluations de Pip nécessitent une « révision fondamentale », selon le rapport",
       "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 04:01:13 GMT",
@@ -1579,52 +1619,12 @@
       "category": "Économie"
     },
     {
-      "title": "Pochettinos cauchemar commence comme Man U battu par Liverpool",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/pochettinos-nightmare-start-as-man-u-thrashed-by-liverpool?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 03:52:33 +0000",
-      "description": "Mauricio Pochettino n'aurait guère pu prendre un mauvais départ en tant que manager de Manchester United après avoir été battu 4-0.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "La revendication du Yémen Houthis attaque la raffinerie de pétrole saoudienne comme Trump avertit de nouvelles grèves l'année prochaine",
       "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
       "date": "Mon, 23 Nov 2026 03:52:17 GMT",
       "description": "Houthis, le Yémen aligné sur l'Iran, a revendiqué une opération contre la raffinerie de pétrole de Rabigh en Arabie saoudite, alors que les efforts diplomatiques pour mettre fin à la guerre font face à de longues difficultés.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Don Toliver le chaos de concert après ‘substance' laissé partir dans la foule",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 03:25:25 +0000",
-      "description": "Don Toliver le chaos de concert après ‘substance' laissé partir dans la foule",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Belgique Les aéroports doivent fermer en raison d'une grève anti-austérité",
-      "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 03:15:55 +0000",
-      "description": "Skeyes stoppe les services de contrôle de la circulation aérienne, atterrissant des vols dans les aéroports belges au milieu d'une grève dirigée par un syndicat.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "L'Indonésie confirme que 24 morts dans le feu de l'usine de bonbons",
-      "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 02:35:42 +0000",
-      "description": "Les sauveteurs cherchent 30 personnes encore disparues.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le chef du renseignement américain défend les commentaires de Trump, appelant Poutine son ami.",
-      "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 02:23:13 +0000",
-      "description": "Jay Clayton, directeur du renseignement national américain, affirme que les commentaires de Trump étaient « tout à fait appropriés » dans le contexte du sommet.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Voici combien Starlink coûte en 2020 contre 2026",
