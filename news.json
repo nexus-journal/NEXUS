@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:51:58.038536+00:00",
+  "updated_at": "2026-11-23T11:00:12.260147+00:00",
   "count": 278,
   "articles": [
     {
@@ -163,14 +163,6 @@
       "category": "Défense"
     },
     {
-      "title": "De nouveaux outils pour les troupes pour abattre des drones.",
-      "link": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-      "date": "Thu, 19 Nov 2026 19:57:54 +0000",
-      "description": "La menace viscérale de drones bon marché qui livrent des munitions antipersonnel ciblées et guidées continue de créer de nouveaux systèmes de protection. De plus, une entrevue avec un récipiendaire de la Médaille d'honneur.",
-      "source": "Defense News",
-      "category": "Défense"
-    },
-    {
       "title": "L'endroit doux pour la taille de constellation",
       "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
       "date": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -307,10 +299,10 @@
       "category": "Exploration"
     },
     {
-      "title": "Regarder en direct aujourd'hui: Amazon lancer 1er lot de satellites Internet depuis l'échec Vulcain Centaur",
+      "title": "Lancement Ariane 6 de 36 satellites Amazon Leo reporté en raison d'un problème technique",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
       "date": "Sun, 22 Nov 2026 22:00:00 +0000",
-      "description": "Une fusée Ariane 6 lancera 36 satellites à large bande amazoniens pour orbiter au début du 23 novembre, à peine huit jours après l'échec d'un ULA Vulcain Centaur lors de sa mission pour Amazon. Regardez-le vivre ici.",
+      "description": "La prochaine tentative de lancement ne sera pas antérieure au 24 novembre.",
       "source": "Space.com",
       "category": "Exploration"
     },
@@ -339,14 +331,6 @@
       "category": "Monde"
     },
     {
-      "title": "Turquie : Des milliers de manifestants ont manifesté contre la fermeture de médias critiques",
-      "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sun, 22 Nov 2026 21:31:00 GMT",
-      "description": "Les manifestants se sont réunis à Istanbul pour manifester leur soutien à la liberté de la presse en Turquie. La manifestation a été appelée quelques jours seulement après que la police a perquisitionné la télévision Sozcu et arrêté plusieurs membres du personnel supérieur.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Le chef scientifique d'OpenAI-S a des réflexions sur la façon de limiter le développement de l'IA",
       "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
       "date": "Sun, 22 Nov 2026 21:14:07 +0000",
@@ -361,14 +345,6 @@
       "description": "Nous avons compilé une liste d'applications d'amitié, des plates-formes de découverte amis comme BFF à celles axées sur les événements comme Timeleft.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Ne nourrissez pas les animaux. Les Vets expliquent pourquoi les chapeaux, les pièces et les chaussures peuvent être mortels.",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
-      "date": "Sun, 22 Nov 2026 20:53:48 -0500",
-      "description": "Il n'est pas facile de récupérer des objets étrangers d'animaux une fois ingérés. Certaines choses peuvent être attrapées à l'aide d'un endoscope. Mais si un objet arrive loin dans le tractus intestinal, la chirurgie n'est pas toujours possible.",
-      "source": "NPR",
-      "category": "Monde"
     },
     {
       "title": "Caroline Toby : \"sans vidéosurveillance, Michel Zecler aurait été victime d'une erreur judiciaire\"",
@@ -451,36 +427,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Ce que c'est lors d'une conférence sur le climat alors que les discussions s'effondrent",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
-      "date": "Sun, 22 Nov 2026 17:40:23 -0500",
-      "description": "Après deux semaines de négociations, les pourparlers internationaux sur le climat ne parviennent pas à un accord. Rachel Waldholz du NPR était en Turquie pour la conférence.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Philly festival-goers disent que les cornichons sont une vraie grande rouille",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
-      "date": "Sun, 22 Nov 2026 17:40:19 -0500",
-      "description": "Influenceur et passionné de cornichons Dan Pancoast rend compte de première main des festivités du festival \"The Big Dill\" à Philadelphie.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Ukraine Campagne contre les actifs navals russes Bien au-delà de la mer Noire entre dans une nouvelle phase",
       "link": "https://www.twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase",
       "date": "Sun, 22 Nov 2026 17:26:09 -0500",
       "description": "L'Ukraine a détruit avec succès une nouvelle corvette russe et a frappé en seulement un jour deux autres cargos, l'un en Méditerranée et l'autre en Baltique. L'article Ukraines Campagne contre les actifs navals russes Bien au-delà de la mer Noire entre une nouvelle phase est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "Le directeur du renseignement national Jay Clayton met les Américains en garde contre les pannes de technologie",
-      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "date": "Sun, 22 Nov 2026 17:14:03 GMT",
-      "description": "L'avertissement de Clayton s'avance sur le voyage de Thanksgiving, après des pannes séparées perturbées voyage aérien, Microsoft 365 et certaines transactions bancaires.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Mobilité TechCrunch : robots de test A/B versus humains",
@@ -563,14 +515,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Le patron de Centrica dit qu'il est « extrêmement préoccupé » par l'impact de la flambée des factures d'énergie",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 13:50:21 GMT",
-      "description": "Chris O'Shea dit que le nombre de personnes incapables ou peu disposées à payer leurs factures d'énergie augmentera lorsque les prix augmenteront au cours de la nouvelle année.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Dysfonctionnement érectile médicament pourrait être prometteur pour la maladie d'Alzheimer",
       "link": "https://www.scientificamerican.com/article/erectile-dysfunction-drug-could-hold-promise-for-alzheimers-disease/",
       "date": "Sun, 22 Nov 2026 13:00:00 +0000",
@@ -579,28 +523,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Des villageois libanais retournent dans des maisons détruites alors que l ' armée israélienne recule",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-      "date": "Sun, 22 Nov 2026 12:44:52 -0500",
-      "description": "Dans le cadre d'un projet pilote mené dans un village du sud du Liban, les forces israéliennes sont parties et l'armée libanaise l'a déplacée. Mais les villageois qui reviennent trouvent leurs maisons détruites.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Rencontrez les jeunes auteurs ! Un programme d'alphabétisation inspire les enfants en Afrique du Sud",
-      "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-      "date": "Sun, 22 Nov 2026 12:34:20 -0500",
-      "description": "L'Afrique du Sud s'efforce de surmonter la crise de l'alphabétisation des enfants. Dans un township de Johannesburg, un club de lecture inculque l'amour des livres aux enfants et les inspire à devenir des auteurs.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Canada La forêt boréale est remodelée par l'exploitation forestière et le changement climatique",
-      "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-      "date": "Sun, 22 Nov 2026 12:29:34 +0000",
-      "description": "Le Canada a conçu la préservation de sa forêt boréale comme un modèle pour le monde, mais l'exploitation forestière commerciale combinée au changement climatique cause de graves dommages.",
-      "source": "The New York Times",
-      "category": "Monde"
+      "title": "Le Nasdaq est en chute libre. Voici un stock à regarder",
+      "link": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+      "date": "Sun, 22 Nov 2026 12:10:39 GMT",
+      "description": "Les primes d'options élevées créent une opportunité en Amazon",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Les médicaments GLP-1 pourraient avoir un bénéfice environnemental étonnamment important",
@@ -667,28 +595,12 @@
       "category": "Monde"
     },
     {
-      "title": "Meilleurs cadeaux pour maman (2026): Calendriers muraux numériques, meilleurs sacs, bijoux personnalisés, et plus encore",
-      "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "date": "Sun, 22 Nov 2026 11:02:00 +0000",
-      "description": "D'un calendrier qui maintient ma famille organisée à un cadre qui sauve les photos de mon rouleau de caméra, ces favoris font des cadeaux réfléchis.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Les médias conservateurs pèsent son avenir à mesure que des fissures apparaissent dans le mouvement Trump",
       "link": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
       "date": "Sun, 22 Nov 2026 11:00:26 GMT",
       "description": "Deux semaines après le renversement du Congrès des Démocrates, les points de vente conservateurs ont des conversations sur l'opportunité de se distancer de Trump ou de doubler sur Maga Comme une soi-disant vague bleue s'est écrasée à travers le pays dans la nuit du 3 novembre, les hôtes et commentateurs conservateurs sur Fox News ont montré une capacité presque virtuose d'éviter de blâmer directement Donald Trump pour la défaite du parti républicain, au lieu de mettre la faute sur les électeurs impertinents",
       "source": "The Guardian",
       "category": "Économie"
-    },
-    {
-      "title": "Les banques ont eu jusqu'ici avec votre agent d'IA",
-      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "date": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "description": "Les grandes institutions financières américaines interdisent aux robots tiers de se connecter à vos comptes – et avertissent que toute erreur bot coûteuse est strictement votre problème.",
-      "source": "WIRED",
-      "category": "Technologie"
     },
     {
       "title": "Écoute les sons d'une étoile de bébé qui explose dans la vie",
@@ -707,22 +619,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Les scientifiques ont essayé de tuer ce dirt, mais il ne mourrait pas",
-      "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
-      "date": "Sun, 22 Nov 2026 10:30:00 +0000",
-      "description": "Des réactions chimiques importantes sur le plan biologique ont persisté dans le sol stérilisé pendant six ans, donnant ainsi des indices sur la façon dont la vie sur Terre a pu commencer.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Comment cette année Super El Niño va semer la faim mondiale",
-      "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-      "date": "Sun, 22 Nov 2026 10:00:00 +0000",
-      "description": "Alors que certaines régions sont plus humides, d'autres sont confrontées à une sécheresse massive. En plus des guerres et des coupures de l'aide étrangère, le phénomène météorologique pourrait laisser des millions de personnes dans les pays vulnérables sans suffisamment manger.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Rencontrer les travailleurs ukrainiens de l'énergie qui évitent les drones pour ramener l'électricité des gens",
       "link": "https://news.sky.com/story/meet-the-ukrainian-energy-workers-who-dodge-drones-to-bring-peoples-electricity-back-13615168",
       "date": "Sun, 22 Nov 2026 09:16:00 +0000",
@@ -739,27 +635,11 @@
       "category": "Sciences"
     },
     {
-      "title": "Corée du Sud Ministre de l'Éducation Démission sur anti-A.I. Règles de tricherie",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-      "date": "Sun, 22 Nov 2026 08:35:05 +0000",
-      "description": "Deux jours avant l'examen d'entrée à l'université de Corée du Sud, de nouvelles mesures ont été annoncées, y compris des alertes téléphoniques et des inspections de lunettes. Des réactions publiques sont venues vite.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Les administrateurs de la Banque d'Angleterre ont illégalement profité de l'esclavage postérieur à l'abolition à Cuba",
       "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
       "date": "Sun, 22 Nov 2026 08:00:22 GMT",
       "description": "De nouvelles recherches révèlent que la société britannique Cobre Mining Company a contribué à l'industrialisation de Manchester via des gisements de cuivre et des esclaves africains • La richesse du commerce des esclaves a été intégrée dans le système financier britannique, des recherches constatent que les entreprises britanniques gérées par des directeurs de longue date de la Banque d'Angleterre ont profité de l'esclavage à Cuba pendant des décennies après l'abolition de l'esclavage dans l'empire britannique, selon des recherches. Hommes et garçons ont été asservis",
       "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
-      "title": "Comédien taïwanais ciblé pour Mocking Xi Jinping est le dessin des foules de vendeurs",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-      "date": "Sun, 22 Nov 2026 06:58:18 +0000",
-      "description": "« Xi Jinping est ma muse de comédie », a déclaré Huang Yi-hao, qui a survécu à un accident de voiture que les autorités disent être censés le faire taire.",
-      "source": "The New York Times",
       "category": "Monde"
     },
     {
@@ -819,22 +699,6 @@
       "category": "Économie"
     },
     {
-      "title": "Drones, textes et détournements : comment le Mexique a capturé un homme le plus recherché",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-      "date": "Sun, 22 Nov 2026 01:56:16 +0000",
-      "description": "Les autorités américaines et mexicaines ont partagé des renseignements pendant des semaines pour suivre Fausto Isidro Meza Flores, un chef du cartel de la drogue qu'un représentant américain a appelé l'homme le plus dangereux au Mexique.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "On demande aux employeurs de donner leur avis sur les entrevues - voici ce que les candidats veulent",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 00:04:07 GMT",
-      "description": "Les gens disent souvent qu'ils n'entendent rien après avoir postulé pour un emploi. Mais les employeurs pourraient-ils être contraints de répondre à chaque candidat?",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "La COP31 se terminera-t-elle par un nouvel accord climatique mondial?",
       "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 21 Nov 2026 22:44:52 GMT",
@@ -881,14 +745,6 @@
       "description": "À cinq mois de l’échéance, François Ruffin a annoncé, samedi, qu’il retirait sa candidature à l’élection présidentielle, prenant \"acte de l’impasse\" de sa campagne faute d’avoir réussi à imposer l’organisation d’une \"grande primaire\" de toute la gauche.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Anthropics record IPO rencontre avec la pire semaine sur Wall Street depuis 2020",
-      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-      "date": "Sat, 21 Nov 2026 16:40:05 GMT",
-      "description": "Anthropic a fait ses débuts historiques à Nasdaq une journée avant que Nvidia ne ferme sa longue série de pertes hebdomadaires depuis 2008.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Négociations internationales des Nations Unies sur le contrôle de l'utilisation des armes autonomes",
@@ -1001,14 +857,6 @@
       "description": "L'arbre généalogique humain peut nécessiter une révision majeure. De nouvelles recherches de l'Université Monash remettent en question la classification traditionnelle de nos anciens ancêtres, soutenant que des espèces comme Australopithecus et Paranthropus devraient être regroupées au sein de notre propre genre, Homo. À mesure que les scientifiques découvrent plus de fossiles et analysent les relations évolutives, les frontières qui séparaient autrefois ces anciens parents deviennent de plus en plus difficiles à défendre.",
       "source": "ScienceDaily",
       "category": "Environnement"
-    },
-    {
-      "title": "Syndicats, jeunesse et gilets jaunes un peu moins mobilisés pour le sixième samedi de manifestation",
-      "link": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
-      "date": "Sat, 21 Nov 2026 08:23:49 GMT",
-      "description": "Pour la sixième semaine consécutive, syndicats, organisations de jeunesse et Gilets jaunes ont manifesté contre la vie chère, dans un contexte de colère sociale devenue européenne mais qui commence à s'essouffler en France. Le ministère de l'Intérieur a dénombré au total 82 500 manifestants dans l'Hexagone, dont 21 500 à Paris. La CGT parle de son côté de 150 000 manifestants dans le pays, 45 000 dans la capitale.",
-      "source": "France 24",
-      "category": "France"
     },
     {
       "title": "«Le malheur de l'humanité»: la quête pour rendre les mains robotiques obsolètes?",
@@ -1131,19 +979,91 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : Marine Le Pen attaque David Lisnard et son projet de «broyer» le code du travail, le maire de Cannes réplique vivement",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-francois-ruffin-edouard-philippe-candidature-marine-le-pen-20261123",
-      "date": "Mon, 23 Nov 2026 10:50:03 +0100",
-      "description": "Le candidat Horizons à la présidentielle Édouard Philippe plafonne à 10% des intentions de vote et se fait dépasser par le libéral David Lisnard dans un sondage publié lundi, qui montre également un recul de Marine Le Pen.",
+      "title": "Sommet Choose France : Emmanuel Macron annonce la création de \"zones industrielles à fort potentiel\" où les procédures d'installation seront simplifiées",
+      "link": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 11:56:01 +0100",
+      "description": "Pour le chef de l'Etat, l'objectif est de faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 11:30:12 +0100",
+      "description": "Volodymyr Zelensky s'est félicité d'avoir ciblé deux navires battant pavillon russe lors de deux attaques de drones menées dans le port et au large de la ville de Benghazi.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Déraillement d’un TER en Normandie : un père et ses deux fils placés en garde à vue",
+      "link": "https://www.lefigaro.fr/faits-divers/deraillement-d-un-ter-en-normandie-un-pere-et-ses-deux-fils-places-en-garde-a-vue-20261123",
+      "date": "Mon, 23 Nov 2026 11:15:55 +0100",
+      "description": "Plus de deux mois après l’accident de train qui a fait 44 blessés, trois suspects ont été interpellés ce lundi matin. Ils sont actuellement en garde à vue pour «vol en réunion» et «blessures involontaires».",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 10:44:47 +0100",
-      "description": "Après quinze jours de négociations, les pays du monde entier ont échoué à s'accorder sur un texte final.",
-      "source": "franceinfo",
+      "title": "Dans la vallée de la Roya, Cédric Herrou en garde à vue pour «provocation publique»",
+      "link": "https://www.liberation.fr/societe/police-justice/dans-la-vallee-de-la-roya-cedric-herrou-en-garde-a-vue-pour-provocation-publique-20261123_ZDPGE22KPBBDBJ45RI7MDSEN4I/",
+      "date": "Mon, 23 Nov 2026 10:55:53 +0000",
+      "description": "L’agriculteur, figure de l’aide aux migrants, a été interpellé ce lundi 23 novembre. Il lui est reproché un appel à soutenir les manifestations étudiantes dans une vidéo postée onze jours avant le 17 octobre. «Un énième coup de pression» selon ses proches.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Capita partages plongent et le patron descend à mesure que la saga des pensions de la fonction publique traîne sur",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 10:55:35 GMT",
+      "description": "Les travailleurs du secteur public ont été touchés par des retards dans le versement des pensions, dans un régime supervisé par Capita depuis l'année dernière.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "\"Sur le point de s'effondrer\" : les coupes budgétaires allemandes menacent le travail antiraciste et démocratique",
+      "link": "https://www.dw.com/en/on-the-verge-of-collapse-germany-s-budget-cuts-threaten-anti-racism-and-democracy-work/a-80018644?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 23 Nov 2026 10:55:00 GMT",
+      "description": "De nombreuses initiatives locales en Allemagne font face à des réductions de financement. Les organisations touchées sonnent l'alarme, soulignant les défis croissants posés par l'extrémisme d'extrême droite.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "A Saint-Nazaire avec les «spotteurs» de navires sur le pont pour la mise à flot du «MSC World Asia» : «J’ai déjà pleuré pour un départ»",
+      "link": "https://www.liberation.fr/lifestyle/voyages/a-saint-nazaire-avec-les-spotteurs-de-navires-sur-le-pont-pour-la-mise-a-flot-du-msc-world-asia-jai-deja-pleure-pour-un-depart-20261123_U22HAH53VZGC3DVA4YGOS4KXJI/",
+      "date": "Mon, 23 Nov 2026 10:54:33 +0000",
+      "description": "A quelques jours du départ de l’imposant paquebot construit pour la compagnie MSC Croisière, jeudi 26 novembre, auquel devraient assister de nombreux curieux, rencontre avec ces mordus de bateaux dont certains partagent leur passion sur les réseaux sociaux.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "«Ça ne s’arrête jamais» : à Mayotte, les élus manifestent contre les violences avant une réunion avec Sébastien Lecornu",
+      "link": "https://www.liberation.fr/societe/police-justice/ca-ne-sarrete-jamais-a-mayotte-les-elus-manifestent-contre-les-violences-avant-une-reunion-avec-sebastien-lecornu-20261123_RZ74BVWGNJDENI7EAOSEJE7BE4/",
+      "date": "Mon, 23 Nov 2026 10:53:18 +0000",
+      "description": "Alors qu’une femme a été violée en début de semaine dernière en se rendant au travail et qu’un adolescent a été tué ce week-end, élus et habitants ont tenu à dénoncer ce lundi 23 novembre l’explosion des agressions dans le département.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "«Ma femme s’est réveillée en découvrant 8 000 € sur son compte !» : la Croix-Rouge verse de l’argent par erreur à ses employés, elle leur demande de ne pas le dépenser",
+      "link": "https://www.liberation.fr/societe/ma-femme-sest-reveillee-en-decouvrant-8-000-sur-son-compte-la-croix-rouge-verse-de-largent-par-erreur-a-ses-employes-elle-leur-demande-de-ne-pas-le-depenser-20261123_5BO6VWFEA5D55HBE5YAX7KXBIQ/",
+      "date": "Mon, 23 Nov 2026 10:52:24 +0000",
+      "description": "La somme cumulée des virements accidentels s’élèverait à 2 millions d’euros. L’association a confirmé qu’il s’agissait d’une faute humaine et a affirmé débuter le rappel des fonds ce lundi 23 novembre 2026.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Des dizaines de personnes n'ont pas été recensées après le feu grâce à l'usine Candy en Indonésie",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "date": "Mon, 23 Nov 2026 10:45:26 +0000",
+      "description": "Des centaines de personnes étaient à l'enceinte quand un incendie a éclaté samedi, puis a fait rage pendant des heures.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "L’Ukraine revendique des attaques contre deux navires russes au large de la Libye",
+      "link": "https://www.liberation.fr/international/europe/lukraine-revendique-des-attaques-contre-deux-navires-russes-au-large-de-la-libye-20261123_L22KMEK5IZDWZP35XFEVOLLN2A/",
+      "date": "Mon, 23 Nov 2026 10:42:46 +0000",
+      "description": "Volodymyr Zelensky a affirmé ce lundi ce que des drones sous-marins ukrainiens ont coulé la corvette «Merkury», l’un des navires les plus récents de la Russie, vers Benghazi. Ses forces ont aussi ciblé le cargo MV Angara.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -1155,11 +1075,91 @@
       "category": "France"
     },
     {
+      "title": "Zelensky loue l'opération de drone qui a coulé le navire de guerre russe dans un port libyen",
+      "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+      "date": "Mon, 23 Nov 2026 10:35:46 GMT",
+      "description": "L'incident vient avec un drone ukrainien présumé frapper sur un cargo russe dans la mer Baltique pendant le week-end.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Présidentielle 2027 : la dynamique David Lisnard s’installe tandis que la primaire de la droite et du centre est dans l’impasse",
       "link": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122",
       "date": "Mon, 23 Nov 2026 10:35:05 +0100",
       "description": "DÉCRYPTAGE - La progression du candidat de Nouvelle Énergie dans l’opinion bouscule les discussions avec Bruno Retailleau et Gabriel Attal. Les divergences sur l’arc des candidats et le refus d’Édouard Philippe compliquent sensiblement le projet.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Qu'est-ce qu'il y a sur la montre de nuit de Rembrandt ?",
+      "link": "https://www.dw.com/en/what-is-crawling-on-rembrandt-s-the-night-watch/a-79972540?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 23 Nov 2026 10:33:00 GMT",
+      "description": "Un nouveau projet et une nouvelle exposition, \"The Night Watch Lives\", lève le voile sur le monde caché des microbes couvrant l'une des peintures les plus célèbres de l'âge d'or néerlandais.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/23/la-chute-des-bourses-asiatiques-ressemble-plus-a-un-krach-qu-a-une-simple-correction_6814369_3234.html",
+      "date": "Mon, 23 Nov 2026 10:30:06 +0100",
+      "description": "La Bourse de Corée du Sud a chuté de presque 50 % depuis juin, et celle de Taïwan de 30 %. Les autorités financières asiatiques sont intervenues, samedi et dimanche, sur les marchés pour tenter d’enrayer le déclin. Une agitation qui fait suite à la lourde dégringolade de Wall Street vendredi, relève Eric Albert, journaliste au service Economie du « Monde ».",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "À l'intérieur de Google, ne pas faire de Google Maps travailler pour les Palestiniens",
+      "link": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+      "date": "Mon, 23 Nov 2026 10:30:00 +0000",
+      "description": "Un responsable de produit a fait sa mission de cartographier avec précision les points de contrôle israéliens en Cisjordanie sur l'application de navigation la plus populaire du monde. Puis la compagnie a débloqué son travail.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Mobilisation : 98 lycéens blessés la semaine dernière, selon Edouard Geffray",
+      "link": "https://www.liberation.fr/societe/police-justice/mobilisation-98-lyceens-blesses-la-semaine-derniere-selon-edouard-geffray-20261123_N4ASGQBOWJBILMMVPWRZ4CIKT4/",
+      "date": "Mon, 23 Nov 2026 10:26:19 +0000",
+      "description": "Invité de LCI ce lundi 23 novembre, le ministre de l’Education nationale a dressé le bilan des derniers jours, pointant des violences «territorialement très limitées» mais «très fortes», alors que le mouvement dure depuis deux mois.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Ils étaient trop vieux pour s'engager, mais pas pour se battre. Voici les loups de Steppe d'Ukraine.",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+      "date": "Mon, 23 Nov 2026 10:26:17 +0000",
+      "description": "Lorsque l'armée a refusé de les laisser s'inscrire, une bande d'hommes vieillissants a trouvé leur propre voie pour faire la guerre à la Russie.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Anthropique, les actions de Nvidia augmentent dans le trading pré-marché après la vente des grandes technologies",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "date": "Mon, 23 Nov 2026 10:24:25 GMT",
+      "description": "Le Nasdaq a glissé 10 % la semaine dernière dans sa pire semaine depuis les premiers jours de Covid en 2020.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Pourquoi la banque Grameen du Bangladesh est-elle attaquée ?",
+      "link": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 10:22:34 +0000",
+      "description": "La principale institution financière s'est trouvée au centre des tensions au milieu de la violence des partisans du cheikh Hasina.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les «zones militaires» occupées de Cisjordanie deviennent de facto des terres de colons israéliens",
+      "link": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 10:20:58 +0000",
+      "description": "Les zones militaires fermées en Cisjordanie occupée sont saisies par les colons comme postes d'attente pour les pogroms.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Pedro Sanchez peut-il réussir sa «remontada» et rester au pouvoir?",
+      "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261123-pedro-sanchez-peut-il-r%C3%A9ussir-sa-remontada-et-rester-au-pouvoir",
+      "date": "Mon, 23 Nov 2026 10:20:09 GMT",
+      "description": "Dernière ligne droite avant les élections législatives anticipées qui auront lieu ce dimanche 29 novembre en Espagne. Le scrutin s’annonce périlleux pour Pedro Sanchez, donné perdant dans les sondages. Spécialiste des « remontadas » spectaculaires, le chef du gouvernement socialiste pourra-t-il néanmoins faire mentir les sondages et rester aux affaires ?",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -1171,12 +1171,28 @@
       "category": "France"
     },
     {
-      "title": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 10:16:56 +0100",
-      "description": "Le président ukrainien Volodymyr Zelensky s'est félicité d'avoir ciblé deux navires battant pavillon russe lors de deux attaques de drones menées dans le port et au large de la ville de Benghazi.",
-      "source": "franceinfo",
-      "category": "France"
+      "title": "L'Ukraine confirme qu'elle a coulé la corvette russe dans le port libyen",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port/",
+      "date": "Mon, 23 Nov 2026 10:17:09 +0000",
+      "description": "L'Ukraine était derrière le naufrage explosif de la corvette russe Merkury dans le port libyen de Benghazi pendant le week-end, a déclaré le président Volodymyr Zelenskyy, et l'armée du pays a publié des vidéos d'accompagnement.",
+      "source": "Defense News",
+      "category": "Défense"
+    },
+    {
+      "title": "Les rendements du Trésor bondissent au fur et à mesure que les titres rebondissent, les investisseurs attendent le discours du président de la Fed à New York Williams",
+      "link": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
+      "date": "Mon, 23 Nov 2026 10:15:19 GMT",
+      "description": "Les rendements du Trésor américain ont augmenté lundi, décomptant partiellement l'action sur les prix observée à la fin de la semaine dernière, comme l'indiquent les contrats à terme d'actions à Wall Street.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Un fournisseur de puissance pour les régulateurs de Meta pressés d'exempter les plantes du centre de données des règles sur les pluies acides",
+      "link": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+      "date": "Mon, 23 Nov 2026 10:15:00 +0000",
+      "description": "Avant que l'EPA recommande de renoncer à la réglementation sur les pluies acides pour certaines centrales électriques de centres de données, elle a rencontré des acteurs de l'industrie, dont Williams, un fournisseur d'énergie gazière pour les centres de données Meta.",
+      "source": "WIRED",
+      "category": "Technologie"
     },
     {
       "title": "Présidentielle 2027 : David Lisnard double Édouard Philippe dans un sondage, Marine Le Pen perd jusqu'à 5 points",
@@ -1187,6 +1203,78 @@
       "category": "France"
     },
     {
+      "title": "Poundland fait face à l'effondrement - qu'est-ce qui ne va pas ?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 10:09:25 GMT",
+      "description": "Poundland a une question de jours pour trouver un acheteur ou face à s'effondrer dans l'administration. Pourquoi ?",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "La Colombie marque 10 ans depuis le pacte de paix des FARC : en photos",
+      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+      "date": "Mon, 23 Nov 2026 10:02:48 +0000",
+      "description": "Le conflit entre le gouvernement colombien et un groupe rebelle de gauche s'est terminé par un accord historique de 2016. Mais la Colombie attend toujours une paix véritable.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "C'est coincé. Comment un marché immobilier gelé frappe les acheteurs, les vendeurs et l'économie",
+      "link": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "date": "Mon, 23 Nov 2026 10:00:01 GMT",
+      "description": "Une forte hausse des taux hypothécaires en septembre a poussé le secteur immobilier déjà froid à un gel profond.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Au revoir, Monde: La fin des programmeurs",
+      "link": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "date": "Mon, 23 Nov 2026 10:00:00 +0000",
+      "description": "La dernière chose que vous devriez jamais lire – et la dernière chose que je pourrais écrire – sur le métier de codage.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Meilleures offres de machines Espresso du vendredi noir tôt (2026)",
+      "link": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-23-2026/",
+      "date": "Mon, 23 Nov 2026 10:00:00 +0000",
+      "description": "On a tiré sur chaque machine ici. Ce sont ceux que nous avons achetés à leurs premiers prix du Vendredi Noir.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Ukraine Réclamations grèves sur les navires russes près de la Libye",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "date": "Mon, 23 Nov 2026 09:59:08 +0000",
+      "description": "Le président Volodymyr Zelensky a déclaré que les drones ukrainiens ont coulé une corvette et ont heurté un navire à cargaison sèche, démontrant que Kyiv était à portée dans les mers.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "\"On n'est pas dans GTA VI\" : Geffray fustige une flambée de violence dans certains lycées",
+      "link": "https://www.france24.com/fr/france/20261123-on-n-est-pas-gta-vi-geffray-fustige-flamb%C3%A9e-violence-lyc%C3%A9es",
+      "date": "Mon, 23 Nov 2026 09:55:48 GMT",
+      "description": "Le ministre de l'Éducation nationale Édouard Geffray a fait état lundi de \"98 élèves\" et \"une trentaine de professionnels\" blessés la semaine dernière, fustigeant une recrudescence de violences, très localisées. \"On n'a jamais eu autant d'élèves blessés, alors qu' (...) il n'y a jamais eu aussi peu de lycées bloqués\", a-t-il pointé, appelant à une prise de conscience collective.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Le géant de la restauration pour changer la liste des actions principales vers les États-Unis en un coup supplémentaire vers le Royaume-Uni",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 09:54:04 GMT",
+      "description": "Ces dernières années, un nombre croissant d'entreprises ont quitté le Royaume-Uni pour inscrire des actions aux États-Unis.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "Des milliers de déplacés après une tempête mortelle frappe la ville brésilienne",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 09:45:25 +0000",
+      "description": "Une puissante tempête de supercellules a dévasté la ville brésilienne de Tupancireta.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Le monde n'a pas besoin d'énergie solaire ou éolienne — il a besoin d'énergie solaire et éolienne",
       "link": "https://grist.org/energy/the-world-doesnt-need-solar-or-wind-it-needs-solar-and-wind/",
       "date": "Mon, 23 Nov 2026 09:45:00 +0000",
@@ -1195,35 +1283,19 @@
       "category": "Environnement"
     },
     {
-      "title": "Dominique de Villepin peut-il vraiment affirmer qu’il n’a «jamais privatisé les autoroutes» ?",
-      "link": "https://www.liberation.fr/checknews/dominique-de-villepin-peut-il-vraiment-affirmer-quil-na-jamais-privatise-les-autoroutes-20261123_3AHSHY3WSBH4RE3CRFYCNGG5KY/",
-      "date": "Mon, 23 Nov 2026 09:41:56 +0000",
-      "description": "L’actuel candidat de la France humaniste insiste sur le fait que les infrastructures sont toujours restées propriété publique. Mais c’est bien lui et son gouvernement de l’époque qui ont fait passer dans le giron du privé les trois plus grandes sociétés concessionnaires, où l’Etat était encore majoritaire.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Wall Street va rebondir après la vente des actions AI",
       "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
       "date": "Mon, 23 Nov 2026 09:41:36 GMT",
-      "description": "Les marchés asiatiques diminuent à mesure que les chipmakers sud-coréens perdent environ 3%",
+      "description": "Parts de technologie battues, y compris Nvidia et augmentation anthropique marquée avant le marché",
       "source": "Financial Times",
       "category": "Économie"
     },
     {
-      "title": "Anthropique, les actions de Nvidia augmentent dans le trading pré-marché après la vente des grandes technologies",
-      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "date": "Mon, 23 Nov 2026 09:40:28 GMT",
-      "description": "Le Nasdaq a glissé 10 % la semaine dernière dans sa pire semaine depuis les premiers jours de Covid en 2020.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Déraillement d’un TER en Normandie : deux mois après l’accident, plusieurs personnes interpellées",
-      "link": "https://www.liberation.fr/societe/police-justice/deraillement-dun-ter-en-normandie-deux-mois-apres-laccident-trois-hommes-interpelles-20261123_PAISRZ76MVHDPLGCIWBNBWGBUE/",
-      "date": "Mon, 23 Nov 2026 09:40:10 +0000",
-      "description": "Selon une source proche de l’enquête citée par Ici Normandie, un père et ses deux fils ont notamment été arrêtés ce lundi 23 novembre au matin à Rouen dans le cadre de l’enquête. Un morceau de rail sur les voies pourrait être à l’origine de l’incident.",
-      "source": "Libération",
+      "title": "\"L'urgence est surtout d'avoir un budget\", juge Marylise Léon à propos de la \"règle d'or\" budgétaire envisagée par Emmanuel Macron",
+      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 09:41:24 +0100",
+      "description": "La secrétaire générale de la CFDT réagissait à l'information selon laquelle Emmanuel Macron envisagerait de faire inscrire dans la Constitution une \"règle d'or\" budgétaire en janvier.",
+      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -1251,10 +1323,10 @@
       "category": "Technologie"
     },
     {
-      "title": "Le nombre de morts s'élève après les attaques meurtrières de la Russie contre l'Ukraine",
+      "title": "Au moins 15 personnes tuées en Ukraine dans la région de Kiev alors que la Russie intensifie les attaques",
       "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
       "date": "Mon, 23 Nov 2026 09:34:25 +0000",
-      "description": "Au moins 15 personnes sont tuées lors d'attaques multiples, des jours après que Poutine promet une réponse douloureuse aux attaques ukrainiennes.",
+      "description": "Les frappes de Mulitple ont éclaté quelques jours après que Poutine ait promis une réponse douloureuse aux attaques ukrainiennes.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -1275,14 +1347,6 @@
       "category": "Monde"
     },
     {
-      "title": "«Criminalités environnementales: Israël a accusé la pollution toxique dans 99 % de Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 09:30:16 +0000",
-      "description": "Un nouveau rapport d'Oxfam, un organisme de bienfaisance britannique, montre comment la destruction de Gaza par Israël a créé un « friche toxique ».",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "El Niño est déjà en train de brouiller votre saison de ski",
       "link": "https://grist.org/climate/el-nino-is-already-scrambling-your-ski-season/",
       "date": "Mon, 23 Nov 2026 09:30:00 +0000",
@@ -1291,8 +1355,8 @@
       "category": "Environnement"
     },
     {
-      "title": "La retraite anticipée de l'Allemagne: peut-elle remédier aux problèmes de la retraite?",
-      "link": "https://www.dw.com/en/germany-s-early-start-pension-can-it-fix-retirement-woes/a-79852185?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Allemagne: Les comptes d'investissement pour enfants peuvent-ils vous aider?",
+      "link": "https://www.dw.com/en/germany-s-early-start-pension-can-child-investment-accounts-help/a-79852185?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Mon, 23 Nov 2026 09:26:00 GMT",
       "description": "L'Allemagne prévoit de verser 10 euros par mois au compte d'investissement des enfants pour encourager l'épargne-retraite à long terme. Selon les économistes, cette mesure peut contribuer à la création de richesses, mais elle ne résoudra pas le problème du financement des retraites.",
       "source": "Deutsche Welle",
@@ -1307,43 +1371,11 @@
       "category": "France"
     },
     {
-      "title": "A Saint-Nazaire avec les «spotteurs» de navires sur le pont pour la mise à flot du «MSC World Asia» : «J’ai déjà pleuré pour un départ»",
-      "link": "https://www.liberation.fr/lifestyle/voyages/a-saint-nazaire-avec-les-spotteurs-de-navires-sur-le-pont-pour-la-mise-a-flot-du-msc-world-asia-jai-deja-pleure-pour-un-depart-20261123_U22HAH53VZGC3DVA4YGOS4KXJI/",
-      "date": "Mon, 23 Nov 2026 09:18:00 +0000",
-      "description": "A quelques jours du départ de l’imposant paquebot construit pour la compagnie MSC Croisière, jeudi 26 novembre, auquel devraient assister de nombreux curieux, rencontre avec ces mordus de bateaux dont certains partagent leur passion sur les réseaux sociaux.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "La superintelligence de l'IA ‘arrivant', avertit haut Meta exécutif",
-      "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 09:08:07 +0000",
-      "description": "Meta Directeur de l'IA Alexandr Wang dit que les actions de l'humanité au cours de l'année prochaine auront « une grande conséquence » pour le monde.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "L'Assemblée parlementaire de l'OTAN se réunit au milieu des violations de l'espace aérien russe",
       "link": "https://www.dw.com/en/nato-parliamentary-assembly-convenes-amid-russian-airspace-violations/live-80016415?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Mon, 23 Nov 2026 09:01:00 GMT",
       "description": "Le président ukrainien Zelenskyy et le ministre allemand des Affaires étrangères Wadephul doivent prendre la parole devant l'Assemblée parlementaire de l'OTAN à Berlin tandis que les représentants de l'OTAN discutent des violations de l'espace aérien russe à Bruxelles. DW en a plus.",
       "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Un malade d’Alzheimer retrouvé vivant après 11 jours perdu dans l’Amazonie brésilienne",
-      "link": "https://www.liberation.fr/societe/sante/un-malade-dalzheimer-retrouve-vivant-apres-11-jours-perdu-dans-lamazonie-bresilienne-20261123_4W66STED6FHRPDVK3JHXOOFJBE/",
-      "date": "Mon, 23 Nov 2026 08:57:44 +0000",
-      "description": "L’homme de 74 ans a été retrouvé, désorienté et en sous-vêtements, à 10 kilomètres de là où il avait disparu. Ses connaissances du milieu forestier l’ont vraisemblablement aidé à survivre.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Veufs au milieu de la guerre et du déplacement : les mères soudanaises luttent pour survivre",
-      "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 08:53:10 +0000",
-      "description": "Les veuves de guerre au Soudan se heurtent à des difficultés croissantes pour subvenir aux besoins de leurs enfants à mesure que le coût de la vie augmente.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -1355,15 +1387,7 @@
       "category": "Monde"
     },
     {
-      "title": "Le préfet Hugues Moutouh se défend d’avoir «jamais fait de politique dans ses fonctions» et veut porter plainte",
-      "link": "https://www.liberation.fr/societe/police-justice/le-prefet-hugues-moutouh-se-defend-davoir-jamais-fait-de-politique-dans-ses-fonctions-et-veut-porter-plainte-20261123_V52QBUXYDNF6VICYMAMS7WIA7Y/",
-      "date": "Mon, 23 Nov 2026 08:40:05 +0000",
-      "description": "Le représentant de l’Etat dans la région Centre-Val-de-Loire a demandé à être relevé de ses fonctions, car il est accusé d’avoir transmis au RN des informations confidentielles alors qu’il était secrétaire général du ministère de l’Intérieur.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Des navires russes frappés par des drones ukrainiens au large de la Libye, Zelensky dit",
+      "title": "Bateau de guerre russe frappé par des drones ukrainiens en Libye, Zelensky dit",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 08:36:57 GMT",
       "description": "Le gouvernement de l'est de la Libye dit qu'un navire de guerre coulé s'était arrêté pour du carburant et des fournitures sur le chemin du retour en Russie.",
@@ -1371,20 +1395,12 @@
       "category": "Monde"
     },
     {
-      "title": "Procès du canal masculiniste «Femmeblancherie» : les mots ne sont pas que des mots",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/proces-du-canal-masculiniste-femmeblancherie-les-mots-ne-sont-pas-que-des-mots-20261123_IASYYIDTHJFSZKUOQMAPNFRAGY/",
-      "date": "Mon, 23 Nov 2026 08:31:11 +0000",
-      "description": "L’autrice Léa Clermont-Dion rappelle les dangers de la parole misogyne en ligne qui s’est radicalisée. Il est temps que les propagateurs de cette haine répondent de leurs actes devant les tribunaux.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Poundland fait face à l'effondrement - qu'est-ce qui ne va pas ?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 08:00:20 GMT",
-      "description": "Poundland a une question de jours pour trouver un acheteur ou face à s'effondrer dans l'administration. Pourquoi ?",
-      "source": "BBC News",
-      "category": "Économie"
+      "title": "Est-il vrai que nous n'utilisons que 10% de notre cerveau ?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+      "date": "Mon, 23 Nov 2026 08:00:51 GMT",
+      "description": "L'idée que nous accédons à une fraction de notre potentiel cognitif remonte à des décennies, mais la science médicale est-elle d'accord? Cette idée s'attaque vraiment au Dr Mary Spiller , maître de conférences à l'Université de Londres-Est, Département de psychologie et de développement humain, qui est choqué par le fait qu'il demeure très répandu, bien qu'il soit faux. Spiller dit que les origines du mythe peuvent être en partie tracées à l'œuvre de William James, l'un des fondateurs de la psychologie moderne,",
+      "source": "The Guardian",
+      "category": "Sciences"
     },
     {
       "title": "Soyez prêt à avoir une meilleure vue du ciel nocturne dans votre arrière-cour avec 25% de rabais sur les jumelles Celestron Cometron 7x50 dans cette affaire Black Friday",
@@ -1443,27 +1459,11 @@
       "category": "Technologie"
     },
     {
-      "title": "Comment les pays asiatiques cherchent à soutenir les marchés au fur et à mesure que le ralentissement de l'IA diminue les stocks",
-      "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
-      "date": "Mon, 23 Nov 2026 06:50:48 GMT",
-      "description": "Les autorités de régulation du marché en Corée du Sud, en Chine et à Taiwan ont adopté de nouvelles mesures pour soutenir les marchés.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Cinq reprises des négociations sur le climat ratées COP31",
       "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 06:33:50 GMT",
       "description": "Le sommet COP31 à Antalya a été la plus longue conférence sur le climat de l'histoire de l'ONU.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "La rupture de la règle est contagieuse — et de bons exemples sont à peine utiles",
-      "link": "https://www.dw.com/en/rule-breaking-is-contagious-and-good-examples-barely-help/a-79980025?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 06:33:00 GMT",
-      "description": "En voyant quelqu'un enfreindre une règle, les gens sont plus susceptibles de la briser aussi, une nouvelle étude trouve, surtout lorsque l'enfreindre est de leur côté politiquement. Regarder les autres se comporter bien fait à peine une différence.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -1483,14 +1483,6 @@
       "category": "France"
     },
     {
-      "title": "Nouveaux projets d'investissement, dernière vitrine du macronisme... Ce qu'il faut savoir avant le sommet Choose France qui a lieu lundi",
-      "link": "https://www.franceinfo.fr/economie/industrie/nouveaux-projets-d-investissement-derniere-vitrine-du-macronisme-ce-qu-il-faut-savoir-avant-le-sommet-choose-france-qui-a-lieu-lundi_8294753.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 06:02:42 +0100",
-      "description": "Ce sommet dédié aux entreprises françaises se tient dans un contexte économique empreint d'incertitudes. Il sera aussi la dernière occasion pour Emmanuel Macron de vanter son bilan en matière de réindustrialisation, de croissance et d'emploi.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Starwatch : une occasion rare d'observer le mercure insaisissable",
       "link": "https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury",
       "date": "Mon, 23 Nov 2026 06:00:49 GMT",
@@ -1499,26 +1491,10 @@
       "category": "Sciences"
     },
     {
-      "title": "Guillaume Tabard : « David Lisnard sera-t-il le Macron de 2017 ou le Zemmour de 2022 ? »",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-david-lisnard-sera-t-il-le-macron-de-2017-ou-le-zemmour-de-2022-20261123",
-      "date": "Mon, 23 Nov 2026 06:00:00 +0100",
-      "description": "CONTRE-POINT - Contrairement à l’idée reçue, l’union ne suffit pas à faire la force. Seule compte la capacité d’un candidat à créer une dynamique.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "En Guadeloupe, la défaillance de la Sécurité sociale met en difficulté de nombreux bénéficiaires",
       "link": "https://www.lemonde.fr/politique/article/2026/11/23/en-guadeloupe-la-defaillance-de-la-securite-sociale-met-en-difficulte-de-nombreux-beneficiaires_6814340_823448.html",
       "date": "Mon, 23 Nov 2026 06:00:00 +0100",
       "description": "Dossiers de retraite en retard, arrêts maladie non indemnisés… La Cour des comptes a publié un rapport alarmant, le 10 novembre, sur la Caisse de sécurité sociale de la Guadeloupe, pointant de nombreux dysfonctionnements qui entravent la bonne marche du service rendu aux usagers.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Pour Emmanuel Macron, un Choose France 100 % tricolore sur fond de morosité pour les entreprises françaises",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html",
-      "date": "Mon, 23 Nov 2026 06:00:00 +0100",
-      "description": "Le chef de l’Etat tient, lundi 23 novembre, un sommet destiné à mettre en avant 42,5 milliards d’euros d’investissement en France émanant des entreprises hexagonales. Derrière les montants affichés se cache une dynamique inquiétante.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1563,12 +1539,12 @@
       "category": "France"
     },
     {
-      "title": "France: la justice saisie pour des propos racistes et un salut nazi dans une école de police",
-      "link": "https://www.rfi.fr/fr/france/20261123-france-la-justice-saisie-pour-des-propos-racistes-et-un-salut-nazi-dans-une-%C3%A9cole-de-police",
-      "date": "Mon, 23 Nov 2026 05:19:55 GMT",
-      "description": "En France, le patron de la police nationale a saisi la justice au sujet de contenus racistes échangés entre élèves de l'École nationale supérieure de la police de Cannes-Écluse, en Seine-et-Marne, a indiqué une source proche du dossier à l'AFP ce dimanche 22 novembre. Une information qui fait suite à la publication, un peu plus tôt, d'une enquête dans le journal Le Parisien, portant sur des conversations sur des fils privés entre certains de ces élèves-officiers, destinés à être l'élite de la police.",
-      "source": "RFI",
-      "category": "France"
+      "title": "Des drones ukrainiens ont frappé un navire de guerre russe sur une base navale en Libye, dit Zelensky",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "date": "Mon, 23 Nov 2026 05:16:33 -0500",
+      "description": "L'Ukraine a mené une attaque contre un navire de guerre russe amarré dans un port de Libye, a déclaré le président Volodymyr Zelenskyy, affirmant que les drones de mer ont coulé le navire de la marine dans une attaque surprise.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Les discussions les plus longues de l'ONU sur le climat se terminent sans que les divisions profondes soient exposées",
@@ -1635,28 +1611,44 @@
       "category": "Économie"
     },
     {
+      "title": "Les seniors adoptent la technologie de conduite automatisée Tesla malgré les questions de sécurité",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+      "date": "Mon, 23 Nov 2026 05:00:00 -0500",
+      "description": "Les conducteurs plus âgés utilisent la technologie de conduite automatisée de Tesla pour rester sur la route plus longtemps. Mais les experts en sécurité avertissent l'entreprise peut-être sur-vente ce que ses voitures peuvent faire.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Parlons dinde: Voici comment les coûts des repas Thanksgiving ont changé cette année",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+      "date": "Mon, 23 Nov 2026 05:00:00 -0500",
+      "description": "Les coûts de l'épicerie ont augmenté, mais les analystes des prix des aliments disent qu'il n'est pas clair si vous dépenserez plus pour le repas de Thanksgiving cette année. Certaines personnes décident de ne pas accueillir ou d'accueillir moins d'invités.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "Les suppléments de champignons promettent des avantages pour la santé. Que dit la science ?",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+      "date": "Mon, 23 Nov 2026 05:00:00 -0500",
+      "description": "Les influenceurs du bien-être disent que les suppléments de champignons peuvent aider à votre santé intestinale, votre concentration et votre système immunitaire. Voici où la recherche suggère qu'il y a des liens.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
+      "title": "K est pour la bonté, mais les familles s'inquiètent que le monde en ait moins",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+      "date": "Mon, 23 Nov 2026 05:00:00 -0500",
+      "description": "Dix ans après avoir posé des questions aux familles au sujet de la gentillesse, Sésame Workshop a posé des questions semblables aux parents. Ils ont répondu que leurs enfants deviennent de plus en plus gentils, même si le monde est moins vaste.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Actualités du matin",
       "link": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
       "date": "Mon, 23 Nov 2026 04:45:21 -0500",
       "description": "Un regard sur la façon dont l'intelligence artificielle affecte l'économie, l'OTAN de se rencontrer après que les missiles russes ont frappé la Pologne, les négociateurs ne parviennent pas à un accord à mesure que la COP31 arrive à sa fin.",
       "source": "NPR",
       "category": "Monde"
-    },
-    {
-      "title": "Amnesty International fait en sorte que les jeunes aient du mal à trouver du travail.",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6048624/ai-is-making-it-hard-for-young-people-to-find-work-report-says",
-      "date": "Mon, 23 Nov 2026 04:42:40 -0500",
-      "description": "Steve Inskeep, du NPR, s'entretient avec Matt Sigelman, président du Burning Glass Institute, au sujet d'un nouveau rapport indiquant que l'IA écrase déjà le marché du travail pour les jeunes demandeurs d'emploi.",
-      "source": "NPR",
-      "category": "Économie"
-    },
-    {
-      "title": "La revendication du Yémen Houthis attaque la raffinerie de pétrole saoudienne comme Trump avertit de nouvelles grèves l'année prochaine",
-      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-      "date": "Mon, 23 Nov 2026 03:52:17 GMT",
-      "description": "Houthis, le Yémen aligné sur l'Iran, a revendiqué une opération contre la raffinerie de pétrole de Rabigh en Arabie saoudite, alors que les efforts diplomatiques pour mettre fin à la guerre font face à de longues difficultés.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Voici combien Starlink coûte en 2020 contre 2026",
@@ -2059,6 +2051,14 @@
       "category": "Économie"
     },
     {
+      "title": "Anthropique parmi les grands perdants du marché boursier mondial",
+      "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
+      "date": "Fri, 20 Nov 2026 13:39:00 +0000",
+      "description": "Les actions d'Anthropic ont chuté de plus de 10% à l'ouverture de vendredi sur Wall Street, juste un jour après leurs débuts records à Nasdaq, dans le cadre d'une course boursière mondiale.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
       "title": "Le téléchargement : à l'intérieur de la quête pour rendre nos esprits immortels",
       "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "date": "Fri, 20 Nov 2026 13:10:00 +0000",
@@ -2083,20 +2083,20 @@
       "category": "Défense"
     },
     {
+      "title": "Déraillement d’un TER en Normandie : l’enquête technique révèle qu’une collision a été évitée de peu",
+      "link": "https://www.lefigaro.fr/conjoncture/deraillement-d-un-ter-en-normandie-l-enquete-technique-revele-qu-une-collision-a-ete-evitee-de-peu-20261120",
+      "date": "Fri, 20 Nov 2026 11:55:08 +0100",
+      "description": "Le 11 septembre dernier, un TER Rouen-Caen a déraillé, blessant 44 personnes, dont une grièvement. Le bilan aurait toutefois pu être beaucoup plus grave, révèle ce vendredi l’enquête technique.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "L'utilisation de l'électricité augmente, surtout dans ces états",
       "link": "https://grist.org/energy/data-centers-use-2-of-us-electricity-in-some-states-the-share-is-far-higher/",
       "date": "Fri, 20 Nov 2026 09:45:00 +0000",
       "description": "Dans au moins quatre États, les installations hyperéchelles représentent 10 % ou plus de l'électricité vendue.",
       "source": "Grist",
       "category": "Environnement"
-    },
-    {
-      "title": "La pilule pour traiter le cancer du pancréas a été saluée comme «plus grande percée depuis des décennies»",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "date": "Fri, 20 Nov 2026 09:36:10 GMT",
-      "description": "Cancer indétectable pour un patient sur 12 dans l'essai de daraxonrasib, tandis que presque tous les participants à une tumeur ont arrêté de croître Une pilule qui peut réduire et potentiellement éliminer les tumeurs du pancréas est saluée comme le plus grand traitement révolutionnaire du cancer depuis des décennies. Chez un patient sur 12 ayant reçu le médicament, le daraxonrasib, au cours d'un essai, le cancer est devenu indétectable et les tumeurs ont cessé de croître chez presque tous les 61 patients. Les",
-      "source": "The Guardian",
-      "category": "Sciences"
     },
     {
       "title": "Est-il acceptable de vouloir une «vie normale» pendant la crise climatique?",
@@ -2129,6 +2129,14 @@
       "description": "Dans la soirée du 12 août 2026, la Lune passera entre la Terre et le Soleil, produisant une éclipse solaire frappante. Découvrez comment, quand et où l'observer en toute sécurité.",
       "source": "Astronomy Now",
       "category": "Exploration"
+    },
+    {
+      "title": "Les loups aident les myrtilles sauvages à croître, selon une étude américaine",
+      "link": "https://news.mongabay.com/2026/11/wolves-help-wild-blueberries-grow-us-study-finds/",
+      "date": "23 Nov 2026 10:57:42 +0000",
+      "description": "Chaque été dans le nord du Minnesota, les loups gris deviennent des mangeurs de fruits, surtout. Au cours de la saison de pointe des baies en juillet et en août, les baies représentent jusqu'à 83 % des loups adultes. Maintenant, une nouvelle étude montre les bleuets aussi obtenir quelque chose [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
       "title": "Les bourdons sont aussi des solutions aux problèmes",
@@ -2217,14 +2225,6 @@
       "description": "Sheherazaad a commencé à faire des ondulations dans le monde de la musique il y a quelques années avec son EP Qasr, qui a été produit par la lauréate du Grammy Award Arooj Aftab. Maintenant, elle est de retour avec Khudgarzi, son premier LP folk-noir reverb-dente qui est principalement chanté à Urdu. L'instrumentation sur Khudgarzi s'inspire de la musique traditionnelle d'Asie du Sud, y compris les styles Carnatic et Hindustani, [...]",
       "source": "The Verge",
       "category": "Technologie"
-    },
-    {
-      "title": "Les États-Unis louent les fonds marins des Samoa américaines aux fins d'exploitation minière aux enchères jugées illégales par un tribunal",
-      "link": "https://news.mongabay.com/2026/11/us-leases-american-samoan-seabed-for-mining-in-auction-deemed-illegal-by-court/",
-      "date": "20 Nov 2026 22:18:33 +0000",
-      "description": "Le gouvernement américain a mis aux enchères 12,7 millions d'hectares (31,5 millions d'hectares) de fonds marins des Samoa américaines, malgré l'opposition publique et une décision de la Cour fédérale qui a jugé la vente illégale. La vente marque la première fois qu'un pays a terminé une vente aux enchères de baux minéraux des fonds marins qui accordent le droit d'explorer [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
     }
   ]
 }
