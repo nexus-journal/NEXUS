@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T15:36:41.033300+00:00",
-  "count": 279,
+  "updated_at": "2026-11-23T16:37:53.912716+00:00",
+  "count": 276,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -312,7 +312,7 @@
       "date": "Sun, 22 Nov 2026 19:13:25 +0000",
       "description": "Depuis 65 ans, le Centre spatial Johnson de la NASA à Houston a contribué à façonner le vol spatial humain, des missions Gemini qui ont démontré les techniques de rendez-vous et d'amarrage nécessaires pour Apollo aux recherches menées à bord de la Station spatiale internationale, qui soutient une présence humaine continue depuis plus de 26 ans. Aujourd'hui, les équipes de [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Quelle est la suite après aucun accord au sommet climatique COP31?",
@@ -377,14 +377,6 @@
       "description": "Les premiers résultats d'une clinique de phase III suggèrent que le médicament est prometteur",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Les médicaments GLP-1 pourraient avoir un bénéfice environnemental étonnamment important",
-      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-      "date": "Sun, 22 Nov 2026 12:07:41 +0000",
-      "description": "Les médicaments BLP-1 pourraient réduire suffisamment la demande alimentaire pour libérer des terres agricoles plus grandes que l'Italie.",
-      "source": "Ars Technica",
-      "category": "Technologie"
     },
     {
       "title": "CEO de l'agence de financement pour la science et la recherche britanniques critiquées par le syndicat sur les réductions",
@@ -504,7 +496,7 @@
       "date": "Sun, 22 Nov 2026 05:05:00 +0000",
       "description": "APODScienceAPODAPODODOD: 2026 November 22 –...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Plongées et couleurs sur Jupiter de Juno Explication : Qu'est-ce qui crée les couleurs dans les nuages de Jupiter ? Personne [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Il s'attendait à un prêt de petite entreprise. Il a fait un cauchemar de 7 ans.",
@@ -521,14 +513,6 @@
       "description": "Justin Rowlatt, rédacteur en chef de la BBC Climate, rapporte le sommet sur le climat de la COP 31 de l'ONU à Antalya, en Turquie.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Au moins 24 morts après que le bateau ait emmené des passagers à des pompes funèbres au Nigeria",
-      "link": "https://news.sky.com/story/at-least-24-dead-after-boat-taking-passengers-to-funeral-capsizes-in-nigeria-13615057",
-      "date": "Sat, 21 Nov 2026 21:32:00 +0000",
-      "description": "D'après les services d'urgence, au moins 24 personnes sont mortes après qu'un bateau a chaviré en transportant des personnes à des funérailles au Nigéria.",
-      "source": "Sky News",
-      "category": "Monde"
     },
     {
       "title": "Malgré la note de Hegseth, le Canada n'a pas vu de changements dans les relations de défense avec les États-Unis, dit DefMin",
@@ -627,14 +611,6 @@
       "category": "Technologie"
     },
     {
-      "title": "APOD: 2026 le 21 novembre – Voyager",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-      "date": "Sat, 21 Nov 2026 05:05:00 +0000",
-      "description": "APODScienceAPODAPODODOD: 2026 November 21 –...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Neptune de Voyager Explication: Croisant à travers le système solaire extérieur, le vaisseau spatial Voyager 2 a fait sa plus proche approche [...]",
-      "source": "NASA",
-      "category": "Environnement"
-    },
-    {
       "title": "L'anthropique dit qu'elle mettra l'humanité en premier. L'IPO va-t-il changer ça ?",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "date": "Sat, 21 Nov 2026 05:00:00 -0500",
@@ -731,18 +707,98 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - Retour surprise de Jensen Huang à la tête de Nvidia : le titre s’envole de près de 30% à Wall Street, Trump salue une «juste décision»",
+      "title": "EN DIRECT - Retour surprise de Huang à la tête de Nvidia : un responsable démocrate assure que des enquêtes approfondies seront menées sur Trump et le PDG",
       "link": "https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123",
-      "date": "Mon, 23 Nov 2026 16:31:39 +0100",
+      "date": "Mon, 23 Nov 2026 17:36:02 +0100",
       "description": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande.",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "Guerre en Ukraine : l'Union européenne présente un 22e paquet de sanctions contre la Russie",
+      "title": "De la chute du PDG de Nvidia à son retour aux commandes, comment une affaire d'adultère et d'espionnage a fait vaciller le secteur de l'IA",
+      "link": "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 17:14:45 +0100",
+      "description": "Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste le 12 novembre. Mais le conseil d'administration de l'entreprise a finalement décidé de le réintégrer, dix jours après le scandale lié aux relations extraconjugales du dirigeant, dont sa liaison avec Alice Huang, accusée d'espionnage industriel pour la Chine.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Élection à la tête de la Fifa : vidéo virale, vote africain, duel avec Infantino... Les dessous du voyage stratégique de Philippe Diallo au Nigeria",
+      "link": "https://www.lefigaro.fr/sports/football/election-fifa-video-virale-vote-africain-rencontre-avec-infantino-les-coulisses-de-la-venue-tres-commentee-de-philippe-diallo-au-nigeria-20261123",
+      "date": "Mon, 23 Nov 2026 17:13:43 +0100",
+      "description": "RÉCIT - Candidat à la présidence de l’instance internationale face à Gianni Infantino, le patron du football français a vécu un séjour au Nigeria très singulier. Mais pas sans intérêt.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Retour de Jensen Huang à la tête de Nvidia : l’action du géant américain s’envole de près de 30% à Wall Street",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/retour-de-jensen-huang-a-la-tete-de-nvidia-l-action-du-geant-americain-s-envole-de-pres-de-30-a-wall-street-20261123",
+      "date": "Mon, 23 Nov 2026 17:13:12 +0100",
+      "description": "Ce bond est stimulé par l’annonce du retour de son emblématique patron, Jensen Huang, réintégré à son poste deux semaines après avoir démissionné. De quoi tirer vers le haut l’ensemble de la Bourse new-yorkaise.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT - Présidentielle 2027 : Génération.s, le parti fondé par Benoît Hamon, rallie La France insoumise",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-francois-ruffin-edouard-philippe-candidature-marine-le-pen-20261123",
+      "date": "Mon, 23 Nov 2026 17:13:03 +0100",
+      "description": "Le ralliement, qui n’est guère une surprise, s’inscrit dans un moment de clarification à gauche, après l’annonce ce week-end du retrait de la candidature de François Ruffin et la main tendue de la patronne des écologistes Marine Tondelier à LFI la semaine dernière.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "« On nous a empoisonnés » : dans l’industrie de la chimie, des travailleurs surexposés aux PFAS",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/23/on-nous-a-empoisonnes-dans-l-industrie-de-la-chimie-des-travailleurs-surexposes-aux-pfas_6814409_3244.html",
+      "date": "Mon, 23 Nov 2026 17:00:11 +0100",
+      "description": "Les premiers résultats d’une étude inédite en France visant à mesurer l’imprégnation de salariés ou retraités des sites d’Arkema et de Daikin Chemical France, dans le Rhône, et de Solvay dans le Gard, ont été publiés lundi.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT, Jensen Huang réintégré chez Nvidia : Donald Trump affirme avoir parlé « directement » avec le conseil d’administration",
+      "link": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-donald-trump-affirme-avoir-parle-directement-avec-le-conseil-d-administration_6814407_3210.html",
+      "date": "Mon, 23 Nov 2026 16:57:50 +0100",
+      "description": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 16:29:16 +0100",
-      "description": "\"L'objectif est de maintenir la pression sur la Russie afin qu’elle mette fin à sa guerre d’agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne.",
+      "date": "Mon, 23 Nov 2026 16:39:27 +0100",
+      "description": "\"L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
+      "link": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 16:38:13 +0100",
+      "description": "Le président réfléchit à instaurer une \"règle d'or\" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Mali : Amnesty International se mobilise pour la libération d’une influenceuse «détenue arbitrairement»",
+      "link": "https://www.liberation.fr/international/afrique/mali-amnesty-international-se-mobilise-pour-la-liberation-dune-influenceuse-detenue-arbitrairement-20261123_FLP4MCKR2JDH5HZATIEUI75CL4/",
+      "date": "Mon, 23 Nov 2026 16:32:10 +0000",
+      "description": "L’organisation apporte ce lundi 23 novembre son soutien à Rokiatou Doumbia, voix critique de la junte au pouvoir. Surnommée «Rose, la vie chère», l’influenceuse de 48 ans a été condamnée à 10 ans de prison en août pour avoir, selon l’ONG, «exprimé son opinion» sur la hausse des prix.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Ménopause : les inconnues et les risques de la supplémentation en testostérone pour raviver la libido",
+      "link": "https://www.lemonde.fr/sciences/article/2026/11/23/menopause-les-inconnues-et-les-risques-de-la-supplementation-en-testosterone-pour-raviver-la-libido_6814402_1650684.html",
+      "date": "Mon, 23 Nov 2026 16:30:03 +0100",
+      "description": "Censée redonner aux femmes vitalité et désir sexuel, vantée par nombre d’influenceuses aux Etats-Unis, cette hormone peut induire des effets indésirables immédiats, tandis que les données sur d’éventuels risques à plus long terme commencent à émerger.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030",
+      "link": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 16:29:31 +0100",
+      "description": "Depuis Toulouse, Emmanuel Macron a affirmé lundi qu'il voulait faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
       "source": "franceinfo",
       "category": "France"
     },
@@ -755,26 +811,250 @@
       "category": "France"
     },
     {
-      "title": "Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage",
-      "link": "https://www.franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 16:18:29 +0100",
-      "description": "\"Le conseil d'administration estime que Jensen est la personne idéale pour diriger Nvidia et que sa réintégration est dans le meilleur intérêt de nos actionnaires, de nos employés, de nos partenaires et de nos clients\", a déclaré le président du conseil d'administration.",
-      "source": "franceinfo",
+      "title": "Stellantis annonce se retirer du sport automobile",
+      "link": "https://www.liberation.fr/economie/transports/stellantis-annonce-se-retirer-du-sport-automobile-20261123_AOR3BTDYZREPXC7H6W2LR2UQQI/",
+      "date": "Mon, 23 Nov 2026 16:23:41 +0000",
+      "description": "Peugeot ne participera plus au championnat du monde d’endurance et aux 24 h du Mans, son épreuve la plus célèbre. Citroën et Opel s’aligneront une dernière fois au championnat du monde de Formule E en 2027 avant de se retirer.",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "Qui est Jensen Huang, le puissant patron de Nvidia réintégré après une affaire d’espionnage présumé et d’adultère ?",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/qui-est-jensen-huang-le-puissant-patron-de-nvidia-englue-dans-une-affaire-d-espionnage-presume-et-d-adultere-20261109",
-      "date": "Mon, 23 Nov 2026 16:06:23 +0100",
-      "description": "PORTRAIT - Le parcours de l’homme d’affaires de 63 ans, à la tête du géant des semi-conducteurs Nvidia, l’un des moteurs de la révolution de l’IA, avait tout du rêve américain. Jusqu’à ce qu’il soit rattrapé par une liaison dangereuse avec une espionne chinoise présumée.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Trump dit à CNBC qu'il a parlé directement au conseil d'administration de Nvidia au sujet de Jensen Huang",
+      "title": "Trump dit à CNBC « J'ai fait l'accord » pour rétablir Nvidia.",
       "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "date": "Mon, 23 Nov 2026 15:35:04 GMT",
+      "date": "Mon, 23 Nov 2026 16:22:38 GMT",
       "description": "Le président Trump a déclaré que son administration a donné l'assurance au conseil d'administration de Nvidia que Jensen Huang ne serait pas une menace pour la sécurité nationale s'il était réintégré en tant que PDG.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "«Tintin au Congo» : Teddy Riner envisage de porter plainte contre Emmanuelle Mignon",
+      "link": "https://www.liberation.fr/politique/elections/tintin-au-congo-teddy-riner-porte-plainte-contre-emmanuelle-mignon-20261123_VVC77KHMFJBHPHXYX3GTIT44XA/",
+      "date": "Mon, 23 Nov 2026 16:21:13 +0000",
+      "description": "Le judoka et candidat à la présidentielle 2027 pense répliquer aux propos tenus par l’ex-collaboratrice de Nicolas Sarkozy sur France Inter mi-novembre après la visite de ce dernier dans un hôpital à Saint-Denis.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Beijing s'est retiré des mi-parcours : Volonté de lutter et scepticisme AI",
+      "link": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism/",
+      "date": "Mon, 23 Nov 2026 16:21:11 +0000",
+      "description": "Les mi-parcours de 2026 ont révélé des vulnérabilités dans les attitudes américaines à l'égard de la guerre, des difficultés économiques et de l'IA que Beijing pourrait exploiter dans un futur conflit.",
+      "source": "Breaking Defense",
+      "category": "Défense"
+    },
+    {
+      "title": "Proies sexuelles, contacts avec les oligarques, visites touristiques… Que cherchait donc le pédocriminel Jeffrey Epstein en Russie ?",
+      "link": "https://www.liberation.fr/international/amerique/proies-sexuelles-contacts-avec-les-oligarques-visites-touristiques-que-cherchait-donc-le-pedocriminel-jeffrey-epstein-en-russie-20261123_PJBQPGYVAZC6ZMYLHHA6ISYF2I/",
+      "date": "Mon, 23 Nov 2026 16:20:16 +0000",
+      "description": "Le milliardaire ne s’est rendu sur le sol russe que deux fois, en 1998 et 2002. Si aucune visite n’a été repérée depuis, une enquête de Reuters montre la continuité de ses relations avec le pays pour son réseau criminel et son image personnelle.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "CrowdStrike pour acquérir Zscaler pour 44 milliards de dollars",
+      "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "date": "Mon, 23 Nov 2026 16:20:11 +0000",
+      "description": "Le géant de la cybersécurité a déclaré que l'accord d'achat de Zscaler, qui fournit des produits de confiance zéro aux grandes entreprises, permettra de mieux équiper leurs clients pour utiliser des agents d'IA.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les États-Unis et le Royaume-Uni accueilleront les Coupes du monde de femmes en 2031 et 2035",
+      "link": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 23 Nov 2026 16:19:00 GMT",
+      "description": "La FIFA a confirmé que les États-Unis, aux côtés du Mexique, du Costa Rica et de la Jamaïque, accueilleront la Coupe du monde de 2031, la première à compter 48 équipes. Le Royaume-Uni mettra en scène l'édition 2035, sa première Coupe du monde depuis 1966.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Jensen Huang est réintégré comme PDG de Nvidia. Montage des stocks 33 %",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "date": "Mon, 23 Nov 2026 16:17:26 GMT",
+      "description": "Le conseil d'administration de Nvidia a déclaré qu'il avait des commentaires de hauts responsables du gouvernement américain.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "COP31: Principaux résultats convenus lors des négociations de l'ONU sur le climat à Antalya",
+      "link": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+      "date": "Mon, 23 Nov 2026 16:15:51 +0000",
+      "description": "Les négociations de la COP31 sur le climat à Antalya, en Turquie, n'ont pas abouti à un accord sur... L'après COP31: Principaux résultats convenus lors des discussions de l'ONU sur le climat à Antalya est apparu en premier sur Carbon Brief .",
+      "source": "Carbon Brief",
+      "category": "Environnement"
+    },
+    {
+      "title": "Ce que la lumière verte clignotante sur votre télécommande Roku vous dit",
+      "link": "https://www.engadget.com/2321531/what-green-flasing-light-roku-remote-telling-you/",
+      "date": "Mon, 23 Nov 2026 16:15:00 +0000",
+      "description": "Découvrez ce que signifie le feu vert de votre télécommande Roku, quand il est inoffensif et quand il signale un problème, plus quoi faire si votre télécommande ne fonctionne pas comme il devrait.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Nvidia actions bond 33% sur le rendement de Jensen Huang, ajoutant $1tn à la valeur de l'entreprise – entreprise en direct",
+      "link": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "date": "Mon, 23 Nov 2026 16:13:25 GMT",
+      "description": "Donald Trump salue Huang en tant que «grand patriote et trésor national» après sa réintégration surprise en tant que PDG de Nvidia: Trump dit avoir parlé directement au conseil d'administration de Nvidia au sujet de Jensen Huang Jensen Huang réintégré en tant que PDG de Nvidia. L'année complète était de 1 353 au bas du Groupe.",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "Quelle est l'importance de Nvidia et Jensen Huang pour l'économie américaine?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 16:12:35 GMT",
+      "description": "Le directeur général de Nvidia a été au centre du boom de l'intelligence artificielle.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "NASA+ Captures documentaires Europa ClipperS Voyage dans l'espace profond",
+      "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "date": "Mon, 23 Nov 2026 16:08:23 +0000",
+      "description": "La NASA invite le monde en coulisses à assister à l'histoire du voyage d'Europa Clipper, d'une vision lointaine à une mission d'exploration spatiale profonde de pointe avec la sortie du nouveau documentaire de l'agence, le concept Europa. Le documentaire sera diffusé sur NASA+, l'application NASA et le site internet de l'agence à partir du lundi 23 novembre, [...]",
+      "source": "NASA",
+      "category": "Exploration"
+    },
+    {
+      "title": "Ukraine Attaque au large des côtes de la Libye montre la portée de ses drones navales",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "date": "Mon, 23 Nov 2026 16:08:22 +0000",
+      "description": "Le Président Volodymyr Zelensky a déclaré que les drones ukrainiens avaient coulé une corvette et frappé un navire à cargaison sèche, dans des attaques impliquant des forces d'opérations spéciales.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Turquie: Les autorités cherchent la lionne en liberté à Istanbul",
+      "link": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 23 Nov 2026 16:05:00 GMT",
+      "description": "Une lionne était en liberté dans le nord d'Istanbul, avec des défenseurs de la faune exigeant des réponses sur la façon dont l'animal est entré dans le pays et qui le gardait en captivité.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Main tendue de Tondelier à Mélenchon : survivre pour vivre, une passion écologiste",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/main-tendue-de-tondelier-a-melenchon-survivre-pour-vivre-une-passion-ecologiste-20261123_LZWF3PPKDBBO3OG7FALPD5IFSE/",
+      "date": "Mon, 23 Nov 2026 16:03:08 +0000",
+      "description": "En déclarant être prête à travailler à une coalition avec LFI, Marine Tondelier est peut-être aussi habile joueuse que bonne capitaine d’équipe : elle s’évite la possibilité d’une sévère défaite en conservant son capital politique pour la suite, analyse la politiste Vanessa Jérôme.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Yémen: frappes saoudiennes meurtrières dans la ville portuaire de Hodeïda",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261123-y%C3%A9men-frappes-saoudiennes-meurtri%C3%A8res-dans-la-ville-portuaire-de-hode%C3%AFda",
+      "date": "Mon, 23 Nov 2026 16:01:26 GMT",
+      "description": "Des bâtiments administratifs, des logements d'employés, une mosquée, ainsi qu'un site et une tour de télécommunications ont été détruits dans la ville portuaire de Hodeida, au Yémen. Pas de revendication pour l'heure du côté de Riyad, mais cette attaque intervient trois jours après une offensive revendiquée par l'Arabie saoudite et sa coalition dans cette même ville yéménite.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Deux navires russes attaqués dans les eaux libyennes, une extension inédite de la guerre russo-ukrainienne",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html",
+      "date": "Mon, 23 Nov 2026 16:00:09 +0100",
+      "description": "Le président ukrainien, Volodymyr Zelensky, a revendiqué, lundi 23 novembre, le double assaut mené la veille par « sept drones navals » dans la zone maritime de Benghazi. Une telle attaque contre des bateaux russes transportant de l’armement permet à Kiev de montrer que ses forces sont en mesure de frapper les intérêts de Moscou où qu’ils se trouvent.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Deux États ont poursuivi SpaceX sur des spores de profondeur sexuellement explicites Grok",
+      "link": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/",
+      "date": "Mon, 23 Nov 2026 15:57:49 +0000",
+      "description": "Les procureurs généraux de l'Oregon et de la Virginie ont déclaré que la société avait enfreint les lois de protection des consommateurs.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Après le snub de l'APEC au Japon, qu'en est-il de ses liens avec la Chine?",
+      "link": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Mon, 23 Nov 2026 15:57:00 GMT",
+      "description": "Le Japon s'inquiète depuis longtemps de l'expansionnisme militaire chinois, et Pékin s'en est pris aux commentaires de Sanae Takaichi sur Taiwan. Les liens glacés étaient exposés au sommet de l'APEC.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Marvel crampe tous les superhéros jamais dans Avengers: Trailer final de Doomsday",
+      "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+      "date": "Mon, 23 Nov 2026 15:55:12 +0000",
+      "description": "\"Vous avez tous vécu des vies volées. Mais maintenant tu dois les rendre\"",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "EN DIRECT – Nvidia réintègre Jensen Huang : «Il n’a rien fait de mal à part créer une puce d’une valeur inestimable», le défend Trump",
+      "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
+      "date": "Mon, 23 Nov 2026 15:51:23 +0000",
+      "description": "Le sexagénaire, dirigeant du puissant fournisseur de puces électroniques, avait été poussé à la démission le 12 novembre après un scandale lié à sa maîtresse, soupçonnée d’être une espionne au profit de la Chine.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "La montée, la chute et la montée de Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 15:49:52 GMT",
+      "description": "Quelques jours après avoir démissionné alors qu'il était en proie au scandale des affaires extra-conjugales, le Jensen Huang de Nvidia fait un retour remarquable.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Jensen Huang est réintégré comme PDG de Nvidia, président du conseil",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "date": "Mon, 23 Nov 2026 15:46:18 +0000",
+      "description": "Trump dit qu'il a parlé au conseil et que Huang « n'a rien fait de mal ».",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "Qu'est-ce que Sound Glow sur HomePods, et comment l'obtenir sur votre haut-parleur Apple?",
+      "link": "https://www.engadget.com/2320280/what-is-apple-homepod-sound-glow/",
+      "date": "Mon, 23 Nov 2026 15:45:00 +0000",
+      "description": "La dernière mise à jour HomePod d'Apple rend le haut de votre haut-parleur lumineux en synchronisation avec la musique.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "La Californie à l'orée, alors que les marées hautes et les inondations allaient faire des ravages sur Thanksgiving. Voici ce qu'il faut savoir",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/california-high-tides-floods-weather-thanksgiving",
+      "date": "Mon, 23 Nov 2026 15:43:23 GMT",
+      "description": "Course des villes côtières pour se préparer à d'éventuelles inondations historiques en collision avec les conditions d'El Niño avant une semaine de voyage chargée L'année a déjà été difficile pour les Californiens côtiers – qui ont subi des inondations, des vagues extrêmes et l'érosion des plages pendant la saison super El Niño. Maintenant, les experts avertissent que la semaine de Thanksgiving pourrait voir plus de ravages, car un événement de marée haute d'hiver entraîne potentiellement des inondations records sur la côte et plus à l'intérieur des terres.",
+      "source": "The Guardian",
+      "category": "Environnement"
+    },
+    {
+      "title": "Nvidia rétablit Jensen Huang en tant que directeur général",
+      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+      "date": "Mon, 23 Nov 2026 15:43:06 GMT",
+      "description": "Inversion surprenante de la position du conseil d'administration sur le co-fondateur déshonoré envoie le géant de l'IA",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Bateau de guerre russe frappé par des drones ukrainiens en Libye, Zelensky dit",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 15:41:23 GMT",
+      "description": "Le Kremlin met en garde contre une « escalade des tensions dans la région », mais refuse de commenter directement les attaques en Libye.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Des soldats israéliens attaquent des Palestiniens après avoir attaqué son domicile",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 15:40:15 +0000",
+      "description": "Les forces israéliennes attaquent un Palestinien lors d'un raid sur son domicile en Cisjordanie occupée.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Nvidia a augmenté de 30% et les actions technologiques se rallient après Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 15:39:41 GMT",
+      "description": "Le bond en actions de Nvidia a également levé les marchés boursiers, avec la technologie lourde Nasdaq en hausse de 6,5% dans les premiers échanges.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Rallye des stocks Tech après que le conseil d'administration de Nvidia approuve le retour de Jensen Huang en tant que PDG",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "date": "Mon, 23 Nov 2026 15:36:12 GMT",
+      "description": "Le Nasdaq a glissé 10 % la semaine dernière dans sa pire semaine depuis les premiers jours de Covid en 2020.",
       "source": "CNBC",
       "category": "Économie"
     },
@@ -803,28 +1083,20 @@
       "category": "Économie"
     },
     {
+      "title": "Génocide des Rohingya : « Le champ d’action de la Cour internationale de justice s’est orienté vers les enjeux liés aux droits humains »",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/23/genocide-des-rohingya-le-champ-d-action-de-la-cour-internationale-de-justice-s-est-oriente-vers-les-enjeux-lies-aux-droits-humains_6814395_3232.html",
+      "date": "Mon, 23 Nov 2026 15:30:13 +0100",
+      "description": "Le juriste William Schabas souligne, dans une tribune au « Monde », la nouvelle approche de la CIJ, qui s’affranchit des menaces à peine voilées de l’ambassadeur américain auprès des Nations unies. Celui-ci avait mis en garde contre un abaissement du seuil juridique requis pour caractériser un tel crime.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "L'autorité néerlandaise pour la protection de la vie privée exhorte les consommateurs à ne pas acheter de «verres perverties»",
       "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
       "date": "Mon, 23 Nov 2026 15:29:49 +0000",
       "description": "L'agence néerlandaise de protection des données a déclaré que les portables intelligents violent la vie privée des personnes, obtiennent des informations erronées et peuvent entraîner des situations dangereuses.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Nvidia actions bond 33% sur le rendement de Jensen Huang, ajoutant $1tn à la valeur de l'entreprise – entreprise en direct",
-      "link": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-      "date": "Mon, 23 Nov 2026 15:25:27 GMT",
-      "description": "Donald Trump salue Huang en tant que «grand patriote et trésor national» après sa réintégration surprise en tant que PDG de Nvidia Jensen Huang réintégré en tant que PDG de Nvidia Shares dans le constructeur britannique Crest Nicholson a chuté d'un quart, à un niveau record, après que la société a émis un avertissement de profits ce matin. Les résultats de l'année entière étaient de 1 353 au bas de la gamme précédente de 1 350 à 1 400 résultats. L'avertissement a martelé",
-      "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
-      "title": "Jensen Huang est réintégré comme PDG de Nvidia. Montage des stocks 35 %",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "date": "Mon, 23 Nov 2026 15:24:42 GMT",
-      "description": "Le conseil d'administration de Nvidia a déclaré qu'il avait des commentaires de hauts responsables du gouvernement américain.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "La COP31 se termine par un échec car les pays se divisent sur les combustibles fossiles, le financement climatique",
@@ -835,36 +1107,20 @@
       "category": "Technologie"
     },
     {
+      "title": "Jensen Huang est réintégré au poste de PDG de Nvidia",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "date": "Mon, 23 Nov 2026 15:23:21 GMT",
+      "description": "Chipmaker renverse la décision qu'il a prise de supprimer le chef de l'exécutif après des rapports d'affaires, y compris avec l'espion chinois présumé Business en direct – dernières mises à jour de la politique américaine – mises à jour en direct Nvidia a réintégré Jensen Huang en tant que chef de l'exécutif dans une inversion étonnante après sa démission dramatique après des rapports d'affaires extraconjugales, y compris avec un espion chinois présumé. Les actions de Nvidia ont bondi sur les nouvelles, sauter 33% et ajouter plus de $1tn à son",
+      "source": "The Guardian",
+      "category": "Technologie"
+    },
+    {
       "title": "Jensen Huang revient comme PDG de NVIDIA après le scandale des renseignements",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
       "date": "Mon, 23 Nov 2026 15:23:05 +0000",
       "description": "Jensen Huang est réintégré au poste de PDG de NVIDIA, après avoir été visé par une opération de renseignement étrangère.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
-      "date": "Mon, 23 Nov 2026 15:21:52 +0100",
-      "description": "Ce coup de théâtre intervient après des appels répétés du président américain, Donald Trump, proche de Jensen Huang, à la réintégration de cette figure emblématique de la tech au sein de l’entreprise qu’il a cofondée.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
-      "link": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 15:18:36 +0100",
-      "description": "Le président réfléchit à instaurer une \"règle d'or\" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Quelle est l'importance de Nvidia et Jensen Huang pour l'économie américaine?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 15:15:48 GMT",
-      "description": "Le directeur général de Nvidia a été au centre du boom de l'intelligence artificielle.",
-      "source": "BBC News",
-      "category": "Technologie"
     },
     {
       "title": "Entraîneur Brésil confondu avec l'envahisseur de terrain, mis en cadenas",
@@ -923,14 +1179,6 @@
       "category": "Défense"
     },
     {
-      "title": "Nvidia rétablit Jensen Huang en tant que directeur général",
-      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
-      "date": "Mon, 23 Nov 2026 15:04:38 GMT",
-      "description": "Inversion surprenante de la position du conseil d'administration sur le co-fondateur déshonoré envoie le géant de l'IA",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Trump soutient le retour de Jensen Huang-S à Nvidia, dit que les États-Unis n'ont aucune preuve d'actes répréhensibles",
       "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
       "date": "Mon, 23 Nov 2026 15:04:01 +0000",
@@ -947,6 +1195,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Le Webb de la NASA montre comment Supernova Dust Chronicles Star Evolution",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "date": "Mon, 23 Nov 2026 15:00:00 +0000",
+      "description": "Le télescope spatial James Webb de la NASA a peint une tapisserie vibrante du légendaire reste de supernova Cassiopeia A (Cas A). Des restes comme ceux-ci sont les nuages de gaz et de poussière qui restent après l'explosion d'une étoile massive et finiront par semer une nouvelle génération d'étoiles et de planètes. Cette observation haute résolution, mi-infrarouge de Webb [...]",
+      "source": "NASA",
+      "category": "Exploration"
+    },
+    {
       "title": "Les restes d'un volcan mort-vivant sur Mars",
       "link": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
       "date": "Mon, 23 Nov 2026 15:00:00 +0000",
@@ -955,20 +1211,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Nvidia surpasse de 30 % les stocks technologiques",
-      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-      "date": "Mon, 23 Nov 2026 14:57:55 GMT",
-      "description": "Le conseil d'administration de Nvidia vote à l'unanimité pour son chef de l'exécutif.",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Jensen Huang est réintégré au poste de PDG de Nvidia",
-      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-      "date": "Mon, 23 Nov 2026 14:57:34 GMT",
-      "description": "Chipmaker annule la décision qu'il a prise de supprimer le chef de l'exécutif après des rapports d'affaires, y compris avec l'espion chinois présumé Business live – dernières mises à jour Nvidia a réintégré Jensen Huang en tant que chef de l'exécutif dans un renversement étonnant après sa démission spectaculaire après des rapports d'affaires extraconjugales, y compris avec un espion chinois présumé. Les actions de Nvidia ont bondi à la nouvelle, sauter plus de 25% à mesure que les marchés boursiers ont ouvert à New York lundi, tandis que",
-      "source": "The Guardian",
-      "category": "Technologie"
+      "title": "Les attaques contre des navires russes à Benghazi «mettent en difficulté la stratégie africaine de Moscou»",
+      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261123-les-attaques-contre-des-navires-russes-%C3%A0-benghazi-mettent-en-difficult%C3%A9-la-strat%C3%A9gie-africaine-de-moscou",
+      "date": "Mon, 23 Nov 2026 14:57:18 GMT",
+      "description": "Le président ukrainien Volodymyr Zelensky a revendiqué au matin du 23 novembre des attaques menées contre deux navires russes à Benghazi, le grand port de l'Est libyen contrôlé par les forces du maréchal Haftar. Il s’agit selon le numéro 1 ukrainien d’une corvette et d’un cargo transportant des armes frappés par des drones maritimes. La Libye va-t-elle devenir un nouveau champ d'affrontements entre Moscou et Kiev ? Virginie Collombier, présidente du centre de recherches Plateforme Méditerranée, est l’invitée d’Afrique Midi.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Des soldats mexicains ont attaqué après l'arrestation du seigneur de la drogue",
@@ -977,14 +1225,6 @@
       "description": "Huit suspects sont arrêtés après avoir tiré sur des soldats qui tentaient de rétablir l'ordre après l'arrestation d'El Chapo Isidro.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "La dynamique David Lisnard, ou l’autre nom du « nœud démocratique » entre les Français et le RN",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/la-dynamique-david-lisnard-ou-l-autre-nom-du-noeud-democratique-entre-les-francais-et-le-rn-20261123",
-      "date": "Mon, 23 Nov 2026 14:53:56 +0100",
-      "description": "ANALYSE - Dans un pays où le Rassemblement national est en passe de remporter la bataille idéologique mais reste frappé pour beaucoup d’une impossibilité majoritaire, les Français observent avec intérêt les offres alternatives qui s’expriment à droite.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "La bourse sauvage oscille : est-ce que je vais perdre de l'argent et est-ce que je peux faire quelque chose ?",
@@ -1035,28 +1275,12 @@
       "category": "France"
     },
     {
-      "title": "«Types cagoulés tirant au mortier» liés au député Louis Boyard : le ministre Jeanbrun incapable d’étayer ses accusations",
-      "link": "https://www.liberation.fr/checknews/types-cagoules-tirant-au-mortier-lies-au-depute-louis-boyard-le-ministre-jeanbrun-incapable-detayer-ses-accusations-20261123_E5U2S2BR4VGFRFRS4NRR56JB2M/",
-      "date": "Mon, 23 Nov 2026 14:39:11 +0000",
-      "description": "Le 22 novembre sur CNews, le ministre du Logement laissait entendre que l’élu insoumis était rattaché à «des types cagoulés [tirant] au mortier sur les forces de l’ordre». Interrogé par «CheckNews», son cabinet n’a fourni aucun élément de preuve sérieux.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "CrowdStrike pour acheter Zscaler dans 44 milliards de dollars de l'accord comme les supercharges AI cyberattaques",
       "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
       "date": "Mon, 23 Nov 2026 14:38:45 GMT",
       "description": "CrowdStrike et ses concurrents ont bombardé des milliards pour augmenter les défenses suite aux cyberattaques de l'IA.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "«Tintin au Congo» : Teddy Riner porte plainte contre Emmanuelle Mignon",
-      "link": "https://www.liberation.fr/politique/elections/tintin-au-congo-teddy-riner-porte-plainte-contre-emmanuelle-mignon-20261123_VVC77KHMFJBHPHXYX3GTIT44XA/",
-      "date": "Mon, 23 Nov 2026 14:32:37 +0000",
-      "description": "Selon BFM TV, le judoka et candidat à la présidentielle 2027 réplique aux propos tenus par l’ex-collaboratrice de Nicolas Sarkozy sur France Inter mi-novembre après la visite de ce dernier dans un hôpital à Saint-Denis.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Irak: opération anticorruption à Jurf al-Sakhr, fief des Kataëb Hezbollah",
@@ -1075,18 +1299,10 @@
       "category": "Technologie"
     },
     {
-      "title": "«Je ne suis pas autorisé à faire campagne, autrement je peux vous dire que j’irais» : les confidences d’Emmanuel Macron à des grands patrons européens",
-      "link": "https://www.lefigaro.fr/politique/je-ne-suis-pas-autorise-a-faire-campagne-autrement-je-peux-vous-dire-que-j-irais-les-confidences-d-emmanuel-macron-a-des-grands-patrons-europeens-20261123",
-      "date": "Mon, 23 Nov 2026 14:24:56 +0100",
-      "description": "EXCLUSIF - Le président a participé à un dîner avec des dirigeants industriels, dimanche à Toulouse. L’occasion pour lui de renouveler son plaidoyer pour une Europe «puissance», de préconiser moins de «naïveté» face à la Chine, mais aussi de mettre en garde contre une arrivée au pouvoir de Marine Le Pen.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Le conseil d'administration de Nvidia rétablit Jensen Huang comme PDG",
       "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
       "date": "Mon, 23 Nov 2026 14:24:38 +0000",
-      "description": "Huang a démissionné en tant que PDG plus tôt ce mois-ci après des révélations d'au moins deux affaires, y compris avec un espion présumé.",
+      "description": "Huang a démissionné plus tôt ce mois-ci après des révélations d'au moins deux affaires, y compris avec un espion chinois présumé.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -1097,14 +1313,6 @@
       "description": "L'incroyable renversement a été soutenu par de hauts fonctionnaires du gouvernement américain.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "EN DIRECT – Nvidia réintègre Jensen Huang : l’action s’envole, Trump salue «une juste décision»",
-      "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
-      "date": "Mon, 23 Nov 2026 14:21:12 +0000",
-      "description": "Le sexagénaire, dirigeant du puissant fournisseur de puces électroniques, avait été poussé à la démission le 12 novembre après un scandale lié à sa maîtresse, soupçonnée d’être une espionne au profit de la Chine.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Nvidia rétablit l'ancien PDG Jensen Huang malgré le scandale chinois de l'espionnage",
@@ -1171,14 +1379,6 @@
       "category": "France"
     },
     {
-      "title": "Jensen Huang est réintégré comme PDG de Nvidia, président du conseil",
-      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "date": "Mon, 23 Nov 2026 14:10:18 +0000",
-      "description": "Selon le conseil d'administration, les hauts fonctionnaires ont confirmé que Huang n'était « aucun risque pour la sécurité nationale ».",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
       "title": "GTA 6 pirate libéré sur licence avec avertissement 'ne laissez pas cela se reproduire'",
       "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 14:08:50 GMT",
@@ -1193,14 +1393,6 @@
       "description": "Des centaines de personnes étaient à l'enceinte quand un incendie a éclaté samedi, puis a fait rage pendant des heures.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : un cargo russe pris pour cible dans le golfe de Finlande, le Kremlin dénonce l’« expansion de l’activité terroriste » en mer Baltique",
-      "link": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-un-cargo-russe-pris-pour-cible-dans-le-golfe-de-finlande-le-kremlin-denonce-l-expansion-de-l-activite-terroriste-en-mer-baltique_6814183_3210.html",
-      "date": "Mon, 23 Nov 2026 14:00:17 +0100",
-      "description": "Des bombardements russes ont par ailleurs fait trois morts à Zaporijia et deux autres à Kramatorsk, ont informé lundi les autorités locales.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Présidentielle 2027 : les élus locaux au cœur de la campagne",
@@ -1219,28 +1411,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Grand Paris Express : la mise en service du premier tronçon en décembre est «très compromise», selon Valérie Pécresse",
-      "link": "https://www.liberation.fr/economie/transports/grand-paris-express-la-mise-en-service-du-premier-troncon-en-decembre-est-tres-compromise-selon-valerie-pecresse-20261123_N2XZMNQBRFAT5HNK545Y5TEDTU/",
-      "date": "Mon, 23 Nov 2026 13:59:13 +0000",
-      "description": "Plusieurs acteurs avaient déjà fait part en octobre de leurs doutes sur le démarrage de cette ligne 18 avant la fin de l’année. Il avait été annoncé pour début 2026, puis à la rentrée, puis avant la fin de l’automne.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "L'effondrement de la COP31 a brisé la prétention d'un consensus climatique mondial",
       "link": "https://www.newscientist.com/article/2600331-cop31-collapse-has-shattered-the-pretense-of-a-global-climate-consensus/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Mon, 23 Nov 2026 13:58:53 +0000",
       "description": "Les pays progressistes du climat ont pris l'initiative radicale de torpiller un accord lors du sommet des Nations unies en Turquie, alors que la tactique obstructionniste des pétrostates était scandaleuse. Et maintenant ?",
       "source": "New Scientist",
       "category": "Sciences"
-    },
-    {
-      "title": "De retour chez les parents : «Je ne veux pas trop faire la feignasse comme quand j’étais ado»",
-      "link": "https://www.liberation.fr/lifestyle/argent-boulot/de-retour-chez-les-parents-je-ne-veux-pas-trop-faire-la-feignasse-comme-quand-jetais-ado-20261123_X7VUQ4E4ZVF3VD2R5F3JFX2I5E/",
-      "date": "Mon, 23 Nov 2026 13:58:52 +0000",
-      "description": "Ils sont adultes et sont rentrés vivre au bercail. Dans le premier épisode de notre série, Jules, 24 ans, a dû lâcher son appartement avec sa copine, trop onéreux.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Les restrictions israéliennes coupent les fournitures d'aide auditive vitales à Gaza",
@@ -1267,60 +1443,12 @@
       "category": "Monde"
     },
     {
-      "title": "La Macédoine du Nord reste bloquée sur la voie de l'UE après 21 ans de candidature alors que le Monténégro et l'Albanie se rapprochent de l'adhésion",
-      "link": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate-while-montenegro-and-albania-move-closer-to-membership/a-80020841?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 13:46:00 GMT",
-      "description": "L'élargissement de l'UE a repris, le Monténégro et l'Albanie se rapprochant de l'adhésion. Mais la Macédoine du Nord, candidate depuis 2005, reste bloquée par un différend politiquement difficile impliquant la Bulgarie.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "La grève anti-austérité stimule le chaos du transport à travers la Belgique",
-      "link": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 13:45:16 +0000",
-      "description": "La grève nationale contre l'austérité planifiée provoque des perturbations généralisées, le destin du gouvernement restant dans l'équilibre.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Comment effacer le cache sur Microsoft Edge",
-      "link": "https://www.engadget.com/2319769/how-to-clear-browser-cache-microsoft-edge/",
-      "date": "Mon, 23 Nov 2026 13:45:00 +0000",
-      "description": "Le cache dans Microsoft Edge stocke les données des sites Web pour les rendre plus rapides à charger la prochaine fois. Vous avez probablement plus que vous n'avez besoin.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "L’entretien de la voirie, «une dépense sèche» et «sans fin» pour beaucoup de communes",
-      "link": "https://www.liberation.fr/politique/lentretien-de-la-voirie-une-depense-seche-et-sans-fin-pour-beaucoup-de-communes-20261123_FKNGJJC5ABCZTIMYT73X7XCPSA/",
-      "date": "Mon, 23 Nov 2026 13:44:09 +0000",
-      "description": "Dans la campagne flamande du Nord, sujette aux gonflements argileux, la réfection des routes pèse lourd sur les budgets d’investissement et de fonctionnement.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Vols et services ferroviaires annulés en Belgique en raison d'une grève",
+      "title": "Vols annulés en Belgique en raison d'une grève au coût de la vie",
       "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 13:34:02 GMT",
       "description": "Une série de grèves ont frappé la Belgique ces derniers mois alors que le premier ministre lutte pour convenir d'un budget pour réduire les coûts.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Après le snub de l'APEC au Japon, qu'en est-il de ses liens avec la Chine?",
-      "link": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 13:33:00 GMT",
-      "description": "Le Japon s'inquiète depuis longtemps de l'expansionnisme militaire chinois, et Pékin s'en est pris aux commentaires de Sanae Takaichi sur Taiwan. Les liens glacés étaient exposés au sommet de l'APEC.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Zelensky loue l'opération de drone qui a coulé le navire de guerre russe dans un port libyen",
-      "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
-      "date": "Mon, 23 Nov 2026 13:28:15 GMT",
-      "description": "L'incident vient avec un drone ukrainien présumé frapper sur un cargo russe dans la mer Baltique pendant le week-end.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Affaire Nvidia : la maîtresse chinoise de Jensen Huang était en contact avec Pékin durant sa liaison, selon le New York Times",
@@ -1329,14 +1457,6 @@
       "description": "Le quotidien s’appuie sur des sources proches du dossier ayant eu connaissance des rapports des renseignements américains décrivant leurs rencontres.",
       "source": "Le Figaro",
       "category": "France"
-    },
-    {
-      "title": "Ministre ougandais à la COP31: «Nous avons besoin d'une transition juste»",
-      "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 13:18:00 GMT",
-      "description": "Le financement des pays riches pour aider à faire face aux impacts du changement climatique ne s'est pas concrétisé, affirme le ministre ougandais de l'Environnement. Le pays d'Afrique de l'Est espère que le pétrole et les crédits carbone contribueront à stimuler les finances.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Nvidia alimente les interfaces cerveau-ordinateur maintenant",
@@ -1355,18 +1475,18 @@
       "category": "Technologie"
     },
     {
-      "title": "Que voit la dernière sonde spatiale de l'Union soviétique sur Mars ?",
-      "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
-      "date": "Mon, 23 Nov 2026 13:00:00 +0000",
-      "description": "Les théories de la conspiration entourent l'apparence étrange d'une ombre vue dans les images finales capturées par Phobos 2, la dernière mission de l'Union soviétique dans l'espace profond.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Je prévois mon premier voyage au ciel sombre, et tout ça parce que ce projecteur d'étoiles éducatives m'a montré ce qu'il manque",
       "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
       "date": "Mon, 23 Nov 2026 13:00:00 +0000",
       "description": "Ce projecteur à prix budgétaire m'a rappelé ce que la pollution légère nous a apporté",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "Que voit la dernière sonde spatiale de l'Union soviétique sur Mars ?",
+      "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+      "date": "Mon, 23 Nov 2026 13:00:00 +0000",
+      "description": "Les théories de la conspiration entourent l'apparence étrange d'une ombre vue dans les images finales capturées par Phobos 2, la dernière mission de l'Union soviétique dans l'espace profond.",
       "source": "Space.com",
       "category": "Exploration"
     },
@@ -1387,14 +1507,6 @@
       "category": "Économie"
     },
     {
-      "title": "L'attaque ukrainienne au large de la côte de Libye montre la portée des drones navals de Kiev",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-      "date": "Mon, 23 Nov 2026 12:33:09 +0000",
-      "description": "Le Président Volodymyr Zelensky a dit que des drones ukrainiens avaient coulé une corvette et frappé un navire à cargaison sèche, lors d'attaques impliquant des forces d'opérations spéciales.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Le problème avec le projet des pouvoirs intermédiaires",
       "link": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
       "date": "Mon, 23 Nov 2026 12:25:47 GMT",
@@ -1407,14 +1519,6 @@
       "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
       "date": "Mon, 23 Nov 2026 12:15:16 +0000",
       "description": "Trois écrans supplémentaires stimulent le multitâche mais peuvent distraire et submerger.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
-      "title": "Avis: L'Asus ProArt P16 offre un aperçu d'un futur alimenté par l'IA locale",
-      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "date": "Mon, 23 Nov 2026 12:00:00 +0000",
-      "description": "Le nouvel ordinateur portable Asus ProArt coûte jusqu'à 7 000 $, mais il peut gérer un gaggle d'agents locaux de l'IA.",
       "source": "Ars Technica",
       "category": "Technologie"
     },
@@ -1432,6 +1536,14 @@
       "date": "Mon, 23 Nov 2026 12:00:00 +0000",
       "description": "Faites un beau cadeau pour tout le monde sur votre liste sans casser la banque. Chacun de ces cadeaux est recommandé par WIRED.",
       "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Avis: L'Asus ProArt P16 offre un aperçu d'un futur alimenté par l'IA locale",
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "date": "Mon, 23 Nov 2026 12:00:00 +0000",
+      "description": "Le nouvel ordinateur portable Asus ProArt coûte jusqu'à 7 000 $, mais il peut gérer un gaggle d'agents locaux de l'IA.",
+      "source": "Ars Technica",
       "category": "Technologie"
     },
     {
@@ -1456,22 +1568,6 @@
       "date": "Mon, 23 Nov 2026 11:42:51 GMT",
       "description": "Ukraine Le service de sécurité dit que sept drones ont été lancés depuis le vaisseau mère en opération qui a coulé Merkury Warship Europe en direct – dernières mises à jour L'Ukraine a confirmé qu'elle a déployé des drones navals lors de frappes sur deux navires russes au large de la Libye dimanche, y compris un qui a coulé la corvette Merkury, l'un des nouveaux navires de Russie. Ukraine service de sécurité, le SBU, a déclaré que sept drones navals fabriqués au pays ont été lancés d'un vaisseau mère dans le",
       "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
-      "title": "Les stations de ski prises en étau entre sauvegarde de l'économie locale et adaptation au réchauffement climatique",
-      "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/les-stations-de-ski-prises-en-etau-entre-sauvegarde-de-l-economie-locale-et-adaptation-au-rechauffement-climatique_8289866.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 11:40:08 +0100",
-      "description": "Les premières stations ont ouvert ce week-end, pour le plus grand bonheur des skieurs. Mais, avec un climat qui se réchauffe, la neige se fait de plus en plus rare et de nombreuses communes qui vivent de cette activité sont en difficulté.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Bateau de guerre russe frappé par des drones ukrainiens en Libye, Zelensky dit",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 11:40:01 GMT",
-      "description": "Le Kremlin met en garde contre une « escalade des tensions dans la région », mais refuse de commenter directement les attaques en Libye.",
-      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -1523,6 +1619,14 @@
       "category": "Monde"
     },
     {
+      "title": "\"Medicare pour tous\" est de retour sur le tableau. Est-ce que ça a une meilleure chance cette fois ?",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+      "date": "Mon, 23 Nov 2026 11:00:49 -0500",
+      "description": "Plusieurs sénateurs démocrates nouvellement élus américains ont fait campagne sur Medicare for All. Pourrait-il être le moment où il obtient réellement la traction?",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Pourquoi utiliser des roches pour éliminer le carbone pourrait éventuellement réduire la croissance des cultures",
       "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
       "date": "Mon, 23 Nov 2026 11:00:00 +0000",
@@ -1563,28 +1667,12 @@
       "category": "Monde"
     },
     {
-      "title": "Pedro Sanchez peut-il réussir sa «remontada» et rester au pouvoir?",
-      "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261123-pedro-sanchez-peut-il-r%C3%A9ussir-sa-remontada-et-rester-au-pouvoir",
-      "date": "Mon, 23 Nov 2026 10:20:09 GMT",
-      "description": "Dernière ligne droite avant les élections législatives anticipées qui auront lieu ce dimanche 29 novembre en Espagne. Le scrutin s’annonce périlleux pour Pedro Sanchez, donné perdant dans les sondages. Spécialiste des « remontadas » spectaculaires, le chef du gouvernement socialiste pourra-t-il néanmoins faire mentir les sondages et rester aux affaires ?",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "La Colombie marque 10 ans depuis le pacte de paix des FARC : en photos",
       "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
       "date": "Mon, 23 Nov 2026 10:02:48 +0000",
       "description": "Le conflit entre le gouvernement colombien et un groupe rebelle de gauche s'est terminé par un accord historique de 2016. Mais la Colombie attend toujours une paix véritable.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Législatives en Espagne : le socialiste Pedro Sanchez, l’éternel combattant qui croit encore à la « remontada »",
-      "link": "https://www.lemonde.fr/international/article/2026/11/23/legislatives-en-espagne-le-socialiste-pedro-sanchez-l-eternel-combattant-qui-croit-encore-a-la-remontada_6814366_3210.html",
-      "date": "Mon, 23 Nov 2026 10:00:09 +0100",
-      "description": "Malgré les scandales qui ont fragilisé son gouvernement et des sondages qui donnent une majorité à la droite et à l’extrême droite, le premier ministre refuse d’envisager la défaite aux élections législatives du 29 novembre.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "\"On n'est pas dans GTA VI\" : Geffray fustige une flambée de violence dans certains lycées",
@@ -1595,14 +1683,6 @@
       "category": "France"
     },
     {
-      "title": "Le géant de la restauration pour changer la liste des actions principales vers les États-Unis en un coup supplémentaire vers le Royaume-Uni",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 09:54:04 GMT",
-      "description": "Ces dernières années, un nombre croissant d'entreprises ont quitté le Royaume-Uni pour inscrire des actions aux États-Unis.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Le conseil d'administration de Nvidia ramène Jensen Huang comme PDG",
       "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
       "date": "Mon, 23 Nov 2026 09:53:41 -0500",
@@ -1611,20 +1691,12 @@
       "category": "Monde"
     },
     {
-      "title": "Le monde n'a pas besoin d'énergie solaire ou éolienne — il a besoin d'énergie solaire et éolienne",
+      "title": "Le monde n'a pas besoin d'énergie solaire ou éolienne — il a besoin des deux",
       "link": "https://grist.org/energy/the-world-doesnt-need-solar-or-wind-it-needs-solar-and-wind/",
       "date": "Mon, 23 Nov 2026 09:45:00 +0000",
       "description": "La combinaison des sources d'énergie renouvelables peut compenser les lacunes et réduire les coûts.",
       "source": "Grist",
       "category": "Environnement"
-    },
-    {
-      "title": "Amazon recourt à des autocollants de paquet dans sa lutte contre la loi de livraison proposée par NYC",
-      "link": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
-      "date": "Mon, 23 Nov 2026 09:35:53 +0000",
-      "description": "Dans sa dernière salve contre la Delivery Protection Act de New York, Amazon tente de gagner les résidents avec une nouvelle tactique.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "L'Ukraine fait exploser le navire de guerre russe en Libye",
@@ -1643,12 +1715,12 @@
       "category": "Environnement"
     },
     {
-      "title": "Les protocoles d’aide à mourir suscitent des interrogations parmi les soignants : « Il n’existe pas de pilule létale magique, mourir n’est jamais simple »",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/23/aide-a-mourir-il-n-existe-pas-de-pilule-letale-magique-mourir-n-est-jamais-simple_6814359_3224.html",
-      "date": "Mon, 23 Nov 2026 09:08:45 +0100",
-      "description": "Rendues publiques le 19 novembre, les recommandations de la Haute Autorité de santé sur les substances létales permettant d’appliquer la loi sont diversement accueillies par les médecins et infirmiers, en première ligne face aux demandes de patients. Les décrets d’application du texte sont attendus d’ici à janvier 2027.",
-      "source": "Le Monde",
-      "category": "France"
+      "title": "Nvidia actions s'envole 30% après le conseil rétabli Huang",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "date": "Mon, 23 Nov 2026 08:22:00 GMT",
+      "description": "",
+      "source": "Financial Times",
+      "category": "Économie"
     },
     {
       "title": "Est-il vrai que nous n'utilisons que 10% de notre cerveau ?",
@@ -1683,14 +1755,6 @@
       "category": "Monde"
     },
     {
-      "title": "Ukraine: au moins 15 morts après des frappes russes dans la région de Kiev, des habitants privés d'eau",
-      "link": "https://www.rfi.fr/fr/europe/20261123-ukraine-au-moins-15-morts-apr%C3%A8s-des-frappes-russes-dans-la-r%C3%A9gion-de-kiev-des-habitants-priv%C3%A9s-d-eau",
-      "date": "Mon, 23 Nov 2026 07:16:23 GMT",
-      "description": "Au moins 15 personnes sont mortes lors de frappes russes dans la région de Kiev, dont 11 dans l'effondrement partiel d'un immeuble résidentiel, selon le dernier bilan des autorités ce lundi 23 novembre. Des centaines d'habitants sont également privés d'eau depuis plusieurs jours. Une réunion de l'Otan est prévue au sujet du conflit et de ses répercussions en Europe.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Apple iPhone Duo examen: l'iPhone le plus nouveau et intéressant en presque une décennie",
       "link": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
       "date": "Mon, 23 Nov 2026 07:00:49 GMT",
@@ -1713,14 +1777,6 @@
       "description": "Le sommet COP31 à Antalya a été la plus longue conférence sur le climat de l'histoire de l'ONU.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Antoine Lilti, historien : « Il est très frappant, dans les mobilisations en cours, de voir que ces jeunes réclament que la promesse des Lumières soit tenue »",
-      "link": "https://www.lemonde.fr/idees/article/2026/11/23/antoine-lilti-historien-il-est-tres-frappant-dans-les-mobilisations-en-cours-de-voir-que-ces-jeunes-reclament-que-la-promesse-des-lumieres-soit-tenue_6814349_3232.html",
-      "date": "Mon, 23 Nov 2026 06:30:08 +0100",
-      "description": "La période des Lumières, dont l’héritage était consensuel jusqu’à présent, fait l’objet de critiques croissantes. Pour actualiser cette pensée de l’émancipation par le savoir, l’historien, dans un entretien au « Monde », défend des Lumières ouvertes sur le monde et les autres pensées de l’universalisme.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Deux monstres trous noirs de l'aube du temps défient l'explication",
@@ -1784,7 +1840,7 @@
       "date": "Mon, 23 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 23 – The... Today-S APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discutez APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. L'émergence [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Focus laser au sommet du monde",
@@ -1792,7 +1848,7 @@
       "date": "Mon, 23 Nov 2026 05:01:00 +0000",
       "description": "Un instrument géodésique de nouvelle génération développé par la NASA, faisant partie d'un réseau qui aide à mesurer les orbites des satellites et la forme de la planète, a débuté à Svalbard, en Norvège.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "La Chine gagne la guerre automobile",
@@ -1819,38 +1875,6 @@
       "category": "Monde"
     },
     {
-      "title": "Parlons dinde: Voici comment les coûts des repas Thanksgiving ont changé cette année",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
-      "date": "Mon, 23 Nov 2026 05:00:00 -0500",
-      "description": "Les coûts de l'épicerie ont augmenté, mais les analystes des prix des aliments disent qu'il n'est pas clair si vous dépenserez plus pour le repas de Thanksgiving cette année. Certaines personnes décident de ne pas accueillir ou d'accueillir moins d'invités.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
-      "title": "Voici combien Starlink coûte en 2020 contre 2026",
-      "link": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
-      "date": "Mon, 23 Nov 2026 01:30:00 +0000",
-      "description": "Jetez des rabais et des tarifs fluctuants, et deux clients pourraient finir par payer des factures très différentes pour le même service par satellite Starlink.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
-      "title": "Comment le capital remarquable, GIC, et Baillie Gifford misent sur anthropique avant son introduction en bourse",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "date": "Mon, 23 Nov 2026 01:25:53 +0000",
-      "description": "Trois bailleurs de fonds importants partagent ce qui leur a donné la conviction de parier des milliards sur l'anthropique.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les factures d'énergie vont s'envoler - voici comment vous pouvez soulager la douleur",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 01:05:07 GMT",
-      "description": "Les factures d'énergie des ménages sont sur le point d'augmenter, mais il y a des moyens de garder un couvercle sur vos dépenses.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Les archéologues révèlent qu'un roi de l'âge du fer a pu être une femme",
       "link": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
       "date": "Mon, 23 Nov 2026 00:30:23 EST",
@@ -1875,14 +1899,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Q&A : Qu'est-ce que le mécanisme Belém-Antalya pour une « transition juste » ?",
-      "link": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
-      "date": "Mon, 09 Nov 2026 08:00:00 +0000",
-      "description": "L'un des principaux résultats attendus du prochain sommet climatique COP31 à Antalya, en Turquie, est le lancement d'un... L'article Q&A : Quel est le mécanisme Belém-Antalya pour une « transition juste » ? paru en premier sur Carbon Brief .",
-      "source": "Carbon Brief",
-      "category": "Environnement"
-    },
-    {
       "title": "La Force aérienne délivre un contrat massif de 16 milliards de dollars pour le travail des moteurs à des dizaines d'entreprises",
       "link": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/",
       "date": "Fri, 20 Nov 2026 23:52:57 +0000",
@@ -1891,36 +1907,12 @@
       "category": "Défense"
     },
     {
-      "title": "En une année de résolution de problèmes mathématiques de l'IA, un travailleur anthropopique dit qu'il a peut-être craqué le plus grand",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 23:08:57 GMT",
-      "description": "Un mathématicien d'Anthropic dit qu'il a utilisé une AI pour prouver la célèbre hypothèse de Riemann, bien que la vérification prendra un certain temps.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les ventes de GTA 6 ont atteint 3,8 milliards de dollars en une seule journée - le plus grand lancement de divertissement de l'histoire",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 22:53:24 GMT",
-      "description": "La figure mammouth surpasse chaque lancement de jeu vidéo et le record de la boîte de film d'une journée.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Les mathématiciens sont stupéfaits par la preuve de l'hypothèse de Riemann",
       "link": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Fri, 20 Nov 2026 22:33:06 +0000",
       "description": "Au fur et à mesure que les nouvelles se répandent, un chercheur anthropologue a utilisé l'IA pour trouver une réponse à l'une des questions les plus anciennes dans son domaine, les mathématiciens ont exprimé leur admiration, leur incertitude et au moins une prétention d'avoir une preuve concurrente dans les œuvres.",
       "source": "New Scientist",
       "category": "Sciences"
-    },
-    {
-      "title": "Spots de curiosité Drifting Nuages à crépuscule",
-      "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-      "date": "Fri, 20 Nov 2026 22:27:05 +0000",
-      "description": "Description Le rover de Curiosité Mars a capturé ces nuages dérivants le 31 octobre 2026, le 5 061e jour martien de la mission. Le rover utilise ses caméras de navigation pour capturer les nuages post-sunset, appelés nuages crépusculaires, qui apparaissent pendant une courte période à chaque chute sur Gale Crater, qu'il a exploré depuis plus de [...]",
-      "source": "NASA",
-      "category": "Environnement"
     },
     {
       "title": "L'effet quantique pourrait inverser la gravité et violer la théorie de la relativité de Einstein.",
@@ -1977,14 +1969,6 @@
       "description": "Selon une nouvelle étude de l'Université d'Ottawa, un modèle alternatif dans lequel l'Univers a 26,7 milliards d'années et n'a besoin ni de matière noire ni d'énergie noire s'est heurté à plusieurs tests de cosmologie majeurs.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Le plan de construction navale nécessiterait une augmentation massive des crédits annuels: CBO",
-      "link": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo/",
-      "date": "Fri, 20 Nov 2026 19:33:00 +0000",
-      "description": "Le plan de construction navale de la Navy, publié en mai, coûterait en moyenne environ 53,8 milliards de dollars par an en crédits pour la construction navale, soit une augmentation de 41 % par rapport aux cinq dernières années, selon le Bureau du budget du Congrès.",
-      "source": "Breaking Defense",
-      "category": "Défense"
     },
     {
       "title": "Que savoir sur la facture américaine d'autorisation, des datacenters à l'arc Trump",
@@ -2083,14 +2067,6 @@
       "category": "Défense"
     },
     {
-      "title": "Ces pêcheurs américains voient le vent au large comme un « dieu ». Trump veut l'arrêter",
-      "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-      "date": "Fri, 20 Nov 2026 14:00:31 GMT",
-      "description": "Malgré les attaques du président, Sea Services forme les pêcheurs de la Nouvelle-Angleterre à la construction éolienne en mer et leur fournit un deuxième flux de revenus.Un matin de septembre pluvieux, le Pamela Ann, un bateau rouillé de 26 mètres (86 pieds) de pétoncle, accosté à New Bedford, au Massachusetts. Son équipage avait passé les 12 derniers jours en mer, enregistrant les observations de mammifères, en surveillant les navires pour s'assurer qu'ils n'entrent pas dans les zones de construction et en surveillant les travailleurs.",
-      "source": "The Guardian",
-      "category": "Environnement"
-    },
-    {
       "title": "Le téléchargement : à l'intérieur de la quête pour rendre nos esprits immortels",
       "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "date": "Fri, 20 Nov 2026 13:10:00 +0000",
@@ -2187,50 +2163,50 @@
       "category": "Environnement"
     },
     {
-      "title": "Amazon prend des commandes pour le Moto Tag 3 avant même qu'il ne soit annoncé",
-      "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
-      "date": "2026-11-23T08:09:32-05:00",
-      "description": "Le Moto Tag 3 inopiné de Motorola a été coté en vente en ligne, seulement cinq mois après la mise en vente du Moto Tag 2 aux États-Unis, et avant toute annonce officielle de suivi. La liste sur Amazon UK a été repérée par l'utilisateur X @matteventu, et montre le tracker dans une option de couleur \"Pantone Lucent White\", [...]",
+      "title": "La Maison Blanche se vante que Trump ait été « totalement impliqué » dans la réintégration de Jensen",
+      "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "date": "2026-11-23T11:30:11-05:00",
+      "description": "On dirait que le président Donald Trump a joué un rôle dans la réintégration de Jensen Huang en tant que PDG de Nvidia - et maintenant la Maison Blanche s'assure que tout le monde le sache. « Le président Trump a été totalement impliqué et c'est une grande décision du conseil d'administration de NVIDIA », a déclaré Steven Cheung, directeur des [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
     {
-      "title": "Samsung est absurde 1 100Hz moniteur de jeu frappe étagères le mois prochain pour 899,99 $",
-      "link": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
-      "date": "2026-11-23T08:00:00-05:00",
-      "description": "Après avoir été taquiné en décembre 2025 et avoir obtenu sans doute une bosse de pré-release spec inutile en août, le Samsung Odyssey G6 G60H roule le mois prochain pour 899,99 $. Le moniteur de jeu de 27 pouces aura un taux de rafraîchissement absurde de 1 100Hz, resserrant étroitement l'UltraGear 25G590B de LG, qui s'élève à 1000Hz. Y a-t-il une valeur dans ces [...]",
+      "title": "Les dirigeants techniques célèbrent le retour de Jensen Huang",
+      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "date": "2026-11-23T11:14:04-05:00",
+      "description": "Disons que vous êtes Jensen Huang. Vous avez trompé votre femme avec un espion chinois présumé, aurait eu une liaison avec non pas un, mais deux subordonnés, et (alléguément!) \"terrorisé\" vos employés, une série d'indiscrétions qui a conduit à votre ouster de ce qui était autrefois la société la plus précieuse du monde. (Le cours des actions a récemment pris [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
     {
-      "title": "Meta Muse peut faire vos achats Black Friday chez Walmart",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "date": "2026-11-23T06:00:00-05:00",
-      "description": "Walmart va laisser Meta's Muse magasiner sur son site Web en votre nom, permettant à l'agent d'IA de trouver et d'acheter Black Friday offres. Demain, le mardi 24 novembre, le géant du commerce de détail lancera une implémentation en direct de l'Agent Gateway qu'il a annoncé le mois dernier, qui aide les agents d'IA à trouver des produits pertinents pour vous sans [...]",
+      "title": "Mon fidèle moniteur de jeu Alienware QD-OLED de 27 pouces est seulement 280 $",
+      "link": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
+      "date": "2026-11-23T11:00:00-05:00",
+      "description": "Le moniteur de jeu AW2726DM QD-OLED d'Alienware a été très important même au prix initial de 349,99 $. Le bas prix et les spécifications impressionnantes étaient assez pour me convaincre d'en obtenir un au lancement, et je suis heureux de l'avoir fait. Je suis un peu jaloux que vous ayez l'occasion d'économiser 70 $ sur le moniteur J'ai utilisé [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
     {
-      "title": "La prochaine collection est un petit cadre photo numérique qui double en traqueur",
-      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "date": "2026-11-22T22:00:00-05:00",
-      "description": "Après avoir élargi sa collection Charmera avec une édition Millennium avec des designs inspirés Y2K plus tôt cette année, le suivi de Reto à son petit appareil photo Kodak est un cadre photo numérique tout aussi petit que vous pouvez utiliser pour afficher vos photos. Mais alors que l'utilité de la Charmera a cessé de casser des photos granuleuses et des vidéos terribles, le Kodak SlideTag va [...]",
+      "title": "Les AirPods Pro 3 d'Apple sont à 40 pour cent en avance sur le Black Friday",
+      "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "date": "2026-11-23T10:00:44-05:00",
+      "description": "Les AirPods Pro 3 sont moins chers que jamais. Les derniers écouteurs sans fil phares Apple sont tombés ce matin à seulement 149 $ à Amazon et Walmart. À l'origine, ils ont vendu pour 249 $, mais ont été couramment disponibles pour 199 $ en dehors de la gamme des événements de marché. Le meilleur prix que nous avons vu précédemment était $169, qui est ce qu'ils sont actuellement [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
     {
-      "title": "Nous n'avons pas vu la dernière des pannes technologiques majeures",
-      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "date": "2026-11-22T17:48:02-05:00",
-      "description": "Au cours de la dernière semaine, nous avons vu un arrêt au sol de la FAA à l'échelle nationale, une panne d'Outlook à plusieurs jours qui a mis des entreprises entières à l'arrêt, et une panne bancaire à JPMorgan Chase. Mais le consensus est qu'il y en a d'autres à venir. Jay Clayton, directeur du renseignement national, a déclaré à CNN : « [...]",
+      "title": "Les cadeaux de vacances préférés de Verge, qui coûtent 50 $ ou moins",
+      "link": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
+      "date": "2026-11-23T10:00:00-05:00",
+      "description": "Vous avez 50 $ à dépenser pour un ami ou un être cher cette saison, et vous ne savez pas sur quoi le dépenser. Tout d'abord, c'est vraiment généreux de ta part. Alors que ce niveau de prix peut parfois être difficile à acheter pour - pris entre des accessoires abordables et des articles de gros billet - il ya beaucoup d'or [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
     {
-      "title": "Les vols Delta à destination et en provenance d'Atlanta ont été retardés en raison d'une panne de système",
-      "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-      "date": "2026-11-22T12:46:44-05:00",
-      "description": "Tous les vols Delta à destination et en provenance d'Atlanta sont confrontés à des retards importants dimanche en raison d'un problème avec le système qui calcule le poids et l'équilibre d'un avion. L'aéroport international Hartsfield-Jackson d'Atlanta est le plus grand hub de Delta et l'un des aéroports les plus fréquentés au monde. Alors que seul Delta est touché en ce moment, des perturbations à [...]",
+      "title": "Comment un routeur a causé le pire arrêt depuis le 11 septembre",
+      "link": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+      "date": "2026-11-23T10:00:00-05:00",
+      "description": "Aujourd'hui, je parle avec Darryl Campbell, journaliste indépendant, expert en aviation, et auteur du livre Fatal Abstraction: Why the Managerial Class Loses Control of Software. Darryl couvre l'aviation et la FAA, et plus tôt ce mois-ci, lorsque les États-Unis ont subitement subi un arrêt au sol à l'échelle nationale lors d'un voyage en avion, Darryl a tout raconté. Il [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
