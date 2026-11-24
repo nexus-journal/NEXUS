@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T08:07:37.384954+00:00",
-  "count": 284,
+  "updated_at": "2026-11-24T09:20:55.605811+00:00",
+  "count": 286,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -67,20 +67,76 @@
       "category": "Exploration"
     },
     {
-      "title": "Mort de Nahel : la justice retiendra-t-elle la qualification de meurtre ?",
-      "link": "https://france3-regions.franceinfo.fr/paris-ile-de-france/yvelines/mort-de-nahel-la-justice-retiendra-t-elle-la-qualification-de-meurtre-3454775.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 24 Nov 2026 09:02:15 +0100",
-      "description": "Trois ans après la mort de l'adolescent de 17 ans à Nanterre, la cour d'appel de Versailles doit décider si le policier Florian M. sera renvoyé devant une cour d'assises pour meurtre. Une décision particulièrement attendue par la famille de Nahel, qui réclame le maintien de cette qualification.",
+      "title": "EN DIRECT - Présidentielle 2027 : sur la primaire, «on a dépassé le comique pour entrer dans le burlesque», regrette François Bayrou",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-en-quete-de-parrainage-de-nombreux-candidats-attendus-au-congres-des-maires-de-france-20261124",
+      "date": "Tue, 24 Nov 2026 10:19:03 +0100",
+      "description": "Sur Franceinfo, François Bayrou a alerté sur le risque d’un second tour opposant Marine Le Pen et Jean-Luc Mélenchon. L’ancien premier ministre regrette que la droite et le centre ne parviennent pas à se rassembler derrière un candidat",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Mort de Nahel Merzouk en 2023 : la cour d'appel de Versailles confirme le renvoi du policier devant les assises pour meurtre",
+      "link": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-la-cour-d-appel-de-versailles-confirme-le-renvoi-du-policier-devant-les-assises-pour-meurtre_8295785.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 24 Nov 2026 10:11:10 +0100",
+      "description": "Nahel Merzouk, 17 ans, a été tué d'une balle tirée à bout portant par un policier, lors d'un contrôle routier, le 27 juin 2023 à Nanterre (Hauts-de-Seine).",
       "source": "franceinfo",
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : sur la primaire, «on a dépassé le comique pour entrer dans le burlesque», regrette François Bayrou",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-en-quete-de-parrainage-de-nombreux-candidats-attendus-au-congres-des-maires-de-france-20261124",
-      "date": "Tue, 24 Nov 2026 09:02:03 +0100",
-      "description": "Sur Franceinfo, François Bayrou a alerté sur le risque d’un second tour opposant Marine Le Pen et Jean-Luc Mélenchon. L’ancien premier ministre regrette que la droite et le centre ne parviennent pas à se rassembler derrière un candidat",
+      "title": "Mort de Nahel : la justice ordonne un procès pour meurtre à l’encontre du policier",
+      "link": "https://www.lefigaro.fr/faits-divers/mort-de-nahel-la-justice-ordonne-un-proces-pour-meurtre-a-l-encontre-du-policier-20261124",
+      "date": "Tue, 24 Nov 2026 09:58:49 +0100",
+      "description": "Près de trois ans après la mort de Nahel lors d’un contrôle routier à Nanterre en juin 2023, la justice ordonne le renvoi du fonctionnaire devant une cour criminelle pour meurtre.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Mort de Nahel : la cour d’appel de Versailles ordonne un procès pour meurtre à l’encontre du policier",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/24/mort-de-nahel-la-cour-d-appel-de-versailles-ordonne-un-proces-pour-meurtre-a-l-encontre-du-policier_6814726_3224.html",
+      "date": "Tue, 24 Nov 2026 09:55:19 +0100",
+      "description": "En mars, la cour d’appel avait une première fois requalifié les faits et ordonné que le policier soit jugé pour violences ayant entraîné la mort sans intention de la donner, mais la Cour de cassation avait annulé cet arrêt.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Féminicides : 47 000 femmes ont été tuées par des proches dans le monde en 2025, un nombre qui n’évolue pas",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/24/feminicides-47-000-femmes-ont-ete-tuees-par-des-proches-dans-le-monde-en-2025-un-nombre-qui-n-evolue-pas_6814722_3224.html",
+      "date": "Tue, 24 Nov 2026 09:22:52 +0100",
+      "description": "Alors que les femmes représentaient 19 % des victimes d’homicides dans le monde en 2025, 60 % d’entre elles ont été tuées dans la sphère privée, tandis que seuls 11 % des homicides visant des hommes ont été commis dans ce contexte, selon un rapport de l’organisation des Nations unies.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Le Népal espérait une aide aux inondations à la COP31. Il n'a rien.",
+      "link": "https://grist.org/cop31/nepal-glacier-flood-cop31-climate-finance/",
+      "date": "Tue, 24 Nov 2026 09:15:00 +0000",
+      "description": "Les négociations de l'ONU sont censées offrir des réparations climatiques pour les pays en développement, mais cette année qui était morte dans l'eau.",
+      "source": "Grist",
+      "category": "Environnement"
+    },
+    {
+      "title": "La radio offre des troupes russes rock classique, nostalgie — et des plaisirs à livrer",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+      "date": "Tue, 24 Nov 2026 09:08:32 +0000",
+      "description": "Ce qui semble être des radios russes en première ligne est en fait une opération psychologique ukrainienne, espérant semer le désespoir parmi les soldats du Kremlin.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "EN DIRECT – Retour de Jensen Huang à Nvidia : les Etats-Unis placent sur liste noire l’entreprise singapourienne au cœur du scandale",
+      "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
+      "date": "Tue, 24 Nov 2026 09:07:32 +0000",
+      "description": "Le sexagénaire, dirigeant du puissant fournisseur de puces électroniques, avait été poussé à la démission le 12 novembre après un scandale lié à sa maîtresse, soupçonnée d’être une espionne au profit de la Chine.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "astronaute pakistanais pour rejoindre la mission spatiale chinoise",
+      "link": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 24 Nov 2026 09:03:00 GMT",
+      "description": "Un astronaute pakistanais va devenir le premier étranger à monter à bord de la station spatiale chinoise Tiangong. Muhammad Zeeshan Ali, spécialiste de la charge utile, se joindra à la mission Shenzhou-24 lors de son lancement mercredi.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Présidentielle 2027 : \"Nous allons vers l'iceberg, donc j'ai décidé d'agir\", déclare Natacha Polony à propos de sa candidature",
@@ -91,11 +147,123 @@
       "category": "France"
     },
     {
-      "title": "Sanofi, groupe pharmaceutique français, va racheter l’américain Insmed pour 37,6 milliards d’euros",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-groupe-pharmaceutique-francais-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_6814719_3234.html",
-      "date": "Tue, 24 Nov 2026 08:29:26 +0100",
-      "description": "La transaction, qui représente l’une des plus grosses acquisitions réalisées par Sanofi, devrait être finalisée au premier semestre 2027 et améliorer le bénéfice net par action du groupe français « d’ici fin 2028 ».",
-      "source": "Le Monde",
+      "title": "Équipes d'honoraires avec le cinéaste Arri sur le Magic 9 Pro Max",
+      "link": "https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/",
+      "date": "Tue, 24 Nov 2026 09:00:00 +0000",
+      "description": "Magic 9 Pro Max semble familier, n'est-ce pas ?",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Mort de Nahel Merzouk : la cour d’appel de Versailles ordonne un procès pour meurtre contre le policier qui l’a tué",
+      "link": "https://www.liberation.fr/societe/police-justice/mort-de-nahel-merzouk-la-cour-dappel-de-versailles-ordonne-un-proces-pour-meurtre-contre-le-policier-qui-la-tue-20261124_HLTCW73RNRDUPJOWTA4ET4ZAEY/",
+      "date": "Tue, 24 Nov 2026 08:49:26 +0000",
+      "description": "Plus de trois ans après la mort de l’adolescent de 17 ans, la justice a confirmé la première décision concernant Florian M., mardi 24 novembre, après plusieurs rebondissements.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Le chef Michel Dumas, cuisinier star des réseaux sociaux, est mort à 72 ans",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/mort-de-michel-dumas-chef-star-des-reseaux-sociaux-a-72-ans-20261124_EMMKAG6BGRABLFDYC2PEUIG73E/",
+      "date": "Tue, 24 Nov 2026 08:49:02 +0000",
+      "description": "Originaire de Poitiers et installé au Canada depuis 1976, il diffusait ses recettes en vidéo à une communauté forte de plus de 3,5 millions de personnes depuis 2013.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Mort de Nahel Merzouk en 2023: en appel, la justice française ordonne un procès pour meurtre à l'encontre du policier",
+      "link": "https://www.rfi.fr/fr/france/20261124-mort-de-nahel-en-2023-en-appel-la-justice-fran%C3%A7aise-ordonne-un-proc%C3%A8s-pour-meurtre-%C3%A0-l-encontre-du-policier",
+      "date": "Tue, 24 Nov 2026 08:42:24 GMT",
+      "description": "La cour d'appel de Versailles ordonne que le policier accusé d'avoir tué Nahel Merzouk en juin 2023 lors d'un contrôle routier à Nanterre, en banlieue parisienne, soit jugé devant la cour d'assises des Hauts-de-Seine pour « meurtre », selon un communiqué de la juridiction publié mardi 24 novembre. Initialement renvoyé devant les assises pour le même chef d'accusation, le fonctionnaire avait fait appel de cette décision. Si la cour d'appel avait requalifié les faits en mars dernier et ordonné que le policier soit jugé pour « violences ayant entraîné la mort sans intention de la donner », la Cour de cassation avait annulé l'arrêt.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Le fonctionnaire chinois est condamné à mort en cas d'espionnage, dit le rapport",
+      "link": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 24 Nov 2026 08:41:00 GMT",
+      "description": "Un fonctionnaire chinois recruté alors qu'il travaillait à l'étranger a reçu plus d'un million de yuans pour fuir des secrets, selon les médias affiliés à l'État.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Jensen Huang est \"trop grand pour tirer,\" mettant en avant la gouvernance Nvidia: analystes",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "date": "Tue, 24 Nov 2026 08:35:16 GMT",
+      "description": "Le retour de Jensen Huangs a souligné que Nvidia est profondément tributaire de son fondateur, mettant à l'étude la supervision du conseil d'administration et la gouvernance d'entreprise.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Et si une arme nucléaire explose dans l'espace ?",
+      "link": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 24 Nov 2026 08:34:00 GMT",
+      "description": "L'atmosphère terrestre offre une protection contre une explosion nucléaire dans l'espace, mais les satellites sont plus exposés. Nous expliquons comment les rayonnements pourraient les endommager, pourquoi les effets peuvent persister et quelle protection est possible.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Trump a fait jusqu'à 15 millions de dollars sur les actions de Nvidia après le retour de Huang",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "date": "Tue, 24 Nov 2026 08:28:00 GMT",
+      "description": "Les marchés boursiers de l'Asie-Pacifique s'élèvent après que le président américain a déclaré qu'il «convainc» le conseil d'administration de chipmaker de rétablir CEO Commentaire: Nvidia humilié conseil devrait démissionner hors de l'embarras Business live – dernières mises à jour Donald Trump fait jusqu'à 15 millions de dollars (11,5 millions de livres) sur ses avoirs de Nvidia stock après que le prix des actions de chipmaker US a grimpé sur le retour surprise de Jensen Huang en tant que directeur général. Huang, qui a cofondé la société en 1993, a été évincé par le conseil",
+      "source": "The Guardian",
+      "category": "Technologie"
+    },
+    {
+      "title": "Mort de Nahel Merzouk : la justice ordonne un procès pour meurtre à l'encontre du policier",
+      "link": "https://www.france24.com/fr/france/20261124-mort-nahel-merzouk-justice-ordonne-proc%C3%A8s-pour-meurtre-policier",
+      "date": "Tue, 24 Nov 2026 08:27:33 GMT",
+      "description": "Trois ans après l'homicide de Nahel Merzouk, 17 ans, tué à bout portant par un tir de policier à la suite d'un refus d'obtempérer, la cour d'appel de Versailles a ordonné un procès pour meurtre à l'encontre du policier responsable de la mort du jeune homme dans cette affaire qui avait provoqué des nuits d'émeutes en France.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "L'armée américaine dit que la détonation des explosifs au plomb en Iowa se fera",
+      "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 08:24:08 +0000",
+      "description": "Le tollé public a mené à une bataille juridique lorsque les détails des plans de conduite de deux détonations contrôlées ont fait surface.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "La Malaisie va renvoyer des milliers de réfugiés rohingyas au Myanmar",
+      "link": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 08:21:41 +0000",
+      "description": "L'annonce intervient cinq jours après que la CIJ ait statué que le Myanmar avait commis un génocide contre sa minorité rohingya.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "«Propos racistes, sexistes et d’apologie du nazisme» : six députés LFI vont porter plainte pour des menaces de mort anonymes",
+      "link": "https://www.liberation.fr/politique/propos-racistes-sexistes-et-dapologie-du-nazisme-six-deputes-lfi-vont-porter-plainte-pour-des-menaces-de-mort-anonymes-20261124_ELQY6NIR3FDOFHZPQHVFZCOEEA/",
+      "date": "Tue, 24 Nov 2026 08:21:15 +0000",
+      "description": "Éric Coquerel, Antoine Léaument, Sarah Legrain, Marie Mesmeur, Thomas Portes et Carlos Martens Bilongo se rendent au commissariat ce mardi 24 novembre. Des plaintes déjà déposées n’ont donné lieu à aucune suite, déplore le groupe insoumis.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Moment Les troupes mexicaines ont capturé le chef du cartel El Chapo Isidro",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 08:17:26 +0000",
+      "description": "Moment Les troupes mexicaines ont capturé le chef du cartel El Chapo Isidro",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Actualités en Allemagne : Volkswagen entame des négociations salariales avec IG Metall",
+      "link": "https://www.dw.com/en/germany-news-volkswagen-begins-wage-talks-with-ig-metall-union/live-80028306?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Tue, 24 Nov 2026 08:15:00 GMT",
+      "description": "Le plus grand syndicat allemand IG Metall et le constructeur automobile Volkswagen mènent des négociations salariales, car l'entreprise envisage de prendre des mesures de réduction des coûts. Pendant ce temps, le président allemand est au Ghana. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Thomas Pesquet: «Tout le monde veut aller sur la Lune... Pourquoi pas les Européens?»",
+      "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261124-thomas-pesquet-tout-le-monde-veut-aller-sur-la-lune-pourquoi-pas-les-europ%C3%A9ens",
+      "date": "Tue, 24 Nov 2026 08:13:24 GMT",
+      "description": "Astronaute français de l'Agence spatiale européenne (ESA), auteur de « L'espace en 100 questions » paru aux éditions Flammarion Jeunesse, Thomas Pesquet, qui se prépare à une troisième mission dans l'espace en 2027, est l'invité de RFI, ce mardi 24 novembre 2026. Avant le début de ses entraînements intensifs, celui-ci détaille les contours de cette mission baptisée Vast PAM-1.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -111,6 +279,14 @@
       "link": "https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html",
       "date": "Tue, 24 Nov 2026 08:09:47 +0100",
       "description": "Pour les prétendants en quête des 500 parrainages nécessaires à leur candidature, difficile en effet de faire l’impasse sur le plus grand rassemblement d’élus locaux d’Europe.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "« La proximité entre la Russie de Poutine et les Etats-Unis de Trump ne suffit pas à former une alliance stratégique »",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/24/la-proximite-entre-la-russie-de-poutine-et-les-etats-unis-de-trump-ne-suffit-pas-a-former-une-alliance-strategique_6814716_3232.html",
+      "date": "Tue, 24 Nov 2026 08:00:10 +0100",
+      "description": "Si la rencontre entre les deux puissances, en Chine, le 19 novembre, a rappelé qu’elles partagent une hostilité commune à l’ordre libéral, la question reste entière de savoir qui fixera les règles après lui, estime la chercheuse Marlène Laruelle dans une tribune au « Monde ».",
       "source": "Le Monde",
       "category": "France"
     },
@@ -131,12 +307,20 @@
       "category": "Sciences"
     },
     {
-      "title": "EN DIRECT – Retour de Jensen Huang à Nvidia : les Etats-Unis placent sur liste noire l’entreprise singapourienne au cœur du scandale",
-      "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
-      "date": "Tue, 24 Nov 2026 07:58:21 +0000",
-      "description": "Le sexagénaire, dirigeant du puissant fournisseur de puces électroniques, avait été poussé à la démission le 12 novembre après un scandale lié à sa maîtresse, soupçonnée d’être une espionne au profit de la Chine.",
-      "source": "Libération",
+      "title": "Dans son journal spirituel, le pape François révèle ses combats contre «le diable», qui lui est apparu à plusieurs reprises",
+      "link": "https://www.lefigaro.fr/actualite-france/dans-son-journal-spirituel-le-pape-francois-revele-ses-combats-contre-le-diable-qui-lui-est-apparu-a-plusieurs-reprises-20261124",
+      "date": "Tue, 24 Nov 2026 07:59:08 +0100",
+      "description": "DÉCRYPTAGE - Un livre, qui sort ce mardi dans le monde entier, dévoile les notes personnelles du pape argentin, écrites avant son élection et pendant son pontificat. Dans ces textes d’une rare intensité, il décrit sa face sombre, ce «Jorge arrogant, autosuffisant, cynique et menteur avec lui-même».",
+      "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Pakistans Zeeshan Ali se prépare pour un vol historique vers la station spatiale chinoise",
+      "link": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 07:55:18 +0000",
+      "description": "Le pilote de l'armée de l'air pakistanaise passera environ une semaine à bord du Tiangong, en effectuant des expériences avec l'équipage chinois.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "La Corée du Sud en alerte après l’intrusion d’avions militaires russes",
@@ -147,20 +331,12 @@
       "category": "France"
     },
     {
-      "title": "Avec le rachat à 41 milliards de dollars de l’américain Insmed, Sanofi trouve enfin l’opération qui assure son avenir",
-      "link": "https://www.lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124",
-      "date": "Tue, 24 Nov 2026 07:49:18 +0100",
-      "description": "En quête de remplaçants pour son médicament phare, le Dupixent, le laboratoire pharmaceutique français réalise la plus importante opération de ces dernières années dans le secteur.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Manifestations du 17 octobre : la «task force» met au jour une enquête difficile pour des services débordés",
-      "link": "https://www.liberation.fr/societe/police-justice/manifestations-du-17-octobre-la-task-force-met-au-jour-une-enquete-difficile-pour-des-services-debordes-20261124_GUU4RNJTIFGXVHPKP2VXGDDCFE/",
-      "date": "Tue, 24 Nov 2026 07:38:00 +0000",
-      "description": "Cinq semaines après la journée de mobilisation marquée par les pillages, les procédures ouvertes à Paris ont conduit à l’arrestation de 88 personnes. Le préfet de police sera auditionné par la commission des lois de l’Assemblée ce mardi soir.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Les guerres étouffent les routes alimentaires mondiales, menaçant l'aide pour 7,3 millions, avertit le PAM",
+      "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 07:52:44 +0000",
+      "description": "Le directeur exécutif du PAM, Luke Lindberg, dénonce le «problème politique» car le grain n'atteint pas les personnes qui en ont besoin.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leur livret A, qui connaît sa pire année depuis 2008",
@@ -177,30 +353,6 @@
       "description": "Les forces gouvernementales ont fait des progrès rapides en septembre, mais les combats de Houthi sur plusieurs fronts ont ralenti l'offensive.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Sheikh Hasina prévoit de retourner au Bangladesh d'exil le 16 décembre",
-      "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 07:35:02 +0000",
-      "description": "Hasina demande instamment à Dhaka d'organiser son retour sur la compagnie aérienne nationale, car le gouvernement dit qu'elle ne peut être extradée.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Inflation et baisse du taux : les Français ont sorti 10 milliards d’euros de leurs Livret A depuis le début de l’année",
-      "link": "https://www.liberation.fr/economie/inflation-et-baisse-du-taux-les-francais-ont-sorti-10-milliards-deuros-de-leurs-livret-a-depuis-le-debut-de-lannee-20261124_EOE73OIXDJETHAJPIUSL4VACKE/",
-      "date": "Tue, 24 Nov 2026 07:33:44 +0000",
-      "description": "Le Livret de développement durable et solidaire, ainsi que le Livret d’épargne populaire, ont aussi vu leurs encours diminuer.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Lorraine de Sagazan nous séduit au «Silence»",
-      "link": "https://www.liberation.fr/culture/avec-lorraine-de-sagazan-le-silence-est-dor-20261124_I3NMFG4V4BFCJHPR6PCYJ3BHGE/",
-      "date": "Tue, 24 Nov 2026 07:33:00 +0000",
-      "description": "Au festival de Théâtre national de Bretagne, qui prouve encore une fois sa grande versatilité, la metteuse en scène sonde l’incommunicabilité entre les êtres dans un passionnant plan-séquence sans un mot ou presque.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Le chef exilé Sheikh Hasina prévoit de rentrer au Bangladesh le 16 décembre.",
@@ -227,28 +379,12 @@
       "category": "Économie"
     },
     {
-      "title": "Les États membres ne doivent pas trahir la CPI",
-      "link": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 07:13:18 +0000",
-      "description": "Succomber aux pressions américaines pour modifier le Statut de Rome serait dévastateur pour la justice internationale.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "L'Australie avertit les géants de la technologie d'amendes de plusieurs milliards de dollars pour \"harm\" en ligne",
-      "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 07:02:52 +0000",
-      "description": "Un nouveau projet de loi sur la sécurité sur Internet qui devrait être adopté cette semaine pourrait imposer des amendes pouvant aller jusqu'à 5 % des recettes mondiales des entreprises.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Pourquoi Eisenkot négocie avec Netanyahu",
-      "link": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 07:02:40 +0000",
-      "description": "Les discussions avec différents pouvoirs politiques donnent à Yashar un effet de levier. Mais ils donnent aussi à Likud une pertinence politique renouvelée.",
-      "source": "Al Jazeera",
-      "category": "Monde"
+      "title": "Six questions clés soulevées par le retour de Jensen Huang à Nvidia",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "date": "Tue, 24 Nov 2026 07:12:33 GMT",
+      "description": "Alors que Jensen Huang revient à Nvidia, des questions sont restées autour de l'inversion du conseil, de l'implication de Trump et de l'avenir du géant technologique.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "À Gaza, intempéries et mauvaises conditions de vie provoquent une hausse des maladies respiratoires",
@@ -267,59 +403,11 @@
       "category": "Économie"
     },
     {
-      "title": "Jensen Huang est \"trop grand pour tirer,\" mettant en avant la gouvernance Nvidia: analystes",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-      "date": "Tue, 24 Nov 2026 06:31:56 GMT",
-      "description": "Le retour de Jensen Huangs a souligné que Nvidia est profondément tributaire de son fondateur, mettant à l'étude la supervision du conseil d'administration et la gouvernance d'entreprise.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "Les Jensen",
-      "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
-      "date": "Tue, 24 Nov 2026 06:30:04 GMT",
-      "description": "En plus, Capex ou mourir en essayant",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Guerre en Ukraine: l'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire",
-      "link": "https://www.rfi.fr/fr/europe/20261124-l-union-europ%C3%A9enne-propose-d-interdire-de-comp%C3%A9tition-les-athl%C3%A8tes-russes-sur-son-territoire",
-      "date": "Tue, 24 Nov 2026 06:29:46 GMT",
-      "description": "Alors que les 21 trains de sanctions édictés par l'Union européenne contre la Russie depuis le déclenchement de la guerre en Ukraine en février 2022 ont touché les hydrocarbures, le secteur financier ou les armements, Bruxelles vient de franchir un nouveau cap dans sa volonté de faire plier le Kremlin en s'en prenant au sport et à la culture, deux valeurs centrales de la société civile. Des propositions qui pourraient toutefois avoir du mal à se concrétiser du fait qu'elles puissent être considérées comme une attaque directe contre les citoyens russes...",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Nvidia en direct: Les marchés bondissent alors que Jensen Huang revient en tant que PDG",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 06:24:25 +0000",
-      "description": "La réintégration de Huang donne une nouvelle vie à un marché de l'IA quelques jours après que les actions du géant de la technologie aient été abandonnées.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "\"On n'est plus à une surprise près\" : pourquoi Emmanuel Macron envisage-t-il de créer une règle d'or budgétaire à cinq mois de la présidentielle ?",
       "link": "https://www.franceinfo.fr/politique/emmanuel-macron/on-n-est-plus-a-une-surprise-pres-pourquoi-emmanuel-macron-envisage-t-il-de-creer-une-regle-d-or-budgetaire-a-cinq-mois-de-la-presidentielle_8295866.html#xtor=RSS-3-[lestitres]",
       "date": "Tue, 24 Nov 2026 06:16:18 +0100",
       "description": "Le président de la République réfléchit à faire inscrire dans la Constitution une sorte de \"règle d'or\" budgétaire en faisant adopter une réforme de 2011 qui n'a jamais abouti. Mais cette initiative du chef de l'Etat, brandie dans un timing étonnant, peut-elle réellement être couronnée de succès ?",
       "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Écrits antisémites : Jordan Bardella reconnaît «une faute» de Laure Lavalette mais lui garde son «total soutien»",
-      "link": "https://www.lefigaro.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123",
-      "date": "Tue, 24 Nov 2026 06:16:12 +0100",
-      "description": "Accusée par le média Les Jours d’avoir, dans les années 90, cautionné des textes antisémites dans son syndicat étudiant, la députée RN avait balayé des faits vieux de «30 ans», survenus «dans un climat qui était tout à fait différent».",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans",
-      "link": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html",
-      "date": "Tue, 24 Nov 2026 06:00:40 +0100",
-      "description": "Les discussions sur la hausse de son plafond, voulue par le gouvernement, sont toujours en cours. Son taux d’intérêt pourrait passer de 1,7 % actuellement à 2,8 % en février.",
-      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -339,12 +427,20 @@
       "category": "Technologie"
     },
     {
-      "title": "B&H Codes promotionnels de la photo et des affaires en novembre 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "date": "Tue, 24 Nov 2026 06:00:00 +0000",
-      "description": "Profitez des meilleures affaires sur les caméras, les ordinateurs et l'essentiel technologique à B&H Photo.",
-      "source": "WIRED",
-      "category": "Technologie"
+      "title": "Extraits du journal du pape François Publié dans Nouveau livre",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+      "date": "Tue, 24 Nov 2026 06:00:05 +0000",
+      "description": "Au fil des décennies, avant et après qu'il soit devenu chef de l'Église catholique romaine, François a enregistré des entrées occasionnelles sur ses craintes et ses doutes.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Cardinal Victor Manuel Fernandez : «Lorsque j’ai reçu le “Journal spirituel” du pape François et que je l’ai lu, j’ai éprouvé un véritable choc»",
+      "link": "https://www.lefigaro.fr/actualite-france/cardinal-victor-manuel-fernandez-lorsque-j-ai-recu-le-journal-spirituel-du-pape-francois-et-que-je-l-ai-lu-j-ai-eprouve-un-veritable-choc-20261124",
+      "date": "Tue, 24 Nov 2026 06:00:00 +0100",
+      "description": "EXCLUSIF - Ami personnel du pape argentin, mort en 2025, l’actuel préfet du Dicastère de la Doctrine de la Foi explique l’enjeu de la publication de son «Journal spirituel».",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Codes promotionnels pour les produits nomades : 25 % de rabais en novembre 2026",
@@ -387,6 +483,14 @@
       "category": "Technologie"
     },
     {
+      "title": "B&H Codes promotionnels de la photo et des affaires en novembre 2026",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "date": "Tue, 24 Nov 2026 06:00:00 +0000",
+      "description": "Profitez des meilleures affaires sur les caméras, les ordinateurs et l'essentiel technologique à B&H Photo.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
       "title": "Armes, guerre et défiance : les Allemands veulent plus de retenue en politique étrangère",
       "link": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Tue, 24 Nov 2026 05:59:00 GMT",
@@ -419,6 +523,14 @@
       "category": "France"
     },
     {
+      "title": "Colombie: dix ans après sa signature, l'accord de paix avec les FARC menacé",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261124-colombie-dix-ans-apr%C3%A8s-sa-signature-l-accord-de-paix-avec-les-farc-menac%C3%A9",
+      "date": "Tue, 24 Nov 2026 05:11:43 GMT",
+      "description": "Il y a dix ans, ce 24 novembre, le gouvernement colombien et la guérilla des Forces armées révolutionnaires de Colombie (Farc) signaient un accord de paix historique. Bien au-delà de la fin de la guerre et du dépôt des armes par les guérilleros, le texte prévoyait leur retour à la vie civile, l'indemnisation des victimes, mais aussi une vaste réforme agraire. Au-delà d'un bilan en demi-teinte, c'est désormais l'avenir même de cet accord qui est en danger, sous le gouvernement d'extrême droite au pouvoir depuis août.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
       "title": "L'Iran dit que trois pétroliers ont frappé des mines à Hormuz malgré l'escorte américaine, alors que le Trésor élargit les sanctions",
       "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
       "date": "Tue, 24 Nov 2026 05:05:08 GMT",
@@ -432,7 +544,7 @@
       "date": "Tue, 24 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 24 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discutez APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Galaxies Bataille en [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "L'éruption prolonge la plage Iwo Jima",
@@ -440,7 +552,7 @@
       "date": "Tue, 24 Nov 2026 05:01:00 +0000",
       "description": "Une éruption volcanique juste au large de la rive sud-est de l'île du Pacifique a remodelé la côte, mais il est peu clair combien de temps la nouvelle terre survivra.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "A quoi tu penses ? Ça dépend qui demande",
@@ -459,14 +571,6 @@
       "category": "Économie"
     },
     {
-      "title": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
-      "date": "Tue, 24 Nov 2026 05:00:12 +0100",
-      "description": "L’atonie de l’activité économique française et la remontée du chômage freinent la répercussion de l’envolée des cours du pétrole et du gaz à l’ensemble de l’économie. Mais la donne pourrait changer.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "La Grande-Bretagne a acheté de faux explosifs C4 pour l'Ukraine",
       "link": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
       "date": "Tue, 24 Nov 2026 05:00:07 GMT",
@@ -480,14 +584,6 @@
       "date": "Tue, 24 Nov 2026 04:36:31 GMT",
       "description": "Nvidia avait fait l'objet de pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 $tn à la valeur en actions de l'entreprise.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Inde: Le rapport met en garde contre l'approfondissement de l'autoritarisme sous Modi",
-      "link": "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 24 Nov 2026 04:33:00 GMT",
-      "description": "Un rapport de Human Rights Watch a révélé que la règle de Modi en Inde a érodé l'état de droit et que les « institutions affaiblies » visaient à protéger les libertés. De plus, à Delhi, un homme a blessé neuf policiers avec un couteau.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -539,14 +635,6 @@
       "category": "Technologie"
     },
     {
-      "title": "24 Tués après un incendie par l'usine Candy en Indonésie",
-      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "date": "Tue, 24 Nov 2026 00:35:20 +0000",
-      "description": "Des centaines de personnes étaient à l'enceinte quand un incendie a éclaté samedi, puis a fait rage pendant des heures.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Le plus gros inconvénient à utiliser la souris magique d'Apple",
       "link": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
       "date": "Tue, 24 Nov 2026 00:30:00 +0000",
@@ -555,12 +643,28 @@
       "category": "Technologie"
     },
     {
-      "title": "Les propriétaires britanniques deviennent plus grands. Un marché locatif à deux niveaux peut suivre",
+      "title": "Pourquoi la montée de la société propriétaire pourrait conduire à un marché de location à deux niveaux",
       "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 24 Nov 2026 00:28:48 GMT",
-      "description": "Un nombre croissant de propriétaires d'entreprises pourrait provoquer de grands changements pour les locataires",
+      "description": "Les entreprises qui construisent des appartements qu'elles louent alors pourraient introduire de grands changements pour les locataires",
       "source": "BBC News",
       "category": "Économie"
+    },
+    {
+      "title": "BBC filming secret montre éleveurs de chiens vend des chiots malades pour £2k chaque",
+      "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 24 Nov 2026 00:11:08 GMT",
+      "description": "La cote du sélectionneur a été rétrogradée, mais il a continué à faire de la publicité en tant que cinq étoiles, conclut l'enquête.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "Ouverture du Congrès des maires sur fond de bataille pour l'Élysée",
+      "link": "https://www.france24.com/fr/france/20261124-ouverture-du-congr%C3%A8s-des-maires-sur-fond-de-bataille-pour-l-%C3%A9lys%C3%A9e",
+      "date": "Tue, 24 Nov 2026 00:06:27 GMT",
+      "description": "La puissante Association des maires de France (AMF) se réunit du 24 au 26 novembre à Paris, où les candidats à l'élection présidentielle vont se presser, en particulier ceux en quête des 500 parrainages nécessaires à leur candidature. Mais ce rendez-vous annuel sera surtout marqué par l'élection de son président. Déjà candidat à la présidentielle, David Lisnard espère également renouveler son mandat à la tête de l'AMF.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Je paie 250 £ par mois pour que quelqu'un d'autre fasse mon admin de vie - ça vaut le coup",
@@ -723,14 +827,6 @@
       "category": "Environnement"
     },
     {
-      "title": "En parallèle de la présidentielle, la campagne de David Lisnard pour rester à la tête des maires de France",
-      "link": "https://www.lefigaro.fr/politique/en-parallele-de-la-presidentielle-la-campagne-de-david-lisnard-pour-rester-a-la-tete-des-maires-de-france-20260910",
-      "date": "Thu, 10 Sep 2026 18:24:31 +0200",
-      "description": "Le président sortant de l’AMF, qui va affronter le maire UDI de Sceaux, Philippe Laurent, apparaît en position favorable pour l’emporter fin novembre, après un accord de gouvernance partagée trouvé avec les socialistes.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Lancement du télescope spatial romain en mission pour explorer l'Univers",
       "link": "https://astronomynow.com/2026/08/30/roman-space-telescope-launches-on-mission-to-survey-the-universe/",
       "date": "Sun, 30 Aug 2026 12:16:25 +0000",
@@ -763,14 +859,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Caroline Toby : \"Sans vidéosurveillance, Michel Zecler aurait été victime d'une erreur judiciaire\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261122-caroline-toby-sans-vid%C3%A9osurveillance-michel-zecler-aurait-%C3%A9t%C3%A9-victime-d-une-erreur-judiciaire",
-      "date": "Sun, 22 Nov 2026 20:30:18 GMT",
-      "description": "Le producteur Michel Zecler avait été passé à tabac en 2020 par trois policiers dans l'entrée de son studio d'enregistrement à Paris. Les policiers avaient établi un faux procès-verbal l'accusant de violences, or les images de vidéosurveillance avaient invalidé leur version. Les policiers viennent d'être condamnés à de la prison ferme, avec interdiction d'exercer leur métier. Le caractère raciste de ces violences a aussi été reconnu. Interview de Caroline Toby, avocate de Michel Zecler.",
-      "source": "France 24",
-      "category": "France"
-    },
-    {
       "title": "Jensen Huang-S a rapporté que l'affaire était \"le sexe le plus cher depuis Helen de Troy-S, le sénateur américain dit",
       "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
       "date": "Sun, 22 Nov 2026 20:23:36 GMT",
@@ -785,14 +873,6 @@
       "description": "Avec le plus puissant El Niño dans la mémoire vivante qui gagne encore en force, ce record pourrait bientôt être dépassé",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Choose France : les entreprises françaises prêtes à investir 42,5 milliards d'euros",
-      "link": "https://www.france24.com/fr/france/20261122-choose-france-entreprises-fran%C3%A7aises-pr%C3%AAtent-investir-42-5-milliards-euros-emmanuel-macron-%C3%A9conomie-investissements-projet",
-      "date": "Sun, 22 Nov 2026 19:58:34 GMT",
-      "description": "Les entreprises tricolores projettent d'investir 42,5 milliards d'euros en France lors du sommet Choose France qui se déroulera lundi, a détaillé l'Élysée dimanche soir. Malgré une situation économique compliquée dans le pays, plus de 200 projets industriels français seront mis à l'honneur.",
-      "source": "France 24",
-      "category": "France"
     },
     {
       "title": "Combien d'air peut-il en sortir ?",
@@ -947,14 +1027,6 @@
       "category": "Environnement"
     },
     {
-      "title": "«Sérieuse erreur de jugement: outrage à l'événement militaire AI au complexe artistique de Berlin",
-      "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-      "date": "Sun, 22 Nov 2026 06:00:21 GMT",
-      "description": "Kraftwerk Berlin, faisant partie du même développement que le techno club Tresor, transformé en « salle de guerre » pour l'événement d'arms ferme Avec leurs salles post-industrielles caverneuses, des battements de dents quatre par quatre et des rebondisseurs qui ressemblent à des extras Blade Runner, les discothèques de Berlin se font une réputation de morosité. Un événement récent dans l'une des plus légendaires institutions de clubland de la ville, cependant, a prouvé trop dystopie même pour les techno-heads chevronnés. Sur 11",
-      "source": "The Guardian",
-      "category": "Technologie"
-    },
-    {
       "title": "Hacks, AI et théories de conspiration : pourquoi avons-nous autant de pannes ?",
       "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
       "date": "Sun, 22 Nov 2026 06:00:19 GMT",
@@ -969,14 +1041,6 @@
       "description": "La source de financement des petites entreprises qui connaît la croissance la plus rapide en Amérique est également l'une des moins réglementées. Un homme a mené une longue et solitaire lutte pour récupérer son coût de punition.",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "Négociations internationales des Nations Unies sur le contrôle de l'utilisation des armes autonomes",
-      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "date": "Sat, 21 Nov 2026 16:36:11 GMT",
-      "description": "Des efforts d'une semaine ne parviennent pas à établir un mandat de négociation sur la guerre d'IA après le «flibustring» russe Des efforts d'une semaine pour convenir d'un mandat de négociation pour un traité international juridiquement contraignant visant à contrôler l'utilisation d'armes autonomes se sont effondrés juste avant 5 heures du matin, après que les pourparlers de la nuit n'ont pas permis de surmonter les objections russes. En dépit d'une écrasante majorité d'États à la Convention des Nations Unies sur certaines armes classiques (CCW) à Genève, désireux de",
-      "source": "The Guardian",
-      "category": "Sciences"
     },
     {
       "title": "La marine américaine se prépare à la troisième mise à niveau hypersonore de Zumwalt",
@@ -1131,14 +1195,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Trump a conclu un accord pour que Nvidia réembauche Jensen Huang comme PDG",
-      "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "date": "Mon, 23 Nov 2026 23:42:17 GMT",
-      "description": "Le président Trump a déclaré que son administration a donné l'assurance au conseil d'administration de Nvidia que Jensen Huang ne serait pas une menace pour la sécurité nationale s'il était réintégré en tant que PDG.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Ce que vous pouvez faire avec votre ancien Mac Pro arrêté",
       "link": "https://www.engadget.com/2320292/what-do-with-old-discontinued-mac-pro/",
       "date": "Mon, 23 Nov 2026 23:30:00 +0000",
@@ -1160,14 +1216,6 @@
       "date": "Mon, 23 Nov 2026 23:07:49 +0000",
       "description": "Figma et son PDG sont poursuivis par un employé actuel pour harcèlement sexuel et discrimination.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Tu peux réparer un CD gratté ? Voici vos options",
-      "link": "https://www.engadget.com/2315527/can-you-fix-a-scratched-cd/",
-      "date": "Mon, 23 Nov 2026 23:00:00 +0000",
-      "description": "C'est vrai : les CD connaissent un renouveau. Si vous avez des disques rayés, il y a des options pour les réparer, des méthodes de bricolage à la recherche d'aide professionnelle.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -1195,14 +1243,6 @@
       "category": "Monde"
     },
     {
-      "title": "US ajoute Megaspeed, au centre du scandale de Nvidia, à une liste noire de commerce",
-      "link": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 22:35:00 GMT",
-      "description": "L'administration Trump a ajouté Megaspeed à une liste noire après des tensions au sujet de son incapacité à le faire a soulevé des questions. La nouvelle est venue le jour où Jensen Huang a été réintégré comme PDG de Nvidia.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Sensation de la supernova éjecta chaotique Avec le JWST",
       "link": "https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst",
       "date": "Mon, 23 Nov 2026 22:32:05 +0000",
@@ -1224,7 +1264,7 @@
       "date": "Mon, 23 Nov 2026 22:23:40 GMT",
       "description": "Share price bonds as chipmaker inverse la décision de supprimer le chef de l'exécutif après le président américain « convaincu » son conseil d'administration Commentaire: Nvidia humilié conseil devrait démissionner par embarras Timeline: chute et retour de Jensen Huang Nvidia a réintégré Jensen Huang en tant que chef de l'exécutif après Donald Trump est directement intervenu avec le conseil d'administration de l'AI chipmaker américain, dans un renversement étonnant du milliardaire technique. Parler lundi",
       "source": "The Guardian",
-      "category": "Technologie"
+      "category": "Économie"
     },
     {
       "title": "Trump a fait jusqu'à 15 millions de dollars sur les actions de Nvidia après le retour de Huang",
@@ -1233,14 +1273,6 @@
       "description": "Bénéfice sur 30% bond dans le groupe de puces Prix d'action basé sur le montant maximum président américain aurait pu être détenu dans la dernière divulgation",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Industrie: la France va se doter de «stocks stratégiques» de minerais critiques",
-      "link": "https://www.rfi.fr/fr/france/20261123-industrie-la-france-va-se-doter-de-stocks-strat%C3%A9giques-de-minerais-critiques",
-      "date": "Mon, 23 Nov 2026 22:13:11 GMT",
-      "description": "La France va se doter de « stocks stratégiques » de « terres rares et certains métaux prioritaires », inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des industriels, notamment à l'égard de la Chine, a déclaré l'Élysée lundi à l'AFP, confirmant une information du Figaro.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Anthropic lance Claude Ship, laissant les agents d'IA examiner, corriger et approuver les changements de code",
@@ -1360,7 +1392,7 @@
       "date": "Mon, 23 Nov 2026 21:10:03 +0000",
       "description": "La NASA, au nom de la National Oceanic and Atmospheric Administration (NOAA), a attribué un contrat à Northrop Grumman Systems Corporation pour les instruments Sounder for Microwave-Based Applications (SMBA) sur les satellites NOAA's Near Earth Orbit Network (NEON). Le contrat hybride coût-plus-frais fixes, prix ferme-fixé, et temps-et-matériaux a une valeur de 290,6 millions de dollars. La période de performance va de [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Thanksgiving voyage de vacances pourrait être perturbé par les inondations, les vents et la pluie",
@@ -1419,18 +1451,10 @@
       "category": "Technologie"
     },
     {
-      "title": "Danemark: Haut tribunal soutient l'immigration en ligne dure \"loi de ghetto\"",
-      "link": "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 20:08:00 GMT",
-      "description": "La Cour suprême du Danemark a conclu que les expulsions de résidents « non occidentaux » ne constituent pas une discrimination. Le gouvernement de Copenhague fait valoir que sa \"loi sur les ghettos\" encourage l'intégration.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Présidentielle : qui pourra rassembler ?",
+      "title": "Présidentielle 2027 : qui pourra rassembler ?",
       "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261123-pr%C3%A9sidentielle-qui-pourra-rassembler",
       "date": "Mon, 23 Nov 2026 19:58:31 GMT",
-      "description": "À moins de cinq mois du premier tour de la présidentielle, prévu le 18 avril, la course à l’Élysée s’annonce particulièrement disputée. Dernier en date à entrer dans la course : Dominique de Villepin, qui a officialisé sa candidature vendredi. Plusieurs candidats de la droite et du centre veulent s’affronter dans une primaire afin de désigner un seul représentant, mais l’idée ne fait pas l’unanimité. David Lisnard, qui est en progression dans les sondages, entend peser dans les discussions et pose ses conditions.",
+      "description": "À moins de cinq mois du premier tour de la présidentielle, prévu le 18 avril, la course à l’Élysée s’annonce particulièrement disputée. Dernier en date à entrer dans la course : Dominique de Villepin. Plusieurs candidats de la droite et du centre veulent s’affronter dans une primaire afin de désigner un seul représentant, mais l’idée ne fait pas l’unanimité. David Lisnard, qui est en progression dans les sondages, entend peser dans les discussions et pose ses conditions.",
       "source": "France 24",
       "category": "France"
     },
@@ -1483,6 +1507,14 @@
       "category": "Monde"
     },
     {
+      "title": "Les législateurs américains s'engagent à aiguiser les sondes Huang à son retour à Nvidia",
+      "link": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
+      "date": "Mon, 23 Nov 2026 19:11:29 GMT",
+      "description": "Démocrates et républicains insistent PDG de technologie doit témoigner en public",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
       "title": "Comment la science-fiction imagine le sport en microgravité, et comment le sport zéro-g pourrait fonctionner",
       "link": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
       "date": "Mon, 23 Nov 2026 19:00:00 +0000",
@@ -1515,12 +1547,12 @@
       "category": "Monde"
     },
     {
-      "title": "Le Tadjikistan fait suite à l'appel des États-Unis, se retire de la CPI",
-      "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Mon, 23 Nov 2026 18:40:00 GMT",
-      "description": "Le Tadjikistan a commencé à se retirer de la Cour pénale internationale alors que les États-Unis demandent qu'elle soit « démantelée ». La décision a été prise lors d'une récente visite du président russe Vladimir Poutine.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "Cop31 a échoué. Et maintenant ? – podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
+      "date": "Mon, 23 Nov 2026 18:22:29 GMT",
+      "description": "La plus longue des négociations sur le climat de la Cop s'est terminée par un échec après que les pays n'ont pas pu s'entendre sur un accord. Le point clé était l'omission de toute mention des combustibles fossiles dans le projet final. Pour découvrir comment tout s'est passé si mal et ce qui pourrait se passer ensuite, Madeleine Finlay parle à Fiona Harvey, rédactrice en environnement Guardian, qui a été à Antalya, en Turquie, pour couvrir les discours Clips: Reuters Remplir notre podcast enquête Continuer la lecture...",
+      "source": "The Guardian",
+      "category": "Sciences"
     },
     {
       "title": "Jean-Louis Borloo au Figaro : « La France a besoin des maires, sinon elle ira à nouveau vers l’étrange défaite »",
@@ -1537,14 +1569,6 @@
       "description": "Le 23 novembre 2015, une fusée Blue Origin a effectué un atterrissage historique après le lancement dans l'espace suborbital. Voilà pourquoi ça comptait.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Ukraine attaque au large des côtes de la Libye montre la portée de ses drones navales",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-      "date": "Mon, 23 Nov 2026 18:09:46 +0000",
-      "description": "Le Président Volodymyr Zelensky a déclaré que les drones ukrainiens avaient coulé une corvette et frappé un navire à cargaison sèche, dans des attaques impliquant des forces d'opérations spéciales.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "L'attaque de drone frappe la ville colombienne en tant qu'explosif sans pilote Transformer le conflit",
@@ -1584,7 +1608,7 @@
       "date": "Mon, 23 Nov 2026 17:28:37 +0000",
       "description": "Cette image du 19 novembre 2026 montre des microtumores gastriques cultivés dans une biopuce encapsulée. L'étude Encapsulate-1 étudie des échantillons de tumeurs provenant de patients à bord de la Station spatiale internationale pour mieux comprendre comment les cellules cancéreuses se déplacent et interagissent en microgravité. Les résultats pourraient aider les chercheurs à développer d'autres tests pour prédire le risque de métastases d'un patient et soutenir [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "L'échec de la COP31 révèle un monde divisé",
@@ -1600,7 +1624,7 @@
       "date": "Mon, 23 Nov 2026 17:23:50 +0000",
       "description": "La NASA cherche des partenaires de l'industrie pour développer et tester le premier réacteur nucléaire conçu pour fournir de l'électricité sur la Lune, une étape importante vers l'établissement d'une présence humaine soutenue sur la surface lunaire. Lunar Reactor-1 (LR-1) sera un petit système de fission qui produira 20 kilowatts d'électricité, assez pour alimenter environ 16 [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Umbra, ICEYE tout imagerie radar à haute résolution avec de nouveaux satellites",
@@ -1609,6 +1633,14 @@
       "description": "Les deux entreprises offrent maintenant des résolutions nettement inférieures à la norme précédente de l'industrie d'environ 25 centimètres, ce qui permet aux clients de voir des cibles de terrain plus petites avec une plus grande fidélité.",
       "source": "Breaking Defense",
       "category": "Défense"
+    },
+    {
+      "title": "Les groupes de sécurité des enfants exhortent Amazon et eBay à cesser de vendre des jouets AI jusqu'à ce qu'ils soient sûrs",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
+      "date": "Mon, 23 Nov 2026 17:18:06 GMT",
+      "description": "Les défenseurs du monde entier s'inquiètent des problèmes de confidentialité et des communications inappropriées avec les enfants Plus de 150 groupes de sécurité des enfants et experts sur six continents ont exhorté Amazon et eBay à cesser de vendre des jouets d'IA ce Noël jusqu'à ce qu'ils se révèlent sûrs. Dans une lettre envoyée au président d'Amazon, Andy Jassy, et au président d'eBay, Jamie Iannone, la coalition a appelé les détaillants en ligne à arrêter la vente de jouets AI et",
+      "source": "The Guardian",
+      "category": "Technologie"
     },
     {
       "title": "Ils ont assisté au dîner controversé de la pièce de monnaie de Trump. Ça ne s'est pas bien passé",
@@ -1696,7 +1728,7 @@
       "date": "Mon, 23 Nov 2026 16:08:23 +0000",
       "description": "La NASA invite le monde en coulisses à assister à l'histoire du voyage d'Europa Clipper, d'une vision lointaine à une mission d'exploration spatiale profonde de pointe avec la sortie du nouveau documentaire de l'agence, le concept Europa. Le documentaire sera diffusé sur NASA+, l'application NASA et le site internet de l'agence à partir du lundi 23 novembre, [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Gisèle Pelicot \"humiliée\" par l'utilisation de photos d'elle dénudée pour la promotion d'un essai",
@@ -1801,14 +1833,6 @@
       "description": "Le Congrès a adopté la Loi sur les vétérans de l'Amérique et la Loi sur le major Richard Star, en transmettant les deux projets de loi au Sénat, où leur avenir sera bientôt décidé.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Retour en fanfare de Jensen Huang à la tête de Nvidia, les marchés financiers rassurés",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261123-nvidia-annonce-la-r%C3%A9int%C3%A9gration-de-jensen-huang-comme-pdg-deux-semaines-apr%C3%A8s-son-d%C3%A9part",
-      "date": "Mon, 23 Nov 2026 14:10:45 GMT",
-      "description": "Le géant des puces nécessaires à l'intelligence artificielle Nvidia a annoncé lundi 23 novembre avoir réintégré Jensen Huang à son poste de directeur général et président, moins de deux semaines après la démission de son cofondateur à la suite d'une liaison avec une femme soupçonnée par les services de renseignement américains d'espionnage au profit de la Chine.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "GTA 6 pirate libéré sur licence avec avertissement 'ne laissez pas cela se reproduire'",
@@ -2155,14 +2179,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'utilisation de l'électricité augmente, surtout dans ces états",
-      "link": "https://grist.org/energy/data-centers-use-2-of-us-electricity-in-some-states-the-share-is-far-higher/",
-      "date": "Fri, 20 Nov 2026 09:45:00 +0000",
-      "description": "Dans au moins quatre États, les installations hyperéchelles représentent 10 % ou plus de l'électricité vendue.",
-      "source": "Grist",
-      "category": "Environnement"
-    },
-    {
       "title": "California communautés côtières en alerte comme les plus grandes vagues dans les années frappé l'état",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "date": "Fri, 20 Nov 2026 09:03:20 GMT",
@@ -2187,7 +2203,7 @@
       "category": "Environnement"
     },
     {
-      "title": "Les forêts indonésiennes de Bornéo se calment alors que la fumée fait taire les gibbons. Leur matière chantante",
+      "title": "Les forêts indonésiennes de Bornéo se calment alors que la fumée fait taire les gibbons. Leurs problèmes de chant",
       "link": "https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/",
       "date": "24 Nov 2026 06:57:07 +0000",
       "description": "Vers l'aube, une paire de gibbons commence à chanter. Leurs voix s'entremêlent, et le duo se construit à un crescendo qui remplit le couvert. Dans une grande partie de la forêt de Borne, c'est le son du matin. Mais depuis que la fumée d'Indonésie la pire crise des incendies en plus d'une décennie a englouti l'île, [...]",
