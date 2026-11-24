@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T02:35:09.359138+00:00",
-  "count": 275,
+  "updated_at": "2026-11-24T03:39:55.499208+00:00",
+  "count": 276,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -9,14 +9,6 @@
       "description": "– Collaboration pour évaluer les cellules solaires ultra-légères de nouvelle génération pour l'infrastructure de calcul basée sur l'espace – Le partenariat rassemble la technologie coréenne de l'énergie spatiale et l'expertise [...] Le message Flexell Space et ALATYR Sign MoU pour explorer les solutions d'énergie solaire pour les centres de données orbitaux est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
-    },
-    {
-      "title": "\"Saint S, qui est Téhéran!\" B-2 Pilotes Histoire de l'opération Midnight Hammer",
-      "link": "https://www.airandspaceforces.com/inside-operation-midnight-hammer-b-2-pilots/",
-      "date": "Wed, 18 Nov 2026 21:51:11 +0000",
-      "description": "Pour la première fois, les pilotes B-2 qui ont piloté l'opération Midnight Hammer, la mission qui a nivelé le programme nucléaire iranien, ont parlé des mois de préparation à l'avance et du vol de 37 heures qui s'est déroulé dans le plus grand secret. Le post ‘Saint-S—, Qui est Téhéran! B-2 Pilotes Tell the Story of Operation Midnight Hammer est apparu en premier sur Air & Space Forces Magazine .",
-      "source": "Air & Space Forces Magazine",
-      "category": "Défense"
     },
     {
       "title": "All Points Logistics annonce un partenariat avec Expeditors pour Space Prep Logistics Center au Kennedy Space Center",
@@ -75,12 +67,68 @@
       "category": "Exploration"
     },
     {
-      "title": "Les stocks de Nvidia asiatiques bondissent après le retour de Huang, avec les limites de prix proches de Taiwan",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-      "date": "Tue, 24 Nov 2026 02:20:36 GMT",
-      "description": "Les investisseurs ont réintégré le marché de la technologie, après la réintégration du PDG de Nvidia Jensen Huang par son conseil d'administration.",
+      "title": "Le tribunal américain ordonne de procéder à la détonation prévue des munitions en Iowa",
+      "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+      "date": "Tue, 24 Nov 2026 03:32:26 GMT",
+      "description": "Un tribunal américain a autorisé l'armée à faire exploser des explosifs dégradés dans une usine de munitions de l'Iowa alors que le public était préoccupé par la contamination et les risques pour la santé.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "Le Mexique jugera 'El Chapo Isidro' malgré la demande d'extradition américaine",
+      "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 03:20:55 +0000",
+      "description": "Fausto Meza Flores est accusé de trafic de drogue et d'armes après sa capture dans une violente opération de Sinaloa.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "En tant que cuisinier inscrit, il a brûlé les patates douces d'Action de grâce. Maintenant, c'est un général 2 étoiles.",
+      "link": "https://www.airandspaceforces.com/enlisted-cook-thanksgiving-sweet-potatoes-2-star-general/",
+      "date": "Tue, 24 Nov 2026 03:18:33 +0000",
+      "description": "Maj. Le général James Parry est récemment devenu le meilleur médecin de la Garde nationale. Sa carrière de 40 ans a commencé comme cuisinier engagé. The post En tant que cuisinier inscrit, il a brûlé les patates douces Thanksgiving. Maintenant, c'est un général 2 étoiles. Il est apparu en premier sur Air & Space Forces Magazine .",
+      "source": "Air & Space Forces Magazine",
+      "category": "Défense"
+    },
+    {
+      "title": "Six questions clés soulevées par le retour de Jensen Huang à Nvidia",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "date": "Tue, 24 Nov 2026 03:05:49 GMT",
+      "description": "Alors que Jensen Huang revient à Nvidia, des questions sont restées autour de l'inversion du conseil, de l'implication de Trump et de l'avenir du géant technologique.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Gisele Pelicot « profondément choquée » comme des photos nues de son envoyé aux médias",
+      "link": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
+      "date": "Tue, 24 Nov 2026 02:54:00 +0000",
+      "description": "Gisele Pelicot a dit être « profondément choquée » et « humiliée » après que des images nues d'elle aient été envoyées aux médias sans son consentement pour promouvoir un nouveau livre sur le contrôle coercitif.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis ajoutent Megaspeed à la liste noire sur le contrôle des exportations au milieu de la controverse Nvidia",
+      "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "date": "Tue, 24 Nov 2026 02:37:39 GMT",
+      "description": "Les États-Unis ont ajouté Megaspeed et six autres entreprises à leur liste noire commerciale au sujet de préoccupations concernant le détournement potentiel de produits informatiques de pointe.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Excavateur menace lac alpin sacré dans l'Himalaya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 02:35:27 +0000",
+      "description": "Le pied d'une excavatrice près du lac Sheshnag, dans le Cachemire administré par l'Inde, a suscité l'indignation.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Le chef de l'ONU appelle le monde à s'entendre sur la surveillance de l'IA dans un délai d'un an",
+      "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 02:27:19 +0000",
+      "description": "Le Secrétaire général Antonio Guterres s'est fait de plus en plus l'écho de l'IA à la fin de son mandat.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Le documentaire Sky News remporte l'International Emmy",
@@ -89,14 +137,6 @@
       "description": "Sky News a remporté un Emmy International pour 24 Heures dans la zone de Kill.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "Les États-Unis ajoutent Megaspeed à la liste noire sur le contrôle des exportations au milieu de la controverse Nvidia",
-      "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-      "date": "Tue, 24 Nov 2026 01:56:28 GMT",
-      "description": "Les États-Unis ont ajouté Megaspeed et six autres entreprises à leur liste noire commerciale au sujet de préoccupations concernant le détournement potentiel de produits informatiques de pointe.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Alerte en Corée du Sud après l’intrusion d’avions militaires russes dans la zone de défense aérienne",
@@ -160,29 +200,13 @@
       "date": "Tue, 24 Nov 2026 01:11:54 GMT",
       "description": "Nvidia avait fait l'objet de pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 $tn à la valeur en actions de l'entreprise.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Monde"
     },
     {
-      "title": "Le ministre israélien approuve le retour des vols de Flydubai",
+      "title": "Le ministre israélien approuve le retour des vols de Flydubai à Tel Aviv",
       "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
       "date": "Tue, 24 Nov 2026 01:09:51 +0000",
       "description": "La reprise définitive de la route du transporteur entre Dubaï et Tel-Aviv dépend de l'approbation des autorités de sécurité israéliennes.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Bukele partage des détails sur la mort des troupes salvadoriennes en Haïti",
-      "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 01:06:00 +0000",
-      "description": "L'intervention militaire de Bukele en Haïti intervient après que quatre techniciens salvadoriens aient été enlevés par des gangs en octobre.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Les États-Unis ajoutent Megaspeed, entreprise au centre du scandale de Nvidia, à la liste de contrôle des exportations",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 00:52:47 +0000",
-      "description": "Le Bureau de la sécurité et de l'industrie ajoute à la liste de contrôle des exportations une entreprise basée à Singapour et six autres entités.",
       "source": "Al Jazeera",
       "category": "Monde"
     },
@@ -203,14 +227,6 @@
       "category": "France"
     },
     {
-      "title": "Que pourraient faire les démocrates avec leur majorité parlementaire en expansion?",
-      "link": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 00:39:22 +0000",
-      "description": "Le Parti démocratique discute de la meilleure façon d'utiliser sa grande marge de victoire aux élections à mi-parcours américaines.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "24 Tués après un incendie par l'usine Candy en Indonésie",
       "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
       "date": "Tue, 24 Nov 2026 00:35:20 +0000",
@@ -225,6 +241,14 @@
       "description": "Les utilisateurs de Mac ont leurs raisons d'abandonner la souris magique d'Apple malgré ses gestes de toucher slick. Les connaître peut vous aider à décider si cela convient à votre bureau.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "Le roi Charles et Elton John rendent hommage à la légende musicale australienne Molly Meldrum",
+      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 24 Nov 2026 00:23:25 GMT",
+      "description": "Le promoteur et le radiodiffuseur ont contribué à définir les goûts musicaux des Australiens pendant des décennies.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "Je paie 250 £ par mois pour que quelqu'un d'autre fasse mon admin de vie - ça vaut le coup",
@@ -995,6 +1019,14 @@
       "category": "Technologie"
     },
     {
+      "title": "Gisèle Pelicot 'humiliated' après des photos nues envoyées aux médias pour promouvoir le livre",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 21:24:47 GMT",
+      "description": "L'éditeur d'un essai sur le contrôle coercitif s'excuse pour \"une communication malheureuse et inappropriée\".",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
       "title": "La valeur de Nvidia grimpe de près de 1 $tn et les stocks de technologie rallye après Jensen Huang retour",
       "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 21:23:42 GMT",
@@ -1145,14 +1177,6 @@
       "description": "Alors que les innovateurs ukrainiens sont les pionniers de l'évacuation des drones aériens de première ligne, DARPA développe des robots assistés par l'IA pour trouver et évaluer les soldats blessés et les civils. La course pour sauver des vies est en cours.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Le Congrès déchique la décision 'outrageuse' de Nvidia de ramener Huang : 'Failure de caractère'",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-      "date": "Mon, 23 Nov 2026 20:22:49 GMT",
-      "description": "Les membres du Congrès des deux partis remettent en question la conclusion du président Donald Trump selon laquelle Jensen Huang ne présente aucun risque pour la sécurité nationale à la tête de Nvidia.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Le prix de la surveillance utilise nos données personnelles pour nous faire payer plus",
@@ -1379,14 +1403,6 @@
       "category": "Monde"
     },
     {
-      "title": "Les autorités iraniennes flog chanteur qui a joué sans hijab, avocats disent",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 18:04:20 GMT",
-      "description": "Parastoo Ahmadi, trois musiciens et un producteur auraient reçu 74 coups de fouet à Qom.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Le Congrès est « hors du temps » pour décider de la réconciliation, doit régler les dépenses topline: Sen. Coons",
       "link": "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons/",
       "date": "Mon, 23 Nov 2026 18:01:00 +0000",
@@ -1432,7 +1448,7 @@
       "date": "Mon, 23 Nov 2026 17:24:25 GMT",
       "description": "Les intérêts des pays producteurs de pétrole, un boycott américain et un différend sur le financement ont peut-être torpillé les pourparlers sur le climat.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Sciences"
     },
     {
       "title": "La NASA cherche des partenaires pour concevoir le premier réacteur nucléaire pour la Lune",
@@ -1507,20 +1523,20 @@
       "category": "France"
     },
     {
-      "title": "Des « chips de patates » et des « pierres fantômes » sur Mars repérés par la NASA alternent curiosité et persévérance",
-      "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
-      "date": "Mon, 23 Nov 2026 17:00:00 +0000",
-      "description": "Ces étranges caractéristiques géologiques peuvent donner des indices sur le passé aqueux de la planète rouge.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Sous-marin trouve monde plus profond activité volcanique explosive dans la tranchée Mariana",
       "link": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Mon, 23 Nov 2026 17:00:00 +0000",
       "description": "Un sous-marin robotique d'eau profonde a trouvé des preuves d'éruptions volcaniques explosives à 6100 mètres au-dessous du niveau de la mer, des scientifiques surprenants qui ne cherchaient que des échantillons géologiques",
       "source": "New Scientist",
       "category": "Sciences"
+    },
+    {
+      "title": "Des « chips de patates » et des « pierres fantômes » sur Mars repérés par la NASA alternent curiosité et persévérance",
+      "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
+      "date": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "description": "Ces étranges caractéristiques géologiques peuvent donner des indices sur le passé aqueux de la planète rouge.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "Le retour est un triomphe de l'argent sur la morale",
@@ -1633,14 +1649,6 @@
       "description": "Course des villes côtières pour se préparer à d'éventuelles inondations historiques en collision avec les conditions d'El Niño avant une semaine de voyage chargée L'année a déjà été difficile pour les Californiens côtiers – qui ont subi des inondations, des vagues extrêmes et l'érosion des plages pendant la saison super El Niño. Maintenant, les experts avertissent que la semaine de Thanksgiving pourrait voir plus de ravages, car un événement de marée haute d'hiver entraîne potentiellement des inondations records sur la côte et plus à l'intérieur des terres.",
       "source": "The Guardian",
       "category": "Environnement"
-    },
-    {
-      "title": "Bateau de guerre russe frappé par des drones ukrainiens en Libye, Zelensky dit",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 15:41:23 GMT",
-      "description": "Le Kremlin met en garde contre une « escalade des tensions dans la région », mais refuse de commenter directement les attaques en Libye.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Les bactéries et l'énergie nucléaire pourraient se développer chez nous sur Mars avant l'arrivée des astronautes",
