@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T01:31:17.544174+00:00",
+  "updated_at": "2026-11-24T02:35:09.359138+00:00",
   "count": 275,
   "articles": [
     {
@@ -77,10 +77,82 @@
     {
       "title": "Les stocks de Nvidia asiatiques bondissent après le retour de Huang, avec les limites de prix proches de Taiwan",
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-      "date": "Tue, 24 Nov 2026 01:29:06 GMT",
+      "date": "Tue, 24 Nov 2026 02:20:36 GMT",
       "description": "Les investisseurs ont réintégré le marché de la technologie, après la réintégration du PDG de Nvidia Jensen Huang par son conseil d'administration.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "Le documentaire Sky News remporte l'International Emmy",
+      "link": "https://news.sky.com/story/24-hours-in-the-kill-zone-sky-news-documentary-wins-international-emmy-13615753",
+      "date": "Tue, 24 Nov 2026 02:06:00 +0000",
+      "description": "Sky News a remporté un Emmy International pour 24 Heures dans la zone de Kill.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis ajoutent Megaspeed à la liste noire sur le contrôle des exportations au milieu de la controverse Nvidia",
+      "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "date": "Tue, 24 Nov 2026 01:56:28 GMT",
+      "description": "Les États-Unis ont ajouté Megaspeed et six autres entreprises à leur liste noire commerciale au sujet de préoccupations concernant le détournement potentiel de produits informatiques de pointe.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Alerte en Corée du Sud après l’intrusion d’avions militaires russes dans la zone de défense aérienne",
+      "link": "https://www.lefigaro.fr/international/alerte-en-coree-du-sud-apres-l-intrusion-d-un-appareil-presume-nord-coreen-20261124",
+      "date": "Tue, 24 Nov 2026 01:52:59 +0100",
+      "description": "Un appareil s’est approché de l’île d’Ulleung, au large de la côte est du pays, après avoir pénétré dans la zone, amenant les autorités à émettre un avertissement à l’intention des habitants.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "À l'intérieur de Nvidia, tout le monde ne célèbre pas le retour de Jensen Huang",
+      "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "date": "Tue, 24 Nov 2026 01:35:38 +0000",
+      "description": "Certains ont vu la démission des Huangs comme une occasion de changer de culture au géant des puces. Si Jensen revient, je ne fais plus jamais de formation en RH, a dit un employé.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Corée du Sud: des avions militaires russes repérés dans la zone de défense aérienne du pays",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261124-cor%C3%A9e-du-sud-des-avions-militaires-russes-rep%C3%A9r%C3%A9s-dans-la-zone-de-d%C3%A9fense-a%C3%A9rienne-du-pays",
+      "date": "Tue, 24 Nov 2026 01:34:38 GMT",
+      "description": "Plusieurs avions militaires russes ont pénétré, ce mardi 24 novembre, dans la zone d'identification de défense aérienne de la Corée du Sud, a rapporté l'agence de presse Yonhap, citant des sources militaires. Une alerte a brièvement été émise à l'intention des habitants de l'île d'Ulleung, au large de la côte est du pays. L'armée sud-coréenne a toutefois précisé que son espace aérien n'avait pas été violé.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Violences économiques : «Il faut traiter le problème dans sa globalité»",
+      "link": "https://www.liberation.fr/forums/violences-economiques-il-faut-traiter-le-probleme-dans-sa-globalite-20261124_KIVL44TWFJCUFJJWCOK32BIHNA/",
+      "date": "Tue, 24 Nov 2026 01:33:00 +0000",
+      "description": "Comment aider, conseiller, suivre les femmes victimes de violences économiques. Les réponses de Valérie Kipfer, membre de l’association pour la Fondation Crésus.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Qatar Le PM cherche à relancer les pourparlers entre les États-Unis et l'Iran après avoir rencontré Rubio",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 01:32:12 +0000",
+      "description": "Le Premier ministre du Qatar déclare qu'il s'efforce de désamorcer les tensions entre l'Iran et les États-Unis.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les trois commandes DISM que vous devriez connaître pour réparer vos images système Windows",
+      "link": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+      "date": "Tue, 24 Nov 2026 01:30:00 +0000",
+      "description": "Vérifier et réparer les fichiers système endommagés avec ces commandes DISM.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "La cour d'appel renouvelle la soumission de Trump pour la compétence fédérale dans une affaire d'argent lourd",
+      "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 01:17:48 +0000",
+      "description": "La décision pourrait permettre à Trump de faire valoir que les procureurs se fondaient sur des preuves protégées par l'immunité présidentielle.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Nvidia rétablit le PDG Jensen Huang après une liaison avec un espion présumé comme dit Trump 'J'ai fait l'accord'",
@@ -105,14 +177,6 @@
       "description": "L'intervention militaire de Bukele en Haïti intervient après que quatre techniciens salvadoriens aient été enlevés par des gangs en octobre.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Amazon faces FAA sonde après la livraison drone frappe le câble de fibre Michigan, garage",
-      "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
-      "date": "Tue, 24 Nov 2026 00:56:10 GMT",
-      "description": "Un drone amazonien « s'est emparé d'un câble en fibre, d'un garage résidentiel, et s'est enchevêtré dans les lignes électriques pendant le décollage », a déclaré un rapport préliminaire de la FAA.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Les États-Unis ajoutent Megaspeed, entreprise au centre du scandale de Nvidia, à la liste de contrôle des exportations",
@@ -147,14 +211,6 @@
       "category": "Monde"
     },
     {
-      "title": "Il s'avère que ce n'était pas un lion après tout",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 00:35:58 +0000",
-      "description": "L'animal qui a déclenché la panique à Istanbul dimanche parce que les gens pensaient que c'était un lion, n'était pas un lion après tout.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "24 Tués après un incendie par l'usine Candy en Indonésie",
       "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
       "date": "Tue, 24 Nov 2026 00:35:20 +0000",
@@ -169,14 +225,6 @@
       "description": "Les utilisateurs de Mac ont leurs raisons d'abandonner la souris magique d'Apple malgré ses gestes de toucher slick. Les connaître peut vous aider à décider si cela convient à votre bureau.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Trump appelle à « accélérer » les exécutions fédérales américaines, explosions Gavin Newsom",
-      "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 00:04:15 +0000",
-      "description": "Le président américain a utilisé son podium pour attaquer le gouverneur de Californie pour une décision de commuer 548 condamnations à mort.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Je paie 250 £ par mois pour que quelqu'un d'autre fasse mon admin de vie - ça vaut le coup",
@@ -571,14 +619,6 @@
       "category": "Économie"
     },
     {
-      "title": "Au moins 24 morts après que le bateau ait emmené des passagers à des pompes funèbres au Nigeria",
-      "link": "https://news.sky.com/story/at-least-24-dead-after-boat-taking-passengers-to-funeral-capsizes-in-nigeria-13615057",
-      "date": "Sat, 21 Nov 2026 21:32:00 +0000",
-      "description": "D'après les services d'urgence, au moins 24 personnes sont mortes après qu'un bateau a chaviré en transportant des personnes à des funérailles au Nigéria.",
-      "source": "Sky News",
-      "category": "Monde"
-    },
-    {
       "title": "Négociations internationales des Nations Unies sur le contrôle de l'utilisation des armes autonomes",
       "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
       "date": "Sat, 21 Nov 2026 16:36:11 GMT",
@@ -723,10 +763,10 @@
       "category": "Exploration"
     },
     {
-      "title": "L'adoption de l'IA augmente en Asie, mais mesurer les gains reste difficile",
-      "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-      "date": "Mon, 23 Nov 2026 23:42:27 GMT",
-      "description": "Les entreprises de toute l'Asie-Pacifique voient les rendements des investissements dans l'IA, même si la confiance dans la mesure de ces gains varie, selon une enquête de l'AWS.",
+      "title": "Trump a conclu un accord pour que Nvidia réembauche Jensen Huang comme PDG",
+      "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "date": "Mon, 23 Nov 2026 23:42:17 GMT",
+      "description": "Le président Trump a déclaré que son administration a donné l'assurance au conseil d'administration de Nvidia que Jensen Huang ne serait pas une menace pour la sécurité nationale s'il était réintégré en tant que PDG.",
       "source": "CNBC",
       "category": "Économie"
     },
@@ -833,14 +873,6 @@
       "description": "Share price bonds as chipmaker inverse la décision de supprimer le chef de l'exécutif après le président américain « convaincu » son conseil d'administration Commentaire: Nvidia humilié conseil devrait démissionner hors de l'embarras politique américain – mises à jour en direct Chronologie: chute et retour de Jensen Huang Nvidia a réintégré Jensen Huang en tant que chef de l'exécutif après que Donald Trump soit intervenu directement avec le conseil d'administration américain de chipmaker d'IA, dans un renversement spectaculaire du milliardaire technologique.",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "Industrie: la France va se doter de «stocks stratégiques» de minerais critiques",
-      "link": "https://www.rfi.fr/fr/france/20261123-industrie-la-france-va-se-doter-de-stocks-strat%C3%A9giques-de-minerais-critiques",
-      "date": "Mon, 23 Nov 2026 22:13:11 GMT",
-      "description": "La France va se doter de « stocks stratégiques » de « terres rares et certains métaux prioritaires », inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des industriels, notamment à l'égard de la Chine, a déclaré l'Élysée lundi à l'AFP, confirmant une information du Figaro.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Anthropic lance Claude Ship, laissant les agents d'IA examiner, corriger et approuver les changements de code",
@@ -1051,14 +1083,6 @@
       "category": "Technologie"
     },
     {
-      "title": "De nouvelles fuites révèlent que l'iPhone 18e aura un plateau de caméra redessiné",
-      "link": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
-      "date": "Mon, 23 Nov 2026 20:57:55 +0000",
-      "description": "Nous avons également une confirmation supplémentaire que l'iPhone Air 2 aura une deuxième lentille de caméra.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "L’Ukraine revendique des attaques contre deux navires russes au large de la Libye",
       "link": "https://www.liberation.fr/international/europe/lukraine-revendique-des-attaques-contre-deux-navires-russes-au-large-de-la-libye-20261123_L22KMEK5IZDWZP35XFEVOLLN2A/",
       "date": "Mon, 23 Nov 2026 20:49:04 +0000",
@@ -1129,14 +1153,6 @@
       "description": "Les membres du Congrès des deux partis remettent en question la conclusion du président Donald Trump selon laquelle Jensen Huang ne présente aucun risque pour la sécurité nationale à la tête de Nvidia.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Salut nazi et propos racistes dans une école de police : Laurent Nuñez condamne des «faits inacceptables»",
-      "link": "https://www.liberation.fr/societe/police-justice/des-propos-sexistes-racistes-et-des-saluts-nazis-tenus-dans-une-ecole-de-police-la-justice-saisie-20261122_AMKVEJWKMBDG5OJKLCQHK5V47A/",
-      "date": "Mon, 23 Nov 2026 20:18:12 +0000",
-      "description": "Selon une enquête du «Parisien», des futurs officiers de la 31e promotion de l’école nationale supérieure de la police ont tenu des propos graves dans des groupes de discussion. Un élève a été suspendu «à titre conservatoire».",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Le prix de la surveillance utilise nos données personnelles pour nous faire payer plus",
@@ -1277,7 +1293,7 @@
     {
       "title": "Netanyahou veut attaquer l'Iran. Est-ce que cela sert Israël ou lui?",
       "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-      "date": "Mon, 23 Nov 2026 18:54:41 +0000",
+      "date": "Mon, 23 Nov 2026 18:54:42 +0000",
       "description": "Le Premier ministre israélien, Benjamin Netanyahu, appelle à renouveler les grèves une question de sécurité nationale. Les analystes militaires et les dirigeants de l'opposition disent qu'il priorise ses propres intérêts.",
       "source": "The New York Times",
       "category": "Monde"
@@ -1315,14 +1331,6 @@
       "category": "Monde"
     },
     {
-      "title": "«Un traquenard» : cette note des renseignements qui contredit la thèse de Jean-Luc Mélenchon sur la mort de Quentin Deranque",
-      "link": "https://www.lefigaro.fr/faits-divers/un-traquenard-cette-note-des-renseignements-qui-contredit-la-these-de-jean-luc-melenchon-sur-la-mort-de-quentin-deranque-20261123",
-      "date": "Mon, 23 Nov 2026 18:31:46 +0100",
-      "description": "Chronologie, coordination des groupes, progression organisée… Les éléments recueillis par les agents du RT accréditent la thèse d’une attaque préméditée contre les militants identitaires, et non l’inverse.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "France: l’Élysée remet dans le débat public l’idée d’une «règle d’or budgétaire»",
       "link": "https://www.rfi.fr/fr/%C3%A9conomie/20261123-france-l-%C3%A9lys%C3%A9e-remet-dans-le-d%C3%A9bat-public-l-id%C3%A9e-d-une-r%C3%A8gle-d-or-budg%C3%A9taire",
       "date": "Mon, 23 Nov 2026 18:19:05 GMT",
@@ -1357,7 +1365,7 @@
     {
       "title": "Ukraine attaque au large des côtes de la Libye montre la portée de ses drones navales",
       "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-      "date": "Mon, 23 Nov 2026 18:09:45 +0000",
+      "date": "Mon, 23 Nov 2026 18:09:46 +0000",
       "description": "Le Président Volodymyr Zelensky a déclaré que les drones ukrainiens avaient coulé une corvette et frappé un navire à cargaison sèche, dans des attaques impliquant des forces d'opérations spéciales.",
       "source": "The New York Times",
       "category": "Monde"
@@ -1515,7 +1523,7 @@
       "category": "Sciences"
     },
     {
-      "title": "Le retour des Huangs est un triomphe de l'argent sur la morale",
+      "title": "Le retour est un triomphe de l'argent sur la morale",
       "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
       "date": "Mon, 23 Nov 2026 16:51:47 GMT",
       "description": "Le chipmaker de l'envolée des actions suggère que les investisseurs sont à bord avec son co-fondateur de retour étonnant",
@@ -1785,14 +1793,6 @@
       "description": "L'exposition à venir mettra en lumière les ambitions de Pékin en matière d'aviation de porte-avions, aux côtés des principaux combattants de surface et des nouveaux systèmes sans équipage. L'article Chine's Naval Developments Set For The Spotlight At Zhuhai Airshow est apparu en premier sur TWZ .",
       "source": "The War Zone",
       "category": "Défense"
-    },
-    {
-      "title": "44 Meilleurs cadeaux de moins de 100 $ que WIRED aime (2026)",
-      "link": "https://www.wired.com/gallery/best-gifts-under-100/",
-      "date": "Mon, 23 Nov 2026 12:00:00 +0000",
-      "description": "Faites un beau cadeau pour tout le monde sur votre liste sans casser la banque. Chacun de ces cadeaux est recommandé par WIRED.",
-      "source": "WIRED",
-      "category": "Technologie"
     },
     {
       "title": "Les anciens établissements humains ont stimulé la biomasse d'aujourd'hui",
