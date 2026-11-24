@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T23:22:15.775565+00:00",
-  "count": 274,
+  "updated_at": "2026-11-24T00:17:48.137501+00:00",
+  "count": 275,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -73,6 +73,46 @@
       "description": "Le 30 septembre, la planète rouge commence officiellement l'année 39 de Mars. Ce qui est une réussite pour un monde qui a en fait plus de 4,5 milliards d'années.",
       "source": "Astronomy Now",
       "category": "Exploration"
+    },
+    {
+      "title": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
+      "link": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+      "date": "Tue, 24 Nov 2026 00:46:27 +0100",
+      "description": "Le conseil d’administration de Nvidia a annoncé, lundi, la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande. Plusieurs parlementaires, démocrates et républicains, réclament des explications.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Trump appelle à « accélérer » les exécutions fédérales américaines, explosions Gavin Newsom",
+      "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 00:04:15 +0000",
+      "description": "Le président américain a utilisé son podium pour attaquer le gouverneur de Californie pour une décision de commuer 548 condamnations à mort.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "La scolarisation de Borno double presque après des années de conflit",
+      "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 00:02:16 +0000",
+      "description": "Malgré l'augmentation des inscriptions, la violence, les déplacements et la pauvreté empêchent les enfants de fréquenter l'école dans l'État du nord-est.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Je paie 250 £ par mois pour que quelqu'un d'autre fasse mon admin de vie - ça vaut le coup",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 24 Nov 2026 00:01:04 GMT",
+      "description": "De part et d'autre de l'Atlantique, les mères occupées paient des entreprises pour s'occuper de leur liste de tâches.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "La guerre en Iran vit: l'Iran dit que trois navires prennent feu après avoir frappé les mines d'Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 00:00:00 +0000",
+      "description": "Les gardes révolutionnaires iraniens disent que trois pétroliers ont pris feu après avoir heurté des mines navales dans le détroit d'Hormuz.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Comment l'IA pousse les satellites à évoluer",
@@ -603,12 +643,52 @@
       "category": "Exploration"
     },
     {
+      "title": "Mamdani souffle le marché boursier dépendant de l'IA après le retour de Jensen Huang",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 23:54:27 +0000",
+      "description": "Le maire de New York, Zohran Mamdani, a critiqué la volatilité des stocks liés à l'intelligence artificielle aux États-Unis.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'attaque de Drone contre la base de police colombienne blesse des civils, y compris des enfants",
+      "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 23:49:37 +0000",
+      "description": "Le président d'extrême droite De la Espriella s'engage dans l'offensive alors que des groupes rebelles frappent avec des drones, des bombes sur la route.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'UE prévoit l'interdiction du sport dans le cadre de la nouvelle proposition de sanctions contre la Russie",
+      "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 23:26:16 +0000",
+      "description": "Les sanctions proposées visent à limiter le financement des cryptos russes et la «propagande» dans le sport.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Des coups de feu mortels par l'usine de bonbons en Indonésie",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "date": "Mon, 23 Nov 2026 23:25:56 +0000",
+      "description": "Des centaines de personnes étaient à l'enceinte quand un incendie a éclaté samedi, puis a fait rage pendant des heures.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Nvidia établit des options-trading record après le retour du PDG. Voici les grands métiers",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+      "date": "Mon, 23 Nov 2026 23:24:02 GMT",
+      "description": "Nvidia record pour un seul volume d'options de stock",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "US to blacklist Asian AI firme Megaspeed après le scandale Nvidia",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026 23:16:08 GMT",
       "description": "Megaspeed a été accusé d'entonner des puces AI en Chine après qu'une ancienne liaison avec Jensen Huang soit devenue publique.",
       "source": "BBC News",
-      "category": "Technologie"
+      "category": "Monde"
     },
     {
       "title": "Jim Cramer voit plus à l'envers pour les actions de Nvidia avec Jensen Huang comme PDG",
@@ -619,28 +699,20 @@
       "category": "Économie"
     },
     {
+      "title": "Nvidia rétablit le PDG Jensen Huang après une liaison avec un espion présumé comme dit Trump 'J'ai fait l'accord'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 23:10:27 GMT",
+      "description": "Nvidia avait fait l'objet de pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 $tn à la valeur en actions de l'entreprise.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
       "title": "L'employée de Figma poursuit, alléguant que l'entreprise l'a forcée à affronter les harceleurs",
       "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
       "date": "Mon, 23 Nov 2026 23:07:49 +0000",
       "description": "Figma et son PDG sont poursuivis par un employé actuel pour harcèlement sexuel et discrimination.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Qu'est-ce que le retour de Nvidia ?",
-      "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 23:06:03 +0000",
-      "description": "Trump réclame du crédit pour le retour de Huang, soulevant des préoccupations au sujet de l'ingérence du gouvernement fédéral dans les décisions des conseils d'administration.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le bulletin China Connection de CNBC : la course d'IA se propage des robots aux smartphones",
-      "link": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-      "date": "Mon, 23 Nov 2026 23:00:01 GMT",
-      "description": "Des modèles d'intelligence artificielle plus puissants élèvent les attentes pour des puces plus puissantes sur les appareils qui peuvent fonctionner sur des appareils des robots aux smartphones.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Nvidia ajoute près de $1tn à la valeur de marché après avoir rétabli Jensen Huang",
@@ -657,14 +729,6 @@
       "description": "Michel Zecler est producteur de musique et auteur de \"Rester debout\" (Plon). Dans \"C Ce Soir\", ce 23 novembre 2026, il revient sur le verdict de la justice après la violente agression qu'il a subie par des policiers, dans son studio de musique, en novembre 2020.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "Trump reporte le plan de l'armée américaine pour faire exploser des explosifs toxiques en Iowa",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 22:54:47 +0000",
-      "description": "Le président Trump a également reporté la détonation prévue de près de cinq tonnes d'azide de plomb dans l'Iowa.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "À l'intérieur de la salle de guerre, Trump a fait pression pour ramener Nvidias Huang",
@@ -843,14 +907,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Les États-Unis aggravent les sanctions contre l'Iran, ciblent les réseaux de banques",
-      "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 21:30:40 +0000",
-      "description": "Le Trésor américain sanctionne plus de deux douzaines d'entités iraniennes, citant des efforts pour perturber les activités financières mondiales de Téhéran.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "En Afrique, l’Ukraine et la Russie se font la guerre par procuration",
       "link": "https://www.lefigaro.fr/international/en-afrique-l-ukraine-et-la-russie-se-font-la-guerre-par-procuration-20261123",
       "date": "Mon, 23 Nov 2026 21:30:00 +0100",
@@ -883,28 +939,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Israël L'incursion du sud de la Syrie déclenche la peur et la destruction",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 21:19:17 +0000",
-      "description": "Des familles de Koya ont été abattues, leurs maisons ont été incendiées et forcées de fuir après les incursions israéliennes.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "L'attaque ukrainienne au large de Benghazi ravive la tension entre les belligérants libyens",
       "link": "https://www.rfi.fr/fr/afrique/20261123-l-attaque-ukrainienne-en-large-de-benghazi-ravive-la-tension-entre-les-bellig%C3%A9rants-libyens",
       "date": "Mon, 23 Nov 2026 21:16:48 GMT",
       "description": "Les autorités de l'Est libyen ont réclamé, lundi 23 novembre à l'ONU, une enquête sur la présence des forces ukrainiennes dans l'ouest du pays. Kiev a revendiqué l'attaque de deux navires russes au large de Benghazi visés par des drones marins. Une première, après deux opérations similaires en Libye en février et en décembre derniers. Ces nouvelles attaques ravivent les divisions et la tension entre les belligérants libyens et rebattent la carte de la présence ukrainienne et russe dans ce pays qui bénéficie d'une position stratégique en Afrique.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "États-Unis poursuivre SpaceX sur Grok AI. La création de matériel de violence sexuelle pour enfants",
-      "link": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 21:15:33 +0000",
-      "description": "Virginia et Oregon ont intenté des poursuites distinctes lundi, accusant la compagnie de promouvoir le « mode épicé » de Grok.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Comment la COP31 est devenue la diplomatie climatique",
@@ -953,14 +993,6 @@
       "description": "Le banquier central influent s'est déclaré convaincu que l'inflation se rapprocherait de l'objectif de 2% de la Fed en 2027.",
       "source": "CNBC",
       "category": "Économie"
-    },
-    {
-      "title": "Les prix des médicaments aux États-Unis laissent les patients confrontés à des choix impossibles",
-      "link": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 21:02:00 +0000",
-      "description": "Malgré l'emploi et l'assurance maladie, certains des patients les plus malades des États-Unis ont du mal à se procurer les médicaments dont ils ont besoin.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Peterson: Voici ce que Bessent's sur-face sur Jensen Huang révèle sur Trump et la Chine",
@@ -1041,14 +1073,6 @@
       "description": "« Je serai un meilleur PDG la deuxième fois », a déclaré Huang aux employés.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
-      "link": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries_6814407_3210.html",
-      "date": "Mon, 23 Nov 2026 20:37:41 +0100",
-      "description": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande. Plusieurs parlementaires, démocrates et républicains, réclament des explications.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "La Russie lancera une mission d'approvisionnement ISS de routine demain – apparemment, c'est un grand secret",
@@ -1185,14 +1209,6 @@
       "description": "Amazon utilise maintenant ses paquets à des fins politiques.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Des coups de feu mortels par l'usine de bonbons en Indonésie",
-      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "date": "Mon, 23 Nov 2026 19:38:00 +0000",
-      "description": "Des centaines de personnes étaient à l'enceinte quand un incendie a éclaté samedi, puis a fait rage pendant des heures.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "La Russie s’apprêterait à placer une arme nucléaire dans l’espace",
@@ -1408,7 +1424,7 @@
       "date": "Mon, 23 Nov 2026 17:24:25 GMT",
       "description": "Les intérêts des pays producteurs de pétrole, un boycott américain et un différend sur le financement ont peut-être torpillé les pourparlers sur le climat.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Monde"
     },
     {
       "title": "La NASA cherche des partenaires pour concevoir le premier réacteur nucléaire pour la Lune",
@@ -1790,17 +1806,9 @@
       "title": "L'Ukraine confirme avoir utilisé des drones navals pour attaquer deux navires russes au large de la Libye",
       "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
       "date": "Mon, 23 Nov 2026 11:42:51 GMT",
-      "description": "Ukraine Le service de sécurité dit que sept drones ont été lancés depuis le vaisseau mère en opération qui a coulé Merkury Warship Europe en direct – dernières mises à jour L'Ukraine a confirmé qu'elle a déployé des drones navals lors de frappes sur deux navires russes au large de la Libye dimanche, y compris un qui a coulé la corvette Merkury, l'un des nouveaux navires de Russie. Ukraine service de sécurité, le SBU, a déclaré que sept drones navals fabriqués au pays ont été lancés d'un vaisseau mère dans le",
+      "description": "Ukraine Le service de sécurité dit que sept drones ont été lancés depuis le vaisseau mère en opération qui a coulé Merkury navire de guerre Ukraine a confirmé qu'il a déployé des drones navals dans des frappes sur deux navires russes au large de la Libye dimanche, y compris un qui a coulé la corvette Merkury, l'un des nouveaux navires de Russie. Ukraine service de sécurité, le SBU, a déclaré que sept drones navals fabriqués dans le pays ont été lancés d'un vaisseau mère dans l'opération, que Volodymyr Zelenskyy",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "Les parts de Capita plongent 70% à mesure que le patron quitte après l'échec des pensions de la fonction publique",
-      "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 11:24:37 GMT",
-      "description": "Les travailleurs du secteur public ont été touchés par des retards dans le versement des pensions, dans un régime supervisé par Capita depuis l'année dernière.",
-      "source": "BBC News",
-      "category": "Économie"
     },
     {
       "title": "\"Medicare pour tous\" est de retour sur le tableau. Est-ce que ça a une meilleure chance cette fois ?",
@@ -2147,6 +2155,22 @@
       "category": "Environnement"
     },
     {
+      "title": "Google alternative Kagi lance un service de messagerie",
+      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "date": "2026-11-23T19:02:52-05:00",
+      "description": "Kagi, qui offre déjà une alternative payée à Google Search et son propre navigateur Orion comme un rival à Chrome, prend sur un autre service Google: Gmail. Aujourd'hui, Kagi a annoncé une bêta publique de Kagi Mail, un nouveau service d'email qui n'a « aucune surveillance, aucune publicité, des normes ouvertes et aucun verrouillage ». Avec Kagi Mail, vous [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le hacker derrière les premières fuites de GTA VI a été condamné — et libéré",
+      "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "date": "2026-11-23T18:25:01-05:00",
+      "description": "Arion Kurtaj, qui a plaidé coupable la semaine dernière pour avoir piraté le développeur de Grand Theft Auto VI Rockstar Games et d'autres sociétés, dont Uber et Revolut, a été condamné à sept ans de prison mais libéré sous licence, rapporte la BBC. Après avoir hacké Rockstar, Kurtaj a divulgué 90 vidéos de GTA VI en 2022, des années avant la [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Le guide des cadeaux de vacances Verge-S 2026",
       "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
       "date": "2026-11-23T18:14:10-05:00",
@@ -2175,22 +2199,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "date": "2026-11-23T17:10:32-05:00",
       "description": "Après que le PDG, président et cofondateur de Nvidia, Jensen Huang, ait reconnu une liaison avec Megaspeed exec Alice Huang, sa société a annoncé une enquête. Cependant, après que le New York Times ait signalé qu'il y avait des preuves d'une autre affaire, cette fois avec un cadre de Nvidia qui lui a fait rapport directement, une réunion du conseil d'administration cette nuit-là s'est terminée [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Bienvenue dans l'impunité de l'élite, Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "date": "2026-11-23T17:09:26-05:00",
-      "description": "Je suppose que je dois féliciter chaleureusement Jensen Huang. Huang est à nouveau PDG de Nvidia, à la surprise de tout le monde, à l'exception du président Donald Trump et du vice-président JD Vance, qui s'est assuré que c'est arrivé. Maintenant, ceux d'entre nous qui avaient une sorte d'éducation de base sur ce qu'est un \"marché libre\" pourrait [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "L'Apple Watch Series 12 est moins cher que jamais avant le Black Friday",
-      "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "date": "2026-11-23T16:36:48-05:00",
-      "description": "Si vous êtes encore sportif d'une Apple Watch qui a lancé il y a cinq ans, maintenant est un bon moment pour mettre à niveau. La dernière smartwatch d'Apple, l'Apple Watch Series 12 42mm avec connexion Wi-Fi et GPS, est tombée à un nouveau bas tout-temps de 299 $ (100 $ de rabais) à Amazon et Walmart, battant son prix de vente le plus [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
