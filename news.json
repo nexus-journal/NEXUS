@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T22:41:25.998043+00:00",
-  "count": 280,
+  "updated_at": "2026-11-24T23:33:56.400847+00:00",
+  "count": 286,
   "articles": [
     {
       "title": "Flexell Space et l'ALATYR signent un protocole pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -67,12 +67,108 @@
       "category": "Exploration"
     },
     {
+      "title": "Affaire Nvidia : Jensen Huang s'excuse auprès des salariés et affirme suivre une thérapie",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-jensen-huang-s-excuse-aupres-des-salaries-et-affirme-suivre-une-therapie-20261124",
+      "date": "Tue, 24 Nov 2026 23:53:32 +0100",
+      "description": "Le patron du géant des puces a présenté mardi ses excuses aux salariés pour avoir enfreint le code de conduite du groupe, au lendemain de son retour à sa tête, selon des médias américains.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Leipzig-Lens : les Sang et Or une nouvelle fois défaits en Ligue des champions",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/24/leipzig-lens-les-sang-et-or-une-nouvelle-fois-defaits-en-ligue-des-champions_6814868_3242.html",
+      "date": "Tue, 24 Nov 2026 23:31:21 +0100",
+      "description": "Le RC Lens a concédé une nouvelle défaite en Ligue des champions face au RB Leipzig (1-3), mardi, et voit ses espoirs de qualification pour les seizièmes de finale s’éloigner dangereusement.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "L'Australie adoptera une loi sur la sécurité qui pourrait entraîner des amendes massives pour les plateformes technologiques",
+      "link": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
+      "date": "Tue, 24 Nov 2026 23:21:40 +0000",
+      "description": "Les législateurs australiens sont sur le point d'adopter le Digital Duty of Care Bill, un amendement à la loi sur la sécurité en ligne de 2021.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "California « marées de king » test de stress San Francisco comme zones basses inondations",
+      "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+      "date": "Tue, 24 Nov 2026 23:20:24 GMT",
+      "description": "Des relevés mensuels des marées ont été établis à travers la ville, certains devant frapper encore plus haut demain. Que savoir sur les inondations en Californie au-dessus de Thanksgiving La Californie est aux prises avec l'épreuve de stress de marées records ou proches de marées records en novembre cette semaine, avec l'inondation de routes basses à San Francisco et l'évacuation d'une communauté dans le nord de la Californie. Résidents locaux et médias partagés",
+      "source": "The Guardian",
+      "category": "Environnement"
+    },
+    {
+      "title": "Jensen Huang dit au personnel que Nvidia n'a pas besoin d'un plan de relève",
+      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "date": "Tue, 24 Nov 2026 23:13:49 GMT",
+      "description": "Directeur général de Nvidia Jensen Huang a démissionné après plusieurs affaires rapportées, dont une avec une femme d'affaires chinoise qui est présumée être un espion pour Pékin.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Améliorez votre vitesse Wi-Fi Starlink avec ce réglage d'application",
+      "link": "https://www.engadget.com/2321248/starlink-wifi-speed-split-network-app-setting/",
+      "date": "Tue, 24 Nov 2026 23:00:00 +0000",
+      "description": "Voyez comment un réglage unique dans l'application Starlink peut améliorer votre vitesse Internet à domicile, et déterminer si l'allumer est logique pour votre configuration.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Arsenal et Dortmund dessinent 1-1 comme Gyokeres va du héros au méchant",
+      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 22:50:16 +0000",
+      "description": "Arsenal domine les chances que Borussia Dortmund se dispute pour un 1-1 nul dans la Ligue des Champions de football.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "La moitié de la flotte Mars vieillissante de la NASA est déconnectée par des problèmes techniques",
+      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "date": "Tue, 24 Nov 2026 22:50:11 +0000",
+      "description": "La persévérance a du mal à se transmettre à la Terre. Odyssey brûle rapidement à travers son approvisionnement en carburant.",
+      "source": "Ars Technica",
+      "category": "Technologie"
+    },
+    {
+      "title": "Une brève histoire de METI. Quatrième partie: METI millénaire Expériences",
+      "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iv-millennial-meti-experiments",
+      "date": "Tue, 24 Nov 2026 22:45:31 +0000",
+      "description": "Nous poursuivons l'histoire de METI en regardant les tentatives publiques d'envoyer des messages au cosmos vers le tournant du siècle.",
+      "source": "Universe Today",
+      "category": "Exploration"
+    },
+    {
+      "title": "Huawei est coupable de complot pour voler des secrets commerciaux, règles du jury américain",
+      "link": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+      "date": "Tue, 24 Nov 2026 22:40:07 +0000",
+      "description": "Les accusations portées contre la société de technologie chinoise remontent à 2019.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Bellingham stunner, Mbappe brasse aide Real Madrid rout PSV",
+      "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+      "date": "Tue, 24 Nov 2026 22:37:20 +0000",
+      "description": "Le Real Madrid vient de derrière le PSV Eindhoven avec une victoire de 5-1 dans la Ligue des Champions de football.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "SpaceX lance des satellites espions secrets de Californie pour US Space Force (vidéo)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
       "date": "Tue, 24 Nov 2026 22:37:19 +0000",
       "description": "SpaceX a lancé aujourd'hui sa cinquième mission classée pour la sécurité nationale américaine (nov. 24), à partir de la base de Vandenberg en Californie.",
       "source": "Space.com",
       "category": "Exploration"
+    },
+    {
+      "title": "Huawei condamné dans un procès aux États-Unis qui a exposé l'espionnage des entreprises et l'évasion des sanctions",
+      "link": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+      "date": "Tue, 24 Nov 2026 22:36:29 GMT",
+      "description": "Verdict marque une victoire pour les procureurs fédéraux après une bataille juridique de huit ans avec la société chinoise de télécommunications",
+      "source": "Financial Times",
+      "category": "Économie"
     },
     {
       "title": "La panne de nuage historique de Microsoft a exposé un ingénierie de la guerre",
@@ -112,7 +208,7 @@
       "date": "Tue, 24 Nov 2026 22:24:23 GMT",
       "description": "Le verdict fait suite à un procès d'un mois à New York.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "16 meilleures affaires d'écouteurs du vendredi noir (2026) : jusqu'à 57% de rabais",
@@ -243,7 +339,7 @@
       "category": "France"
     },
     {
-      "title": "Des hommes armés prennent au moins 25 otages dans un supermarché en Colombie.",
+      "title": "Des hommes armés prennent des otages en Colombie",
       "link": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
       "date": "Tue, 24 Nov 2026 21:36:00 +0000",
       "description": "Selon les autorités, un groupe d'hommes armés tient au moins 25 personnes en otage dans un supermarché en Colombie.",
@@ -275,27 +371,11 @@
       "category": "Technologie"
     },
     {
-      "title": "Attaques de drones, « flotte fantôme »… La mer Baltique, nouveau théâtre du conflit entre l’Ukraine et la Russie",
-      "link": "https://www.lefigaro.fr/international/attaques-de-drones-flotte-fantome-la-mer-baltique-nouveau-theatre-du-conflit-entre-l-ukraine-et-la-russie-20261124",
-      "date": "Tue, 24 Nov 2026 21:31:45 +0100",
-      "description": "DÉCRYPTAGE - Deux navires russes ont été frappés à dix jours d’intervalle par des drones ukrainiens dans le golfe de Finlande. Les pays riverains membres de l’Otan sont embarrassés.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "États-Unis: Chuck Schumer contesté à la tête des démocrates au Sénat après les midterms",
       "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261124-%C3%A9tats-unis-chuck-schumer-contest%C3%A9-%C3%A0-la-t%C3%AAte-des-d%C3%A9mocrates-au-s%C3%A9nat-apr%C3%A8s-les-midterms",
       "date": "Tue, 24 Nov 2026 21:30:18 GMT",
       "description": "Après leur victoire historique aux élections de mi-mandat, les démocrates américains se préparent à prendre le contrôle du Congrès. Si Hakeem Jeffries reste à la tête du groupe démocrate à la Chambre des représentants, Chuck Schumer fait face à une concurrence grandissante au Sénat, où les appels à un changement de direction se multiplient.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Face à l’aggravation des tensions en mer, les marines occidentales dans l’urgence de la guerre des drones",
-      "link": "https://www.lefigaro.fr/international/face-a-l-aggravation-des-tensions-en-mer-les-marines-occidentales-dans-l-urgence-de-la-guerre-des-drones-20261124",
-      "date": "Tue, 24 Nov 2026 21:30:00 +0100",
-      "description": "DÉCRYPTAGE - La marine française développe plusieurs programmes, comme Smokers ou Danaé, pour compléter sa flotte par des drones.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -336,15 +416,7 @@
       "date": "Tue, 24 Nov 2026 21:19:42 GMT",
       "description": "Le cours de l'action de Nvidia a chuté de 7% alors que les législateurs demandent des réponses sur l'implication du président Donald Trump dans la réintégration de Huang.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Comment le brouillage GPS affecte les trafics aériens et maritimes dans la mer Baltique",
-      "link": "https://www.lefigaro.fr/sciences/comment-le-brouillage-gps-affecte-les-trafics-aeriens-et-maritimes-dans-la-mer-baltique-20261124",
-      "date": "Tue, 24 Nov 2026 21:15:00 +0100",
-      "description": "DÉCRYPTAGE - Depuis l’attaque de drones ukrainiens contre des navires russes, le nombre d’avions perturbés par les brouillages a triplé en une semaine.",
-      "source": "Le Figaro",
-      "category": "France"
+      "category": "Technologie"
     },
     {
       "title": "Les jets russes déclenchent une alerte aérienne en Corée du Sud",
@@ -435,14 +507,6 @@
       "category": "Monde"
     },
     {
-      "title": "Situation d ' hostilité signalée en Colombie par des hommes armés qui fuient dans un supermarché",
-      "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 21:04:46 +0000",
-      "description": "Le président Abelardo de la Espriella dit que la police et l'armée ont été déployées au fur et à mesure que la situation se déroule à Cartagena.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Les équipes se verrouillent dans l'architecture de mission pour la liberté SR-1 de NASA",
       "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
       "date": "Tue, 24 Nov 2026 21:04:32 +0000",
@@ -467,28 +531,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Le médecin brésilien utilise la planche de surf et le lugehammer dans le sauvetage des inondations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-      "date": "Tue, 24 Nov 2026 20:58:41 +0000",
-      "description": "Un médecin brésilien est salué comme un héros après avoir sauvé un vieil homme de graves inondations à l'aide d'une planche de surf",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "TGV Atlantique : la SNCF dégaine 300 millions d’euros pour rénover le réseau",
       "link": "https://www.liberation.fr/economie/transports/tgv-atlantique-la-sncf-degaine-300-millions-deuros-pour-renover-le-reseau-20261124_ISIUCJ3TVVDCLJYBUF6YALO6OM/",
       "date": "Tue, 24 Nov 2026 20:55:55 +0000",
       "description": "La compagnie entend notamment remplacer 28 des 105 rames qui desservent l’Ouest et le Sud-Ouest, afin de faire face à ses concurrents qui pourront exploiter l’axe dès 2028.",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Jensen Huang dit au personnel que Nvidia n'a pas besoin d'un plan de relève",
-      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "date": "Tue, 24 Nov 2026 20:42:07 GMT",
-      "description": "Directeur général de Nvidia Jensen Huang a démissionné après plusieurs affaires rapportées, dont une avec une femme d'affaires chinoise qui est présumée être un espion pour Pékin.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Qu'est-ce qui se passe avec l'hypothèse de Riemann ?",
@@ -521,6 +569,14 @@
       "description": "La Force aérienne a récemment signé un contrat de près de 50 millions de dollars pour renforcer sa collecte de données météorologiques grâce à une entreprise qui a trouvé un moyen de lancer rapidement et à bon marché des milliers de ballons météorologiques plus légers que l'air, autonomes et de longue durée. Le post Air Force Signs $48.7M Deal for Weather Data de ‘Balloons with Brains' est apparu en premier sur Air & Space Forces Magazine .",
       "source": "Air & Space Forces Magazine",
       "category": "Défense"
+    },
+    {
+      "title": "Présidentielle 2027 : le camp d’Édouard Philippe pointe le « flou » de David Lisnard face à « l’extrême droite »",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-camp-d-edouard-philippe-pointe-le-flou-de-david-lisnard-face-a-l-extreme-droite-20261124",
+      "date": "Tue, 24 Nov 2026 20:30:00 +0100",
+      "description": "RÉCIT - Pris de court par la percée du candidat libéral de Nouvelle Énergie, l’ancien premier ministre l’a appelé mardi, depuis le Salon des maires, à clarifier sa position vis-à-vis du RN. Sans l’exclure d’un éventuel rassemblement de la droite et du centre.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Huang dit qu'il ne croit toujours pas à la planification de la relève à Nvidia",
@@ -595,14 +651,6 @@
       "category": "France"
     },
     {
-      "title": "Parmi les mers les plus polluées, la Baltique menacée par un scénario catastrophe après des opérations militaires ukrainiennes ?",
-      "link": "https://www.lefigaro.fr/sciences/parmi-les-mers-les-plus-polluees-la-baltique-menacee-par-un-scenario-catastrophe-apres-des-operations-militaires-ukrainiennes-20261124",
-      "date": "Tue, 24 Nov 2026 19:57:42 +0100",
-      "description": "DÉCRYPTAGE - L’extension des opérations attribuées à l’Ukraine jusqu’au golfe de Finlande fait peser un risque supplémentaire sur un écosystème déjà fragilisé.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "La Garde côtière teste les capacités du nouveau brise-glace avec une mission de 5 mois dans l'Arctique",
       "link": "https://www.defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission/",
       "date": "Tue, 24 Nov 2026 19:57:33 +0000",
@@ -641,6 +689,14 @@
       "description": "L'alerte exhorte l'industrie à réagir immédiatement et à réduire les opportunités pour les acteurs hostiles d'identifier votre organisation ou les gens comme cibles, de mener des reconnaissances hostiles, et d'attaquer des personnes, des sites ou des opérations.",
       "source": "Breaking Defense",
       "category": "Défense"
+    },
+    {
+      "title": "« C’est celui qui nous fait le plus peur » : au Rassemblement national, la percée de David Lisnard inquiète",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/c-est-celui-qui-nous-fait-le-plus-peur-au-rassemblement-national-la-percee-de-david-lisnard-inquiete-20261124",
+      "date": "Tue, 24 Nov 2026 19:28:31 +0100",
+      "description": "DÉCRYPTAGE - Depuis quelques jours, Marine Le Pen, Jordan Bardella et leurs proches ont sorti l’artillerie lourde contre le maire de Cannes, en dynamique dans les sondages.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Gold fait quelque chose d'étrange. Voici une façon de jouer",
@@ -705,22 +761,6 @@
       "description": "\"Chaque salarié de nuit sera reçu par sa hiérarchie d'ici à la fin du mois de novembre\", précise l'entreprise dans son communiqué. Les syndicats estiment que les intérimaires sont \"sacrifiés\" par cette décision.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "Leipzig-Lens : les Sang et Or concèdent une nouvelle défaite et voient la qualification pour les seizièmes de finale s’éloigner",
-      "link": "https://www.lemonde.fr/sport/live/2026/11/24/en-direct-leipzig-lens-suivez-le-match-de-ligue-des-champions-de-football_6814834_3242.html",
-      "date": "Tue, 24 Nov 2026 19:00:05 +0100",
-      "description": "Les Lensois se sont inclinés (3-1) sur la pelouse du RB Leipzig, mardi 24 novembre, lors de la cinquième journée de la phase de ligue de la Ligue des champions. Cette quatrième défaite en cinq matchs amoindrit leurs chances de qualification pour les seizièmes de finale de la compétition.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Les plus grandes limitations de ChatGPT",
-      "link": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
-      "date": "Tue, 24 Nov 2026 19:00:00 +0000",
-      "description": "Voici pourquoi payer pour un plan ChatGPT premium ne vous protégera pas de ses plus grandes faiblesses, et ce que cela signifie pour faire confiance au chatbot avec votre travail.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "iRestore Elite Système de croissance des cheveux au laser Avis : approuvé par le mari",
@@ -819,22 +859,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Comment les brasseurs peuvent protéger les bières du houblon contaminé par la fumée",
-      "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-      "date": "Tue, 24 Nov 2026 18:18:37 +0000",
-      "description": "Étude : Les brasseurs peuvent encore utiliser jusqu'à 50% de houblon contaminé par la fumée sans affecter le goût et l'arôme de la bière.",
-      "source": "Ars Technica",
-      "category": "Technologie"
-    },
-    {
-      "title": "GTA 6 streaming en nuage vient à PS5 et PlayStation Portal",
-      "link": "https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/",
-      "date": "Tue, 24 Nov 2026 18:15:41 +0000",
-      "description": "Vous n'avez plus besoin de libérer 212 Go sur votre PS5 pour le blockbuster de Rockstar.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Le cuivre montre comment l'IA se débrouille avec les marchés",
       "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
       "date": "Tue, 24 Nov 2026 18:12:38 +0000",
@@ -859,14 +883,6 @@
       "category": "France"
     },
     {
-      "title": "Moyens que vous pouvez aider votre sonnette de porte vidéo rester chargé en hiver",
-      "link": "https://www.engadget.com/2324749/video-doorbell-winter-charging-tips/",
-      "date": "Tue, 24 Nov 2026 18:00:00 +0000",
-      "description": "Une batterie de sonnettes mortes pourrait signifier des visites manquées ou des livraisons. Apprenez comment préparer votre sonnette vidéo alimentée par batterie aux défis de la météo hivernale.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "\"Mayotte appelle au secours, encore et encore !\" : la députée Estelle Youssouffa interpelle le ministre de l'Intérieur à l'Assemblée nationale",
       "link": "https://la1ere.franceinfo.fr/mayotte/mayotte-appelle-au-secours-encore-et-encore-estelle-youssouffa-interpelle-le-ministre-de-l-interieur-a-l-assemblee-nationale-1761155.html#xtor=RSS-3-[lestitres]",
       "date": "Tue, 24 Nov 2026 17:51:29 +0100",
@@ -886,9 +902,25 @@
       "title": "La Cour européenne estime que les États peuvent faire reculer les migrants dans certains cas",
       "link": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Tue, 24 Nov 2026 17:43:00 GMT",
-      "description": "La Cour suprême des droits de l'homme de l'Europe a décidé que les États membres pouvaient refouler les migrants à moins qu'ils n'aient été identifiés comme des personnes qui risquaient de souffrir ou de subir des mauvais traitements.",
+      "description": "La Cour suprême des droits de l'homme de l'Europe a décidé que les États membres pouvaient faire reculer les migrants à moins qu'ils n'aient été identifiés comme des personnes risquant de souffrir.",
       "source": "Deutsche Welle",
       "category": "Monde"
+    },
+    {
+      "title": "Thomas Markle formellement inculpé aux États-Unis pour possession de matériel d'abus sexuel sur enfants",
+      "link": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+      "date": "Tue, 24 Nov 2026 17:43:00 +0000",
+      "description": "Thomas Markle a été inculpé pour deux chefs d'accusation de possession de matériel d'abus sexuel sur enfants à Los Angeles.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
+      "title": "Lynx KF41 Véhicules de combat, nouvellement arrivés en Ukraine, prendra la mission contre-drone",
+      "link": "https://www.twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
+      "date": "Tue, 24 Nov 2026 17:39:54 -0500",
+      "description": "Les véhicules fabriqués par l'Allemagne arrivent en Ukraine car le rôle de l'armure a été considérablement diminué, mais pas éliminé. The post Lynx KF41 Véhicules de combat, nouvellement arrivé en Ukraine, va prendre la mission contre-drone est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
     },
     {
       "title": "L'armée nous a dit comment elle se bat. On ne peut pas faire ça dans un réservoir analogique.",
@@ -897,14 +929,6 @@
       "description": "Des décennies d'améliorations ont poussé le réservoir d'Abrams à ses limites. Une refonte générationnelle est la seule façon d'aller de l'avant, affirme un ancien général trois étoiles.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "California « marées de king » test de stress San Francisco comme zones basses inondations",
-      "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-      "date": "Tue, 24 Nov 2026 17:17:59 GMT",
-      "description": "Des relevés mensuels des marées ont été établis à travers la ville, certains devant frapper encore plus haut demain. Que savoir des inondations en Californie au-dessus de Thanksgiving La Californie est aux prises avec l'épreuve de stress de marées records ou proches de marées records en novembre cette semaine, avec l'inondation de routes basses à San Francisco et l'évacuation d'une communauté dans le nord de la Californie. Le premier de l'année est le plus élevé",
-      "source": "The Guardian",
-      "category": "Environnement"
     },
     {
       "title": "Mort de Nahel : la réaction de la famille après le pourvoi en cassation du policier mis en cause",
@@ -1019,6 +1043,14 @@
       "category": "Monde"
     },
     {
+      "title": "Seoul Scrambles F-15Ks Comme les avions de guerre russes arrivent en quelques secondes de traverser l'espace aérien sud-coréen",
+      "link": "https://www.twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
+      "date": "Tue, 24 Nov 2026 16:24:50 -0500",
+      "description": "La présence des Tu-160 russes et des escortes de chasseurs a déclenché un ordre de refuge pour les résidents sud-coréens. Le post Séoul Scrambles F-15Ks Comme les avions de guerre russes viennent en quelques secondes de traverser dans l'espace aérien sud-coréen est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
+    },
+    {
       "title": "Nombre record de décès liés à la chaleur estimé en Angleterre cette année",
       "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 24 Nov 2026 16:22:16 GMT",
@@ -1121,6 +1153,14 @@
       "description": "Nous lançons de plus en plus de choses dans l'espace. À l'heure actuelle, les agences spatiales suivent plus de 30 000 objets de plus qu'une balle, avec un million de débris de plus en orbite autour de la Terre qui sont trop petits pour être repérés du sol. Les organismes gouvernementaux et les entités commerciales privées prévoient d'avoir jusqu'à 100 000 engins spatiaux actifs en orbite d'ici le début des années 2030, transformant certains obus orbitaux en bombes bondées",
       "source": "Universe Today",
       "category": "Exploration"
+    },
+    {
+      "title": "Jusqu’à 15 millions de dollars de gains : jackpot pour Donald Trump après le retour de Jensen Huang à la tête de Nvidia",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/jusqu-a-15-millions-de-dollars-de-gains-jackpot-pour-donald-trump-apres-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261124",
+      "date": "Tue, 24 Nov 2026 15:38:39 +0100",
+      "description": "La réintégration de l’emblématique patron à la tête du géant des puces, orchestrée par Donald Trump, a fait s’envoler l’action Nvidia de 31,5% lundi et regagner 950 milliards de dollars de capitalisation au groupe. Un rebond potentiellement juteux pour… le président américain lui-même.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Royaume-Uni-Construire le télescope X-Ray prêt à agir à Mercure",
@@ -1235,6 +1275,14 @@
       "category": "Sciences"
     },
     {
+      "title": "FireAnt Mini Véhicules au sol débusqués Déploiement Capteurs de détection de drones aux États-Unis",
+      "link": "https://www.twz.com/land/fireant-mini-uncrewed-ground-vehicles-deploy-drone-detection-sensors-in-u-s-army-test",
+      "date": "Tue, 24 Nov 2026 14:19:27 -0500",
+      "description": "L'armée a une demande claire pour placer des capteurs dans des zones avant très hostiles, et de petits robots comme FireAnt pourraient être une aide énorme. Le poste FireAnt Mini Véhicules terrestres débusqués Déploiement de détecteurs de drones dans l'armée américaine Test apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
+    },
+    {
       "title": "Inculpation de meurtre réintégrée pour un policier français à Teen.",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
       "date": "Tue, 24 Nov 2026 14:13:17 +0000",
@@ -1243,12 +1291,12 @@
       "category": "Monde"
     },
     {
-      "title": "Les lasers spatiaux sont rapides, mais les nuages règlent toujours les prévisions",
-      "link": "https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast",
-      "date": "Tue, 24 Nov 2026 14:02:17 +0000",
-      "description": "Depuis le lancement de Spoutnik, l'humanité a parlé à son vaisseau spatial par ondes radio. La radio est excellente pour la communication par tous les temps, mais elle a atteint une limite – les radiofréquences traditionnelles sont fortement réglementées par des organismes comme l'Union internationale des télécommunications, qui limite l'évolutivité des réseaux de radiocommunications pour répondre à la demande croissante de bande passante vers et depuis l'espace. La solution évidente est de passer à infrarouge",
-      "source": "Universe Today",
-      "category": "Exploration"
+      "title": "Suède Les gripens font de grandes choses avec une petite empreinte en Pologne",
+      "link": "https://www.twz.com/air/swedens-tiny-gripen-fighter-detachment-takes-on-a-big-nato-role",
+      "date": "Tue, 24 Nov 2026 13:34:08 -0500",
+      "description": "La Suède étend ses opérations de chasse dispersées dans l'ensemble de l'OTAN, et un élément de soutien avancé de taille de poche en Pologne rédige le manuel. L'article Suède Les gripens font de grandes choses avec une petite empreinte en Pologne est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
     },
     {
       "title": "Bayraktar AKINCI effectue le premier essai de libération de torpilles ORKA",
@@ -1265,6 +1313,14 @@
       "description": "Pour les mathématiciens, c'est la percée d'une vie. Pour les cryptographes, c'est plutôt comme d'habitude",
       "source": "Scientific American",
       "category": "Sciences"
+    },
+    {
+      "title": "Turquie Kizillma Fighter Drone déclaré opérationnel",
+      "link": "https://www.twz.com/air/turkish-kizilelma-fighter-drone-declared-operational",
+      "date": "Tue, 24 Nov 2026 13:10:10 -0500",
+      "description": "Baykar était très tôt à la fête du « drone de combat », avec de multiples armes aériennes poursuivant maintenant des capacités similaires dans le monde entier. Le post turc Kizilma Fighter Drone Déclaré opérationnel est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
     },
     {
       "title": "Le téléchargement: Le boom de la puissance de gaz de l'AIS et un contrôle de la réalité de conscience",
@@ -1851,14 +1907,6 @@
       "category": "Technologie"
     },
     {
-      "title": "À l'intérieur de la salle de guerre, Trump a fait pression pour ramener Jensen Huang",
-      "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
-      "date": "Mon, 23 Nov 2026 22:46:14 GMT",
-      "description": "Silicone Valley titans a engagé le président américain et JD Vance pour sauver le chef de la technologie milliardaire qu'ils considéraient comme critique pour l'industrie de l'IA",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "L'équipe de démonstration F-35 revient à Luke avant la saison 2027",
       "link": "https://www.airandspaceforces.com/f-35-demo-team-returns-to-luke-2027-season/",
       "date": "Mon, 23 Nov 2026 21:33:45 +0000",
@@ -1939,6 +1987,14 @@
       "category": "Économie"
     },
     {
+      "title": "L'Ukraine a-t-elle utilisé un vaisseau mère pour lancer son attaque de drone sur des navires russes à Benghazi?",
+      "link": "https://www.twz.com/sea/did-ukraine-use-a-mothership-to-launch-its-sea-drone-attack-on-russian-ships-in-benghazi",
+      "date": "Mon, 23 Nov 2026 17:12:53 -0500",
+      "description": "Un navire-mère clandestin donnerait à l'Ukraine la possibilité d'étendre les attaques contre les navires russes loin de la mer Noire. L'Ukraine a-t-elle utilisé un vaisseau mère pour lancer son attaque de drone sur les navires russes à Benghazi ? est apparu en premier sur TWZ .",
+      "source": "The War Zone",
+      "category": "Défense"
+    },
+    {
       "title": "Sous-marin trouve monde plus profond activité volcanique explosive dans la tranchée Mariana",
       "link": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Mon, 23 Nov 2026 17:00:00 +0000",
@@ -2009,14 +2065,6 @@
       "description": "Les entreprises technologiques investissent beaucoup d'espoir et d'argent dans les roches. Google, Microsoft et d'autres ont engagé des centaines de millions de dollars pour obtenir des startups pour répandre le basalte écrasé, l'olivine, ou d'autres matériaux alcalins dans les fermes, dans un effort pour capturer le carbone de l'air et le verrouiller loin. Plusieurs modèles influents...",
       "source": "MIT Technology Review",
       "category": "Technologie"
-    },
-    {
-      "title": "Un incendie mortel à l'usine de confiserie tue 24 sauveteurs à la recherche de dizaines de disparus",
-      "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
-      "date": "Mon, 23 Nov 2026 10:52:00 +0000",
-      "description": "Un incendie mortel qui a déchiré une usine de confiserie en Indonésie a fait 24 morts, 34 autres disparus.",
-      "source": "Sky News",
-      "category": "Monde"
     },
     {
       "title": "Le monde n'a pas besoin d'énergie solaire ou éolienne — il a besoin des deux",
@@ -2195,10 +2243,18 @@
       "category": "Environnement"
     },
     {
+      "title": "Pourquoi l'armée américaine va faire exploser près de 10 000 livres d'explosifs instables en Iowa",
+      "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "date": "2026-11-24T18:25:46-05:00",
+      "description": "L'armée américaine va de l'avant avec des plans visant à faire exploser le stock national d'azide de plomb dans une usine de munitions à Middletown, en Iowa, vers 9h00, mercredi. Le Verge a contacté les experts sur ce à quoi s'attendre, et tiendra cet article à jour. Quel matériel l'armée prévoit-elle faire exploser ? Il y a [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Huawei reconnu coupable de vol de secrets commerciaux",
       "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
       "date": "2026-11-24T17:23:27-05:00",
-      "description": "Un jury a déclaré Huawei coupable de vol de secrets commerciaux américains, selon des rapports de NBC News et Bloomberg. Le verdict, rendu devant un tribunal fédéral à New York, conclut une bataille juridique d'années qui a accusé le géant chinois des télécommunications de voler le code source et la technologie exclusive de plusieurs entreprises, dont T-Mobile, Cisco, et [...]",
+      "description": "Un jury a déclaré Huawei coupable de vol de secrets commerciaux américains, comme l'ont rapporté NBC News et Bloomberg. Le verdict, rendu devant un tribunal fédéral à New York, conclut une bataille juridique d'années qui a accusé le géant chinois des télécommunications de voler le code source et la technologie exclusive de plusieurs entreprises, dont T-Mobile, Cisco, et [...]",
       "source": "The Verge",
       "category": "Technologie"
     },
@@ -2231,14 +2287,6 @@
       "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "date": "2026-11-24T15:02:03-05:00",
       "description": "Jensen Huang, PDG de Nvidia, s'est excusé auprès du personnel durant ses premières activités depuis son retour dans l'entreprise, tout en tentant de s'éloigner du récit selon lequel la Maison Blanche et les dirigeants de la technologie l'ont aidé à retrouver son emploi, selon les rapports de Bloomberg, The New York Times et The Handbasket's Marisa Kabas. Au cours de la réunion, Huang [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "L'horloge est à court pour l'Amérique la loi d'espionnage la plus controversée",
-      "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-      "date": "2026-11-24T15:00:00-05:00",
-      "description": "Des semaines avant la fin de la session législative, certains membres du Congrès s'affrontent pour réautoriser une autorité d'écoute électronique sans mandat controversée, peut-être en l'attachant à un projet de loi de dépenses militaires incontournable. Le Sen. Mike Rounds (R-SD) a déclaré à Politico que l'article 702 de la loi sur la surveillance du renseignement étranger (FISA) pouvait être joint à l'autorisation de la Défense nationale [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
