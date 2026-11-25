@@ -1,30 +1,222 @@
 {
-  "updated_at": "2026-11-25T13:07:45.830517+00:00",
-  "count": 280,
+  "updated_at": "2026-11-25T14:32:02.694242+00:00",
+  "count": 281,
   "articles": [
     {
-      "title": "Présidentielle 2027 : le 2 mai reste la meilleure option pour le second tour, estime le porte-parole du gouvernement",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-2-mai-reste-la-meilleure-option-pour-le-second-tour-estime-le-porte-parole-du-gouvernement-20261125",
-      "date": "Wed, 25 Nov 2026 14:05:33 +0100",
-      "description": "Plusieurs candidats à l’Élysée et le président du Sénat plaident pour un scrutin avancé d’une semaine, redoutant notamment des débordements lors des manifestations de la fête du Travail.",
+      "title": "EN DIRECT - Présidentielle 2027 : Jean-Philippe Tanguy accuse David Lisnard de «raconter tout et le contraire de tout»",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125",
+      "date": "Wed, 25 Nov 2026 15:26:03 +0100",
+      "description": "Le député Rassemblement national appelle le candidat à la présidentielle, qui vient d’être réélu à la tête des maires de France, à «sortir de l’ambiguïté sur beaucoup de sujets».",
       "source": "Le Figaro",
       "category": "France"
     },
     {
-      "title": "\"C'est la défaite des ingérences\", se félicite David Lisnard, candidat à la présidentielle et largement réélu à la tête de l'AMF",
+      "title": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment contre l’UE et la Chine, malgré la claque électorale",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
+      "date": "Wed, 25 Nov 2026 15:04:49 +0100",
+      "description": "L’administration américaine a annoncé, mercredi 25 novembre, la mise en place de nouvelles taxes sur les importations qui affectent 14 partenaires commerciaux des Etats, dont l’Union européenne et la Chine.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : Teddy Riner revendique plus d'une centaine de parrainages pour sa candidature",
       "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 25 Nov 2026 14:00:12 +0100",
-      "description": "Le maire Nouvelle Energie de Cannes (Alpes-Maritimes) affrontait Philippe Laurent, élu UDI de Sceaux (Hauts-de-Seine). Il est reconduit pour un troisième mandat.",
+      "date": "Wed, 25 Nov 2026 15:03:43 +0100",
+      "description": "Le judoka s'exprimait depuis le congrès de l'Association des maires de France, à Paris.",
       "source": "franceinfo",
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : Jean-Philippe Tanguy accuse David Lisnard de «raconter tout et le contraire de tout»",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125",
-      "date": "Wed, 25 Nov 2026 13:59:30 +0100",
-      "description": "Le député Rassemblement national appelle le candidat à la présidentielle, qui vient d’être réélu à la tête des maires de France, à «sortir de l’ambiguïté sur beaucoup de sujets».",
+      "title": "Union européenne, Chine, Mexique… Washington annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux",
+      "link": "https://www.lefigaro.fr/conjoncture/union-europeenne-chine-mexique-washington-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-20261125",
+      "date": "Wed, 25 Nov 2026 15:03:15 +0100",
+      "description": "Ces nouvelles surtaxes, qui s’ajoutent à celles annoncées fin juillet au prétexte de lutter contre le travail forcé, concluent une enquête lancée en mars dernier.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Très peu d'enseignants accusés de complicité dans des violences en marge des mobilisations lycéennes, révèle un document interne du gouvernement",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tres-peu-d-enseignants-accuses-de-complicite-dans-des-violences-en-marge-des-mobilisations-lyceennes-revele-un-document-interne-du-gouvernement_8299731.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 25 Nov 2026 14:43:26 +0100",
+      "description": "Ce document, consulté par franceinfo, liste une dizaine de cas de personnels accusés de complicité, mais seulement quelques-uns aboutissent à des poursuites judiciaires.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "\"C'est le fruit de la mobilisation d'une France de terrain\" : David Lisnard, candidat à la présidentielle, est réélu à la tête de l'Association des maires de France",
+      "link": "https://www.franceinfo.fr/politique/david-lisnard/c-est-le-fruit-de-la-mobilisation-d-une-france-de-terrain-david-lisnard-candidat-a-la-presidentielle-est-reelu-a-la-tete-de-l-association-des-maires-de-france_8299698.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 25 Nov 2026 14:39:48 +0100",
+      "description": "Le candidat du parti libéral Nouvelle Energie, qui a récolté 72% des voix, est élu pour un troisième mandat.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "«Ce n’est pas à lui de choisir ses adversaires» : la riposte de Bruno Retailleau après la proposition d’Édouard Philippe de débattre avec David Lisnard",
+      "link": "https://www.lefigaro.fr/politique/ce-n-est-pas-a-lui-de-choisir-ses-adversaires-la-riposte-de-retailleau-apres-la-proposition-de-philippe-de-debattre-avec-lisnard-20261125",
+      "date": "Wed, 25 Nov 2026 14:31:40 +0100",
+      "description": "INFO LE FIGARO - Face au refus du maire havrais de la primaire, le candidat Les Républicains continue de militer pour une compétition ouverte.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Jensen Huang dit au personnel que Nvidia n'a pas besoin d'un plan de relève",
+      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "date": "Wed, 25 Nov 2026 14:29:50 GMT",
+      "description": "Directeur général de Nvidia Jensen Huang a démissionné après plusieurs affaires rapportées, dont une avec une femme d'affaires chinoise qui est présumée être un espion pour Pékin.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "«Il était dans le bateau» : les troublantes accointances du procureur Christian de Rocquigny avec le RN",
+      "link": "https://www.liberation.fr/societe/police-justice/il-etait-dans-le-bateau-les-troublantes-accointances-du-procureur-christian-de-rocquigny-avec-le-rn-20261125_7RQJAYQEVFERZBMFPAGYZYMDMQ/",
+      "date": "Wed, 25 Nov 2026 14:20:53 +0000",
+      "description": "Au cœur d’une polémique depuis la révélation de sa présence au siège du parti frontiste lors d’une perquisition, le magistrat est désormais visé par une enquête administrative. Si rien ne permet à ce stade de l’incriminer, la nature de ses liens avec l’extrême droite interroge.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Todoist confirme que 6% des clients ont été volés en violation de données",
+      "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "date": "Wed, 25 Nov 2026 14:20:28 +0000",
+      "description": "Todoist a déclaré qu'un hacker a obtenu l'accès à ses systèmes de production et a volé les données des clients, y compris les identifiants de courriel, les hachages de mot de passe et les dates de création de compte.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'indice d'inflation préféré de la Fed s'est accéléré à 3,8% en octobre, ce qui a augmenté les participations de la banque centrale en 2027.",
+      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "date": "Wed, 25 Nov 2026 14:18:45 GMT",
+      "description": "Selon le consensus de Dow Jones, l'indice des prix des dépenses de consommation personnelle devrait afficher un taux d'inflation annuel de 3,8 % en octobre.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "La vente des stocks américains s'accélère au fur et à mesure que les échanges d'IA se font.",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "date": "Wed, 25 Nov 2026 14:18:05 GMT",
+      "description": "Nasdaq 100, lourd de technologie, devrait chuter de plus de 3% à mesure que la diapositive durera des semaines.",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "\"J'espère que ça ne montera pas plus\" : la Côte d'Azur une nouvelle fois sous les eaux, les habitants d'une commune du Var tentent de faire avec les inondations",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/la-cote-d-azur-sous-les-eaux-des-sacs-de-sable-au-paddle-les-habitants-d-une-commune-du-var-tentent-de-faire-avec-les-inondations_8299611.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 25 Nov 2026 14:17:20 +0100",
+      "description": "Le Var et les Alpes-Maritimes sont toujours en vigilance orange mercredi. Les routes sont complètement inondées et plusieurs écoles ont fermé. Dans le golfe de Saint-Tropez, il est tombé en quelques heures l'équivalent d'un mois de pluie, et de nouvelles précipitations sont attendues.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Les États-Unis proposent de nouveaux tarifs pour 14 partenaires commerciaux, y compris la Chine, le Japon et l'UE – entreprises en direct",
+      "link": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+      "date": "Wed, 25 Nov 2026 14:16:54 GMT",
+      "description": "De nouveaux tarifs prévus par l'administration Trump s'attaquent aux « pratiques commerciales déloyales » Hannah Webster , économiste senior au think tank New Economics Foundation , a également appelé à d'autres mesures. L'augmentation du plafonnement des prix sera difficile à supporter pour les ménages, surtout en hiver où nos besoins énergétiques et nos factures sont plus élevés. Les mesures de soutien actuelles du gouvernement ne correspondent pas à la réalité de l'augmentation des coûts et de la compression des ménages",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "Cinq générateurs solaires vont pour des réductions profondes sur Black Friday",
+      "link": "https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday/",
+      "date": "Wed, 25 Nov 2026 14:15:20 +0000",
+      "description": "Économisez de 20 à 40 pour cent sur les modèles Anker, EcoFlow et plus.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Propos racistes et salut nazi dans une école de police : le «lanceur d’alerte» mis en cause lui aussi pour des propos problématiques",
+      "link": "https://www.liberation.fr/societe/police-justice/propos-racistes-et-salut-nazi-dans-une-ecole-de-police-le-lanceur-dalerte-mis-en-cause-lui-aussi-pour-des-propos-problematiques-20261125_PLEMWJ6S2NF65HOWYN4PYB6VNI/",
+      "date": "Wed, 25 Nov 2026 14:13:20 +0000",
+      "description": "Dans «le Parisien» ce mercredi 25 novembre, le directeur de l’école nationale supérieure de la police située à Cannes, David Le Bars, réfute la version de l’élève officier qui a révélé les messages des groupes de discussion de sa promo.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Amazon et Meta auraient discuté pour lever le blocus sur l'agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "date": "Wed, 25 Nov 2026 14:10:18 +0000",
+      "description": "Amazon et Meta discutent d'un accord potentiel qui mettrait fin à un blocus de deux mois de Muse.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Pour soutenir la souveraineté sanitaire, le prix du paracétamol sera augmenté au 1er juillet 2027",
+      "link": "https://www.liberation.fr/societe/sante/pour-soutenir-la-souverainete-sanitaire-le-prix-du-paracetamol-sera-augmente-au-1er-juillet-2027-20261125_JV7VLSSQMZDKXGBLLOHUG7JMFA/",
+      "date": "Wed, 25 Nov 2026 14:10:05 +0000",
+      "description": "Le comité économique des produits de santé, chargé de fixer les prix des médicaments a annoncé ce mercredi 25 novembre que les comprimés de paracétamol fabriqués en France augmenteront de 7 centimes l’été prochain.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Détonation au plomb de l'Iowa : l'armée américaine fait exploser des produits chimiques de fabrication de bombes malgré les préoccupations - mises à jour en direct",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+      "date": "Wed, 25 Nov 2026 14:09:10 GMT",
+      "description": "L'armée prévoit de faire exploser 68 barils contenant près de 9 500 livres d'azide de plomb malgré l'inquiétude du public quant aux effets potentiels sur la santé et l'environnement Inscrivez-vous à l'article Breaking News US email L'armée américaine a publié de nouvelles cartes montrant la trajectoire projetée d'un panache de poussière de plomb toxique provenant de la détonation prévue de 68 barils – cinq tonnes – d'axide de plomb dans une décharge de munitions de l'Iowa. Des projections montrent un panache se déplaçant au sud-ouest des munitions de l'armée de l'Iowa",
+      "source": "The Guardian",
+      "category": "Environnement"
+    },
+    {
+      "title": "Des touristes suisses tués et des Britanniques et des Américains blessés par des éléphants au Cameroun",
+      "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+      "date": "Wed, 25 Nov 2026 14:03:18 GMT",
+      "description": "Alain Throo, directeur des assurances basé à Londres, aurait perdu la vie et serait décédé en randonnée près du parc national du Mont Cameroun Un touriste suisse a été tué et des touristes britanniques et américains ont été blessés lorsqu'un groupe de randonneurs a rencontré un troupeau d'éléphants au Cameroun. Le groupe de six touristes, quatre Britanniques, un Suisse et un Américain, accompagnés de guides locaux, se promenaient près du village de Bakingili, au sud du Mont.",
+      "source": "The Guardian",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis prévoient de nouveaux tarifs sur l'UE, la Chine et 12 autres pays",
+      "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 25 Nov 2026 14:02:00 GMT",
+      "description": "L'administration Trump prévoit de nouveaux droits à l'importation pouvant atteindre 20 % pour contrer la production excessive à l'étranger. Ces mesures pourraient exercer une pression supplémentaire sur les consommateurs américains déjà confrontés à des coûts de vie élevés.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Trump annonce une série de nouveaux tarifs sur les grandes économies",
+      "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+      "date": "Wed, 25 Nov 2026 14:00:55 GMT",
+      "description": "La Chine, l'UE, le Japon et la Corée du Sud seront touchés par les prélèvements alors que le président américain double la stratégie commerciale",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Congrès des maires : les candidats à la Présidentielle défilent en quête de parrainages",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261125-congr%C3%A8s-des-maires-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9filent-en-qu%C3%AAte-de-parrainages",
+      "date": "Wed, 25 Nov 2026 14:00:09 GMT",
+      "description": "Le 108e Congrès des maires de France s'est ouvert mardi 24 novembre à Paris sur fond de course à la présidentielle et de polémique autour de la double candidature du libéral David Lisnard, président de l'Association des maires de France (AMF), en lice pour un nouveau mandat, mais aussi pour l'Élysée. Les précisions de Karim Yahiaoui, journaliste à France 24.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
+      "title": "Comment le compositeur musical Galileo met la science à une partition sur Broadway",
+      "link": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway/",
+      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "description": "Le compositeur Zoe Sarnak met Galileo Galilei's histoire au son du rock et de la pop indie, et elle travaille sur une autre comédie musicale sur le boson Higgs",
+      "source": "Scientific American",
+      "category": "Sciences"
+    },
+    {
+      "title": "Regarder en direct : l'Europe dévoile la 1ère vue rapprochée de l'astéroïde Dimorphos après l'impact DART de la NASA",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "description": "L'ESA partagera les premières images d'astéroïde Dimorphos de la sonde Hera aujourd'hui après la mission historique de la NASA qui a touché la roche spatiale il y a deux ans.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "Comment un allié iranien a gagné la main dans la guerre du Yémen",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+      "date": "Wed, 25 Nov 2026 13:59:32 +0000",
+      "description": "Les Houthis soutenus par l'Iran sont sur une lancée gagnante, assurant un territoire stratégique alors qu'ils combattent l'Arabie saoudite et ses alliés yéménites dans une guerre asymétrique d'attrition.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Tous les otages secourus après le supermarché des forces de sécurité colombiennes, dit le président",
+      "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "date": "Wed, 25 Nov 2026 13:56:55 GMT",
+      "description": "L'opération au cours de laquelle un otage a été tué met fin au siège d'un jour dans le centre commercial de Cartagena, où 30 personnes ont été initialement détenues par la police colombienne, a pris l'assaut d'un supermarché dans l'une des villes touristiques les plus populaires du pays, mettant fin à un siège d'un jour où tous les otages ont été libérés et un otage a été tué. Abelardo de la Espriella, le président d'extrême droite, s'est rendu dans la ville portuaire caraïbe de Cartagena pour suivre la finale",
+      "source": "The Guardian",
+      "category": "Monde"
     },
     {
       "title": "David Lisnard largement réélu pour un troisième mandat à la tête des maires de France",
@@ -35,28 +227,60 @@
       "category": "France"
     },
     {
-      "title": "Urbanisation sans contrôle, mouillage des yachts, pêche intensive… LFI présente son plan pour en finir avec le \"saccage de la mer\"",
-      "link": "https://www.franceinfo.fr/elections/urbanisation-sans-controle-mouillage-des-yachts-peche-intensive-lfi-presente-son-plan-pour-en-finir-avec-le-saccage-de-la-mer_8299692.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 25 Nov 2026 13:53:56 +0100",
-      "description": "Pour Jean-Luc Mélenchon, \"les océans et les mers sont le cœur de la crise climatique mondiale et nous n'en avons vu que le début\". Plusieurs mesures ont été déclinées face aux \"grandes modifications climatiques qui vont s'annoncer\".",
-      "source": "franceinfo",
+      "title": "Les équipes syriennes nettoient les mines terrestres après une explosion meurtrière",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 13:51:15 +0000",
+      "description": "Les équipes syriennes nettoient les mines terrestres après une explosion meurtrière",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'administration Trump veut instaurer de nouveaux droits de douane contre ses principaux partenaires commerciaux",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261125-l-administration-trump-veut-instaurer-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux",
+      "date": "Wed, 25 Nov 2026 13:50:10 GMT",
+      "description": "Le gouvernement américain a annoncé, mercredi 25 novembre, une nouvelle série de droits de douane visant les produits exportés par ses principaux partenaires commerciaux, dont la Chine, l'Union européenne ou le Mexique, les accusant de soutenir leurs industries par des subventions qu'il juge illicites.",
+      "source": "RFI",
       "category": "France"
     },
     {
-      "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
-      "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 25 Nov 2026 13:50:11 +0100",
-      "description": "Le chef de l'État reçoit, mercredi, les syndicats et représentants des agriculteurs, notamment pour faire le point sur le prochain budget européen dont dépendra la Politique agricole commune.",
-      "source": "franceinfo",
+      "title": "Ascensoriste tué lors d’une réparation en Seine-Saint-Denis : enquête ouverte pour homicide involontaire",
+      "link": "https://www.liberation.fr/societe/ascensoriste-tue-lors-dune-reparation-en-seine-saint-denis-enquete-ouverte-pour-homicide-involontaire-20261125_FVDOXGYIXJD5DJNZOGIMJJVH2I/",
+      "date": "Wed, 25 Nov 2026 13:49:24 +0000",
+      "description": "La justice a annoncé ce mercredi 25 novembre le lancement d’une procédure après qu’un câble, destiné à maintenir temporairement l’ascenseur s’est rompu, entraînant la mort lundi d’un technicien de 52 ans à Épinay-sur-Seine.",
+      "source": "Libération",
       "category": "France"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : le Kremlin refuse de commenter le bilan estimé de 500 000 à 700 000 soldats russes tués en Ukraine",
       "link": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-le-kremlin-refuse-de-commenter-le-bilan-estime-de-500-000-soldats-russes-tues-en-ukraine_6814183_3210.html",
       "date": "Wed, 25 Nov 2026 13:48:05 +0100",
-      "description": "« Le seul à pouvoir officiellement rendre publics des données sur les pertes est le ministère de la défense de la Fédération de Russie », a déclaré son porte-parole, Dmitri Peskov, lors de son briefing quotidien. « Je suggère de ne prêter attention à aucune autre donnée », a-t-il ajouté, en référence aux récentes estimations fondées sur des données piratées de statistiques officielles.",
+      "description": "« Le seul à pouvoir officiellement rendre publiques des données sur les pertes est le ministère de la défense de la Fédération de Russie », a déclaré son porte-parole, Dmitri Peskov, lors de son briefing quotidien. « Je suggère de ne prêter attention à aucune autre donnée », a-t-il ajouté, en référence aux récentes estimations fondées sur des données piratées de statistiques officielles.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Israël : un projet de loi pour créer une commission d’enquête sur le 7 Octobre franchit un premier obstacle au Parlement",
+      "link": "https://www.liberation.fr/international/moyen-orient/israel-un-projet-de-loi-pour-creer-une-commission-denquete-sur-le-7-octobre-franchit-un-premier-obstacle-au-parlement-20261125_L7L2HERAWBGPJJVYO3BWQ52ASU/",
+      "date": "Wed, 25 Nov 2026 13:48:01 +0000",
+      "description": "Ce projet de loi, présenté par le parti du principal rival de Benyamin Nétanyahou, le centriste Gadi Eisenkot, a reçu l’aval de 65 députés, ce mercredi 25 novembre. Le texte doit encore être approuvé par trois votes à la Knesset pour aboutir.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Première batterie hypersonore Dark Eagle « entièrement lancé, » Lozano dit",
+      "link": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says/",
+      "date": "Wed, 25 Nov 2026 13:45:00 +0000",
+      "description": "Bien que les trois étoiles ne partageraient pas lorsque la première batterie a été complètement mise en service, les nouvelles viennent après que le programme a fait face à des années de retards.",
+      "source": "Breaking Defense",
+      "category": "Défense"
+    },
+    {
+      "title": "L'UE prévoit un fonds souverain de 50 milliards d'euros pour stimuler la technologie quantique",
+      "link": "https://www.dw.com/en/eu-plans-€50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/a-80047569?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 25 Nov 2026 13:44:00 GMT",
+      "description": "La Commission européenne a proposé un fonds technologique d'un montant cible de 50 milliards d'euros pour stimuler les efforts de calcul quantique. Le bloc vise à suivre les Etats-Unis et la Chine dans la course mondiale.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "David Lisnard, candidat à l’élection présidentielle, réélu à la tête de l’Association des maires de France",
@@ -67,44 +291,132 @@
       "category": "France"
     },
     {
-      "title": "L'ONU alerte sur le risque de nouveaux \"crimes atroces\" d'Israël contre les Palestiniens à Gaza et en Cisjordanie",
-      "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/l-onu-alerte-sur-le-risque-de-nouveaux-crimes-atroces-d-israel-contre-les-palestiniens-a-gaza-et-en-cisjordanie_8299557.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 25 Nov 2026 13:08:23 +0100",
-      "description": "Le Haut-Commissariat des Nations unies aux droits de l'homme alerte sur \"le caractère de plus en plus généralisé et systématique des violations commises\" dans les deux territoires palestiniens.",
-      "source": "franceinfo",
+      "title": "Les factures d'énergie augmenteront de 26 % par rapport à janvier après la hausse des prix du gaz",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026 13:42:08 GMT",
+      "description": "Un ménage utilisant une quantité d'énergie typique verrait sa facture annuelle passer de £1723 à £2166 si ce niveau était maintenu pendant un an.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "David Lisnard, candidat à la présidentielle, réélu à la tête de l'Association des maires de France",
+      "link": "https://www.rfi.fr/fr/france/20261125-david-lisnard-candidat-%C3%A0-la-pr%C3%A9sidentielle-r%C3%A9%C3%A9lu-%C3%A0-la-t%C3%AAte-de-l-association-des-maires-de-france",
+      "date": "Wed, 25 Nov 2026 13:41:27 GMT",
+      "description": "Le maire de Cannes et candidat à l'élection présidentielle a annoncé, mercredi 25 novembre, sa réélection pour un troisième mandat à la tête de l'Association des maires de France (AMF).",
+      "source": "RFI",
       "category": "France"
+    },
+    {
+      "title": "La Corée du Nord lance des diplomates suisses en spat liés à la guerre d'Ukraine",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "date": "Wed, 25 Nov 2026 13:40:09 +0000",
+      "description": "Cette décision fait suite à la décision de la Suisse d'imposer des sanctions à un camp international de jeunes en Corée du Nord, accusé d'accueillir des enfants ukrainiens pour endoctrinement.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Défense d'Aden, Yémen",
+      "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+      "date": "Wed, 25 Nov 2026 13:39:46 +0000",
+      "description": "La guerre en Iran a relancé la guerre civile de dix ans au Yémen. Les troupes soutenues par l'Arabie saoudite se battent pour se défendre contre les combattants Houthi en marche alors que les blessés sont emmenés à la ville portuaire d'Aden, la capitale provisoire du gouvernement.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Allemagne : trois néonazis âgés de 14 et 15 ans arrêtés, soupçonnés d’avoir voulu incendier un foyer de réfugiés",
+      "link": "https://www.liberation.fr/international/europe/allemagne-trois-neonazis-ages-de-14-et-15-ans-arretes-soupconnes-davoir-voulu-incendier-un-foyer-de-refugies-20261125_ME7WCMZ4DFF7FNW535ZHPUPGRE/",
+      "date": "Wed, 25 Nov 2026 13:38:19 +0000",
+      "description": "Trois adolescents ont été arrêtés ce mercredi 25 novembre, soupçonnés d’être des membres d’un groupuscule néonazi, et sont poursuivis pour association terroriste par le parquet général allemand. L’intervention a empêché l’incendie d’un foyer de réfugiés en Basse-Saxe.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Un tribunal américain condamne Huawei de vol: une histoire de la firme chinoise , les malheurs mondiaux",
+      "link": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 13:37:51 +0000",
+      "description": "Le géant chinois de la technologie a fait face à des problèmes juridiques d'Europe à l'Asie, et ses produits ont été interdits dans la guerre commerciale avec les États-Unis.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis proposent de nouveaux tarifs pour 14 partenaires commerciaux, dont la Chine et l'UE",
+      "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "date": "Wed, 25 Nov 2026 13:37:35 GMT",
+      "description": "Les nouveaux prélèvements visent à contrer les pratiques commerciales étrangères jugées injustes, discriminatoires ou pesantes pour le commerce américain.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le Mexique enquête sur les liens de cartel possibles du procureur qui a aidé la CIA.",
+      "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+      "date": "Wed, 25 Nov 2026 13:34:43 +0000",
+      "description": "Le procureur a récemment fui vers les États-Unis après que le Mexique ait délivré un mandat pour son implication dans la CIA. Maintenant les autorités enquêtent sur lui pour collusion suspectée.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Prospection de hockey sur glace Max Calce suit le chemin de Leon Draisaitl, laissant Mannheim pour le Canada",
+      "link": "https://www.dw.com/en/ice-hockey-prospect-max-calce-follows-leon-draisaitl-s-path-leaving-mannheim-for-canada/a-80049458?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 25 Nov 2026 13:28:00 GMT",
+      "description": "Le joueur largement considéré comme le plus grand talent de hockey sur glace de l'Allemagne à venir dans les années est de quitter la ligue professionnelle du pays pour le Canada – changer les pistes dans sa tentative de se rendre à la LNH.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Trump s'immisce dans le scandale de Huang règne l'opinion des électeurs sur le pouvoir politique démesuré",
       "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "date": "Wed, 25 Nov 2026 13:05:38 GMT",
+      "date": "Wed, 25 Nov 2026 13:20:34 GMT",
       "description": "La décision de Nvidia de rétablir le PDG Jensen Huang après les pressions de Trump intensifie l'examen bipartite des liens des entreprises technologiques avec l'administration.",
       "source": "CNBC",
       "category": "Économie"
     },
     {
-      "title": "La Malaisie poursuit Google pour des contenus «nocifs» sur YouTube",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261125-la-malaisie-poursuit-google-pour-des-contenus-nocifs-sur-youtube",
-      "date": "Wed, 25 Nov 2026 13:03:57 GMT",
-      "description": "Le gendarme malaisien des communications a indiqué, mercredi 25 novembre, qu'il poursuivait Google pour un montant de 146 millions de dollars pour ne pas avoir retiré des contenus « nocifs » de la plateforme de vidéo YouTube.",
-      "source": "RFI",
-      "category": "France"
+      "title": "Pourquoi les Indiens finissent encore dans la guerre russe",
+      "link": "https://www.dw.com/en/why-indians-are-still-ending-up-in-russia-s-war/a-80048537?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 25 Nov 2026 13:17:00 GMT",
+      "description": "Que ce soit par la tromperie ou le désespoir, les Indiens continuent d'être attirés dans la guerre russe en Ukraine. Que peut faire New Delhi pour protéger ses citoyens de la fin des combats en Ukraine?",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
-      "title": "«Ce n’est pas à lui de choisir ses adversaires» : la riposte de Retailleau après la proposition de Philippe de débattre avec Lisnard",
-      "link": "https://www.lefigaro.fr/politique/ce-n-est-pas-a-lui-de-choisir-ses-adversaires-la-riposte-de-retailleau-apres-la-proposition-de-philippe-de-debattre-avec-lisnard-20261125",
-      "date": "Wed, 25 Nov 2026 13:02:43 +0100",
-      "description": "INFO LE FIGARO - Face au refus du maire Havrais de la primaire, le candidat Les Républicains continue de militer pour une compétition ouverte.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Une nouvelle découverte redessine la carte de la Voie lactée",
+      "link": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
+      "date": "Wed, 25 Nov 2026 13:13:45 +0000",
+      "description": "De nouvelles recherches montrent que la formation d'étoiles se produit dans la barre centrale de la Voie lactée. Cela va à l'encontre des recherches antérieures et des observations d'autres galaxies spirales barrées. La découverte par un doctorant montre une vaste structure tournante d'étoiles près du centre de notre galaxie conduit d'énormes fronts de choc à travers des nuages de gaz, les compresser et créer des conditions pour que de nouvelles étoiles se forment.",
+      "source": "Universe Today",
+      "category": "Exploration"
     },
     {
-      "title": "Même le prix des jouets est en hausse. Comment les Américains réduisent les plans de vacances",
-      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "date": "Wed, 25 Nov 2026 13:01:01 GMT",
-      "description": "Les consommateurs américains sont confrontés à des coûts alimentaires, de voyages et de cadeaux plus élevés en 2026, car l'inflation et les chocs énergétiques en Iran-guerre exercent une pression sur les budgets des vacances.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "Le téléchargement : l'IA débordant des records ouverts, et la lutte contre l'incendie pour le pergélisol",
+      "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "date": "Wed, 25 Nov 2026 13:10:00 +0000",
+      "description": "C'est aujourd'hui l'édition de The Download, notre newsletter en semaine qui fournit une dose quotidienne de ce qui se passe dans le monde de la technologie. L'IA met à rude épreuve les systèmes d'enregistrements ouverts L'IA a intensifié l'intérêt des investisseurs pour les enregistrements publics. Au cours des dernières années, les startups soutenues par des entreprises ont augmenté de 100 millions de dollars pour collecter des données...",
+      "source": "MIT Technology Review",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le PDG de Flipkart Kalyan Krishnamurthy démissionnera la semaine prochaine au milieu de l'incertitude de l'IPO",
+      "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "date": "Wed, 25 Nov 2026 13:08:19 +0000",
+      "description": "Balaji Thiagarajan, chef des produits et de la technologie de Flipkart, dirigera l'entreprise aux côtés de son conseil d'administration jusqu'à ce qu'un successeur soit trouvé.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "«Deuxième maison: Pourquoi Israël célèbre son retour à Nvidia",
+      "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 13:04:17 +0000",
+      "description": "Le secteur et l'économie de la technologie d'Israël ont des liens étroits avec le géant des puces Nvidia, qui investit des milliards de dollars.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les Îles Salomon signent un accord de sécurité avec l ' Australie",
+      "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 13:02:45 +0000",
+      "description": "Les Îles Salomon devront consulter Canberra avant de conclure de nouveaux accords de sécurité ou d'infrastructure dans le cadre du nouveau pacte.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Les questions Jensen Huang et Nvidia devront encore répondre à propos de Megaspeed",
@@ -112,6 +424,14 @@
       "date": "Wed, 25 Nov 2026 13:00:00 +0000",
       "description": "Huang est toujours confronté à des questions du Congrès et de son propre conseil au sujet de sa relation romantique avec un présumé trafiquant de puces.",
       "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Acer Predator Atlas 8 review: La performance du potentiel à un prix légèrement meilleur",
+      "link": "https://www.engadget.com/2326961/acer-predator-atlas-8-review/",
+      "date": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "description": "Grâce à sa puce Intel Arc G3 Extreme, l'Acer Predator Atlas 8 offre 95 pour cent des performances de Claw 8 EX AI+ de MSI pour 350 $ de moins.",
+      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -128,14 +448,6 @@
       "date": "Wed, 25 Nov 2026 12:52:19 +0100",
       "description": "La plaignante avait 27 ans au moment des faits qu'elle dénonce auprès de Mediapart. Le chanteur de 67 ans n'a pas souhaité réagir à ses accusations, précise le média en ligne.",
       "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Patrick Bruel visé par une nouvelle plainte pour viol",
-      "link": "https://www.liberation.fr/societe/police-justice/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol-20261125_BN52XBKM4VAS7JF7VBSXQX4PLY/",
-      "date": "Wed, 25 Nov 2026 12:46:51 +0000",
-      "description": "La plaignante dénonce des faits qui se seraient produits en 2006, en marge d’un concert des enfoirés à Lyon. Le comédien est mis en examen depuis juin à Nanterre pour des faits de viol et d’agression sexuelle.",
-      "source": "Libération",
       "category": "France"
     },
     {
@@ -163,31 +475,15 @@
       "category": "Monde"
     },
     {
-      "title": "Bayern MunichS Musiala a vérifié les symptômes neurologiques en avril 2025",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 12:42:56 +0000",
-      "description": "Musiala a été examiné par le club allemand pour le dysfonctionnement neurologique après l'apparition initiale des symptômes en 2025.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "David Lisnard annonce sa réélection à la tête de l'Association des maires de France",
+      "title": "David Lisnard largement réélu à la tête de l'Association des maires de France",
       "link": "https://www.france24.com/fr/france/20261125-france-david-lisnard-annonce-sa-reelection-a-la-tete-de-l-association-des-maires-de-france",
       "date": "Wed, 25 Nov 2026 12:42:22 GMT",
-      "description": "Le président de l'Association des maires de France a annoncé mercredi sur X sa réélection pour un nouveau mandat. Déjà candidat à l'élection présidentielle de 2027, David Lisnard, maire de Cannes, est parvenu à se faire réélire face à Philippe Laurent, le maire centriste de Sceaux (UDI).",
+      "description": "Le président de l'Association des maires de France a annoncé mercredi sur X sa réélection pour un nouveau mandat. Déjà candidat à l'élection présidentielle de 2027, David Lisnard, maire de Cannes, est parvenu à se faire largement réélire à la tête de l'AMF face à Philippe Laurent, le maire centriste de Sceaux (UDI).",
       "source": "France 24",
       "category": "France"
     },
     {
-      "title": "La Corée du Nord expulse un diplomate suisse après des sanctions contre un camp accusé de «russifier» des enfants ukrainiens",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261125-la-cor%C3%A9e-du-nord-expulse-un-diplomate-suisse-apr%C3%A8s-des-sanctions-contre-un-camp-accus%C3%A9-de-russifier-des-enfants-ukrainiens",
-      "date": "Wed, 25 Nov 2026 12:40:39 GMT",
-      "description": "La Corée du Nord, alliée de la Russie, a annoncé mercredi 25 novembre l'expulsion du chef du bureau diplomatique suisse. La Suisse est l'un des rares pays occidentaux disposant d'une représentation dans le pays. Mais son bureau devra bientôt fermer. Cette mise en garde nord-coréenne intervient alors que Berne a récemment sanctionné la présence du camp Songdowon en Corée du Nord, accusé de contribuer à l'endoctrinement d'enfants ukrainiens par la Russie.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature",
+      "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
       "link": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
       "date": "Wed, 25 Nov 2026 12:39:02 +0100",
       "description": "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national. S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l’événement et la portée à lui donner divisent les magistrats.",
@@ -195,20 +491,12 @@
       "category": "France"
     },
     {
-      "title": "Ukraine: Les attaques industrielles et la colère contre la Russie comme alliés de l'Ukraine justifient l'aide à la défense, argumentent sur l'action militaire en Libye",
-      "link": "https://www.dw.com/en/ukraine-industrial-attacks-and-anger-at-russia-as-ukraine-s-allies-justify-defense-aid-argue-over-military-action-in-libya/live-80047122?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Ukraine: Les attaques industrielles et la colère contre la Russie parmi les alliés ukrainiens",
+      "link": "https://www.dw.com/en/ukraine-industrial-attacks-and-anger-at-russia-among-ukraine-s-allies/live-80047122?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Wed, 25 Nov 2026 12:39:00 GMT",
       "description": "Moscou et Kiev ont échangé des attaques d'infrastructure comme des alliés ont argumenté sur les actions de l'Ukraine en Libye. La Pologne dit qu'elle est perplexe par l'absence de réponse américaine aux incursions russes dans son espace aérien. Suivez DW pour la dernière.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "En campagne pour l’Elysée, David Lisnard réélu à la tête des maires de France",
-      "link": "https://www.liberation.fr/politique/elections/en-campagne-pour-lelysee-david-lisnard-reelu-a-la-tete-des-maires-de-france-20261125_SGKQEG6H3FHHPMAGJUG2OU2I2Q/",
-      "date": "Wed, 25 Nov 2026 12:37:49 +0000",
-      "description": "Le maire de Cannes a été réélu, ce mercredi, à la tête de l’association, malgré les critiques de ses détracteurs qui pointent «un mélange des genres» de l’ex-LR, candidat à la présidentielle.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Enquête sur des soupçons de fuites vers le RN : Hugues Moutouh a été officiellement démis de ses fonctions et remplacé par le préfet Pierre Ory",
@@ -217,14 +505,6 @@
       "description": "Le haut fonctionnaire avait demandé à être relevé de ses fonctions après l'ouverture d'une enquête sur des soupçons de fuites d'éléments judiciaires concernant le RN venant du ministère de l'Intérieur, à l'époque où il y dirigeait le secrétariat général.",
       "source": "franceinfo",
       "category": "France"
-    },
-    {
-      "title": "Comment un allié iranien a gagné la main dans la guerre du Yémen",
-      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-      "date": "Wed, 25 Nov 2026 12:31:34 +0000",
-      "description": "Les Houthis soutenus par l'Iran sont sur une lancée gagnante, assurant un territoire stratégique alors qu'ils combattent l'Arabie saoudite et ses alliés yéménites dans une guerre asymétrique d'attrition.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "En Afghanistan, aucune femme médecin ne signifie souvent aucun traitement pour les femmes",
@@ -243,14 +523,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Le coût croissant de l'Action de grâce",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 12:29:09 +0000",
-      "description": "Aux États-Unis, les consommateurs saccagent plus d'argent pour la nourriture cette fête de Thanksgiving.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Liesman: Nvidia teste le coup de fouet Kevin Warsh.",
       "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
       "date": "Wed, 25 Nov 2026 12:26:41 GMT",
@@ -259,28 +531,12 @@
       "category": "Économie"
     },
     {
-      "title": "Puigdemont séparatiste catalan de retour en Espagne le 12 décembre",
-      "link": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 12:25:46 +0000",
-      "description": "L'ancien leader régional annonce qu'il dévoilera sa proposition de relance de l'indépendance catalane le 17 décembre.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "WhatsApp teste des autocollants avec du son",
       "link": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/",
       "date": "Wed, 25 Nov 2026 12:24:57 +0000",
       "description": "La nouvelle bêta publique de WhatsApp inclut la possibilité de créer des autocollants avec des sons.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Les travailleurs de l'habillement du Bangladesh protestent contre de nouveaux salaires",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 12:23:41 +0000",
-      "description": "Le Bangladesh a relevé le salaire mensuel minimum des travailleurs de l'habillement de 36 % à 17 000 taka, soit environ 138 $.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Les chiffres de la Russie montrent qu'elle a perdu près de 500 000 personnes dans la guerre en Ukraine",
@@ -315,20 +571,20 @@
       "category": "France"
     },
     {
+      "title": "Je n'utilise la machine à laver qu'un dimanche.",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026 12:12:11 GMT",
+      "description": "La BBC parle à trois personnes des mesures qu'elles prennent pour contrôler leurs factures d'énergie.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
       "title": "L'IA peut bientôt changer ce que signifie être un physicien théorique",
       "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
       "date": "Wed, 25 Nov 2026 12:00:28 +0000",
       "description": "Frontier AI résout déjà des problèmes qui, une fois, ont pris une journée complète aux meilleurs physiciens.",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Le shopping d'occasion va se généraliser cette saison des fêtes alors que les consommateurs cherchent de la valeur",
-      "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "date": "Wed, 25 Nov 2026 12:00:01 GMT",
-      "description": "Un plus grand nombre de consommateurs font des achats d'occasion cette saison des Fêtes car ils mettent l'accent sur la valeur et l'unicité de leurs achats.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Comment les soldats de jouets de saut ont accidentellement repris votre FYP",
@@ -339,14 +595,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Espagne: Puigdemont, séparatiste catalan, fixe la date du retour",
-      "link": "https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Wed, 25 Nov 2026 11:57:00 GMT",
-      "description": "L'ancien leader catalan Carles Puigdemont prévoit de rentrer à Barcelone le 12 décembre, après près d'une décennie d'exil. La Cour suprême d'Espagne a abandonné l'affaire pénale dont il était l'objet et a ouvert la voie à son retour.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Les 36 meilleurs cadeaux pour papas (2026)",
       "link": "https://www.wired.com/story/best-gifts-for-dads-2026/",
       "date": "Wed, 25 Nov 2026 11:49:00 +0000",
@@ -355,44 +603,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Les factures d'énergie augmenteront de 26 % par rapport à janvier après la hausse des prix du gaz",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 11:44:26 GMT",
-      "description": "Un ménage utilisant une quantité d'énergie typique verrait sa facture annuelle passer de £1723 à £2166 si ce niveau était maintenu pendant un an.",
+      "title": "supermarché de la police colombienne pour libérer 20 otages pendant 17 heures",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026 11:45:16 GMT",
+      "description": "Un tireur a été tué dans l'opération pour libérer une vingtaine de clients et d'employés après une épreuve d'otage de 17 heures.",
       "source": "BBC News",
-      "category": "Économie"
-    },
-    {
-      "title": "Fraude à l’apprentissage : entre 1,5 et 3 milliards d’euros d’argent public détournés chaque année",
-      "link": "https://www.liberation.fr/economie/fraude-a-lapprentissage-entre-15-et-3-milliards-deuros-dargent-public-detournes-chaque-annee-20261125_CO3OHJGT25C7FDWLBANTGX2SFQ/",
-      "date": "Wed, 25 Nov 2026 11:43:03 +0000",
-      "description": "La Cour des comptes alerte, dans un rapport publié ce mercredi, sur le montant colossal de la fraude et des abus liés aux aides à l’apprentissage. Elle dénonce «une faille systémique dans le contrôle» de cette politique de soutien à l’emploi, déjà extrêmement coûteuse pour l’Etat.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Midterms : les démocrates obtiennent la plus large majorité depuis 1992 et l’arrivée de Bill Clinton au pouvoir",
-      "link": "https://www.liberation.fr/international/amerique/midterms-les-democrates-obtiennent-la-plus-large-majorite-depuis-1992-et-larrivee-de-bill-clinton-au-pouvoir-20261123_HPQIG7ZFXZFODFJ2K5U2TVR6IA/",
-      "date": "Wed, 25 Nov 2026 11:41:20 +0000",
-      "description": "A la Chambre des représentants, deux candidats démocrates l’ont emporté en Caroline du Nord et dans le Tennessee. Ces succès offrent à la gauche américaine 259 sièges, trois restent à pourvoir.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "L'armée américaine fait exploser des explosifs au plomb instables en Iowa",
-      "link": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Wed, 25 Nov 2026 11:33:00 GMT",
-      "description": "Selon l'armée, une explosion contrôlée est la façon la plus sûre de traiter les produits chimiques explosifs qui ont commencé à se cristalliser dans l'entreposage, mais les résidents disent que le changement de guidage les a laissés confus sur l'endroit où la poussière de plomb ira.",
-      "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Procès de l’agression de Michel Zecler : «Cette condamnation est exceptionnelle mais elle ne va pas changer la façon de faire de la police»",
-      "link": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-cette-condamnation-est-exceptionnelle-mais-elle-ne-va-pas-changer-la-facon-de-faire-de-la-police-20261125_OL66AO6KMVDC7HYC2KZWLJKZFE/",
-      "date": "Wed, 25 Nov 2026 11:32:56 +0000",
-      "description": "Fabien Bilheran, ancien gardien de la paix et présent dans le public lors du procès du passage à tabac du producteur de musique par trois agents des forces de l’ordre, estime que le jugement n’aura pas de grandes conséquences sur la corporation. Même si, selon lui, des débats existent en interne.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Les meilleurs téléviseurs que nous avons testés (2026): Samsung, LG, TCL, Sony, et plus encore.",
@@ -419,28 +635,12 @@
       "category": "Monde"
     },
     {
-      "title": "La Chine vient d’accueillir dans sa station spatiale son premier astronaute international",
-      "link": "https://www.liberation.fr/sciences/espace/la-chine-vient-daccueillir-dans-sa-station-spatiale-son-premier-astronaute-international-20261125_CZAP55AGJBD6PD4X4XNXKDR7JI/",
-      "date": "Wed, 25 Nov 2026 11:24:35 +0000",
-      "description": "Dans la nuit du mardi 24 au mercredi 25 novembre, le vaisseau Shenzhou a emmené vers la station Tiangong un équipage de relève composé de deux Chinois et d’un Pakistanais. Un symbole fort pour les relations entre les deux pays d’Asie.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "La pleine lune de novembre éblouit les skywatchers avec une superbe supermoon Beaver Moon (photos)",
       "link": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
       "date": "Wed, 25 Nov 2026 11:22:59 +0000",
       "description": "Des gratte-ciels de New York à l'ancien Parthénon d'Athènes, la supermoon Beaver Moon a organisé un spectacle spectaculaire pour les skywatchers du monde entier.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "La Corée du Nord expulse l'envoyé suisse pour des sanctions contre des camps accusés d'endoctriner des enfants ukrainiens",
-      "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Wed, 25 Nov 2026 11:12:00 GMT",
-      "description": "La Corée du Nord a ordonné à la Suisse de fermer son nouveau bureau diplomatique. Le différend porte sur des sanctions suisses contre un camp accusé d'endoctriner des enfants ukrainiens des territoires occupés par la Russie.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Haïti-Salvador: comment Nayib Bukele assoit sa popularité grâce aux réseaux sociaux",
@@ -467,26 +667,26 @@
       "category": "Technologie"
     },
     {
-      "title": "Les stocks de la technologie américaine vont continuer à glisser au fur et à mesure que les préoccupations surgissent sur la durabilité du boom de l'IA",
-      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-      "date": "Wed, 25 Nov 2026 11:00:47 GMT",
-      "description": "Les contrats à terme permettant de suivre le Nasdaq 100 ont baissé de 3 % à mesure que la vente se poursuit pendant des semaines",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "La \"Communauté de Crime Vrai\" est des attaques violentes inspirantes par TikTok",
-      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
-      "date": "Wed, 25 Nov 2026 11:00:00 +0000",
-      "description": "Les attaques liées à un réseau de jeunes obsédés par des tireurs de masse augmentent considérablement, la recherche partagée avec WIRED montre, comme le groupe nihiliste utilise TikTok et AI pour diffuser son message.",
-      "source": "WIRED",
-      "category": "Technologie"
+      "title": "Elle réclame 2,6 milliards d’euros à son ex-mari : « Londres n’est pas surnommée la capitale mondiale du divorce pour rien »",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/25/elle-reclame-2-6-milliards-d-euros-a-son-ex-mari-londres-n-est-pas-surnommee-la-capitale-mondiale-du-divorce-pour-rien_6815077_3234.html",
+      "date": "Wed, 25 Nov 2026 11:00:05 +0100",
+      "description": "L’oligarque russe Vladimir Potanine n’a jamais vécu dans la capitale britannique. Son ex-épouse, qui s’y est installée en 2014, lui intente pourtant un procès et lui réclame une partie de sa fortune. Les tribunaux du Royaume-Uni sont en effet les plus généreux pour les divorces des ultrariches, relève Eric Albert, journaliste au service Economie du « Monde ».",
+      "source": "Le Monde",
+      "category": "France"
     },
     {
       "title": "Un voyage à travers l'Enfer Absurde de Trump",
       "link": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
       "date": "Wed, 25 Nov 2026 11:00:00 +0000",
       "description": "Comment un réfugié cambodgien né en Thaïlande et élevé aux États-Unis a fini prisonnier d'Afrique le dernier monarque absolu.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "La \"Communauté de Crime Vrai\" est des attaques violentes inspirantes par TikTok",
+      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "date": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "description": "Les attaques liées à un réseau de jeunes obsédés par des tireurs de masse augmentent considérablement, la recherche partagée avec WIRED montre, comme le groupe nihiliste utilise TikTok et AI pour diffuser son message.",
       "source": "WIRED",
       "category": "Technologie"
     },
@@ -523,14 +723,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'Australie, les Îles Salomon signent un pacte de lutte contre la Chine",
-      "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Wed, 25 Nov 2026 10:51:00 GMT",
-      "description": "L'Australie deviendra le principal partenaire des Îles Salomon en matière de sécurité, tandis que l'archipel rejettera toute puissance étrangère qui essaiera de \"interférer\" sur son infrastructure \"sensible\".",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Les factures d'énergie vont s'envoler - voici comment vous pouvez soulager la douleur",
       "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026 10:42:20 GMT",
@@ -553,14 +745,6 @@
       "description": "Le Pakistanais Muhammad Zeeshan Ali est devenu le premier ressortissant étranger à monter à bord de la station spatiale chinoise Tiangong.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "\"Aux combattantes inconnues assassinées par le patriarcat\" : un hommage aux victimes des féminicides",
-      "link": "https://www.france24.com/fr/france/20261125-aux-combattantes-inconnues-assassin%C3%A9es-par-le-patriarcat-un-hommage-aux-victimes-des-f%C3%A9minicides",
-      "date": "Wed, 25 Nov 2026 10:24:33 GMT",
-      "description": "Des membres du collectif féministe NousToutes ont rendu hommage aux victimes de féminicides, mercredi, à Paris, sur la tombe du Soldat inconnu, à l'occasion de la journée internationale pour l'élimination de la violence à l'égard des femmes.",
-      "source": "France 24",
-      "category": "France"
     },
     {
       "title": "Violences faites aux femmes: comment passer des avancées législatives à une justice effective?",
@@ -587,14 +771,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Le Mexique enquête sur le procureur qui a aidé la C.I.A. au sujet de la collision du cartel",
-      "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-      "date": "Wed, 25 Nov 2026 10:04:19 +0000",
-      "description": "Le procureur a récemment fui vers les États-Unis après que le Mexique ait délivré un mandat pour son implication dans la CIA. Maintenant les autorités enquêtent sur lui pour collusion suspectée.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Zoe Kleinman: Personne n'est irremplaçable - sauf si vous êtes Jensen Huang",
       "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026 10:03:12 GMT",
@@ -611,10 +787,10 @@
       "category": "Monde"
     },
     {
-      "title": "Des abris urbains de l'Iowa sont en place alors que l'armée se prépare à faire exploser tout le stock américain d'azide de plomb",
+      "title": "L'Iowa a brandi pour l'explosion de l'armée qui pourrait étendre le panache de plomb sur un rayon de 100 milles",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
       "date": "Wed, 25 Nov 2026 10:00:12 GMT",
-      "description": "Explosion contrôlée après de multiples retards et effusion de préoccupations concernant les effets potentiels sur la santé et l'environnement L'armée américaine est prête à faire exploser l'ensemble du stock de plomb azide de l'Iowa mercredi matin, en allant de l'avant après plusieurs retards et en dépit d'un débordement des préoccupations du public au sujet des effets potentiels sur la santé et l'environnement. L'explosion contrôlée est prévue pour éliminer 9 700 lb (4 400 kg) de la fabrication de bombes",
+      "description": "Détonation des produits chimiques qui fabriquent des bombes après plusieurs retards et préoccupation au sujet des effets potentiels L'armée américaine est prête à faire exploser l'ensemble du stock de plomb azide de la nation à l'Iowa mercredi matin, en progressant après plusieurs retards et en dépit d'un débordement des préoccupations du public concernant les effets potentiels sur la santé et l'environnement. L'explosion contrôlée est prévue pour éliminer 9 700lb (4 400kg) des produits chimiques de fabrication de bombes stockés à la",
       "source": "The Guardian",
       "category": "Environnement"
     },
@@ -699,14 +875,6 @@
       "category": "Défense"
     },
     {
-      "title": "Tous les otages secourus après le supermarché des forces de sécurité colombiennes, dit le président",
-      "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-      "date": "Wed, 25 Nov 2026 09:26:25 GMT",
-      "description": "L'opération au cours de laquelle un otage a été tué met fin à un siège d'une journée dans le centre commercial de Cartagena, où 30 personnes ont été initialement détenues par les forces de police colombiennes ont pris l'assaut d'un supermarché à Cartagena, l'une des villes touristiques les plus populaires du pays, dans les premières heures du mercredi, mettant fin à un siège d'otage d'une journée dans lequel tous les otages ont été libérés et un otage a été tué. Le président d'extrême droite, Abelardo de la Espriella, s'est rendu",
-      "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
       "title": "L'Ukraine dit à Poutine d'arrêter de se plaindre des attaques de raffineries de pétrole alors que la Russie promet des représailles",
       "link": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
       "date": "Wed, 25 Nov 2026 09:18:37 GMT",
@@ -723,12 +891,28 @@
       "category": "Technologie"
     },
     {
+      "title": "Comme les Américains Thanksgiving a pris racine - et évolué - au Libéria",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "date": "Wed, 25 Nov 2026 09:14:34 -0500",
+      "description": "Les premiers colons du Libéria ont été des Afro-Américains qui ont apporté la fête de Thanksgiving, qui a évolué pour refléter l'histoire et l'identité de cette nouvelle nation.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "La Pologne pose Keel pour la troisième frégate Miecznik, signe un accord avec le Royaume-Uni",
       "link": "https://www.navalnews.com/naval-news/2026/11/poland-lays-keel-third-miecznik-frigate-huragan/",
       "date": "Wed, 25 Nov 2026 09:06:43 +0000",
       "description": "La Pologne a posé la quille pour sa troisième frégate de classe Miecznik, ORP Huragan, à Gdynia, alors que Varsovie et Londres signaient un accord de co-développement du missile CAMM-MR. The post Poland Lays Keel for Third Miecznik Frigate, Signs Camm-MR Missile Deal with UK est apparu en premier sur Naval News .",
       "source": "Naval News",
       "category": "Défense"
+    },
+    {
+      "title": "Que savoir avant d'utiliser des agents d'IA pour les achats du vendredi noir",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "date": "Wed, 25 Nov 2026 08:51:56 -0500",
+      "description": "Selon la National Retail Federation, 59 % des acheteurs américains prévoient d'utiliser l'IA pour faire des achats de vacances ce week-end.",
+      "source": "NPR",
+      "category": "Monde"
     },
     {
       "title": "Elbit pour approvisionner Aqua Marine EW Suite pour l'Allemagne",
@@ -745,14 +929,6 @@
       "description": "Les neuroscientifiques et les philosophes se sont réunis lors d'une conférence pour discuter d'entités exotiques, semblables à des esprits, et de la façon dont les chatbots pourraient façonner nos propres esprits.",
       "source": "New Scientist",
       "category": "Sciences"
-    },
-    {
-      "title": "La Corée du Nord lance des diplomates suisses en spat liés à la guerre d'Ukraine",
-      "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "date": "Wed, 25 Nov 2026 07:29:44 +0000",
-      "description": "Cette décision fait suite à la décision de la Suisse d'imposer des sanctions à un camp international de jeunes en Corée du Nord, accusé d'accueillir des enfants ukrainiens pour endoctrinement.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "L'armée fera exploser des tonnes d'azide de plomb après des retards. Et Abrego Garcia quitte les États-Unis.",
@@ -816,7 +992,7 @@
       "date": "Wed, 25 Nov 2026 06:00:36 GMT",
       "description": "La mission étudie un astéroïde délibérément renversé par un vaisseau en collision.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Sciences"
     },
     {
       "title": "Comment une nouvelle façon de mesurer les marées pourrait rendre les prévisions d'inondation plus précises",
@@ -867,22 +1043,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Les Îles Salomon concluent un traité de sécurité avec l'Australie, en un coup vers la Chine",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "date": "Wed, 25 Nov 2026 05:24:36 +0000",
-      "description": "Un accord conclu en 2022 entre les Îles Salomon et la Chine a soulevé des préoccupations qui permettraient à Beijing d'établir une présence militaire sur l'île du Pacifique. Le nouvel accord exclut de telles bases.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Présidentielle 2027 : au RN, la certitude de la victoire enivre les élus et inquiète Marine Le Pen",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-au-rn-la-certitude-de-la-victoire-enivre-les-elus-et-inquiete-marine-le-pen_6815034_823448.html",
-      "date": "Wed, 25 Nov 2026 05:15:03 +0100",
-      "description": "Les adversaires du Rassemblement national soulignent l’arrogance des députés d’extrême droite dans les médias, les réseaux sociaux et à l’Assemblée nationale. De récents faux pas de communication attestent d’un état d’esprit euphorique.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Les physiciens piègent l'antimatière dans une percée qui pourrait expliquer pourquoi l'univers existe",
       "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
       "date": "Wed, 25 Nov 2026 05:06:22 EST",
@@ -931,14 +1091,6 @@
       "category": "Économie"
     },
     {
-      "title": "Plans Trump pour les affaires avec la Russie",
-      "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
-      "date": "Wed, 25 Nov 2026 05:00:12 GMT",
-      "description": "Les Etats-Unis ne voient plus la coopération économique comme une incitation pour Poutine à mettre fin à son invasion de l'Ukraine.",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Comment un ex-partenaire McKinsey a conçu inversement un gestionnaire de fortune de 500 milliards de dollars",
       "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
       "date": "Wed, 25 Nov 2026 05:00:04 GMT",
@@ -960,7 +1112,7 @@
       "date": "Wed, 25 Nov 2026 05:00:00 -0500",
       "description": "Des rabais serrés pour \"Green Wednesday\", l'un des jours les plus vendus pour le cannabis, aident les clients à réduire les coûts. Mais les experts disent que les détaillants ressentent le problème.",
       "source": "NPR",
-      "category": "Monde"
+      "category": "Économie"
     },
     {
       "title": "Avez-vous besoin d'être inquiet pour voler pour Thanksgiving cette année? Nous avons demandé aux experts",
@@ -987,14 +1139,6 @@
       "category": "Sciences"
     },
     {
-      "title": "La Chine enquête sur un membre du Politburo et le chef du parti de Shanghai Chen Jining",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-      "date": "Wed, 25 Nov 2026 04:44:13 -0500",
-      "description": "Le membre du Politburo est le dernier haut fonctionnaire visé dans la campagne de longue date du président Xi Jinping contre la corruption, qui n'a montré aucun signe de perte de portée ou de profondeur.",
-      "source": "NPR",
-      "category": "Monde"
-    },
-    {
       "title": "Le conseil d'administration de Nvidia sous le feu pour la gestion des affaires présumées du PDG",
       "link": "https://www.npr.org/2026/11/25/nx-s1-6052342/nvidias-board-under-fire-for-handling-of-ceos-alleged-affairs",
       "date": "Wed, 25 Nov 2026 04:39:52 -0500",
@@ -1016,7 +1160,7 @@
       "date": "Wed, 25 Nov 2026 03:44:07 GMT",
       "description": "Le cours de l'action de Nvidia a chuté de 7% alors que les législateurs demandent des réponses sur l'implication du président Donald Trump dans la réintégration de Huang.",
       "source": "BBC News",
-      "category": "Monde"
+      "category": "Technologie"
     },
     {
       "title": "Peut-être que l'énergie noire n'est pas si inexplicable après tout",
@@ -1025,14 +1169,6 @@
       "description": "L'Univers tel que nous le connaissons est composé de trois « choses » : la matière baryonique (planètes, étoiles, galaxies, nous), la matière noire (toujours inexpliquée) et l'énergie noire (vraiment, vraiment inexpliquée). Des trois, l'énergie noire reste difficile parce qu'elle conduit à l'accélération de l'univers en expansion. Cependant, nous ne pouvons pas le voir, ou même y mettre une description, autre que, \"c'est mystérieux\".",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Donald Trump va augmenter les tarifs sur 16 grandes économies",
-      "link": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
-      "date": "Wed, 25 Nov 2026 02:45:00 +0000",
-      "description": "Donald Trump va augmenter les tarifs douaniers sur la Chine, l'Union européenne et plusieurs autres pays, selon les rapports.",
-      "source": "Sky News",
-      "category": "Monde"
     },
     {
       "title": "Thomas Markle accusé aux États-Unis pour possession d'images de violence sexuelle envers des enfants",
@@ -1083,27 +1219,11 @@
       "category": "Monde"
     },
     {
-      "title": "Les États-Unis se préparent à dévoiler leur plan de nouveaux tarifs sur les partenaires commerciaux mondiaux",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 00:38:01 GMT",
-      "description": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Pourquoi de petites voitures décollent à travers l'Europe",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026 00:34:05 GMT",
       "description": "Une fois considéré comme une voiture pour les personnes âgées, les ruraux, les petites voitures sont embrassées par une population plus jeune.",
       "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "Cette fonctionnalité utile Apple Watch fonctionne parfaitement avec Apple CarPlay",
-      "link": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
-      "date": "Wed, 25 Nov 2026 00:30:00 +0000",
-      "description": "Les disques longs appellent pour chaque tour que vous pouvez obtenir. Voyez comment votre Apple Watch et CarPlay s'associent pour vous maintenir sur le cap et un peu plus d'alerte derrière le volant.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -1120,14 +1240,6 @@
       "date": "Wed, 25 Nov 2026 00:10:27 +0000",
       "description": "Huang est confronté à des questions continues au sujet de sa relation avec Alice Huang, un cadre qui aurait des liens avec le renseignement chinois qui travaillait auparavant pour une entreprise accusée d'avoir détourné illégalement des puces Nvidia vers la Chine.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "Vous n'avez pas à regarder votre Apple Watch pour obtenir le temps",
-      "link": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
-      "date": "Wed, 25 Nov 2026 00:00:00 +0000",
-      "description": "Votre Apple Watch a un moyen de partager le temps qui supporte même Morse Code. Voyez lequel de ses trois modes est logique pour votre routine quotidienne.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -1187,14 +1299,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Jensen Huang dit au personnel que Nvidia n'a pas besoin d'un plan de relève",
-      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "date": "Tue, 24 Nov 2026 23:13:49 GMT",
-      "description": "Directeur général de Nvidia Jensen Huang a démissionné après plusieurs affaires rapportées, dont une avec une femme d'affaires chinoise qui est présumée être un espion pour Pékin.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Les scientifiques de Stanford découvrent 3 types de cerveau cachés derrière le TDAH et l'anxiété",
       "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
       "date": "Tue, 24 Nov 2026 23:11:59 EST",
@@ -1235,14 +1339,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Jensen Huang pense toujours qu'un plan de succession crée une hiérarchie inutile",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "date": "Tue, 24 Nov 2026 22:27:52 +0000",
-      "description": "C'est une position remarquable pour une entreprise qui a passé les deux dernières semaines à découvrir ce qui se passe sans son fondateur.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Wilsbach's Message aux aviateurs après un an en tant que CSAF: «La préparation est fondamentale»",
       "link": "https://www.airandspaceforces.com/wilsbach-message-to-airmen-one-year-csaf-readiness/",
       "date": "Tue, 24 Nov 2026 22:26:37 +0000",
@@ -1275,14 +1371,6 @@
       "category": "Environnement"
     },
     {
-      "title": "En réunion, Jensen Huang remercie la Maison Blanche et dit qu'il est en thérapie",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "date": "Tue, 24 Nov 2026 21:48:27 +0000",
-      "description": "Le fondateur de Nvidia s'est excusé devant son personnel mardi et a dit qu'il était reconnaissant pour une seconde chance de diriger l'entreprise.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "En ce jour dans l'espace ! 24 nov. 1947: La marine américaine lance la 1ère fusée à sonner Aerobee, mais elle n'a pas atteint l'espace",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
       "date": "Tue, 24 Nov 2026 21:47:34 +0000",
@@ -1305,14 +1393,6 @@
       "description": "La police colombienne a pris l'assaut d'un supermarché et libéré au moins 20 personnes détenues en otage, tuant l'un des hommes armés.",
       "source": "Sky News",
       "category": "Monde"
-    },
-    {
-      "title": "Même les meilleurs agents de l'IA luttent avec la vie quotidienne",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "date": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "description": "Alors que des millions d'assistants personnels de l'IA s'enrôlent, une nouvelle référence révèle que même les modèles d'IA les plus avancés se battent pour accomplir les tâches quotidiennes de façon fiable et sûre sans introduire de nouveaux problèmes potentiels.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Ford en pourparlers avec le Pentagone pour fournir des véhicules militaires",
@@ -1361,14 +1441,6 @@
       "description": "La NASA a mené à bien un examen important de la liberté du réacteur spatial-1 (SR-1) et s'est enfermée dans des éléments clés de l'engin spatial, dont l'objectif est de lancer en 2028 et de démontrer la propulsion électrique nucléaire dans l'espace profond pour la première fois. Des experts de l'ensemble de l'agence, du département américain de l'énergie (DOE), et de l'industrie se sont réunis à la NASA, Glenn Research [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "Les producteurs exécutifs de 'Blade Runner 2099' parlent d'œufs d'orient architectural et de continuité de franchise pour la nouvelle série science-fiction de Prime Video (interview)",
-      "link": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
-      "date": "Tue, 24 Nov 2026 21:00:00 +0000",
-      "description": "Aujourd'hui, assis ici en novembre 2026, le monde rattrape plus vite le monde de Blade Runner.",
-      "source": "Space.com",
-      "category": "Exploration"
     },
     {
       "title": "Qu'est-ce qui se passe avec l'hypothèse de Riemann ?",
@@ -1483,14 +1555,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Lire L'âge de l'alchimie par Kit Chapman avec scientifique américain en décembre",
-      "link": "https://www.scientificamerican.com/article/read-the-age-of-alchemy-by-kit-chapman-with-scientific-american-in-december/",
-      "date": "Tue, 24 Nov 2026 19:00:00 +0000",
-      "description": "En décembre, rejoignez le personnel de SciAm dans notre Club de livre et participez à la discussion",
-      "source": "Scientific American",
-      "category": "Sciences"
-    },
-    {
       "title": "Déballage de la participation financière du président Trump dans Nvidia",
       "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
       "date": "Tue, 24 Nov 2026 18:48:14 -0500",
@@ -1513,14 +1577,6 @@
       "description": "Avoir un navire de déglaçage plus capable représente un changement de paradigme de mission pour la Garde côtière américaine, a déclaré le capitaine du nouveau cutter.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Avec « Un bon petit soldat », Stéphane Brizé signe son film le plus féroce sur le monde de l’entreprise",
-      "link": "https://www.lemonde.fr/culture/article/2026/11/24/avec-un-bon-petit-soldat-stephane-brize-signe-son-film-le-plus-feroce-sur-le-monde-de-l-entreprise_6814830_3246.html",
-      "date": "Tue, 24 Nov 2026 18:30:01 +0100",
-      "description": "Le réalisateur observe avec mordant les mécanismes qui régissent une compagnie d’assurances, analysant au passage une langue, celle qui est sécrétée par le capital.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Islam Faisal: La peur du boom de l'IA n'a pas disparu",
@@ -1627,14 +1683,6 @@
       "category": "Défense"
     },
     {
-      "title": "Portrait d'une caméra d'énergie noire de la nébuleuse de Betta",
-      "link": "https://www.universetoday.com/articles/a-dark-energy-camera-portrait-of-the-betta-fish-nebula",
-      "date": "Tue, 24 Nov 2026 16:21:06 +0000",
-      "description": "La nébuleuse de Betta Fish est un reste de supernova à près de 7 000 années-lumière. Il se compose des couches d'une étoile qui a explosé comme une supernova. Lorsque ces couches se sont enfoncées dans le milieu interstellaire, l'énergie du choc les a allumées. Le DECam a capturé la meilleure image de la nébuleuse de Betta jusqu'à présent.",
-      "source": "Universe Today",
-      "category": "Exploration"
-    },
-    {
       "title": "Deux entreprises d'IA révèlent des solutions de Terre-Shattering pour le problème majeur des mathématiques",
       "link": "https://www.newscientist.com/article/2600542-two-ai-companies-reveal-earth-shattering-solutions-to-major-maths-problem/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Tue, 24 Nov 2026 16:13:45 +0000",
@@ -1665,14 +1713,6 @@
       "description": "Exclusivité: Liste des dossiers 349 morts en trois ans au Mali et aussi fait la lumière sur l'activité militaire de la Russie ailleurs en Afrique Lorsque l'attaque contre Kidal a commencé avant l'aube le 25 avril de cette année, les combattants russes ont été pris au dépourvu. Au cours de la première heure, des points de contrôle situés à la périphérie de la ville désertique isolée nichée dans les collines rocheuses du nord du Mali sont tombés aux mains des insurgés, qui ont poussé vers le poste de police, où les",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "Répéter la lutte indo-pacifique avec la simulation améliorée par l'IA",
-      "link": "https://breakingdefense.com/2026/11/rehearsing-the-indo-pacific-fight-with-ai-enhanced-simulation/",
-      "date": "Tue, 24 Nov 2026 15:47:26 +0000",
-      "description": "[Sponsoré] Des environnements vivants, virtuels et construits aident les troupes à répondre aux défis réels.",
-      "source": "Breaking Defense",
-      "category": "Défense"
     },
     {
       "title": "Simera Sense, Spacemanic, Zaitra et le monde de l'espace s'unissent pour une solution de mission de bout en bout à double usage",
@@ -1729,6 +1769,14 @@
       "description": "C'est aujourd'hui l'édition de The Download, notre newsletter en semaine qui fournit une dose quotidienne de ce qui se passe dans le monde de la technologie. Les centres de données obtiennent leurs propres centrales au gaz naturel Un des plus grands obstacles à la construction d'un centre de données est d'obtenir l'approbation de se connecter à la grille, une attente que...",
       "source": "MIT Technology Review",
       "category": "Technologie"
+    },
+    {
+      "title": "La chaise FA devait signer la NDA pour voir les documents de la FIFA sur la vente de la Coupe du monde",
+      "link": "https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958",
+      "date": "Tue, 24 Nov 2026 12:12:00 +0000",
+      "description": "La présidente de l'Association de football Debbie Hewitt a maintenant consulté certains documents de la FIFA sur la vente de la Coupe du monde, mais a dû signer un accord de non-divulgation, Sky News a appris.",
+      "source": "Sky News",
+      "category": "Monde"
     },
     {
       "title": "Eczéma sévère guéri par une nouvelle pilule immunisante dans l'essai clinique",
@@ -1825,14 +1873,6 @@
       "description": "Un naufrage romain de 2 200 ans a révélé des techniques d'étanchéité sophistiquées impliquant le goudron de pin et la cire d'abeille. Les grains de pollen microscopiques piégés dans les revêtements anciens aident maintenant les scientifiques à reconstruire où le navire a peut-être voyagé et a subi des réparations il y a plus de deux millénaires.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "Pour les champions de la culture en milieu de travail, le retour de Jensen Huang est « insondable »",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
-      "date": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "description": "Certains qui ont travaillé pour promouvoir la diversité et l'inclusion dans la Silicon Valley disent Jensen Huang la réintégration comme PDG de Nvidia envoie un message que tout ce qui importe est l'argent.",
-      "source": "NPR",
-      "category": "Économie"
     },
     {
       "title": "En tant que cuisinier inscrit, il a brûlé les patates douces d'Action de grâce. Maintenant, c'est un général 2 étoiles.",
@@ -1937,14 +1977,6 @@
       "description": "Personne n'a revendiqué la responsabilité de la frappe sur le navire, qui avait accosté sur son chemin vers la Russie Un navire de guerre russe accosté dans la ville portuaire libyenne de Benghazi a été frappé dans les premières heures de dimanche lors d'une attaque présumée de drones de mer ukrainiens, causant une explosion nocturne dramatique et le naufrage du navire. La grève a gravement endommagé le Merkury, une corvette de la marine russe qui s'était arrêtée pour ravitailler et prendre des provisions, selon",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "Jensen Huang-S a rapporté que l'affaire était \"le sexe le plus cher depuis Helen de Troy-S, le sénateur américain dit",
-      "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "date": "Sun, 22 Nov 2026 20:23:36 GMT",
-      "description": "John Kennedy regarde les dirigeants Trump alors qu'il demande comment la Chine a manifestement contourné les contrôles à l'exportation pour Nvidia's top puces AI Invoquant la mythologie grecque, le sénateur américain John Kennedy a caractérisé l'ancien directeur général de Nvidia Jensen Huang. La Louisiane Républicaine's allusion à la figure légendaire dont l'opportunité était telle qu'elle a causé la",
-      "source": "The Guardian",
-      "category": "Économie"
     },
     {
       "title": "Combien d'air peut-il en sortir ?",
@@ -2075,14 +2107,6 @@
       "category": "Environnement"
     },
     {
-      "title": "La Californie à l'orée, alors que les marées hautes et les inondations allaient faire des ravages sur Thanksgiving. Voici ce qu'il faut savoir",
-      "link": "https://www.theguardian.com/us-news/2026/nov/23/california-high-tides-floods-weather-thanksgiving",
-      "date": "Mon, 23 Nov 2026 15:43:23 GMT",
-      "description": "Course des villes côtières pour se préparer à d'éventuelles inondations historiques en collision avec les conditions d'El Niño avant une semaine de voyage chargée L'année a déjà été difficile pour les Californiens côtiers – qui ont subi des inondations, des vagues extrêmes et l'érosion des plages pendant la saison super El Niño. Maintenant, les experts avertissent que la semaine de Thanksgiving pourrait voir plus de ravages, car un événement de marée haute d'hiver entraîne potentiellement des inondations records sur la côte et plus à l'intérieur des terres.",
-      "source": "The Guardian",
-      "category": "Environnement"
-    },
-    {
       "title": "Astéroïde de Didymos dans l'éclipse",
       "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-s-didymos-asteroid-in-eclipse",
       "date": "Mon, 23 Nov 2026 15:10:46 +0100",
@@ -2115,14 +2139,6 @@
       "category": "Monde"
     },
     {
-      "title": "Pourquoi utiliser des roches pour éliminer le carbone pourrait éventuellement réduire la croissance des cultures",
-      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "date": "Mon, 23 Nov 2026 11:00:00 +0000",
-      "description": "Les entreprises technologiques investissent beaucoup d'espoir et d'argent dans les roches. Google, Microsoft et d'autres ont engagé des centaines de millions de dollars pour obtenir des startups pour répandre le basalte écrasé, l'olivine, ou d'autres matériaux alcalins dans les fermes, dans un effort pour capturer le carbone de l'air et le verrouiller loin. Plusieurs modèles influents...",
-      "source": "MIT Technology Review",
-      "category": "Technologie"
-    },
-    {
       "title": "Hera se ferme sur l'astéroïde DART touché",
       "link": "https://astronomynow.com/2026/11/09/hera-closes-in-on-the-asteroid-dart-impacted/",
       "date": "Mon, 09 Nov 2026 10:45:12 +0000",
@@ -2131,20 +2147,28 @@
       "category": "Exploration"
     },
     {
-      "title": "California communautés côtières en alerte comme les plus grandes vagues dans les années frappé l'état",
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "date": "Fri, 20 Nov 2026 09:03:20 GMT",
-      "description": "Des avertissements de danger ont été émis pendant toute la semaine après une forte houle et des vagues de plus de 9 mètres enregistrées Cette semaine, plusieurs avertissements de danger côtiers ont été émis à travers la Californie, les zones successives de basse pression ayant généré de fortes houles et de grandes vagues de rupture pour les communautés côtières. Les plages et les quais ont été fermés le week-end dernier lorsque de grandes vagues se sont écrasées sur le littoral de la Californie. bouées offshore de l'Administration nationale de l'océan et de l'atmosphère",
-      "source": "The Guardian",
-      "category": "Monde"
-    },
-    {
       "title": "Comment observer l'éclipse solaire du 12 août 2026",
       "link": "https://astronomynow.com/2026/08/07/how-to-observe-the-12-august-2026-solar-eclipse/",
       "date": "Fri, 07 Aug 2026 13:39:23 +0000",
       "description": "Dans la soirée du 12 août 2026, la Lune passera entre la Terre et le Soleil, produisant une éclipse solaire frappante. Découvrez comment, quand et où l'observer en toute sécurité.",
       "source": "Astronomy Now",
       "category": "Exploration"
+    },
+    {
+      "title": "Divisés et déplacés : Brésil Les Kaingang attendent la fin du conflit illégal de location",
+      "link": "https://news.mongabay.com/2026/11/divided-and-displaced-brazils-kaingang-people-wait-for-an-end-to-illegal-leasing-conflict/",
+      "date": "25 Nov 2026 13:31:35 +0000",
+      "description": "PITANGA (Brésil) - Depuis février 2025, environ 300 Kaingang indigènes vivent dans la région rurale de Pitanga, une municipalité du centre de Paraná (Brésil). Camping dans une zone boisée sur une propriété privée, ils survivent dans des abris de fortune couverts de bâches, sans électricité ni eau courante. Le camp n'est pas un village. Les résidents déplacés le décrivent comme [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
+      "title": "Cargill soutient publiquement la législation de l'UE sur la déforestation tout en luttant pour l'affaiblir, estime",
+      "link": "https://news.mongabay.com/2026/11/cargill-publicly-backs-eu-deforestation-law-while-lobbying-to-weaken-it-probe-finds/",
+      "date": "25 Nov 2026 13:00:53 +0000",
+      "description": "Cargill, l'une des plus grandes entreprises agroalimentaires au monde, se dit prêt à se conformer à la nouvelle loi antidéboisement de l'Union européenne lorsqu'elle entrera en vigueur à la fin de cette année. Mais une enquête récente a révélé que l'entreprise travaillait simultanément en coulisses pour affaiblir la loi et retarder sa mise en œuvre. Les [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
       "title": "Nigeria Le commerce de l'ivoire et de la pangoline révèle des lacunes dans les poursuites pour crimes contre les espèces sauvages",
@@ -2179,20 +2203,36 @@
       "category": "Environnement"
     },
     {
-      "title": "Des accidents mortels surgissent au cours d'un conflit de travail en Indonésie.",
-      "link": "https://news.mongabay.com/2026/11/deadly-accidents-loom-over-labor-dispute-at-indonesias-largest-nickel-hub/",
-      "date": "25 Nov 2026 04:49:46 +0000",
-      "description": "Depuis sa création en 2015, PT Indonesia Morowali Industrial Park, le plus grand conglomérat mondial de fonderies de nickel, est resté au cœur de l'ambition de l'Indonésie d'étouffer les exportations de ressources brutes et de forcer les exportateurs à transformer le minerai chez eux. La majorité est détenue par le groupe Tsingshan Holding et abrite plus de 50 [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
+      "title": "Amazon serait en pourparlers pour mettre fin au bloc commercial de Muse AI",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "date": "2026-11-25T09:12:33-05:00",
+      "description": "Amazon a parlé de laisser Meta's Muse AI magasiner sur son marché en ligne, selon un rapport de Fortune. Les discussions, qui pourraient mettre fin au blocage d'Amazon sur Muse, auraient porté sur les types de produits recommandés par l'agent AI et l'impact potentiel sur les revenus publicitaires du géant du commerce électronique. Selon Fortune, [...]",
+      "source": "The Verge",
+      "category": "Technologie"
     },
     {
-      "title": "L'étude révèle une «double menace» croissante de la fumée de feu de forêt et des vagues de chaleur en Indonésie",
-      "link": "https://news.mongabay.com/2026/11/study-reveals-rising-double-threat-of-wildfire-smoke-and-heatwaves-in-indonesia/",
-      "date": "25 Nov 2026 02:15:02 +0000",
-      "description": "JAKARTA — Alors que la pire saison de feux de forêt et de brume en Indonésie en 2026 pourrait être terminée avec moins de points chauds détectés au cours des dernières semaines, ce n'était pas le seul danger auquel les résidents étaient confrontés dans la crise d'un mois. Par exemple, Palangka Raya dans la province centrale de Kalimantan, l'une des zones les plus touchées par les incendies de forêt de cette année, [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
+      "title": "Le lecteur e-lecteur X4 Classic de Xteink est à seulement 55 $ pour le Black Friday",
+      "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+      "date": "2026-11-25T09:00:00-05:00",
+      "description": "Sans surprise, nous sommes déjà en train de voir quelques bons accords du vendredi noir sur une grande variété de lecteurs électroniques. Tout du Kobo Libra Colour au derniergen Kindle Paperwhite est en vente, mais si vous êtes à la recherche de quelque chose de beaucoup moins cher — ou considérablement plus petit — le Xteink X4 Classic est dans une ligue de sa propre. Heureusement, la petite [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "«Ce n'est pas pour les timides: Blade Runner 2099's showrunner sur l'adaptation de la série pour la télévision",
+      "link": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
+      "date": "2026-11-25T09:00:00-05:00",
+      "description": "En tant que fan de longue date des films, Blade Runner 2099 showrunner Silka Luisa dit qu'elle était plus excitée que effrayée quand il s'agit d'adapter la série pour la télévision. Le nouveau spectacle est mis 50 ans après le film Blade Runner 2049 2017 et imagine un avenir sombre où les humains artificiels connus comme les réplicants ont [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "La nouvelle caméra de sécurité intérieure de TapoS inclut un écran tactile pour les appels vidéo",
+      "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+      "date": "2026-11-25T08:30:00-05:00",
+      "description": "La marque Tapo Smart Home de TP-Link a annoncé une nouvelle caméra de sécurité intérieure qui peut aider à garder un œil sur votre maison pendant que vous êtes absent ou vous connecter à la famille et aux amis pendant que vous êtes à la maison. Le C825 met à niveau une caméra panoramique 2K avec un écran tactile de 4 pouces, de sorte que lorsqu'il ne regarde pas les intrus ou les animaux de [...]",
+      "source": "The Verge",
+      "category": "Technologie"
     },
     {
       "title": "Le codage vibe a-t-il rendu open source la nouvelle normale pour les synthés ?",
@@ -2207,38 +2247,6 @@
       "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
       "date": "2026-11-25T06:12:42-05:00",
       "description": "Ce mois-ci Exchange Online et Microsoft Outlook panne a incité le géant du logiciel à déclarer un \"Code Rouge\" inhabituel en interne, rapports Reuters. La panne de près de 24 heures a enlevé l'e-mail pour des millions de clients, et a été déclenchée par un bug qui était assis sur Microsoft 365 networking gateway serveurs depuis Juillet [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Bureau américain de la criminalité financière révèle «incident de cybersécurité",
-      "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "date": "2026-11-24T20:00:00-05:00",
-      "description": "Le Financial Crimes Enforcement Network (FinCEN) a révélé mardi qu'il enquête sur un « incident de cybersécurité ». Le bureau, qui fait partie du ministère du Trésor, a déclaré qu'il examine un « incident qui a entraîné un accès non autorisé à un sous-ensemble limité de ses systèmes ». Il n'a offert aucune information sur l'ensemble de la [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le guide cadeau pour les papas de Verge.",
-      "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "date": "2026-11-24T18:59:29-05:00",
-      "description": "Les jours où vous pourriez acheter à votre père une cravate aléatoire ou un vaisseau d'alcool en cuir ou un kit de rasage. Les papas veulent quelque chose de mémorable. Heureusement pour vous, ce n'est pas si difficile de trouver quelque chose de spécial qu'il approuvera, et nous sommes là pour vous guider. Nous l'avons fait [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Pourquoi l'armée américaine va faire exploser près de 10 000 livres d'explosifs instables en Iowa",
-      "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-      "date": "2026-11-24T18:25:46-05:00",
-      "description": "L'armée américaine va de l'avant avec des plans visant à faire exploser le stock national d'azide de plomb dans une usine de munitions à Middletown, en Iowa, vers 9h00, mercredi. Le Verge a contacté les experts sur ce à quoi s'attendre, et tiendra cet article à jour. Quel matériel l'armée prévoit-elle faire exploser ? Il y a [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Huawei reconnu coupable de vol de secrets commerciaux",
-      "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "date": "2026-11-24T17:23:27-05:00",
-      "description": "Un jury a déclaré Huawei coupable de vol de secrets commerciaux américains, comme l'ont rapporté NBC News et Bloomberg. Le verdict, rendu devant un tribunal fédéral à New York, conclut une bataille juridique d'années qui a accusé le géant chinois des télécommunications de voler le code source et la technologie exclusive de plusieurs entreprises, dont T-Mobile, Cisco, et [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
