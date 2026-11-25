@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-25T23:05:49.699430+00:00",
+  "updated_at": "2026-11-25T23:59:09.324882+00:00",
   "count": 281,
   "articles": [
+    {
+      "title": "Les marchés de l'Asie et du Pacifique sont ouverts aux investisseurs qui pèsent sur les nouveaux tarifs américains",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "date": "Wed, 25 Nov 2026 23:48:51 GMT",
+      "description": "Les marchés de l'Asie et du Pacifique devaient ouvrir jeudi plus haut, après que Wall Street eut mis en scène une reprise spectaculaire après les basses sessions du jour au lendemain.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Nous avons examiné ces 10 gadgets, et ils sont maintenant en vente pour Black Friday",
+      "link": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "date": "Wed, 25 Nov 2026 23:36:46 +0000",
+      "description": "Plusieurs gadgets de la liste Best of 2026 d'Engadget sont déjà en vente, y compris le pliable phare de Samsung et l'ordinateur portable d'entrée de gamme ultra-populaire d'Apple.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Houthis cible l'Arabie Saoudite Les ports de la mer Rouge à mesure que les frappes s'aggravent",
+      "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 23:33:39 +0000",
+      "description": "Une explosion a été signalée à Sanaa après que les défenses aériennes saoudiennes aient intercepté des missiles balistiques visant Riyad.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
     {
       "title": "Ligue des champions : le résumé de l’exploit des Lillois face au Bayern Munich et du match nul du PSG face à l’AS Roma",
       "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html",
@@ -9,6 +33,14 @@
       "description": "Les Lillois ont remporté leur premier match de Ligue des champions, mercredi, en faisant tomber à la surprise générale le Bayern Munich (2-1). Les Parisiens, eux, ont été tenus en échec sur leur pelouse (2-2) par l’AS Roma.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Les marées royales et les grandes vagues battent la Californie côtière",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 23:20:03 +0000",
+      "description": "Les vagues massives battent la Californie alors que les tempêtes à la conduite d'El Nino amènent des marées royales sur la côte ouest des États-Unis.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Tombeur du Bayern Munich, le Losc signe sa première victoire de la saison en Ligue des champions et se relance",
@@ -25,6 +57,22 @@
       "description": "Privé de Désiré Doué et Khvicha Kvaratskhelia, le club parisien n'a pas été capable de reproduire les démonstrations de force des sorties précédentes sur la scène européenne.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "La formation de trous noirs d'Euclid pour quasar à réglage record",
+      "link": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
+      "date": "Wed, 25 Nov 2026 23:04:11 +0000",
+      "description": "Le télescope spatial Euclid de l'ESA a trouvé un quasar d'enregistrement. Euclid l'a trouvé à redshift z=8.13, ce qui correspond à environ 630 millions d'années après le Big Bang. Il bat le record d'environ 40 millions d'années. La façon dont ces quasars se forment est perplexe, mais chaque nouvelle détection à de plus grandes distances conduit progressivement vers une réponse.",
+      "source": "Universe Today",
+      "category": "Exploration"
+    },
+    {
+      "title": "Les marées californiennes records provoquent des inondations importantes de routes et d'entreprises",
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+      "date": "Wed, 25 Nov 2026 22:56:36 GMT",
+      "description": "Les plages se rapprochent alors que Los Angeles et La Jolla voient des marées hautes et de grandes vagues battre la jetée monumentale de Pacifica Super El Niño a apporté des marées hautes records en haut et en bas de la côte californienne mercredi, en envoyant l'eau de mer se précipitant dans les communautés bord de plage et inondant les routes et les entreprises. Alors que les grandes vagues battaient la côte, l'extrémité d'une jetée monumentale de Pacifica, au sud de San Francisco, était défoncée dans la mer, les médias locaux",
+      "source": "The Guardian",
+      "category": "Environnement"
     },
     {
       "title": "Intempéries : la vigilance orange est levée pour le Var et les Alpes-Maritimes, plus aucun département n'est en alerte",
@@ -46,7 +94,7 @@
       "title": "Duran Duran Le guitariste Andy Taylor meurt à 65 ans",
       "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Wed, 25 Nov 2026 22:53:00 GMT",
-      "description": "Le groupe a eu de nombreux succès dans les années 1980, dont \"Girls on Film\" et \"Hungry Like The Wolf\".",
+      "description": "Andy Taylor a d'abord révélé qu'il luttait contre le cancer en 2022 quand Duran Duran a été intronisé au Rock & Roll Hall of Fame. Le groupe a eu de nombreux succès dans les années 1980, y compris \"Girls on Film\" et \"Hungry Like The Wolf\".",
       "source": "Deutsche Welle",
       "category": "Monde"
     },
@@ -198,7 +246,7 @@
       "title": "Carla Babb a été nommée responsable du contenu pour les temps militaires et les nouvelles de la défense",
       "link": "https://www.defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news/",
       "date": "Wed, 25 Nov 2026 21:51:50 +0000",
-      "description": "Arlington, VA, le 30 novembre 2026 – Carla Babb se joint aux Nouvelles militaires et de la Défense en tant que nouvelle responsable du contenu. En près de deux décennies couvrant la sécurité nationale et les affaires internationales, Babb a acquis une réputation pour le journalisme intrépide, motivé par les faits et des relations profondes dans l'établissement de défense américain. Reconnu comme l'un des [...]",
+      "description": "Carla Babb se joint à Military Times and Defense News en tant que nouvelle responsable du contenu. En près de deux décennies couvrant la sécurité nationale et les affaires internationales, Babb a acquis une réputation pour le journalisme intrépide, motivé par les faits et des relations profondes dans l'établissement de défense américain. Reconnu comme l'un des journalistes de défense les plus honnêtes et bien-sourcés, Babb [...]",
       "source": "Defense News",
       "category": "Défense"
     },
@@ -339,14 +387,6 @@
       "category": "Technologie"
     },
     {
-      "title": "US Education Department enquête sur les écoles de Virginie après un scandale d'abus sexuels",
-      "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 20:52:32 +0000",
-      "description": "Les écoles de Virginie font l'objet d'un examen attentif après des révélations d'abus et des échecs généralisés dans les vérifications obligatoires des antécédents du personnel.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Australie reçoit le premier simulateur sous-marin de la classe Virginie à HMAS Stirling",
       "link": "https://www.navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling/",
       "date": "Wed, 25 Nov 2026 20:45:58 +0000",
@@ -360,14 +400,6 @@
       "date": "Wed, 25 Nov 2026 20:45:09 +0000",
       "description": "Le Premier ministre Benjamin Netanyahu est accusé de corruption, de fraude et de violation de la confiance dans un procès de longue date qui a divisé le pays. Il nie toute faute.",
       "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Baby Aliyah vole le spectacle pendant le débat au Sénat australien",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 20:42:41 +0000",
-      "description": "La sénatrice australienne Fatima Payman s'est adressée au Sénat avec sa fille de six mois, Aliyah, dans ses bras.",
-      "source": "Al Jazeera",
       "category": "Monde"
     },
     {
@@ -835,14 +867,6 @@
       "category": "Environnement"
     },
     {
-      "title": "Les marées californiennes records provoquent des inondations importantes de routes et d'entreprises",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-      "date": "Wed, 25 Nov 2026 17:20:26 GMT",
-      "description": "Les plages se rapprochent alors que Los Angeles et La Jolla voient des marées hautes et de grandes vagues battre la jetée monumentale de Pacifica Super El Niño a apporté des marées hautes records en haut et en bas de la côte californienne mercredi, en envoyant l'eau de mer se précipitant dans les communautés bord de plage et inondant les routes et les entreprises. Alors que les grandes vagues battaient la côte, l'extrémité d'une jetée monumentale de Pacifica, au sud de San Francisco, était défoncée dans la mer, les médias locaux",
-      "source": "The Guardian",
-      "category": "Environnement"
-    },
-    {
       "title": "Etsy clarifie les termes de l'IA après la réaction du vendeur",
       "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
       "date": "Wed, 25 Nov 2026 17:12:57 +0000",
@@ -881,14 +905,6 @@
       "description": "Lors d'une étape importante de la marine italienne, le premier « Full » MPCS/PPA Giovanni delle Bande Nere a intercepté un missile balistique à grande vitesse en utilisant Aster 30. Le post Marine italienne Premier PPA complet Giovanni delle Bande Nere Démonstrations BMD Capacités est apparu en premier sur Naval News .",
       "source": "Naval News",
       "category": "Défense"
-    },
-    {
-      "title": "WhatsApp propose enfin des messages programmés",
-      "link": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
-      "date": "Wed, 25 Nov 2026 16:54:10 +0000",
-      "description": "Vous pourrez programmer un message texte, photo ou vidéo jusqu'à 14 jours à l'avance.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Enfance, carrière Come Full Circle for Budget Analyste à la NASA Goddard",
@@ -1195,14 +1211,6 @@
       "category": "Défense"
     },
     {
-      "title": "L'indice d'inflation préféré de la Fed s'est accéléré à 3,8% en octobre, ce qui a augmenté les participations de la banque centrale en 2027.",
-      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "date": "Wed, 25 Nov 2026 14:18:45 GMT",
-      "description": "Selon le consensus de Dow Jones, l'indice des prix des dépenses de consommation personnelle devrait afficher un taux d'inflation annuel de 3,8 % en octobre.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "La Chine envoie le premier astronaute étranger au rival de l'ISS alors qu'il mondialise les opérations spatiales",
       "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
       "date": "Wed, 25 Nov 2026 14:18:29 GMT",
@@ -1249,14 +1257,6 @@
       "description": "La guerre en Iran a relancé la guerre civile de dix ans au Yémen. Les troupes soutenues par l'Arabie saoudite se battent pour se défendre contre les combattants Houthi en marche alors que les blessés sont emmenés à la ville portuaire d'Aden, la capitale provisoire du gouvernement.",
       "source": "The New York Times",
       "category": "Monde"
-    },
-    {
-      "title": "Une nouvelle découverte redessine la carte de la Voie lactée",
-      "link": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
-      "date": "Wed, 25 Nov 2026 13:13:45 +0000",
-      "description": "De nouvelles recherches montrent que la formation d'étoiles se produit dans la barre centrale de la Voie lactée. Cela va à l'encontre des recherches antérieures et des observations d'autres galaxies spirales barrées. La découverte par un doctorant montre une vaste structure tournante d'étoiles près du centre de notre galaxie conduit d'énormes fronts de choc à travers des nuages de gaz, les compresser et créer des conditions pour que de nouvelles étoiles se forment.",
-      "source": "Universe Today",
-      "category": "Exploration"
     },
     {
       "title": "Le téléchargement : l'IA débordant des records ouverts, et la lutte contre l'incendie pour le pergélisol",
@@ -1680,7 +1680,7 @@
       "date": "Wed, 25 Nov 2026 00:34:05 GMT",
       "description": "Une fois considéré comme une voiture pour les personnes âgées, les ruraux, les petites voitures sont embrassées par une population plus jeune.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "Flexell Space et ALATYR signent un protocole d'entente pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
@@ -1965,7 +1965,7 @@
     {
       "title": "EN DIRECT - Présidentielle 2027 : Lisnard veut attirer des électeurs de «tous horizons y compris le RN»",
       "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125",
-      "date": "Thu, 26 Nov 2026 00:00:04 +0100",
+      "date": "Thu, 26 Nov 2026 00:15:03 +0100",
       "description": "Le candidat Horizons à la présidentielle Édouard Philippe a proposé, mardi, un débat télévisé avec son concurrent de droite, David Lisnard, auquel il reproche de ne pas être assez clairement «étanche avec l’extrême droite».",
       "source": "Le Figaro",
       "category": "France"
@@ -2203,6 +2203,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Amazon perd sa dernière tentative pour sortir de la gestion plus d'avis de rappel",
+      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "date": "2026-11-25T18:56:44-05:00",
+      "description": "Amazon est sur le point de rappeler plus de 400 000 produits dangereux après avoir perdu sa bataille légale contre la Commission américaine de sécurité des produits de consommation (CPSC). Le tribunal de district américain pour le district de Maryland a statué en faveur du CPSC, qui a soutenu qu'Amazon est un distributeur de marchandises, pas un fournisseur de [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Google de brevet pour les flux vidéo AI personnalisés peint une image sombre du divertissement",
       "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "date": "2026-11-25T16:51:26-05:00",
@@ -2239,14 +2247,6 @@
       "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
       "date": "2026-11-25T14:10:15-05:00",
       "description": "1Mot de passe dit qu'un hacker a volé des noms de clients et des adresses email après avoir obtenu l'accès à ses systèmes de backend. La violation n'a pas révélé de mots de passe ou d'autres informations stockées dans les coffres des clients, mais pourrait mettre les utilisateurs en danger de tentatives d'hameçonnage, selon un message révélant l'incident. On ne sait pas combien d'utilisateurs sont touchés. Le gestionnaire de mots de passe [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le Fairphone 6 Plus est modulaire, réparable et 100 $ de rabais en ce moment",
-      "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-      "date": "2026-11-25T13:00:00-05:00",
-      "description": "Contrairement à la plupart des smartphones, le Fairphone 6 Plus est conçu pour la réparation à domicile, avec des pièces facilement remplaçables qui pourraient aider à prolonger sa durée de vie bien dans le futur. Cela rend son point de prix intermédiaire plus facile à justifier, surtout maintenant qu'il est tombé à un nouveau bas de 552,49 $ (environ 98 $ de rabais) à Amazon dans le cadre de la [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
