@@ -1,14 +1,78 @@
 {
-  "updated_at": "2026-11-25T01:53:32.398285+00:00",
+  "updated_at": "2026-11-25T02:52:20.430834+00:00",
   "count": 288,
   "articles": [
     {
+      "title": "Le jury américain condamne Huawei dans un procès pénal pour fraude et secrets commerciaux",
+      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "date": "Wed, 25 Nov 2026 02:43:33 GMT",
+      "description": "Huawei a été reconnu coupable de fraude bancaire, de blanchiment d'argent et de complot pour vol de secrets commerciaux dans un procès américain.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Attaque de Houthi contre le fonds souverain saoudien La tour du FIP blesse 11",
+      "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "date": "Wed, 25 Nov 2026 02:36:43 GMT",
+      "description": "Il s'agit de la deuxième attaque du groupe soutenu par l'Iran en six jours sur la tour, bien que l'attaque précédente n'ait fait aucune victime.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le chef de l'OMS exhorte à mettre fin au blocus américain du carburant sur Cuba",
+      "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 02:23:19 +0000",
+      "description": "L'ONU alloue 2 millions de dollars pour la vaccination et l'équipement médical alors que les soins de santé cubains se heurtent à de graves pénuries.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Trump est prêt à pardonner Jensen Huang si nécessaire: NY Post",
+      "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "date": "Wed, 25 Nov 2026 02:09:45 GMT",
+      "description": "Trump a déclaré qu'il serait prêt à pardonner Jensen Huang si nécessaire et a soutenu que le PDG de Nvidia ne devrait pas avoir à invoquer le cinquième amendement devant le Congrès.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Les retombées de Nvidia vont-elles tuer l'Asie ?",
+      "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
+      "date": "Wed, 25 Nov 2026 02:04:15 GMT",
+      "description": "Les projets qui toued puce accès aux clients chinois font l'objet d'un examen plus étroit aux États-Unis",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Le jury américain condamne Huawei pour violation des sanctions, vol de secrets commerciaux",
+      "link": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Wed, 25 Nov 2026 02:01:00 GMT",
+      "description": "Huawei a été reconnu coupable de 10 des 12 accusations portées contre elle. La compagnie a dit qu'elle comptait faire appel du verdict.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "SoftBank baisse de 14% comme Wall Street AI vend-off ondulles sur les noms de technologie asiatique",
       "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "date": "Wed, 25 Nov 2026 01:48:47 GMT",
+      "date": "Wed, 25 Nov 2026 01:57:29 GMT",
       "description": "Les stocks de technologie asiatique se sont effondrés mercredi, sous l'impulsion d'une ruée sur les stocks japonais de semi-conducteurs, ce qui a ravivé les inquiétudes des investisseurs de l'intelligence artificielle.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "Les marchés asiatiques perdent du terrain à mesure que les craintes d'IA reviennent",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "date": "Wed, 25 Nov 2026 01:41:03 GMT",
+      "description": "Les stocks de technologie à Tokyo et Séoul souffrent après que Wall Streets Jensen Huang rebondisse",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Les fans du Sénégal célèbrent la victoire légale de l'AFCON sur le Maroc",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+      "date": "Wed, 25 Nov 2026 01:39:53 +0000",
+      "description": "Le Sénégal a été réintégré en tant que champion de l'AFCON 2025 après que la Cour d'arbitrage pour le sport a confirmé leur appel.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Israël Eisenkot obtient le premier partenaire de la coalition pour former le gouvernement",
@@ -33,14 +97,6 @@
       "description": "Selon une nouvelle enquête, 55 pour cent des électeurs, dont 80 pour cent des démocrates, veulent la fin immédiate de la guerre.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Le retour Nvidia de Jensen Huang montre que la course USA-Chine AI est plus que des jetons",
-      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "date": "Wed, 25 Nov 2026 01:13:56 GMT",
-      "description": "Le retour de Jensen Huang en tant que PDG de Nvidia démontre que la course d'intelligence artificielle entre les États-Unis et la Chine ne concerne pas seulement les semi-conducteurs, mais aussi le talent technologique.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
@@ -155,14 +211,6 @@
       "category": "Économie"
     },
     {
-      "title": "L'Alaska conclut un accord pour remettre les dossiers des électeurs au ministère de la Justice des États-Unis",
-      "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 00:28:28 +0000",
-      "description": "Cette décision fait suite à la conclusion des élections à mi-parcours de 2026 et aux efforts déployés par Trump pour rassembler les listes électorales des États.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Yales Sonnenfeld: Nvidia est un «détrait» à la puissance industrielle américaine — pas un champion",
       "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "date": "Wed, 25 Nov 2026 00:12:02 +0000",
@@ -177,14 +225,6 @@
       "description": "Huang est confronté à des questions continues au sujet de sa relation avec Alice Huang, un cadre qui aurait des liens avec le renseignement chinois qui travaillait auparavant pour une entreprise accusée d'avoir détourné illégalement des puces Nvidia vers la Chine.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "La guerre d'Iran vit : Houthis menace les ports saoudiens sur l'ordre de la coalition",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 00:00:00 +0000",
-      "description": "Houthis a promis de cibler Jeddah et d'autres ports saoudiens si Hodeidah est touché, après que la coalition ait émis un ordre d'évacuation.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Vous n'avez pas à regarder votre Apple Watch pour obtenir le temps",
@@ -277,8 +317,8 @@
     {
       "title": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
       "link": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html",
-      "date": "Tue, 24 Nov 2026 23:36:41 +0100",
-      "description": "Le congrès de l’Association des maires de France s’est ouvert à Paris, mardi 24 novembre. Beaucoup de maires s’inquiètent de la situation sociale et que la détresse d’une partie de la population profite au Rassemblement national.",
+      "date": "Tue, 24 Nov 2026 23:36:38 +0100",
+      "description": "Le congrès de l’Association des maires de France s’est ouvert à Paris, mardi 24 novembre. Beaucoup de maires s’émeuvent de la situation sociale et redoutent que la détresse d’une partie de la population profite au Rassemblement national.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -417,14 +457,6 @@
       "description": "Lettre ouverte avertit Baaja, qui vise à accélérer les projets d'énergie et d'infrastructure, causera des dommages irréversibles au climat Un groupe de plus de 120 spécialistes du climat ont exhorté les législateurs américains à ne pas adopter de législation litigieuse pour accélérer la construction de projets d'énergie, de datacenters et d'autres infrastructures, dans le contexte d'une réaction de plus en plus forte au projet de loi sur les permis. Dans une lettre ouverte aux membres de la Chambre des Représentants, la collection de la Terre",
       "source": "The Guardian",
       "category": "Environnement"
-    },
-    {
-      "title": "Bénéfice de Dell sur la force AI, l'entreprise autorise un rachat de 25 milliards de dollars",
-      "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "date": "Tue, 24 Nov 2026 22:07:45 GMT",
-      "description": "Les ventes totales de l'entreprise ont plus que doublé sur une base annuelle au cours du troisième trimestre, sous l'impulsion de la demande de serveurs AI.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "La vente technique reprend sous forme d'euphorie de Jensen Huang.",
@@ -609,14 +641,6 @@
       "description": "Dix mois après une finale de CAN houleuse à Rabat, le Tribunal arbitral du sport a tranché le litige : mardi 24 novembre 2026, la juridiction a contredit le jury d'appel de la Confédération africaine de football qui, le 17 mars, avait déclaré l'équipe du Sénégal forfait et l'équipe du Maroc championne d'Afrique. Ce sont bien les Lions de la Teranga, vainqueurs sur le terrain, qui ont remporté le titre continental. Une décision qui fait forcément des satisfaits et des déçus de part et d'autre.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Drugmaker Insmed actions rallye 14% après Sanofi accepte de l'acheter en pharmacie plus grande affaire en trois ans",
-      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "date": "Tue, 24 Nov 2026 21:07:19 GMT",
-      "description": "Sanofi fait face à une baisse des revenus vers la fin de la décennie, car les médicaments les plus vendus perdent leur exclusivité et ouvrent la voie à la concurrence pour les fabricants de médicaments génériques.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Affaire Nvidia : l’intervention de Donald Trump en faveur de Jensen Huang tourne à l’affaire d’État",
@@ -1211,14 +1235,6 @@
       "category": "Monde"
     },
     {
-      "title": "Shanghai le puissant chef du Parti communiste a renversé alors que Xi augmente la purge",
-      "link": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1",
-      "date": "Tue, 24 Nov 2026 15:55:20 GMT",
-      "description": "Chen Jining faisant l'objet d'une enquête au sujet de « violations graves de la discipline et des lois »",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "Répéter la lutte indo-pacifique avec la simulation améliorée par l'IA",
       "link": "https://breakingdefense.com/2026/11/rehearsing-the-indo-pacific-fight-with-ai-enhanced-simulation/",
       "date": "Tue, 24 Nov 2026 15:47:26 +0000",
@@ -1249,14 +1265,6 @@
       "description": "La mission conjointe ESA/JAXA BepiColombo est arrivée à Mercury, et parmi son arsenal de détecteurs prêts à explorer le monde le plus intérieur est un nouvel instrument innovant. Une équipe de l'Université de Leicester a récemment publié une image d'un objet iconique de fond comme preuve de test de concept pour son spectromètre à rayons X (MIXS). Ceci vient quand BepiColombo est entré en orbite autour de Mercure cette semaine.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Les journaux du Pape François racontent la crise spirituelle, il voit le « diable »",
-      "link": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Tue, 24 Nov 2026 15:21:00 GMT",
-      "description": "Des extraits des journaux de feu le pape François ont été publiés, la première sortie du genre depuis les années 1960. Ils discutent de ses luttes avec son rôle au Vatican et des visions du diable et des portes de l'enfer.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Boxe : la championne olympique Imane Khelif de retour sur le ring",
@@ -1625,14 +1633,6 @@
       "description": "Les chercheurs ont découvert un nouveau sous-type de dépression qui peut toucher près d'une personne sur quatre souffrant de dépression grave, récurrente ou persistante. Connu sous le nom de « dépression circadienne », il est lié à l'horloge interne du corps et est associé à des tendances de chouettes nocturnes, un sommeil excessif, un épuisement persistant et des symptômes plus graves. Les antidépresseurs traditionnels travaillent souvent moins efficacement pour ces personnes, ce qui peut expliquer pourquoi certains",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "SpaceX-Tesla : les directeurs négociant la plus grande fusion jamais réalisée",
-      "link": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
-      "date": "Tue, 24 Nov 2026 05:00:16 GMT",
-      "description": "Cinq cadres sont chargés de combiner les entreprises qui s'étendent à Elon Musk.",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "Les médecins luttent pour sauver les bébés après que les parents refusent la vitamine K",
@@ -2211,6 +2211,14 @@
       "category": "Exploration"
     },
     {
+      "title": "L'étude révèle une «double menace» croissante de la fumée de feu de forêt et des vagues de chaleur en Indonésie",
+      "link": "https://news.mongabay.com/2026/11/study-reveals-rising-double-threat-of-wildfire-smoke-and-heatwaves-in-indonesia/",
+      "date": "25 Nov 2026 02:15:02 +0000",
+      "description": "JAKARTA — Alors que la pire saison de feux de forêt et de brume en Indonésie en 2026 pourrait être terminée avec moins de points chauds détectés au cours des dernières semaines, ce n'était pas le seul danger auquel les résidents étaient confrontés dans la crise d'un mois. Par exemple, Palangka Raya dans la province centrale de Kalimantan, l'une des zones les plus touchées par les incendies de forêt de cette année, [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
       "title": "Les espèces jusqu'aux 50 derniers animaux peuvent se rétablir, mais rarement sans aide",
       "link": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/",
       "date": "25 Nov 2026 00:17:59 +0000",
@@ -2247,14 +2255,6 @@
       "link": "https://news.mongabay.com/short-article/2026/11/army-entire-u-s-stockpile-of-lead-azide-is-at-iowa-plant-and-set-to-be-detonated-wednesday-morning/",
       "date": "24 Nov 2026 17:35:17 +0000",
       "description": "MIDDLETOWN, Iowa (AP) — L'armée américaine déclare qu'elle prévoit de faire exploser l'ensemble de son stock d'azide de plomb à Iowa mercredi matin, en avertissant que les produits chimiques dangereuxment dégradants qui fabriquent des bombes pourraient répandre du plomb toxique dans la région. Les officiels ont cherché à assurer les résidents mardi qu'ils ont pris des mesures pour mettre des barrières autour de la zone de l'explosion et [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
-    },
-    {
-      "title": "Le plan de bioéconomie de l'Équateur garantit la durabilité, mais fait face à un test des priorités gouvernementales",
-      "link": "https://news.mongabay.com/2026/11/ecuadors-bioeconomy-plan-vows-sustainability-but-faces-a-test-of-government-priorities/",
-      "date": "24 Nov 2026 17:03:56 +0000",
-      "description": "Le gouvernement équatorien a approuvé un nouveau plan décennal visant à promouvoir les activités économiques qui utilisent les ressources biologiques du pays, tout en prenant des mesures pour conserver les écosystèmes dont ils dépendent. Il vise à innover l'agro-industrie, l'écotourisme et d'autres industries dans les zones rurales, sans menacer l'environnement ou les communautés autochtones. Les [...]",
       "source": "Mongabay",
       "category": "Environnement"
     },
