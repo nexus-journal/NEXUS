@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-11-25T23:59:09.324882+00:00",
+  "updated_at": "2026-11-26T00:57:38.615915+00:00",
   "count": 281,
   "articles": [
-    {
-      "title": "Les marchés de l'Asie et du Pacifique sont ouverts aux investisseurs qui pèsent sur les nouveaux tarifs américains",
-      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "date": "Wed, 25 Nov 2026 23:48:51 GMT",
-      "description": "Les marchés de l'Asie et du Pacifique devaient ouvrir jeudi plus haut, après que Wall Street eut mis en scène une reprise spectaculaire après les basses sessions du jour au lendemain.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
     {
       "title": "Nous avons examiné ces 10 gadgets, et ils sont maintenant en vente pour Black Friday",
       "link": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
@@ -27,20 +19,20 @@
       "category": "Monde"
     },
     {
-      "title": "Ligue des champions : le résumé de l’exploit des Lillois face au Bayern Munich et du match nul du PSG face à l’AS Roma",
-      "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html",
-      "date": "Wed, 25 Nov 2026 23:32:09 +0100",
-      "description": "Les Lillois ont remporté leur premier match de Ligue des champions, mercredi, en faisant tomber à la surprise générale le Bayern Munich (2-1). Les Parisiens, eux, ont été tenus en échec sur leur pelouse (2-2) par l’AS Roma.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Les marées royales et les grandes vagues battent la Californie côtière",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
       "date": "Wed, 25 Nov 2026 23:20:03 +0000",
       "description": "Les vagues massives battent la Californie alors que les tempêtes à la conduite d'El Nino amènent des marées royales sur la côte ouest des États-Unis.",
       "source": "Al Jazeera",
       "category": "Monde"
+    },
+    {
+      "title": "Législatives en Espagne: les Canaries redoutent une crise migratoire en cas de victoire de la droite dure",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20261125-l%C3%A9gislatives-en-espagne-les-canaries-redoutent-une-crise-migratoire-en-cas-de-victoire-de-la-droite-dure",
+      "date": "Wed, 25 Nov 2026 23:13:35 GMT",
+      "description": "Aux Canaries, le débat électoral s'est beaucoup focalisé sur la question migratoire. Une nouvelle loi permet normalement une répartition des migrants mineurs entre régions. Mais si la droite dure passe lors des élections générales du 29 novembre 2026, ce compromis risque de voler en éclat et de transformer les Canaries en « hub » de migrants. Une possibilité qui inquiète notamment les associations, pour l'une des régions les plus pauvres d'Espagne.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Tombeur du Bayern Munich, le Losc signe sa première victoire de la saison en Ligue des champions et se relance",
@@ -56,6 +48,14 @@
       "date": "Wed, 25 Nov 2026 23:07:59 +0100",
       "description": "Privé de Désiré Doué et Khvicha Kvaratskhelia, le club parisien n'a pas été capable de reproduire les démonstrations de force des sorties précédentes sur la scène européenne.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-france/20261125-pr%C3%A9sidentielle-2027-pour-les-candidats-comme-pour-les-maires-la-gal%C3%A8re-des-parrainages",
+      "date": "Wed, 25 Nov 2026 23:06:58 GMT",
+      "description": "C'est l'un des grands enjeux pour les candidats à la présidentielle française de 2027 : obtenir les fameux 500 parrainages d'élus de maires, députés, conseillers départementaux et régionaux. À chaque élection, certains ratent cette étape incontournable et sont donc contraints d'abandonner la course. En cause notamment : la réticence des maires. Près d'un sur deux exclut de parrainer un candidat, révèle une récente étude de l'Association des maires de France.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -131,14 +131,6 @@
       "category": "France"
     },
     {
-      "title": "Malen et Rom ont nié avoir blessé le PSG dans le match nul de la Ligue des Champions",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 22:41:46 +0000",
-      "description": "Les champions de la Ligue Paris Saint-Germain ont tenu à 2-2 nuls de Roma comme une lutte d'équipe ravagée par des blessures.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Un vaisseau spatial européen trouve une scène chaotique après une expérience de déflexion d'astéroïdes",
       "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "date": "Wed, 25 Nov 2026 22:36:45 +0000",
@@ -192,22 +184,6 @@
       "date": "Wed, 25 Nov 2026 22:18:06 GMT",
       "description": "21 autres sont blessés après que le pétrolier se serait renversé sur une route périphérique occupée dans la capitale égyptienne.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Man United nié à Sporting comme arbitre écrase Fernandes double",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 22:15:59 +0000",
-      "description": "Bruno Fernandes gagne deux fois à Lisbonne, mais les décisions de l'arbitre en avant-première comme Mauricio Pochettino a nié la première victoire.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Au moins 30 morts à cause d'un accident de camion-citerne enflamment un grand incendie sur l'autoroute du Caire",
-      "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-      "date": "Wed, 25 Nov 2026 22:10:12 GMT",
-      "description": "Blaze sur la route périphérique autour de la capitale égyptienne blesse au moins 25 personnes et laisse des voitures et des motos carbonisées Un accident impliquant un pétrolier a allumé un énorme incendie sur une route entourant le Caire mercredi, tuant au moins 30 personnes, a déclaré les autorités égyptiennes. Le feu sur la route périphérique, une artère clé qui entoure la capitale égyptienne, a également blessé au moins 25 personnes et laissé plus de deux douzaines de voitures et motos carbonisées, le public",
-      "source": "The Guardian",
       "category": "Monde"
     },
     {
@@ -345,14 +321,6 @@
       "description": "Le 25 novembre 1970, un avion expérimental appelé Northrop M2-F3 a effectué son premier vol motorisé. Voilà pourquoi ça comptait.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Les pluies d'hiver menacent 1 000 sites d'hébergement de Gaza, les conseils avertissent",
-      "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-      "date": "Wed, 25 Nov 2026 21:03:51 +0000",
-      "description": "Environ 200 000 tentes doivent être remplacées, disent les municipalités de Gaza, comme l'UE exhorte Israël à rouvrir tous les points de passage.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Vance dit qu'il a été assuré que Jensen Huang n'était pas sous enquête du DOJ",
@@ -515,14 +483,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'armée américaine dit que l'explosion contrôlée d'explosifs dans l'Iowa a été \"un énorme succès\"",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 19:54:52 GMT",
-      "description": "Malgré les préoccupations répandues des résidents avant l'explosion, les responsables affirment que les lectures de plomb dans la région ont jusqu'à présent été prometteuses.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "Le Tesla Cybertuck annulé est le camion d'occasion le plus vendu en Amérique",
       "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
       "date": "Wed, 25 Nov 2026 19:54:32 +0000",
@@ -595,20 +555,20 @@
       "category": "Environnement"
     },
     {
-      "title": "SpaceX Starship débris devient l'art dans Ashley Zelinskie 'Le poids de l'espace' (vidéo, photos)",
-      "link": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
-      "date": "Wed, 25 Nov 2026 19:00:00 +0000",
-      "description": "Explorez les monuments 'Le poids de l'espace' d'Ashley Zelinskie en marbre, les estampes d'Ejecta, les sculptures de Launch Sequence et le ciel interactif à Heft Gallery à New York.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Seabird 'espies.. pourrait aider à repérer les navires qui ne diffusent pas leur emplacement",
       "link": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Wed, 25 Nov 2026 19:00:00 +0000",
       "description": "Des chercheurs ont découvert que les oiseaux de mer équipés d'enregistreurs audio et de traqueurs GPS peuvent détecter les navires, offrant ainsi un moyen de surveiller les navires de pêche exploités illégalement.",
       "source": "New Scientist",
       "category": "Sciences"
+    },
+    {
+      "title": "SpaceX Starship débris devient l'art dans Ashley Zelinskie 'Le poids de l'espace' (vidéo, photos)",
+      "link": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+      "date": "Wed, 25 Nov 2026 19:00:00 +0000",
+      "description": "Explorez les monuments 'Le poids de l'espace' d'Ashley Zelinskie en marbre, les estampes d'Ejecta, les sculptures de Launch Sequence et le ciel interactif à Heft Gallery à New York.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "Peter Magyar rencontre Volodymyr Zelenskyy: La Hongrie et l'Ukraine prennent un nouveau départ après les relations glacées de l'ère Viktor Orban",
@@ -763,12 +723,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Je pense que c'est peut-être le meilleur télescope intelligent pour la photographie nébuleuse — je suis étonné que ce soit 500 $ de rabais",
-      "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+      "title": "Les progrès étonnants en maths montrent à quel point on comprend peu",
+      "link": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "date": "Wed, 25 Nov 2026 18:00:00 +0000",
-      "description": "Je viens de tester la nouvelle Vaonis Vespera Pro 2 et j'ai capturé une incroyable astrophotographie couleur large champ et maintenant il est 500 $ moins cher dans cette affaire de télescope noir vendredi.",
-      "source": "Space.com",
-      "category": "Exploration"
+      "description": "Le plus gros problème en maths a été craqué par l'IA, mais il reste impossible de prédire comment ses capacités progresseront dans d'autres domaines",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "«Blade Runner 2099, éloge des incroyables décors qui ont donné vie à l'univers de la science-fiction: « tout était si bien réalisé» (interview)",
@@ -779,12 +739,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Les progrès étonnants en maths montrent à quel point on comprend peu",
-      "link": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "title": "Je pense que c'est peut-être le meilleur télescope intelligent pour la photographie nébuleuse — je suis étonné que ce soit 500 $ de rabais",
+      "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
       "date": "Wed, 25 Nov 2026 18:00:00 +0000",
-      "description": "Le plus gros problème en maths a été craqué par l'IA, mais il reste impossible de prédire comment ses capacités progresseront dans d'autres domaines",
-      "source": "New Scientist",
-      "category": "Sciences"
+      "description": "Je viens de tester la nouvelle Vaonis Vespera Pro 2 et j'ai capturé une incroyable astrophotographie couleur large champ et maintenant il est 500 $ moins cher dans cette affaire de télescope noir vendredi.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "Ce $1 900 Alienware Aurora est l'un des meilleurs Black Friday PC offres",
@@ -929,14 +889,6 @@
       "description": "Le prix porte à 203 le nombre total de ravitaillements aériens en vertu du contrat, et est le lot de production final pour l'US Air Force en vertu du contrat initial à prix fixe du programme.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "Bangladesh: les ouvriers du textile obtiennent une hausse du salaire minimum après un mois de manifestations",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261125-bangladesh-les-ouvriers-du-textile-obtiennent-une-hausse-du-salaire-minimum-apr%C3%A8s-un-mois-de-manifestations",
-      "date": "Wed, 25 Nov 2026 16:35:21 GMT",
-      "description": "Ouvriers et patrons de l'industrie textile du Bangladesh ont convenu, mercredi 25 novembre, d'une hausse de plus d'un tiers du salaire minimum qui, même bien qu'en deçà de leurs exigences, a convaincu les syndicats d'appeler à la reprise du travail.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Les avantages des cartes de crédit alimentent la rentabilité des compagnies aériennes",
@@ -1155,22 +1107,6 @@
       "category": "Économie"
     },
     {
-      "title": "«Les candidats doivent se prononcer plus» sur les violences contre les femmes, estime la députée Modem Maud Petit",
-      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261125-les-candidats-doivent-se-prononcer-plus-sur-les-violences-contre-les-femmes-estime-la-d%C3%A9put%C3%A9e-modem-maud-petit",
-      "date": "Wed, 25 Nov 2026 14:44:48 GMT",
-      "description": "Ce 25 novembre marque la journée internationale pour l'élimination de la violence contre les femmes. En France, les chiffres sont encore édifiants : 147 féminicides recensés depuis le début de 2026, une femme victime de violences sexuelles toutes les deux minutes, les condamnations définitives pour des violences sexistes et sexuelles sont en forte hausse. La députée Modem Maud Petit, membre de la Commission spéciale chargée d'examiner la proposition de loi intégrale, présidente de la commission d’enquête sur le traitement judiciaire des violences sexuelles incestueuses, revient sur les avancées en France et sur ce qu'il reste à faire.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "La parade annuelle de Thanksgiving de New York est menacée par la tempête",
-      "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 14:41:42 GMT",
-      "description": "Des vents forts et de fortes pluies devraient avoir des répercussions sur les célébrations aux États-Unis, avec le risque que le célèbre défilé de l'Action de grâce de Macy puisse être touché.",
-      "source": "BBC News",
-      "category": "Sciences"
-    },
-    {
       "title": "Pourquoi le Pentagone demande des «anomalies» comme il prévoit pour un CR à long terme",
       "link": "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr/",
       "date": "Wed, 25 Nov 2026 14:40:55 +0000",
@@ -1243,14 +1179,6 @@
       "category": "Monde"
     },
     {
-      "title": "Les factures d'énergie augmenteront de 26 % par rapport à janvier après la hausse des prix du gaz",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 13:42:08 GMT",
-      "description": "Un ménage utilisant une quantité d'énergie typique verrait sa facture annuelle passer de £1723 à £2166 si ce niveau était maintenu pendant un an.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Défense d'Aden, Yémen",
       "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
       "date": "Wed, 25 Nov 2026 13:39:46 +0000",
@@ -1289,6 +1217,14 @@
       "description": "Plusieurs sénateurs démocrates ont signalé cette décision, disant que le parti doit reconnaître la diversité de la classe de nouveau-né qui a catapulté le parti pour la victoire en novembre.",
       "source": "NPR",
       "category": "Monde"
+    },
+    {
+      "title": "Hera révèle un cratère d'astéroïde de taille stade à l'impact d'un vaisseau spatial",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact",
+      "date": "Wed, 25 Nov 2026 12:02:51 +0100",
+      "description": "Arrivant sur le site de la première expérience de défense planétaire de l'humanité, la mission Hera de l'Agence spatiale européenne a trouvé un monde miniature de surprises.",
+      "source": "ESA",
+      "category": "Exploration"
     },
     {
       "title": "Comment les soldats de jouets de saut ont accidentellement repris votre FYP",
@@ -1369,14 +1305,6 @@
       "description": "Le verdict fait suite à un procès d'un mois à New York.",
       "source": "BBC News",
       "category": "Technologie"
-    },
-    {
-      "title": "Pourquoi la Chine a-t-elle envoyé le premier astronaute pakistanais dans l'espace ?",
-      "link": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 10:26:50 GMT",
-      "description": "Le Pakistanais Muhammad Zeeshan Ali est devenu le premier ressortissant étranger à monter à bord de la station spatiale chinoise Tiangong.",
-      "source": "BBC News",
-      "category": "Sciences"
     },
     {
       "title": "Enterré en Italie budget, les officiels voir Rome atteindre l'objectif de dépenses de l'OTAN",
@@ -1515,14 +1443,6 @@
       "category": "Monde"
     },
     {
-      "title": "UK Awards HII £14 millions de contrat pour Royal Navy REMUS 620 UUV",
-      "link": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
-      "date": "Wed, 25 Nov 2026 06:38:53 +0000",
-      "description": "Le ministère de la Défense du Royaume-Uni a accordé à HII un contrat de 142 millions de livres sterling (186 millions de dollars) pour l'approvisionnement de REMUS 620 UUV et de Sea Launchers pour le programme MHC de la Royal Navy. The post UK Awards HII £14 millions Contrat pour Royal Navy REMUS 620 UUVs est apparu en premier sur Naval News .",
-      "source": "Naval News",
-      "category": "Défense"
-    },
-    {
       "title": "Deux enfants parmi six morts dans un accident d'avion",
       "link": "https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273",
       "date": "Wed, 25 Nov 2026 06:38:00 +0000",
@@ -1641,14 +1561,6 @@
       "description": "Des rabais serrés pour \"Green Wednesday\", l'un des jours les plus vendus pour le cannabis, aident les clients à réduire les coûts. Mais les experts disent que les détaillants ressentent le problème.",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "Le Chinois Shenzhou-24 transporte le premier astronaute pakistanais dans l'espace",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 04:46:23 GMT",
-      "description": "Muhammad Zeeshan Ali, ancien pilote de chasse, est le premier étranger à rejoindre une mission spatiale en équipage chinois.",
-      "source": "BBC News",
-      "category": "Sciences"
     },
     {
       "title": "Le conseil d'administration de Nvidia sous le feu pour la gestion des affaires présumées du PDG",
@@ -1963,12 +1875,108 @@
       "category": "Exploration"
     },
     {
+      "title": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
+      "date": "Thu, 26 Nov 2026 01:15:53 +0100",
+      "description": "Menés (0-1) après une terne première période, les Lillois ont bien réagi, mercredi 25 novembre, pour remporter une victoire cruciale (2-1) et de prestige face aux Bavarois. Vingt-neuvièmes au classement avec quatre points, ils conservent leurs chances d’accrocher une place de barragistes.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "La Corée du Sud a relevé les taux à la hausse en deux ans, l'inflation restant supérieure à l'objectif",
+      "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "date": "Thu, 26 Nov 2026 00:54:46 GMT",
+      "description": "La banque centrale a relevé les taux de 25 points de base à 3,25 % pour sa dernière réunion de l'année, conformément aux attentes des économistes.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Au moins 30 morts à cause d'un accident de camion-citerne enflamment un grand incendie sur l'autoroute du Caire",
+      "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "date": "Thu, 26 Nov 2026 00:39:10 GMT",
+      "description": "Blaze sur la route périphérique entourant la capitale égyptienne blesse au moins 25 personnes et laisse des voitures et des motos carbonisées Un accident impliquant un pétrolier a allumé un énorme incendie sur une route entourant le Caire mercredi, tuant au moins 31 personnes, a déclaré les autorités égyptiennes. Le feu sur la route périphérique, une artère clé qui entoure la capitale égyptienne, a également blessé au moins 21 personnes et laissé plus de deux douzaines de voitures et motos carbonisées, selon",
+      "source": "The Guardian",
+      "category": "Monde"
+    },
+    {
+      "title": "La marine indonésienne prend livraison de 58-Knot Missile-Capable USV",
+      "link": "https://www.navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv/",
+      "date": "Thu, 26 Nov 2026 00:29:00 +0000",
+      "description": "North Sea Boats a livré le premier KSR X33 de la marine indonésienne, un USV capable de missiles de 58 noeuds commandé sous le nom de Patkamla Geledek, pour la défense côtière. Le post Indonésien Navy prend livraison de 58-Knot Missile-Capable USV est apparu en premier sur Naval News .",
+      "source": "Naval News",
+      "category": "Défense"
+    },
+    {
+      "title": "L'armée américaine dit que l'explosion contrôlée d'explosifs dans l'Iowa a été \"un énorme succès\"",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 00:23:05 GMT",
+      "description": "Malgré les préoccupations répandues des résidents avant l'explosion, les responsables affirment que les lectures de plomb dans la région ont jusqu'à présent été prometteuses.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "La Zambie interdit de protester contre la levée des limites du mandat présidentiel",
+      "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 00:22:15 +0000",
+      "description": "Les critiques craignent que la campagne ne porte atteinte aux garanties démocratiques, car les hauts responsables de l'opposition restent derrière les barreaux.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Une réunion avec les démocrates sur les soins de santé ? Trump dit qu'il y est ouvert",
+      "link": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 00:18:49 +0000",
+      "description": "Les experts disent à Al Jazeera qu'ils sont sceptiques que Trump soutiendrait Medicare for All, une proposition de soins de santé nationaux.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "EN DIRECT - Présidentielle 2027 : Lisnard veut attirer des électeurs de «tous horizons y compris le RN»",
       "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125",
       "date": "Thu, 26 Nov 2026 00:15:03 +0100",
       "description": "Le candidat Horizons à la présidentielle Édouard Philippe a proposé, mardi, un débat télévisé avec son concurrent de droite, David Lisnard, auquel il reproche de ne pas être assez clairement «étanche avec l’extrême droite».",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Ce que les variations de la saison britannique signifient pour vous",
+      "link": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 00:14:16 GMT",
+      "description": "Les gels deviendront moins fréquents et les jours chauds d'été seront plus fréquents au Royaume-Uni, dit le Met Office.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "S'attendre à moins de gels et à des journées plus chaudes à mesure que les saisons changent au Royaume-Uni, dit Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 00:08:07 GMT",
+      "description": "L'évolution des saisons affecte la faune et conduit certains agriculteurs à cultiver différentes cultures.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Les États-Unis approuvent le plan SpaceX d'envoyer un million de satellites de données dans l'espace",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 00:07:51 GMT",
+      "description": "La constellation Starmind vise à être le moyen le plus rentable et le plus économe en énergie de répondre à la demande croissante de puissance de calcul de l'IA.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Guerres de guitare - la bataille transatlantique sur le Stratocaster",
+      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 00:01:37 GMT",
+      "description": "La société américaine Fender est en conflit avec une entreprise allemande qui fabrique des versions génériques de son modèle clé.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "La guerre d'Iran est en vie : explosion de pierres Sanaa; missiles interceptés au-dessus de Riyad",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 00:00:00 +0000",
+      "description": "Une explosion frappe Sanaa après des frappes aériennes près de l'aéroport, alors que la coalition saoudienne intercepte des missiles au-dessus de Riyad.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "L'endroit doux pour la taille de constellation",
@@ -2009,14 +2017,6 @@
       "description": "La banque centrale chinoise a réduit les taux d'intérêt malgré elle-même",
       "source": "The Economist",
       "category": "Économie"
-    },
-    {
-      "title": "Observatoire de sept engins spatiaux pour étudier l'univers plasma",
-      "link": "https://www.esa.int/articles/about-us/directorates/science/seven-spacecraft-observatory-to-study-plasma-universe",
-      "date": "Thu, 19 Nov 2026 00:00:00 +0100",
-      "description": "Les États membres de l'ESA ont choisi l'Observatoire du plasma comme prochaine mission de classe moyenne. Ses sept engins spatiaux coordonnés traqueront comment l'énergie du Soleil passe à travers le bouclier magnétique de la Terre, à travers différentes échelles de distance et de temps.",
-      "source": "ESA",
-      "category": "Exploration"
     },
     {
       "title": "COP31: Comment Ed Miliband a répondu Carbon Brèves questions",
@@ -2203,6 +2203,14 @@
       "category": "Environnement"
     },
     {
+      "title": "Maintenant la fonctionnalité d'IA de GoogleS Familiar Faces fonctionne sur Walmart $35 Smart home camera aussi",
+      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "date": "2026-11-25T19:04:34-05:00",
+      "description": "Quelques-unes des caméras à domicile intelligentes de Walmart seront capables de reconnaître les gens autour de votre maison en utilisant la fonction de détection de visage familière de Google. Une nouvelle mise à jour Google Home apporte une prise en charge Familiar Faces à la prise en charge de 35 $ Onn Outdoor Camera et de 77 $ Onn Floodlight Camera Hardwired. Cependant, un abonnement Google Home Premium est toujours nécessaire [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Amazon perd sa dernière tentative pour sortir de la gestion plus d'avis de rappel",
       "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
       "date": "2026-11-25T18:56:44-05:00",
@@ -2239,14 +2247,6 @@
       "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
       "date": "2026-11-25T14:45:51-05:00",
       "description": "Dire qu'il était nécessaire d'empêcher l'explosion spontanée possible d'un stock de matériel utilisé dans les allumeurs et les casquettes, l'armée américaine a procédé aujourd'hui à une détonation contrôlée de plus de 9 700 livres d'azide de plomb à l'usine de munitions de l'Iowa Army (IAAAP) à Middletown, dans l'Iowa. Les vidéos de la détonation ont montré des panaches de fumée plusieurs [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "1Password rupture fuite des noms de clients et des courriels, mais pas des mots de passe",
-      "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "date": "2026-11-25T14:10:15-05:00",
-      "description": "1Mot de passe dit qu'un hacker a volé des noms de clients et des adresses email après avoir obtenu l'accès à ses systèmes de backend. La violation n'a pas révélé de mots de passe ou d'autres informations stockées dans les coffres des clients, mais pourrait mettre les utilisateurs en danger de tentatives d'hameçonnage, selon un message révélant l'incident. On ne sait pas combien d'utilisateurs sont touchés. Le gestionnaire de mots de passe [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
