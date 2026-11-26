@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:39:45.962288+00:00",
+  "updated_at": "2026-11-26T23:38:37.645654+00:00",
   "count": 285,
   "articles": [
     {
@@ -32,6 +32,14 @@
       "date": "Wed, 25 Nov 2026 22:33:27 +0000",
       "description": "Faire des choses bon marché est cher",
       "source": "The Economist",
+      "category": "Économie"
+    },
+    {
+      "title": "Liesman: Pourquoi Greenspan pourrait parier sur la productivité — et Warsh a besoin de marcher",
+      "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "date": "Wed, 25 Nov 2026 21:56:43 GMT",
+      "description": "Alan Greenspan tenait célèbrement la ligne sur les taux d'intérêt parce qu'il croyait à la promesse de productivité du boom Internet. Pourquoi Kevin Warsh ne peut pas faire pareil ?",
+      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -104,7 +112,7 @@
       "date": "Wed, 25 Nov 2026 19:06:56 +0000",
       "description": "La façon dont la NASA travaille avec les petites entreprises évolue et, par conséquent, l'organisme renforce la base industrielle de l'aérospatiale nationale pour appuyer les futures missions d'exploration dans le cadre de son Programme de développement des fournisseurs de petites entreprises, récemment renommé. Dans le cadre du programme, la NASA a annoncé son dernier accord Mentor-Protégé, celui-ci signé entre The Boeing Company et GRACE [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Seabird 'espies.. pourrait aider à repérer les navires qui ne diffusent pas leur emplacement",
@@ -200,7 +208,7 @@
       "date": "Wed, 25 Nov 2026 17:53:42 +0000",
       "description": "Alors que la NASA se prépare pour de futures missions sur la Lune et sur Mars, des chercheurs étudient des cultures qui pourraient fournir aux astronautes de la nourriture fraîche, de la nutrition et de la variété loin de la Terre. Une telle variété de cultures peut aider avec des menus dans l'espace profond, quelque chose de haut en tête cette semaine que la nation célèbre Thanksgiving. Les récents tests indiquent [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Michigan vient juste de faire une pause sur un plan de mise à jour de l'oléoduc controversé Line 5",
@@ -264,7 +272,7 @@
       "date": "Wed, 25 Nov 2026 16:47:29 +0000",
       "description": "Les conversations sur la NASA étaient la norme autour de la table de dîner pendant l'enfance d'Ashley Knight. Ses parents ont travaillé au centre de vol spatial Goddard de la NASA à Greenbelt, Maryland, et les discussions sur les événements à l'agence se sont poursuivies même quand ils sont rentrés du bureau. Je me souviens d'un dialogue poignant que nous avons eu après le désastre de la navette spatiale Challenger,",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "La Force aérienne émet des Boeing 2,8 milliards de dollars pour plus de KC-46",
@@ -296,7 +304,7 @@
       "date": "Wed, 25 Nov 2026 16:21:04 +0000",
       "description": "La structure Richat, aussi connue sous le nom d'Eye du Sahara, est vue de la Station Spatiale Internationale comme elle était en orbite au-dessus le 14 novembre 2026. C'est un dôme géologique érodé d'environ 100 millions d'années créé par l'activité ignée et l'élévation dans la nation mauritanienne. Dans ce type de structure géologique, les roches [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Pourquoi la preuve de l'hypothèse de Riemann est si amère",
@@ -611,14 +619,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Pourquoi de petites voitures décollent à travers l'Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 00:34:05 GMT",
-      "description": "Une fois considéré comme une voiture pour les personnes âgées, les ruraux, les petites voitures sont embrassées par une population plus jeune.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Flexell Space et ALATYR signent un protocole d'entente pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
       "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
       "date": "Wed, 18 Nov 2026 22:02:00 +0000",
@@ -811,6 +811,38 @@
       "category": "France"
     },
     {
+      "title": "Major Thanksgiving orage apporte des inondations, des retards de vol à travers les États-Unis",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 23:25:44 GMT",
+      "description": "Des tempêtes massives descendent sur les côtes américaines, entraînant des rafales de vent, des arbres abattus et des pannes de courant pour des centaines de milliers de clients.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Les astronomes découvrent un binaire caché dans un système Star utilisé pour calibrer le JWST",
+      "link": "https://www.universetoday.com/articles/astronomers-discover-a-hidden-binary-in-a-star-system-used-to-calibrate-the-jwst",
+      "date": "Thu, 26 Nov 2026 23:08:59 +0000",
+      "description": "Des chercheurs de l'Observatoire astronomique Xinjiang de l'Académie chinoise des sciences ont découvert un système binaire dans un domaine utilisé pour calibrer l'optique du JWST.",
+      "source": "Universe Today",
+      "category": "Exploration"
+    },
+    {
+      "title": "L'Asie a fait un gros pari AI sur Nvidia. Et maintenant ?",
+      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 23:08:12 GMT",
+      "description": "Les actions asiatiques ont été sur un rollercoaster après le retour de Jensen Huang en tant que PDG de Nvidia.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Des colons israéliens ont endommagé des maisons palestiniennes en Cisjordanie",
+      "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 23:07:36 +0000",
+      "description": "La famille Tubasi a été expulsée il y a des mois et n ' a pas pu revenir malgré une décision de justice israélienne.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen",
       "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
       "date": "Thu, 26 Nov 2026 22:56:02 +0100",
@@ -827,10 +859,34 @@
       "category": "France"
     },
     {
-      "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
+      "title": "Les îles de la nature flottantes installées dans les parcs comme legs des Jeux de Glasgow",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 22:54:18 GMT",
+      "description": "Les îles, plantées dans cinq parcs de Glasgow, sont conçues pour encourager la faune et aider à nettoyer l'eau.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Au Canada, l'interdiction des symboles religieux au Québec fait face à un critère de la Cour suprême",
+      "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 22:51:55 +0000",
+      "description": "La Cour suprême du Canada pèse le projet de loi 21, la loi québécoise qui façonne les lieux où les femmes musulmanes peuvent travailler et où elles se sentent les bienvenues.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les États-Unis se sont trop concentrés sur le Moyen-Orient et n'ont pas poussé la Russie assez fort, dit Zelensky à la BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 22:49:27 GMT",
+      "description": "Le président ukrainien exprime sa frustration envers les États-Unis et dit que c'est \"étrange\" Trump a décrit Vladimir Poutine comme un ami.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
       "link": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
       "date": "Thu, 26 Nov 2026 22:31:24 +0100",
-      "description": "La candidate du parti d’extrême droite avait auparavant dénoncé « de basses manœuvres politiciennes » pour conclure d’ici la fin de l’année un accord sur le budget européen pluriannuel qui serait difficile à remettre en cause si elle remportait la présidentielle.",
+      "description": "La candidate du Rassemblement national a accusé le président de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -923,14 +979,6 @@
       "category": "France"
     },
     {
-      "title": "La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine",
-      "link": "https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126",
-      "date": "Thu, 26 Nov 2026 21:05:00 +0100",
-      "description": "RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Slingshot Earth: Europa Clipper de la NASA va gagner de la vitesse et tester ses instruments pendant son vol terrestre",
       "link": "https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb",
       "date": "Thu, 26 Nov 2026 21:04:40 +0000",
@@ -995,14 +1043,6 @@
       "category": "Monde"
     },
     {
-      "title": "Sommet européen : l'Europe est en train de faire une \"erreur stratégique\" avec les coupes proposées dans son futur budget, déplore Emmanuel Macron",
-      "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/direct-sommet-europeen-les-dirigeants-de-l-ue-reunis-a-bruxelles-pour-avancer-sur-le-futur-budget-des-27-et-l-aide-a-l-ukraine_8300823.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 20:40:49 +0100",
-      "description": "\"Nous allons acter d'un décrochage d'investissements publics européens par rapport à la Chine et aux États-Unis\", a encore affirmé jeudi soir le chef de l'Etat.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
       "link": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
       "date": "Thu, 26 Nov 2026 20:34:36 GMT",
@@ -1019,36 +1059,12 @@
       "category": "Monde"
     },
     {
-      "title": "Un politicien indien accusé de meurtre accueille un mariage de 400 000 invités",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 20:32:43 +0000",
-      "description": "On estime que 400 000 personnes ont assisté au mariage de la fille d'Anant Singh, à Bihar, en Inde.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le Mexique cherche des discussions aux États-Unis sur des débris spatiaux présumés",
-      "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 20:31:50 +0000",
-      "description": "Le Mexique est préoccupé par le fait que SpaceX lance des fusées depuis Starbase près de la frontière au Texas.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
       "link": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-les-services-de-renseignement-militaires-ukrainiens-ont-revendique-l-attaque-de-la-raffinerie-russe-de-slaviansk-sur-kouban_6814183_3210.html",
       "date": "Thu, 26 Nov 2026 20:25:06 +0100",
       "description": "« De graves incendies se sont déclarés dans les installations endommagées. De plus, les dommages causés aux réservoirs de stockage du pétrole ont entraîné des déversements », selon l’exploitant Slaviansk ECO.",
       "source": "Le Monde",
       "category": "France"
-    },
-    {
-      "title": "Deux Italiens tués en frappe de drone sur le Koweït",
-      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
-      "date": "Thu, 26 Nov 2026 20:23:24 GMT",
-      "description": "Les travailleurs sont les premiers morts signalés dans le Golfe depuis que les États-Unis et l'Iran ont repris le feu ce mois-ci",
-      "source": "Financial Times",
-      "category": "Économie"
     },
     {
       "title": "Coupes budgétaires : l’Europe est en train de faire une «erreur stratégique», prévient Emmanuel Macron",
@@ -1163,12 +1179,28 @@
       "category": "Technologie"
     },
     {
+      "title": "Éric Pauget, député LR : «Nous voulons montrer que des politiques nationaux soutiennent David Lisnard»",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/eric-pauget-depute-lr-nous-voulons-montrer-que-des-politiques-nationaux-soutiennent-david-lisnard-20261126",
+      "date": "Thu, 26 Nov 2026 19:26:31 +0100",
+      "description": "ENTRETIEN - Le député explique pourquoi il a signé, avec sept autres parlementaires, la tribune parue ce jeudi, annonçant l’amorce d’un mouvement d’élus nationaux derrière le candidat de Nouvelle Énergie.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "Regarder: Toits arrachés et rues sous l'eau que le temps violent frappe États-Unis",
       "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 26 Nov 2026 19:26:16 GMT",
       "description": "Des centaines de milliers de personnes ont été touchées par les tempêtes dans le pays au moment où commence le week-end de fête de l'Action de grâces.",
       "source": "BBC News",
       "category": "Monde"
+    },
+    {
+      "title": "Des violents affrontements entre supporters de l'OM et du Levski Sofia en marge d'un match de Ligue Europa font plusieurs blessés",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-europa/violents-incidents-entre-supporters-de-l-om-et-du-levski-sofia-juste-avant-la-rencontre-de-ligue-europa_8301924.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 19:23:36 +0100",
+      "description": "Le match de C3 entre l'Olympique de Marseille et le Levski Sofia a été le théâtre d'affrontements entre supporters des deux camps. Des projectiles ont été envoyés dans les tribunes à quelques minutes du coup d'envoi.",
+      "source": "franceinfo",
+      "category": "France"
     },
     {
       "title": "RTL : les journalistes dénoncent le management de la direction de la rédaction sur fond d’inquiétudes sur la baisse des moyens alloués",
@@ -1185,6 +1217,14 @@
       "description": "Le Dwarflab Dwarf Mini a obtenu quatre étoiles dans notre examen expert pour son fonctionnement simple et sa capacité d'astrophotographie. Cet accord Black Friday le ramène à 339 $ et les membres de Space+ pourraient en gagner un dans notre tirage au sort.",
       "source": "Space.com",
       "category": "Exploration"
+    },
+    {
+      "title": "Présidentielle 2027 : David Lisnard meilleur candidat qu’Édouard Philippe pour les sympathisants de la droite et du centre",
+      "link": "https://www.lefigaro.fr/politique/presidentielle-2027-david-lisnard-meilleur-candidat-qu-edouard-philippe-pour-les-sympathisants-de-la-droite-et-du-centre-20261126",
+      "date": "Thu, 26 Nov 2026 18:57:57 +0100",
+      "description": "SONDAGE - Popularité, traits d’image, domaines de compétence… Selon notre sondage Odoxa-Backbone pour Le Figaro, le libéral maire de Cannes prend l’ascendant sur celui du Havre à cinq mois de l’élection présidentielle.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Migration nette vers le Royaume-Uni au plus bas niveau depuis 1997, à l'exclusion de la pandémie",
@@ -1227,11 +1267,11 @@
       "category": "France"
     },
     {
-      "title": "Les applications Microdrama chassent les profits alors qu'Hollywood se déplace vers une vidéo de courte durée et verticale",
-      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "date": "Thu, 26 Nov 2026 18:27:43 GMT",
-      "description": "La catégorie des microdrames a explosé à un moment où les formes traditionnelles des médias font face à une perte d'intérêt et YouTube réclame plus d'heures de visionnement.",
-      "source": "CNBC",
+      "title": "SAP explore au moins 10 000 suppressions d'emplois",
+      "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+      "date": "Thu, 26 Nov 2026 18:24:34 GMT",
+      "description": "Le groupe européen des logiciels est le dernier à se restructurer alors que l'IA touche le secteur des logiciels",
+      "source": "Financial Times",
       "category": "Économie"
     },
     {
@@ -1251,20 +1291,20 @@
       "category": "Sciences"
     },
     {
+      "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
+      "link": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 18:18:23 +0100",
+      "description": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "NVIDIA arrêterait les expéditions de puces AI vers l'Asie du Sud-Est",
       "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
       "date": "Thu, 26 Nov 2026 18:09:18 +0000",
       "description": "La même semaine que NVIDIA a rétabli Jensen Huang en tant que PDG, la société aurait également bloqué les expéditions vers l'Asie du Sud-Est.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "Donald Trump souhaite que Vladimir Poutine «mette fin à toute agression militaire» en Europe",
-      "link": "https://www.lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126",
-      "date": "Thu, 26 Nov 2026 18:08:51 +0100",
-      "description": "Dans un message publié sur Truth Social, le président américain a évoqué ses récents échanges avec son homologue russe en Chine, affirmant avoir abordé avec lui la nécessité de parvenir rapidement à un accord entre Moscou et Kiev.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Ford dévoile la GT41 en espérant remporter à nouveau Le Mans",
@@ -1281,14 +1321,6 @@
       "description": "Des métaphores colorées, une quasi-manque avec Eddie Murphy et des baleines à bosse en Californie du XXe siècle.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Gérard Depardieu renvoyé devant la justice pour viol : on fait le point sur les plaintes et accusations de violences sexistes et sexuelles qui visent l'acteur",
-      "link": "https://www.franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 17:54:30 +0100",
-      "description": "La cour d'appel de Paris a confirmé jeudi le renvoi de Gérard Depardieu en procès pour une partie des viols dénoncés par la comédienne Charlotte Arnould.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "L'avenir de la vie dans l'espace avec Tim Marshall",
@@ -1331,14 +1363,6 @@
       "category": "France"
     },
     {
-      "title": "Plus de 1 000 vols annulés ou retardés aux États-Unis en raison des perturbations météorologiques",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 17:38:56 GMT",
-      "description": "Des tempêtes massives descendent sur les deux côtes américaines alors qu'on estime que 80 millions d'Américains ont pris la route pour les vacances de Thanksgiving.",
-      "source": "BBC News",
-      "category": "Sciences"
-    },
-    {
       "title": "La musique pop saoudienne prospère — mais pour les bonnes raisons?",
       "link": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Thu, 26 Nov 2026 17:37:00 GMT",
@@ -1371,14 +1395,6 @@
       "category": "France"
     },
     {
-      "title": "Quand les magasins Poundland fermeront-ils ? Cinq questions clés répondues",
-      "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 17:21:21 GMT",
-      "description": "Pourquoi Poundland ferme - t - il ses portes, et qu'arrivera - t - il au personnel et aux fournisseurs?",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Les témoins contactés comme sonde américaine dans le plan de vente de la Coupe du monde s'intensifie",
       "link": "https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919",
       "date": "Thu, 26 Nov 2026 17:16:00 +0000",
@@ -1393,6 +1409,14 @@
       "description": "Les percées en mathématiques ont eu peur que les données dans les systèmes financiers soient menacées",
       "source": "Financial Times",
       "category": "Économie"
+    },
+    {
+      "title": "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine-20261126",
+      "date": "Thu, 26 Nov 2026 17:10:09 +0100",
+      "description": "EXCLUSIF - Le maire de Cannes veut, en un quinquennat, refaire de la France un des pays les plus sûrs d’Europe.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "France : le procès de l'ancienne figure jihadiste Émilie König s'est ouvert",
@@ -1515,14 +1539,6 @@
       "category": "Défense"
     },
     {
-      "title": "Espagne Pablo Hernández de Cos va diriger la Banque centrale européenne",
-      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "date": "Thu, 26 Nov 2026 15:28:26 GMT",
-      "description": "De Cos mènera la BCE dans une période d'incertitude politique et de croissance difficile, après avoir obtenu le soutien nécessaire pour succéder à Christine Lagarde l'année prochaine.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "L'Espagnol Pablo Hernandez de Cos va être nommé président de la Banque centrale européenne",
       "link": "https://www.rfi.fr/fr/%C3%A9conomie/20261126-l-espagnol-pablo-hernandez-de-cos-va-%C3%AAtre-nomm%C3%A9-pr%C3%A9sident-de-la-banque-centrale-europ%C3%A9enne",
       "date": "Thu, 26 Nov 2026 15:25:59 GMT",
@@ -1551,14 +1567,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 26 Nov 2026 14:44:26 GMT",
       "description": "Une cour d'appel de Paris règle Depardieu va être jugé pour le viol présumé de Charlotte Arnould.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Le détenu en détention aux États-Unis s'échappe en véhicule pénitentiaire après un rendez-vous médical",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 14:35:22 GMT",
-      "description": "Rébecca Taylor avait été emprisonné au Nouveau-Mexique pour vol et cambriolage.",
       "source": "BBC News",
       "category": "Monde"
     },
@@ -1633,6 +1641,14 @@
       "description": "Voici les meilleurs services de livraison et trousses de repas en 2026, y compris le service de repas Martha Stewart, un plan de soutien GLP-1 et une option économique.",
       "source": "WIRED",
       "category": "Technologie"
+    },
+    {
+      "title": "Les menaces de transit tarifaire américaines font pression sur les partenaires pour qu'ils signent des accords commerciaux.",
+      "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "date": "Thu, 26 Nov 2026 12:46:55 GMT",
+      "description": "Les États-Unis ont prévu une nouvelle salve tarifaire pour 14 partenaires commerciaux, tout en offrant à certains pays des taux plus bas s'ils s'assurent des transactions commerciales avec Washington.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "«Je ne suis plus un fonctionnaire des Émirats arabes unis»: L'espoir de l'ONU Lana Nusseibeh tente de faire disparaître le record du Soudan",
@@ -1803,15 +1819,7 @@
       "category": "Économie"
     },
     {
-      "title": "La politique d'IA de l'Univers d'aujourd'hui",
-      "link": "https://www.universetoday.com/articles/universe-todays-ai-policy",
-      "date": "Thu, 26 Nov 2026 09:45:00 +0000",
-      "description": "L'IA est partout. Mais est-ce ici, dans l'Univers aujourd'hui ? Voilà une rancune, vaguement déguisée en politique, c'est vraiment une fête de pitié.",
-      "source": "Universe Today",
-      "category": "Exploration"
-    },
-    {
-      "title": "\"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "title": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
       "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
       "date": "Thu, 26 Nov 2026 09:34:30 +0100",
       "description": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
@@ -1907,14 +1915,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Guerre en Ukraine : Trump et le secrétaire général de l'Otan exhortent la Russie à ne pas «étendre la guerre» avec Kiev",
-      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-trump-et-le-secretaire-general-de-l-otan-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-kiev-20261126",
-      "date": "Thu, 26 Nov 2026 06:31:59 +0100",
-      "description": "Réunis mercredi en Floride, le président américain et Mark Rutte ont également plaidé pour une résolution rapide et pacifique du conflit.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "La raison surprenante pour laquelle les femmes semblent mieux au multitâche que les hommes",
       "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
       "date": "Thu, 26 Nov 2026 06:21:47 EST",
@@ -1936,7 +1936,7 @@
       "date": "Thu, 26 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 26 – Eye... Today-S APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Yeux dans [...]",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Les raids de l'ICE ont fait des ravages dans le monde universitaire américain",
@@ -1952,7 +1952,7 @@
       "date": "Thu, 26 Nov 2026 05:01:00 +0000",
       "description": "Les Néo-Zélandais ont longtemps envisagé l'île comme une zone exempte de prédateurs pour les oiseaux indigènes, mais les berges de natation ont montré leur propre détermination.",
       "source": "NASA",
-      "category": "Exploration"
+      "category": "Environnement"
     },
     {
       "title": "Watch: BBC confronte un Allemand soupçonné de fournir des bandes de migrants avec de petits bateaux",
