@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T02:17:51.469657+00:00",
-  "count": 281,
+  "updated_at": "2026-11-26T03:13:50.375993+00:00",
+  "count": 287,
   "articles": [
     {
       "title": "Nous avons examiné ces 10 gadgets, et ils sont maintenant en vente pour Black Friday",
@@ -187,6 +187,14 @@
       "category": "Monde"
     },
     {
+      "title": "Les scientifiques découvrent des lacs mystérieux à plus d'un kilomètre sous la mer Rouge",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+      "date": "Wed, 25 Nov 2026 21:42:37 EST",
+      "description": "Plus d'un kilomètre sous la surface de la mer Rouge, les scientifiques ont découvert de rares lacs sous-marins qui pourraient révéler des secrets sur les océans anciens de la Terre et la possibilité d'une vie extraterrestre. Connus comme des bassins de saumure, ces milieux extrêmement salés et exempts d'oxygène regorgent étonnamment de vie microbienne, ce qui remet en question notre compréhension de l'endroit où les organismes vivants peuvent survivre.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "7 gadgets qui amélioreront instantanément votre fête de Thanksgiving",
       "link": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
       "date": "Wed, 25 Nov 2026 21:41:43 +0000",
@@ -371,6 +379,14 @@
       "category": "France"
     },
     {
+      "title": "Le plus grand essai mondial de remplacement robotisé du genou révèle des résultats surprenants",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
+      "date": "Wed, 25 Nov 2026 20:04:22 EST",
+      "description": "La chirurgie de remplacement du genou assistée par robot offre une plus grande précision chirurgicale, mais un essai clinique historique a révélé une limite surprenante. Malgré la technologie avancée, les patients n'ont connu aucune amélioration significative de la douleur, de la mobilité ou de la récupération par rapport à la chirurgie conventionnelle après un an.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
+    },
+    {
       "title": "Les AG tentent d'arrêter Character. AI de vente aux enchères de l'historique de chat des utilisateurs",
       "link": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
       "date": "Wed, 25 Nov 2026 20:04:07 +0000",
@@ -488,7 +504,7 @@
       "date": "Wed, 25 Nov 2026 19:06:56 +0000",
       "description": "La façon dont la NASA travaille avec les petites entreprises évolue et, par conséquent, l'organisme renforce la base industrielle de l'aérospatiale nationale pour appuyer les futures missions d'exploration dans le cadre de son Programme de développement des fournisseurs de petites entreprises, récemment renommé. Dans le cadre du programme, la NASA a annoncé son dernier accord Mentor-Protégé, celui-ci signé entre The Boeing Company et GRACE [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "SpaceX Starship débris devient l'art dans Ashley Zelinskie 'Le poids de l'espace' (vidéo, photos)",
@@ -553,6 +569,14 @@
       "description": "Les premiers résultats indiquent des signes minimes de plomb dans l'environnement, bien qu'il faudra des jours pour effectuer des tests plus rigoureux.",
       "source": "WIRED",
       "category": "Technologie"
+    },
+    {
+      "title": "Les scientifiques découvrent une touche surprenante dans la façon dont le corps brûle les calories",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm",
+      "date": "Wed, 25 Nov 2026 18:37:49 EST",
+      "description": "Les chercheurs ont découvert qu'un médicament peut augmenter de façon significative la dépense énergétique du corps sans activer clairement la graisse brune brûlante de calories. La découverte inattendue révèle un nouveau défi dans le développement de traitements de l'obésité qui harcelent les machines naturelles de combustion des graisses.",
+      "source": "ScienceDaily",
+      "category": "Sciences"
     },
     {
       "title": "Un bilan toujours plus alarmant",
@@ -659,18 +683,18 @@
       "category": "Sciences"
     },
     {
-      "title": "«Blade Runner 2099, éloge des incroyables décors qui ont donné vie à l'univers de la science-fiction: « tout était si bien réalisé» (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
-      "date": "Wed, 25 Nov 2026 18:00:00 +0000",
-      "description": "Je me suis lancé là-dedans, surtout après que Silka ait bien écrit l'histoire et le scénario, j'étais prêt pour ça.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "Je pense que c'est peut-être le meilleur télescope intelligent pour la photographie nébuleuse — je suis étonné que ce soit 500 $ de rabais",
       "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
       "date": "Wed, 25 Nov 2026 18:00:00 +0000",
       "description": "Je viens de tester la nouvelle Vaonis Vespera Pro 2 et j'ai capturé une incroyable astrophotographie couleur large champ et maintenant il est 500 $ moins cher dans cette affaire de télescope noir vendredi.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "«Blade Runner 2099, éloge des incroyables décors qui ont donné vie à l'univers de la science-fiction: « tout était si bien réalisé» (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
+      "date": "Wed, 25 Nov 2026 18:00:00 +0000",
+      "description": "Je me suis lancé là-dedans, surtout après que Silka ait bien écrit l'histoire et le scénario, j'étais prêt pour ça.",
       "source": "Space.com",
       "category": "Exploration"
     },
@@ -696,7 +720,7 @@
       "date": "Wed, 25 Nov 2026 17:53:42 +0000",
       "description": "Alors que la NASA se prépare pour de futures missions sur la Lune et sur Mars, des chercheurs étudient des cultures qui pourraient fournir aux astronautes de la nourriture fraîche, de la nutrition et de la variété loin de la Terre. Une telle variété de cultures peut aider avec des menus dans l'espace profond, quelque chose de haut en tête cette semaine que la nation célèbre Thanksgiving. Les récents tests indiquent [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Michigan vient juste de faire une pause sur un plan de mise à jour de l'oléoduc controversé Line 5",
@@ -808,7 +832,7 @@
       "date": "Wed, 25 Nov 2026 16:47:29 +0000",
       "description": "Les conversations sur la NASA étaient la norme autour de la table de dîner pendant l'enfance d'Ashley Knight. Ses parents ont travaillé au centre de vol spatial Goddard de la NASA à Greenbelt, Maryland, et les discussions sur les événements à l'agence se sont poursuivies même quand ils sont rentrés du bureau. Je me souviens d'un dialogue poignant que nous avons eu après le désastre de la navette spatiale Challenger,",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ?",
@@ -856,7 +880,7 @@
       "date": "Wed, 25 Nov 2026 16:21:04 +0000",
       "description": "La structure Richat, aussi connue sous le nom d'Eye du Sahara, est vue de la Station Spatiale Internationale comme elle était en orbite au-dessus le 14 novembre 2026. C'est un dôme géologique érodé d'environ 100 millions d'années créé par l'activité ignée et l'élévation dans la nation mauritanienne. Dans ce type de structure géologique, les roches [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Pourquoi la preuve de l'hypothèse de Riemann est si amère",
@@ -881,14 +905,6 @@
       "description": "La COP31 est arrivée à une fin dramatique le week-end dernier quand une coalition de nations a rejeté le pacte --Antalya proposé, citant... La réaction post-média: Qui est responsable de l'échec de la COP31? paru en premier sur Carbon Brief .",
       "source": "Carbon Brief",
       "category": "Environnement"
-    },
-    {
-      "title": "561 milliards d'euros et toujours pas assez : le budget de 2027 de l'Allemagne expose une coalition sur la piste",
-      "link": "https://www.dw.com/en/€561-billion-and-still-not-enough-germany-s-2027-budget-exposes-a-coalition-on-the-brink/a-80052664?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Wed, 25 Nov 2026 16:06:00 GMT",
-      "description": "Le budget pour 2027 a atteint de nouveaux sommets, et les fonds de pension, les dépenses de défense et une économie faible augmentent la pression. En même temps, les tensions augmentent au sein du gouvernement.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Utilisation des cratères lunaires comme boucliers à rayonnement libre pour les réacteurs nucléaires de base de la Lune",
@@ -1000,7 +1016,7 @@
       "date": "Wed, 25 Nov 2026 14:56:54 +0000",
       "description": "Ces observations de Hubble font partie d'un sondage qui aidera les chercheurs à mieux interpréter les prochaines observations du télescope spatial romain Nancy Grace en cherchant à caractériser les étoiles et à rechercher des exoplanètes dans cette région occupée de notre galaxie.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Le Japon utilisera des champs de tir indiens pour l'entraînement des missiles à longue portée dans le cadre du nouveau pacte",
@@ -1440,7 +1456,7 @@
       "date": "Wed, 25 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 25 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discutez APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Pour voir ceci [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Acheter de nouvelles choses est merveilleux. Mais ça peut aussi être un piège",
@@ -1481,14 +1497,6 @@
       "description": "Même lorsque Jensen Huang est revenu au travail, le conseil d'administration de Nvidia fait face à des critiques sur la façon dont il a géré la crise provoquée par les allégations du PDG.",
       "source": "NPR",
       "category": "Économie"
-    },
-    {
-      "title": "De quoi est faite une pensée? Pourquoi la conscience humaine peut être au-delà de la portée de l'AI",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
-      "date": "Wed, 25 Nov 2026 04:30:54 EST",
-      "description": "Une nouvelle théorie suggère que le cerveau peut coder et récupérer des souvenirs chimiquement plutôt que de se fier uniquement aux signaux électriques. Les chercheurs proposent que les interactions entre les cellules cérébrales et leur environnement moléculaire puissent expliquer le lien intime entre la mémoire, l'émotion et la pensée. Leurs conclusions remettent en question l'hypothèse selon laquelle des ordinateurs de plus en plus puissants pourraient éventuellement développer une conscience semblable à celle de l'homme.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
     },
     {
       "title": "Le procureur général des États-Unis ne pose pas de questions sur l'enquête de Nvidia",
@@ -1553,14 +1561,6 @@
       "description": "Des relevés mensuels des marées ont été établis à travers la ville, certains devant frapper encore plus haut demain. Que savoir sur les inondations en Californie au-dessus de Thanksgiving La Californie est aux prises avec l'épreuve de stress de marées records ou proches de marées records en novembre cette semaine, avec l'inondation de routes basses à San Francisco et l'évacuation d'une communauté dans le nord de la Californie. Résidents locaux et médias partagés",
       "source": "The Guardian",
       "category": "Environnement"
-    },
-    {
-      "title": "Les scientifiques de Stanford découvrent 3 types de cerveau cachés derrière le TDAH et l'anxiété",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
-      "date": "Tue, 24 Nov 2026 23:11:59 EST",
-      "description": "Une analyse de milliers de scans du cerveau d'enfants par l'IA a révélé trois types de cerveau sous-jacents au TDAH et à l'anxiété qui ne correspondent pas parfaitement aux diagnostics traditionnels. Ces modèles biologiques cachés peuvent apparaître avant qu'un diagnostic ne soit posé, ce qui pourrait permettre une détection plus précoce et des traitements plus efficaces et personnalisés.",
-      "source": "ScienceDaily",
-      "category": "Sciences"
     },
     {
       "title": "Wilsbach's Message aux aviateurs après un an en tant que CSAF: «La préparation est fondamentale»",
@@ -1723,14 +1723,6 @@
       "category": "Technologie"
     },
     {
-      "title": "L'UE imposera un plafond aux importations chinoises de véhicules hybrides le mois prochain",
-      "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-      "date": "Tue, 24 Nov 2026 10:59:40 GMT",
-      "description": "Des quotas temporaires pour les véhicules entrant dans le bloc s'appliqueront également aux voitures en provenance du Royaume-Uni, du Japon et de la Turquie Le mois prochain, l'UE imposera ses plafonds menacés au nombre de voitures hybrides chinoises pouvant être importées dans le bloc, a annoncé la Commission européenne. Les contingents s'appliqueront également aux hybrides en provenance du Japon, de la Turquie, de la Corée du Sud et du Royaume-Uni, mais l'objectif principal est de limiter les importations en provenance de Chine après un accord avec Pékin en octobre que",
-      "source": "The Guardian",
-      "category": "Économie"
-    },
-    {
       "title": "Une ville à pied de demain se développe dans l'Utah suburbain",
       "link": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
       "date": "Tue, 24 Nov 2026 09:45:00 +0000",
@@ -1760,7 +1752,15 @@
       "date": "Tue, 24 Nov 2026 06:09:06 EST",
       "description": "Un naufrage romain de 2 200 ans a révélé des techniques d'étanchéité sophistiquées impliquant le goudron de pin et la cire d'abeille. Les grains de pollen microscopiques piégés dans les revêtements anciens aident maintenant les scientifiques à reconstruire où le navire a peut-être voyagé et a subi des réparations il y a plus de deux millénaires.",
       "source": "ScienceDaily",
-      "category": "Sciences"
+      "category": "Environnement"
+    },
+    {
+      "title": "La prochaine ère glaciaire de la Terre a peut-être déjà commencé. Le réchauffement climatique l'a arrêté",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "date": "Tue, 24 Nov 2026 04:29:15 EST",
+      "description": "Les scientifiques ont découvert des preuves surprenantes que le prochain âge glaciaire de la Terre a peut-être déjà commencé, pour être arrêté par le réchauffement climatique. En étudiant des plantes anciennes conservées sous la calotte glaciaire de Barnes dans l'Arctique canadien, les chercheurs ont découvert que les restes d'une immense calotte glaciaire ont commencé à se développer il y a environ 2 000 ans, ce qui indique le début possible d'une nouvelle période glaciaire. Mais dans les années 1960, la hausse des températures avait inversé cette croissance,",
+      "source": "ScienceDaily",
+      "category": "Environnement"
     },
     {
       "title": "En tant que cuisinier inscrit, il a brûlé les patates douces d'Action de grâce. Maintenant, c'est un général 2 étoiles.",
@@ -1787,6 +1787,70 @@
       "category": "Exploration"
     },
     {
+      "title": "K-beauty stock rallye en tant que marques coréennes meilleures listes de best-sellers Amazon globalement devant le Black Friday",
+      "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "date": "Thu, 26 Nov 2026 03:09:47 GMT",
+      "description": "Les marques K-beauty ont dominé le classement d'Amazon devant le Black Friday.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Ligue des champions : le PSG tenu en échec par l’AS Roma après une prestation poussive qui met en lumière l’absence de Doué et de « Kvara »",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-psg-tenu-en-echec-par-l-as-roma-apres-une-prestation-poussive-qui-met-en-lumiere-l-absence-de-doue-et-de-kvara_6815333_3242.html",
+      "date": "Thu, 26 Nov 2026 03:08:03 +0100",
+      "description": "Le double champion d’Europe a été tenu en échec sur sa pelouse (2-2), mercredi, par de valeureux Italiens. Alors que le forfait de longue durée de ses deux attaquants majeurs s’est fait ressentir, le club doit trancher la question d’une éventuelle recrue.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Les États-Unis annoncent de nouveaux tarifs sur les pays hôtes, y compris la Chine",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 03:01:40 GMT",
+      "description": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "S&P avertit que la cote de crédit de Nvidia pourrait être réduite par rapport au risque de gestion et de gouvernance « grimpante ».",
+      "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "date": "Thu, 26 Nov 2026 02:57:32 GMT",
+      "description": "Selon S&P Global Ratings, la cote de crédit de Nvidia pourrait être réduite d'un cran puisqu'elle indiquait que la gestion et la gouvernance « grimpaient » au chipmaker.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le juge bloque Brendan Carr-dirigé FCC de prendre toute autre mesure contre les licences ABC.",
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+      "date": "Thu, 26 Nov 2026 02:52:47 GMT",
+      "description": "Le juge fédéral Loren L AliKhan accorde une injonction préliminaire en faveur d'ABC.",
+      "source": "The Guardian",
+      "category": "Économie"
+    },
+    {
+      "title": "Le temps extrême menace les festivités de Thanksgiving aux États-Unis",
+      "link": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Thu, 26 Nov 2026 02:47:00 GMT",
+      "description": "Une tempête majeure devrait remonter la côte est des États-Unis et provoquer des retards de voyage. Les avertissements météorologiques suffisaient à reporter pour la première fois depuis 100 ans la parade du Thanksgiving Day de Macy.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "La Banque de Corée lève les taux d'intérêt au milieu du boom des puces d'IA",
+      "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+      "date": "Thu, 26 Nov 2026 02:27:04 GMT",
+      "description": "Cette année, le taux de référence est passé à 3,25 %.",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Le gouvernement britannique s'apprête à publier de nouveaux traités convenus avec l'UE",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 02:13:00 GMT",
+      "description": "La BBC comprend que les traités contiennent une clause de résiliation de 10 ans pour rembourser les coûts de toute nécessité de reconstruire l'infrastructure de contrôle aux frontières.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
       "title": "Kim Jong Un dit que la Corée du Nord devrait élargir le déploiement de bombes tactiques",
       "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
       "date": "Thu, 26 Nov 2026 02:03:03 +0000",
@@ -1803,19 +1867,11 @@
       "category": "Économie"
     },
     {
-      "title": "La Corée du Sud améliore les prévisions de croissance, fait passer les taux de référence aux plus élevés en deux ans",
-      "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "date": "Thu, 26 Nov 2026 01:50:21 GMT",
-      "description": "La banque centrale a relevé les taux de 25 points de base à 3,25 % pour sa dernière réunion de l'année, conformément aux attentes des économistes.",
+      "title": "Kospi de Corée du Sud est le leader des gains à mesure que le rebond technologique soulève les marchés asiatiques",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "date": "Thu, 26 Nov 2026 01:45:52 GMT",
+      "description": "Nikkei 225 du Japon a augmenté de 1,21% dans les premiers échanges, tandis que le Topix a augmenté de 0,71%. En Australie, les S&P/ASX 200 ont augmenté de 0,15 %.",
       "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "La Banque de Corée lève les taux d'intérêt au milieu du boom des puces d'IA",
-      "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
-      "date": "Thu, 26 Nov 2026 01:47:50 GMT",
-      "description": "Cette année, le taux de référence est passé à 3,25 %.",
-      "source": "Financial Times",
       "category": "Économie"
     },
     {
@@ -1835,14 +1891,6 @@
       "category": "Monde"
     },
     {
-      "title": "Lorsque le marché risque le plus d'être mal évalué : boom AI, volatilité, obligations à haut rendement",
-      "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "date": "Thu, 26 Nov 2026 01:34:58 GMT",
-      "description": "Le boom de l'IA pourrait déclencher une récession, mais les centres de données restent une opportunité d'investissement attrayante, a déclaré un gestionnaire de fonds spéculatifs.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Les agents de l'ICE écrasent la fenêtre de la voiture, les visiteurs de pulvérisation de poivre",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
       "date": "Thu, 26 Nov 2026 01:33:50 +0000",
@@ -1857,30 +1905,6 @@
       "description": "Certaines parties de la province canadienne de la Colombie-Britannique pourraient aussi être touchées par les tempêtes, qui surviennent lorsque des millions de personnes voyagent pour les vacances.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Les États-Unis annoncent de nouveaux tarifs sur les pays hôtes, y compris la Chine",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 01:20:14 GMT",
-      "description": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
-      "link": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
-      "date": "Thu, 26 Nov 2026 01:15:53 +0100",
-      "description": "Menés (0-1) après une terne première période, les Lillois ont bien réagi, mercredi 25 novembre, pour remporter une victoire cruciale (2-1) et de prestige face aux Bavarois. Vingt-neuvièmes au classement avec quatre points, ils conservent leurs chances d’accrocher une place de barragistes.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Les fonds de couverture ne sont plus que pour les riches. Ils viennent pour les investisseurs quotidiens",
-      "link": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-      "date": "Thu, 26 Nov 2026 01:10:58 GMT",
-      "description": "Les fonds spéculatifs courtisent de plus en plus les investisseurs de détail alors que l'industrie cherche de nouvelles voies de croissance.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Les juges recommandent aux procureurs de mettre fin à l'affaire de corruption contre Netanyahu",
@@ -1936,6 +1960,14 @@
       "date": "Thu, 26 Nov 2026 00:23:05 GMT",
       "description": "Malgré les préoccupations répandues des résidents avant l'explosion, les responsables affirment que les lectures de plomb dans la région ont jusqu'à présent été prometteuses.",
       "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Le djihadisme mondial a-t-il échoué ou est-il simplement en train de changer de forme?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 00:22:18 GMT",
+      "description": "Les groupes djihadistes semblent se concentrer sur des questions locales plutôt que sur la terreur mondiale. Cela signifie - t - il un réel changement?",
+      "source": "BBC News",
       "category": "Monde"
     },
     {
@@ -1969,14 +2001,6 @@
       "description": "La constellation Starmind vise à être le moyen le plus rentable et le plus économe en énergie de répondre à la demande croissante de puissance de calcul de l'IA.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Guerres de guitare - la bataille transatlantique sur le Stratocaster",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 00:01:37 GMT",
-      "description": "La société américaine Fender est en conflit avec une entreprise allemande qui fabrique des versions génériques de son modèle clé.",
-      "source": "BBC News",
-      "category": "Économie"
     },
     {
       "title": "L'endroit doux pour la taille de constellation",
@@ -2033,6 +2057,14 @@
       "description": "Nancy Grace Roman Space Telescope a commencé son voyage dans l'espace, en commençant une mission qui étudiera l'Univers à une échelle sans précédent à la recherche d'indices d'énergie sombre, de matière noire et de mondes au-delà de notre système solaire.",
       "source": "Astronomy Now",
       "category": "Exploration"
+    },
+    {
+      "title": "Cette petite araignée nommée d'après Stephen Colbert a un génome 50% plus grand qu'un humain.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+      "date": "Sun, 22 Nov 2026 22:54:27 EST",
+      "description": "Une minuscule araignée à trappes californienne du nom de Stephen Colbert a un génome d'environ 50% plus grand qu'un humain, bien qu'il ne soit que de la taille d'un quart. Les scientifiques ont découvert que son énorme génome contient 4,6 milliards de paires de bases d'ADN et 52 chromosomes, révélant des indices surprenants sur l'évolution de l'araignée.",
+      "source": "ScienceDaily",
+      "category": "Environnement"
     },
     {
       "title": "Combien d'air peut-il en sortir ?",
@@ -2107,6 +2139,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Les océans anciens de la Terre ont peut-être dupé les scientifiques sur son histoire de l'oxygène",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
+      "date": "Mon, 23 Nov 2026 20:36:51 EST",
+      "description": "La Terre s'est déplacée d'un monde à la faim d'oxygène à une planète capable de soutenir une vie complexe peut avoir évolué très différemment que les scientifiques une fois cru. Une nouvelle analyse suggère que l'oxygène accumulé dans l'atmosphère en trois étapes principales, les océans prenant des millions, voire des centaines de millions d'années pour rattraper leur retard.",
+      "source": "ScienceDaily",
+      "category": "Environnement"
+    },
+    {
       "title": "BepiColombo en toute sécurité sur orbite Mercure malgré un défi inattendu",
       "link": "https://www.esa.int/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge",
       "date": "Mon, 23 Nov 2026 19:00:00 +0100",
@@ -2145,6 +2185,14 @@
       "description": "Ukraine Le service de sécurité dit que sept drones ont été lancés depuis le vaisseau mère en opération qui a coulé Merkury navire de guerre Ukraine a confirmé qu'il a déployé des drones navals dans des frappes sur deux navires russes au large de la Libye dimanche, y compris un qui a coulé la corvette Merkury, l'un des nouveaux navires de Russie. Ukraine service de sécurité, le SBU, a déclaré que sept drones navals fabriqués dans le pays ont été lancés d'un vaisseau mère dans l'opération, que Volodymyr Zelenskyy",
       "source": "The Guardian",
       "category": "Monde"
+    },
+    {
+      "title": "Le noyau de la Terre peut fuir un secret vieux de 4,5 milliards d'années",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
+      "date": "Mon, 23 Nov 2026 00:53:36 EST",
+      "description": "Les scientifiques ont découvert une signature de carbone inhabituelle dans les roches volcaniques hawaïennes qui suggère qu'une partie du carbone de la Terre provenait de météorites anciennes et s'échappait plus tard des profondeurs du noyau de la planète. La découverte soulève une possibilité étonnante: le carbone essentiel à la vie peut avoir voyagé de l'espace aux profondeurs de la Terre avant d'émerger à travers des volcans des milliards d'années plus tard.",
+      "source": "ScienceDaily",
+      "category": "Environnement"
     },
     {
       "title": "Hera se ferme sur l'astéroïde DART touché",
