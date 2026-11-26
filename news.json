@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T21:35:45.438038+00:00",
-  "count": 279,
+  "updated_at": "2026-11-26T22:39:45.962288+00:00",
+  "count": 285,
   "articles": [
     {
       "title": "Les marées californiennes records provoquent des inondations importantes de routes et d'entreprises",
@@ -104,7 +104,7 @@
       "date": "Wed, 25 Nov 2026 19:06:56 +0000",
       "description": "La façon dont la NASA travaille avec les petites entreprises évolue et, par conséquent, l'organisme renforce la base industrielle de l'aérospatiale nationale pour appuyer les futures missions d'exploration dans le cadre de son Programme de développement des fournisseurs de petites entreprises, récemment renommé. Dans le cadre du programme, la NASA a annoncé son dernier accord Mentor-Protégé, celui-ci signé entre The Boeing Company et GRACE [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Seabird 'espies.. pourrait aider à repérer les navires qui ne diffusent pas leur emplacement",
@@ -200,7 +200,7 @@
       "date": "Wed, 25 Nov 2026 17:53:42 +0000",
       "description": "Alors que la NASA se prépare pour de futures missions sur la Lune et sur Mars, des chercheurs étudient des cultures qui pourraient fournir aux astronautes de la nourriture fraîche, de la nutrition et de la variété loin de la Terre. Une telle variété de cultures peut aider avec des menus dans l'espace profond, quelque chose de haut en tête cette semaine que la nation célèbre Thanksgiving. Les récents tests indiquent [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Michigan vient juste de faire une pause sur un plan de mise à jour de l'oléoduc controversé Line 5",
@@ -264,7 +264,7 @@
       "date": "Wed, 25 Nov 2026 16:47:29 +0000",
       "description": "Les conversations sur la NASA étaient la norme autour de la table de dîner pendant l'enfance d'Ashley Knight. Ses parents ont travaillé au centre de vol spatial Goddard de la NASA à Greenbelt, Maryland, et les discussions sur les événements à l'agence se sont poursuivies même quand ils sont rentrés du bureau. Je me souviens d'un dialogue poignant que nous avons eu après le désastre de la navette spatiale Challenger,",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "La Force aérienne émet des Boeing 2,8 milliards de dollars pour plus de KC-46",
@@ -296,7 +296,7 @@
       "date": "Wed, 25 Nov 2026 16:21:04 +0000",
       "description": "La structure Richat, aussi connue sous le nom d'Eye du Sahara, est vue de la Station Spatiale Internationale comme elle était en orbite au-dessus le 14 novembre 2026. C'est un dôme géologique érodé d'environ 100 millions d'années créé par l'activité ignée et l'élévation dans la nation mauritanienne. Dans ce type de structure géologique, les roches [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Pourquoi la preuve de l'hypothèse de Riemann est si amère",
@@ -305,6 +305,14 @@
       "description": "La preuve de l'hypothèse de Riemann aurait dû être une cause de célébration pour quelqu'un qui en porte littéralement un morceau sur sa peau",
       "source": "Scientific American",
       "category": "Sciences"
+    },
+    {
+      "title": "Même le prix des jouets est en hausse. Comment les Américains réduisent les plans de vacances",
+      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "date": "Wed, 25 Nov 2026 16:17:13 GMT",
+      "description": "Les consommateurs américains sont confrontés à des coûts alimentaires, de voyages et de cadeaux plus élevés en 2026, car l'inflation et les chocs énergétiques en Iran-guerre exercent une pression sur les budgets des vacances.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Réaction des médias: Qui est responsable de l'échec de la COP31?",
@@ -795,12 +803,100 @@
       "category": "Exploration"
     },
     {
-      "title": "Football: en Géorgie, le match entre Besiktas et l'Hapoel Beer-Sheva terni par des violences",
+      "title": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
+      "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 23:25:56 +0100",
+      "description": "La candidate du parti d'extrême droite avait auparavant dénoncé \"de basses manœuvres politiciennes\" pour conclure d'ici la fin de l'année un accord sur le budget européen qui serait difficile à remettre en cause si elle remportait la présidentielle.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
+      "date": "Thu, 26 Nov 2026 22:56:02 +0100",
+      "description": "La candidate du RN est en tête de tous les sondages, à cinq mois du premier tour de l’élection présidentielle.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
+      "link": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 22:55:56 +0100",
+      "description": "L'entrée en lice du candidat d'extrême droite avait mis un terme à la possibilité que Sarah Knafo concoure à sa place, sa popularité l'ayant un temps fait apparaître comme la possible candidate de Reconquête à l'Elysée.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
+      "date": "Thu, 26 Nov 2026 22:31:24 +0100",
+      "description": "La candidate du parti d’extrême droite avait auparavant dénoncé « de basses manœuvres politiciennes » pour conclure d’ici la fin de l’année un accord sur le budget européen pluriannuel qui serait difficile à remettre en cause si elle remportait la présidentielle.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Rapport: la CIA a torturé plus de gens avec le waterboarding que l'agence américaine a admis",
+      "link": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 22:06:54 +0000",
+      "description": "Un rapport du New York Times donne foi à la croyance de longue date selon laquelle la méthode de la torture est plus largement utilisée que ce qui est reconnu.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Chauffier diesel transportant jusqu'à 7 000 tonnes de chavirements près d'Ibiza, tuant un",
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 22:01:22 GMT",
+      "description": "Les dommages environnementaux éventuels sont encore évalués par le service espagnol de sauvetage maritime.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Watch: L'homme et le chien échappent étroitement à la puissante marée royale en Oregon",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 21:51:16 GMT",
+      "description": "L'homme et son chien se sont échappés indemnes, dit la police.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "En désaccord avec le budget de l'UE, les dirigeants européens ont réduit le sommet - DW a plus",
+      "link": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Thu, 26 Nov 2026 21:47:00 GMT",
+      "description": "Avant même de se rencontrer, il était clair que l'écart entre les demandes des dirigeants européens concernant le budget de l'UE rendrait les négociations difficiles. Ils ont mis fin tôt à une réunion au sommet et visent à s'entendre sur le financement de l'UE en décembre. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Le Royaume-Uni publie des fichiers sur Peter Mandelson, Ambassadeur Tied à Jeffrey Epstein",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "date": "Thu, 26 Nov 2026 21:40:09 +0000",
+      "description": "Les documents publiés jeudi ont jeté un nouvel éclairage sur la nomination précipitée de Peter Mandelson et ses liens avec Global Counsel, un groupe de lobbying.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Football: des violences en Géorgie contre des supporters turcs tournent à l'incident diplomatique",
       "link": "https://www.rfi.fr/fr/europe/20261126-football-en-g%C3%A9orgie-le-match-entre-besiktas-et-l-hapoel-beer-sheva-terni-par-des-violences",
       "date": "Thu, 26 Nov 2026 21:28:47 GMT",
       "description": "La Fédération turque de football a dénoncé, jeudi 26 novembre, des actes « inqualifiables » visant des supporters du club de Besiktas. Ceux-ci avaient déployé une banderole pro-palestinienne lors d'un match de Ligue Europa délocalisé à Batoumi, en Géorgie, contre le club israélien de l'Hapoel Beer-Sheva. Le Besiktas Istanbul accuse la police géorgienne d'avoir recouru à la force de manière « disproportionnée ».",
       "source": "RFI",
       "category": "France"
+    },
+    {
+      "title": "Backloggd exhorte les utilisateurs à modifier leurs mots de passe après une brèche",
+      "link": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+      "date": "Thu, 26 Nov 2026 21:26:47 +0000",
+      "description": "Si vous utilisez Backloggd, vous devrez peut-être vous connecter à nouveau et réinitialiser votre mot de passe.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Trump demande une enquête sur «l'erreur de réglage des enregistrements» après le troisième trimestre de données du PIB obtient une révision massive plus élevée",
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "date": "Thu, 26 Nov 2026 21:13:17 GMT",
+      "description": "Le président Donald Trump a estimé jeudi que la dernière révision du produit intérieur brut était une erreur, affirmant qu'elle devrait être « immédiatement examinée ».",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Chaque télescope intelligent que nous avons examiné et taux élevé qui est moins cher pour Black Friday — liste complète",
@@ -811,12 +907,12 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT, présidentielle 2027 | Emmanuel Macron à propos de Marine Le Pen : « C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
-      "link": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
-      "date": "Thu, 26 Nov 2026 21:08:26 +0100",
-      "description": "« Jusqu’à preuve du contraire, elle n’a pas été élue. Et votre serviteur est élu jusqu’au 13 mai 2027 », a lancé le président français lors d’une conférence de presse au cours d’un sommet européen à Bruxelles.",
-      "source": "Le Monde",
-      "category": "France"
+      "title": "L ' Égypte détient un chauffeur au-dessus du camion-citerne du Caire qui a tué 31",
+      "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 21:08:44 +0000",
+      "description": "Les procureurs ordonnent des tests de drogue pour le suspect de 21 ans, qui dit qu'il était dépassé quand l'accident s'est produit.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "À l'Institut du monde arabe, une soirée dédiée aux \"voix iraniennes\" perturbée par des monarchistes",
@@ -827,11 +923,11 @@
       "category": "France"
     },
     {
-      "title": "Présidentielle 2027 : \"Il faut plus d'humilité quand on fait campagne\", tacle Emmanuel Macron en direction de Marine Le Pen",
-      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 21:05:55 +0100",
-      "description": "\"C'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\", a déclaré jeudi le chef de l'Etat. La candidate du RN à l'Elysée a dénoncé, un peu plus tôt, \"de basses manœuvres politiciennes\" pour conclure un accord sur le budget européen.",
-      "source": "franceinfo",
+      "title": "La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine",
+      "link": "https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126",
+      "date": "Thu, 26 Nov 2026 21:05:00 +0100",
+      "description": "RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -843,12 +939,12 @@
       "category": "Exploration"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
-      "date": "Thu, 26 Nov 2026 21:01:02 +0100",
-      "description": "La candidate du RN est en tête de tous les sondages, à cinq mois du premier tour de l’élection présidentielle.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Les travailleurs de l'habillement du Bangladesh s'opposent à la police pour des salaires bas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 21:04:39 +0000",
+      "description": "Les travailleurs de l'habillement bangladais ont affronté la police après une augmentation de 36 % du salaire minimum a été inférieure à leurs exigences.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "\"La violence, la terreur et la mort...\" : Emilie König confrontée à son engagement pour l'Etat islamique et au sort de ses enfants, à l'ouverture de son procès",
@@ -865,14 +961,6 @@
       "description": "La plus grosse agence de presse française a vu son outil Forum, regroupant photos et dépêches, être paralysé, ce jeudi 26 novembre. A ce stade, l’AFP ne dispose «d’aucun élément sur l’identité des auteurs de cette attaque».",
       "source": "Libération",
       "category": "France"
-    },
-    {
-      "title": "Le Royaume-Uni publie des fichiers sur Peter Mandelson, Ambassadeur Tied à Jeffrey Epstein",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
-      "date": "Thu, 26 Nov 2026 20:49:46 +0000",
-      "description": "Les documents publiés jeudi ont jeté un nouvel éclairage sur la nomination précipitée de Peter Mandelson et ses liens avec Global Counsel, un groupe de lobbying.",
-      "source": "The New York Times",
-      "category": "Monde"
     },
     {
       "title": "Guinée-Bissau: report de deux ans de la présidentielle initialement prévue le 6 décembre",
@@ -963,14 +1051,6 @@
       "category": "Économie"
     },
     {
-      "title": "Musk promet deux actions SpaceX pour chaque enfant américain",
-      "link": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 20:19:22 +0000",
-      "description": "Les enfants américains recevraient une part de SpaceX et une part de lui personnellement, dit Musk.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Coupes budgétaires : l’Europe est en train de faire une «erreur stratégique», prévient Emmanuel Macron",
       "link": "https://www.liberation.fr/international/europe/coupes-budgetaires-leurope-est-en-train-de-faire-une-erreur-strategique-previent-emmanuel-macron-20261126_WI6355WSOBAKRLTMIGPM4SD5G4/",
       "date": "Thu, 26 Nov 2026 20:19:05 +0000",
@@ -1000,14 +1080,6 @@
       "date": "Thu, 26 Nov 2026 20:08:08 +0000",
       "description": "En août 2023 à La Croix-de-la-Rochette, Karen B., 42 ans avait été attaquée en pleine rue devant son fils de 3 ans par Georges Damiano, dont elle était séparée depuis six ans. La cour d’assises l’a condamné ce jeudi 26 novembre.",
       "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "L’éditorial d’Yves Thréard : «La France insoumise doit rester une France impossible»",
-      "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-la-france-insoumise-doit-rester-une-france-impossible-20261126",
-      "date": "Thu, 26 Nov 2026 20:04:39 +0100",
-      "description": "La droite et le centre doivent trouver le candidat qui empêchera un second tour opposant Jean-Luc Mélenchon à Marine Le Pen.",
-      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1046,7 +1118,7 @@
       "title": "«Départ des combats» : jusqu’à 18 mois de prison requis à l’audience sur les descentes de l’extrême droite à Nice contre des manifestants",
       "link": "https://www.liberation.fr/societe/police-justice/depart-des-combats-jusqua-18-mois-de-prison-requis-a-laudience-sur-les-descentes-de-lextreme-droite-a-nice-contre-des-manifestants-20261126_QFFSBPPJOBEWJBKMVBFRAEGX2Q/",
       "date": "Thu, 26 Nov 2026 19:57:07 +0000",
-      "description": "Interpellés en marge des rixes qui ont émaillé la fin de la manifestation niçoise du 24 octobre, les onze prévenus expliquent avoir voulu défendre une pizzeria. Alors qu’aucun commerce n’a été dégradé ce jour-là.",
+      "description": "Interpellés en marge des rixes qui ont émaillé la fin de la manifestation niçoise du 24 octobre, les dix prévenus expliquent avoir voulu défendre une pizzeria. Alors qu’aucun commerce n’a été dégradé ce jour-là.",
       "source": "Libération",
       "category": "France"
     },
@@ -1075,22 +1147,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Le Pérou brûle plus de 10 tonnes de drogues saisies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 19:44:05 +0000",
-      "description": "Le Pérou a commencé à brûler 10,7 tonnes de stupéfiants saisis lors de sa septième et dernière opération d'élimination des drogues, en 2026.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Présidentielle 2027 : largement battu par Marine Le Pen dans les sondages de second tour, Jean-Luc Mélenchon a-t-il vraiment perdu d’avance ?",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-largement-battu-par-marine-le-pen-dans-les-sondages-de-second-tour-jean-luc-melenchon-a-t-il-vraiment-perdu-d-avance-20261126",
-      "date": "Thu, 26 Nov 2026 19:40:04 +0100",
-      "description": "DÉCRYPTAGE - Si, à ce jour, les intentions de vote donnent l’Insoumis qualifié pour la finale, puis nettement devancé par la candidate RN, certains, à l’instar de Gérald Darmanin, prédisent sa victoire. Les sondeurs, eux, restent très prudents.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Deux Italiens tués dans une attaque iranienne contre le Koweït",
       "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
       "date": "Thu, 26 Nov 2026 19:33:06 +0000",
@@ -1107,14 +1163,6 @@
       "category": "Technologie"
     },
     {
-      "title": "«Fermer le robinet», référendum, avoirs russes… Ce que proposent les candidats à la présidentielle sur la guerre en Ukraine",
-      "link": "https://www.lefigaro.fr/politique/fermer-le-robinet-referendum-avoirs-russes-ce-que-proposent-les-candidats-a-la-presidentielle-sur-la-guerre-en-ukraine-20261126",
-      "date": "Thu, 26 Nov 2026 19:27:17 +0100",
-      "description": "En plein Congrès des maires, Teddy Riner a suscité un tollé en affirmant que «l’Ukraine n’est pas notre guerre». Une position singulière par rapport à la majorité des candidats, excepté Marine Le Pen.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Regarder: Toits arrachés et rues sous l'eau que le temps violent frappe États-Unis",
       "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 26 Nov 2026 19:26:16 GMT",
@@ -1123,19 +1171,11 @@
       "category": "Monde"
     },
     {
-      "title": "Pourquoi les pluies hivernales forcent-elles les Palestiniens de Gaza à fuir à nouveau?",
-      "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 19:19:12 +0000",
-      "description": "Les restrictions imposées par Israël à l'aide humanitaire, aux bâtiments endommagés et aux tentes inondées rendent les Palestiniens déplacés vulnérables.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "\"C'est que de l'argent\" : Marco Mouly, un récidiviste de la cavale, aujourd'hui en liberté conditionnelle",
-      "link": "https://www.franceinfo.fr/faits-divers/police/c-est-que-de-l-argent-marco-mouly-un-recidiviste-de-la-cavale-aujourd-hui-en-liberte-conditionnelle_8301885.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 19:05:44 +0100",
-      "description": "Aujourd’hui en liberté conditionnelle et interdit de quitter le territoire français, le \"roi de l'arnaque\" Marco Mouly, longtemps recherché par Interpol, a fait plusieurs séjours en prison et quelques cavales pour l'affaire de la taxe carbone, une vaste escroquerie financière, dans laquelle plus d'1,6 milliard d'euros se sont volatilisés. Il témoigne dans \"Complément d'enquête\", consacré, ce jeudi 26 novembre, à la police internationale. L'émission est à suivre à partir de 23 heures sur France 2 et franceinfo.fr.",
-      "source": "franceinfo",
+      "title": "RTL : les journalistes dénoncent le management de la direction de la rédaction sur fond d’inquiétudes sur la baisse des moyens alloués",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/26/rtl-les-journalistes-denoncent-le-management-de-la-direction-de-la-redaction-sur-fond-d-inquietudes-sur-la-baisse-des-moyens-alloues_6815588_3234.html",
+      "date": "Thu, 26 Nov 2026 19:00:14 +0100",
+      "description": "Le directeur général, Jonathan Curiel, a pris la parole, jeudi, devant la rédaction pour tenter d’apaiser les tensions au sein de la radio du groupe M6. La maison mère est aussi accusée « d’appauvrir » la station.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -1187,6 +1227,14 @@
       "category": "France"
     },
     {
+      "title": "Les applications Microdrama chassent les profits alors qu'Hollywood se déplace vers une vidéo de courte durée et verticale",
+      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "date": "Thu, 26 Nov 2026 18:27:43 GMT",
+      "description": "La catégorie des microdrames a explosé à un moment où les formes traditionnelles des médias font face à une perte d'intérêt et YouTube réclame plus d'heures de visionnement.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
       "title": "Après les cyberattaques et les menaces d'attentats à la bombe qui frappent l'Europe, le survivalisme va de pair avec l'Europe.",
       "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
       "date": "Thu, 26 Nov 2026 18:23:08 +0000",
@@ -1209,6 +1257,14 @@
       "description": "La même semaine que NVIDIA a rétabli Jensen Huang en tant que PDG, la société aurait également bloqué les expéditions vers l'Asie du Sud-Est.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "Donald Trump souhaite que Vladimir Poutine «mette fin à toute agression militaire» en Europe",
+      "link": "https://www.lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126",
+      "date": "Thu, 26 Nov 2026 18:08:51 +0100",
+      "description": "Dans un message publié sur Truth Social, le président américain a évoqué ses récents échanges avec son homologue russe en Chine, affirmant avoir abordé avec lui la nécessité de parvenir rapidement à un accord entre Moscou et Kiev.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Ford dévoile la GT41 en espérant remporter à nouveau Le Mans",
@@ -1241,6 +1297,14 @@
       "description": "Dans cet épisode, Mike Gruss parle avec le journaliste et l'auteur Tim Marshall. Ils discutent de la façon dont la guerre en Ukraine a représenté un appel à se réveiller pour [...] L'article L'avenir de la vie dans l'espace avec Tim Marshall est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "Les puces semi-conducteurs sont la nouvelle huile. Voilà pourquoi",
+      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "date": "Thu, 26 Nov 2026 17:52:15 GMT",
+      "description": "Pour la première fois en 2026, le semi-conducteur exporte du pétrole et du gaz, alors que l'IA alimente la demande de puces.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Conducteur soupçonné d'avoir causé un accident de pétrolier en Égypte qui a tué 31 détenus",
@@ -1297,14 +1361,6 @@
       "description": "Que vous souhaitiez vous mettre au courant du vaste catalogue de science-fiction et de superhéros de Dune ou de binge-watch HBO, cette offre supplémentaire HBO Max Prime Video offre de sérieuses économies en streaming.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "En voyage d'adieu, Steinmeier appelle à plus d'investissements en Afrique",
-      "link": "https://www.dw.com/en/on-farewell-trip-steinmeier-calls-for-more-investment-in-africa/a-80067717?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Thu, 26 Nov 2026 17:23:00 GMT",
-      "description": "Côte d'Ivoire, Ghana, Kenya : Lors de son dernier voyage en Afrique, le président allemand sortant Frank-Walter Steinmeier a appelé les entreprises du pays à être plus audacieuses et à saisir les opportunités en Afrique.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "Israël: Gadi Eisenkot et le parti de gauche nouent un accord de coalition",
@@ -1387,14 +1443,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Regardez en direct l'émission \"Envoyé spécial\"",
-      "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 16:43:38 +0100",
-      "description": "Au sommaire : \"Captation d'héritage : les seniors pris pour cible\", \"Ce soir on sort danser... sans les hommes !\", \"Pays baltes : à votre bunker !\".",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "La détection de roches vaporisées révèle la naissance d'un système solaire",
       "link": "https://www.universetoday.com/articles/detection-of-vaporized-rock-reveals-the-birth-of-a-solar-system",
       "date": "Thu, 26 Nov 2026 16:40:33 +0000",
@@ -1427,12 +1475,20 @@
       "category": "Exploration"
     },
     {
-      "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
-      "date": "Thu, 26 Nov 2026 16:04:15 +0100",
-      "description": "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques. L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de l’institution monétaire, la Française Laurence Boone sera chargée des marchés financiers et l’Allemand Markus Brunnermeier deviendra chef économiste.",
-      "source": "Le Monde",
-      "category": "France"
+      "title": "Les électeurs veulent-ils la vision ou la concision des politiciens?",
+      "link": "https://www.ft.com/content/af51083d-f076-44c0-8858-c9e9d4487fcc?syn-25a6b1a6=1",
+      "date": "Thu, 26 Nov 2026 16:16:34 GMT",
+      "description": "Leurs voles fleuries de rhétorique continuaient pour toujours. Maintenant ils le gardent bref",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Méfiez-vous de l'acheteur ? Les oscillations volatiles de Nvidia exposent les risques d'ETF monostock",
+      "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "date": "Thu, 26 Nov 2026 16:00:01 GMT",
+      "description": "Le partenaire fondateur de ETF Action, Mike Akins et le PDG de GraniteShares, Will Rhind, réagissent aux fortes pertes de Nvidia et à son dernier retour.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Grand Theft Auto VI prouve pourquoi l'efficacité n'est pas une vertu",
@@ -1459,11 +1515,11 @@
       "category": "Défense"
     },
     {
-      "title": "Apporter des données à la table Thanksgiving",
-      "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
-      "date": "Thu, 26 Nov 2026 15:26:58 GMT",
-      "description": "L'Amérique est-elle vraiment confrontée à une crise alimentaire abordable ?",
-      "source": "Financial Times",
+      "title": "Espagne Pablo Hernández de Cos va diriger la Banque centrale européenne",
+      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "date": "Thu, 26 Nov 2026 15:28:26 GMT",
+      "description": "De Cos mènera la BCE dans une période d'incertitude politique et de croissance difficile, après avoir obtenu le soutien nécessaire pour succéder à Christine Lagarde l'année prochaine.",
+      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -1473,14 +1529,6 @@
       "description": "⁠Le Conseil ​européen va nommer l'Espagnol Pablo ​Hernandez de Cos au poste de président de la Banque centrale ​européenne (BCE), ‌en remplacement de Christine ⁠Lagarde, selon des informations de sources diplomatiques européennes du jeudi 26 novembre 2026.",
       "source": "RFI",
       "category": "France"
-    },
-    {
-      "title": "Chauffier diesel transportant jusqu'à 7 000 tonnes de chavirements près d'Ibiza, tuant un",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 15:17:18 GMT",
-      "description": "Les dommages environnementaux éventuels sont encore évalués par le service espagnol de sauvetage maritime.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Présidentielle 2027 : «La guerre en Ukraine est notre guerre», répond Raphaël Glucksmann à Teddy Riner",
@@ -1533,7 +1581,7 @@
     {
       "title": "Attiré par des salaires élevés, certains Brésiliens ont été dupés dans la lutte pour la Russie",
       "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-      "date": "Thu, 26 Nov 2026 14:01:45 +0000",
+      "date": "Thu, 26 Nov 2026 14:01:46 +0000",
       "description": "Des dizaines de Brésiliens ont été envoyés sur les lignes de front avec peu de formation, et les salaires élevés qu'on leur avait promis, disent-ils, se sont révélés illusoires.",
       "source": "The New York Times",
       "category": "Monde"
@@ -1545,14 +1593,6 @@
       "description": "Plus de personnes sont confrontées à des remboursements hypothécaires plus élevés lorsqu'elles font un marché fixe que ce qui avait été estimé précédemment.",
       "source": "BBC News",
       "category": "Économie"
-    },
-    {
-      "title": "L'application Écrans vous permettra de transformer votre iPhone Duo en un bitty MacBook itty",
-      "link": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/",
-      "date": "Thu, 26 Nov 2026 13:59:06 +0000",
-      "description": "Edovia a mis à jour son application de bureau à distance Écrans avec un nouveau Mode Ordinateur portable pour l'iPhone Duo.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Simon Jack : Le propriétaire américain de Poundland est-il responsable de son effondrement ?",
@@ -1771,6 +1811,14 @@
       "category": "Exploration"
     },
     {
+      "title": "\"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 09:34:30 +0100",
+      "description": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "Lockheed Martin dévoile une suite d'armes pour la frégate de classe internationale Gibbs & Cox",
       "link": "https://www.navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate/",
       "date": "Thu, 26 Nov 2026 09:31:13 +0000",
@@ -1859,6 +1907,14 @@
       "category": "Sciences"
     },
     {
+      "title": "Guerre en Ukraine : Trump et le secrétaire général de l'Otan exhortent la Russie à ne pas «étendre la guerre» avec Kiev",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-trump-et-le-secretaire-general-de-l-otan-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-kiev-20261126",
+      "date": "Thu, 26 Nov 2026 06:31:59 +0100",
+      "description": "Réunis mercredi en Floride, le président américain et Mark Rutte ont également plaidé pour une résolution rapide et pacifique du conflit.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "La raison surprenante pour laquelle les femmes semblent mieux au multitâche que les hommes",
       "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
       "date": "Thu, 26 Nov 2026 06:21:47 EST",
@@ -1880,7 +1936,7 @@
       "date": "Thu, 26 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 26 – Eye... Today-S APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Yeux dans [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Les raids de l'ICE ont fait des ravages dans le monde universitaire américain",
@@ -1896,7 +1952,7 @@
       "date": "Thu, 26 Nov 2026 05:01:00 +0000",
       "description": "Les Néo-Zélandais ont longtemps envisagé l'île comme une zone exempte de prédateurs pour les oiseaux indigènes, mais les berges de natation ont montré leur propre détermination.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Watch: BBC confronte un Allemand soupçonné de fournir des bandes de migrants avec de petits bateaux",
@@ -1961,14 +2017,6 @@
       "description": "Le juge fédéral Loren L AliKhan accorde une injonction préliminaire en faveur d'ABC.",
       "source": "The Guardian",
       "category": "Économie"
-    },
-    {
-      "title": "La Californie met en garde contre les inondations comme le roi Tides pic sur Thanksgiving",
-      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 01:22:55 GMT",
-      "description": "Certaines parties de la province canadienne de la Colombie-Britannique pourraient également être touchées par les tempêtes et les inondations, qui surviennent lorsque des millions de personnes voyagent pour les vacances.",
-      "source": "BBC News",
-      "category": "Sciences"
     },
     {
       "title": "Au moins 31 morts lors d'un accident de carburéacteur enflamment un grand incendie sur la route du Caire",
