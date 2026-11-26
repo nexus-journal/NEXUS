@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T19:49:43.597899+00:00",
-  "count": 286,
+  "updated_at": "2026-11-26T20:38:22.468659+00:00",
+  "count": 285,
   "articles": [
     {
       "title": "La formation de trous noirs d'Euclid pour quasar à réglage record",
@@ -75,14 +75,6 @@
       "category": "Technologie"
     },
     {
-      "title": "FAC approuve le plan SpaceX pour placer les centres de données AI dans l'espace",
-      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "date": "Wed, 25 Nov 2026 20:56:44 +0000",
-      "description": "La FCC a rejeté certaines des principales préoccupations soulevées par les opposants, y compris les menaces potentielles à la recherche scientifique, parce que l'organisme a déterminé qu'ils ne relevaient pas de son autorité de réglementation.",
-      "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
       "title": "Tous les otages secourus après la tempête de supermarché des forces de sécurité colombiennes, selon la police",
       "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
       "date": "Wed, 25 Nov 2026 20:20:23 GMT",
@@ -97,14 +89,6 @@
       "description": "La chirurgie de remplacement du genou assistée par robot offre une plus grande précision chirurgicale, mais un essai clinique historique a révélé une limite surprenante. Malgré la technologie avancée, les patients n'ont connu aucune amélioration significative de la douleur, de la mobilité ou de la récupération par rapport à la chirurgie conventionnelle après un an.",
       "source": "ScienceDaily",
       "category": "Sciences"
-    },
-    {
-      "title": "OpenAI dit que les utilisateurs de ChatGPT lourds peuvent frapper les limites plus tôt car il fusionne Chat et Travail",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "date": "Wed, 25 Nov 2026 20:03:27 +0000",
-      "description": "OpenAI va introduire un seul compteur d'utilisation dans ChatGPT car il combine les expériences Chat et Work.",
-      "source": "TechCrunch",
-      "category": "Technologie"
     },
     {
       "title": "Concentrations élevées de salmonelles dans certains produits du plus grand producteur américain de dinde",
@@ -193,14 +177,6 @@
       "description": "Un manque de financement a perturbé les communications entre l'Armée de terre et Bell, poussant le service à dépasser son objectif initial de prestation à mesure que les fonctionnaires travaillent à établir un calendrier révisé.",
       "source": "Breaking Defense",
       "category": "Défense"
-    },
-    {
-      "title": "Les États-Unis autorisent SpaceX à déployer un million de satellites dans l'espace",
-      "link": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
-      "date": "Wed, 25 Nov 2026 18:03:00 +0000",
-      "description": "La Federal Communications Commission américaine autorise SpaceX à envoyer un million de satellites pour des centres de données dans l'espace, a déclaré l'agence.",
-      "source": "Sky News",
-      "category": "Monde"
     },
     {
       "title": "Comment le retour de Jensen Huang en tant que PDG de NVIDIA se déroule en Chine",
@@ -843,11 +819,35 @@
       "category": "Exploration"
     },
     {
+      "title": "EN DIRECT, présidentielle 2027 | Emmanuel Macron à propos de Marine Le Pen : « C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
+      "link": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
+      "date": "Thu, 26 Nov 2026 21:08:26 +0100",
+      "description": "« Jusqu’à preuve du contraire, elle n’a pas été élue. Et votre serviteur est élu jusqu’au 13 mai 2027 », a lancé le président français lors d’une conférence de presse au cours d’un sommet européen à Bruxelles.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : \"Il faut plus d'humilité quand on fait campagne\", tacle Emmanuel Macron en direction de Marine Le Pen",
+      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 21:05:55 +0100",
+      "description": "\"C'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\", a déclaré jeudi le chef de l'Etat. La candidate du RN à l'Elysée a dénoncé, un peu plus tôt, \"de basses manœuvres politiciennes\" pour conclure un accord sur le budget européen.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen",
       "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
-      "date": "Thu, 26 Nov 2026 20:48:02 +0100",
+      "date": "Thu, 26 Nov 2026 21:01:02 +0100",
       "description": "La candidate du RN est en tête de tous les sondages, à cinq mois du premier tour de l’élection présidentielle.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "\"La violence, la terreur et la mort...\" : Emilie König confrontée à son engagement pour l'Etat islamique et au sort de ses enfants, à l'ouverture de son procès",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/la-violence-la-terreur-et-la-mort-emilie-konig-confrontee-a-son-engagement-pour-l-etat-islamique-et-au-sort-de-ses-enfants-a-l-ouverture-de-son-proces_8301786.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 21:00:32 +0100",
+      "description": "Cette ex-figure française du jihad en Syrie est jugée devant la cour d'assises spéciale de Paris pour \"association de malfaiteurs terroriste\". La \"revenante\" encourt trente ans de réclusion criminelle.",
+      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -859,12 +859,20 @@
       "category": "France"
     },
     {
-      "title": "Ecrits antisémites attribués à Jordan Bardella : le patron du RN s'estime victime d'un \"harcèlement\" et d'une tentative \"de le mettre à mort socialement et politiquement\"",
-      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 20:34:50 +0100",
-      "description": "Mediapart et \"Le Monde\" ont publié jeudi de nouveaux écrits antisémites attribués à Jordan Bardella et remontant à 2013.",
-      "source": "franceinfo",
+      "title": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
+      "link": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
+      "date": "Thu, 26 Nov 2026 20:34:36 GMT",
+      "description": "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a accusé jeudi la France d'avoir maltraité un agent consulaire détenu depuis 2025 dans l'Hexagone et mis en examen dans le cadre de l'enlèvement de l'influenceur algérien Amir Boukhors. L'affaire avait aggravé les tensions diplomatiques déjà vives entre les deux pays et conduit à l'expulsion réciproque de diplomates et agents consulaires.",
+      "source": "France 24",
       "category": "France"
+    },
+    {
+      "title": "Trump demande une enquête sur «l'erreur de réglage des enregistrements» après le troisième trimestre de données du PIB obtient une révision massive plus élevée",
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "date": "Thu, 26 Nov 2026 20:25:28 GMT",
+      "description": "Le président Donald Trump a estimé jeudi que la dernière révision du produit intérieur brut était une erreur, affirmant qu'elle devrait être « immédiatement examinée ».",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
@@ -872,6 +880,46 @@
       "date": "Thu, 26 Nov 2026 20:25:06 +0100",
       "description": "« De graves incendies se sont déclarés dans les installations endommagées. De plus, les dommages causés aux réservoirs de stockage du pétrole ont entraîné des déversements », selon l’exploitant Slaviansk ECO.",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Deux Italiens tués en frappe de drone sur le Koweït",
+      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+      "date": "Thu, 26 Nov 2026 20:23:24 GMT",
+      "description": "Les travailleurs sont les premiers morts signalés dans le Golfe depuis que les États-Unis et l'Iran ont repris le feu ce mois-ci",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Coupes budgétaires : l’Europe est en train de faire une «erreur stratégique», prévient Emmanuel Macron",
+      "link": "https://www.liberation.fr/international/europe/coupes-budgetaires-leurope-est-en-train-de-faire-une-erreur-strategique-previent-emmanuel-macron-20261126_WI6355WSOBAKRLTMIGPM4SD5G4/",
+      "date": "Thu, 26 Nov 2026 20:19:05 +0000",
+      "description": "Lors d’un sommet à Bruxelles, le président français a réitéré ce jeudi 26 novembre sa mise en garde face à une baisse du budget européen pour la période 2028-2034. Il en a profité pour mettre un coup de griffe à Marine Le Pen.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Le procureur surpris au siège du RN était au courant de l’affaire des fuites de l’Intérieur vers le parti",
+      "link": "https://www.liberation.fr/societe/police-justice/le-procureur-surpris-au-siege-du-rn-etait-au-courant-de-laffaire-des-fuites-de-linterieur-vers-le-parti-revele-mediapart-20261126_5V522TVF4JBXZBNCVNZDK5USSE/",
+      "date": "Thu, 26 Nov 2026 20:11:38 +0000",
+      "description": "Selon les informations de «Mediapart» confirmées par l’AFP, Christian de Rocquigny a notamment reconnu auprès de la procureure générale de Paris qu’il avait «relu» un rapport sur le dossier.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "La junte Guinée-Bissau retarde le vote présidentiel pour 2 ans",
+      "link": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Thu, 26 Nov 2026 20:09:00 GMT",
+      "description": "La décision est venue exactement un an après que l'armée a pris le pouvoir le 26 novembre 2025. La junte a déclaré que les conditions étaient insuffisantes pour tenir des élections présidentielles pour l'instant.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Policière tuée à la machette en Savoie : son ex-mari condamné à la prison à perpétuité",
+      "link": "https://www.liberation.fr/societe/police-justice/policiere-tuee-a-la-machette-en-savoie-son-ex-mari-condamne-a-la-prison-a-perpetuite-20261126_UOX3PM636JBJXLCBAJCGXSITYY/",
+      "date": "Thu, 26 Nov 2026 20:08:08 +0000",
+      "description": "En août 2023 à La Croix-de-la-Rochette, Karen B., 42 ans avait été attaquée en pleine rue devant son fils de 3 ans par Georges Damiano, dont elle était séparée depuis six ans. La cour d’assises l’a condamné ce jeudi 26 novembre.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -883,12 +931,84 @@
       "category": "France"
     },
     {
+      "title": "«Une mare de sang le long de mon corps»: la létalité des grenades de la police française en question",
+      "link": "https://www.rfi.fr/fr/france/20261126-une-mare-de-sang-le-long-de-mon-corps-la-l%C3%A9talit%C3%A9-des-grenades-de-la-police-fran%C3%A7aise-en-question",
+      "date": "Thu, 26 Nov 2026 20:04:27 GMT",
+      "description": "Depuis le début de la mobilisation sociale en France, des centaines de personnes ont été blessées – des jeunes, des personnels de l'éducation ou encore des forces de l'ordre. Certains manifestants ont été blessés par des grenades lancées par la police. Le gouvernement l'assure : les grenades assourdissantes ou de désencerclement ne sont pas des armes létales, mais des armes intermédiaires. Pourtant, des personnes ont été gravement blessées. Certaines ont même échappé de peu à la mort. C'est le cas de Jonathan, qui témoigne.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Nvidia fait une pause sur les expéditions de puces vers l'Asie du Sud-Est",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "date": "Thu, 26 Nov 2026 20:03:54 +0000",
+      "description": "Nvidia a dit aux partenaires manufacturiers d'arrêter les expéditions de serveurs vers la Malaisie, Singapour, la Thaïlande et l'Indonésie alors que les États-Unis resserrent leur pression pour empêcher les puces AI de sortir de Chine.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "Alice Huang est une espionne ou pas ?",
+      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "date": "Thu, 26 Nov 2026 20:00:00 +0000",
+      "description": "L'affirmation centrale et non prouvée dans le scandale de Nvidia est qu'Alice Huang, l'ancien exec Megaspeed avec lequel le PDG de Nvidia Jensen Huang a eu une affaire extramaritale, est un espion chinois.",
+      "source": "TechCrunch",
+      "category": "Technologie"
+    },
+    {
+      "title": "1Mot de passe dit qu'il a été piraté mais les coffres des utilisateurs sont sûrs",
+      "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+      "date": "Thu, 26 Nov 2026 20:00:00 +0000",
+      "description": "1Mot de passe assure aux clients que leurs connexions et autres informations sensibles n'ont pas été compromises lors d'une violation récente de données.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "«Départ des combats» : jusqu’à 18 mois de prison requis à l’audience sur les descentes de l’extrême droite à Nice contre des manifestants",
+      "link": "https://www.liberation.fr/societe/police-justice/depart-des-combats-jusqua-18-mois-de-prison-requis-a-laudience-sur-les-descentes-de-lextreme-droite-a-nice-contre-des-manifestants-20261126_QFFSBPPJOBEWJBKMVBFRAEGX2Q/",
+      "date": "Thu, 26 Nov 2026 19:57:07 +0000",
+      "description": "Interpellés en marge des rixes qui ont émaillé la fin de la manifestation niçoise du 24 octobre, les onze prévenus expliquent avoir voulu défendre une pizzeria. Alors qu’aucun commerce n’a été dégradé ce jour-là.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Islam Faisal : Pourquoi les nouveaux tarifs de Trump sont moins dangereux",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 19:55:58 GMT",
+      "description": "D'autres pays ont réacheminé le commerce en réponse à sa première salve tarifaire, maintenant ils regardent au-delà du mandat de Trump.",
+      "source": "BBC News",
+      "category": "Économie"
+    },
+    {
+      "title": "Ecrits antisémites de Bardella : le RN coincé entre dénégation du passé et dédiabolisation",
+      "link": "https://www.liberation.fr/politique/elections/ecrits-antisemites-de-bardella-le-rn-coince-entre-denegation-du-passe-et-dediabolisation-20261126_CEQ53D6KRVDD7OOTTKN5CXNBKY/",
+      "date": "Thu, 26 Nov 2026 19:49:04 +0000",
+      "description": "Les dernières révélations de «Mediapart» et du «Monde» jeudi embarrassent un parti qui entretient des rapports compliqués avec son histoire, entre déni, ignorance voire fierté. Une schizophrénie qui les rattrape à chaque fois que le passé sulfureux d’un cadre du RN refait surface.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
       "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
       "link": "https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126",
       "date": "Thu, 26 Nov 2026 19:46:46 +0100",
       "description": "REPORTAGE - La candidate à l’élection présidentielle, donnée favorite dans les sondages, veut convaincre qu’elle entend les préoccupations des dirigeants de petites entreprises.",
       "source": "Le Figaro",
       "category": "France"
+    },
+    {
+      "title": "Les travailleurs amazoniens dans le monde planifient des grèves et des manifestations sur le Black Friday et Cyber Monday",
+      "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+      "date": "Thu, 26 Nov 2026 19:44:49 +0000",
+      "description": "Une campagne exigeant qu'Amazon reconnaisse et négocie avec les syndicats verra les travailleurs dans plus de 20 pays se mobiliser.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le Pérou brûle plus de 10 tonnes de drogues saisies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 19:44:05 +0000",
+      "description": "Le Pérou a commencé à brûler 10,7 tonnes de stupéfiants saisis lors de sa septième et dernière opération d'élimination des drogues, en 2026.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Présidentielle 2027 : largement battu par Marine Le Pen dans les sondages de second tour, Jean-Luc Mélenchon a-t-il vraiment perdu d’avance ?",
@@ -915,14 +1035,6 @@
       "category": "Monde"
     },
     {
-      "title": "Les usines françaises de Peugeot et Citroën calent quand celles de Renault tournent à plein régime",
-      "link": "https://www.liberation.fr/economie/social/les-usines-francaises-de-peugeot-et-citroen-calent-quand-celles-de-renault-tournent-a-plein-regime-20261126_PPNDJWXFWRFKZEDZBC22AEKBKM/",
-      "date": "Thu, 26 Nov 2026 19:32:14 +0000",
-      "description": "Après l’annonce de suppressions de postes dans son usine de Sochaux, mardi, Stellantis entend réduire la production des sites de Rennes et de Mulhouse en cette fin d’année. En cause, le prix élevé de ses modèles et une stratégie électrique qui interroge.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "X obtient enfin le contrôle parental après 20 ans",
       "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
       "date": "Thu, 26 Nov 2026 19:31:50 +0000",
@@ -931,20 +1043,12 @@
       "category": "Technologie"
     },
     {
-      "title": "L’enseigne Lapeyre passe sous pavillon italien",
-      "link": "https://www.liberation.fr/economie/lenseigne-lapeyre-passe-sous-pavillon-italien-20261126_BIYDHE2BLNHGRFVL3LNN3MUINE/",
-      "date": "Thu, 26 Nov 2026 19:31:44 +0000",
-      "description": "Mutares, l’actuel propriétaire allemand de l’entreprise spécialisée dans les produits d’aménagement de l’habitat, a précisé ce jeudi 26 novembre qu’elle «conservera sa marque et son positionnement sur le marché français».",
-      "source": "Libération",
+      "title": "«Fermer le robinet», référendum, avoirs russes… Ce que proposent les candidats à la présidentielle sur la guerre en Ukraine",
+      "link": "https://www.lefigaro.fr/politique/fermer-le-robinet-referendum-avoirs-russes-ce-que-proposent-les-candidats-a-la-presidentielle-sur-la-guerre-en-ukraine-20261126",
+      "date": "Thu, 26 Nov 2026 19:27:17 +0100",
+      "description": "En plein Congrès des maires, Teddy Riner a suscité un tollé en affirmant que «l’Ukraine n’est pas notre guerre». Une position singulière par rapport à la majorité des candidats, excepté Marine Le Pen.",
+      "source": "Le Figaro",
       "category": "France"
-    },
-    {
-      "title": "Deux Italiens tués en grève au Koweït, l'Iran niant toute responsabilité",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 19:27:45 GMT",
-      "description": "Selon le ministère italien des Affaires étrangères, la paire était composée de techniciens pour la société allemande Rheinmetall.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Regarder: Toits arrachés et rues sous l'eau que le temps violent frappe États-Unis",
@@ -952,39 +1056,15 @@
       "date": "Thu, 26 Nov 2026 19:26:16 GMT",
       "description": "Des centaines de milliers de personnes ont été touchées par les tempêtes dans le pays au moment où commence le week-end de fête de l'Action de grâces.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Monde"
     },
     {
-      "title": "Violents incidents entre supporters de l'OM et du Levski Sofia juste avant la rencontre de Ligue Europa",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-europa/violents-incidents-entre-supporters-de-l-om-et-du-levski-sofia-juste-avant-la-rencontre-de-ligue-europa_8301924.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 19:23:36 +0100",
-      "description": "Le match de C3 entre l'Olympique de Marseille et le Levski Sofia a été le théâtre d'affrontements entre supporters des deux camps. Des projectiles ont été envoyés dans les tribunes à quelques minutes du coup d'envoi.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
-      "title": "Nouvelles révélations sur Jordan Bardella : la fable de la banalisation du RN",
-      "link": "https://www.liberation.fr/idees-et-debats/editorial/nouvelles-revelations-sur-jordan-bardella-la-fable-de-la-banalisation-du-rn-20261126_45TJ4RARDRG3PO5HUPRRWB5SZA/",
-      "date": "Thu, 26 Nov 2026 19:22:25 +0000",
-      "description": "Les informations publiées, ce jeudi, sur les propos de jeunesse de l’actuel président du parti d’extrême droite, prouvent qu’avoir renommé le Front national en Rassemblement ne suffit pas à effacer le passé.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Europe, Ukraine… Les questions internationales qui pourraient empêcher le ralliement des Ecologistes à Mélenchon",
-      "link": "https://www.liberation.fr/politique/europe-ukraine-les-questions-internationales-qui-pourraient-empecher-le-ralliement-des-ecologistes-a-melenchon-20261126_OAHVPOB3YNHHBIGD6TZH7QK5CI/",
-      "date": "Thu, 26 Nov 2026 19:21:03 +0000",
-      "description": "Alors que des négociations se poursuivent au moins jusqu’à dimanche entre les verts et les insoumis, l’hypothèse d’un accord pourrait, comme souvent, achopper sur les enjeux de défense et diplomatiques.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Le procureur surpris au siège du RN était au courant de l’affaire des fuites de l’Intérieur vers le parti, révèle Mediapart",
-      "link": "https://www.liberation.fr/societe/police-justice/le-procureur-surpris-au-siege-du-rn-etait-au-courant-de-laffaire-des-fuites-de-linterieur-vers-le-parti-revele-mediapart-20261126_5V522TVF4JBXZBNCVNZDK5USSE/",
-      "date": "Thu, 26 Nov 2026 19:18:09 +0000",
-      "description": "Selon un procès-verbal que s’est procuré le média d’investigation, Christian de Rocquigny a notamment reconnu auprès de la procureure générale de Paris qu’il avait «relu» un rapport sur le dossier.",
-      "source": "Libération",
-      "category": "France"
+      "title": "Pourquoi les pluies hivernales forcent-elles les Palestiniens de Gaza à fuir à nouveau?",
+      "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 19:19:12 +0000",
+      "description": "Les restrictions imposées par Israël à l'aide humanitaire, aux bâtiments endommagés et aux tentes inondées rendent les Palestiniens déplacés vulnérables.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Le juge réprime les dernières restrictions à la citoyenneté américaine",
@@ -1051,14 +1131,6 @@
       "category": "France"
     },
     {
-      "title": "Trump demande une enquête sur «l'erreur de réglage des enregistrements» après le troisième trimestre de données du PIB obtient une révision massive plus élevée",
-      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "date": "Thu, 26 Nov 2026 18:44:15 GMT",
-      "description": "Le président Donald Trump a estimé jeudi que la dernière révision du produit intérieur brut était une erreur, affirmant qu'elle devrait être « immédiatement examinée ».",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
       "link": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
       "date": "Thu, 26 Nov 2026 18:35:04 +0100",
@@ -1091,14 +1163,6 @@
       "category": "Économie"
     },
     {
-      "title": "Trump appelle les données sur le PIB publiées avant les mi-parcours «fausse», demande enquête",
-      "link": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 18:27:27 +0000",
-      "description": "Le président dit que c'était une décision délibérée de libérer des chiffres de croissance \"faux\" avant les élections à mi-parcours américaines.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Après les cyberattaques et les menaces d'attentats à la bombe qui frappent l'Europe, le survivalisme va de pair avec l'Europe.",
       "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
       "date": "Thu, 26 Nov 2026 18:23:08 +0000",
@@ -1121,14 +1185,6 @@
       "description": "La même semaine que NVIDIA a rétabli Jensen Huang en tant que PDG, la société aurait également bloqué les expéditions vers l'Asie du Sud-Est.",
       "source": "Engadget",
       "category": "Technologie"
-    },
-    {
-      "title": "L ' élection présidentielle en Guinée-Bissau a été retardée de deux ans",
-      "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 18:07:18 +0000",
-      "description": "Selon les dirigeants militaires, le scrutin présidentiel et législatif prévu pour le 6 décembre aura lieu en novembre 2028.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Ford dévoile la GT41 en espérant remporter à nouveau Le Mans",
@@ -1171,6 +1227,14 @@
       "category": "Économie"
     },
     {
+      "title": "Conducteur d'une voiture soupçonnée d'avoir provoqué le renversement d'un pétrolier en Égypte",
+      "link": "https://news.sky.com/story/driver-of-car-suspected-of-causing-fuel-tanker-to-overturn-in-egypt-detained-13616933",
+      "date": "Thu, 26 Nov 2026 17:49:00 +0000",
+      "description": "Le conducteur d'une voiture soupçonnée d'avoir provoqué le renversement d'un pétrolier en Égypte, causant la mort de 31 personnes, a été arrêté.",
+      "source": "Sky News",
+      "category": "Monde"
+    },
+    {
       "title": "Le procès de Berlin accusé d'espionnage pour la Russie commence après le retard",
       "link": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Thu, 26 Nov 2026 17:44:00 GMT",
@@ -1182,7 +1246,7 @@
       "title": "Notre avis sur « GTA VI » après soixante heures de jeu : entre vertige urbain et romance sous tension",
       "link": "https://www.lemonde.fr/pixels/article/2026/11/26/notre-avis-sur-gta-vi-apres-soixante-heures-de-jeu-entre-vertige-urbain-et-romance-sous-tension_6815568_4408996.html",
       "date": "Thu, 26 Nov 2026 17:40:51 +0100",
-      "description": "Une semaine après sa sortie, nous avons vu le générique de fin de la superproduction de Rockstar Games. Retour sur une fresque explosive, monumentale mais poussive dans la conclusion de son histoire.",
+      "description": "Une semaine après sa sortie, nous avons vu le générique de fin de la superproduction de Rockstar Games. Retour sur une fresque explosive, monumentale mais poussive dans sa conclusion.",
       "source": "Le Monde",
       "category": "France"
     },
@@ -1225,14 +1289,6 @@
       "description": "Côte d'Ivoire, Ghana, Kenya : Lors de son dernier voyage en Afrique, le président allemand sortant Frank-Walter Steinmeier a appelé les entreprises du pays à être plus audacieuses et à saisir les opportunités en Afrique.",
       "source": "Deutsche Welle",
       "category": "Monde"
-    },
-    {
-      "title": "Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi",
-      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 17:22:28 +0100",
-      "description": "Plusieurs manifestations se tenaient cet après-midi dans toute la France, à l'initiative du collectif universitaire Interfac.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Israël: Gadi Eisenkot et le parti de gauche nouent un accord de coalition",
@@ -1299,14 +1355,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Deux Italiens tués en grève iranienne sur le Koweït",
-      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
-      "date": "Thu, 26 Nov 2026 16:57:26 GMT",
-      "description": "Les travailleurs de Rheinmetall sont les premiers morts d'attaques iraniennes depuis que Washington et Téhéran ont repris le feu ce mois-ci",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
       "title": "En ce jour dans l'espace ! 26 nov. 2011 : Lancement du rover de la NASA de 2 tonnes à propulsion nucléaire sur Mars",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-26-2026",
       "date": "Thu, 26 Nov 2026 16:55:48 +0000",
@@ -1329,6 +1377,14 @@
       "description": "L'IWGB Rockstar Game Workers Union continuera à s'organiser après seulement un quart des travailleurs ont voté en faveur d'un accord officiel avec le studio.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "Regardez en direct l'émission \"Envoyé spécial\"",
+      "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 26 Nov 2026 16:43:38 +0100",
+      "description": "Au sommaire : \"Captation d'héritage : les seniors pris pour cible\", \"Ce soir on sort danser... sans les hommes !\", \"Pays baltes : à votre bunker !\".",
+      "source": "franceinfo",
+      "category": "France"
     },
     {
       "title": "La détection de roches vaporisées révèle la naissance d'un système solaire",
@@ -1411,14 +1467,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Allemagne: le syndicat IG Metall dit accord conclu avec les employeurs",
-      "link": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Thu, 26 Nov 2026 15:58:00 GMT",
-      "description": "IG Metall, représentant des millions de travailleurs de l'industrie métallurgique et électrique allemande, est le plus grand syndicat du pays. L'accord est intervenu après plus de 24 heures de discussions avec les employeurs.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Homme condamné à 47 mois de prison après avoir utilisé Amnesty International pour se faire passer pour N3on",
       "link": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
       "date": "Thu, 26 Nov 2026 15:50:37 +0000",
@@ -1456,14 +1504,6 @@
       "date": "Thu, 26 Nov 2026 15:25:59 GMT",
       "description": "⁠Le Conseil ​européen va nommer l'Espagnol Pablo ​Hernandez de Cos au poste de président de la Banque centrale ​européenne (BCE), ‌en remplacement de Christine ⁠Lagarde, selon des informations de sources diplomatiques européennes du jeudi 26 novembre 2026.",
       "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "Propos antisémites : Bardella tente se dit victime de \"persécution\" par \"certains médias\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-bardella-tente-se-dit-victime-de-pers%C3%A9cution-par-certains-m%C3%A9dias",
-      "date": "Thu, 26 Nov 2026 15:25:11 GMT",
-      "description": "Le président du Rassemblement national, Jordan Bardella affirme que les nouveaux propos antisémites révélés par Médiapart et Le Monde \"ne correspondent ni à mes idées, ni à mes valeurs, ni à mes convictions, hier comme aujourd'hui\" dénonçant \"avec la plus grande fermeté les méthodes employées\" par certains médias \"dans le cadre de (leurs) enquêtes, devenues de véritables chasses à l'homme\". Les précisions de Marc Perelman, journaliste politique.",
-      "source": "France 24",
       "category": "France"
     },
     {
@@ -1515,14 +1555,6 @@
       "category": "Monde"
     },
     {
-      "title": "Norse Atlantic suspend tous les vols car il risque d'être écroulé",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 14:28:22 GMT",
-      "description": "Le transporteur est à la recherche d'un financement urgent, mais il déposera une faillite sans ligne de vie financière.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Gérard Depardieu est ordonné d'être jugé pour viol",
       "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
       "date": "Thu, 26 Nov 2026 14:17:40 +0000",
@@ -1571,28 +1603,12 @@
       "category": "Économie"
     },
     {
-      "title": "Le renvoi en procès de Gérard Depardieu pour une partie des viols dont il est accusé confirmé en appel",
-      "link": "https://www.rfi.fr/fr/france/20261126-le-renvoi-en-proc%C3%A8s-de-g%C3%A9rard-depardieu-pour-une-partie-des-viols-dont-il-est-accus%C3%A9-confirm%C3%A9-en-appel",
-      "date": "Thu, 26 Nov 2026 13:36:27 GMT",
-      "description": "La cour d'appel de Paris a confirmé, ce jeudi 26 novembre, le renvoi en procès de l'acteur Gérard Depardieu pour une partie des viols dénoncés par la comédienne Charlotte Arnould, a indiqué une source judiciaire à l'AFP.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Chang'e-6 échantillons révèlent la réaction en chaîne violente qui a construit le grand cratère de la Lune",
       "link": "https://www.universetoday.com/articles/change-6-samples-reveal-the-violent-chain-reaction-that-built-the-moons-largest-crater",
       "date": "Thu, 26 Nov 2026 13:31:00 +0000",
       "description": "Une des caractéristiques les plus importantes de la Lune est celle que nous pouvons voir régulièrement, du moins pas complètement. Le bassin du pôle Sud (SPA) est l'un des cratères d'impact les plus grands, les plus anciens et les plus profonds de la Lune, et jusqu'à récemment nous n'avons pu l'observer que de loin - et même alors seulement quand nous avons envoyé des orbiteurs à l'extrême, qui n'est jamais en ligne directe de vue avec la Terre. Récemment, la Chine a envoyé des atterrisseurs et",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "La collection du 30e anniversaire de Casetify Pokémon comprend un étui Poké Ball pour votre AirPods",
-      "link": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
-      "date": "Thu, 26 Nov 2026 13:14:18 +0000",
-      "description": "Casetify sort une collection Pokémon le 1er décembre et elle comprend un boîtier AirPods qui ressemble à un pixel Poké Ball.",
-      "source": "Engadget",
-      "category": "Technologie"
     },
     {
       "title": "Le téléchargement: De meilleures mains bioniques et le boom du gaz naturel de l'IA",
@@ -1609,14 +1625,6 @@
       "description": "L'enquête publiée dans Lancet révèle «l'hésitation hormonale à la hausse – avec des implants et des injections également de plus en plus Le nombre de jeunes femmes utilisant la contraception hormonale a considérablement diminué au cours de la dernière décennie, les médias sociaux alimentant le phénomène de l'hésitation hormonale. Nouvelles conclusions de la quatrième Enquête nationale sur les attitudes et les modes de vie sexuels (Natsal-4), publiée dans The Lancet, ont révélé que près d'une femme sur cinq dans la Grande",
       "source": "The Guardian",
       "category": "Sciences"
-    },
-    {
-      "title": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html",
-      "date": "Thu, 26 Nov 2026 13:00:07 +0100",
-      "description": "Sous la pression de ses concurrents de droite et du centre pour l’organisation d’une primaire, le candidat d’Horizons avait sous-estimé la percée du maire de Cannes. Il dénonce désormais ses ambiguïtés avec l’extrême droite et veut se démarquer de sa ligne ultralibérale.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "10 Meilleurs services de livraison de repas, testés par une critique ex-restaurant",
@@ -1723,14 +1731,6 @@
       "category": "Sciences"
     },
     {
-      "title": "SpaceX obtient l'approbation de FAC pour déployer 1 million de satellites pour son centre de données orbitales AI",
-      "link": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
-      "date": "Thu, 26 Nov 2026 11:01:32 +0000",
-      "description": "La FCC a donné suite à la demande de SpaceX de déployer 1 million de satellites pour construire un centre de données AI en orbite.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Les maths cachés derrière cette stratégie paradoxale de vente du vendredi noir",
       "link": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
       "date": "Thu, 26 Nov 2026 11:00:00 +0000",
@@ -1753,14 +1753,6 @@
       "description": "Les responsables affirment qu'aucun plomb n'a été détecté dans les environs, ce qui continue d'être testé en fonction des préoccupations des habitants.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Jean-Luc Mélenchon peut-il gagner la présidentielle, comme l'affirme Gérald Darmanin ?",
-      "link": "https://www.lefigaro.fr/politique/jean-luc-melenchon-peut-il-gagner-la-presidentielle-comme-l-affirme-gerald-darmanin-20261126",
-      "date": "Thu, 26 Nov 2026 10:27:20 +0100",
-      "description": "",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "El Salvador Nayib Bukele Elate Haïti avec la lutte contre les gangs",
