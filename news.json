@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T19:15:07.308606+00:00",
+  "updated_at": "2026-11-27T20:11:04.720806+00:00",
   "count": 285,
   "articles": [
     {
@@ -24,6 +24,14 @@
       "date": "Wed, 25 Nov 2026 22:33:27 +0000",
       "description": "Faire des choses bon marché est cher",
       "source": "The Economist",
+      "category": "Économie"
+    },
+    {
+      "title": "Liesman: Pourquoi Greenspan pourrait parier sur la productivité — et Warsh a besoin de marcher",
+      "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "date": "Wed, 25 Nov 2026 21:56:43 GMT",
+      "description": "Alan Greenspan tenait célèbrement la ligne sur les taux d'intérêt parce qu'il croyait à la promesse de productivité du boom Internet. Pourquoi Kevin Warsh ne peut pas faire pareil ?",
+      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -97,14 +105,6 @@
       "description": "Plus de 700 000 soldats russes ont été tués dans la guerre en Ukraine depuis que la Russie a lancé sa guerre à grande échelle contre la nation il y a près de cinq ans.",
       "source": "Defense News",
       "category": "Défense"
-    },
-    {
-      "title": "Fumée vue à un kilomètre de l'armée qui fait exploser des stocks américains de produits chimiques de fabrication de bombes en Iowa",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-      "date": "Wed, 25 Nov 2026 18:24:48 GMT",
-      "description": "L'explosion contrôlée pour éliminer l'azide de plomb risque de libérer des panaches de produits chimiques toxiques dans un rayon de 100 milles L'armée américaine a fait exploser l'ensemble de la réserve de la mine de plomb de l'Iowa mercredi matin, en dépit des inquiétudes du public quant aux effets potentiels sur la santé et l'environnement. L'explosion contrôlée, qui a eu lieu vers 10h00 HNE, devait éliminer 9 700lb (4 400kg) de la substance chimique stockée à",
-      "source": "The Guardian",
-      "category": "Environnement"
     },
     {
       "title": "Livraison du premier MV-75 pour les essais officiellement retardés en raison des revers financiers : Armée",
@@ -257,14 +257,6 @@
       "description": "La détonation est nécessaire, disent les officiels, parce que la matière devient explosivement instable à certaines températures",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Pourquoi le Pentagone demande des «anomalies» comme il prévoit pour un CR à long terme",
-      "link": "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr/",
-      "date": "Wed, 25 Nov 2026 14:40:55 +0000",
-      "description": "L'administration Trump essaie de protéger Golden Dome et d'autres programmes prioritaires, car le budget demeure incertain.",
-      "source": "Breaking Defense",
-      "category": "Défense"
     },
     {
       "title": "Final KC-46 Tankers sous contrat original avec Boeing commandé Par USAF",
@@ -563,14 +555,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Backloggd exhorte les utilisateurs à modifier leurs mots de passe après une brèche",
-      "link": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
-      "date": "Thu, 26 Nov 2026 21:26:47 +0000",
-      "description": "Si vous utilisez Backloggd, vous devrez peut-être vous connecter à nouveau et réinitialiser votre mot de passe.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Slingshot Earth: Europa Clipper de la NASA va gagner de la vitesse et tester ses instruments pendant son vol terrestre",
       "link": "https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb",
       "date": "Thu, 26 Nov 2026 21:04:40 +0000",
@@ -592,14 +576,6 @@
       "date": "Thu, 26 Nov 2026 20:00:00 +0000",
       "description": "L'affirmation centrale et non prouvée dans le scandale de Nvidia est qu'Alice Huang, l'ancien exec Megaspeed avec lequel le PDG de Nvidia Jensen Huang a eu une affaire extramaritale, est un espion chinois.",
       "source": "TechCrunch",
-      "category": "Technologie"
-    },
-    {
-      "title": "1Mot de passe dit qu'il a été piraté mais les coffres des utilisateurs sont sûrs",
-      "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
-      "date": "Thu, 26 Nov 2026 20:00:00 +0000",
-      "description": "1Mot de passe assure aux clients que leurs connexions et autres informations sensibles n'ont pas été compromises lors d'une violation récente de données.",
-      "source": "Engadget",
       "category": "Technologie"
     },
     {
@@ -1051,6 +1027,70 @@
       "category": "Exploration"
     },
     {
+      "title": "\"Elle a besoin d’être reconnue dans le regard des autres\" : au procès d'Emilie König, un expert éclaire la psychologie de l'ex-\"égérie\" de l'EI",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/elle-a-besoin-d-etre-reconnue-dans-le-regard-des-autres-au-proces-d-emilie-konig-la-psychologie-de-l-ancienne-propagandiste-de-l-ei-passee-au-scalpel_8303523.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 21:00:26 +0100",
+      "description": "Xavier Renault, expert psychologue spécialiste de la radicalisation des femmes jihadistes, a livré une analyse détaillée de la personnalité de cette ancienne propagandiste en Syrie du groupe terroriste islamiste.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "En Cisjordanie occupée, la lente asphyxie du système de santé palestinien",
+      "link": "https://www.lemonde.fr/international/article/2026/11/27/en-cisjordanie-occupee-la-lente-asphyxie-du-systeme-de-sante-palestinien_6815929_3210.html",
+      "date": "Fri, 27 Nov 2026 20:30:04 +0100",
+      "description": "A Naplouse, alors que les checkpoints et les attaques de colons entravent l’accès aux soins des malades et le travail des urgentistes, les impayés de l’Autorité palestinienne fragilisent l’ensemble du maillage sanitaire du territoire.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Dix ans après, Fillon va raconter les secrets de sa campagne cauchemar dans un livre... Les indiscrets du Figaro",
+      "link": "https://www.lefigaro.fr/politique/dix-ans-apres-fillon-va-raconter-les-secrets-de-sa-campagne-cauchemar-dans-un-livre-les-indiscrets-du-figaro-20261127",
+      "date": "Fri, 27 Nov 2026 20:30:00 +0100",
+      "description": "CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Franck Haise, l'entraîneur de l'équipe de football du Stade rennais, est mis à pied",
+      "link": "https://www.franceinfo.fr/sports/foot/l-entraineur-de-l-equipe-de-football-du-stade-rennais-franck-haise-est-mis-a-pied_8303727.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 20:27:21 +0100",
+      "description": "Arrivé en février pour remplacer Habib Beye, Haise avait mené le club breton à une qualification européenne, mais une série de cinq matchs sans victoire lui a coûté sa place.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
+      "date": "Fri, 27 Nov 2026 20:15:54 +0100",
+      "description": "Plus de 200 communes du département ont été touchées par la montée des eaux de la rivière Canche. Alors que la décrue s’amorce, les habitants cherchent des responsables et redoutent la suite de l’hiver.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Le Premier ministre espagnol et les rivaux rallient les supporters en finale pour les votes",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026 20:09:09 GMT",
+      "description": "Le Premier ministre Pedro Sánchez veut défier les sondages, et ses principaux rivaux l'accusent de ne pas dire la vérité et de «beurre».",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "On ne pouvait pas abandonner si facilement. Marching bandes brouillés pour couvrir les coûts après Thanksgiving défilé réorganisé",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026 20:06:31 GMT",
+      "description": "La tempête à New York a incité les organisateurs à repousser le défilé de Macy de deux jours, laissant des musiciens coincés.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Samsung donne à son appareil photo un mode AI",
+      "link": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+      "date": "Fri, 27 Nov 2026 20:06:02 +0000",
+      "description": "La fonctionnalité pourrait refléter le mode Siri Apple ajouté dans iOS 27.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
       "title": "«Le soir de la dissolution, j’ai foncé dans une chapelle» : Gabriel Attal se confie dans «Empreintes»",
       "link": "https://www.lefigaro.fr/elections/presidentielles/le-soir-de-la-dissolution-j-ai-fonce-dans-une-chapelle-gabriel-attal-se-confie-dans-empreintes-20261127",
       "date": "Fri, 27 Nov 2026 20:01:35 +0100",
@@ -1059,12 +1099,156 @@
       "category": "France"
     },
     {
-      "title": "Le responsable du programme présidentiel de Marine Le Pen, Ambroise de Rancourt, soupçonné d’être le principal destinataire de la fuite de documents de Beauvau vers le RN",
+      "title": "Législatives en Espagne : à la veille du vote, la gauche veut encore y croire",
+      "link": "https://www.liberation.fr/international/europe/legislatives-en-espagne-a-la-veille-du-vote-la-gauche-veut-encore-y-croire-20261127_X6PG2EN5X5BLVHJVDYKJAC6GQE/",
+      "date": "Fri, 27 Nov 2026 19:58:38 +0000",
+      "description": "Au terme d’une campagne difficile pour le Premier ministre Pedro Sánchez, et alors que l’alliance droite-extrême droite est donnée favorite, la brillante prestation de l’ex-maire de Barcelone Ada Colau lors du dernier débat a ravivé l’optimisme des progressistes hispaniques. Verdict des urnes dimanche soir.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Tennis : deux Français doivent participer à un événement ce week-end en Russie, pourtant boycottée par les instances mondiales du sport",
+      "link": "https://www.liberation.fr/sports/tennis/tennis-deux-francais-doivent-participer-a-un-evenement-ce-week-end-en-russie-pourtant-boycottee-par-les-instances-mondiales-du-sport-20261127_PVVAHD7QYRBMNE2VG67YNVOBAQ/",
+      "date": "Fri, 27 Nov 2026 19:58:13 +0000",
+      "description": "Adrian Mannarino et Corentin Moutet sont attendus au Northern Palmyra Trophies, à Saint-Pétersbourg, exhibition créée en 2022 pour pallier l’annulation toute compétition internationale dans le pays à cause de l’invasion de l’Ukraine.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Les terres de BAE Hägglunds enregistrent 6 milliards de dollars pour 400 + CV90 de cinq pays de l'OTAN",
+      "link": "https://breakingdefense.com/2026/11/bae-hagglunds-lands-record-6b-deal-for-400-cv90s-from-five-nato-nations/",
+      "date": "Fri, 27 Nov 2026 19:57:02 +0000",
+      "description": "Les marchés communs de la Finlande, de la Lituanie, des Pays-Bas, de la Norvège et de la Suède sont expressément liés à la menace de la Russie.",
+      "source": "Breaking Defense",
+      "category": "Défense"
+    },
+    {
+      "title": "Massacre de Shakahola au Kenya: le gourou Mackenzie, qui affamait ses fidèles, coupable de 123 homicides",
+      "link": "https://www.rfi.fr/fr/afrique/20261127-massacre-de-shakahola-au-kenya-le-gourou-mackenzie-qui-affamait-ses-fid%C3%A8les-coupable-de-123-homicides",
+      "date": "Fri, 27 Nov 2026 19:56:57 GMT",
+      "description": "C'était le dernier jugement attendu dans l'affaire de Shakahola, du nom de cette forêt où les dépouilles d'au moins 430 personnes mortes de faim, victimes de la secte du pasteur Paul Mackenzie, avaient été découvertes en 2023. Au Kenya, le gourou a été reconnu coupable d'homicide volontaire, vendredi 27 novembre 2026 à Mombasa. Ce jugement marque la fin d'une affaire judiciaire tentaculaire.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Législatives en Espagne : et si ça (re)passait pour la gauche ?",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/legislatives-en-espagne-et-si-ca-repassait-pour-la-gauche-20261127_QPUVKXMZMNDSFNUQKSZCY3H2IY/",
+      "date": "Fri, 27 Nov 2026 19:56:49 +0000",
+      "description": "Prête à s’allier à une extrême droite au plus haut, la droite est donnée favorite aux élections législatives de ce dimanche. Une victoire qui représenterait un mouvement tectonique d’ampleur en Europe. Mais la performance de l’ex-maire de Barcelone Ada Colau lors du dernier débat a laissé percer un frémissement en faveur de la gauche. De quoi changer la donne ?",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "L'Irak est-il confronté à une nouvelle instabilité?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 19:56:35 +0000",
+      "description": "Le PM affirme le contrôle de l'État sur les ressources dans la région kurde semi-autonome",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Israël tue quatre personnes à Gaza alors que le chef du Hamas al-Hayya's fils survit à la grève",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 19:53:25 +0000",
+      "description": "Quatre autres fils de Khalil al-Hayya ont été précédemment tués par les forces israéliennes, selon le groupe palestinien.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Meilleures offres Black Friday AirPods trouvé (2026)",
+      "link": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
+      "date": "Fri, 27 Nov 2026 19:51:43 +0000",
+      "description": "C'est le prix le plus bas que j'ai jamais vu la chute AirPods Pro 3 à, et là rien ne dit quand ces réductions vont changer.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Des puces NVIDIA restreintes ont été installées dans un centre de données chinois relié à Alice Huang",
+      "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+      "date": "Fri, 27 Nov 2026 19:45:23 +0000",
+      "description": "Bloomberg a tracé la ligne d'un serveur GB300 vers la technologie Gigabyte.",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "OpenAI contredit Apple et l'accuse de voler des secrets commerciaux",
+      "link": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+      "date": "Fri, 27 Nov 2026 19:44:38 +0000",
+      "description": "Le costume suggère que le fabricant d'iPhone essaie de \"combattre injustement par tous les moyens disponibles.\"",
+      "source": "Engadget",
+      "category": "Technologie"
+    },
+    {
+      "title": "Iran : le coscénariste du film «Un simple accident», palme d’or de Jafar Panahi à Cannes, a été arrêté",
+      "link": "https://www.liberation.fr/international/moyen-orient/iran-le-coscenariste-du-film-un-simple-accident-palme-dor-de-jafar-panahi-a-cannes-a-ete-arrete-20261127_66CAY6DAPNAO3BGZJLOEZPFBKY/",
+      "date": "Fri, 27 Nov 2026 19:42:21 +0000",
+      "description": "Des organisations de défense des droits humains ont annoncé ce vendredi 27 novembre l’arrestation du journaliste iranien pour avoir signalé l’exécution imminente de deux manifestants. Elles dénoncent des actes de torture à son encontre.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "En bombardant le pont de Crimée, l’Ukraine veut définitivement couper la péninsule de la Russie",
+      "link": "https://www.liberation.fr/international/europe/lukraine-veut-definitivement-couper-le-pont-entre-la-crimee-et-la-russie-20261127_RROWZBUDJJHHNDNAQHXPPAZA5M/",
+      "date": "Fri, 27 Nov 2026 19:39:46 +0000",
+      "description": "Gravement endommagée, la structure qui traverse le détroit de Kertch pourrait s’écrouler entièrement à la prochaine frappe ukrainienne. Le résultat d’une stratégie délibérée et patiente de Kyiv visant à étrangler la péninsule annexée et la vider de ses habitants.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Fuite d’infos du ministère de l’Intérieur vers le RN : Ambroise de Rancourt, responsable du programme du parti, soupçonné d’être le principal destinataire",
+      "link": "https://www.liberation.fr/politique/fuite-dinfos-du-ministere-de-linterieur-vers-le-rn-ambroise-de-rancourt-responsable-du-programme-du-parti-soupconne-detre-le-principal-destinataire-20261127_EUCHKEJEYNGQFF4CHZADDU7HCQ/",
+      "date": "Fri, 27 Nov 2026 19:36:32 +0000",
+      "description": "«Le Monde» affirme ce vendredi 27 novembre que le bureau et le domicile personnel du cadre du parti d’extrême droite ont été perquisitionnés par l’Inspection générale de la police nationale.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Fuite d’informations confidentielles vers le RN : Ambroise de Rancourt, le responsable du programme présidentiel de Marine Le Pen, soupçonné d’être le principal destinataire",
       "link": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html",
       "date": "Fri, 27 Nov 2026 19:35:49 +0100",
       "description": "Selon les informations du « Monde », l’énarque de 39 ans est celui qui a été visé par la perquisition de l’IGPN au siège du parti d’extrême droite, le 9 novembre.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Canada Haut tribunal permet au Québec d'utiliser des mesures controversées pour la laïcité",
+      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "date": "Fri, 27 Nov 2026 19:31:28 +0000",
+      "description": "Le Québec a utilisé cette mesure pour adopter une loi interdisant à certains fonctionnaires, comme les enseignants et les policiers, de porter des symboles religieux en service, que les critiques qualifient de discriminatoires.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "L'armée américaine vient de faire exploser une bombe empoisonnée sur l'Iowa. Steven Donziger",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+      "date": "Fri, 27 Nov 2026 19:30:18 GMT",
+      "description": "La situation choquante en Iowa est une métaphore de ce qui ne va pas aux États-Unis. Il n'y a aucun moyen de le cacher : le gouvernement américain vient de faire exploser délibérément une bombe empoisonnée à l'azide de plomb sur l'état de l'Iowa quand une alternative totalement sûre était disponible. Le problème de l'Iowa était relativement simple à résoudre. Pendant des décennies, l'armée avait stocké du plomb sous terre dans une installation de munitions. Jusqu'en 2009, le gouvernement savait que le leader était",
+      "source": "The Guardian",
+      "category": "Environnement"
+    },
+    {
+      "title": "Le prix le plus bas jamais vu sur le Canon EOS R6 II tops certains des meilleurs Black Friday offres de caméra que nous avons vu aujourd'hui",
+      "link": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
+      "date": "Fri, 27 Nov 2026 19:30:00 +0000",
+      "description": "Nous avons arrondi les meilleures offres de la caméra ce vendredi noir, y compris le prix le plus bas jamais sur l'un de nos appareils photo low-light préférés, le Canon EOS R6 II.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
+      "title": "Black Friday Deals sur les essentiels du ménage et les jouets abordables à faire un don",
+      "link": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
+      "date": "Fri, 27 Nov 2026 19:26:33 +0000",
+      "description": "Nous avons trouvé des offres sur les couches, les serviettes en papier et les jouets pour vous ou votre communauté cette saison de vacances.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Allemagne: Les législateurs approuvent le budget 2027 chargé de la dette",
+      "link": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 27 Nov 2026 19:18:00 GMT",
+      "description": "Les législateurs allemands ont voté sur un budget fédéral qui prévoit des dépenses de 556 milliards d'euros. Ailleurs, le Parti de gauche organise un sommet sur le féminicide et la conférence du parti BSW commence à Dresde. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "Black Friday Mattress Deals: Obtenez jusqu'à 55 % de rabais (2026)",
@@ -1097,14 +1281,6 @@
       "description": "Atmos Space Cargo pilotera sa première capsule Phoenix cargo-return sur la mission Bandwagon 3 rideshare de SpaceX, qui devrait être lancée ce printemps.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "On ne pouvait pas abandonner si facilement. Marching bandes brouillés pour couvrir les coûts après Thanksgiving défilé réorganisé",
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 18:52:33 GMT",
-      "description": "La tempête à New York a incité les organisateurs à repousser le défilé de Macy de deux jours, laissant des musiciens coincés.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Les meilleures offres du vendredi noir: Nous avons été suivi depuis 4 AM",
@@ -1187,14 +1363,6 @@
       "category": "Économie"
     },
     {
-      "title": "A Chamonix, un menuisier fait ski de tout bois",
-      "link": "https://www.liberation.fr/forums/a-chamonix-un-menuisier-fait-ski-de-tout-bois-20261127_6UDQREDY7VD3HGXCQV7WRTBYQA/",
-      "date": "Fri, 27 Nov 2026 18:22:00 +0000",
-      "description": "Peter Steltzner vend chaque année une soixantaine de skis en frêne, ne retenant que des arbres sélectionnés drastiquement.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "La compagnie budgétaire Norse Atlantic dépose des dossiers de faillite en Europe après n'avoir pas obtenu de financement",
       "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
       "date": "Fri, 27 Nov 2026 18:20:32 GMT",
@@ -1203,28 +1371,12 @@
       "category": "Économie"
     },
     {
-      "title": "Mort de l’arrangeur Jean-Claude Vannier, artisan invisible du sublime comme de l’ordinaire",
-      "link": "https://www.liberation.fr/culture/musique/mort-de-jean-claude-vannier-arrangeur-historique-de-serge-gainsbourg-20261127_XCWLPFFNIRHQZINVDIFL23IP6I/",
-      "date": "Fri, 27 Nov 2026 18:20:24 +0000",
-      "description": "Trop souvent réduit à sa collaboration avec Serge Gainsbourg sur le culte «l’Histoire de Melody Nelson», le musicien qui a mis son éventail de talents au service des grands noms de la chanson française laisse derrière lui un corpus faramineux. Il est mort jeudi 26 novembre à 83 ans.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "AI et le cauchemar du déchiffrement",
       "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
       "date": "Fri, 27 Nov 2026 18:18:27 GMT",
       "description": "De nouvelles percées exigent des mises à niveau plus rapides vers la sécurité, pas la panique",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Attentat de Trappes : l’hommage national aux victimes aura lieu le 4 décembre",
-      "link": "https://www.lefigaro.fr/actualite-france/attentat-de-trappes-l-hommage-national-aux-victimes-aura-lieu-le-4-decembre-20261127",
-      "date": "Fri, 27 Nov 2026 18:14:22 +0100",
-      "description": "Le 23 octobre, lors d’un périple sanglant à Trappes et à La Verrière, Kévin Tessier a tué un Français noir de 26 ans, Pengo Bossio Wangi, jeune espoir des arts martiaux mixtes (MMA), et blessé sept autres personnes, dont plusieurs d’origine africaine ou maghrébine.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Meilleures offres de machines Espresso du vendredi noir: Jusqu'à 38% de rabais (2026)",
@@ -1257,14 +1409,6 @@
       "description": "Le président ukrainien exprime sa frustration envers les États-Unis et dit qu'il ne pousse pas assez la Russie dans les pourparlers de paix pour mettre fin à la guerre.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "«Une nouvelle tentative d’intimidation des journalistes et de leurs sources» : Marine Le Pen attaque la presse et suscite un tollé",
-      "link": "https://www.liberation.fr/politique/elections/une-nouvelle-tentative-dintimidation-des-journalistes-et-de-leurs-sources-marine-le-pen-attaque-la-presse-et-suscite-un-tolle-20261127_UORSBR67GFCKFHVJSUH4O2XH6Q/",
-      "date": "Fri, 27 Nov 2026 18:00:37 +0000",
-      "description": "La candidate RN, en répondant aux polémiques Bardella et Moutouh ce vendredi 27 novembre, a menacé les médias d’alourdir les peines existantes pour «recels de violation du secret de l’enquête et de l’instruction» si elle était élue.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "L’extrême droite française a-t-elle vraiment changé ? L’historien Laurent Joly, invité de notre podcast vidéo « L’Heure de la présidentielle »",
@@ -1323,44 +1467,12 @@
       "category": "Monde"
     },
     {
-      "title": "Troisième de l'individuel de Kontiolahti, Julia Simon décroche le premier podium français de la saison en Coupe du monde de biathlon",
-      "link": "https://www.franceinfo.fr/sports/sports-d-hiver/biathlon/troisieme-de-l-individuel-de-kontiolahti-julia-simon-decroche-le-premier-podium-francais-de-la-saison-en-coupe-du-monde-de-biathlon_8303388.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 27 Nov 2026 17:42:53 +0100",
-      "description": "La triple championne olympique de Milan Cortina a réalisé, vendredi, sa meilleure performance en carrière sur la première course de l'hiver.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Les alliés du pacte de la Mecque condamnent les attaques houthis contre l'Arabie saoudite",
       "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
       "date": "Fri, 27 Nov 2026 17:41:24 +0000",
       "description": "Des représentants du Pakistan, de l'Arabie saoudite et de Turkiye s'engagent à protéger la sécurité du royaume pendant les pourparlers à Islamabad.",
       "source": "Al Jazeera",
       "category": "Monde"
-    },
-    {
-      "title": "Pourquoi le capitaine de l'Inde veut la salive à nouveau au cricket",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 17:39:57 +0000",
-      "description": "Le capitaine de l'Inde Shubman Gill veut une interdiction de la salive de Covid-era après un test de cinq jours à Wellington.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Canada Haut tribunal permet au Québec d'utiliser des mesures controversées pour la laïcité",
-      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "date": "Fri, 27 Nov 2026 17:37:15 +0000",
-      "description": "Le Québec a utilisé cette mesure pour adopter une loi interdisant à certains fonctionnaires, comme les enseignants et les policiers, de porter des symboles religieux en service, que les critiques qualifient de discriminatoires.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
-      "title": "Attentat raciste de Trappes et de La Verrière : un hommage national aux victimes aura lieu le 4 décembre aux Invalides",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/27/un-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides-a-paris_6815903_823448.html",
-      "date": "Fri, 27 Nov 2026 17:31:12 +0100",
-      "description": "Le 23 octobre, lors d’un périple sanglant à Trappes et à La Verrière, Kevin Tessier a tué un Français noir de 26 ans, Pengo Bossio Wangi, jeune espoir des arts martiaux mixtes (MMA), et blessé sept autres personnes, dont plusieurs d’origine africaine ou maghrébine.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Défense, UE, rigueur budgétaire: comment Jean-Luc Mélenchon est-il perçu en Allemagne?",
@@ -1395,36 +1507,12 @@
       "category": "France"
     },
     {
-      "title": "Espagne Pedro Sanchez parie sur la vague de vote de gauche pour défier les élections",
-      "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 17:15:35 +0000",
-      "description": "Le Premier ministre Pedro Sanchez fait sa dernière offre pour battre les partis de droite avant le vote espagnol de dimanche.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "Meilleures offres de jourBody Black vendredi (2026): 20% Masques LED off et plus",
       "link": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
       "date": "Fri, 27 Nov 2026 17:14:52 +0000",
       "description": "Les jours de la peau de beignets sont en avance. Enregistrer sur certains masques et dispositifs LED jusqu'au 8 décembre.",
       "source": "WIRED",
       "category": "Technologie"
-    },
-    {
-      "title": "Hommage national pour l’attentat de Trappes et de La Verrière, la France en récession, l’ex-mari de Chahinez Daoud condamné en appel… L’actu de ce vendredi 27 novembre",
-      "link": "https://www.liberation.fr/international/europe/hommage-national-pour-lattentat-de-trappes-et-de-la-verriere-la-france-en-recession-lex-mari-de-chahinez-daoud-condamne-en-appel-lactu-de-ce-vendredi-27-novembre-20261127_WYFUJWJMVNH6NGX3FQEXUROOVU/",
-      "date": "Fri, 27 Nov 2026 17:14:32 +0000",
-      "description": "La rédaction de «Libération» récapitule les principales actualités de la journée du 27 novembre.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "«L’Ukraine, c’est pas notre guerre» : Teddy Riner et les faux-monnayeurs, par Daniel Schneidermann",
-      "link": "https://www.liberation.fr/idees-et-debats/opinions/lukraine-cest-pas-notre-guerre-teddy-riner-et-les-faux-monnayeurs-par-daniel-schneidermann-20261127_JVFRUTAQUVGUTMGYJLSM3MKE64/",
-      "date": "Fri, 27 Nov 2026 17:12:15 +0000",
-      "description": "Après la séquence du judoka candidat au congrès des maires de France, sa petite phrase choc balancée dans la cohue devient pensée mûrement construite : une vraie-fausse monnaie politique.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Fondation est un must-watch et ce vendredi noir, vous pouvez le diffuser et d'autres émissions de TV Apple sci-fi pour moitié prix",
@@ -1435,28 +1523,12 @@
       "category": "Exploration"
     },
     {
-      "title": "Attentat de Trappes : l’hommage national a été fixé au 4 décembre et aura lieu aux Invalides",
-      "link": "https://www.liberation.fr/societe/attentat-de-trappes-lhommage-national-fixe-au-4-decembre-aux-invalides-20261127_LRUA6LXQIZHPJHYXJNP3LX3H3E/",
-      "date": "Fri, 27 Nov 2026 17:08:06 +0000",
-      "description": "Après plusieurs semaines de flottement quant au calendrier concernant cette cérémonie et plus d’un mois après l’attaque raciste, les familles de victimes ont été contactées ces derniers jours par le gouvernement.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Les meilleures offres de Black Friday Ars pourrait trouver",
       "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
       "date": "Fri, 27 Nov 2026 17:05:37 +0000",
       "description": "Peut-être un peu de commerce, pour aider tous les restes de la journée de la Turquie à descendre plus facilement?",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "En Suède, face à l’extrême droite, une nouvelle digue cède",
-      "link": "https://www.lemonde.fr/international/article/2026/11/27/en-suede-face-a-l-extreme-droite-une-nouvelle-digue-cede_6815894_3210.html",
-      "date": "Fri, 27 Nov 2026 17:00:01 +0100",
-      "description": "Le Parti du centre avait fait de son refus de collaborer avec les Démocrates de Suède un totem, préférant siéger dans l’opposition depuis 2022. Jeudi, il y a renoncé, en décidant de soutenir le conservateur Ulf Kristersson.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Qui a renversé le W ? Pourquoi Cassiopéia ne s'assied pas",
@@ -1531,14 +1603,6 @@
       "category": "Exploration"
     },
     {
-      "title": "Apple Black Friday Deals (2026) : AirPods, iPads, MacBooks et plus encore",
-      "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
-      "date": "Fri, 27 Nov 2026 16:24:22 +0000",
-      "description": "Économisez sur AirPods, iPads, MacBooks et des tonnes d'accessoires pour le Black Friday.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "WhatsApp ajoute un support pour les eSIM voyages",
       "link": "https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/",
       "date": "Fri, 27 Nov 2026 16:24:07 +0000",
@@ -1595,14 +1659,6 @@
       "category": "Monde"
     },
     {
-      "title": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
-      "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 27 Nov 2026 15:57:50 +0100",
-      "description": "Distancé dans les intentions de vote, le candidat LR à la présidentielle balaie cette annonce d'un revers de main, la qualifiant d'\"anecdotique\".",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Le Brésil repousse Macron en appelant sa viande « dopée »",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026 15:54:15 GMT",
@@ -1619,30 +1675,6 @@
       "category": "Économie"
     },
     {
-      "title": "Les autorités néerlandaises saisissent 26 tortues gravement menacées des bagages des passagers à destination de Hong Kong",
-      "link": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 15:48:00 GMT",
-      "description": "La petite tortue vallarta n'a été découverte qu'en 2018. C'est critiquement en danger avec environ 300 pensées pour vivre dans la nature. Près d'un dixième de ce nombre était dissimulé dans les bagages d'un voyageur, lié dans le ruban adhésif.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "Ne vous faites pas arracher ce vendredi noir ! Magasinez en ligne en toute sécurité avec notre guide scam-spotting",
-      "link": "https://www.space.com/stargazing/skywatching-kit/dont-get-ripped-off-this-black-friday-shop-safely-online-with-our-scam-spotting-guide",
-      "date": "Fri, 27 Nov 2026 15:46:27 +0000",
-      "description": "J'ai été le Black Friday à la chasse pendant longtemps et je suis ici pour vous dire comment éviter d'être arnaqué. Des sites frauduleux aux faux produits, mon guide vous aidera à magasiner en toute sécurité en ligne.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
-      "title": "Walking Pad Deals pour acheter ce vendredi noir (2026)",
-      "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
-      "date": "Fri, 27 Nov 2026 15:43:33 +0000",
-      "description": "Ne laissez pas le temps froid vous empêcher d'entrer. Ces tapis roulants sont en vente.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "L'orpaillage clandestin atteint un niveau inédit en Guyane",
       "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261127-l-orpaillage-clandestin-atteint-un-niveau-in%C3%A9dit-en-guyanea",
       "date": "Fri, 27 Nov 2026 15:41:07 GMT",
@@ -1657,6 +1689,14 @@
       "description": "Paris, France (en anglais) Novembre 2026 — Novaspace (en anglais seulement) La 2e édition de Space Defense & Security constate que les gouvernements ont investi environ 71,8 milliards de dollars dans des activités de défense et de sécurité [...] Le billet Les gouvernements investissent 71,8 milliards de dollars dans la défense spatiale en tant que militarisation des accélérations spatiales est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
       "category": "Exploration"
+    },
+    {
+      "title": "«L’extrême gauche est chez elle» : à Toulouse, l’université du Mirail dans la tourmente après des soupçons de proxénétisme au sein même de l’établissement",
+      "link": "https://www.lefigaro.fr/actualite-france/l-extreme-gauche-est-chez-elle-a-toulouse-l-universite-du-mirail-dans-la-tourmente-apres-des-soupcons-de-proxenetisme-au-sein-meme-de-l-etablissement-20261127",
+      "date": "Fri, 27 Nov 2026 15:35:10 +0100",
+      "description": "RÉCIT - Des services sexuels tarifés auraient été proposés dans un bâtiment de l’université bloquée depuis des semaines. Les étudiants mobilisés réfutent l’existence d’une «salle de sexe» mais défendent la «micro-entreprise» d’une étudiante en «soutien à la lutte».",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "L'ex-mari de Chahinez Daoud condamné une nouvelle fois en appel à la perpétuité pour le féminicide de son épouse",
@@ -1686,7 +1726,7 @@
       "title": "Trois études lient le glyphosate au cancer, ce qui contredit les affirmations de Trump EPA",
       "link": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
       "date": "Fri, 27 Nov 2026 15:00:13 GMT",
-      "description": "Selon les experts, la recherche sur les NIH suscite des inquiétudes au sujet des entreprises chimiques. Le gouvernement américain a publié trois nouvelles études liant le glyphosate, le pesticide le plus largement utilisé et un ingrédient actif dans Roundup, au cancer. Les résultats des National Institutes of Health (NIH) contredisent une récente conclusion controversée de l'Agence de protection de l'environnement (EPA) selon laquelle la mauvaise herbe",
+      "description": "Selon les experts, la recherche sur les NIH suscite des inquiétudes au sujet des entreprises chimiques. Le gouvernement américain a publié trois nouvelles études liant le glyphosate, le pesticide le plus largement utilisé et un ingrédient actif dans Roundup, au cancer. Les conclusions des National Institutes of Health (NIH) contredisent une récente conclusion controversée de l'Agence de protection de l'environnement (EPA) selon laquelle la mauvaise herbe",
       "source": "The Guardian",
       "category": "Environnement"
     },
@@ -1697,14 +1737,6 @@
       "description": "Intrusion dans Cloud One plate-forme pourrait compromettre la sécurité de données tactiques, de personnel et de logistique sensibles Les pirates auraient violé la plate-forme de cloud phare de l'armée de l'air américaine, un cambriolage qui arrive quelques jours après avoir signalé l'accès à une base de données de la CIA. Reuters a signalé vendredi que l'intrusion dans la plate-forme de l'USAFs Cloud One pourrait compromettre la sécurité des données tactiques, du personnel et logistiques sensibles.",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "Israël: Gadi Eisenkot poursuit ses tractations pour former le prochain gouvernement",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261127-isra%C3%ABl-gadi-eisenkot-poursuit-ses-tractations-pour-former-le-prochain-gouvernement",
-      "date": "Fri, 27 Nov 2026 14:49:16 GMT",
-      "description": "À neuf jours de la fin du mandat qui lui a été donné pour former un gouvernement, Gadi Eisenkot accélère ses tractations pour tenter de bâtir un cabinet et remplacer Benyamin Netanyahu au poste de Premier ministre. Objectif : la finalisation d'un accord de coalition dès lundi 30 novembre. Selon les médias israéliens, les négociations avancent avec les ultra-orthodoxes mais butent encore sur les réticences de Naftali Bennett.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "L'Espagne a pris fin en 1975. Cet homme va-t-il changer Ça ?",
@@ -1737,14 +1769,6 @@
       "description": "Des expériences de la NASA, y compris un système de production de cultures spatiales de première qualité, se rendront à la Station spatiale internationale à bord de la 25e mission des Services de ravitaillement commercial de Northrop Grumman. Les recherches de la Division des sciences biologiques et physiques de la NASA feront avancer la recherche qui profite à la vie sur Terre et à l'exploration future, élargissant les connaissances sur les cultures spatiales et la santé humaine. Une [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "Les dirigeants de l'UE n'arrivent pas à sortir de l'impasse budgétaire de 1,7 billion de dollars alors que la pression politique monte",
-      "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
-      "date": "Fri, 27 Nov 2026 14:12:55 GMT",
-      "description": "Les dirigeants de l'UE n'ont pas réussi à sortir de l'impasse sur le budget du bloc, les négociations devant reprendre en décembre comme date limite clé.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "«J'ai ressenti une course de zap à travers mon corps: que se passe-t-il quand quelqu'un est frappé par la foudre?",
@@ -1995,14 +2019,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Google va bientôt partager les adresses des développeurs Android publiquement",
-      "link": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
-      "date": "Fri, 27 Nov 2026 09:38:33 +0000",
-      "description": "Google est en train d'obtenir flak pour sa décision de publier des informations d'identification des développeurs Android dans le monde entier pour se conformer aux lois européennes.",
-      "source": "Engadget",
-      "category": "Technologie"
-    },
-    {
       "title": "Photos montrer Stern Block apparent du Japon",
       "link": "https://www.navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev/",
       "date": "Fri, 27 Nov 2026 09:29:05 +0000",
@@ -2025,14 +2041,6 @@
       "description": "Il ya juste une chose que nous ne savons toujours pas: Combien coûteront-ils?",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Émilie König, des tourments d’une jeunesse émaillée de violences à la vie soumise d’épouse de djihadiste",
-      "link": "https://www.lefigaro.fr/faits-divers/emilie-koenig-des-tourments-d-une-jeunesse-emaillee-de-violences-a-la-vie-soumise-d-epouse-de-djihadiste-20261126",
-      "date": "Fri, 27 Nov 2026 07:28:39 +0100",
-      "description": "COMPTE-RENDU D’AUDIENCE - La première journée du procès de cette revenante de Daech était consacrée à son parcours de vie, de Lorient à Raqqa. Celui-ci est très sombre et brutal.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Des batteurs de tempêtes de Thanksgiving sur la côte Est. Et, Black Friday ventes pour atteindre des niveaux record",
@@ -2065,14 +2073,6 @@
       "description": "Les îles, plantées dans cinq parcs de Glasgow, sont conçues pour encourager la faune et aider à nettoyer l'eau.",
       "source": "BBC News",
       "category": "Sciences"
-    },
-    {
-      "title": "Les dirigeants s'affrontent dans le dernier débat électoral de l'Espagne alors que le logement domine",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 06:03:39 GMT",
-      "description": "La lutte de nombreux visages dans l'achat d'une maison a été le plus grand problème d'une campagne amère.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Mad about mara: le mouvement de danse bricolage aide les jeunes Nigérians à échapper à la mouture quotidienne",
@@ -2235,6 +2235,22 @@
       "category": "Environnement"
     },
     {
+      "title": "Vous pourriez perdre vos données de santé Oura si vous êtes toujours en utilisant un vieux téléphone Android",
+      "link": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+      "date": "2026-11-27T14:44:19-05:00",
+      "description": "Oura va abandonner le support pour Android 11 le 8 Décembre, 2026, et les utilisateurs peuvent ne pas avoir accès à toutes leurs données s'ils ne passent pas à Android 12 ou plus avant la date limite. La page de support se lit maintenant: Oura va laisser tomber le support pour Android 11 sur Décembre 8, 2026. Si vous utilisez [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Les meilleures offres de Black Friday sur l'équipement de maison intelligent",
+      "link": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "date": "2026-11-27T14:30:00-05:00",
+      "description": "J'ai passé ma brume post-turkey à alimenter par des rames d'offres sur des gadgets de maison intelligente pour trouver les meilleures réductions sur certains de mes produits préférés. Smart home est souvent l'une des meilleures catégories pour magasiner autour de Black Friday, car il est traditionnellement quand robot vide, sonnettes de porte vidéo, serrures intelligentes, et thermostats voir leurs [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
       "title": "Les meilleures offres de Black Friday que nous avons trouvées (pour l'instant)",
       "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
       "date": "2026-11-27T13:59:19-05:00",
@@ -2263,22 +2279,6 @@
       "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
       "date": "2026-11-27T11:30:37-05:00",
       "description": "Black Friday est l'un des meilleurs moments de l'année pour économiser de l'argent sur une nouvelle paire de AirPods ou la dernière Apple Watch. Après tout, les économies de vacances peuvent aider à compenser les hausses de prix malheureuses de plus tôt cette année, lorsque Apple a augmenté le coût de certains de ses équipements les plus populaires. Quelques [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Vous pouvez prendre un pack de 12 de Zepath, piles rechargeables AA pour seulement 24 $",
-      "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
-      "date": "2026-11-27T10:30:00-05:00",
-      "description": "Si vous ramassez des cadeaux qui nécessitent des piles AA, ce n'est pas une mauvaise idée d'acheter un ensemble que vous pouvez continuer à utiliser longtemps après les vacances. Heureusement, vous pouvez actuellement obtenir un pack de 12 Zepaths rechargeable 3000mWh AAs sur Amazon avec un chargeur pour 23,99 $ (8 $ de rabais) pour Black Friday, qui est un nouveau [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les AirPods Pro 3 d'Apple sont 100 $ de rabais pour le Black Friday",
-      "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-      "date": "2026-11-27T10:15:28-05:00",
-      "description": "Les AirPods Pro 3 sont moins chers que jamais. Malgré une réduction anticipée la semaine dernière, les derniers écouteurs sans fil phares d'Apple sont toujours en vente pour seulement 149 $ à Amazon, Best Buy et Walmart. Ils ont été vendus à l'origine pour 249 $, mais sont généralement disponibles pour 199 $ en dehors des grands événements. Le meilleur prix que nous avons vu précédemment [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
