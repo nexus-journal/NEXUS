@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T23:38:37.645654+00:00",
-  "count": 285,
+  "updated_at": "2026-11-27T00:40:39.071785+00:00",
+  "count": 283,
   "articles": [
     {
       "title": "Les marées californiennes records provoquent des inondations importantes de routes et d'entreprises",
@@ -315,14 +315,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Même le prix des jouets est en hausse. Comment les Américains réduisent les plans de vacances",
-      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "date": "Wed, 25 Nov 2026 16:17:13 GMT",
-      "description": "Les consommateurs américains sont confrontés à des coûts alimentaires, de voyages et de cadeaux plus élevés en 2026, car l'inflation et les chocs énergétiques en Iran-guerre exercent une pression sur les budgets des vacances.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Réaction des médias: Qui est responsable de l'échec de la COP31?",
       "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
       "date": "Wed, 25 Nov 2026 16:09:13 +0000",
@@ -611,14 +603,6 @@
       "category": "Économie"
     },
     {
-      "title": "Le procureur général des États-Unis ne pose pas de questions sur l'enquête de Nvidia",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 03:44:07 GMT",
-      "description": "Le cours de l'action de Nvidia a chuté de 7% alors que les législateurs demandent des réponses sur l'implication du président Donald Trump dans la réintégration de Huang.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
       "title": "Flexell Space et ALATYR signent un protocole d'entente pour explorer les solutions d'énergie solaire pour les centres de données orbitaux",
       "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
       "date": "Wed, 18 Nov 2026 22:02:00 +0000",
@@ -803,6 +787,22 @@
       "category": "Exploration"
     },
     {
+      "title": "Royaume-Uni: la petite ville de Battle surfe sur la Bayeux-mania",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20261126-royaume-uni-la-petite-ville-de-battle-surfe-sur-la-bayeux-mania",
+      "date": "Thu, 26 Nov 2026 23:45:48 GMT",
+      "description": "À Londres, l'engouement autour de la tapisserie de Bayeux ne faiblit pas. Depuis la mi-septembre, elle s'expose au British Museum. La tapisserie de Bayeux, 70 mètres de long et vieille de presque un millénaire, représente un moment fondateur de l'histoire anglaise : la bataille d'Hastings, qui marque la conquête de l'Angleterre par Guillaume et l'unification des petits royaumes en une seule puissance. Dans l'est de l'Angleterre, le site de la bataille d'Hastings, bien-nommée Battle, était jusqu'ici assez peu connu en dehors des initiés, mais il surfe désormais sur cette vague de popularité, en proposant par exemple des ateliers broderie pendant les vacances.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "La police géorgienne s'affronte avec les fans de Turkiye.",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 23:37:17 +0000",
+      "description": "Le match entre Besiktas et Hapoel Beer-Sheva a été suspendu pendant 30 minutes après la confrontation entre fans et policiers.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
       "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-[lestitres]",
       "date": "Thu, 26 Nov 2026 23:25:56 +0100",
@@ -811,12 +811,12 @@
       "category": "France"
     },
     {
-      "title": "Major Thanksgiving orage apporte des inondations, des retards de vol à travers les États-Unis",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 23:25:44 GMT",
-      "description": "Des tempêtes massives descendent sur les côtes américaines, entraînant des rafales de vent, des arbres abattus et des pannes de courant pour des centaines de milliers de clients.",
+      "title": "Le Royaume-Uni versera des frais de participation pour l'exécution des opérations de l'UE",
+      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 23:17:12 GMT",
+      "description": "Les détails de la contribution aux coûts de fonctionnement de l'UE ont été révélés dans de nouveaux documents juridiques.",
       "source": "BBC News",
-      "category": "Sciences"
+      "category": "Économie"
     },
     {
       "title": "Les astronomes découvrent un binaire caché dans un système Star utilisé pour calibrer le JWST",
@@ -963,14 +963,6 @@
       "category": "Exploration"
     },
     {
-      "title": "L ' Égypte détient un chauffeur au-dessus du camion-citerne du Caire qui a tué 31",
-      "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 21:08:44 +0000",
-      "description": "Les procureurs ordonnent des tests de drogue pour le suspect de 21 ans, qui dit qu'il était dépassé quand l'accident s'est produit.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "À l'Institut du monde arabe, une soirée dédiée aux \"voix iraniennes\" perturbée par des monarchistes",
       "link": "https://www.france24.com/fr/france/20261126-institut-monde-arabe-soir%C3%A9e-d%C3%A9di%C3%A9e-voix-iraniennes-perturb%C3%A9e-monarchistes-chah-pahlavi",
       "date": "Thu, 26 Nov 2026 21:08:23 GMT",
@@ -985,14 +977,6 @@
       "description": "Europa Clipper de la NASA a lancé en octobre 2024, sur le chemin du système Jupiter. Mais il n'a pas encore quitté le système solaire intérieur. Il a utilisé une manœuvre de freinage de gravité à Mars en mars 2025 pour le diriger vers la Terre. Dans quelques jours, il utilisera cette rencontre avec la Terre pour accélérer sa vitesse vers Jupiter et sa lune Europa. Ce vol à venir est également une dernière occasion de calibrer les instruments de l'engin avant sa longue phase de croisière.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Les travailleurs de l'habillement du Bangladesh s'opposent à la police pour des salaires bas",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 21:04:39 +0000",
-      "description": "Les travailleurs de l'habillement bangladais ont affronté la police après une augmentation de 36 % du salaire minimum a été inférieure à leurs exigences.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "\"La violence, la terreur et la mort...\" : Emilie König confrontée à son engagement pour l'Etat islamique et au sort de ses enfants, à l'ouverture de son procès",
@@ -1048,22 +1032,6 @@
       "date": "Thu, 26 Nov 2026 20:34:36 GMT",
       "description": "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a accusé jeudi la France d'avoir maltraité un agent consulaire détenu depuis 2025 dans l'Hexagone et mis en examen dans le cadre de l'enlèvement de l'influenceur algérien Amir Boukhors. L'affaire avait aggravé les tensions diplomatiques déjà vives entre les deux pays et conduit à l'expulsion réciproque de diplomates et agents consulaires.",
       "source": "France 24",
-      "category": "France"
-    },
-    {
-      "title": "Attaque contre la raffinerie Saoudienne Jazan tue une personne, perturbe les opérations",
-      "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 20:34:34 +0000",
-      "description": "L'attaque a tué un Népalais, blessé plusieurs personnes et a déclenché un incendie, dit le ministère saoudien de l'Énergie.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
-      "link": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-les-services-de-renseignement-militaires-ukrainiens-ont-revendique-l-attaque-de-la-raffinerie-russe-de-slaviansk-sur-kouban_6814183_3210.html",
-      "date": "Thu, 26 Nov 2026 20:25:06 +0100",
-      "description": "« De graves incendies se sont déclarés dans les installations endommagées. De plus, les dommages causés aux réservoirs de stockage du pétrole ont entraîné des déversements », selon l’exploitant Slaviansk ECO.",
-      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -1238,17 +1206,9 @@
       "title": "Les meilleures offres du vendredi noir sont maintenant en direct: nos choix d'experts pour 2026",
       "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
       "date": "Thu, 26 Nov 2026 18:49:47 +0000",
-      "description": "L'oiseau précoce reçoit le ver. Voici les meilleures offres du vendredi noir pour 2026 vous pouvez obtenir tout de suite.",
+      "description": "L'oiseau précoce reçoit le ver. Voici les meilleures offres Black Friday pour 2026 que vous pouvez obtenir dès maintenant.",
       "source": "WIRED",
       "category": "Technologie"
-    },
-    {
-      "title": "Le procès d'une Germano-Ukrainienne, accusée d'espionner pour la Russie, s'ouvre à Berlin",
-      "link": "https://www.rfi.fr/fr/europe/20261126-le-proc%C3%A8s-d-une-germano-ukrainienne-accus%C3%A9e-d-espionner-pour-la-russie-s-ouvre-%C3%A0-berlin",
-      "date": "Thu, 26 Nov 2026 18:49:30 GMT",
-      "description": "Espionnage, actes de sabotage, cyberattaques ou encore campagnes de désinformation : l'Allemagne, premier soutien de l'Ukraine, est régulièrement visée par des opérations menées par la Russie. Le procès qui s'est ouvert jeudi 26 novembre contre Ilona Wiener, une femme d'affaires accusée d'avoir espionné pour Moscou, illustre la recrudescence de ces attaques hybrides en Allemagne.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
@@ -1539,14 +1499,6 @@
       "category": "Défense"
     },
     {
-      "title": "L'Espagnol Pablo Hernandez de Cos va être nommé président de la Banque centrale européenne",
-      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20261126-l-espagnol-pablo-hernandez-de-cos-va-%C3%AAtre-nomm%C3%A9-pr%C3%A9sident-de-la-banque-centrale-europ%C3%A9enne",
-      "date": "Thu, 26 Nov 2026 15:25:59 GMT",
-      "description": "⁠Le Conseil ​européen va nommer l'Espagnol Pablo ​Hernandez de Cos au poste de président de la Banque centrale ​européenne (BCE), ‌en remplacement de Christine ⁠Lagarde, selon des informations de sources diplomatiques européennes du jeudi 26 novembre 2026.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "Présidentielle 2027 : «La guerre en Ukraine est notre guerre», répond Raphaël Glucksmann à Teddy Riner",
       "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-la-guerre-en-ukraine-est-notre-guerre-repond-raphael-glucksmann-a-teddy-riner-20261126",
       "date": "Thu, 26 Nov 2026 15:13:00 +0100",
@@ -1561,14 +1513,6 @@
       "description": "L'inflation est une préoccupation majeure pour les responsables de la banque centrale américaine, même si la vente sous l'impulsion de la technologie suscite des craintes pour l'économie.",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Gérard Depardieu sera jugé pour viol présumé d'actrice en 2018, règlement judiciaire",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 14:44:26 GMT",
-      "description": "Une cour d'appel de Paris règle Depardieu va être jugé pour le viol présumé de Charlotte Arnould.",
-      "source": "BBC News",
-      "category": "Monde"
     },
     {
       "title": "Gérard Depardieu est ordonné d'être jugé pour viol",
@@ -1603,12 +1547,28 @@
       "category": "Économie"
     },
     {
+      "title": "Trou d'ozone l'un des plus importants depuis des décennies",
+      "link": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-5p/ozone-hole-one-of-the-largest-in-decades",
+      "date": "Thu, 26 Nov 2026 14:00:00 +0100",
+      "description": "Contrairement au trou saisonnier d'ozone de 2025 au-dessus de l'Antarctique, qui était le cinquième plus petit depuis 1992, le trou d'ozone se classe cette année parmi les plus importants en 48 ans.",
+      "source": "ESA",
+      "category": "Exploration"
+    },
+    {
       "title": "Simon Jack : Le propriétaire américain de Poundland est-il responsable de son effondrement ?",
       "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 26 Nov 2026 13:40:46 GMT",
       "description": "La direction de Poundland et les députés blâment les propriétaires du détaillant, Gordon Brothers, mais l'entreprise américaine dit sans eux que la chaîne s'est effondrée l'année dernière.",
       "source": "BBC News",
       "category": "Économie"
+    },
+    {
+      "title": "Regardez en direct : Gaia publie sa plus grande mine d'or jamais créée de données cosmiques",
+      "link": "https://www.esa.int/articles/about-us/directorates/science/gaia/watch-live-gaia-releases-its-largest-ever-goldmine-of-cosmic-data",
+      "date": "Thu, 26 Nov 2026 13:39:02 +0100",
+      "description": "Rejoignez les représentants de l'Agence spatiale européenne et de la mission Gaia le mercredi 2 décembre pour le dévoilement de Gaia Data Release 4, la première publication principale de la mission.",
+      "source": "ESA",
+      "category": "Exploration"
     },
     {
       "title": "Chang'e-6 échantillons révèlent la réaction en chaîne violente qui a construit le grand cratère de la Lune",
@@ -1691,14 +1651,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Un nouveau patron nommé pour diriger Travelodge",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 12:03:49 GMT",
-      "description": "Le nouveau PDG dirigera la société basée à Thame à compter du 1er décembre suivant la démission de Jo Boydell.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "Suit allègue que l'accord foncier de la Louisiane entre SpaceX et ExxonMobil viole la loi sur les réunions publiques",
       "link": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
       "date": "Thu, 26 Nov 2026 12:00:33 GMT",
@@ -1771,14 +1723,6 @@
       "category": "Monde"
     },
     {
-      "title": "L'armée américaine dit que l'explosion contrôlée d'explosifs dans l'Iowa a été \"un énorme succès\"",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 10:38:35 GMT",
-      "description": "Les responsables affirment qu'aucun plomb n'a été détecté dans les environs, ce qui continue d'être testé en fonction des préoccupations des habitants.",
-      "source": "BBC News",
-      "category": "Sciences"
-    },
-    {
       "title": "Une cohorte vocale de leaders technologiques célèbre le retour de Huang-S Nvidia, mais d'autres se taisent",
       "link": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
       "date": "Thu, 26 Nov 2026 10:00:52 GMT",
@@ -1817,14 +1761,6 @@
       "description": "Les serveurs AI ne sont pas des camionnettes",
       "source": "The Economist",
       "category": "Économie"
-    },
-    {
-      "title": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
-      "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 26 Nov 2026 09:34:30 +0100",
-      "description": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
-      "source": "franceinfo",
-      "category": "France"
     },
     {
       "title": "Lockheed Martin dévoile une suite d'armes pour la frégate de classe internationale Gibbs & Cox",
@@ -2043,14 +1979,6 @@
       "category": "Économie"
     },
     {
-      "title": "Guerres de guitare - la bataille transatlantique sur le Stratocaster",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 00:01:37 GMT",
-      "description": "La société américaine Fender est en conflit avec une entreprise allemande qui fabrique des versions génériques de son modèle clé.",
-      "source": "BBC News",
-      "category": "Économie"
-    },
-    {
       "title": "L'endroit doux pour la taille de constellation",
       "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
       "date": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -2064,22 +1992,6 @@
       "date": "Thu, 19 Nov 2026 15:38:18 +0000",
       "description": "Dans cet épisode de Space Minds, SpaceNews, Mike Gruss s'entretient avec Jean-François Morizur, co-fondateur et PDG de Cailabs, à Space Tech Expo Europe. Morizur parle des idées fausses avec le laser [...] L'article Making the case for optical est apparu en premier sur SpaceNews .",
       "source": "SpaceNews",
-      "category": "Exploration"
-    },
-    {
-      "title": "La pluie brise la Terre",
-      "link": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/earthcare/rain-breaks-up-earth-s-natural-sunshades",
-      "date": "Thu, 19 Nov 2026 13:00:00 +0100",
-      "description": "EarthCARE éclaire l'un des processus qui conduit à la rupture de vastes nuages lumineux qui aident à maintenir notre planète au frais – avec la pluie émergeant comme un moteur clé.",
-      "source": "ESA",
-      "category": "Exploration"
-    },
-    {
-      "title": "Regarder en direct: Les premières images de l'astéroïde après impact Dimorphos",
-      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/watch-live-hera-s-first-images-of-post-impact-asteroid-dimorphos",
-      "date": "Thu, 19 Nov 2026 11:10:00 +0100",
-      "description": "Il y a un peu plus de quatre ans, les humains ont déplacé un astéroïde, car le vaisseau spatial DART de la NASA a touché un corps appelé Dimorphos. L'Agence Spatiale Européenne Hera est arrivée à ce même astéroïde pour découvrir ce qui s'est passé ensuite. Rejoignez l'équipe Hera dans la soirée du mercredi 25 novembre, en partageant les premières images rapprochées de cet objet spatial historique transformé.",
-      "source": "ESA",
       "category": "Exploration"
     },
     {
@@ -2185,6 +2097,78 @@
       "description": "Le vaisseau spatial de l'Agence Spatiale Européenne (ESA) de Hera a rendu sa première vue en gros plan du système d'astéroïdes Didymos, marquant le début d'une «autopsie d'astéroïdes» pour découvrir ce que l'impact DART de NASA a vraiment fait à l'astéroïde lune Dimorphos en 2022.",
       "source": "Astronomy Now",
       "category": "Exploration"
+    },
+    {
+      "title": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 00:54:29 +0100",
+      "description": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+      "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+      "date": "Fri, 27 Nov 2026 00:45:02 +0100",
+      "description": "Andrii Sybiha dit avoir expliqué à son homologue libyen, Taher Al-Baour, « qu’aucune des actions de l’Ukraine n’a jamais été dirigée contre la Libye ou le peuple libyen, uniquement contre des objets militaires russes servant directement à la guerre de la Russie contre l’Ukraine ». Kiev a revendiqué lundi des frappes contre deux navires russes, près de Benghazi.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Major Thanksgiving orage apporte des inondations, des retards de vol à travers les États-Unis",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026 00:29:48 GMT",
+      "description": "Des tempêtes massives descendent sur les côtes américaines, avec des rafales de vent, de fortes pluies, des arbres abattus et des pannes de courant pour des centaines de milliers de clients.",
+      "source": "BBC News",
+      "category": "Monde"
+    },
+    {
+      "title": "Les fonds souverains agissent plus comme des géants du capital-investissement — et héritent de leurs risques",
+      "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "date": "Fri, 27 Nov 2026 00:22:29 GMT",
+      "description": "Les fonds souverains sont de plus en plus à l'origine de transactions, prenant le contrôle des participations et construisant leurs propres plates-formes d'investissement.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "L'Argentine empêche la Banque centrale d'imprimer de l'argent pour financer les dépenses publiques",
+      "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 00:11:16 +0000",
+      "description": "Le Sénat sud-américain propose également de suspendre les élections primaires avant la course présidentielle de 2027.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Dans la salle de contrôle alimentant votre application météo",
+      "link": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026 00:09:30 GMT",
+      "description": "Le temps de la BBC Matt Taylor nous fait visiter la salle de contrôle du bureau Met.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "Irak: la loi jafarite légalise les mariages précoces et forcés",
+      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20261127-irak-la-loi-jafarite-l%C3%A9galise-les-mariages-pr%C3%A9coces-et-forc%C3%A9s",
+      "date": "Fri, 27 Nov 2026 00:07:21 GMT",
+      "description": "En Irak, l'amendement de la loi qui régit les normes familiales est entré en vigueur depuis un an. Il permet aux familles chiites d'appliquer des règles issues du droit musulman chiite jafarite. Le code jafarite, adopté en août 2025, définit l'âge auquel une fille est considérée comme pubère, donc en âge d'être mariée : 9 ans. Cela complique la garde des enfants au détriment des mères et au profit des pères. Un an après sa mise en application, les conséquences de ce code inquiète les femmes irakiennes.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Pourquoi manque-t-il de mécaniciens d'ascenseurs?",
+      "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026 00:02:19 GMT",
+      "description": "La paye est bonne et il y a beaucoup de travail, alors qu'est-ce qui est derrière la pénurie de mécaniciens d'ascenseur ?",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "La guerre d'Iran vit : l'Iran Araghchi appelle l'attaque mortelle du Koweït",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 00:00:00 +0000",
+      "description": "L'Iran FM Abbas Araghchi dit que l'incident meurtrier au Koweït est \"suspicieux\" et ressemble à une \"recette précuite\" pour la guerre.",
+      "source": "Al Jazeera",
+      "category": "Monde"
     },
     {
       "title": "Les forêts communautaires offrent l'espoir d'une conservation en RDC, mais des obstacles majeurs subsistent",
