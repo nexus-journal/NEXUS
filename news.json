@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T13:00:58.748516+00:00",
-  "count": 278,
+  "updated_at": "2026-11-27T14:19:10.739055+00:00",
+  "count": 284,
   "articles": [
     {
       "title": "Les marées californiennes records provoquent des inondations importantes de routes et d'entreprises",
@@ -291,14 +291,6 @@
       "category": "Économie"
     },
     {
-      "title": "US Air Force achète le dernier lot KC-46 sous Boeing.",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
-      "date": "Wed, 25 Nov 2026 14:58:13 +0000",
-      "description": "Le Pentagone a annoncé un contrat Boeing de 2,82 milliards de dollars pour 15 pétroliers supplémentaires KC-46A Pegasus, le dernier lot de production en vertu du contrat original de 2011.",
-      "source": "Defense News",
-      "category": "Défense"
-    },
-    {
       "title": "L'armée américaine fait exploser cinq tonnes d'azide de plomb toxique en Iowa",
       "link": "https://www.scientificamerican.com/article/the-u-s-army-is-blowing-up-five-tons-of-toxic-lead-azide-in-iowa/",
       "date": "Wed, 25 Nov 2026 14:45:00 +0000",
@@ -323,14 +315,6 @@
       "category": "Technologie"
     },
     {
-      "title": "OpenAI découvre une limite d'efficacité pour multiplier de grands ensembles de nombres",
-      "link": "https://www.newscientist.com/article/2600728-openai-discovers-efficiency-limit-for-multiplying-large-sets-of-numbers/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Wed, 25 Nov 2026 14:32:58 +0000",
-      "description": "La multiplication des matrices est un problème intrinsèque dans presque tous les logiciels, et maintenant l'IA a révélé combien efficacement les algorithmes peuvent théoriquement le faire - mais atteindre cet idéal est une autre matière",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "Final KC-46 Tankers sous contrat original avec Boeing commandé Par USAF",
       "link": "https://www.twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
       "date": "Wed, 25 Nov 2026 14:28:11 -0500",
@@ -353,22 +337,6 @@
       "description": "Alain Throo, directeur des assurances basé à Londres, aurait perdu la vie et serait décédé en randonnée près du parc national du Mont Cameroun Un touriste suisse a été tué et des touristes britanniques et américains ont été blessés lorsqu'un groupe de randonneurs a rencontré un troupeau d'éléphants au Cameroun. Le groupe de six touristes, quatre Britanniques, un Suisse et un Américain, accompagnés de guides locaux, se promenaient près du village de Bakingili, au sud du Mont.",
       "source": "The Guardian",
       "category": "Monde"
-    },
-    {
-      "title": "Comment le compositeur musical Galileo met la science à une partition sur Broadway",
-      "link": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway/",
-      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
-      "description": "Le compositeur Zoe Sarnak met Galileo Galilei's histoire au son du rock et de la pop indie, et elle travaille sur une autre comédie musicale sur le boson Higgs",
-      "source": "Scientific American",
-      "category": "Sciences"
-    },
-    {
-      "title": "Le téléchargement : l'IA débordant des records ouverts, et la lutte contre l'incendie pour le pergélisol",
-      "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "date": "Wed, 25 Nov 2026 13:10:00 +0000",
-      "description": "C'est aujourd'hui l'édition de The Download, notre newsletter en semaine qui fournit une dose quotidienne de ce qui se passe dans le monde de la technologie. L'IA met à rude épreuve les systèmes d'enregistrements ouverts L'IA a intensifié l'intérêt des investisseurs pour les enregistrements publics. Au cours des dernières années, les startups soutenues par des entreprises ont augmenté de 100 millions de dollars pour collecter des données...",
-      "source": "MIT Technology Review",
-      "category": "Technologie"
     },
     {
       "title": "Bateau de tir ARRW Variante de missiles hypersoniques Lutte pour obtenir le soutien complet des législateurs",
@@ -672,7 +640,7 @@
       "date": "Thu, 26 Nov 2026 23:08:12 GMT",
       "description": "Les actions asiatiques ont été sur un rollercoaster après le retour de Jensen Huang en tant que PDG de Nvidia.",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
     },
     {
       "title": "Les scientifiques identifient deux âges où les enfants peuvent être les plus vulnérables au temps de dépistage",
@@ -723,12 +691,28 @@
       "category": "Exploration"
     },
     {
+      "title": "À l'Institut du monde arabe, une soirée dédiée aux \"voix iraniennes\" perturbée par des monarchistes",
+      "link": "https://www.france24.com/fr/france/20261126-institut-monde-arabe-soir%C3%A9e-d%C3%A9di%C3%A9e-voix-iraniennes-perturb%C3%A9e-monarchistes-chah-pahlavi",
+      "date": "Thu, 26 Nov 2026 21:08:23 GMT",
+      "description": "Une soirée dédiée aux \"voix iraniennes\" organisée mercredi à l'Institut du monde arabe (IMA) à Paris a été perturbée par des militants pahlavistes, soutiens du fils du chah déchu en exil. Un signe de la fracture qui parcourt la diaspora iranienne en France.",
+      "source": "France 24",
+      "category": "France"
+    },
+    {
       "title": "Slingshot Earth: Europa Clipper de la NASA va gagner de la vitesse et tester ses instruments pendant son vol terrestre",
       "link": "https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb",
       "date": "Thu, 26 Nov 2026 21:04:40 +0000",
       "description": "Europa Clipper de la NASA a lancé en octobre 2024, sur le chemin du système Jupiter. Mais il n'a pas encore quitté le système solaire intérieur. Il a utilisé une manœuvre de freinage de gravité à Mars en mars 2025 pour le diriger vers la Terre. Dans quelques jours, il utilisera cette rencontre avec la Terre pour accélérer sa vitesse vers Jupiter et sa lune Europa. Ce vol à venir est également une dernière occasion de calibrer les instruments de l'engin avant sa longue phase de croisière.",
       "source": "Universe Today",
       "category": "Exploration"
+    },
+    {
+      "title": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
+      "link": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
+      "date": "Thu, 26 Nov 2026 20:34:36 GMT",
+      "description": "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a accusé jeudi la France d'avoir maltraité un agent consulaire détenu depuis 2025 dans l'Hexagone et mis en examen dans le cadre de l'enlèvement de l'influenceur algérien Amir Boukhors. L'affaire avait aggravé les tensions diplomatiques déjà vives entre les deux pays et conduit à l'expulsion réciproque de diplomates et agents consulaires.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Nvidia fait une pause sur les expéditions de puces vers l'Asie du Sud-Est",
@@ -777,14 +761,6 @@
       "description": "Le réseau social d'Elon Musk X a finalement ajouté des contrôles parentaux pour les adolescents, donnant aux parents et aux tuteurs un moyen de gérer ce que leurs enfants voient sur la plateforme.",
       "source": "TechCrunch",
       "category": "Technologie"
-    },
-    {
-      "title": "Regarder: Toits arrachés et rues sous l'eau que le temps violent frappe États-Unis",
-      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 19:26:16 GMT",
-      "description": "Des centaines de milliers de personnes ont été touchées par les tempêtes dans le pays au moment où commence le week-end de fête de l'Action de grâces.",
-      "source": "BBC News",
-      "category": "Sciences"
     },
     {
       "title": "Ce télescope intelligent de poche est assez petit pour prendre n'importe où, maintenant 19% moins cher pour Black Friday — plus une chance de gagner un gratuitement!",
@@ -1291,6 +1267,86 @@
       "category": "Exploration"
     },
     {
+      "title": "Albert Zennou : « La droite à nouveau rattrapée par l’éternelle question de son rapport au RN »",
+      "link": "https://www.lefigaro.fr/vox/politique/albert-zennou-la-droite-a-nouveau-rattrapee-par-l-eternelle-question-de-son-rapport-au-rn-20261127",
+      "date": "Fri, 27 Nov 2026 15:00:00 +0100",
+      "description": "CHRONIQUE - En sommant David Lisnard de clarifier ses rapports avec le Rassemblement national, Édouard Philippe réactive un débat qui fracture la droite depuis plus de quarante ans.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "La France est officiellement entrée en récession après deux trimestres de recul du PIB",
+      "link": "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 14:56:35 +0100",
+      "description": "L'Insee a également publié les chiffres provisoires de l'inflation, qui a ralenti à 2,9% sur un an en novembre.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Présidentielle 2027 : Marine Le Pen veut contraindre les journalistes à respecter le secret de l’instruction",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-contraindre-les-journalistes-a-respecter-le-secret-de-l-instruction_6815863_823448.html",
+      "date": "Fri, 27 Nov 2026 14:13:16 +0100",
+      "description": "Interrogée par notre journaliste politique Corentin Lesueur, spécialiste de l’extrême droite, lors d’un point presse, Marine Le Pen a déclaré : « Les médias ne pourront plus en toute impunité effectuer des recels de violation du secret de l’enquête et de l’instruction ».",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "OM - Levski Sofia : l’Olympique de Marseille menacé de lourdes sanctions par l’UEFA après les violences lors du match de Ligue Europa",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/27/violences-au-velodrome-lors-du-match-om-levski-sofia-le-parquet-ouvre-deux-enquetes-le-club-phoceen-menace-de-lourdes-sanctions-de-l-uefa_6815862_3242.html",
+      "date": "Fri, 27 Nov 2026 14:07:12 +0100",
+      "description": "Au lendemain des heurts survenus au Stade-Vélodrome, qui ont fait 11 blessés parmi les supporteurs bulgares, le parquet de Marseille a annoncé l’ouverture de deux enquêtes. L’UEFA, quant à elle, a lancé une procédure disciplinaire.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Meilleures offres d'aspirateur de robot du vendredi noir de Roborock (2026): Jusqu'à 700 $ off",
+      "link": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/",
+      "date": "Fri, 27 Nov 2026 14:07:09 +0000",
+      "description": "Quelques-uns des meilleurs aspirateurs robot que la marque a testés sont à leur meilleur prix jamais.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Le gouvernement anticipe une hausse des prix alimentaires d'environ 4% au début de l'année 2027",
+      "link": "https://www.franceinfo.fr/economie/inflation/le-gouvernement-anticipe-une-hausse-des-prix-alimentaires-d-environ-4-au-debut-de-l-annee-2027_8303091.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 14:00:36 +0100",
+      "description": "S'il s'agit d'un niveau d'inflation moyen, certains produits comme les fruits et légumes vont voir leur prix nettement grimper, à l'image des tomates.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Une course pour sauver des drones de champ de bataille.",
+      "link": "https://www.defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+      "date": "Fri, 27 Nov 2026 14:00:00 +0000",
+      "description": "Alors que les innovateurs ukrainiens sont les pionniers de l'évacuation des drones aériens de première ligne, DARPA développe des robots assistés par l'IA pour trouver et évaluer les soldats blessés et les civils. La course pour sauver des vies est en cours.",
+      "source": "Defense News",
+      "category": "Défense"
+    },
+    {
+      "title": "La stimulation des nerfs vagus ralentit la croissance et la propagation du cancer du pancréas",
+      "link": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 27 Nov 2026 14:00:00 +0000",
+      "description": "Un implant électrique autour de l'œsophage qui stimule le nerf vagus améliore les résultats chez les souris atteintes de cancer pancréatique en rendant leurs tumeurs plus sensibles à l'immunothérapie",
+      "source": "New Scientist",
+      "category": "Sciences"
+    },
+    {
+      "title": "La compagnie budgétaire Norse Atlantic dépose des dossiers de faillite en Europe après n'avoir pas obtenu de financement",
+      "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "date": "Fri, 27 Nov 2026 13:58:19 GMT",
+      "description": "Le transporteur du budget Norse Atlantic a déposé une demande de faillite vendredi, affirmant qu'il n'a pas obtenu de financement après que le coût du carburant ait augmenté, ce qui a compromis les activités de la compagnie.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Déraillement d’un TER en Seine-Maritime : un homme de 22 ans mis en examen",
+      "link": "https://www.liberation.fr/societe/police-justice/deraillement-dun-ter-en-seine-maritime-un-homme-de-22-ans-mis-en-examen-20261127_2CVIOYA4IFGKXPWD3WGTU65HNY/",
+      "date": "Fri, 27 Nov 2026 13:57:49 +0000",
+      "description": "Deux mois et demi après l’accident spectaculaire qui avait fait 44 blessés, un jeune homme atteint d’une déficience mentale prononcée a été mis en examen ce vendredi 27 novembre, selon les informations d’Ici Normandie.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
       "title": "Ralliements LR à David Lisnard : Laurent Wauquiez s’inquiète d’un risque de «division» à droite après une tribune",
       "link": "https://www.lefigaro.fr/politique/ralliements-lr-a-lisnard-wauquiez-s-inquiete-d-un-risque-de-division-a-droite-apres-une-tribune-20261127",
       "date": "Fri, 27 Nov 2026 13:57:40 +0100",
@@ -1299,27 +1355,51 @@
       "category": "France"
     },
     {
-      "title": "« Le monde culturel attend la présidentielle, où il jouera son avenir à la roulette – se sauver ou mourir –, et il évite ainsi de se remettre en question »",
-      "link": "https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html",
-      "date": "Fri, 27 Nov 2026 13:55:49 +0100",
-      "description": "Les acteurs culturels craignent que leurs subventions, déjà en baisse, ne soient encore amputées en cas d’arrivée au pouvoir du Rassemblement national. Pourtant, la Cour des comptes constate, dans un rapport, une augmentation de l’offre subventionnée, et préconise de « cerner des priorités ». En clair de penser la culture autrement, explique, dans sa chronique, Michel Guerrin, rédacteur en chef au « Monde ».",
-      "source": "Le Monde",
+      "title": "Salut nazi, bagarre violente entre supporteurs… deux enquêtes ouvertes après OM-Levski Sofia",
+      "link": "https://www.liberation.fr/sports/football/des-supporters-du-levski-sofia-blesses-a-marseille-la-bulgarie-exprime-son-indignation-20261127_FTGUG53OWVB6VIS24O563ZPKKI/",
+      "date": "Fri, 27 Nov 2026 13:54:48 +0000",
+      "description": "Des affrontements entre partisans du club bulgare et de l’OM ont fait plusieurs blessés. Cinq personnes ont été hospitalisées. Deux enquêtes ont été ouvertes pour «violences» et «incitation à la haine».",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "EN DIRECT - Présidentielle 2027 : «Quand je dis ça, on m’accuse d’être pro-Russe», lance Marine Le Pen après les propos de Teddy Riner sur l’Ukraine",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-edouard-philippe-poursuit-sa-degringolade-david-lisnard-grimpe-a-12-20261127",
-      "date": "Fri, 27 Nov 2026 13:50:17 +0100",
-      "description": "Marine Le Pen a réagi ce vendredi aux déclarations de Teddy Riner, qui a récemment estimé que la France n’avait plus les moyens d’aider l’Ukraine. «Il développe la même idée que celle que j’ai développée», a déclaré la candidate du RN à la présidentielle.",
-      "source": "Le Figaro",
+      "title": "A Paris, les fleurs en peluche attirent les amateurs de douceur",
+      "link": "https://www.liberation.fr/lifestyle/design/a-paris-les-fleurs-en-peluche-attirent-les-amateurs-de-douceur-20261127_NCKDESFL4BFDJBOKRMI3VZAHVM/",
+      "date": "Fri, 27 Nov 2026 13:54:27 +0000",
+      "description": "L’artiste australienne CJ Hendry, de passage dans la capitale, propose ses fleurs en peluche dans une boutique éphémère du Marais jusqu’au dimanche 29 novembre.",
+      "source": "Libération",
       "category": "France"
     },
     {
-      "title": "Le géant des logiciels SAP confronté à un incident de sécurité informatique",
-      "link": "https://www.franceinfo.fr/economie/le-geant-des-logiciels-sap-confronte-a-un-incident-de-securite-informatique_8303076.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 27 Nov 2026 13:50:14 +0100",
-      "description": "L'entreprise allemande n'a trouvé \"aucun indice d'un accès non autorisé aux données commerciales des clients\", a-t-elle affirmé à l'AFP.",
-      "source": "franceinfo",
+      "title": "Sénégal: le président de l'Assemblée nationale presse le chef de l’État de procéder à une dissolution",
+      "link": "https://www.rfi.fr/fr/afrique/20261127-s%C3%A9n%C3%A9gal-le-pr%C3%A9sident-de-l-assembl%C3%A9e-nationale-presse-le-chef-de-l-%C3%A9tat-de-proc%C3%A9der-%C3%A0-une-dissolution",
+      "date": "Fri, 27 Nov 2026 13:54:24 GMT",
+      "description": "Au Sénégal, Ousmane Sonko défie à nouveau son ancien allié, Bassirou Diomaye Faye. Dans une allocution retransmise sur ses réseaux sociaux dans la soirée du jeudi 26 novembre, l'ancien Premier ministre et patron du parti majoritaire au Parlement a pressé le chef de l'État de dissoudre le Parlement, ce qui sera possible à compter du 2 décembre, selon la Constitution sénégalaise. Dans la crise qui s'est installée entre le législatif et l’exécutif depuis le mois de juin, Ousmane Sonko tente de mettre le président sous pression.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Les législateurs allemands approuvent le budget 2027 chargé de la dette",
+      "link": "https://www.dw.com/en/german-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 27 Nov 2026 13:54:00 GMT",
+      "description": "Les législateurs allemands ont voté sur un budget fédéral qui prévoit des dépenses de 556 milliards d'euros. Ailleurs, le Parti de gauche organise un sommet sur le féminicide et la conférence du parti BSW commence à Dresde. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Selon sa femme, le boxeur britannique Tyson Fury n’est pas (plus) schizophrène",
+      "link": "https://www.liberation.fr/sports/selon-sa-femme-le-boxeur-britannique-tyson-fury-nest-pas-plus-schizophrene-20261127_TOSSOGWQO5DJFOBDZPAPFDDXNQ/",
+      "date": "Fri, 27 Nov 2026 13:51:38 +0000",
+      "description": "Dans la première version d’un documentaire Netflix sorti ce vendredi 27 novembre, elle parlait d’un diagnostic datant de 2016. Elle évoque désormais de simples symptômes alors que le très attendu match de son mari contre Anthony Joshua pourrait être menacé si la maladie était avérée.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "A Taiwan, le spectre des ingérences chinoises pèse sur les élections locales",
+      "link": "https://www.liberation.fr/international/asie-pacifique/a-taiwan-le-spectre-des-ingerences-chinoises-pese-sur-les-elections-locales-20261127_3YK34YFDN5DWBNFLH5JWH5OVPA/",
+      "date": "Fri, 27 Nov 2026 13:48:33 +0000",
+      "description": "Samedi 28 novembre, les Taïwanais sont appelés aux urnes. Les autorités s’inquiètent de la prolifération de fausses informations, d’images et de vidéos modifiées par intelligence artificielle discréditant les candidats. Et soupçonne des manipulations de Pékin.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -1331,12 +1411,100 @@
       "category": "France"
     },
     {
+      "title": "Les meilleures offres de sonos du vendredi noir (2026) : jusqu'à 34% de rabais",
+      "link": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/",
+      "date": "Fri, 27 Nov 2026 13:42:44 +0000",
+      "description": "Toujours voulu un haut-parleur Sonos mais effrayé par le prix ? Black Friday est l'un des meilleurs moments pour magasiner la marque.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Rares tortues trouvées à l'intérieur des bagages à l'aéroport d'Amsterdam",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026 13:38:07 GMT",
+      "description": "Les reptiles menacés étaient liés avec du ruban adhésif pour les empêcher de bouger, disent les officiels.",
+      "source": "BBC News",
+      "category": "Sciences"
+    },
+    {
+      "title": "«L’Attrape cœurs» et «Sa Majesté des mouches», relus et corrigés",
+      "link": "https://www.liberation.fr/culture/livres/lattrape-coeurs-et-sa-majeste-des-mouches-relus-et-corriges-20261127_IEBM3C7YURD6THU3NQICMMT4NY/",
+      "date": "Fri, 27 Nov 2026 13:38:00 +0000",
+      "description": "Les romans de J.D. Salinger et William Golding sont republiés dans de nouvelles traductions plus fidèles aux originaux. Résultat, le Holden Caulfield de 2026 est plus poli que celui de 1986 et il n’y a plus de platanes sur l’île du Pacifique de «Sa Majesté des mouches».",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "131 Les meilleures offres du vendredi noir en direct: nos choix d'experts pour 2026",
+      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "date": "Fri, 27 Nov 2026 13:36:48 +0000",
+      "description": "Il est temps d'acheter les meilleures offres Black Friday sur les meilleurs gadgets technologiques que nous recommandons.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Puma Shen, Critique de la Chine, pourrait être le prochain maire de Taipei",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+      "date": "Fri, 27 Nov 2026 13:33:49 +0000",
+      "description": "Puma Shen, qui a été sanctionné par la Chine pour ses efforts pour préparer les civils à une invasion, pourrait devenir la prochaine star politique de Taiwan s'il gagne.",
+      "source": "The New York Times",
+      "category": "Monde"
+    },
+    {
+      "title": "Pourquoi la police géorgienne a-t-elle affronté les supporters turcs de football sur la Palestine ?",
+      "link": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 13:32:55 +0000",
+      "description": "Le ministère géorgien de l'Intérieur dit que 16 personnes ont été détenues et trois employés blessés lors d'affrontements.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "L'élection en Gambie : Barrow peut-elle obtenir un troisième mandat ?",
+      "link": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 27 Nov 2026 13:31:00 GMT",
+      "description": "Le Président Adama Barrow demande un troisième mandat en Gambie le 5 décembre. L'élection mettra à l'épreuve l'appel de l'opposition et les progrès du pays en matière de réforme démocratique.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Eisenkot navigue dans des eaux difficiles alors qu'il teste le partage du pouvoir avec Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 13:28:55 +0000",
+      "description": "Certains de ses alliés demandent un tel arrangement, mais cela représenterait une trahison de sa promesse préélectorale.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Sur l'arrestation du propriétaire de l'Informer TV et rédacteur en chef Dragan J. Vucicevic: Est-ce que le compte avec la machine de médias pro-Vucic de Serbie a commencé?",
+      "link": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 27 Nov 2026 13:28:00 GMT",
+      "description": "L'arrestation du propriétaire des médias Dragan J. Vucicevic soulève des questions sur la question de savoir si la Serbie tient les personnes derrière les médias pro-vuc du pays responsables ou si c'est une autre lutte de pouvoir politique.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
       "title": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du Rassemblement national",
       "link": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html",
       "date": "Fri, 27 Nov 2026 13:25:05 +0100",
-      "description": "Le président du Rassemblement national réitère sa défense en contestant « formellement » les nouvelles révélations, se refusant de nouveau à avancer des éléments.",
+      "description": "Le président du RN réitère sa défense en contestant « formellement » les nouvelles révélations du « Monde » et de « Mediapart », se refusant de nouveau à avancer des éléments.",
       "source": "Le Monde",
       "category": "France"
+    },
+    {
+      "title": "Le procès de Duterte : Quel est l'enjeu pour les Philippines ?",
+      "link": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 27 Nov 2026 13:23:00 GMT",
+      "description": "L'ancien président philippin Rodrigo Duterte est jugé à La Haye pour sa guerre meurtrière contre la drogue. La procédure pourrait également déterminer les fortunes politiques de l'une des dynasties les plus puissantes des Philippines.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Les S&P 500 font l'objet d'une correction. Les marchés de l'ours et les récessions ne suivent pas toujours",
+      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "date": "Fri, 27 Nov 2026 13:21:56 GMT",
+      "description": "La vente de novembre a jusqu'à présent poussé les S&P 500 à une correction. L'histoire montre qu'une correction ne mène pas toujours à un marché d'ours, ni à une récession.",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Deux enquêtes ouvertes après les violences entre supporters lors du match OM-Levski Sofia",
@@ -1347,6 +1515,38 @@
       "category": "France"
     },
     {
+      "title": "La famine devrait augmenter en raison du conflit mondial, El Nino, avertit l'ONU",
+      "link": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 13:16:28 +0000",
+      "description": "El Nino est un pilote majeur derrière trois des quatre points chauds nouvellement identifiés, principalement dans différentes parties de l'Afrique.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Les stocks de la technologie américaine vont bondir à mesure que la volatilité des échanges s'installe",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "date": "Fri, 27 Nov 2026 13:15:41 GMT",
+      "description": "Le commerce tout-puissant de l'IA a été éclipsé par des fluctuations sauvages sur un marché qui lutte pour évaluer les bénéfices futurs",
+      "source": "Financial Times",
+      "category": "Économie"
+    },
+    {
+      "title": "Les prix des voitures neuves sont à un niveau record. Voici où chercher des affaires",
+      "link": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+      "date": "Fri, 27 Nov 2026 13:15:01 GMT",
+      "description": "Alors que le prix moyen d'une voiture neuve a atteint 51 109 $ en octobre, selon Kelley Blue Book, de nombreux acheteurs dépensent beaucoup moins pour leur achat. Voilà comment.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Sentence servie, toujours détenue: familles palestiniennes attendant les réunions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 13:14:52 +0000",
+      "description": "Les familles palestiniennes disent que leurs proches restent dans les prisons israéliennes malgré l'achèvement de leur peine.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "Déraillement d'un TER en Seine-Maritime : un homme de 22 ans mis en examen pour vol et blessures involontaires",
       "link": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-un-homme-de-22-ans-mis-en-examen-pour-vol-et-blessures-involontaires_8303052.html#xtor=RSS-3-[lestitres]",
       "date": "Fri, 27 Nov 2026 13:12:00 +0100",
@@ -1355,12 +1555,52 @@
       "category": "France"
     },
     {
-      "title": "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine-20261126",
-      "date": "Fri, 27 Nov 2026 12:58:43 +0100",
-      "description": "EXCLUSIF - Le maire de Cannes veut, en un quinquennat, refaire de la France un des pays les plus sûrs d’Europe.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Notre laine Merino préférée est 30% de rabais lors de la vente de vendredi noir Merino non liée (2026)",
+      "link": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+      "date": "Fri, 27 Nov 2026 13:10:54 +0000",
+      "description": "Le choix du meilleur T-shirt voyage WIRED est en vente pour le Black Friday. Élargissez votre garde-robe mérinos avec ces affaires. Vite, la vente se termine ce soir.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Angleterre Overton prend 5-12 que l'Australie bowled pour record bas en T20",
+      "link": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+      "date": "Fri, 27 Nov 2026 13:06:54 +0000",
+      "description": "L'Australie est surnommée 108 alors que Jamie Overton revendique les meilleures figures de sa carrière dans la victoire de sept milliards d'Angleterre à Brisbane.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "Risques de mariage d'enfants en Iran compliqués par la guerre",
+      "link": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Fri, 27 Nov 2026 13:06:00 GMT",
+      "description": "La guerre, la pauvreté et la déscolarisation pourraient mettre davantage de filles en danger en Iran, avertissent les défenseurs des droits.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Espagne élection pourrait rapprocher Madrid de Trump Washington",
+      "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+      "date": "Fri, 27 Nov 2026 13:00:42 GMT",
+      "description": "Les électeurs espagnols se rendent aux urnes dimanche pour une élection rapide qui pourrait mettre fin aux huit années de pouvoir du Premier ministre socialiste Pedro Sánchez.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "Le téléchargement: Innovateurs Les nominations de moins de 35 ans sont ouvertes, et une fenêtre bionique dans l'esprit",
+      "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "date": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "description": "C'est aujourd'hui l'édition de The Download, notre newsletter en semaine qui fournit une dose quotidienne de ce qui se passe dans le monde de la technologie. Nos Innovateurs de moins de 35 ans sont maintenant ouverts Chaque année, MIT Technology Review honore 35 jeunes scientifiques, entrepreneurs et inventeurs parmi les plus brillants du monde....",
+      "source": "MIT Technology Review",
+      "category": "Technologie"
+    },
+    {
+      "title": "La recherche scientifique pour comprendre l'alpha-gal, une allergie transmise par les tiques à la viande rouge",
+      "link": "https://www.scientificamerican.com/article/the-scientific-quest-to-understand-alpha-gal-a-tick-borne-allergy-to-red-meat/",
+      "date": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "description": "Les diagnostics sont en hausse, mais beaucoup au sujet de cette maladie potentiellement mortelle reste inexpliquée",
+      "source": "Scientific American",
+      "category": "Sciences"
     },
     {
       "title": "Philippines : Le vice-président Duterte déclare que l'affaire du père CPI n'est pas équitable",
@@ -1371,27 +1611,11 @@
       "category": "Monde"
     },
     {
-      "title": "Marine Le Pen réitère sa confiance à Jordan Bardella, après de nouveaux éléments sur des écrits antisémites attribués au patron du RN",
-      "link": "https://www.franceinfo.fr/elections/marine-le-pen-reitere-sa-confiance-a-jordan-bardella-apres-de-nouveaux-elements-sur-des-ecrits-antisemites-attribues-au-patron-du-rn_8303001.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 27 Nov 2026 12:50:47 +0100",
-      "description": "Comme son dauphin, la candidate du RN à l'élection présidentielle a remis en cause les méthodes de Mediapart et \"Le Monde\". Plus globalement, elle veut obliger les journalistes à respecter le secret de l'instruction.",
-      "source": "franceinfo",
-      "category": "France"
-    },
-    {
       "title": "Trump a embrassé Xi, puis a giflé de nouveaux tarifs sur la Chine: Quel est son plan de jeu?",
       "link": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
       "date": "Fri, 27 Nov 2026 12:48:44 +0000",
       "description": "Le nouveau régime tarifaire du président américain cible la Chine le plus durement, quelques semaines avant que Trump et Xi ne se retrouvent à Miami.",
       "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Le petit BSW d'Allemagne est un parti en crise car il est prêt à livrer le pouvoir d'extrême droite AfD en Saxe-Anhalt",
-      "link": "https://www.dw.com/en/germany-s-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-saxony-anhalt/a-80074417?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 12:45:00 GMT",
-      "description": "Le parti BSW de Sahra Wagenknecht va à nouveau perturber la politique allemande. Espérant un mélange de politique économique de gauche et de rhétorique populiste anti-migrationniste d'extrême droite, il est maintenant à jouer kingmaker à l'extrême droite AfD",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -1403,51 +1627,19 @@
       "category": "Exploration"
     },
     {
-      "title": "«Il a été enlevé au Cambodge et emmené au Vietnam»: Hiep Tran, visage de la répression transnationale",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20261127-il-a-%C3%A9t%C3%A9-enlev%C3%A9-au-cambodge-et-emmen%C3%A9-au-vietnam-hiep-tran-visage-de-la-r%C3%A9pression-transnationale",
-      "date": "Fri, 27 Nov 2026 12:39:38 GMT",
-      "description": "Des experts de l'ONU ont alerté jeudi 26 novembre sur la situation des droits humains au Vietnam, et en particulier une forme de répression au-delà de ses frontières. Trois militants pour la démocratie, Nguyen Duc Thuan, Hiep Tran et Thai Cong Truong Son, ont disparu au Cambodge fin septembre. Ils sont actuellement détenus au Vietnam, accusés de terrorisme. Chloe Dang, épouse de Hiep Tran, soutient qu’il a été enlevé par les forces de sécurité vietnamiennes.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
-      "title": "L'Ukraine Heraskevych salue le recul de l'UE contre les athlètes russes",
-      "link": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 12:37:00 GMT",
-      "description": "Alors que les pays européens contestent le retour sportif de la Russie, l'olympien ukrainien Vladyslav Heraskevych estime que le CIO est confronté à une «très grande crise».",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "«Le Principe de Wellington» de Nathalie Léger, calendrier de l’aveu",
-      "link": "https://www.liberation.fr/culture/livres/le-principe-de-wellington-de-nathalie-leger-calendrier-de-laveu-20261127_JAUG5U42VVHXLKSQCZFNDRFP64/",
-      "date": "Fri, 27 Nov 2026 12:37:00 +0000",
-      "description": "Dans ce roman-récit-essai, une narratrice repliée chez elle réfléchit à un projet de film pour une série documentaire intitulée «Cas de conscience». Un souvenir de trahisons remonte.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Mort de Jean-Claude Vannier, arrangeur historique de Serge Gainsbourg",
-      "link": "https://www.liberation.fr/culture/musique/mort-de-jean-claude-vannier-arrangeur-historique-de-serge-gainsbourg-20261127_XCWLPFFNIRHQZINVDIFL23IP6I/",
-      "date": "Fri, 27 Nov 2026 12:36:42 +0000",
-      "description": "Le musicien, célèbre notamment pour avoir composé les arrangements et orchestré la musique de «l’Histoire de Melody Nelson», est mort ce vendredi 27 novembre à l’âge de 83 ans.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "«Vous vous prenez pour Jean Moulin, mais vous êtes proches de Staline» : Bardella et Le Pen s’enfoncent dans le déni et menacent le secret des sources",
-      "link": "https://www.liberation.fr/politique/elections/vous-vous-prenez-pour-jean-moulin-mais-vous-etes-proches-de-staline-bardella-et-le-pen-senfoncent-dans-le-deni-et-menacent-le-secret-des-sources-20261127_D7OWV2BIMVDHDCKI5S275G2JIM/",
-      "date": "Fri, 27 Nov 2026 12:36:28 +0000",
-      "description": "Lors d’une conférence de presse consacrée ce vendredi 27 novembre aux Outre-mer, les deux cadres du RN s’en sont pris aux journalistes, coupables à leurs yeux de multiplier les révélations embarrassantes pour le parti d’extrême droite, notamment en matière d’antisémitisme.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Présidentielle 2027 : que disent les derniers sondages ?",
       "link": "https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20261127",
       "date": "Fri, 27 Nov 2026 12:33:57 +0100",
       "description": "INFOGRAPHIE – Une partie de la gauche se rallie autour de Jean-Luc Mélenchon, Édouard Philippe poursuit sa chute et David Lisnard son ascension… Pour suivre l’évolution des rapports de force, Le Figaro agrège tous les sondages publiés et les différents scénarios testés.",
       "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "La suspension de l'usage des grenades assourdissantes prolongée et étendue à toutes les manifestations",
+      "link": "https://www.franceinfo.fr/faits-divers/police/la-suspension-de-l-usage-des-grenades-assourdissantes-prolongee-et-etendue-a-toutes-les-manifestations_8302995.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 12:32:28 +0100",
+      "description": "Le directeur général de la police nationale (DGPN) fait cette annonce dans un télégramme consulté par franceinfo vendredi.",
+      "source": "franceinfo",
       "category": "France"
     },
     {
@@ -1459,44 +1651,12 @@
       "category": "Économie"
     },
     {
-      "title": "«Des informations très nombreuses» : Trump toujours aussi évasif sur les raisons du retour de Jensen Huang chez Nvidia",
-      "link": "https://www.liberation.fr/international/amerique/des-informations-tres-nombreuses-trump-toujours-aussi-evasif-sur-les-raisons-du-retour-de-jensen-huang-chez-nvidia-20261127_ACYL2P4W5JBBFMASFPINAZWBJ4/",
-      "date": "Fri, 27 Nov 2026 12:22:44 +0000",
-      "description": "Interrogé par la presse jeudi 26 novembre à Mar-a-Lago, le milliardaire, qui a multiplié les coups de pression pour favoriser la réinstallation du patron de la puissante entreprise de la tech à ses fonctions,",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
-      "title": "Salut nazi, bagarre violente entre supporters… deux enquêtes ouvertes après OM-Levski Sofia",
-      "link": "https://www.liberation.fr/sports/football/des-supporters-du-levski-sofia-blesses-a-marseille-la-bulgarie-exprime-son-indignation-20261127_FTGUG53OWVB6VIS24O563ZPKKI/",
-      "date": "Fri, 27 Nov 2026 12:21:01 +0000",
-      "description": "Des affrontements entre partisans du club bulgare et de l’OM ont fait plusieurs blessés. Cinq personnes ont été hospitalisées. Deux enquêtes ont été ouvertes pour «violences» et «incitation à la haine».",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Meilleures offres Black Friday Nintendo Switch 2 (2026) : jusqu'à 50 $ de rabais, jeux, accessoires",
       "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/",
       "date": "Fri, 27 Nov 2026 12:15:27 +0000",
       "description": "Obtenez votre jeu pour moins avec ces offres Black Friday sur Nintendo Switch 2 packs et jeux officiels.",
       "source": "WIRED",
       "category": "Technologie"
-    },
-    {
-      "title": "La violence au football en Europe suscite des inquiétudes face à la revendication d'extrême droite dans le jeu de l'UEFA",
-      "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 12:12:56 +0000",
-      "description": "Les revendications des nazis saluent le match de l'UEFA Europa League à Marseille pour la grande nuit de nouvelles violences dans le football européen.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Visé par des accusations de pédocriminalité, l’avocat François Gibault a été médaillé par le barreau de Paris",
-      "link": "https://www.liberation.fr/societe/police-justice/vise-par-des-accusations-de-pedocriminalite-lavocat-francois-gibault-a-ete-medaille-par-le-barreau-de-paris-20261127_GVIP64CNGJCFDLAEEBXF5QKM54/",
-      "date": "Fri, 27 Nov 2026 12:09:41 +0000",
-      "description": "Le conseil de 94 ans a été décoré le 2 novembre dernier par son ordre, pour récompenser ses soixante-dix ans de carrière. Il est pourtant accusé par Inès Chatin de l’avoir violée lorsqu’elle était enfant. Des faits pour lesquels elle a déposé plainte en décembre 2023, et que l’avocat a toujours contestés catégoriquement.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Les meilleures offres du vendredi Dyson Aspirateur noir pour 2026 : jusqu'à 400 $ de rabais",
@@ -1523,60 +1683,12 @@
       "category": "France"
     },
     {
-      "title": "Comment l'Allemagne de l'Est a stimulé l'industrie du café au Vietnam",
-      "link": "https://www.dw.com/en/how-east-germany-boosted-vietnam-s-coffee-industry/a-80029974?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 12:03:00 GMT",
-      "description": "Lorsque l'Allemagne de l'Est ne pouvait plus se permettre d'importer du café, elle a introduit un mélange de substitution contenant du seigle et de la chicorée en 1977. Un tollé public s'ensuivit. La solution au problème se trouve à 9 000 kilomètres au Vietnam.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
-      "title": "The Tech Download: Le retour de Jensen Huang est-il l'étincelle dont le marché de l'IA a besoin ?",
-      "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-      "date": "Fri, 27 Nov 2026 12:00:22 GMT",
-      "description": "Les stocks d'IA ont chuté ces derniers temps, les investisseurs remettant en question la viabilité du boom de l'IA.",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
-      "title": "La grève saoudienne tue 11 civils",
-      "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 12:00:22 +0000",
-      "description": "Les hostilités entre Houthis soutenu par l'Iran et la coalition soutenue par l'Arabie saoudite continuent de pousser le Yémen dans une crise humanitaire.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "16 meilleures affaires d'écouteurs du vendredi noir (2026) : jusqu'à 57% de rabais",
-      "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/",
-      "date": "Fri, 27 Nov 2026 11:58:32 +0000",
-      "description": "Obtenez jusqu'à 57 pour cent de mes écouteurs et écouteurs préférés d'Apple, Sony, Rien, et plus.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Les stocks de la technologie américaine vont bondir à mesure que la volatilité des échanges s'installe",
-      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
-      "date": "Fri, 27 Nov 2026 11:58:07 GMT",
-      "description": "Le commerce tout-puissant de l'IA a été éclipsé par des fluctuations sauvages sur un marché qui lutte pour évaluer les bénéfices futurs",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Italiens tués au Koweït: Pourquoi l'Iran refuse-t-il sa responsabilité?",
-      "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 11:51:26 +0000",
-      "description": "L'Iran a ouvertement revendiqué ses frappes sur les États du Golfe tout au long de la guerre. Pourquoi nier une attaque contre le Koweït ?",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "Tech allemand logiciel majeur SAP pèserait au moins 10 000 emplois dans la poussée AI",
-      "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "date": "Fri, 27 Nov 2026 11:49:18 GMT",
-      "description": "SAP envisage de supprimer 10 000 emplois en remodelant son activité logicielle autour de l'IA.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "Marine Le Pen soutient Bardella et veut obliger les journalistes à respecter le secret des enquêtes",
+      "link": "https://www.france24.com/fr/france/20261127-marine-le-pen-soutient-bardella-et-veut-obliger-les-journalistes-%C3%A0-respecter-le-secret-des-enqu%C3%AAtes",
+      "date": "Fri, 27 Nov 2026 11:53:26 GMT",
+      "description": "Vendredi, Marine Le Pen a réitéré sa confiance en Jordan Bardella après la publication de nouveaux éléments lui attribuant des écrits antisémites durant sa jeunesse. Dans la même interview, la candidate du Rassemblement national à l’élection présidentielle a annoncé qu'elle obligerait les journalistes à respecter le secret de l'instruction si elle est élue.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Où sont tous les trous noirs de la Voie lactée ?",
@@ -1587,52 +1699,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Russie La guerre hybride sur l'Europe évolue, mais échoue: IISS",
-      "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 11:44:46 +0000",
-      "description": "Les attaques croissantes ont endommagé l'infrastructure européenne, mais n'ont pas réduit le soutien à l'Ukraine, explique l'analyse.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
       "title": "L'ex-exécutif des médias admet avoir dit que la survivante australienne de la violence sexuelle envers les enfants « semble être violée à nouveau »",
       "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026 11:44:40 GMT",
       "description": "L'ancien directeur des médias de Murdoch a été entendu lors d'un événement faisant référence à la façon dont Grace Tame était habillée.",
       "source": "BBC News",
       "category": "Monde"
-    },
-    {
-      "title": "Les 123 meilleures offres du vendredi noir sont maintenant en direct: nos choix d'experts pour 2026",
-      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
-      "date": "Fri, 27 Nov 2026 11:41:42 +0000",
-      "description": "Il est temps d'acheter les meilleures offres Black Friday sur les meilleurs gadgets technologiques que nous recommandons.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "16 meilleures affaires d'écouteurs du vendredi noir (2026) : jusqu'à 57% de rabais",
-      "link": "https://www.wired.com/story/black-friday-headphone-deals-11-27-26/",
-      "date": "Fri, 27 Nov 2026 11:38:34 +0000",
-      "description": "Obtenez jusqu'à 57 pour cent de mes écouteurs et écouteurs préférés d'Apple, Sony, Rien, et plus.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "De vieilles blessures rouvrent alors que Kirghizstan, Osh embrasse un nouveau projet urbain",
-      "link": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
-      "date": "Fri, 27 Nov 2026 11:35:34 +0000",
-      "description": "Le réaménagement remodele la ville, mais certains s'inquiètent du fait que les résidents sont déplacés et que le patrimoine culturel semble en danger.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "15 Best Buy Black Friday Deals sur Hot Tech (2026): Jusqu'à 65% de rabais",
-      "link": "https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/",
-      "date": "Fri, 27 Nov 2026 11:32:17 +0000",
-      "description": "Offres de score sur casques, ordinateurs portables et barres de son testés par WIRED.",
-      "source": "WIRED",
-      "category": "Technologie"
     },
     {
       "title": "Leonardo lance le premier jet M-346 pour l'Italie",
@@ -1651,20 +1723,12 @@
       "category": "Technologie"
     },
     {
-      "title": "Convention citoyenne sur les finances publiques : \"C'est problématique de se dire que c'est un sujet trop compliqué pour que des citoyens comprennent\", estime la présidente du Cese",
-      "link": "https://www.franceinfo.fr/economie/convention-citoyenne-sur-les-finances-publiques-c-est-problematique-de-se-dire-que-c-est-un-sujet-trop-complique-pour-que-des-citoyens-comprennent-estime-la-presidente-du-cese_8302785.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 27 Nov 2026 11:26:12 +0100",
-      "description": "Les 150 citoyens tirés au sort vont découvrir jusqu'en mars, pendant sept week-ends, le fonctionnement d'un budget, la dette ou la macro-économie avant de rendre leurs propositions pour les candidats juste avant la présidentielle.",
-      "source": "franceinfo",
+      "title": "France : Emmanuel Macron critique la “drôle d’arrogance” de Marine Le Pen",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261127-france-emmanuel-macron-critique-la-dr%C3%B4le-d-arrogance-de-marine-le-pen",
+      "date": "Fri, 27 Nov 2026 11:26:17 GMT",
+      "description": "À Bruxelles, les négociations sur le prochain budget de l'Union européenne se heurtent aux divisions des Vingt-Sept. La présidentielle française de 2027 s'est aussi invitée dans les discussions : Marine Le Pen, candidate du Rassemblement national, a accusé le président de s'adonner à de \"basses manoeuvres politiciennes\" en voulant verrouiller le budget européen avant l'élection présidentielle. Le président lui a répondu.",
+      "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "L'IA peut combiner des idées mathématiques sur une échelle au-delà des esprits humains individuels. Mais peut-elle produire des idées comme Einstein ?",
-      "link": "https://www.dw.com/en/ai-can-combine-mathematical-ideas-on-a-scale-beyond-individual-human-minds-but-could-it-produce-ideas-likes-einstein/a-80067691?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 11:13:00 GMT",
-      "description": "Une fois, il luttait pour obtenir des sommes simples. Mais l'IA s'attaque maintenant à des problèmes mathématiques difficiles comme l'hypothèse de Riemann. Comment l'IA a fait ce saut extraordinaire. Et pourquoi les mathématiciens devraient être « profondément inquiets ».",
-      "source": "Deutsche Welle",
-      "category": "Monde"
     },
     {
       "title": "La France lance un pacte de défense-industrie pour renforcer les efforts de contre-drone",
@@ -1675,20 +1739,20 @@
       "category": "Défense"
     },
     {
-      "title": "Les travailleurs indiens comblent les lacunes de l'Allemagne en matière de main-d'œuvre mais font face à des obstacles et à des risques",
-      "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 11:06:00 GMT",
-      "description": "Le nombre d'Indiens travaillant en Allemagne a augmenté rapidement ces dernières années. Mais beaucoup continuent de faire face à des défis sur le marché du travail. Certains sont également victimes d'escroqueries de recrutement, les rendant vulnérables à l'exploitation.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "«C’est triste pour nos enfants» : près de Toulouse, la fronde d’une «minorité» de parents fait annuler le séjour de 50 écoliers au Puy du Fou",
+      "link": "https://www.lefigaro.fr/actualite-france/c-est-triste-pour-nos-enfants-pres-de-toulouse-la-fronde-d-une-minorite-de-parents-fait-annuler-le-sejour-de-50-ecoliers-au-puy-du-fou-20261127",
+      "date": "Fri, 27 Nov 2026 11:12:24 +0100",
+      "description": "RÉCIT - La mairie de Castelmaurou, près de Toulouse, préparait un voyage au Puy du Fou pour une cinquantaine d’écoliers. Après les critiques de certains parents sur le choix du parc, des animateurs ont renoncé à accompagner les enfants, ce qui a conduit la mairie à annuler le séjour.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
-      "title": "L'inflation a des acheteurs qui cherchent de la valeur. C'est bon pour le Black Friday",
-      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "date": "Fri, 27 Nov 2026 11:00:01 GMT",
-      "description": "Même si les consommateurs font face à des vents contraires macroéconomiques, les détaillants s'attendent à de solides dépenses de vacances jusqu'au vendredi noir et au-delà.",
-      "source": "CNBC",
-      "category": "Économie"
+      "title": "La Corée du Nord suspend temporairement son aide militaire à la Russie",
+      "link": "https://www.rfi.fr/fr/asie-pacifique/20261127-la-cor%C3%A9e-du-nord-suspend-temporairement-son-aide-militaire-%C3%A0-la-russie",
+      "date": "Fri, 27 Nov 2026 11:07:15 GMT",
+      "description": "Depuis 2024, Moscou et Pyongyang sont liés par une alliance militaire que le régime nord-coréen a honorée en envoyant près de 15 000 soldats combattre aux côtés des forces russes déployées en Ukraine. Mais le réchauffement des relations entre la Russie et la Corée du Sud inquiète Kim Jong-un qui a décidé d'agir, selon les renseignements ukrainiens.",
+      "source": "RFI",
+      "category": "France"
     },
     {
       "title": "Les astronomes regardent une étoile géante rouge dévorer avidement un stellaire 'Bao bun' avant d'éclater: 'Nous ne pouvions pas croire notre chance'",
@@ -1731,14 +1795,6 @@
       "category": "France"
     },
     {
-      "title": "Puma Shen, Critique de la Chine, pourrait être le prochain maire de Taipei",
-      "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
-      "date": "Fri, 27 Nov 2026 10:42:02 +0000",
-      "description": "Puma Shen, qui a été sanctionné par la Chine pour ses efforts pour préparer les civils à une invasion, pourrait devenir la prochaine star politique de Taiwan s'il gagne.",
-      "source": "The New York Times",
-      "category": "Monde"
-    },
-    {
       "title": "Agriculture, guerre en Ukraine, présidentielle en France... On vous explique pourquoi les négociations sur le budget de l'Union européenne sont dans l'impasse",
       "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/agriculture-guerre-en-ukraine-presidentielle-en-france-on-vous-explique-pourquoi-les-negociations-sur-le-budget-de-l-union-europeenne-sont-dans-l-impasse_8302635.html#xtor=RSS-3-[lestitres]",
       "date": "Fri, 27 Nov 2026 10:30:55 +0100",
@@ -1755,28 +1811,20 @@
       "category": "Monde"
     },
     {
-      "title": "La France entre en récession après deux trimestres de recul du PIB",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html",
-      "date": "Fri, 27 Nov 2026 10:25:50 +0100",
-      "description": "Le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026, selon l’Insee, alors qu’il avait été initialement estimé en baisse de 0,1 %. Surtout, avec l’annonce d’un léger recul d’activité au deuxième trimestre, et non d’une stagnation comme indiqué précédemment, la France affiche deux trimestres négatifs consécutifs.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
-      "title": "Yémen: comment de fausses images brouillent la lecture du conflit",
-      "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20261127-y%C3%A9men-comment-de-fausses-images-brouillent-la-lecture-du-conflit",
-      "date": "Fri, 27 Nov 2026 10:23:09 GMT",
-      "description": "Au Yémen, les combats sont toujours en cours entre les Houthis, appuyés par l’Iran, et les forces gouvernementales yéménites soutenues par l’Arabie saoudite. Les rebelles chiites ont revendiqué ces derniers jours des attaques contre ​le centre financier de Riyad et la raffinerie de Ras Tanura sur ​le golfe Persique. La coalition internationale sous l'égide de l'Arabie saoudite a, elle, bombardé le port stratégique d'Hodeïda. Images détournées, générées par intelligence artificielle ou issues de jeux vidéo : ces affrontements suscitent énormément de désinformation sur les réseaux sociaux.",
-      "source": "RFI",
-      "category": "France"
-    },
-    {
       "title": "SpaceX partages bond 4% au milieu du rallye technologique et après Musk dit qu'il va développer sur Trump Compte part dons",
       "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
       "date": "Fri, 27 Nov 2026 10:20:39 GMT",
       "description": "Les actions de SpaceX ont bondi dans le trading avant marché après Elon Musk a déclaré sur X qu'il ferait don des actions aux enfants américains chaque année.",
       "source": "CNBC",
       "category": "Économie"
+    },
+    {
+      "title": "La France entre en récession, le PIB continue de reculer",
+      "link": "https://www.france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer",
+      "date": "Fri, 27 Nov 2026 10:20:32 GMT",
+      "description": "Le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026, annonce l'Insee vendredi. Avec deux trimestres négatifs consécutifs, le pays est dans une période de récession, selon l'institut statistique.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "Mon rituel d'autosoin est un repas dans un restaurant chic.",
@@ -1947,15 +1995,15 @@
       "category": "Monde"
     },
     {
-      "title": "« Ils nous ont menti » : après la fermeture de leur école de commerce, des étudiants en colère et en galère",
+      "title": "« On paie 15 000 euros l’année pour que l’école fasse faillite ? » : des étudiants en colère et en galère après la fermeture de leur école de commerce",
       "link": "https://www.lemonde.fr/campus/article/2026/11/27/ils-nous-ont-menti-apres-la-fermeture-de-leur-ecole-de-commerce-des-etudiants-en-colere-et-en-galere_6815802_4401467.html",
-      "date": "Fri, 27 Nov 2026 06:00:26 +0100",
+      "date": "Fri, 27 Nov 2026 06:00:13 +0100",
       "description": "Redressements judiciaires, rachats, disparitions… Après avoir longtemps surfé sur la vague de l’apprentissage, de nombreuses business schools privées se retrouvent en difficulté. Pour leurs élèves, c’est le début d’un parcours du combattant, entre interlocuteurs injoignables, diplôme incertain, nouvelle école à trouver et argent perdu.",
       "source": "Le Monde",
       "category": "France"
     },
     {
-      "title": "A Shanghaï, le boom de la seconde main bouscule le marché du luxe",
+      "title": "« C’est presque aussi facile d’acheter un sac Balenciaga qu’un paquet de nouilles de riz » : les articles de luxe d’occasion à Shanghaï bousculent le marché",
       "link": "https://www.lemonde.fr/economie/article/2026/11/27/a-shanghai-le-boom-de-la-seconde-main-bouscule-le-marche-du-luxe_6815800_3234.html",
       "date": "Fri, 27 Nov 2026 06:00:13 +0100",
       "description": "Dans des magasins aussi grands que des supermarchés, les plateformes chinoises de revente attirent de jeunes clients qui, sur fond de crise de la consommation, ne veulent plus payer les prix exorbitants pratiqués par les grandes maisons.",
@@ -2051,10 +2099,10 @@
       "category": "Économie"
     },
     {
-      "title": "12 stratégies pour réduire votre risque de démence. Prenez ce quiz pour commencer",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+      "title": "Essayez leur main chez Dungeons & Dragons",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
       "date": "Fri, 27 Nov 2026 05:00:00 -0500",
-      "description": "Voici quelque chose que vous pouvez faire comme vous réunissez avec votre famille et vos amis cette saison des fêtes: Prenez un quiz gratuit de cinq minutes pour évaluer votre santé cérébrale. Vous apprendrez des changements simples pour garder votre esprit vif.",
+      "description": "Certains parents, fatigués des écrans, ont trouvé une oasis analogique dans le jeu de rôle inventé dans les années 1970.",
       "source": "NPR",
       "category": "Monde"
     },
@@ -2091,20 +2139,20 @@
       "category": "Sciences"
     },
     {
-      "title": "Deux Italiens tués dans l'attaque de drones au Koweït ; Trump dit que la guerre d'Iran se termine « chaque fois que je le veux »",
-      "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
-      "date": "Fri, 27 Nov 2026 03:30:23 GMT",
-      "description": "Le ministre iranien des Affaires étrangères Abbas Araghchi a déclaré : « L'incident est suspect et ressemble à une recette précuite pour la guerre. »",
-      "source": "CNBC",
-      "category": "Économie"
-    },
-    {
       "title": "Le personnel d'Amazon pour frapper et se rassembler le week-end le plus occupé de l'année",
       "link": "https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042",
       "date": "Fri, 27 Nov 2026 03:03:00 +0000",
       "description": "Les employés d'Amazon partout dans le monde sont prêts à organiser des manifestations le vendredi noir au milieu de revendications de salaires injustes et de conditions de travail oppressives.",
       "source": "Sky News",
       "category": "Monde"
+    },
+    {
+      "title": "Match OM-Levski Sofia : l’UEFA ouvre une enquête disciplinaire",
+      "link": "https://www.france24.com/fr/france/20261127-football-des-supporters-du-levski-sofia-bless%C3%A9s-%C3%A0-marseille-la-bulgarie-exprime-son-indignation",
+      "date": "Fri, 27 Nov 2026 01:37:29 GMT",
+      "description": "Jeudi, plusieurs supporters bulgares du Levski Sofia ont été blessés à Marseille, lors d’affrontements avec des supporters de l’Olympique de Marseille (OM), avant un match au Stade Vélodrome entre les deux équipes. Les réactions politiques sont nombreuses et l’UEFA a annoncé l’ouverture d’une enquête disciplinaire.",
+      "source": "France 24",
+      "category": "France"
     },
     {
       "title": "De 250 livres à 9 000 livres : À l'intérieur des réseaux de traders voyous arnaquant les clients à l'échelle",
@@ -2128,7 +2176,23 @@
       "date": "Fri, 27 Nov 2026 00:02:19 GMT",
       "description": "La paye est bonne et il y a beaucoup de travail, alors qu'est-ce qui est derrière la pénurie de mécaniciens d'ascenseur ?",
       "source": "BBC News",
-      "category": "Économie"
+      "category": "Technologie"
+    },
+    {
+      "title": "Photos aériennes montrent la récupération de Floride Bay, États-Unis, comme la restauration envoie l'eau Everglades",
+      "link": "https://news.mongabay.com/custom-story/2026/11/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/",
+      "date": "27 Nov 2026 14:04:23 +0000",
+      "description": "Les débits d'eau douce dans la baie de Floride, significativement réduits par des décennies de drainage des Everglades, augmentent lentement dans le cadre du plan complet de restauration des Everglades. Les relevés en hélicoptère effectués par l'écologiste aviaire Mark Ian Cook documentent le retour des oiseaux de fond, l'hivernage de la sauvagine, les flamants américains et les crocodiles américains menacés. La nidification des oiseaux de mer a atteint un record en 2018 mais a depuis diminué, tandis que [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
+    },
+    {
+      "title": "«Voter pour les arbres»: Taiwan les pins de la communauté espèrent sur «Grande-mère forêt» pour sauver les bois bien-aimés",
+      "link": "https://news.mongabay.com/2026/11/vote-for-trees-taiwan-community-pins-hope-on-forest-grandma-to-save-beloved-woods/",
+      "date": "27 Nov 2026 13:52:03 +0000",
+      "description": "KAOHSIUNG, Taïwan — A l'aube, tout comme les oiseaux commencent à chanter, Chiang Huang-nu met habituellement sur son chapeau de paille traditionnel et se promène à travers les terrains boisés d'une ancienne usine de sucre dans le district de Ciaotou dans le sud-ouest de Taiwan. En chemin, les 83 ans pourraient accueillir une trentaine d'autres poussettes régulières, dont la plupart sont des retraités. Chiang [...]",
+      "source": "Mongabay",
+      "category": "Environnement"
     },
     {
       "title": "Un petit poisson d'eau profonde mangé il y a 42 ans a maintenant été nommé une nouvelle espèce",
@@ -2163,20 +2227,36 @@
       "category": "Environnement"
     },
     {
-      "title": "Hong Kong devient le lien clé dans le commerce illégal des reptiles indigènes d'Australie",
-      "link": "https://news.mongabay.com/short-article/2026/11/hong-kong-becomes-key-link-in-illegal-trade-of-australias-native-reptiles/",
-      "date": "27 Nov 2026 04:55:14 +0000",
-      "description": "Des lézards aux serpents, Hong Kong apparaît comme un centre de traite primaire pour les reptiles australiens indigènes, rapporte la contributeur Selina Cheng pour Mongabay. En décembre 2025, les autorités douanières ont intercepté une cargaison d'Australie contenant 13 lézards vivants farcis à l'intérieur de bottes d'hiver. L'agence des douanes de Hong Kong a déclaré que le fret aérien était faussement déclaré comme des collations. Ce [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
+      "title": "Les widgets bricolage Android sont un peu de codage d'ambiance amusant",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "date": "2026-11-27T09:00:00-05:00",
+      "description": "En plus de faire face à mon calendrier, il y a une chose que je veux que l'IA fasse : dites-moi si je vais manquer le bus. J'ai besoin d'un widget. Il doit me dire les arrivées en temps réel pour l'arrêt de bus près de ma maison. Taper autour de mon écran de téléphone pour ouvrir la bonne application et [...]",
+      "source": "The Verge",
+      "category": "Technologie"
     },
     {
-      "title": "Sri Lanka déploie «l'armée éléphant» pour protéger les rares tuskers, mais les experts demandent la prudence",
-      "link": "https://news.mongabay.com/short-article/2026/11/sri-lanka-deploys-elephant-army-to-protect-rare-tuskers-but-experts-urge-caution/",
-      "date": "27 Nov 2026 04:43:37 +0000",
-      "description": "Un éléphant bien-aimé du nom de Kavantissa, qui fréquentait un village rural au Sri Lanka, est récemment mort d'une blessure par balle, provoquant l'indignation publique. Les écologistes ont condamné les autorités pour ce qu'ils appelaient un « manque de soins » pour cet éléphant emblématique, tandis que les groupes locaux de défense des animaux ont exigé une enquête indépendante sur la mort. En réponse, les [...]",
-      "source": "Mongabay",
-      "category": "Environnement"
+      "title": "Cette souris de jeu devrait être un Logitech-killer, mais il a un grand défaut",
+      "link": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+      "date": "2026-11-27T09:00:00-05:00",
+      "description": "Quand Keychron a annoncé sa souris de jeu G6 HE $90, j'ai immédiatement pensé, \"Cool! Une alternative moins chère à la Logitech Logitech G Pro X2 Superstrike.\" L'innovation de Logitech avec le Superstrike est d'utiliser des interrupteurs d'effet de Hall magnétique pour une profondeur de clic de souris réglable par l'utilisateur, avec des vibrations haptiques imitant la sensation de clic tactile. Le Keychron G6 HE, comme [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "L'Oura Ring 5 vient d'obtenir son plus grand rabais pour le Black Friday",
+      "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
+      "date": "2026-11-27T08:30:00-05:00",
+      "description": "Si vous avez été curieux des bagues intelligentes mais ont été repoussés par leurs étiquettes de prix élevé, Black Friday est un bon moment pour envisager de donner un essai. C'est parce que l'Oura Ring 5, que nous considérons comme la meilleure bague intelligente que vous pouvez acheter, a chuté à un tout-temps bas de $299 (100 $ de rabais) [...]",
+      "source": "The Verge",
+      "category": "Technologie"
+    },
+    {
+      "title": "Grand Theft Auto VI est un autre type de GTA — il avait donc besoin d'un autre type de fin",
+      "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
+      "date": "2026-11-27T08:00:00-05:00",
+      "description": "Dans la plupart des jeux Grand Theft Auto, et la plupart des jeux open-world pour cette matière, le monde est laissé ouvert pour vous d'explorer une fois le roulement de crédits. Ce pourrait être Los Santos ou une prise tordue sur Manhattan, mais l'idée est que l'histoire principale n'est qu'une partie de l'expérience. Après cela, [...]",
+      "source": "The Verge",
+      "category": "Technologie"
     },
     {
       "title": "Certains de nos téléviseurs Sony, LG et TCL préférés sont plus de 50% de rabais pour le Black Friday",
@@ -2191,38 +2271,6 @@
       "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
       "date": "2026-11-27T06:52:34-05:00",
       "description": "Cette année, les accords du Black Friday ont été lancés par vagues au cours des dernières semaines, mais maintenant les portes d'inondation ont officiellement ouvert. Vous pouvez maintenant profiter des prix les plus bas que nous avons vu en magasin et en ligne pour les jeux vidéo, les écouteurs sans fil, les téléviseurs, les lecteurs électroniques, les aspirateurs de robots, et bien plus encore. Nous ne pouvons pas garantir un accord que vous avez eu [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le SE 3 est l'Apple Watch la plupart des gens devraient acheter sur Black Friday",
-      "link": "https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale",
-      "date": "2026-11-27T06:30:00-05:00",
-      "description": "Durant le Black Friday, l'Apple Watch SE 3 est en vente dans la configuration 40mm / GPS à Amazon, Walmart et Target à partir d'environ 179$ (70$ de rabais), 20$ de moins que son prix précédent le plus bas. La variante 44mm, quant à elle, est en vente à Amazon, Walmart, et Target à partir d'environ 209 $ (également 70 $ de rabais), [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Nos écouteurs préférés sont moins chers que jamais pour Black Friday",
-      "link": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
-      "date": "2026-11-27T05:30:00-05:00",
-      "description": "Si vous n'avez pas déjà fermé et acheté un nouveau jeu d'oreilles sans fil, casques d'oreille ou casques de conduction osseuse cette année, Black Friday vous récompense avec une quantité colossale d'offres, y compris des réductions sur les meilleurs modèles disponibles. Apple, Beats, Soundcore, Sony, Rien, et d'autres grandes marques offrent certains des meilleurs prix [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le spectacle le plus cozi de Netflix a fait un retour très calme",
-      "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "date": "2026-11-26T16:00:00-05:00",
-      "description": "Plus Netflix est gros, plus il est facile de manquer des trucs. C'est vrai pour toutes les plateformes numériques, bien sûr, mais c'est particulièrement vrai pour Netflix de la fin, car la gamme du service de streaming inclut maintenant aussi une bibliothèque croissante de spectacles de réalité, de programmation en direct et même de jeux. Il est facile pour certains des meilleurs [...]",
-      "source": "The Verge",
-      "category": "Technologie"
-    },
-    {
-      "title": "Le Garmin Forerunner 265S est descendu à $300, son meilleur prix de l'année",
-      "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-      "date": "2026-11-26T14:00:00-05:00",
-      "description": "Le précurseur 265S peut ne pas être le Garmin le plus récent ou le plus flash, mais c'est celui que j'ai toujours aimé le plus dans les tests. Pour les coureurs avec des poignets plus petits, il convient bien. La durée de vie de la batterie est assez bonne grâce en partie à son écran tactile OLED. Quand je l'ai revu il y a quelques années, je l'ai appelé les Goldilocks [...]",
       "source": "The Verge",
       "category": "Technologie"
     }
