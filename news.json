@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T06:12:06.682249+00:00",
+  "updated_at": "2026-11-28T07:29:50.302588+00:00",
   "count": 285,
   "articles": [
     {
@@ -24,14 +24,6 @@
       "date": "Wed, 25 Nov 2026 22:33:27 +0000",
       "description": "Faire des choses bon marché est cher",
       "source": "The Economist",
-      "category": "Économie"
-    },
-    {
-      "title": "Liesman: Pourquoi Greenspan pourrait parier sur la productivité — et Warsh a besoin de marcher",
-      "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "date": "Wed, 25 Nov 2026 21:56:43 GMT",
-      "description": "Alan Greenspan tenait célèbrement la ligne sur les taux d'intérêt parce qu'il croyait à la promesse de productivité du boom Internet. Pourquoi Kevin Warsh ne peut pas faire pareil ?",
-      "source": "CNBC",
       "category": "Économie"
     },
     {
@@ -287,14 +279,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026 10:52:09 GMT",
       "description": "Le verdict fait suite à un procès d'un mois à New York.",
-      "source": "BBC News",
-      "category": "Technologie"
-    },
-    {
-      "title": "EA ajoute John Motson au jeu vidéo CF 27",
-      "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 10:11:34 GMT",
-      "description": "Le Motson généré par l'IA apparaîtra dans le jeu le 26 novembre, avec le consentement de son fils et de sa femme.",
       "source": "BBC News",
       "category": "Technologie"
     },
@@ -867,11 +851,51 @@
       "category": "Exploration"
     },
     {
-      "title": "\"Ça fait pschitt !\" : pourquoi les accusations d'antisémitisme visant Jordan Bardella n'entament pas (encore) la popularité du RN",
-      "link": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ca-fait-pschitt-pourquoi-les-accusations-d-antisemitisme-visant-jordan-bardella-n-entament-pas-encore-la-popularite-du-rn_8303220.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 28 Nov 2026 06:58:24 +0100",
-      "description": "Les révélations de Mediapart n'ont pas altéré le soutien de l'électorat du Rassemblement national au président du parti, selon plusieurs enquêtes d'opinion réalisées en octobre. Mais ces accusations pourraient compliquer la stratégie de normalisation de Marine Le Pen.",
+      "title": "«La haute fonction publique est totalement résignée» : comment l’appareil d’État anticipe une élection de Marine Le Pen en 2027",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/la-haute-fonction-publique-est-totalement-resignee-comment-l-appareil-d-etat-anticipe-une-election-de-marine-le-pen-en-2027-20261128",
+      "date": "Sat, 28 Nov 2026 07:30:00 +0100",
+      "description": "ENQUÊTE - Alors que des hauts fonctionnaires sont accusés d’être des «taupes» du RN, la potentielle victoire de Marine Le Pen à l’élection présidentielle pousse la haute fonction publique à s’interroger sur les ressources du parti lepéniste pour faire appliquer ses décisions.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés",
+      "link": "https://www.franceinfo.fr/politique/front-national/dans-l-affaire-des-fuites-au-profit-du-rn-le-bureau-et-le-domicile-d-ambroise-de-rancourt-coordinateur-du-programme-presidentiel-du-parti-ont-ete-perquisitionnes_8304285.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 28 Nov 2026 07:29:53 +0100",
+      "description": "Ce proche de Marine Le Pen est soupçonné d'avoir été le destinataire d'informations confidentielles transmises au Rassemblement national via le ministère de l'Intérieur.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Les pensions et les prestations sont toujours en baisse après l'incident du cybernétique",
+      "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 07:26:06 GMT",
+      "description": "Selon les experts, le ministère du Travail et des Pensions a peut-être été touché par les pirates, mais le gouvernement ne l'a pas confirmé.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Pourquoi la droite espagnole peut s’attendre à un rebond lors des législatives",
+      "link": "https://www.liberation.fr/international/europe/pourquoi-la-droite-espagnole-peut-sattendre-a-un-rebond-lors-des-legislatives-20261128_62EUORF3PVGB7JKRS3TGQGMCYM/",
+      "date": "Sat, 28 Nov 2026 07:21:00 +0000",
+      "description": "Le Parti populaire mené par Alberto Núñez Feijóo semble en mesure de remporter les élections, dimanche 29 novembre, profitant des difficultés du gouvernement Sánchez et de son alliance avec Vox. Même si son pacte avec le parti d’extrême droite reste fragile.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "En librairies : Michel Layaz, Marion Dubreuil, Marie Pavlenko...",
+      "link": "https://www.liberation.fr/culture/livres/en-librairies-michel-layaz-marion-dubreuil-marie-pavlenko-20261128_B3E7W5DOHBC33JQUL32E3VUVD4/",
+      "date": "Sat, 28 Nov 2026 07:05:00 +0000",
+      "description": "Des croquis de tribunal transformés en BD formidable sur le procès Mazan par Marion Dubreuil, «La Panne» de Dürrenmatt remodelée en comédie humaine à l’heure des écocides par Michel Layaz... Les sorties de la semaine sélectionnées par «Libération».",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Haïti: le calvaire des victimes de violences sexuelles, agressées jusque dans les lieux de refuge",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261128-ha%C3%AFti-le-calvaire-des-victimes-de-violences-sexuelles-agress%C3%A9es-jusque-dans-les-lieux-de-refuge",
+      "date": "Sat, 28 Nov 2026 07:02:28 GMT",
+      "description": "En plus de la violence et de l’insécurité généralisée, les gangs criminels présents dans la capitale haïtienne, Port-au-Prince, font régner la terreur en raison des graves violences sexuelles, souvent collectives. Depuis janvier, 5 635 survivantes ont été accueillies et protégées par l’ONG Médecins Sans Frontières. Certaines avaient fui en raison de viols, mais se sont retrouvées à nouveau exposées dans des hébergements de fortune, y subissant de nouvelles violences sexuelles.",
+      "source": "RFI",
       "category": "France"
     },
     {
@@ -883,11 +907,67 @@
       "category": "France"
     },
     {
+      "title": "Les tarifs de Trump sont devenus une nouvelle norme américaine",
+      "link": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 06:57:19 +0000",
+      "description": "Même une administration démocratique peut lutter pour renverser les tarifs qui aident à financer les réductions d'impôts de Trump.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
       "title": "\"Je préfère acheter du bois du coin que du pétrole de Russie\" : dans ce village du Charolais, un réseau de chaleur remplace les chaudières au fioul",
       "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/en-toute-sobriete-face-a-la-crise-climatique/reportage-je-prefere-acheter-du-bois-du-coin-que-du-petrole-de-russie-dans-ce-village-du-charolais-un-reseau-de-chaleur-remplace-les-chaudieres-au-fioul_8295641.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 28 Nov 2026 06:57:08 +0100",
       "description": "Notre série \"En toute sobriété\" met en avant des solutions locales pour réduire nos consommations et agir face à l'urgence climatique. Dans cet épisode, une petite commune rurale fait diminuer la facture et l'empreinte carbone du chauffage de ses habitants grâce à une chaudière collective, alimentée par du bois local.",
       "source": "franceinfo",
+      "category": "France"
+    },
+    {
+      "title": "Retraite par capitalisation : derrière les promesses présidentielles, des rendements pas garantis et un problème de financement",
+      "link": "https://www.liberation.fr/economie/social/retraite-par-capitalisation-derriere-les-promesses-presidentielles-des-rendements-pas-garantis-et-un-probleme-de-financement-20261128_SUG54RR4VRCZFPITIPR7HD3THU/",
+      "date": "Sat, 28 Nov 2026 06:44:00 +0000",
+      "description": "Promue notamment par Marine Le Pen, l’idée d’instaurer une part obligatoire de capitalisation dans le système de retraites français se heurte à des obstacles qui atténuent grandement les ambitions affichées.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Elon Musk peut se permettre une petite amnésie MAGA",
+      "link": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 06:25:24 +0000",
+      "description": "Son pari raté sur les républicains n'a rien fait pour diminuer l'attrait bipartite de sa fortune.",
+      "source": "Al Jazeera",
+      "category": "Monde"
+    },
+    {
+      "title": "A Bruxelles, le grand musée d’art contemporain Kanal s’ouvre en eaux troubles",
+      "link": "https://www.liberation.fr/culture/arts/art-contemporain/a-bruxelles-le-grand-musee-dart-contemporain-kanal-souvre-en-eaux-troubles-20261128_CGYJWOPQCFBZJMUIGEZX47GTOM/",
+      "date": "Sat, 28 Nov 2026 06:17:00 +0000",
+      "description": "Sous les spectaculaires verrières d’un ancien garage Citroën, le musée ouvre enfin ses portes ce samedi, en partenariat avec le centre Pompidou. Retard de travaux, frictions politiques et réduction drastique de budget, ce lieu de 40.000m2, dont la plus de la moitié est en accès libre, n’aura pas été créé sans mal.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Serbie: Radomir Saisic, le candidat du mouvement étudiant à la présidentielle de décembre",
+      "link": "https://www.rfi.fr/fr/europe/20261128-serbie-radomir-saisic-le-candidat-du-mouvement-%C3%A9tudiant-%C3%A0-la-pr%C3%A9sidentielle-de-d%C3%A9cembre",
+      "date": "Sat, 28 Nov 2026 06:15:10 GMT",
+      "description": "24 heures après avoir convoqué, le 27 décembre, l'élection présidentielle anticipée en Serbie, les représentants de la liste étudiante ont annoncé ce 27 novembre 2026 qu'ils auraient un candidat à ce scrutin. Il s'agit de Radomir Saisic, le numéro un de la liste ayant remporté les législatives, le 25 octobre dernier.",
+      "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "Les travailleurs indiens comblent les lacunes de l'Allemagne en matière de main-d'œuvre mais font face à des obstacles et à des risques",
+      "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 28 Nov 2026 06:12:00 GMT",
+      "description": "Le nombre d'Indiens travaillant en Allemagne a augmenté rapidement ces dernières années. Mais beaucoup continuent de faire face à des défis sur le marché du travail. Certains sont également victimes d'escroqueries de recrutement, les rendant vulnérables à l'exploitation.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "Ecrits antisémites : est-il vrai que Jordan Bardella a choisi «la procédure la plus lente» pour attaquer «Mediapart» ?",
+      "link": "https://www.liberation.fr/checknews/ecrits-antisemites-est-il-vrai-que-jordan-bardella-a-choisi-la-procedure-la-plus-lente-pour-attaquer-mediapart-20261128_ZMXB2IPCX5CDHDLQ2UQERF2H2E/",
+      "date": "Sat, 28 Nov 2026 06:08:00 +0000",
+      "description": "Le président du RN a multiplié les poursuites destinées à contester les propos qui lui sont prêtés. Mais sa stratégie judiciaire reste régulièrement questionnée. En cause : le choix d’une plainte avec constitution de partie civile, plutôt qu’une citation directe.",
+      "source": "Libération",
       "category": "France"
     },
     {
@@ -899,28 +979,28 @@
       "category": "France"
     },
     {
-      "title": "Pourquoi la mobilisation lycéenne est une réponse à la rhétorique du « déclin de l’Occident »",
-      "link": "https://www.lemonde.fr/idees/article/2026/11/28/pourquoi-la-mobilisation-lyceenne-est-une-reponse-a-la-rhetorique-du-declin-de-l-occident_6816065_3232.html",
-      "date": "Sat, 28 Nov 2026 06:00:16 +0100",
-      "description": "Une partie des médias et des politiques évoquent une jeunesse qui serait incapable de résister à la frustration, signe d’une « décivilisation ». Des scientifiques leur répondent : il s’agit plutôt d’une colère motivée par une société qui donne le sentiment aux jeunes qu’ils sont responsables de leurs échecs.",
-      "source": "Le Monde",
-      "category": "France"
-    },
-    {
       "title": "Guerre en Ukraine : Kiev assume l’extension du conflit sur de nouveaux fronts",
       "link": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
-      "date": "Sat, 28 Nov 2026 06:00:14 +0100",
+      "date": "Sat, 28 Nov 2026 06:00:09 +0100",
       "description": "Ces derniers jours, l’Ukraine s’est enhardie, frappant des navires russes en mer Baltique et en Méditerranée, jusque dans le port libyen de Benghazi. Kiev cherche à motiver l’alliance occidentale à continuer d’aider le pays. Mais face à cette nouvelle escalade, les Européens sont partagés entre le soutien et l’inquiétude.",
       "source": "Le Monde",
       "category": "France"
     },
     {
-      "title": "YouTube, Twitch et Instagram : à l’approche de la présidentielle, les nouveaux visages de la fachosphère",
-      "link": "https://www.liberation.fr/politique/youtube-twitch-et-instagram-a-lapproche-de-la-presidentielle-les-nouveaux-visages-de-la-fachosphere-20261128_3X7TSREOPRDA3NFCDHLENYRIZM/",
-      "date": "Sat, 28 Nov 2026 06:00:00 +0000",
-      "description": "Portée par de jeunes porte-voix, l’extrême droite s’est recomposée ces dernières années, investissant de nouvelles plateformes et méthodes. Le discours est toujours aussi radical, et l’envie de peser dans les débats de la campagne, intacte.",
-      "source": "Libération",
-      "category": "France"
+      "title": "L'Arabie saoudite change de vision Les dépenses à l'horizon 2030 au milieu des pressions économiques et sécuritaires",
+      "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "date": "Sat, 28 Nov 2026 06:00:01 GMT",
+      "description": "Le Royaume passe de « dépenses et livraison à tout prix » à « dépenses et livraison au bon coût », a déclaré le ministre économique Faisal Alibrahim à CNBC.",
+      "source": "CNBC",
+      "category": "Économie"
+    },
+    {
+      "title": "L'homme le plus riche d'Afrique prend sa méga-raffinerie publique dans un blockbuster IPO",
+      "link": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "date": "Sat, 28 Nov 2026 06:00:01 GMT",
+      "description": "Dangote Raffinerie , IPO pourrait évaluer l'entreprise à environ 47 milliards de dollars, dans ce qui est attendu pour être Afrique , la plus grande cote du marché boursier .",
+      "source": "CNBC",
+      "category": "Économie"
     },
     {
       "title": "Codes promotionnels Walmart : 20 % de rabais pour novembre 2026",
@@ -971,10 +1051,10 @@
       "category": "Technologie"
     },
     {
-      "title": "«Cinéma, culture et décolonisation», des films en subversion originale",
-      "link": "https://www.liberation.fr/culture/cinema/cinema-culture-et-decolonisation-des-films-en-subversion-originale-20261128_GCDXW6E2ZJEPRDAVBSXHC7CNOM/",
-      "date": "Sat, 28 Nov 2026 05:55:00 +0000",
-      "description": "Parus en 1974 dans la brève parenthèse entre deux dictatures et enfin traduits en français, les écrits des cinéastes argentins Fernando Solanas et Octavio Getino n’ont rien perdu de leur mordant et invitent à poursuivre leur réflexion militante.",
+      "title": "YouTube, Twitch et Instagram : à l’approche de la présidentielle, les nouveaux visages de la fachosphère",
+      "link": "https://www.liberation.fr/politique/youtube-twitch-et-instagram-a-lapproche-de-la-presidentielle-les-nouveaux-visages-de-la-fachosphere-20261128_3X7TSREOPRDA3NFCDHLENYRIZM/",
+      "date": "Sat, 28 Nov 2026 06:00:00 +0000",
+      "description": "Portée par de jeunes porte-voix, l’extrême droite s’est recomposée ces dernières années, investissant de nouvelles plateformes et méthodes. Le discours est toujours aussi radical, et l’envie de peser dans les débats de la campagne, intacte.",
       "source": "Libération",
       "category": "France"
     },
@@ -987,28 +1067,12 @@
       "category": "France"
     },
     {
-      "title": "Kanal à Bruxelles : dix expos pour des débuts plein pot",
-      "link": "https://www.liberation.fr/culture/kanal-a-bruxelles-dix-expos-pour-des-debuts-plein-pot-20261128_ASUHEE7MAZF73BA62RXEF37664/",
-      "date": "Sat, 28 Nov 2026 05:10:00 +0000",
-      "description": "Le nouveau centre d’art belge, qui ouvre ses portes ce samedi 28 novembre, a mis le paquet pour son inauguration, avec une enthousiasmante programmation à tiroirs qui bouscule les principes mêmes du musée et une traversée des collections du centre Pompidou.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "APOD: 2026 28 novembre – Anaglyphe du site VIP Apollo 17",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
       "date": "Sat, 28 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 28 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Apollo 17 VIP [...]",
       "source": "NASA",
       "category": "Environnement"
-    },
-    {
-      "title": "Deux employés de Médecins sans frontières tués par une frappe israélienne à Gaza",
-      "link": "https://www.rfi.fr/fr/moyen-orient/20261128-deux-employ%C3%A9s-de-m%C3%A9decins-sans-fronti%C3%A8res-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne-%C3%A0-gaza",
-      "date": "Sat, 28 Nov 2026 05:02:33 GMT",
-      "description": "Deux employés de Médecins sans frontières (MSF) ont été tués vendredi par une frappe israélienne à Gaza, ont annoncé l'organisation humanitaire et l'armée israélienne, laquelle les a accusés d'être des \"terroristes\" du Hamas.",
-      "source": "RFI",
-      "category": "France"
     },
     {
       "title": "Les Vigilantes d'extrême droite ont enflammé la France",
@@ -1035,18 +1099,10 @@
       "category": "Monde"
     },
     {
-      "title": "L'Iran a frappé les mêmes navires deux fois pour dissuader le trafic du détroit d'Hormuz",
-      "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
-      "date": "Sat, 28 Nov 2026 05:00:41 GMT",
-      "description": "Au moins six navires ont été victimes d'une «double attaque» au cours des deux derniers mois",
-      "source": "Financial Times",
-      "category": "Économie"
-    },
-    {
-      "title": "Drones repoussés par l'armée américaine à la base des RAF",
-      "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
-      "date": "Sat, 28 Nov 2026 05:00:41 GMT",
-      "description": "De nouveaux détails émergent sur l'incident à la RAF Lakenheath à Suffolk plus tôt ce mois-ci",
+      "title": "Les mathématiciens vivant à travers une révolution de l'IA",
+      "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+      "date": "Sat, 28 Nov 2026 05:00:32 GMT",
+      "description": "De surprenantes découvertes assistées numériquement ont soulevé des questions sur l'avenir des experts humains dans le domaine",
       "source": "Financial Times",
       "category": "Économie"
     },
@@ -1067,20 +1123,20 @@
       "category": "Économie"
     },
     {
+      "title": "Plongée dans le monde des IA débridées, ces intelligences artificielles déchaînées pouvant servir des desseins illégaux",
+      "link": "https://www.lemonde.fr/pixels/article/2026/11/28/plongee-dans-le-monde-des-ia-debridees-ces-intelligences-artificielles-dechainees-pouvant-servir-des-desseins-illegaux_6816059_4408996.html",
+      "date": "Sat, 28 Nov 2026 05:00:26 +0100",
+      "description": "Accessibles en quelques clics sur Internet, les intelligences artificielles dites « ablitérées », auxquelles on a retiré les garde-fous, répondent à la plupart des questions dangereuses que leurs concurrentes commerciales repoussent. Qui les conçoit, et pour quelles raisons ?",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "Les agents de l'IA viennent pour de grandes affaires",
       "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
       "date": "Sat, 28 Nov 2026 05:00:14 GMT",
       "description": "La technologie pourrait déclencher une concurrence beaucoup plus grande. Mais les utilisateurs se méfient de donner trop",
       "source": "Financial Times",
       "category": "Économie"
-    },
-    {
-      "title": "Salomé Zourabichvili : en Géorgie, «la seule voie possible pour la victoire, c’est l’unité»",
-      "link": "https://www.liberation.fr/international/europe/salome-zourabichvili-en-georgie-la-seule-voie-possible-pour-la-victoire-cest-lunite-20261128_MKYWRLR7GZGXZANWW7WONDRFHE/",
-      "date": "Sat, 28 Nov 2026 05:00:00 +0000",
-      "description": "Face au durcissement du pouvoir dans ce pays frontalier de la Russie, l’ancienne présidente plaide pour une opposition unie.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Math Puzzle: Un lecteur désagréable",
@@ -1115,14 +1171,6 @@
       "category": "Monde"
     },
     {
-      "title": "«En votre âme et conscience», trois meurtriers et la voix de la Couronne",
-      "link": "https://www.liberation.fr/culture/livres/en-votre-ame-et-conscience-trois-meurtriers-et-la-voix-de-la-couronne-20261128_64JT2MZ4ABEVVHFZZK6IUEV6OE/",
-      "date": "Sat, 28 Nov 2026 04:41:00 +0000",
-      "description": "S.J. Fleet, dont on ne connaît pas l’identité, nous transporte dans un tribunal britannique avec ses fluctuations et ses irrationalités.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "BepiColombo capture l'orbite de mercure après un voyage de 8 ans",
       "link": "https://www.universetoday.com/articles/bepicolombo-captures-mercury-orbit-after-8-year-trip",
       "date": "Sat, 28 Nov 2026 04:40:16 +0000",
@@ -1147,14 +1195,6 @@
       "category": "Monde"
     },
     {
-      "title": "Demain, qui répondra aux enfants en danger qui appellent le 119 ?",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/demain-qui-repondra-aux-enfants-en-danger-qui-appellent-le-119-20261128_MDGBADFRG5ELNJ3WCUARTTVYJU/",
-      "date": "Sat, 28 Nov 2026 04:17:00 +0000",
-      "description": "Alors que le numéro constitue la seule porte d’entrée nationale de la protection de l’enfance, le gouvernement annonce une réforme qui réduirait les moyens humains et financiers. Une aberration qui met à mal une expertise construite depuis trente-six ans, s’insurge un collectif d’écoutants du 119.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "La chaîne de télévision \"destroyée\" pro-opposition, le propriétaire dit BBC",
       "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 28 Nov 2026 04:13:45 GMT",
@@ -1169,22 +1209,6 @@
       "description": "La planète naine Ceres, le premier objet découvert dans la ceinture d'astéroïde principal, pourrait jouer un rôle révolutionnaire en ouvrant le système solaire externe à un moyen de transport interplanétaire plus rapide et moins cher. Ou dire les promoteurs d'une nouvelle initiative surnommée ‘Projet CERES.",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Le travail d'équipe en deux secondes derrière un arrêt de fosse F1",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 04:01:24 +0000",
-      "description": "Al JazeeraS Joanna Gasiorowska est entrée dans la voie de la fosse pour découvrir à quel point il est difficile d'être dans un équipage de fosse F1.",
-      "source": "Al Jazeera",
-      "category": "Monde"
-    },
-    {
-      "title": "La grève israélienne contre la clinique Médecins sans frontières à Gaza tue deux employés",
-      "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 03:45:58 +0000",
-      "description": "MSF affirme que l'attaque israélienne contre la clinique de Gaza est un « coup direct » et demande que les responsables soient tenus responsables.",
-      "source": "Al Jazeera",
-      "category": "Monde"
     },
     {
       "title": "Ouverture des sondages aux élections locales suivies de près par Taiwan",
@@ -1233,6 +1257,22 @@
       "description": "Le fils du chef du Hamas et sa famille ont survécu à une attaque aérienne de l'armée israélienne, selon un haut fonctionnaire du groupe terroriste.",
       "source": "Sky News",
       "category": "Monde"
+    },
+    {
+      "title": "Armée de l’air, FBI, CIA… Aux États-Unis, les cyberattaques s’accumulent contre les secteurs stratégiques",
+      "link": "https://www.lefigaro.fr/international/armee-de-l-air-fbi-cia-aux-etats-unis-les-cyberattaques-s-accumulent-contre-les-secteurs-strategiques-20261128",
+      "date": "Sat, 28 Nov 2026 00:30:14 +0100",
+      "description": "L’armée de l’air américaine a été victime d’une attaque informatique ciblant sa plateforme «Cloud One», qui centralise des données sensibles.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "Soupçons de fuites au profit du RN : le bureau et le domicile de l'ex-directeur de cabinet de Marine Le Pen perquisitionnés",
+      "link": "https://www.lefigaro.fr/politique/soupcons-de-fuites-au-profit-du-rn-le-bureau-et-le-domicile-de-l-ex-directeur-de-cabinet-de-marine-le-pen-perquisitionnes-20261127",
+      "date": "Sat, 28 Nov 2026 00:00:24 +0100",
+      "description": "Ambroise de Rancourt est soupçonné d’être le destinataire d’informations confidentielles en provenance du ministère de l’Intérieur qui auraient été transmises au parti d’extrême droite.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -1363,27 +1403,19 @@
       "category": "France"
     },
     {
-      "title": "Quelle est la note S&P des voisins de la France ?",
-      "link": "https://www.lefigaro.fr/conjoncture/quelle-est-la-note-s-p-des-voisins-de-la-france-20261127",
-      "date": "Fri, 27 Nov 2026 22:30:26 +0100",
-      "description": "INFOGRAPHIE – L’agence de notation américaine a abaissé la perspective de la note souveraine de l’Hexagone à «négative» ce vendredi.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
-      "title": "Dette : Standard & Poor’s abaisse la perspective de la note française à «négative»",
-      "link": "https://www.lefigaro.fr/conjoncture/dette-standard-poor-s-abaisse-la-perspective-de-la-note-francaise-a-negative-20261127",
-      "date": "Fri, 27 Nov 2026 22:26:10 +0100",
-      "description": "Tout en maintenant la note en A+, l’agence américaine signifie ainsi que l’état de nos finances publiques s’est significativement dégradé.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
       "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
       "date": "Fri, 27 Nov 2026 22:18:33 +0100",
       "description": "Vendredi, l’agence américaine a assorti d’une perspective négative la note actuelle de la dette française. Cela ouvre la voie à une possible dégradation à moyen terme. Le dérapage du déficit inquiète les investisseurs.",
       "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Dix ans après, Fillon va raconter les secrets de sa campagne cauchemar dans un livre... Les indiscrets du Figaro",
+      "link": "https://www.lefigaro.fr/politique/dix-ans-apres-fillon-va-raconter-les-secrets-de-sa-campagne-cauchemar-dans-un-livre-les-indiscrets-du-figaro-20261127",
+      "date": "Fri, 27 Nov 2026 22:18:21 +0100",
+      "description": "CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1443,14 +1475,6 @@
       "category": "France"
     },
     {
-      "title": "Mathieu Bock-Côté : « Le troisième homme, de Jean-Pierre Chevènement à David Lisnard »",
-      "link": "https://www.lefigaro.fr/vox/politique/mathieu-bock-cote-le-troisieme-homme-de-jean-pierre-chevenement-a-david-lisnard-20261127",
-      "date": "Fri, 27 Nov 2026 21:00:00 +0100",
-      "description": "CHRONIQUE - De Jean-Pierre Chevènement à Éric Zemmour, chaque présidentielle a son troisième homme, que le système parvient souvent à retourner ou à neutraliser. David Lisnard est en train de prendre cette place.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Taïwan: Chiang wan-an et Puma Shen au coude-à-coude pour la mairie de Taipei",
       "link": "https://www.rfi.fr/fr/asie-pacifique/20261127-ta%C3%AFwan-chiang-wan-an-et-puma-shen-au-coude-%C3%A0-coude-pour-la-mairie-de-taipei",
       "date": "Fri, 27 Nov 2026 20:56:37 GMT",
@@ -1483,6 +1507,14 @@
       "category": "Exploration"
     },
     {
+      "title": "Présidentielle 2027 : le plan de Marine Le Pen pour conquérir l’outre-mer",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-plan-de-marine-le-pen-pour-conquerir-l-outre-mer-20261127",
+      "date": "Fri, 27 Nov 2026 20:15:00 +0100",
+      "description": "DÉCRYPTAGE - Quelques jours avant un déplacement de Jordan Bardella aux Antilles, puis de la candidate RN à Mayotte et à La Réunion, les deux figures nationalistes ont développé leurs mesures pour l’outre-mer.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
       "title": "On ne pouvait pas abandonner si facilement. Marching bandes brouillés pour couvrir les coûts après Thanksgiving défilé réorganisé",
       "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026 20:06:31 GMT",
@@ -1507,11 +1539,11 @@
       "category": "Défense"
     },
     {
-      "title": "Massacre de Shakahola au Kenya: le gourou Mackenzie, qui affamait ses fidèles, coupable de 123 homicides",
-      "link": "https://www.rfi.fr/fr/afrique/20261127-massacre-de-shakahola-au-kenya-le-gourou-mackenzie-qui-affamait-ses-fid%C3%A8les-coupable-de-123-homicides",
-      "date": "Fri, 27 Nov 2026 19:56:57 GMT",
-      "description": "C'était le dernier jugement attendu dans l'affaire de Shakahola, du nom de cette forêt où les dépouilles d'au moins 430 personnes mortes de faim, victimes de la secte du pasteur Paul Mackenzie, avaient été découvertes en 2023. Au Kenya, le gourou a été reconnu coupable d'homicide volontaire, vendredi 27 novembre 2026 à Mombasa. Ce jugement marque la fin d'une affaire judiciaire tentaculaire.",
-      "source": "RFI",
+      "title": "L’éditorial d’Yves Thréard : «Sortir de l’impasse politique en outre-mer»",
+      "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-sortir-de-l-impasse-politique-en-outre-mer-20261127",
+      "date": "Fri, 27 Nov 2026 19:56:08 +0100",
+      "description": "Comme l’écrit Manuel Valls dans un récent livre, l’urgence commande de se pencher sur les territoires ultramarins, où il faut « tout changer pour ne rien perdre ».",
+      "source": "Le Figaro",
       "category": "France"
     },
     {
@@ -1545,14 +1577,6 @@
       "description": "La situation choquante en Iowa est une métaphore de ce qui ne va pas aux États-Unis. Il n'y a aucun moyen de le cacher : le gouvernement américain vient de faire exploser délibérément une bombe empoisonnée à l'azide de plomb sur l'état de l'Iowa quand une alternative totalement sûre était disponible. Le problème de l'Iowa était relativement simple à résoudre. Pendant des décennies, l'armée avait stocké du plomb sous terre dans une installation de munitions. Jusqu'en 2009, le gouvernement savait que le leader était",
       "source": "The Guardian",
       "category": "Environnement"
-    },
-    {
-      "title": "Salim Cevik, politiste : en Turquie, « les Kurdes ne négocient plus vraiment, ils subissent une sorte de diktat de la part du gouvernement d’Erdogan »",
-      "link": "https://www.lemonde.fr/international/article/2026/11/27/salim-cevik-politiste-en-turquie-les-kurdes-ne-negocient-plus-vraiment-ils-subissent-une-sorte-de-diktat-de-la-part-du-gouvernement-d-erdogan_6815922_3210.html",
-      "date": "Fri, 27 Nov 2026 19:30:02 +0100",
-      "description": "Dans un entretien au « Monde », le chercheur explique que la loi, votée en août, permettant le retour des combattants du PKK à la vie civile n’a pas changé le rapport de force favorable à Ankara. Affaiblis militairement et politiquement, les Kurdes n’ont que très peu de marge de manœuvre dans ces négociations, qui permettent au président turc de renforcer son pouvoir.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Le prix le plus bas jamais vu sur le Canon EOS R6 II tops certains des meilleurs Black Friday offres de caméra que nous avons vu aujourd'hui",
@@ -1611,6 +1635,14 @@
       "category": "France"
     },
     {
+      "title": "Manifestation du 28 novembre contre les violences faites aux femmes : à Paris, les associations féministes défileront dans deux cortèges distincts",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/27/lutte-contre-les-violences-faites-aux-femmes-les-associations-feministes-defileront-dans-deux-corteges-distincts-le-28-novembre-a-paris_6815914_3224.html",
+      "date": "Fri, 27 Nov 2026 18:21:10 +0100",
+      "description": "Alors que les collectifs et organisations féministes affichaient jusqu’ici un front uni lors de cette manifestation organisée chaque année, ils n’ont pu, cette fois, passer outre les divisions, notamment concernant la proposition de loi intégrale.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
       "title": "La compagnie budgétaire Norse Atlantic dépose des dossiers de faillite en Europe après n'avoir pas obtenu de financement",
       "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
       "date": "Fri, 27 Nov 2026 18:20:32 GMT",
@@ -1619,12 +1651,12 @@
       "category": "Économie"
     },
     {
-      "title": "Le pilote espagnol Marc Marquez annonce la retraite du MotoGP, quelques jours après avoir remporté le 8ème titre mondial",
-      "link": "https://www.dw.com/en/spanish-rider-marc-marquez-announces-motogp-retirement-days-after-clinching-record-8th-world-title/a-80079930?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 18:01:00 GMT",
-      "description": "Marc Marquez a pris les fans et son équipe par surprise en annonçant la course de ce week-end à Valence sera son dernier. Le jeune homme de 33 ans a remporté un record de huit titres en MotoGP, y compris ses saisons de rookie et de retraite.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
+      "title": "L'IA peut-elle cracher le chiffrement ?",
+      "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "date": "Fri, 27 Nov 2026 18:16:51 GMT",
+      "description": "Nouveaux modèles Le développement des capacités suscite des inquiétudes au sujet des risques de fuite de données dans les banques et le commerce",
+      "source": "Financial Times",
+      "category": "Économie"
     },
     {
       "title": "Zelensky critique l'amitié entre Trump et Putin dans une interview de la BBC",
@@ -1747,14 +1779,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Présidentielle 2027 : après l’élan local, David Lisnard fait une percée chez les parlementaires et engrange les ralliements",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-apres-l-elan-local-david-lisnard-fait-une-percee-chez-les-parlementaires-et-engrange-les-ralliements-20261127",
-      "date": "Fri, 27 Nov 2026 15:26:21 +0100",
-      "description": "DÉCRYPTAGE - Les Républicains, dont le champion reste officiellement Bruno Retailleau, ont toutefois décidé de ne pas sanctionner les huit députés LR qui ont déclaré soutenir le candidat Nouvelle Énergie.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Artemis III L'astronaute André Douglas visite VAB",
       "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
       "date": "Fri, 27 Nov 2026 15:01:00 +0000",
@@ -1819,14 +1843,6 @@
       "category": "Économie"
     },
     {
-      "title": "La stimulation des nerfs vagus ralentit la croissance et la propagation du cancer du pancréas",
-      "link": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "date": "Fri, 27 Nov 2026 14:00:00 +0000",
-      "description": "Un implant électrique autour de l'œsophage qui stimule le nerf vagus améliore les résultats chez les souris atteintes de cancer pancréatique en rendant leurs tumeurs plus sensibles à l'immunothérapie",
-      "source": "New Scientist",
-      "category": "Sciences"
-    },
-    {
       "title": "Une course pour sauver des drones de champ de bataille.",
       "link": "https://www.defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
       "date": "Fri, 27 Nov 2026 14:00:00 +0000",
@@ -1835,12 +1851,12 @@
       "category": "Défense"
     },
     {
-      "title": "Ralliements LR à David Lisnard : Laurent Wauquiez s’inquiète d’un risque de «division» à droite après une tribune",
-      "link": "https://www.lefigaro.fr/politique/ralliements-lr-a-lisnard-wauquiez-s-inquiete-d-un-risque-de-division-a-droite-apres-une-tribune-20261127",
-      "date": "Fri, 27 Nov 2026 13:57:40 +0100",
-      "description": "INFO LE FIGARO - Huit députés de la Droite républicaine, qu’il préside à l’Assemblée, ont officialisé jeudi leur soutien au candidat Nouvelle Énergie.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "La stimulation des nerfs vagus ralentit la croissance et la propagation du cancer du pancréas",
+      "link": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "date": "Fri, 27 Nov 2026 14:00:00 +0000",
+      "description": "Un implant électrique autour de l'œsophage qui stimule le nerf vagus améliore les résultats chez les souris atteintes de cancer pancréatique en rendant leurs tumeurs plus sensibles à l'immunothérapie",
+      "source": "New Scientist",
+      "category": "Sciences"
     },
     {
       "title": "L'Europe parie sur un véhicule blindé CV90",
@@ -1897,14 +1913,6 @@
       "description": "Les diagnostics sont en hausse, mais beaucoup au sujet de cette maladie potentiellement mortelle reste inexpliquée",
       "source": "Scientific American",
       "category": "Sciences"
-    },
-    {
-      "title": "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine-20261126",
-      "date": "Fri, 27 Nov 2026 12:58:43 +0100",
-      "description": "EXCLUSIF - Le maire de Cannes veut, en un quinquennat, refaire de la France un des pays les plus sûrs d’Europe.",
-      "source": "Le Figaro",
-      "category": "France"
     },
     {
       "title": "Les centres de données spatiales devraient-ils fonctionner sur des panneaux solaires, des réacteurs nucléaires ou les deux?",
@@ -1993,14 +2001,6 @@
       "description": "Le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026, annonce l'Insee vendredi. Avec deux trimestres négatifs consécutifs, le pays est dans une période de récession, selon l'institut statistique.",
       "source": "France 24",
       "category": "France"
-    },
-    {
-      "title": "Stocks de puces chinois encoche plus grand jamais un jour gains que Beijing signal plus large soutien du marché",
-      "link": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
-      "date": "Fri, 27 Nov 2026 10:13:44 GMT",
-      "description": "Les actions chinoises ont fortement rebondi après qu'une lecture des médias d'État intrajournaliers rares ait encouragé les investisseurs, alors que les principaux décideurs se sont engagés à soutenir la liquidité du marché.",
-      "source": "CNBC",
-      "category": "Économie"
     },
     {
       "title": "Mon rituel d'autosoin est un repas dans un restaurant chic.",
