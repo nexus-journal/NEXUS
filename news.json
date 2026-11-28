@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-28T10:59:57.528750+00:00",
-  "count": 285,
+  "updated_at": "2026-11-28T11:43:58.082761+00:00",
+  "count": 286,
   "articles": [
     {
       "title": "Les marées californiennes records provoquent des inondations importantes de routes et d'entreprises",
@@ -203,14 +203,6 @@
       "category": "Défense"
     },
     {
-      "title": "Pourquoi la preuve de l'hypothèse de Riemann est si amère",
-      "link": "https://www.scientificamerican.com/article/why-ais-proof-of-the-riemann-hypothesis-is-so-bittersweet/",
-      "date": "Wed, 25 Nov 2026 16:20:00 +0000",
-      "description": "La preuve de l'hypothèse de Riemann aurait dû être une cause de célébration pour quelqu'un qui en porte littéralement un morceau sur sa peau",
-      "source": "Scientific American",
-      "category": "Sciences"
-    },
-    {
       "title": "Réaction des médias: Qui est responsable de l'échec de la COP31?",
       "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
       "date": "Wed, 25 Nov 2026 16:09:13 +0000",
@@ -273,14 +265,6 @@
       "description": "Une superbe super lune s'est levée sur les skylines du monde entier. Les supermoons se produisent lorsque la pleine lune coïncide avec la lune se trouvant à son point le plus proche de la Terre, ce qui la rend plus grande que d'habitude. La pleine lune de novembre est également connue sous le nom de lune de castors, un nom que l'on pense jusqu'à quand les chasseurs ont traditionnellement mis des pièges pour les castors en automne pour assurer un approvisionnement de fourrure chaude pour l'hiver Continuer la lecture...",
       "source": "The Guardian",
       "category": "Sciences"
-    },
-    {
-      "title": "Huawei reconnu coupable de vol de secrets commerciaux américains mais acquitté de racket",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 10:52:09 GMT",
-      "description": "Le verdict fait suite à un procès d'un mois à New York.",
-      "source": "BBC News",
-      "category": "Technologie"
     },
     {
       "title": "À mesure que les prix des denrées alimentaires augmentent, les acheteurs se soucient-ils toujours de la durabilité?",
@@ -744,7 +728,7 @@
       "date": "Thu, 26 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 26 – Eye... Today-S APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Yeux dans [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "L'indice technologique américain est proche de s'écraser sur un marché d'ours",
@@ -803,6 +787,22 @@
       "category": "Exploration"
     },
     {
+      "title": "Un scénario à la grecque avec la dette française ? Le vice-président de la BCE n’y croit pas",
+      "link": "https://www.lefigaro.fr/conjoncture/un-scenario-a-la-grecque-avec-la-dette-francaise-le-vice-president-de-la-bce-n-y-croit-pas-20261128",
+      "date": "Sat, 28 Nov 2026 12:37:29 +0100",
+      "description": "La crise grecque en 2010 avait valu au pays une politique d’austérité drastique après plusieurs prêts internationaux.",
+      "source": "Le Figaro",
+      "category": "France"
+    },
+    {
+      "title": "A Berlin, Jean-Luc Mélenchon défend sa vision de la relation franco-allemande et répond aux accusations de germanophobie",
+      "link": "https://www.franceinfo.fr/politique/melenchon/a-berlin-jean-luc-melenchon-defend-sa-vision-de-la-relation-franco-allemande-et-repond-aux-accusations-de-germanophobie_8304450.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 28 Nov 2026 11:59:01 +0100",
+      "description": "Devant une salle comble, majoritairement composée de jeunes Français, le chef de file de La France insoumise est venu présenter son livre \"Faites mieux ! Vers une révolution citoyenne\", traduit en allemand, à quelques mois de la présidentielle.",
+      "source": "franceinfo",
+      "category": "France"
+    },
+    {
       "title": "«C’est un avertissement», réagit Roland Lescure à la perspective négative de S&P sur la dette française",
       "link": "https://www.lefigaro.fr/conjoncture/c-est-un-avertissement-reagit-roland-lescure-a-la-perspective-negative-de-s-p-sur-la-dette-francaise-20261128",
       "date": "Sat, 28 Nov 2026 11:52:06 +0100",
@@ -811,12 +811,44 @@
       "category": "France"
     },
     {
-      "title": "Deux syndicats d'Aéroports de Paris appellent à la grève le premier week-end des vacances de Noël",
-      "link": "https://www.franceinfo.fr/economie/greve/deux-syndicats-d-aeroports-de-paris-appellent-a-la-greve-le-premier-week-end-des-vacances-de-noel_8304435.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 28 Nov 2026 11:48:42 +0100",
-      "description": "La CGT et FO réclament notamment une revalorisation de 20% de l'indemnité de déplacement et de transport, l'octroi d'une prime carburant de 1 000 euros. Ils demandent également que les postes vacants soient pourvus.",
-      "source": "franceinfo",
+      "title": "Contre-sujets OpenAI Apple sur le vol présumé de secrets commerciaux",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 11:35:34 GMT",
+      "description": "Le fabricant de ChatGPT prétend que le géant de la technologie Apple a volé des secrets commerciaux par l'intermédiaire d'un ancien employé.",
+      "source": "BBC News",
+      "category": "Technologie"
+    },
+    {
+      "title": "Meilleures offres Black Friday Nintendo Switch 2 (2026) : jusqu'à 50 $ de rabais, jeux, accessoires",
+      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-28-2026/",
+      "date": "Sat, 28 Nov 2026 11:33:21 +0000",
+      "description": "Obtenez votre jeu pour moins avec ces offres Black Friday sur Nintendo Switch 2 packs et jeux officiels.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "Heurts entre opposants et participants à un banquet du « Canon français » à Biarritz",
+      "link": "https://www.liberation.fr/societe/heurts-entre-opposants-et-participants-a-un-banquet-du-canon-francais-a-biarritz-20261128_ESH6BA55X5HO7KCP3AEJNJWEAU/",
+      "date": "Sat, 28 Nov 2026 11:30:30 +0000",
+      "description": "Des syndicats, collectifs, partis politiques ou associations ont appelé à la mobilisation pour empêcher la tenue de la manifestation, cofinancée par le milliardaire ultraconservateur Pierre-Édouard Stérin.",
+      "source": "Libération",
       "category": "France"
+    },
+    {
+      "title": "Swift a vu les secrets de l'espace avant de tomber sur la Terre",
+      "link": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
+      "date": "Sat, 28 Nov 2026 11:30:00 +0000",
+      "description": "Conçu pour une mission de deux ans, l'Observatoire Neil Gehrels Swift a vu des milliers de rayons gamma éclats et d'étoiles être déchirés par des trous noirs sur 22 ans avant de brûler dans l'atmosphère terrestre.",
+      "source": "WIRED",
+      "category": "Technologie"
+    },
+    {
+      "title": "En tant qu'Espagne, que pourrait changer l'Europe?",
+      "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 28 Nov 2026 11:24:00 GMT",
+      "description": "L'Espagne vote dimanche. Une perte pour Pedro Sanchez et un déplacement vers la droite à Madrid pourraient affecter la manière dont l'un des plus grands pays de l'UE aborde la migration, la défense et la guerre à Gaza.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
     },
     {
       "title": "La note de la France menacée de dégradation : \"La faute à une politique économique qui soigne le mal par le mal\", selon Eric Coquerel",
@@ -827,12 +859,20 @@
       "category": "France"
     },
     {
-      "title": "EN DIRECT - «On arrive» : David Lisnard promet de redresser la France, entrée officiellement en récession",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jean-luc-melenchon-promet-de-ne-pas-aider-les-americains-a-faire-la-guerre-aux-chinois-20261128",
-      "date": "Sat, 28 Nov 2026 11:22:45 +0100",
-      "description": "la France est entrée en récession depuis le deuxième trimestre, et les résultats du pays ont été moins bons que prévu au troisième, selon les chiffres publiés vendredi par l’Insee, fragilisant les prévisions de croissance du gouvernement sur l’ensemble de l’année.",
-      "source": "Le Figaro",
-      "category": "France"
+      "title": "Allemagne nouvelles: le marché de l'emploi ne devrait pas se rétablir avant l'été",
+      "link": "https://www.dw.com/en/germany-news-job-market-unlikely-to-recover-before-summer/live-80084280?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "Sat, 28 Nov 2026 11:22:00 GMT",
+      "description": "Le chef de l'agence allemande pour l'emploi a déclaré que l'emploi resterait à son niveau actuel pendant un certain temps. Entre-temps, les ventes de véhicules électriques devraient dépasser 1 million l'année prochaine. DW en a plus.",
+      "source": "Deutsche Welle",
+      "category": "Monde"
+    },
+    {
+      "title": "L'explosion en Afghanistan tue 10 étudiants et blesse plus de 100 personnes, dit le fonctionnaire",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 11:18:37 GMT",
+      "description": "Un porte-parole du ministère de l'Intérieur afghan dit que l'explosion a été causée par la négligence dans un dépôt d'explosifs à proximité.",
+      "source": "BBC News",
+      "category": "Monde"
     },
     {
       "title": "Des criminels recherchés par Interpol auraient fait suspendre leur notice rouge contre des millions de dollars",
@@ -841,6 +881,30 @@
       "description": "Dans cet extrait de \"Complément d'enquête\", voici comment un système de corruption aurait permis à des fugitifs fortunés de bloquer leur avis de recherche lancé par Interpol.",
       "source": "franceinfo",
       "category": "France"
+    },
+    {
+      "title": "La semaine vue par Coco : la campagne présidentielle accélère",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-la-campagne-presidentielle-accelere-20261128_GD6GNBUXXJAM3EEI6QDXVEVG5I/",
+      "date": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "description": "L’actualité croquée par notre dessinatrice.",
+      "source": "Libération",
+      "category": "France"
+    },
+    {
+      "title": "Qu'arriverait-il à votre corps si vous ne mangeiez que de la tarte à la citrouille pendant une semaine?",
+      "link": "https://www.scientificamerican.com/article/what-would-happen-to-your-body-if-you-ate-only-pumpkin-pie-for-a-week/",
+      "date": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "description": "Après votre repas de Thanksgiving, réfléchissez à vos plans de restes",
+      "source": "Scientific American",
+      "category": "Sciences"
+    },
+    {
+      "title": "12 grains de poussière retrouvés dans l'atmosphère terrestre révèlent des secrets d'eau au bord du système solaire",
+      "link": "https://www.space.com/astronomy/solar-system/12-grains-of-dust-found-high-in-earths-atmosphere-reveal-secrets-of-water-at-the-edge-of-the-solar-system",
+      "date": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "description": "Les grains de poussière trouvés flottant dans la stratosphère de la Terre détiennent les secrets d'un type spécial d'eau lourde qui semble abondante dans le système solaire externe.",
+      "source": "Space.com",
+      "category": "Exploration"
     },
     {
       "title": "\"Le petit Grégory américain\" : on vous raconte l'histoire du meurtre non élucidé de JonBenét Ramsey, 6 ans, au cœur d'une nouvelle série Netflix",
@@ -859,12 +923,28 @@
       "category": "France"
     },
     {
+      "title": "DWP cyberincident « probablement une attaque, dit l'ancien chef de la technologie britannique",
+      "link": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+      "date": "Sat, 28 Nov 2026 10:52:00 GMT",
+      "description": "Le gouvernement a supprimé le portail des pensions et des prestations jeudi, mais a déclaré que les paiements réguliers ne seront pas affectés Un grave cyberincident qui a forcé les ministres à retirer les prestations en ligne et les services de pension a été probablement une attaque, l'ancien chef de la technologie du Royaume-Uni a déclaré. Le ministère du Travail et des Pensions a retiré plusieurs systèmes qui semblaient toujours hors ligne le samedi matin. David Knott, qui a dirigé la technologie gouvernementale jusqu'à",
+      "source": "The Guardian",
+      "category": "Technologie"
+    },
+    {
       "title": "Meilleures offres d'aspirateur de robot du vendredi noir de Roborock (2026): Jusqu'à 60% de rabais",
       "link": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-28-2026/",
       "date": "Sat, 28 Nov 2026 10:50:44 +0000",
       "description": "Quelques-uns des meilleurs aspirateurs robot que la marque a testés sont à leur meilleur prix jamais.",
       "source": "WIRED",
       "category": "Technologie"
+    },
+    {
+      "title": "Quelle est la note S&P des voisins de la France ?",
+      "link": "https://www.lefigaro.fr/conjoncture/quelle-est-la-note-s-p-des-voisins-de-la-france-20261127",
+      "date": "Sat, 28 Nov 2026 10:40:28 +0100",
+      "description": "INFOGRAPHIE – L’agence de notation américaine a abaissé la perspective de la note souveraine de l’Hexagone à «négative» ce vendredi.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "Fuite d’infos du ministère de l’Intérieur vers le RN : Ambroise de Rancourt, responsable du programme du parti, soupçonné d’être le principal destinataire",
@@ -931,14 +1011,6 @@
       "category": "France"
     },
     {
-      "title": "Sept étudiants tués et près de 100 blessés lors d'une explosion en Afghanistan, dit le fonctionnaire",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 28 Nov 2026 10:14:37 GMT",
-      "description": "Un porte-parole du ministère de l'Intérieur afghan dit que l'explosion a été causée par la négligence dans un dépôt d'explosifs à proximité.",
-      "source": "BBC News",
-      "category": "Monde"
-    },
-    {
       "title": "De Saint-Sébastien à Tokyo, la tarta de queso sort du moule",
       "link": "https://www.liberation.fr/lifestyle/gastronomie/de-saint-sebastien-a-tokyo-la-tarta-de-queso-sort-du-moule-20261128_XC2O7IL46VBK5H5URQHEDHOL7A/",
       "date": "Sat, 28 Nov 2026 10:14:00 +0000",
@@ -985,6 +1057,14 @@
       "description": "Le Canada compte sur les connaissances traditionnelles des Rangers inuits et des Premières nations pour protéger ses coins les plus inhospitaliers. Mais cette connaissance disparaît.",
       "source": "The New York Times",
       "category": "Monde"
+    },
+    {
+      "title": "Femme «traumatisée» par Sainsbury , interdiction de vol à l'étalage après l'erreur de reconnaissance faciale du personnel",
+      "link": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+      "date": "Sat, 28 Nov 2026 10:00:36 GMT",
+      "description": "Monia Inge, 58 ans, qui a un cancer terminal, escortée du supermarché après que le personnel utilisant la technologie FaceWatch l'ait mal identifiée Une femme atteinte d'un cancer terminal a été laissée traumatisée et violée après avoir été faussement accusée de vol à l'étalage et interdite de Sainsbury. Monia Inge, 58 ans, faisait du shopping avec son mari dans la succursale Walters Yard de Sainsbury, à Bromley, le 7 novembre, alors qu'elle était subitement",
+      "source": "The Guardian",
+      "category": "Technologie"
     },
     {
       "title": "Libéré d'une prison syrienne notorieuse, mais toujours piégé par sa terreur",
@@ -1035,14 +1115,6 @@
       "category": "Monde"
     },
     {
-      "title": "Maryline Paradise, dans l’enfer d’une escort",
-      "link": "https://www.liberation.fr/lifestyle/intimites/maryline-paradise-dans-lenfer-dune-escort-20261128_IOXFSAOJBRDFVEHT6CWNWTYJEA/",
-      "date": "Sat, 28 Nov 2026 09:40:00 +0000",
-      "description": "La travailleuse du sexe parisienne documente son travail dans des livres-objets qui ouvrent les vannes. Portrait d’une artiste assumant son activité, sans gloire, ni glamour.",
-      "source": "Libération",
-      "category": "France"
-    },
-    {
       "title": "Les forces gouvernementales yéménites ont frappé les positions de Houthi alors que l'ONU met en garde contre la crise de la faim",
       "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
       "date": "Sat, 28 Nov 2026 09:35:15 +0000",
@@ -1051,36 +1123,12 @@
       "category": "Monde"
     },
     {
-      "title": "J'ai trouvé les meilleures offres de streaming du vendredi noir (2026): Apple TV, Disney, HBO Max",
-      "link": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/",
-      "date": "Sat, 28 Nov 2026 09:32:04 +0000",
-      "description": "Les applications de streaming offrent leurs plus grands abonnements de l'année. Voici comment en profiter.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
       "title": "Stark dévoile Vanta 24 USV à Bolster Baltic Undersea Security",
       "link": "https://www.navalnews.com/naval-news/2026/11/stark-vanta-24-usv-baltic-undersea-security/",
       "date": "Sat, 28 Nov 2026 09:16:16 +0000",
       "description": "La société européenne de défense Stark a dévoilé la Vanta 24 USV pour aider les marines de l'OTAN à protéger les infrastructures sous-marines de la Baltique, les navires d'escorte et les flottes d'ombres. Le post Stark dévoile Vanta 24 USV à Bolster Baltic Undersea Security est apparu en premier sur Naval News .",
       "source": "Naval News",
       "category": "Défense"
-    },
-    {
-      "title": "Meilleures affaires Kindle et E-Reader Black vendredi (2026): Jusqu'à 180 $ de rabais",
-      "link": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/",
-      "date": "Sat, 28 Nov 2026 09:15:38 +0000",
-      "description": "Que vous soyez shopping pour un nouveau Kindle ou que vous cherchiez à vous libérer de l'écosystème d'Amazon, Black Friday est l'un des meilleurs moments pour acheter un nouveau lecteur électronique.",
-      "source": "WIRED",
-      "category": "Technologie"
-    },
-    {
-      "title": "Aux Etats-Unis, l’espoir d’une assurance santé universelle ravivé par la nouvelle majorité démocrate",
-      "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-lespoir-dune-assurance-sante-universelle-ravive-par-la-nouvelle-majorite-democrate-20261128_YBQLV4ECNNECTHNKSIEOKVFMZU/",
-      "date": "Sat, 28 Nov 2026 09:12:00 +0000",
-      "description": "Défendue par de nombreux candidats progressistes lors des élections de mi-mandat, la réforme du système de santé américain, le plus cher au monde, gagne du terrain. Elle semble néanmoins loin d’être acquise politiquement, à cause de l’opposition de Trump et des divisions internes des démocrates.",
-      "source": "Libération",
-      "category": "France"
     },
     {
       "title": "Les pensions et les prestations sont toujours en baisse après l'incident du cybernétique",
@@ -1123,14 +1171,6 @@
       "category": "Technologie"
     },
     {
-      "title": "Méditerranée : notre palmarès 2027 des villes où s’installer à la retraite en bord de mer",
-      "link": "https://immobilier.lefigaro.fr/article/mediterranee-notre-palmares-2027-des-villes-ou-s-installer-a-la-retraite-en-bord-de-mer-20261128",
-      "date": "Sat, 28 Nov 2026 08:00:00 +0100",
-      "description": "EXCLUSIF - Sécurité, santé, commerces, loisirs, immobilier, pollution, environnement… Le Figaro a comparé la qualité de vie dans les 87 communes françaises qui bordent la Méditerranée sur la base de 51 critères qui comptent pour les retraités. Découvrez les lauréats et consultez toutes les données.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés",
       "link": "https://www.franceinfo.fr/politique/front-national/dans-l-affaire-des-fuites-au-profit-du-rn-le-bureau-et-le-domicile-d-ambroise-de-rancourt-coordinateur-du-programme-presidentiel-du-parti-ont-ete-perquisitionnes_8304285.html#xtor=RSS-3-[lestitres]",
       "date": "Sat, 28 Nov 2026 07:29:53 +0100",
@@ -1155,6 +1195,14 @@
       "category": "France"
     },
     {
+      "title": "L'explosion dans une école de l'est de l'Afghanistan tue 7, blesse plus de 90",
+      "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+      "date": "Sat, 28 Nov 2026 06:32:37 -0500",
+      "description": "Les responsables locaux ont dit que l'explosion semblait avoir eu lieu dans un dépôt voisin pour l'extraction d'explosifs.",
+      "source": "NPR",
+      "category": "Monde"
+    },
+    {
       "title": "Les travailleurs indiens comblent les lacunes de l'Allemagne en matière de main-d'œuvre mais font face à des obstacles et à des risques",
       "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-xml-mrss",
       "date": "Sat, 28 Nov 2026 06:12:00 GMT",
@@ -1168,6 +1216,22 @@
       "date": "Sat, 28 Nov 2026 06:00:55 GMT",
       "description": "Allan vit aux États-Unis depuis onze ans. Arrêté le 15 octobre par la police de l'immigration à New York, il se trouve désormais en centre de rétention. Son épouse appelle à sa libération.",
       "source": "RFI",
+      "category": "France"
+    },
+    {
+      "title": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+      "date": "Sat, 28 Nov 2026 06:00:20 +0100",
+      "description": "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée aux circonstances de leur accident.",
+      "source": "Le Monde",
+      "category": "France"
+    },
+    {
+      "title": "Pourquoi la mobilisation lycéenne est une réponse à la rhétorique du « déclin de l’Occident »",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/28/pourquoi-la-mobilisation-lyceenne-est-une-reponse-a-la-rhetorique-du-declin-de-l-occident_6816065_3232.html",
+      "date": "Sat, 28 Nov 2026 06:00:16 +0100",
+      "description": "Une partie des médias et des politiques évoquent une jeunesse qui serait incapable de résister à la frustration, signe d’une « décivilisation ». Des scientifiques leur répondent : il s’agit plutôt d’une colère motivée par une société qui donne le sentiment aux jeunes qu’ils sont responsables de leurs échecs.",
+      "source": "Le Monde",
       "category": "France"
     },
     {
@@ -1208,7 +1272,7 @@
       "date": "Sat, 28 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 November 28 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discuter APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Apollo 17 VIP [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Les Vigilantes d'extrême droite ont enflammé la France",
@@ -1273,14 +1337,6 @@
       "description": "Les experts suggèrent que les entreprises de l'IA peuvent être assises sur ‘bombshell' qui pourrait avoir de graves conséquences pour l'information secrète Les experts et le gouverneur de la Banque d'Angleterre ont suggéré que les entreprises de l'IA de haut pourrait avoir quelque chose sous leur chapeau – une révélation de l'\"bombshell\" sur le chiffrement. Selon ce qu'il est, il pourrait avoir des conséquences majeures pour les informations secrètes du monde, et les banques et les gouvernements qui les détiennent et les transmettent. Cette",
       "source": "The Guardian",
       "category": "Technologie"
-    },
-    {
-      "title": "Plongée dans le monde des IA débridées, ces intelligences artificielles déchaînées pouvant servir des desseins illégaux",
-      "link": "https://www.lemonde.fr/pixels/article/2026/11/28/plongee-dans-le-monde-des-ia-debridees-ces-intelligences-artificielles-dechainees-pouvant-servir-des-desseins-illegaux_6816059_4408996.html",
-      "date": "Sat, 28 Nov 2026 05:00:26 +0100",
-      "description": "Accessibles en quelques clics sur Internet, les intelligences artificielles dites « ablitérées », auxquelles on a retiré les garde-fous, répondent à la plupart des questions dangereuses que leurs concurrentes commerciales repoussent. Qui les conçoit, et pour quelles raisons ?",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
@@ -1376,14 +1432,6 @@
       "date": "Sat, 28 Nov 2026 00:56:55 GMT",
       "description": "L'homme canadien, qui a plaidé coupable à 14 chefs d'accusation d'aide au suicide et de complicité de suicide plus tôt cette année, a dit qu'il était remords pour ses actions.",
       "source": "BBC News",
-      "category": "Monde"
-    },
-    {
-      "title": "L'Espagnol Sanchez lance un dernier appel aux électeurs avant les élections",
-      "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Sat, 28 Nov 2026 00:51:00 GMT",
-      "description": "Le Premier ministre espagnol Pedro Sanchez a dit aux gens de se tourner en grand nombre pour que le pays ne soit pas \"en arrière\". Les sondages suggèrent la fin de sa direction de gauche de huit ans de l'Espagne.",
-      "source": "Deutsche Welle",
       "category": "Monde"
     },
     {
@@ -1499,14 +1547,6 @@
       "category": "France"
     },
     {
-      "title": "Les États-Unis désactivent les navires dans le golfe d'Oman sous le blocus iranien",
-      "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "Fri, 27 Nov 2026 23:17:00 GMT",
-      "description": "Les États-Unis ont déclaré qu'ils continuaient de « faire respecter strictement le blocus » des ports iraniens. Pendant ce temps, le Koweït a convoqué l'ambassadeur de l'Iran pour une grève qui a tué deux techniciens italiens.",
-      "source": "Deutsche Welle",
-      "category": "Monde"
-    },
-    {
       "title": "Tous les écarts que nous voyons dans les disques protoplanétaires ne proviennent pas des planètes",
       "link": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
       "date": "Fri, 27 Nov 2026 22:54:51 +0000",
@@ -1529,6 +1569,14 @@
       "description": "GTA 6 a tiré beaucoup de trucs à exécuter sur les consoles actuelles, donc vous devez vous assurer que vous obtenez les meilleures performances disponibles.",
       "source": "Engadget",
       "category": "Technologie"
+    },
+    {
+      "title": "Dette : Standard & Poor’s abaisse la perspective de la note française à «négative»",
+      "link": "https://www.lefigaro.fr/conjoncture/dette-standard-poor-s-abaisse-la-perspective-de-la-note-francaise-a-negative-20261127",
+      "date": "Fri, 27 Nov 2026 22:26:10 +0100",
+      "description": "Tout en maintenant la note en A+, l’agence américaine signifie ainsi que l’état de nos finances publiques s’est significativement dégradé.",
+      "source": "Le Figaro",
+      "category": "France"
     },
     {
       "title": "L'inflation a des acheteurs qui cherchent de la valeur. C'est bon pour le Black Friday",
@@ -1603,14 +1651,6 @@
       "category": "Défense"
     },
     {
-      "title": "L'incident du cybercyber du DWP frappe presque tous les systèmes de retraite et de prestations hors ligne",
-      "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-      "date": "Fri, 27 Nov 2026 19:45:51 GMT",
-      "description": "Ministère du Travail et des Pensions exhorte les gens à être alertes contre les escroqueries liées aux pannes et à contacter l'assistance téléphonique avec des difficultés urgentes Dites-nous: avez-vous été affecté par l'incident du cybercyber DWP. Le gouvernement a pris son portail en retard jeudi",
-      "source": "The Guardian",
-      "category": "Technologie"
-    },
-    {
       "title": "Des puces NVIDIA restreintes ont été installées dans un centre de données chinois relié à Alice Huang",
       "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
       "date": "Fri, 27 Nov 2026 19:45:23 +0000",
@@ -1651,14 +1691,6 @@
       "category": "Sciences"
     },
     {
-      "title": "Larguer des missiles sur orbite ? 2 entreprises européennes signent un accord pour étudier l'idée",
-      "link": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
-      "date": "Fri, 27 Nov 2026 19:00:00 +0000",
-      "description": "Atmos Space Cargo pilotera sa première capsule Phoenix cargo-return sur la mission Bandwagon 3 rideshare de SpaceX, qui devrait être lancée ce printemps.",
-      "source": "Space.com",
-      "category": "Exploration"
-    },
-    {
       "title": "«Les mégapoles africaines vont exposer sept millions de personnes aux inondations d'ici 2050",
       "link": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
       "date": "Fri, 27 Nov 2026 19:00:00 +0000",
@@ -1667,20 +1699,20 @@
       "category": "Environnement"
     },
     {
+      "title": "Larguer des missiles sur orbite ? 2 entreprises européennes signent un accord pour étudier l'idée",
+      "link": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
+      "date": "Fri, 27 Nov 2026 19:00:00 +0000",
+      "description": "Atmos Space Cargo pilotera sa première capsule Phoenix cargo-return sur la mission Bandwagon 3 rideshare de SpaceX, qui devrait être lancée ce printemps.",
+      "source": "Space.com",
+      "category": "Exploration"
+    },
+    {
       "title": "J'ai capturé des images de ma toute première éclipse solaire avec l'Unistellar Equinox 2 — maintenant 20% de rabais pour le Black Friday",
       "link": "https://www.space.com/stargazing/skywatching-kit/i-captured-images-of-my-first-ever-solar-eclipse-with-the-unistellar-equinox-2-now-20-percent-off-for-black-friday",
       "date": "Fri, 27 Nov 2026 18:30:00 +0000",
       "description": "Équipé d'un eQuinox 2 et d'un filtre solaire, j'ai réussi à capturer le moment d'une vie. Cet instrument polyvalent est maintenant en vente pour le Black Friday, ainsi que le reste de la gamme de télescopes intelligents Unistellar.",
       "source": "Space.com",
       "category": "Exploration"
-    },
-    {
-      "title": "Manifestation du 28 novembre contre les violences faites aux femmes : à Paris, les associations féministes défileront dans deux cortèges distincts",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/27/lutte-contre-les-violences-faites-aux-femmes-les-associations-feministes-defileront-dans-deux-corteges-distincts-le-28-novembre-a-paris_6815914_3224.html",
-      "date": "Fri, 27 Nov 2026 18:21:10 +0100",
-      "description": "Alors que les collectifs et organisations féministes affichaient jusqu’ici un front uni lors de cette manifestation organisée chaque année, ils n’ont pu, cette fois, passer outre les divisions, notamment concernant la proposition de loi intégrale.",
-      "source": "Le Monde",
-      "category": "France"
     },
     {
       "title": "L'IA peut-elle cracher le chiffrement ?",
@@ -1729,14 +1761,6 @@
       "description": "Peut-être un peu de commerce, pour aider tous les restes de la journée de la Turquie à descendre plus facilement?",
       "source": "Ars Technica",
       "category": "Technologie"
-    },
-    {
-      "title": "Qui a renversé le W ? Pourquoi Cassiopéia ne s'assied pas",
-      "link": "https://www.space.com/stargazing/who-turned-the-w-upside-down-why-cassiopeia-wont-sit-still",
-      "date": "Fri, 27 Nov 2026 17:00:00 +0000",
-      "description": "La reine dans le ciel nocturne du nord est censé être l'une des constellations les plus faciles à reconnaître — vous cherchez juste un W. Ou est-ce un M ?",
-      "source": "Space.com",
-      "category": "Exploration"
     },
     {
       "title": "Des pirates auraient infiltré les systèmes nuageux de l'armée de l'air",
@@ -1832,7 +1856,7 @@
       "date": "Fri, 27 Nov 2026 15:01:00 +0000",
       "description": "L'astronaute de la NASA Andre Douglas, spécialiste de mission Artemis III, se trouve dans un article d'essai moteur RS-25 lors d'une visite au bâtiment d'assemblage de véhicules au Centre spatial Kennedy de la NASA, en Floride, mardi 17 novembre 2026. Pendant Artemis III, quatre moteurs RS-25 alimenteront le noyau de fusée SLS (Space Launch System) pour envoyer l'Orion [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Trois études lient le glyphosate au cancer, ce qui contredit les affirmations de Trump EPA",
@@ -1856,7 +1880,7 @@
       "date": "Fri, 27 Nov 2026 14:22:00 +0000",
       "description": "Des expériences de la NASA, y compris un système de production de cultures spatiales de première qualité, se rendront à la Station spatiale internationale à bord de la 25e mission des Services de ravitaillement commercial de Northrop Grumman. Les recherches de la Division des sciences biologiques et physiques de la NASA feront avancer la recherche qui profite à la vie sur Terre et à l'exploration future, élargissant les connaissances sur les cultures spatiales et la santé humaine. Une [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "«J'ai ressenti une course de zap à travers mon corps: que se passe-t-il quand quelqu'un est frappé par la foudre?",
@@ -1939,28 +1963,12 @@
       "category": "Sciences"
     },
     {
-      "title": "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine-20261126",
-      "date": "Fri, 27 Nov 2026 12:58:43 +0100",
-      "description": "EXCLUSIF - Le maire de Cannes veut, en un quinquennat, refaire de la France un des pays les plus sûrs d’Europe.",
-      "source": "Le Figaro",
-      "category": "France"
-    },
-    {
       "title": "Les centres de données spatiales devraient-ils fonctionner sur des panneaux solaires, des réacteurs nucléaires ou les deux?",
       "link": "https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both",
       "date": "Fri, 27 Nov 2026 12:41:18 +0000",
       "description": "Ces derniers jours, nous avons couvert une série de documents du Dr. Slava Turyshev du Laboratoire Jet Propulsion de la NASA sur les contraintes entourant l'utilisation des centres de données orbitales dans l'espace. Un qui est monté à plusieurs reprises est le poids, et les panneaux solaires utilisés pour alimenter ces centres de données contribuent une partie importante de ce poids. Alors pourquoi ne pas utiliser une autre source d'énergie ? L'énergie nucléaire dans les applications spatiales a un moment",
       "source": "Universe Today",
       "category": "Exploration"
-    },
-    {
-      "title": "Meta siffleur appelle Burnham à aller plus loin avec l'interdiction des ADN",
-      "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
-      "date": "Fri, 27 Nov 2026 12:30:08 GMT",
-      "description": "Sarah Wynn-Williams dit que les initiés de la technologie avec des préoccupations au sujet de l'IA sont réduits au silence dans le système rappelant George Orwells 1984 Le dénonciateur de Meta qui a fait des allégations au sujet de la société de médias sociaux, le traitement des adolescents a exhorté Andy Burnham à aller plus loin dans l'interdiction des accords de non-divulgation, avertissant que les initiés de la technologie avec des préoccupations au sujet du développement de l'IA doivent être protégés. Sarah Wynn-Williams, qui a été directrice de Global",
-      "source": "The Guardian",
-      "category": "Technologie"
     },
     {
       "title": "Intel a fait face à un choix : donner à Trump 10% ou faire face aux conséquences",
@@ -2120,7 +2128,7 @@
       "date": "Fri, 27 Nov 2026 05:05:00 +0000",
       "description": "APOD Science APOD APOD: 2026 Novembre 27 –... Aujourd'hui APOD Archive Submissions Index Rechercher Calendrier RSS Éducation À propos Discutez APOD Astronomie Image du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Les observateurs de la Lune [...]",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Le légendaire narval de la corne de licorne tient un remarquable secret d'ingénierie",
@@ -2136,7 +2144,7 @@
       "date": "Fri, 27 Nov 2026 05:01:00 -0500",
       "description": "Cette semaine, la célébration du 100e défilé de Thanksgiving de Macy trouve le grand magasin à un tournant. Après des années de perte de ventes, le détaillant se réimagine comme une destination de pointe.",
       "source": "NPR",
-      "category": "Monde"
+      "category": "Économie"
     },
     {
       "title": "Shiflyuch socked in",
@@ -2144,7 +2152,7 @@
       "date": "Fri, 27 Nov 2026 05:01:00 +0000",
       "description": "Une couche nuageuse encercle les flancs du volcan sur la péninsule de Kamchatka, mais laisse son sommet agité caldera en vue.",
       "source": "NASA",
-      "category": "Environnement"
+      "category": "Exploration"
     },
     {
       "title": "Les scientifiques transforment l'un des plastiques les plus difficiles à recycler en huile lubrifiante haute performance",
